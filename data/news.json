@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-02T20:01:48.468075",
+  "updated": "2025-12-02T21:08:40.599493",
   "articles": [
     {
       "source": "RSS",
@@ -7,8 +7,8 @@
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "published": "Mon, 01 Dec 2025 22:00:00 GMT",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/6b817fa90d39391b6bce73a75c54415d.png",
-      "summary": "Mirakl is pioneering \"agentic commerce,\" a revolutionary approach that empowers businesses to create personalized, AI-driven shopping experiences. This innovative vision combines data analytics, machine learning, and automation to help companies build stronger customer relationships and drive growth. By leveraging agentic commerce, businesses can stay ahead of the curve in the rapidly evolving e-commerce landscape."
+      "image": "data/images/6b817fa90d39391b6bce73a75c54415d.png",
+      "summary": "Mirakl is pioneering \"agentic commerce\", a revolutionary approach that empowers businesses to create personalized, AI-driven shopping experiences. This innovative model enables companies to connect with customers through autonomous agents, streamlining interactions and enhancing overall customer satisfaction. By leveraging AI and machine learning, Mirakl's agentic commerce vision aims to transform the e-commerce landscape."
     },
     {
       "source": "RSS",
@@ -16,8 +16,8 @@
       "title": "Funding grants for new research into AI and mental health",
       "url": "https://openai.com/index/ai-mental-health-research-grants",
       "published": "Mon, 01 Dec 2025 12:00:00 GMT",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/6ce0bc892026809c3c77bfbe74e3b37f.png",
-      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research has the potential to revolutionize mental health care by leveraging AI's capabilities to analyze complex data and provide personalized interventions. The grants will enable scientists to investigate AI-driven approaches to improve mental health outcomes and address pressing issues in the field."
+      "image": "data/images/6ce0bc892026809c3c77bfbe74e3b37f.png",
+      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and prevention. This new research has the potential to revolutionize mental health care by leveraging AI's capabilities in data analysis and pattern recognition. The grants will support studies on AI-powered tools for personalized therapy, mental health prediction, and intervention."
     },
     {
       "source": "RSS",
@@ -25,8 +25,8 @@
       "title": "OpenAI and NORAD team up to bring new magic to \u201cNORAD Tracks Santa\u201d",
       "url": "https://openai.com/index/norad-holiday-collaboration",
       "published": "Mon, 01 Dec 2025 06:00:00 GMT",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/ebb2aa85e91eaf7ab3294940055dd7f4.png",
-      "summary": "OpenAI has partnered with NORAD to enhance the \"NORAD Tracks Santa\" program, leveraging AI technology to create a more immersive and interactive experience for children. This collaboration will bring new magic to the traditional holiday program, which has been tracking Santa's journey for over 60 years. The integration of AI will enable more personalized and engaging interactions with Santa, making the experience even more special for kids worldwide."
+      "image": "data/images/ebb2aa85e91eaf7ab3294940055dd7f4.png",
+      "summary": "OpenAI has partnered with NORAD to enhance the \"NORAD Tracks Santa\" program, leveraging AI technology to create a more immersive experience for children tracking Santa's journey on Christmas Eve. This collaboration aims to bring new interactive features and personalized responses to the beloved holiday tradition. With OpenAI's AI capabilities, the program promises to deliver a more magical experience for kids worldwide."
     },
     {
       "source": "RSS",
@@ -34,8 +34,8 @@
       "title": "Accenture and OpenAI accelerate enterprise AI success",
       "url": "https://openai.com/index/accenture-partnership",
       "published": "Mon, 01 Dec 2025 05:00:00 GMT",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/2f74b3ab3fbcac66fb1c9012311426ca.png",
-      "summary": "Accenture has partnered with OpenAI to accelerate the adoption of artificial intelligence (AI) in enterprises, enabling businesses to harness the power of AI for innovation and growth. This collaboration aims to help companies develop and implement AI solutions more efficiently, driving digital transformation and improved performance. By combining Accenture's expertise with OpenAI's cutting-edge technology, businesses can unlock new opportunities and stay ahead of the curve in the rapidly evolving AI landscape."
+      "image": "data/images/2f74b3ab3fbcac66fb1c9012311426ca.png",
+      "summary": "Accenture has partnered with OpenAI to help businesses accelerate their AI adoption and drive enterprise success. This collaboration will enable companies to leverage OpenAI's innovative technologies, such as ChatGPT, to enhance their operations and customer experiences. By combining Accenture's expertise with OpenAI's AI capabilities, enterprises can unlock new opportunities for growth and innovation."
     },
     {
       "source": "RSS",
@@ -43,8 +43,53 @@
       "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
       "url": "https://openai.com/index/thrive-holdings",
       "published": "Mon, 01 Dec 2025 05:00:00 GMT",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/b551b3b65f9167fd20075012aa3fc0c1.png",
-      "summary": "OpenAI has taken an ownership stake in Thrive Holdings, aiming to accelerate the adoption of AI solutions in the enterprise sector. This strategic investment is expected to enhance Thrive's capabilities in developing and implementing AI-powered products. The partnership will likely drive innovation and growth in the enterprise AI market, expanding OpenAI's reach and influence."
+      "image": "data/images/b551b3b65f9167fd20075012aa3fc0c1.png",
+      "summary": "OpenAI has taken an ownership stake in Thrive Holdings, aiming to accelerate the adoption of AI solutions in enterprises. This partnership is expected to drive innovation and growth in the industry, enabling businesses to leverage AI capabilities more effectively. By combining forces, OpenAI and Thrive Holdings can provide more comprehensive AI solutions to enterprises, transforming the way they operate and make decisions."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "AlphaFold: Five years of impact",
+      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "published": "Tue, 25 Nov 2025 16:00:12 +0000",
+      "image": "https://lh3.googleusercontent.com/ilVw2lFf7j4sXdrcpi5lAe9Hl3ZjGXdj92fjgmtmTkIKIW69XiTfosSpaGmTqJif6_yjlQAVdMFBfxfLRMC9oYqEWFvX0lY6f9J7tMm7SNzTysGbng=w1200-h630-n-nu",
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impacts in the scientific community over the past five years, accelerating discoveries in fields like medicine and biology. Its ability to accurately predict protein structures has enabled breakthroughs in disease research and drug development. By democratizing access to protein folding predictions, AlphaFold has opened up new avenues for researchers and scientists to explore."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Revealing a key protein behind heart disease",
+      "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
+      "published": "Tue, 25 Nov 2025 15:52:51 +0000",
+      "image": "https://lh3.googleusercontent.com/RwD4LRoI4MaL8yOjRgJoH9cjv4T54vy4V7ZNnToTVaVksw4pCKyRwoz1RbCwweWxot6Q2vLEZdSk-29k79pNqutMiBrRHd6IbvKepvWQvjpWxIenFg=w1200-h630-n-nu",
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies and improved patient outcomes. By understanding the protein's function, scientists can now explore innovative ways to prevent or reverse heart disease."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "How we\u2019re bringing AI image verification to the Gemini app",
+      "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
+      "published": "Thu, 20 Nov 2025 15:13:19 +0000",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.width-1300.png",
+      "summary": "Gemini is integrating AI-powered image verification into its app, enhancing user security and trust by automatically detecting and flagging potentially fake or manipulated images. This innovation aims to combat misinformation and scams, providing a safer experience for users. By leveraging AI technology, Gemini is setting a new standard for image verification in the industry."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+      "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
+      "published": "Thu, 20 Nov 2025 15:11:14 +0000",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.width-1300.png",
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge model based on the Gemini 3 Pro Image, designed to empower developers and creators to build innovative applications. This powerful tool enables the generation of high-quality images, unlocking new possibilities for art, design, and more. With Nano Banana Pro, users can tap into the potential of AI-driven image creation and push the boundaries of what's possible."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing Nano Banana Pro",
+      "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+      "published": "Thu, 20 Nov 2025 15:05:02 +0000",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
+      "summary": "The Nano Banana Pro has been introduced, offering a compact and powerful single-board computer. This innovative device is designed to support various applications, from DIY projects to industrial automation. With its small form factor and robust features, the Nano Banana Pro is set to make a significant impact in the world of IoT and maker communities."
     },
     {
       "source": "RSS",
@@ -53,7 +98,7 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/transformers_v5/transformers-thumbnail.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to build and integrate AI models into their applications. This update empowers the AI ecosystem by providing a more accessible and flexible framework for natural language processing and other AI tasks. By streamlining model definitions, Transformers v5 accelerates innovation and adoption of AI technologies across various industries."
+      "summary": "The latest release of Transformers v5 introduces simplified model definitions, making it easier for developers to integrate AI models into their applications. This update empowers the AI ecosystem by providing a more accessible and efficient way to work with transformer-based models. With v5, developers can now focus on building innovative AI solutions rather than spending time on complex model configurations."
     },
     {
       "source": "RSS",
@@ -62,7 +107,7 @@
       "url": "https://huggingface.co/blog/flux-2",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/flux2/thumbnail.png",
-      "summary": "Diffusers has introduced FLUX-2, a new addition to its platform, which is expected to bring enhanced capabilities and improvements. FLUX-2 aims to revolutionize the way users interact with and generate content, leveraging cutting-edge technology. This update is set to have a significant impact on the creative community, offering new possibilities for artistic expression and innovation."
+      "summary": "Diffusers has introduced FLUX-2, a new addition to its platform, which is expected to bring enhanced capabilities and features. This update is likely to improve the overall performance and user experience of Diffusers. The integration of FLUX-2 may also expand the platform's potential applications and use cases."
     },
     {
       "source": "RSS",
@@ -71,7 +116,7 @@
       "url": "https://huggingface.co/blog/continuous_batching",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/continuous_batching/thumbnail.png",
-      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence models. By rebuilding batching from first principles, this method has the potential to significantly improve the speed and accuracy of AI systems. This innovation could lead to breakthroughs in areas such as natural language processing and computer vision."
+      "summary": "Researchers have introduced a novel approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. By re-examining the fundamentals of batching, this method has the potential to significantly improve the speed and scalability of AI systems. This breakthrough could lead to enhanced performance in applications such as natural language processing and computer vision."
     },
     {
       "source": "RSS",
@@ -80,7 +125,7 @@
       "url": "https://huggingface.co/blog/rapidfireai",
       "published": "Fri, 21 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/rapidfireai/thumbnail.png",
-      "summary": "RapidFire AI has introduced a groundbreaking solution that accelerates TRL fine-tuning by 20 times, significantly enhancing the efficiency of machine learning model development. This innovation enables faster and more accurate training of large language models, paving the way for improved AI applications. By streamlining the fine-tuning process, RapidFire AI's solution has the potential to revolutionize the field of natural language processing."
+      "summary": "RapidFire AI has introduced a breakthrough technology that accelerates TRL fine-tuning by 20 times, revolutionizing the field of artificial intelligence. This innovation enables faster and more efficient training of large language models, paving the way for significant advancements in AI capabilities. With RapidFire AI, developers can now fine-tune models at unprecedented speeds, unlocking new possibilities for AI applications."
     },
     {
       "source": "RSS",
@@ -89,7 +134,7 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard",
       "published": "Fri, 21 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/open-asr-leaderboard/thumbnail.png",
-      "summary": "The Open ASR Leaderboard has introduced new multilingual and long-form tracks, providing a more comprehensive evaluation of automatic speech recognition (ASR) systems. This update enables researchers to assess ASR performance across diverse languages and longer audio recordings, driving innovation in speech-to-text technology. The expanded leaderboard is expected to foster advancements in ASR accuracy and usability, particularly for global and real-world applications."
+      "summary": "The Open ASR Leaderboard has introduced new multilingual and long-form tracks, enabling researchers to test and improve automatic speech recognition (ASR) systems in diverse languages and longer audio recordings. This expansion aims to drive innovation in ASR technology, enhancing its accuracy and applicability in real-world scenarios. The updated leaderboard provides valuable insights into the latest trends and advancements in ASR research."
     },
     {
       "source": "Hacker News",
@@ -98,7 +143,7 @@
       "url": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
       "published": "2025-12-02T19:04:31",
       "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?resize=1200,800",
-      "summary": "Amazon has launched Trainium3, its third-generation AI training chip, which promises to significantly boost machine learning performance while reducing costs. This innovation is expected to enhance the capabilities of Amazon's AI services, such as Alexa and SageMaker, and accelerate the development of more complex AI models. With Trainium3, Amazon aims to solidify its position in the rapidly evolving AI landscape."
+      "summary": "Amazon has launched Trainium3, a new custom-built AI chip designed to accelerate machine learning training workloads, promising significant performance and efficiency gains. This innovation is expected to enhance the capabilities of Amazon's cloud services, particularly in areas like natural language processing and computer vision. With Trainium3, Amazon aims to stay competitive in the rapidly evolving AI hardware landscape."
     },
     {
       "source": "Hacker News",
@@ -107,7 +152,7 @@
       "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
       "published": "2025-12-02T15:00:16",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "OpenAI has reportedly declared a \"code red\" alert as Google's AI developments, particularly its Gemini model, are rapidly closing the gap with OpenAI's technology. This sudden surge by Google has raised concerns that OpenAI may lose its lead in the AI market. The increased competition is expected to drive innovation and advancements in the field of artificial intelligence."
+      "summary": "OpenAI has reportedly issued a \"code red\" alert as Google's AI developments, particularly its Gemini model, are gaining significant ground in the AI race. This sudden surge by Google has put pressure on OpenAI to accelerate its own advancements and maintain its competitive edge. The heightened competition is expected to drive innovation and advancements in the AI field."
     },
     {
       "source": "Hacker News",
@@ -116,16 +161,7 @@
       "url": "https://mistral.ai/news/mistral-3",
       "published": "2025-12-02T15:01:53",
       "image": "https://mistral.ai/img/mistral-cover.png",
-      "summary": "The Mistral 3 family of models has been released, offering a new generation of AI capabilities with improved performance and efficiency. This update is expected to enhance various applications, including natural language processing and computer vision. The Mistral 3 models promise to deliver faster and more accurate results, paving the way for innovative solutions in AI-driven industries."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign",
-      "url": "https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign",
-      "published": "2025-12-02T16:30:52",
-      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/6928c2c55001ece472486f7c_image-shady-panda.jpg",
-      "summary": "Researchers have uncovered a 7-year malware campaign, dubbed ShadyPanda, that has infected over 4.3 million browsers worldwide. The malware uses browser extensions to hijack user data and redirect searches to generate revenue. This long-running campaign highlights the persistence and sophistication of modern cyber threats, emphasizing the need for robust browser security measures."
+      "summary": "The Mistral 3 family of models has been released, offering a significant upgrade in natural language processing capabilities. This new generation of models boasts improved performance, efficiency, and versatility, enabling more accurate and informative interactions. The Mistral 3 models have the potential to revolutionize various applications, from chatbots to language translation tools, with their enhanced language understanding and generation capabilities."
     },
     {
       "source": "Hacker News",
@@ -133,8 +169,8 @@
       "title": "Apple Releases Open Weights Video Model",
       "url": "https://starflow-v.github.io",
       "published": "2025-12-02T05:10:01",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/39a026b0a4762550d6b3af60c80ef3d2.png",
-      "summary": "Apple has released Open Weights, an open-source video model that enables developers to generate high-quality videos using artificial intelligence. This innovation has the potential to revolutionize video content creation, allowing for more efficient and personalized video production. By making Open Weights available, Apple is democratizing access to advanced video generation technology, paving the way for new applications and use cases."
+      "image": "data/images/39a026b0a4762550d6b3af60c80ef3d2.png",
+      "summary": "Apple has released Open Weights, an open-source video model that allows developers to create and customize their own video generation models. This innovation enables the creation of highly realistic and context-specific videos, with potential applications in fields like entertainment, education, and advertising. By making Open Weights available, Apple is democratizing access to advanced video generation technology, empowering developers to push the boundaries of video creation."
     },
     {
       "source": "Hacker News",
@@ -143,7 +179,7 @@
       "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
       "published": "2025-12-02T03:23:10",
       "image": "https://pdr-assets.b-cdn.net/features/countdown/2026/2026-opengraph.jpg",
-      "summary": "In 2026, works published in 1925 will enter the public domain, making classic films, music, and literature from that year freely available for use and adaptation. This includes notable works like F. Scott Fitzgerald's \"The Great Gatsby\" and Virginia Woolf's \"Mrs. Dalloway\". The public domain expansion will enable new creative projects and innovations to build upon these iconic works."
+      "summary": "In 2026, works published in 1925 will enter the public domain, making classic films, music, and literature from that year freely available for use and adaptation. This includes iconic works like F. Scott Fitzgerald's \"The Great Gatsby\" and Virginia Woolf's \"Mrs. Dalloway\". The public domain expansion will enable new creative interpretations and innovations, driving cultural and artistic growth."
     }
   ]
 }
