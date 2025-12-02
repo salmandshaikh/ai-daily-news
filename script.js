@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('data/news.json')
+    // Add cache busting timestamp
+    fetch(`data/news.json?t=${new Date().getTime()}`)
         .then(response => response.json())
         .then(data => {
             renderNews(data);
