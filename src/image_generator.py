@@ -64,14 +64,14 @@ def generate_article_image(title, summary="", force=False):
     
     try:
         # 1. Try to fetch a relevant image from the web
-        # Clean up title for better search results
-        search_query = f"{title} technology news"
+        # Clean up title for better search results and enforce style
+        search_query = f"{title} news photography -cartoon -illustration -3d -render"
         image_url = fetch_image_from_web(search_query)
         
         # 2. Fallback to Unsplash if web search fails
         if not image_url:
-            keywords = extract_keywords(title)
-            image_url = get_unsplash_image(keywords)
+            # Use title for hash to ensure variety even if keywords are same
+            image_url = get_unsplash_image(title)
         
         if image_url:
             # Download and cache
@@ -109,21 +109,45 @@ def extract_keywords(title):
     # Default tech theme
     return 'technology innovation'
 
-def get_unsplash_image(keywords):
-    """Get a relevant image from Unsplash based on keywords"""
-    # Curated AI/tech themed images from Unsplash
+def get_unsplash_image(seed_text):
+    """Get a relevant image from Unsplash based on a seed string (e.g. title)"""
+    # Curated high-quality professional tech images from Unsplash
+    # Categories: Server rooms, corporate offices, chips/hardware, coding, business
     tech_images = [
-        "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",  # AI chip
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=450&fit=crop",  # AI brain
-        "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=450&fit=crop",  # Code/data
-        "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=450&fit=crop",  # Server/tech
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",  # Abstract tech
-        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=450&fit=crop",  # Robot/AI
-        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=450&fit=crop",  # Tech workspace
+        # Chips / Hardware
+        "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?w=800&h=450&fit=crop",  # Motherboard macro
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",  # Chip circuit
+        "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&h=450&fit=crop",  # CPU close up
+        
+        # Server Rooms / Datacenters
+        "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=450&fit=crop",  # Server rack
+        "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&h=450&fit=crop",  # Datacenter aisle
+        "https://images.unsplash.com/photo-1563770095-39d468f95742?w=800&h=450&fit=crop",  # Server lights
+        
+        # Coding / Screens
+        "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=450&fit=crop",  # Coding on monitor
+        "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=450&fit=crop",  # Code screen
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",  # Laptop coding
+        
+        # Office / Professional
+        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",  # Modern office
+        "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800&h=450&fit=crop",  # Office desk
+        "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&h=450&fit=crop",  # Meeting room
+        
+        # Abstract Tech / AI
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",  # Network nodes
+        "https://images.unsplash.com/photo-1509023464722-18d996393ca8?w=800&h=450&fit=crop",  # Digital connections
+        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",  # Matrix code
+        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=450&fit=crop",  # Robot arm/lab
+        
+        # Business / News
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",  # News reading
+        "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&h=450&fit=crop",  # Business handshake
     ]
     
-    # Rotate through images based on keyword hash
-    index = hash(keywords) % len(tech_images)
+    # Rotate through images based on seed hash
+    # Using a large prime number for better distribution
+    index = int(hashlib.md5(seed_text.encode()).hexdigest(), 16) % len(tech_images)
     return tech_images[index]
 
 def ensure_article_has_image(article):
