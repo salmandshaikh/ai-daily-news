@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-02T08:02:00.837477",
+  "updated": "2025-12-02T12:01:51.285283",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/mirakl",
       "published": "Mon, 01 Dec 2025 22:00:00 GMT",
       "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/c0129ff455b3f8152a8f46e837a79dfe.png",
-      "summary": "Mirakl is pioneering \"Agent Commerce\", a revolutionary concept that leverages AI-powered agents to transform the e-commerce experience. These agents will enable personalized shopping, automated customer support, and streamlined supply chain management, redefining the way businesses interact with customers. By harnessing the power of AI, Mirakl aims to create a more efficient, intuitive, and customer-centric commerce ecosystem."
+      "summary": "Mirakl, a leading e-commerce platform, has unveiled its Agent Commerce vision, which leverages AI-powered agents to revolutionize online shopping experiences. This innovative approach enables personalized product recommendations, streamlined customer support, and enhanced merchant services. By harnessing the power of AI agents, Mirakl aims to transform the e-commerce landscape and drive business growth for its partners."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/ai-mental-health-research-grants",
       "published": "Mon, 01 Dec 2025 12:00:00 GMT",
       "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/6ce0bc892026809c3c77bfbe74e3b37f.png",
-      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research has the potential to revolutionize mental health care by leveraging AI's ability to analyze complex data and provide personalized interventions. The grants will enable scientists to investigate AI-driven approaches to improve mental well-being and address pressing issues in the field."
+      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research has the potential to revolutionize mental health care by leveraging AI's capabilities to analyze complex data and provide personalized interventions. The grants will enable scientists to investigate AI-driven approaches to improve mental health outcomes and address pressing issues in the field."
     },
     {
       "source": "RSS",
@@ -26,16 +26,7 @@
       "url": "https://openai.com/index/norad-holiday-collaboration",
       "published": "Mon, 01 Dec 2025 06:00:00 GMT",
       "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/ebb2aa85e91eaf7ab3294940055dd7f4.png",
-      "summary": "OpenAI has partnered with the North American Aerospace Defense Command (NORAD) to enhance the \"NORAD Tracks Santa\" program, leveraging AI technology to bring a more interactive and immersive experience to children tracking Santa's journey on Christmas Eve. This collaboration aims to make the traditional holiday program more engaging and fun for kids worldwide. With OpenAI's innovative solutions, the program is expected to deliver a more magical and memorable experience."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Accenture and OpenAI accelerate enterprise AI success",
-      "url": "https://openai.com/index/accenture-partnership",
-      "published": "Mon, 01 Dec 2025 05:00:00 GMT",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/2f74b3ab3fbcac66fb1c9012311426ca.png",
-      "summary": "Accenture has partnered with OpenAI to help businesses accelerate their AI adoption and drive innovation. This collaboration aims to enable enterprises to harness the power of AI and achieve tangible results, from improved operational efficiency to enhanced customer experiences. By combining Accenture's industry expertise with OpenAI's cutting-edge technology, companies can unlock new opportunities for growth and transformation."
+      "summary": "OpenAI has partnered with NORAD to enhance the \"NORAD Tracks Santa\" program, leveraging AI technology to create a more interactive and immersive experience for children tracking Santa's journey on Christmas Eve. This collaboration aims to bring new magic to the beloved tradition, which has been a holiday staple for over 60 years. With OpenAI's innovative technology, the program promises to deliver a more engaging and personalized experience for kids worldwide."
     },
     {
       "source": "RSS",
@@ -44,7 +35,16 @@
       "url": "https://openai.com/index/thrive-holdings",
       "published": "Mon, 01 Dec 2025 05:00:00 GMT",
       "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/b551b3b65f9167fd20075012aa3fc0c1.png",
-      "summary": "OpenAI has taken an ownership stake in Thrive Holdings, a company that helps businesses implement AI solutions, to accelerate the adoption of enterprise AI. This partnership aims to simplify the integration of AI technologies into existing business systems, driving innovation and efficiency. By joining forces, OpenAI and Thrive Holdings can empower more companies to harness the power of AI and transform their operations."
+      "summary": "OpenAI has taken an ownership stake in Thrive Holdings, a company that helps businesses implement AI solutions, to accelerate the adoption of enterprise AI. This partnership aims to make AI more accessible and integrated into daily business operations, driving innovation and efficiency. By combining forces, OpenAI and Thrive Holdings can empower more companies to harness the power of AI and drive digital transformation."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Accenture and OpenAI accelerate enterprise AI success",
+      "url": "https://openai.com/index/accenture-partnership",
+      "published": "Mon, 01 Dec 2025 05:00:00 GMT",
+      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/2f74b3ab3fbcac66fb1c9012311426ca.png",
+      "summary": "Accenture has partnered with OpenAI to help businesses accelerate their AI adoption and drive innovation. This collaboration aims to enable enterprises to harness the power of AI and achieve tangible results, from improving operational efficiency to enhancing customer experiences. By combining Accenture's industry expertise with OpenAI's cutting-edge technology, companies can unlock new opportunities for growth and transformation."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/transformers_v5/transformers-thumbnail.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to integrate AI models into their applications. This update empowers the AI ecosystem by providing a more streamlined and accessible way to work with transformer models. By simplifying model definitions, Transformers v5 is poised to accelerate AI innovation and adoption across various industries."
+      "summary": "The latest release of Transformers v5 introduces simplified model definitions, making it easier for developers to integrate and customize AI models. This update has the potential to accelerate innovation in the AI ecosystem by reducing complexity and increasing accessibility. With v5, developers can more efficiently build and deploy AI-powered applications, driving advancements in natural language processing and beyond."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://huggingface.co/blog/flux-2",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/flux2/thumbnail.png",
-      "summary": "Diffusers has introduced FLUX-2, a significant update that enhances the capabilities of its AI-powered diffusion models. This new integration is expected to improve the quality and efficiency of image and data processing tasks. With FLUX-2, users can anticipate more accurate and detailed results from their diffusion-based applications."
+      "summary": "Diffusers has introduced FLUX-2, a new model that promises to revolutionize text-to-image synthesis. This innovative technology enables more efficient and higher-quality image generation, opening up new possibilities for creative applications. With FLUX-2, users can expect improved performance and more realistic results in image creation tasks."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://huggingface.co/blog/continuous_batching",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/continuous_batching/thumbnail.png",
-      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. This method, derived from first principles, aims to optimize batch processing and reduce latency, leading to improved performance and faster inference times. By rethinking the fundamentals of batching, this innovation has the potential to accelerate AI and ML workloads."
+      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. This method, developed from first principles, has the potential to significantly improve the performance and scalability of AI systems. By optimizing data batching, this innovation could lead to breakthroughs in areas like natural language processing and computer vision."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://huggingface.co/blog/rapidfireai",
       "published": "Fri, 21 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/rapidfireai/thumbnail.png",
-      "summary": "RapidFire AI has introduced a breakthrough technology that accelerates TRL (Transfer, Robustness, and Loss) fine-tuning by 20 times, enabling faster and more efficient model training. This innovation has the potential to revolutionize AI development by significantly reducing training times and increasing model accuracy. With RapidFire AI, researchers and developers can now fine-tune large language models at unprecedented speeds, opening up new possibilities for AI applications."
+      "summary": "RapidFire AI has introduced a breakthrough technology that accelerates TRL (Transfer, Relax, and Learn) fine-tuning by 20 times, significantly reducing training time and increasing model efficiency. This innovation has the potential to revolutionize AI model development, enabling faster and more accurate deployment of AI applications. With RapidFire AI, developers can now fine-tune complex models in a fraction of the time, paving the way for widespread adoption of AI technologies."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard",
       "published": "Fri, 21 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/open-asr-leaderboard/thumbnail.png",
-      "summary": "The Open ASR Leaderboard has introduced new multilingual and long-form tracks, enabling researchers to evaluate and improve automatic speech recognition (ASR) systems in diverse languages and longer audio recordings. This expansion provides valuable insights into ASR trends and advancements, driving innovation in voice technology. The updated leaderboard is expected to foster further breakthroughs in multilingual and long-form speech recognition capabilities."
+      "summary": "The Open ASR Leaderboard has introduced new multilingual and long-form tracks, enabling researchers to evaluate and improve automatic speech recognition (ASR) systems in more diverse and challenging scenarios. This expansion allows for more accurate speech recognition in various languages and longer audio recordings, paving the way for enhanced voice assistants and transcription tools. The updated leaderboard provides valuable insights into the latest ASR trends and innovations, driving progress in the field."
     },
     {
       "source": "Hacker News",
@@ -98,16 +98,7 @@
       "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
       "published": "2025-12-02T03:23:10",
       "image": "https://pdr-assets.b-cdn.net/features/countdown/2026/2026-opengraph.jpg",
-      "summary": "In 2026, works published in 1925 will enter the public domain, making classic literature, music, and films from that year freely accessible and usable without copyright restrictions. This includes notable works like F. Scott Fitzgerald's \"The Great Gatsby\" and Virginia Woolf's \"Mrs. Dalloway\". The public domain expansion will enable new creative adaptations, interpretations, and innovations based on these iconic works."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-      "published": "2025-12-01T15:48:03",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/880a02efc9f5614beffb1b76f258f01c.png",
-      "summary": "Researchers have released DeepSeek-v3.2, a cutting-edge open large language model that pushes the boundaries of natural language processing. This innovative model boasts improved performance and efficiency, making it a significant advancement in the field of AI. With its open-source availability, DeepSeek-v3.2 has the potential to accelerate progress in areas like language translation, text summarization, and conversational AI."
+      "summary": "In 2026, works published in 1925 will enter the public domain, making classic literature, music, and films from that year freely available for use and adaptation. This includes notable works like F. Scott Fitzgerald's \"The Great Gatsby\" and Virginia Woolf's \"Mrs. Dalloway\". The public domain expansion will enable new creative interpretations and accessibility of these cultural icons."
     },
     {
       "source": "Hacker News",
@@ -116,16 +107,34 @@
       "url": "https://starflow-v.github.io",
       "published": "2025-12-02T05:10:01",
       "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/39a026b0a4762550d6b3af60c80ef3d2.png",
-      "summary": "Apple has released its Open Weights video model, a significant advancement in AI-powered video processing that allows for more efficient and accurate video analysis. This open-source model enables developers to build upon and improve video understanding capabilities, with potential applications in areas like video editing and content moderation. By making this technology available, Apple is driving innovation in the field of computer vision and AI-powered video processing."
+      "summary": "Apple has released Open Weights, an open-source video model that enables developers to generate high-quality videos using AI. This innovation has the potential to revolutionize video creation, making it more accessible and efficient for a wide range of applications. By sharing Open Weights, Apple is democratizing access to advanced video generation technology, paving the way for new creative possibilities."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Arcee Trinity Mini: US-Trained Moe Model",
-      "url": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
-      "published": "2025-12-02T00:31:01",
-      "image": "https://cdn.prod.website-files.com/68d12bf17c9c2b9864d5218e/692ddfbb288542f2f0330c8e_Manifesto.png",
-      "summary": "The Arcee Trinity Mini is a new, US-trained moe model that generates anime-style characters, marking a significant advancement in AI-generated art. This model is notable for being trained on a Western dataset, differing from existing models that rely on Japanese datasets. The Arcee Trinity Mini has the potential to create more diverse and culturally nuanced anime-style characters."
+      "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
+      "published": "2025-12-01T15:48:03",
+      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/880a02efc9f5614beffb1b76f258f01c.png",
+      "summary": "DeepSeek-v3.2 is a new open-source large language model that pushes the boundaries of AI capabilities, offering improved performance and efficiency. This model has the potential to accelerate advancements in natural language processing and generation. With its open-source nature, DeepSeek-v3.2 enables developers to build upon and refine the technology, driving further innovation in the field."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
+      "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
+      "published": "2025-12-02T07:46:47",
+      "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
+      "summary": "Brian Eno's groundbreaking album \"Ambient 1: Music for Airports\" revolutionized the music industry by introducing a new genre of calming, atmospheric soundscapes. Released in 1978, the album was designed to create a peaceful atmosphere in public spaces, such as airports, and has since become a iconic example of ambient music. Eno's innovative approach to sound design and composition paved the way for a new wave of experimental and electronic music."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Invisible details of interaction design (2023)",
+      "url": "https://rauno.me/craft/interaction-design",
+      "published": "2025-11-26T10:24:56",
+      "image": "https://rauno.me/static/craft/og-interaction-design2.png",
+      "summary": "The article \"Invisible details of interaction design\" highlights the often-overlooked aspects of user experience, such as loading animations and error messages, that can greatly impact how users interact with digital products. By focusing on these subtle details, designers can create more seamless and intuitive experiences. This attention to detail can make a significant difference in user satisfaction and overall product success."
     },
     {
       "source": "Hacker News",
@@ -134,16 +143,16 @@
       "url": "https://stratechery.com/2025/google-nvidia-and-openai/",
       "published": "2025-12-01T15:18:42",
       "image": "https://stratechery.com/wp-content/uploads/2025/12/moat-1.png",
-      "summary": "Google, Nvidia, and OpenAI are making significant advancements in AI technology, with Google focusing on large language models, Nvidia developing powerful GPUs to support AI processing, and OpenAI pushing the boundaries of natural language understanding. These innovations are poised to revolutionize industries such as healthcare, finance, and education. As a result, we can expect to see more intelligent and automated systems that transform the way we live and work."
+      "summary": "Google, Nvidia, and OpenAI are collaborating on a cutting-edge AI project, leveraging their collective expertise to drive innovation in the field. This partnership is expected to accelerate advancements in AI research and development, with potential applications in areas like natural language processing and computer vision. The collaboration could lead to significant breakthroughs, further solidifying the companies' positions at the forefront of AI technology."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI agents find $4.6M in blockchain smart contract exploits",
-      "url": "https://red.anthropic.com/2025/smart-contracts/",
-      "published": "2025-12-01T23:44:51",
-      "image": "/home/runner/work/ai-daily-news/ai-daily-news/data/images/a79e48f10aa67eb55da63f2a1ee0dde4.png",
-      "summary": "AI-powered agents have discovered $4.6 million in potential exploits in blockchain smart contracts, highlighting the effectiveness of artificial intelligence in identifying vulnerabilities. This breakthrough demonstrates the potential for AI to improve blockchain security and prevent financial losses. By leveraging AI, developers can proactively identify and fix exploits, enhancing the overall security of decentralized networks."
+      "title": "Arcee Trinity Mini: US-Trained Moe Model",
+      "url": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
+      "published": "2025-12-02T00:31:01",
+      "image": "https://cdn.prod.website-files.com/68d12bf17c9c2b9864d5218e/692ddfbb288542f2f0330c8e_Manifesto.png",
+      "summary": "The Arcee Trinity Mini is a new AI model trained on US data, offering a moe (anime-style) character generator with impressive results. This model allows users to create custom anime-style characters with detailed features and expressions. With its US-trained dataset, the Arcee Trinity Mini brings a unique twist to the world of AI-generated art."
     }
   ]
 }
