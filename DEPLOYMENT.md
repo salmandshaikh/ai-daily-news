@@ -45,10 +45,17 @@ https://YOUR_USERNAME.github.io/ai-daily-news/
 ```
 
 ## Automatic Updates
-The workflow is scheduled to run daily at 12:00 UTC. It will:
-1. Fetch and summarize new AI news
-2. Update `data/news.json`
-3. Redeploy the site to GitHub Pages
+The workflow is scheduled to run **every 4 hours**. It will:
+1. Fetch and summarize new AI news from multiple sources
+2. Extract or generate relevant images for each article
+3. Update `data/news.json` with the latest content
+4. Redeploy the site to GitHub Pages
+
+### Features
+- **4-hour refresh cycle**: Ensures news is always current
+- **Smart image extraction**: Automatically extracts Open Graph and Twitter card images
+- **AI-powered fallback**: Generates relevant images for articles without images
+- **100+ articles**: Processes up to 100 articles per update for comprehensive coverage
 
 ## Troubleshooting
 - If the workflow fails, check the Actions logs for errors

@@ -2,7 +2,8 @@ name: Daily AI News Update
 
 on:
   schedule:
-    - cron: '0 12 * * *' # Runs at 12:00 UTC every day
+    - cron: '0 */4 * * *' # Runs every 4 hours
+
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -30,12 +31,18 @@ jobs:
         GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       run: python src/main.py
+      continue-on-error: false
       
     - name: Prepare deployment
       run: |
         mkdir -p _site
         cp -r public/* _site/
         cp -r data _site/
+        # Include generated images if they exist
+        if [ -d "data/images" ]; then
+          mkdir -p _site/data/images
+          cp -r data/images/* _site/data/images/ || true
+        fi
         
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
@@ -43,3 +50,5 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
         publish_branch: gh-pages
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'

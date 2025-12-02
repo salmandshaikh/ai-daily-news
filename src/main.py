@@ -7,6 +7,7 @@ load_dotenv()
 import datetime
 from scrapers import get_rss_news, get_hacker_news, get_reddit_news, get_arxiv_papers
 from summarizer import summarize_content
+from image_generator import ensure_article_has_image
 
 def main():
     print("Starting AI Daily News aggregation...")
@@ -44,36 +45,31 @@ def main():
             seen_urls.add(item['url'])
             unique_news.append(item)
             
-    print(f"Unique items: {len(unique_news)}. Summarizing (this may take a while)...")
+    print(f"Unique items: {len(unique_news)}. Processing up to 100 articles...")
     
-    # Summarize top 10 items to save API costs/time for demo, or all if production
-    # For this implementation, let's limit to top 15 most interesting looking ones or just first 15
-    # In a real app, we might score them. Here we just take the first 15 mixed from sources.
+    # Process more articles for a richer news feed
+    # Limit to 100 to balance comprehensiveness with API costs
+    articles_to_process = min(100, len(unique_news))
     
     final_news = []
-    for i, item in enumerate(unique_news[:50]):
-        print(f"Summarizing {i+1}/15: {item['title']}")
-        # We pass the title and maybe a snippet if we had it. 
-        # Since we only have title/url mostly, we'll ask the LLM to summarize based on title/context 
-        # OR we would need to scrape the content. 
-        # For MVP, we'll ask LLM to "Explain why this might be important based on the title" 
-        # or if we can, we fetch the page content. 
-        # Fetching page content is heavy. Let's stick to title-based "Why it matters" or just clean up the title.
-        # WAIT: The user wants a "Summarization script". 
-        # Ideally we fetch the content. Let's try to fetch text content for better summaries.
+    for i, item in enumerate(unique_news[:articles_to_process]):
+        print(f"Processing {i+1}/{articles_to_process}: {item['title']}")
         
         try:
-            # Simple content fetch for context (timeout short)
-            # This is risky without a headless browser for some sites, but okay for MVP
-            # If it fails, we fall back to title.
-            content_context = f"Title: {item['title']}\nSource: {item['source']}"
+            # Ensure article has an image
+            item = ensure_article_has_image(item)
             
+            # Generate summary
+            content_context = f"Title: {item['title']}\nSource: {item['source']}"
             summary = summarize_content(content_context)
             item['summary'] = summary
             final_news.append(item)
+            
         except Exception as e:
-            print(f"Failed to summarize {item['title']}: {e}")
+            print(f"Failed to process {item['title']}: {e}")
+            # Still add the article with basic info
             item['summary'] = "Summary unavailable."
+            item = ensure_article_has_image(item)  # Ensure image even on error
             final_news.append(item)
             
     # Save to data/news.json
