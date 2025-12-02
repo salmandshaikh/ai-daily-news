@@ -99,6 +99,20 @@ body {
     }
 }
 
+.hero-image {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.hero-image img {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    display: block;
+}
+
 .hero-content h2 {
     font-size: 32px;
     font-weight: 700;
@@ -150,8 +164,22 @@ body {
 
 .news-card {
     border-bottom: 1px solid transparent;
-    /* Placeholder for alignment */
     padding-bottom: 16px;
+}
+
+.card-image {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.card-image img {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+    display: block;
 }
 
 .news-card:hover h3 a {

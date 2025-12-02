@@ -24,9 +24,15 @@ function renderNews(data) {
 
     heroSection.innerHTML = `
         <div class="hero-card">
+            ${heroArticle.image && heroArticle.image.trim() !== '' ? `<div class="hero-image">
+                <img src="${heroArticle.image}" 
+                     alt="${heroArticle.title}" 
+                     loading="lazy"
+                     onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop';">
+            </div>` : ''}
             <div class="hero-content">
-                <h2><a href="${heroArticle.url}" target="_blank">${heroArticle.title}</a></h2>
-                <p>${heroArticle.summary}</p>
+                <h2><a href="${heroArticle.url}" target="_blank" rel="noopener noreferrer">${heroArticle.title}</a></h2>
+                <p>${heroArticle.summary || 'No summary available.'}</p>
                 <div class="meta-info">
                     <span class="meta-tag">Top Story</span>
                     <span class="meta-source">${heroArticle.source_name || heroArticle.source}</span>
@@ -47,8 +53,14 @@ function renderNews(data) {
         card.className = 'news-card';
 
         card.innerHTML = `
-            <h3><a href="${article.url}" target="_blank">${article.title}</a></h3>
-            <p>${article.summary}</p>
+            ${article.image && article.image.trim() !== '' ? `<div class="card-image">
+                <img src="${article.image}" 
+                     alt="${article.title}" 
+                     loading="lazy"
+                     onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop';">
+            </div>` : ''}
+            <h3><a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a></h3>
+            <p>${article.summary || 'No summary available.'}</p>
             <div class="meta-info">
                 <span class="meta-tag">${article.source}</span>
                 <span class="meta-source">${article.source_name || ''}</span>
