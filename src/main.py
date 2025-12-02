@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import datetime
+import time
 from scrapers import get_rss_news, get_hacker_news, get_reddit_news, get_arxiv_papers
 from summarizer import summarize_content
 from image_generator import ensure_article_has_image
@@ -71,6 +72,9 @@ def main():
             item['summary'] = "Summary unavailable."
             item = ensure_article_has_image(item)  # Ensure image even on error
             final_news.append(item)
+            
+        # Add delay to avoid rate limits on image fetching
+        time.sleep(2)
             
     # Save to data/news.json
     output_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'news.json')

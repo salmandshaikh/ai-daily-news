@@ -2,6 +2,9 @@ import os
 import requests
 import hashlib
 from pathlib import Path
+from duckduckgo_search import DDGS
+import time
+import random
 
 def generate_image_prompt(title, summary=""):
     """Generate a descriptive prompt for image generation based on article content"""
@@ -21,9 +24,28 @@ def get_cache_path(article_title):
     title_hash = hashlib.md5(article_title.encode()).hexdigest()
     return cache_dir / f"{title_hash}.png"
 
+def fetch_image_from_web(query):
+    """Fetch an image URL using DuckDuckGo"""
+    try:
+        with DDGS() as ddgs:
+            # Search for images
+            results = list(ddgs.images(
+                query,
+                max_results=1,
+                safesearch='on',
+                size='Medium',
+                type_image='photo'
+            ))
+            
+            if results and len(results) > 0:
+                return results[0]['image']
+    except Exception as e:
+        print(f"Error fetching image for '{query}': {e}")
+    return None
+
 def generate_article_image(title, summary="", force=False):
     """
-    Generate an AI image for an article or return cached version
+    Fetch a real-world image for an article or return cached version
     
     Args:
         title: Article title
@@ -31,37 +53,43 @@ def generate_article_image(title, summary="", force=False):
         force: Force regeneration even if cached
         
     Returns:
-        Path to generated image or None if generation fails
+        Relative path to generated image or None if generation fails
     """
     cache_path = get_cache_path(title)
     
-    # Return cached image if exists
+    # Return cached image if exists (as relative path)
     if cache_path.exists() and not force:
-        return str(cache_path)
+        # Convert to relative path for web usage
+        return f"data/images/{cache_path.name}"
     
     try:
-        # Note: This would require an image generation API
-        # For now, we'll use a placeholder approach
-        # In production, you could use:
-        # - OpenAI DALL-E
-        # - Stability AI
-        # - Replicate
-        # - etc.
+        # 1. Try to fetch a relevant image from the web
+        # Clean up title for better search results
+        search_query = f"{title} technology news"
+        image_url = fetch_image_from_web(search_query)
         
-        # Fallback: Use a curated set of Unsplash images based on keywords
-        keywords = extract_keywords(title)
-        image_url = get_unsplash_image(keywords)
+        # 2. Fallback to Unsplash if web search fails
+        if not image_url:
+            keywords = extract_keywords(title)
+            image_url = get_unsplash_image(keywords)
         
         if image_url:
             # Download and cache
-            response = requests.get(image_url, timeout=10)
+            # Add a user agent to avoid being blocked
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
+            response = requests.get(image_url, headers=headers, timeout=15)
             if response.status_code == 200:
                 with open(cache_path, 'wb') as f:
                     f.write(response.content)
-                return str(cache_path)
+                # Return relative path for web usage
+                return f"data/images/{cache_path.name}"
+            else:
+                print(f"Failed to download image from {image_url}: Status {response.status_code}")
                 
     except Exception as e:
-        print(f"Image generation failed for '{title}': {e}")
+        print(f"Image fetching failed for '{title}': {e}")
     
     return None
 
