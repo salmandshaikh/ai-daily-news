@@ -74,7 +74,7 @@ def get_rss_news(feed_urls):
                     'title': entry.title,
                     'url': entry.link,
                     'published': entry.get('published', datetime.datetime.now().isoformat()),
-                    'image': extract_image(entry.link)
+                    'image': ""  # Let image_generator handle all images for consistency
                 })
         except Exception as e:
             print(f"Error fetching RSS {url}: {e}")
