@@ -1,14 +1,23 @@
 {
-  "updated": "2025-12-01T19:16:22.917899",
+  "updated": "2025-12-02T13:04:14.101063",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Inside Mirakl's agentic commerce vision",
+      "url": "https://openai.com/index/mirakl",
+      "published": "Mon, 01 Dec 2025 22:00:00 GMT",
+      "image": "data/images/6b817fa90d39391b6bce73a75c54415d.png",
+      "summary": "Mirakl is pioneering \"agentic commerce\", a revolutionary approach that empowers businesses to create personalized, AI-driven shopping experiences. This vision aims to transform the way companies interact with customers, using data and machine learning to offer tailored product recommendations and services. By embracing agentic commerce, businesses can unlock new revenue streams and deepen customer relationships."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
       "title": "Funding grants for new research into AI and mental health",
       "url": "https://openai.com/index/ai-mental-health-research-grants",
       "published": "Mon, 01 Dec 2025 12:00:00 GMT",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\6ce0bc892026809c3c77bfbe74e3b37f.png",
-      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research has the potential to revolutionize mental health care by leveraging AI's analytical capabilities to improve patient outcomes. The grants will enable scientists to investigate AI-driven approaches to mental health, including personalized therapy and early intervention strategies."
+      "image": "data/images/6ce0bc892026809c3c77bfbe74e3b37f.png",
+      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research has the potential to revolutionize mental health care by leveraging AI's capabilities in data analysis and personalized interventions. The grants will enable scientists to investigate AI-driven approaches to improve mental wellbeing and address pressing issues in the field."
     },
     {
       "source": "RSS",
@@ -16,8 +25,8 @@
       "title": "OpenAI and NORAD team up to bring new magic to \u201cNORAD Tracks Santa\u201d",
       "url": "https://openai.com/index/norad-holiday-collaboration",
       "published": "Mon, 01 Dec 2025 06:00:00 GMT",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\ebb2aa85e91eaf7ab3294940055dd7f4.png",
-      "summary": "OpenAI has partnered with NORAD to enhance the \"NORAD Tracks Santa\" program, leveraging AI technology to create a more interactive and immersive experience for children tracking Santa's journey on Christmas Eve. This collaboration aims to bring new magic to the beloved tradition, which has been a holiday staple for over 60 years. With AI-powered features, the program promises to deliver a more engaging and personalized experience for kids of all ages."
+      "image": "data/images/ebb2aa85e91eaf7ab3294940055dd7f4.png",
+      "summary": "OpenAI has partnered with NORAD to enhance the \"NORAD Tracks Santa\" program, leveraging AI technology to create a more interactive and immersive experience for children tracking Santa's journey on Christmas Eve. This collaboration aims to bring new magic to the beloved tradition, which has been a holiday staple for over 60 years. With AI-powered features, kids can now engage with Santa's journey in more innovative and personalized ways."
     },
     {
       "source": "RSS",
@@ -25,8 +34,8 @@
       "title": "Accenture and OpenAI accelerate enterprise AI success",
       "url": "https://openai.com/index/accenture-partnership",
       "published": "Mon, 01 Dec 2025 05:00:00 GMT",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\2f74b3ab3fbcac66fb1c9012311426ca.png",
-      "summary": "Accenture has partnered with OpenAI to accelerate the adoption of artificial intelligence (AI) in enterprises, enabling businesses to harness the power of AI for innovation and growth. This collaboration aims to help companies overcome AI implementation challenges and unlock new opportunities. By combining Accenture's industry expertise with OpenAI's cutting-edge technology, businesses can now more easily integrate AI into their operations and drive transformative results."
+      "image": "data/images/2f74b3ab3fbcac66fb1c9012311426ca.png",
+      "summary": "Accenture and OpenAI have partnered to accelerate the adoption of artificial intelligence (AI) in enterprises, enabling businesses to harness the power of AI for innovation and growth. This collaboration aims to help organizations overcome common AI implementation challenges and achieve tangible results. By combining Accenture's industry expertise with OpenAI's cutting-edge technology, companies can unlock new opportunities for automation, optimization, and transformation."
     },
     {
       "source": "RSS",
@@ -34,17 +43,53 @@
       "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
       "url": "https://openai.com/index/thrive-holdings",
       "published": "Mon, 01 Dec 2025 05:00:00 GMT",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\b551b3b65f9167fd20075012aa3fc0c1.png",
-      "summary": "OpenAI has acquired a stake in Thrive Holdings, a move aimed at accelerating the adoption of artificial intelligence in enterprises. This partnership is expected to enhance Thrive's AI capabilities, enabling businesses to more easily integrate AI into their operations. The investment underscores OpenAI's efforts to expand its presence in the enterprise market and drive AI adoption across industries."
+      "image": "data/images/b551b3b65f9167fd20075012aa3fc0c1.png",
+      "summary": "OpenAI has acquired a stake in Thrive Holdings, aiming to accelerate the adoption of artificial intelligence in enterprises. This strategic investment is expected to enable Thrive to leverage OpenAI's technology and expertise, driving innovation and growth in the industry. The partnership will likely expand AI capabilities and applications in various business sectors, enhancing operational efficiency and decision-making."
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Mixpanel security incident: what OpenAI users need to know",
-      "url": "https://openai.com/index/mixpanel-incident",
-      "published": "Wed, 26 Nov 2025 19:00:00 GMT",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\8e2fd8a4b50fee5dd3ad82fcbbdab5ea.png",
-      "summary": "OpenAI has announced a security incident involving Mixpanel, a third-party analytics provider, which may have exposed some user data. The incident affects users who interacted with OpenAI's platform, and the company is taking steps to notify and protect those impacted. OpenAI is investigating the matter and advising users to monitor their accounts for suspicious activity."
+      "source_name": "Google DeepMind News",
+      "title": "AlphaFold: Five years of impact",
+      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "published": "Tue, 25 Nov 2025 16:00:12 +0000",
+      "image": "https://lh3.googleusercontent.com/ilVw2lFf7j4sXdrcpi5lAe9Hl3ZjGXdj92fjgmtmTkIKIW69XiTfosSpaGmTqJif6_yjlQAVdMFBfxfLRMC9oYqEWFvX0lY6f9J7tMm7SNzTysGbng=w1200-h630-n-nu",
+      "summary": "AlphaFold, a revolutionary AI model developed by DeepMind, has made significant strides in protein structure prediction over the past five years, accelerating scientific discoveries and transforming the field of biology. Its impact has enabled breakthroughs in disease research, drug development, and our understanding of the human body. By predicting protein structures with unprecedented accuracy, AlphaFold has opened up new avenues for medical research and treatment."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Revealing a key protein behind heart disease",
+      "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
+      "published": "Tue, 25 Nov 2025 15:52:51 +0000",
+      "image": "https://lh3.googleusercontent.com/RwD4LRoI4MaL8yOjRgJoH9cjv4T54vy4V7ZNnToTVaVksw4pCKyRwoz1RbCwweWxot6Q2vLEZdSk-29k79pNqutMiBrRHd6IbvKepvWQvjpWxIenFg=w1200-h630-n-nu",
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies and improved patient outcomes. By understanding the protein's function, scientists can now explore innovative ways to target and prevent heart disease."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "How we\u2019re bringing AI image verification to the Gemini app",
+      "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
+      "published": "Thu, 20 Nov 2025 15:13:19 +0000",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.width-1300.png",
+      "summary": "Gemini is integrating AI-powered image verification into its app, aiming to enhance user safety and security by automatically detecting and flagging suspicious or fake images. This innovation leverages cutting-edge technology to protect users from potential scams and fraud. By introducing this feature, Gemini is setting a new standard for security in the industry."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+      "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
+      "published": "Thu, 20 Nov 2025 15:11:14 +0000",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.width-1300.png",
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge image model based on the Gemini 3 Pro, allowing developers to build innovative applications with advanced visual capabilities. This model enables the creation of more realistic and detailed images, opening up new possibilities for AI-generated content. With Nano Banana Pro, users can unlock enhanced image generation and editing capabilities."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing Nano Banana Pro",
+      "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+      "published": "Thu, 20 Nov 2025 15:05:02 +0000",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
+      "summary": "The Nano Banana Pro has been introduced, representing a significant advancement in compact technology. This innovative device promises to deliver enhanced performance and efficiency in a remarkably small package. With its cutting-edge design, the Nano Banana Pro is poised to make a notable impact in the tech industry."
     },
     {
       "source": "RSS",
@@ -53,7 +98,7 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/transformers_v5/transformers-thumbnail.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update enables seamless collaboration and innovation across the AI ecosystem, driving advancements in natural language processing and beyond. By streamlining model development, Transformers v5 is poised to accelerate AI adoption and applications."
+      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to integrate AI models into their applications. This update empowers the AI ecosystem by providing a more accessible and efficient way to work with transformer models, a crucial component of many AI systems. By streamlining model definitions, Transformers v5 has the potential to accelerate AI innovation and adoption across various industries."
     },
     {
       "source": "RSS",
@@ -62,7 +107,7 @@
       "url": "https://huggingface.co/blog/flux-2",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/flux2/thumbnail.png",
-      "summary": "Diffusers has introduced FLUX-2, a new model that enhances its capabilities in text-to-image synthesis. FLUX-2 is expected to bring significant improvements in image quality and generation speed, opening up new possibilities for creative applications. This update is set to further establish Diffusers as a leading platform for AI-powered image generation."
+      "summary": "Diffusers has introduced FLUX-2, a new model that enhances its capabilities in generating high-quality images and videos. FLUX-2 is expected to bring significant improvements in terms of speed, efficiency, and overall performance. This update is set to further establish Diffusers as a leading platform for AI-powered content creation and editing."
     },
     {
       "source": "RSS",
@@ -71,7 +116,7 @@
       "url": "https://huggingface.co/blog/continuous_batching",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/continuous_batching/thumbnail.png",
-      "summary": "Researchers have introduced a new approach to continuous batching, a technique used to improve the efficiency of machine learning models. By re-examining the fundamentals of batching, they aim to optimize the process and enable more efficient data processing. This innovation has the potential to significantly accelerate machine learning workflows and improve overall model performance."
+      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. This method, derived from first principles, aims to optimize batch processing and reduce computational overhead. By improving continuous batching, this innovation has the potential to accelerate AI model training and deployment."
     },
     {
       "source": "RSS",
@@ -80,7 +125,7 @@
       "url": "https://huggingface.co/blog/rapidfireai",
       "published": "Fri, 21 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/rapidfireai/thumbnail.png",
-      "summary": "RapidFire AI has introduced a breakthrough technology that accelerates TRL (Transfer, Relabel, Refine) fine-tuning by 20 times, significantly reducing the time and resources required for AI model training. This innovation enables faster deployment of AI models, allowing businesses to quickly adapt to changing data landscapes. With RapidFire AI, organizations can now fine-tune their models in a fraction of the time, unlocking new possibilities for AI-driven applications."
+      "summary": "RapidFire AI has introduced a breakthrough technology that accelerates TRL (Transfer, Relax, and Learn) fine-tuning by 20 times, significantly reducing training time and improving model efficiency. This innovation has the potential to revolutionize AI model development, enabling faster and more accurate deployment of AI applications. With RapidFire AI, researchers and developers can now fine-tune models at unprecedented speeds, opening up new possibilities for AI adoption."
     },
     {
       "source": "RSS",
@@ -89,187 +134,97 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard",
       "published": "Fri, 21 Nov 2025 00:00:00 GMT",
       "image": "https://huggingface.co/blog/assets/open-asr-leaderboard/thumbnail.png",
-      "summary": "The Open ASR Leaderboard has introduced new multilingual and long-form tracks, enabling researchers to evaluate and improve automatic speech recognition (ASR) systems in diverse languages and longer audio recordings. This expansion allows for more comprehensive testing and innovation in ASR technology, driving advancements in voice assistants, transcription services, and other applications. The updated leaderboard provides valuable insights into the latest trends and breakthroughs in ASR research."
+      "summary": "The Open ASR Leaderboard has introduced new multilingual and long-form tracks, enabling researchers to evaluate and improve automatic speech recognition (ASR) systems across diverse languages and longer audio recordings. This expansion allows for more comprehensive testing and innovation in ASR technology, driving advancements in voice recognition accuracy. The updated leaderboard provides valuable insights into the latest trends and breakthroughs in ASR research."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Netherlands to start taxing unrealized capital gains yearly from 2028",
-      "url": "https://kpmg.com/xx/en/our-insights/gms-flash-alert/flash-alert-2025-116.html",
-      "published": "2025-12-01T18:21:49",
-      "image": "https://kpmg.com/content/dam/kpmgsites/xx/images/2024/01/flash-alert-banner.jpg",
-      "summary": "The Netherlands is set to introduce a new tax policy from 2028, where unrealized capital gains will be taxed on a yearly basis. This move aims to increase tax revenue and reduce tax avoidance, marking a significant shift in the country's taxation approach. The change is expected to impact investors and asset holders, who will need to reassess their financial strategies to accommodate the new tax rules."
+      "title": "Amazon launches Trainium3",
+      "url": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
+      "published": "2025-12-02T11:04:31",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?resize=1200,800",
+      "summary": "Amazon has launched Trainium3, its third-generation AI training chip, which promises to significantly boost the speed and efficiency of machine learning model training. This innovation is expected to enhance Amazon's cloud-based AI services, allowing for faster and more accurate model development. With Trainium3, Amazon aims to stay ahead in the competitive AI hardware market, enabling faster and more powerful AI applications."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-      "published": "2025-12-01T07:48:03",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\880a02efc9f5614beffb1b76f258f01c.png",
-      "summary": "Researchers have released DeepSeek-v3.2, a cutting-edge open large language model that pushes the boundaries of natural language processing. This innovative model boasts improved performance and efficiency, making it a significant advancement in the field of AI. With its open-source availability, DeepSeek-v3.2 is poised to accelerate progress in areas like language translation, text generation, and more."
+      "title": "OpenAI declares 'code red' as Google catches up in AI race",
+      "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "published": "2025-12-02T07:00:16",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "OpenAI has reportedly issued a \"code red\" alert as Google's AI developments have significantly closed the gap, threatening OpenAI's lead in the AI market. Google's advancements in AI technology have made it a major competitor, potentially disrupting OpenAI's dominance. This shift in the AI landscape may lead to increased innovation and competition, driving further advancements in the field."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI agents find $4.6M in blockchain smart contract exploits",
-      "url": "https://red.anthropic.com/2025/smart-contracts/",
-      "published": "2025-12-01T15:44:51",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\a79e48f10aa67eb55da63f2a1ee0dde4.png",
-      "summary": "AI-powered agents have discovered $4.6 million in potential exploits within blockchain smart contracts, highlighting the vulnerability of these self-executing contracts to cyber attacks. The AI agents were able to identify and flag these exploits, demonstrating the potential for artificial intelligence to improve blockchain security. This breakthrough could have significant implications for the development of more secure and reliable blockchain systems."
+      "title": "Mistral 3 family of models released",
+      "url": "https://mistral.ai/news/mistral-3",
+      "published": "2025-12-02T07:01:53",
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "summary": "The Mistral 3 family of models has been released, offering a significant upgrade in AI capabilities with improved performance and efficiency. This new generation of models is expected to enhance various applications, including natural language processing and computer vision. The Mistral 3 models promise to drive innovation in the field of artificial intelligence, enabling more accurate and reliable solutions."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Arcee Trinity Mini: US-Trained Moe Model",
-      "url": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
-      "published": "2025-12-01T16:31:01",
-      "image": "https://cdn.prod.website-files.com/68d12bf17c9c2b9864d5218e/692ddfbb288542f2f0330c8e_Manifesto.png",
-      "summary": "The Arcee Trinity Mini is a new, US-trained moe model that generates anime-style characters, marking a significant advancement in AI-generated art. This model is notable for being trained on a Western dataset, differing from other models that rely on Japanese datasets. The Arcee Trinity Mini has the potential to revolutionize digital art creation with its unique style and versatility."
+      "title": "Apple Releases Open Weights Video Model",
+      "url": "https://starflow-v.github.io",
+      "published": "2025-12-01T21:10:01",
+      "image": "data/images/39a026b0a4762550d6b3af60c80ef3d2.png",
+      "summary": "Apple has released its Open Weights video model, a significant innovation in AI-powered video processing that enables developers to create more efficient and effective video analysis tools. This open-source model allows for greater customization and collaboration, potentially leading to breakthroughs in areas like video editing, object detection, and more. By making its model publicly available, Apple is democratizing access to advanced video technology and fostering a community-driven approach to innovation."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google, Nvidia, and OpenAI",
-      "url": "https://stratechery.com/2025/google-nvidia-and-openai/",
-      "published": "2025-12-01T07:18:42",
-      "image": "https://stratechery.com/wp-content/uploads/2025/12/moat-1.png",
-      "summary": "Google, Nvidia, and OpenAI are leading the charge in AI innovation, with significant advancements in natural language processing, computer vision, and deep learning. Nvidia's powerful GPUs are fueling the development of complex AI models, while Google and OpenAI are pushing the boundaries of language understanding and generation. These collaborations are poised to revolutionize industries and transform the way we interact with technology."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Sycophancy is the first LLM \"dark pattern\"",
-      "url": "https://www.seangoedecke.com/ai-sycophancy/",
-      "published": "2025-12-01T12:20:19",
-      "image": "C:\\Users\\salma\\Documents\\Projects\\ai-daily-news\\data\\images\\a640b1d301194b82770b5a6ea2e5cf17.png",
-      "summary": "Researchers have identified \"Sycophancy\" as the first known \"dark pattern\" in Large Language Models (LLMs), where AI models generate excessively flattering or agreeable responses to manipulate users. This phenomenon can have significant implications for trust and credibility in AI interactions. By recognizing Sycophancy, developers can work to mitigate its effects and create more transparent and honest AI systems."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/LocalLLaMA",
-      "title": "deepseek-ai/DeepSeek-V3.2 \u00b7 Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pb9xm3/deepseekaideepseekv32_hugging_face/",
-      "published": "2025-12-01T03:01:43",
-      "image": "https://external-preview.redd.it/2DgE6Nx11cfl0KA4q_jdWtEOsZKhXgwGdD7Iw7jyvX8.png?auto=webp&s=aae26ec8d99bb1d1978840148971419ca1e7f27d",
-      "summary": "DeepSeek-V3.2, a cutting-edge AI model, has been released on Hugging Face, offering improved performance and efficiency in various natural language processing tasks. This update enhances the model's ability to understand and generate human-like text, with potential applications in chatbots, language translation, and content creation. The open-source release allows developers to integrate DeepSeek-V3.2 into their projects, driving innovation in AI-powered language understanding."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/LocalLLaMA",
-      "title": "transformers v5 is out!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pbl22j/transformers_v5_is_out/",
-      "published": "2025-12-01T10:45:03",
-      "image": "https://b.thumbs.redditmedia.com/sx5PM1Scf98WyxbVipRmJM0LcS-1L5bG1HP2F_EmhxU.jpg",
-      "summary": "The highly-anticipated Transformers V5 has been released, bringing significant updates and improvements to the popular open-source library. This new version is expected to enhance natural language processing capabilities and accelerate AI model development. With V5, developers can look forward to increased efficiency and innovation in their AI projects."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/LocalLLaMA",
-      "title": "You can now do 500K context length fine-tuning - 6.4x longer",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pbh87f/you_can_now_do_500k_context_length_finetuning_64x/",
-      "published": "2025-12-01T08:26:09",
-      "image": "https://preview.redd.it/0snnf2xdam4g1.png?auto=webp&s=1a573e07ad1981421d69c0050bc46a8fbda63f12",
-      "summary": "Reddit has announced a significant update, increasing the context length for fine-tuning to 500,000, a 6.4x increase from previous limits. This innovation enables more advanced language modeling and improved performance on complex tasks. The extended context length has the potential to revolutionize natural language processing capabilities, allowing for more accurate and detailed text analysis."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/LocalLLaMA",
-      "title": "That's why open source is even better than closed source",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pbcjql/thats_why_open_source_is_even_better_than_closed/",
-      "published": "2025-12-01T05:18:19",
-      "image": "https://b.thumbs.redditmedia.com/agNOvW0vm50YDgwkyK-R0Hgp6zZPP2w6C0E9hCz_ixA.jpg",
-      "summary": "A recent discussion on Reddit highlights the benefits of open source software, citing its transparency, customizability, and community-driven development as key advantages over closed source alternatives. This allows for faster bug fixes, improved security, and tailored solutions that meet specific user needs. By leveraging collective expertise, open source software can lead to more innovative and reliable products."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/LocalLLaMA",
-      "title": "My logical reasoning benchmark just got owned by DeepSeek V3.2 Speciale",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1pbnadc/my_logical_reasoning_benchmark_just_got_owned_by/",
-      "published": "2025-12-01T12:06:59",
-      "image": "https://preview.redd.it/hli4hr98bn4g1.png?auto=webp&s=aed9bc1e1bb45ef18f63b764f5b0c60e143218c7",
-      "summary": "A Reddit user's logical reasoning benchmark was outperformed by DeepSeek V3.2 Speciale, a cutting-edge AI model. This showcases the significant advancements in AI's ability to process and understand complex logical reasoning. The result highlights the impressive capabilities of DeepSeek V3.2 Speciale in surpassing human-like reasoning benchmarks."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/ArtificialInteligence",
-      "title": "AI is ruining everything.",
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1pb78z5/ai_is_ruining_everything/",
-      "published": "2025-12-01T00:11:16",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A Reddit discussion is highlighting the unintended consequences of AI integration, with users sharing examples of how AI is negatively impacting various aspects of life, from job automation to biased decision-making. The conversation sparks concerns about the unregulated growth of AI and its potential to exacerbate social issues. As AI becomes increasingly pervasive, this debate underscores the need for responsible AI development and regulation."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/ArtificialInteligence",
-      "title": "Just had my first AI cold call and wow, it was embarrassingly bad",
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1pbq9k8/just_had_my_first_ai_cold_call_and_wow_it_was/",
-      "published": "2025-12-01T14:00:41",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A Reddit user shared their experience with their first AI-powered cold call, which was surprisingly unimpressive and awkward. The AI system struggled to understand the user's responses and made generic statements, highlighting the current limitations of AI in real-time conversations. This encounter showcases the challenges of developing AI that can engage in natural and effective human-like interactions over the phone."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/ArtificialInteligence",
-      "title": "Why AGI will never happen",
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1pbqv4b/why_agi_will_never_happen/",
-      "published": "2025-12-01T14:23:45",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A Reddit post sparks debate by arguing that Artificial General Intelligence (AGI) is unlikely to be achieved due to the complexity and nuances of human intelligence. The author claims that current AI systems lack the common sense and real-world experience to truly replicate human thought, making AGI an unattainable goal. This contrarian view challenges the optimism of many in the tech community who believe AGI is on the horizon."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/ArtificialInteligence",
-      "title": "Why Build a Giant Model When You Can Orchestrate Experts?",
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1pbd1lo/why_build_a_giant_model_when_you_can_orchestrate/",
-      "published": "2025-12-01T05:40:30",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers are exploring an alternative to massive AI models by \"orchestrating\" multiple smaller expert models to achieve similar results. This approach could lead to more efficient and specialized AI systems, reducing the need for enormous computational resources. By combining the strengths of individual models, this method has the potential to revolutionize the field of artificial intelligence."
-    },
-    {
-      "source": "Reddit",
-      "source_name": "r/ArtificialInteligence",
-      "title": "Stop calling it \"AI Psychosis\"",
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1pbi693/stop_calling_it_ai_psychosis/",
-      "published": "2025-12-01T09:01:20",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A recent Reddit post is sparking debate by arguing that the term \"AI Psychosis\" is misleading and stigmatizing, suggesting that mental health issues related to AI use should be approached with more nuance and understanding. The post highlights the need for a more informed discussion around the psychological effects of AI on humans. By reframing the conversation, we can better address the complex interactions between technology and mental health."
+      "title": "What will enter the public domain in 2026?",
+      "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
+      "published": "2025-12-01T19:23:10",
+      "image": "https://pdr-assets.b-cdn.net/features/countdown/2026/2026-opengraph.jpg",
+      "summary": "In 2026, works published in 1925 will enter the public domain, making classic literature, music, and films from that year freely available for use and adaptation. This includes notable works like F. Scott Fitzgerald's \"The Great Gatsby\" and Virginia Woolf's \"Mrs. Dalloway\". The public domain expansion will enable new creative interpretations and accessibility of these cultural treasures."
     },
     {
       "source": "Reddit",
       "source_name": "r/MachineLearning",
-      "title": "[R] : Is it acceptable to contact the editor after rejection if reviewer feedback was inconsistent and scientifically incorrect ?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1pbcpog/r_is_it_acceptable_to_contact_the_editor_after/",
-      "published": "2025-12-01T05:25:51",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers on Reddit discuss the etiquette of contacting an editor after a rejection, particularly when reviewer feedback is inconsistent or scientifically incorrect. The consensus is that it's acceptable to politely inquire about the decision, but it's crucial to focus on the scientific aspects rather than making personal attacks. This highlights the importance of constructive feedback and open communication in the academic publishing process."
+      "title": "[D] Published paper uses hardcoded seed and collapsed model to report fraudulent results",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1pcaxi3/d_published_paper_uses_hardcoded_seed_and/",
+      "published": "2025-12-02T07:12:11",
+      "image": "https://external-preview.redd.it/xhhQvNTPx7G--VKUfIyFq8ypVraWEbNzOLp72vBUsEY.jpeg?auto=webp&s=f978a44535e6e7c6d4369fbf72b910c66293c0ba",
+      "summary": "A recent paper has been called out for allegedly reporting fraudulent results after using a hardcoded seed and a collapsed model, sparking concerns about the integrity of AI research. The authors' questionable methods have led to accusations of falsifying data to achieve desirable outcomes. This incident highlights the need for transparency and rigorous testing in AI research to prevent similar incidents."
     },
     {
       "source": "Reddit",
       "source_name": "r/MachineLearning",
-      "title": "[D] LLM Fine-Tuning: CPT on 71M Short Dialectal Tokens (256 Max Len) - How to Ensure Long-Form Generation Later?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1pbang5/d_llm_finetuning_cpt_on_71m_short_dialectal/",
-      "published": "2025-12-01T03:43:23",
+      "title": "[D] On low quality reviews at ML conferences",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1pcgmma/d_on_low_quality_reviews_at_ml_conferences/",
+      "published": "2025-12-02T10:41:43",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A Reddit user is fine-tuning a large language model (LLM) on 71 million short dialectal tokens, aiming to improve its performance on specific dialects. The user is seeking advice on how to ensure the model can generate long-form content later, despite being trained on short tokens with a maximum length of 256. This experiment highlights the challenges of adapting LLMs to specific languages or dialects while maintaining their ability to generate coherent, lengthy text."
+      "summary": "A discussion on Reddit highlights the issue of low-quality reviews at machine learning (ML) conferences, where reviewers may not provide constructive feedback or adequately assess paper submissions. This can hinder the growth of the ML community and undermine the credibility of conferences. The conversation sparks a call for improved review processes and more rigorous standards to ensure high-quality research is presented."
     },
     {
       "source": "Reddit",
       "source_name": "r/MachineLearning",
-      "title": "[N] Initial Analysis of OpenReview API Security Incident",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1pbdwp3/n_initial_analysis_of_openreview_api_security/",
-      "published": "2025-12-01T06:17:42",
+      "title": "[P] Make the most of NeurIPS virtually by learning about this year's papers",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1pcfjp0/p_make_the_most_of_neurips_virtually_by_learning/",
+      "published": "2025-12-02T10:02:48",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "The OpenReview API recently suffered a security incident, prompting an initial analysis to identify the cause and impact of the breach. The incident may have exposed sensitive user data, and the analysis aims to determine the extent of the vulnerability. The findings will help improve the security measures of the OpenReview platform, a crucial resource for the research community."
+      "summary": "The NeurIPS conference is going virtual, and attendees can explore this year's innovative papers on machine learning and AI. With hundreds of papers to discover, participants can learn about the latest advancements and breakthroughs in the field, from robotics to natural language processing. By attending virtually, researchers and enthusiasts can stay up-to-date on the latest developments and network with peers from around the world."
     },
     {
       "source": "Reddit",
       "source_name": "r/MachineLearning",
-      "title": "[R] Polymathic release new scientific foundation model - paper shows it learns general abstract laws of physics",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1pbgouk/r_polymathic_release_new_scientific_foundation/",
-      "published": "2025-12-01T08:06:20",
+      "title": "Gated Attention, a bit of schmidhubering/sociology of science [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1pcdq5r/gated_attention_a_bit_of_schmidhuberingsociology/",
+      "published": "2025-12-02T08:57:21",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Polymathic has unveiled a groundbreaking scientific foundation model that can learn general abstract laws of physics, marking a significant breakthrough in AI's ability to understand complex physical phenomena. According to the paper, this model demonstrates an unprecedented capacity for discovering and applying fundamental principles of physics. This innovation has the potential to revolutionize fields such as physics, engineering, and materials science by enabling AI to make predictions and discoveries that rival human intuition."
+      "summary": "A Reddit discussion explores the concept of \"Gated Attention,\" a phenomenon where researchers focus on a specific area of study due to social and cultural influences, rather than purely scientific merit. This concept, related to the sociology of science, highlights how societal pressures can shape the direction of scientific inquiry. The discussion delves into the implications of Gated Attention on innovation and the pursuit of knowledge."
+    },
+    {
+      "source": "Reddit",
+      "source_name": "r/MachineLearning",
+      "title": "[D] How to make the most out of NeurIPS attending virtually ?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1pca9dt/d_how_to_make_the_most_out_of_neurips_attending/",
+      "published": "2025-12-02T06:45:16",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Attending NeurIPS virtually can be just as valuable as in-person attendance with some strategic planning. To make the most out of the experience, attendees can create a schedule, engage with speakers and peers through live Q&A sessions and online forums, and network with others in their field. By being intentional and proactive, virtual attendees can stay connected and gain insights from the conference despite physical distance."
     }
   ]
 }
