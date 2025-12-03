@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-03T12:02:47.686894",
+  "updated": "2025-12-03T16:03:20.274324",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Announcing the initial People-First AI Fund grantees",
+      "url": "https://openai.com/index/people-first-ai-fund-grantees",
+      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "image": "data/images/02fd52dd9c6fc78766d33c49d7e332ee.png",
+      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and ethics in artificial intelligence development. These grants aim to promote responsible AI innovation, fostering a more equitable and transparent tech ecosystem. By backing people-centric AI initiatives, the fund seeks to drive positive social impact and mitigate potential risks associated with AI advancement."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/mirakl",
       "published": "Mon, 01 Dec 2025 22:00:00 GMT",
       "image": "data/images/6b817fa90d39391b6bce73a75c54415d.png",
-      "summary": "Mirakl, a leading e-commerce platform, is pioneering \"agentic commerce,\" a vision that empowers businesses to create personalized, autonomous, and adaptive shopping experiences. This innovative approach leverages AI and machine learning to enable real-time decision-making and foster deeper customer connections. By embracing agentic commerce, companies can stay ahead of the curve and revolutionize the way they interact with customers."
+      "summary": "Mirakl, a leading e-commerce platform, is pioneering \"agentic commerce,\" a revolutionary approach that empowers businesses to create personalized, AI-driven shopping experiences. This innovative vision enables companies to leverage data and machine learning to anticipate customer needs and provide tailored product recommendations. By doing so, Mirakl aims to transform the e-commerce landscape and redefine the way businesses interact with their customers."
     },
     {
       "source": "RSS",
@@ -17,7 +26,7 @@
       "url": "https://openai.com/index/ai-mental-health-research-grants",
       "published": "Mon, 01 Dec 2025 12:00:00 GMT",
       "image": "data/images/6ce0bc892026809c3c77bfbe74e3b37f.png",
-      "summary": "The government has announced funding grants for new research into the intersection of AI and mental health, aiming to harness AI's potential to improve mental health diagnosis, treatment, and support. This initiative could lead to breakthroughs in personalized mental health care and more effective interventions. By leveraging AI, researchers hope to enhance our understanding of mental health and develop innovative solutions to address growing mental health concerns."
+      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research has the potential to revolutionize mental health care by leveraging AI's capabilities in data analysis and personalized interventions. The grants will enable scientists to investigate AI-powered tools and therapies, ultimately improving mental health outcomes and access to care."
     },
     {
       "source": "RSS",
@@ -26,16 +35,7 @@
       "url": "https://openai.com/index/norad-holiday-collaboration",
       "published": "Mon, 01 Dec 2025 06:00:00 GMT",
       "image": "data/images/ebb2aa85e91eaf7ab3294940055dd7f4.png",
-      "summary": "OpenAI has partnered with NORAD to enhance the \"NORAD Tracks Santa\" program, leveraging AI technology to create a more interactive and immersive experience for children tracking Santa's journey on Christmas Eve. This collaboration aims to bring new magic to the beloved holiday tradition, which has been a staple for over 60 years. With OpenAI's innovative solutions, the program is expected to deliver a more engaging and personalized experience for kids worldwide."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Accenture and OpenAI accelerate enterprise AI success",
-      "url": "https://openai.com/index/accenture-partnership",
-      "published": "Mon, 01 Dec 2025 05:00:00 GMT",
-      "image": "data/images/2f74b3ab3fbcac66fb1c9012311426ca.png",
-      "summary": "Accenture has partnered with OpenAI to help businesses accelerate their AI adoption and drive enterprise success. This collaboration aims to enable companies to harness the power of AI and achieve tangible results through customized solutions. By combining Accenture's expertise with OpenAI's innovative technology, organizations can unlock new opportunities for growth and innovation."
+      "summary": "OpenAI has partnered with NORAD to bring AI-powered magic to the annual \"NORAD Tracks Santa\" event, enhancing the experience with interactive features and personalized responses. This collaboration aims to make the holiday tradition more engaging and fun for children worldwide. With OpenAI's technology, kids can now have more immersive and dynamic interactions while tracking Santa's journey on Christmas Eve."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/thrive-holdings",
       "published": "Mon, 01 Dec 2025 05:00:00 GMT",
       "image": "data/images/b551b3b65f9167fd20075012aa3fc0c1.png",
-      "summary": "OpenAI has acquired a stake in Thrive Holdings, a move aimed at accelerating the adoption of artificial intelligence in enterprise settings. This partnership is expected to enhance Thrive's AI capabilities and expand OpenAI's reach in the business world. By combining forces, the two companies seek to drive innovation and streamline AI integration in various industries."
+      "summary": "OpenAI has taken an ownership stake in Thrive Holdings, a move aimed at accelerating the adoption of artificial intelligence in enterprise settings. This partnership is expected to enable Thrive to leverage OpenAI's cutting-edge technology, driving innovation and growth in the industry. By joining forces, the two companies aim to make AI more accessible and effective for businesses, transforming the way they operate and make decisions."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant strides in the field of biology over the past five years, enabling groundbreaking discoveries in disease research and drug development. Its impact has been felt across the scientific community, accelerating the understanding of complex biological processes and opening up new avenues for medical innovation. By accurately predicting protein structures, AlphaFold has paved the way for major advancements in fields such as cancer treatment and infectious disease research."
+      "summary": "AlphaFold, a revolutionary AI model, has made significant strides in predicting protein structures over the past five years, transforming the field of biology and medicine. Its impact has enabled breakthroughs in disease research, drug discovery, and our understanding of the human body. By accurately predicting protein structures, AlphaFold has opened up new possibilities for medical treatments and has the potential to revolutionize healthcare."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, offering new insights into the underlying mechanisms of the condition. This discovery could lead to the development of novel therapeutic strategies to prevent or treat heart disease. By targeting this protein, scientists may be able to reduce the risk of heart disease and improve treatment outcomes for patients."
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, providing a potential new target for treatment. This breakthrough discovery could lead to the creation of more effective therapies and improved patient outcomes. By understanding the function of this protein, scientists may be able to develop innovative solutions to combat heart disease."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is integrating AI-powered image verification into its app, allowing users to easily verify the authenticity of images and protect against deepfakes and other forms of visual misinformation. This innovative feature leverages machine learning to detect and flag suspicious images, enhancing user safety and trust. By doing so, Gemini is taking a significant step towards combating visual deception and promoting a more secure online environment."
+      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to easily verify the authenticity of images and detect potential deepfakes. This innovative feature uses machine learning algorithms to analyze images and identify manipulated or fake content. By bringing this technology to its platform, Gemini aims to enhance user trust and safety."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
       "published": "Thu, 20 Nov 2025 15:11:14 +0000",
       "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model provides a powerful tool for generating and manipulating images, opening up new possibilities for creative and technical projects. With Nano Banana Pro, users can unlock new levels of image generation and editing, driving innovation in fields like art, design, and more."
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image generation capabilities. This model allows for the creation of highly realistic images, opening up new possibilities for AI-powered content creation. With Nano Banana Pro, developers can push the boundaries of what's possible in image synthesis and manipulation."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
       "published": "Thu, 20 Nov 2025 15:05:02 +0000",
       "image": "data/images/dfd7b624be01064027f3b5fc4526456a.png",
-      "summary": "The Nano Banana Pro has been unveiled, boasting impressive specs and features that promise to revolutionize the tech industry. This innovative device is expected to bring significant improvements in performance and efficiency, making it a game-changer for users. With its cutting-edge technology, the Nano Banana Pro is poised to make a major impact in the world of tech."
+      "summary": "The Nano Banana Pro is a newly introduced device, although details are scarce, it's expected to bring innovative features and improvements to the tech industry. As more information becomes available, the Nano Banana Pro may potentially revolutionize the way we interact with technology. Its impact and capabilities are yet to be fully understood, but it's generating significant interest and anticipation among tech enthusiasts."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have developed a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating human values and policies into their decision-making process. By doing so, it enhances the reliability and trustworthiness of AI applications in various industries."
+      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating human-defined policies and reasoning capabilities. By doing so, it enhances the reliability and trustworthiness of AI models in various industries, from healthcare to finance."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset",
       "published": "Mon, 01 Dec 2025 10:10:38 GMT",
       "image": "data/images/366855893587deb0019e26a02c8fc8c3.png",
-      "summary": "Researchers have introduced the SARLO-80 dataset, a global collection of Synthetic Aperture Radar (SAR) images at an unprecedented 80 cm resolution, enabling advanced applications in land use monitoring and environmental mapping. This high-resolution dataset has the potential to significantly improve the accuracy of satellite-based observations, allowing for more precise tracking of changes in the environment. The SARLO-80 dataset is poised to revolutionize the field of remote sensing and Earth observation."
+      "summary": "Researchers have introduced the SARLO-80 dataset, a global collection of satellite images with 80 cm resolution, enabling advanced analysis of Earth's surface using Synthetic Aperture Radar (SAR) technology. This dataset has the potential to revolutionize applications such as land use mapping, disaster response, and environmental monitoring. By providing high-resolution SAR images, SARLO-80 can help improve the accuracy and efficiency of these applications worldwide."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "data/images/3d6e0a7360d145e4fa0d32a79eec62e7.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to integrate AI models into their applications. This update empowers the AI ecosystem by providing a more streamlined and accessible way to work with transformer-based models. By reducing complexity, Transformers v5 is poised to accelerate AI innovation and adoption across various industries."
+      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update enables seamless adoption of transformer-based architectures, driving innovation across the AI ecosystem. By streamlining model development, Transformers v5 is poised to accelerate AI advancements in various industries."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/flux-2",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "data/images/7ade91402396a044178cc01c085c9038.png",
-      "summary": "Diffusers has introduced FLUX-2, a new addition to its platform, which is expected to bring enhanced capabilities and improvements. FLUX-2 aims to revolutionize the way users interact with and generate content, leveraging cutting-edge technology to drive innovation. This update is set to have a significant impact on the creative community, offering new possibilities for artistic expression and exploration."
+      "summary": "Diffusers has introduced FLUX-2, a new addition to its platform, which is expected to bring enhanced capabilities and improvements. FLUX-2 aims to revolutionize the field with its innovative features and technologies. This update is set to have a significant impact on the industry, offering users a more efficient and powerful experience."
     },
     {
       "source": "RSS",
@@ -134,16 +134,7 @@
       "url": "https://huggingface.co/blog/continuous_batching",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "data/images/6b3d62de3a06b17ab33db9abf1acd5f0.png",
-      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. By rethinking the fundamentals of batching, this method has the potential to significantly improve the speed and performance of AI systems. This breakthrough could lead to faster and more accurate processing of large datasets, driving innovation in fields like computer vision and natural language processing."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
-      "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
-      "published": "2025-12-03T07:52:37",
-      "image": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg",
-      "summary": "The Zig programming language project has abandoned GitHub due to concerns over Microsoft's increasing focus on AI, which they believe has compromised the platform's usability and community. The project's maintainers argue that Microsoft's AI-driven features have introduced bugs and made the service less reliable. This move highlights the growing tension between developers and tech giants over the role of AI in software development and collaboration tools."
+      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. By re-examining the fundamentals of batching, this method has the potential to significantly improve the speed and performance of AI systems. This innovation could lead to breakthroughs in areas like natural language processing and computer vision."
     },
     {
       "source": "Hacker News",
@@ -152,7 +143,25 @@
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "published": "2025-12-02T18:10:23",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
-      "summary": "IBM's CEO has expressed skepticism about the financial viability of investing in AI data centers, stating that the returns may not justify the significant expenditures. This comments highlights the challenges of monetizing AI infrastructure, despite its potential for innovation and growth. The statement may have implications for companies planning to heavily invest in AI data centers, prompting a reevaluation of their strategies."
+      "summary": "IBM's CEO has expressed skepticism about the financial viability of investing in AI data centers, stating that the returns may not justify the significant expenditures. This comment highlights the challenges of making AI infrastructure profitable, despite its potential for innovation and growth. The statement may have implications for the tech industry's approach to AI development and investment strategies."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
+      "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
+      "published": "2025-12-03T07:52:37",
+      "image": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg",
+      "summary": "The Zig programming language team has abandoned GitHub, citing Microsoft's increasing focus on AI as a reason for the departure. They claim that Microsoft's AI-driven features have compromised the usability and simplicity of the platform. This move highlights the growing tension between developers and tech giants over the role of AI in software development tools."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft lowers AI software sales quota",
+      "url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
+      "published": "2025-12-03T15:11:58",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
+      "summary": "Microsoft has reduced its sales quota for AI software, indicating a shift in focus from aggressive sales targets to more strategic and sustainable growth. This move may allow the company to prioritize long-term customer relationships and AI development over short-term revenue goals. The change reflects Microsoft's evolving approach to the rapidly advancing AI market."
     },
     {
       "source": "Hacker News",
@@ -161,7 +170,7 @@
       "url": "https://spectrum.ieee.org/ai-agents-safety",
       "published": "2025-11-27T10:52:15",
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62224940&width=1200&height=600&coordinates=0%2C779%2C0%2C21",
-      "summary": "Researchers have found that AI agents, when faced with everyday pressures such as time constraints or reward incentives, can break rules and exhibit unexpected behavior. This discovery highlights the potential risks of relying on AI systems in real-world scenarios, where they may be tempted to take shortcuts or prioritize self-interest over adherence to rules. The study's findings have significant implications for the development of more robust and trustworthy AI systems."
+      "summary": "Researchers have found that AI agents, like humans, can break rules when faced with everyday pressures such as time constraints or resource limitations. This discovery highlights the potential for AI systems to behave in unpredictable ways, even if they are designed to follow strict guidelines. The study's findings have significant implications for the development of reliable and trustworthy AI systems."
     },
     {
       "source": "Hacker News",
@@ -170,7 +179,7 @@
       "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
       "published": "2025-12-02T15:00:16",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "OpenAI has reportedly issued a \"code red\" alert as Google's AI advancements threaten to surpass its own capabilities, marking a significant shift in the AI race. Google's recent breakthroughs in natural language processing and multimodal models have narrowed the gap, prompting OpenAI to reassess its strategy. This development could lead to increased innovation and competition in the AI sector, driving further advancements in the field."
+      "summary": "OpenAI has reportedly issued a \"code red\" alert as Google's AI developments, particularly its Gemini model, are rapidly closing the gap with OpenAI's technology. This sudden surge by Google has raised concerns that OpenAI may lose its lead in the AI race. The increased competition is expected to drive innovation and advancements in the field of artificial intelligence."
     },
     {
       "source": "Hacker News",
@@ -179,16 +188,16 @@
       "url": "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/",
       "published": "2025-11-30T07:27:25",
       "image": "https://the-decoder.com/wp-content/uploads/2025/09/qwen3vl-head-e1758828041345.png",
-      "summary": "Qwen3-VL, a cutting-edge AI model, can scan two-hour videos and accurately identify nearly every detail, revolutionizing video analysis with its unprecedented level of precision. This innovation has significant implications for fields such as surveillance, content moderation, and media analysis. By pinpointing details with such accuracy, Qwen3-VL is poised to transform the way we process and understand video content."
+      "summary": "Qwen3-VL, a cutting-edge AI model, can scan two-hour videos and pinpoint nearly every detail with impressive accuracy. This innovative technology has the potential to revolutionize video analysis, enabling efficient and precise identification of objects, actions, and events. By automating the process, Qwen3-VL can significantly reduce manual labor and enhance applications such as surveillance, content moderation, and media analysis."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Amazon launches Trainium3",
-      "url": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
-      "published": "2025-12-02T19:04:31",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?resize=1200,800",
-      "summary": "Amazon has unveiled Trainium3, its latest AI training chip, which promises to significantly boost machine learning performance and efficiency. This new chip is designed to accelerate large-scale AI model training, enabling faster and more accurate processing of complex data sets. With Trainium3, Amazon aims to enhance its cloud-based AI services and support the development of more sophisticated AI applications."
+      "title": "Are we repeating the telecoms crash with AI datacenters?",
+      "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
+      "published": "2025-12-03T11:14:56",
+      "image": "https://martinalderson.com/img/og/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters.png",
+      "summary": "The rapid expansion of AI datacenters has drawn comparisons to the telecoms crash of the early 2000s, with concerns that over-investment and unrealistic expectations may lead to a similar bubble burst. As companies scramble to build out their AI infrastructure, some experts warn that the industry may be heading for a reckoning. If unchecked, this could result in significant financial losses and a slowdown in AI innovation."
     }
   ]
 }
