@@ -1,4 +1,9 @@
 .env
-__pycache__/
+data/news.json
+data/images/
+node_modules/
+dist/
+*.log
+.DS_Store__/
 *.pyc
 .DS_Store

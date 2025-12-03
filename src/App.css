@@ -1,0 +1,251 @@
+#root {
+    min-height: 100vh;
+}
+
+.app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 24px;
+    width: 100%;
+}
+
+/* ========================================
+   NEWS GRID - Mobile First Responsive
+   ======================================== */
+.news-grid {
+    display: grid;
+    gap: 16px;
+    grid-auto-rows: 280px;
+
+    /* Mobile: Single column */
+    grid-template-columns: 1fr;
+}
+
+.news-grid-item {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ========================================
+   ARTICLE CARD - Netflix-Style Effects
+   ======================================== */
+.article-card {
+    background: var(--bg-card);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.article-card:hover {
+    box-shadow:
+        0 20px 60px rgba(0, 0, 0, 0.15),
+        0 0 0 1px var(--accent),
+        0 0 30px var(--glow);
+    border-color: var(--accent);
+}
+
+.article-link:hover {
+    color: var(--accent) !important;
+}
+
+/* Image zoom container */
+.article-image-container {
+    background: var(--bg-secondary);
+}
+
+/* ========================================
+   ANIMATIONS
+   ======================================== */
+
+/* Fade in with slide up */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Slide up animation for hover overlay */
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Loading shimmer */
+@keyframes shimmer {
+    0% {
+        background-position: -1000px 0;
+    }
+
+    100% {
+        background-position: 1000px 0;
+    }
+}
+
+.skeleton {
+    animation: shimmer 2s infinite;
+    background: linear-gradient(to right,
+            var(--bg-secondary) 0%,
+            var(--bg-card) 50%,
+            var(--bg-secondary) 100%);
+    background-size: 1000px 100%;
+    border-radius: 16px;
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* ========================================
+   RESPONSIVE BREAKPOINTS
+   ======================================== */
+
+/* Small Mobile (< 480px) */
+@media (max-width: 479px) {
+    .container {
+        padding: 0 12px;
+    }
+
+    .news-grid {
+        gap: 12px;
+        grid-auto-rows: 320px;
+    }
+
+    .article-card {
+        border-radius: 12px;
+    }
+}
+
+/* Mobile (480px - 639px) */
+@media (min-width: 480px) and (max-width: 639px) {
+    .container {
+        padding: 0 16px;
+    }
+
+    .news-grid {
+        gap: 14px;
+        grid-auto-rows: 300px;
+    }
+}
+
+/* Tablet (640px - 1023px) */
+@media (min-width: 640px) {
+    .news-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        grid-auto-rows: 320px;
+    }
+
+    /* Allow some span variations on tablet */
+    .news-grid-item:nth-child(10n + 1) {
+        grid-column: span 2;
+        grid-row: span 1;
+    }
+}
+
+/* Desktop (1024px+) */
+@media (min-width: 1024px) {
+    .news-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 24px;
+        grid-auto-rows: 300px;
+    }
+
+    .container {
+        padding: 0 32px;
+    }
+}
+
+/* Large Desktop (1400px+) */
+@media (min-width: 1400px) {
+    .news-grid {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 28px;
+    }
+}
+
+/* ========================================
+   TOUCH DEVICES OPTIMIZATION
+   ======================================== */
+@media (hover: none) and (pointer: coarse) {
+
+    /* Disable hover-only effects on touch devices */
+    .article-card:hover {
+        transform: none;
+    }
+
+    /* Make cards slightly larger for easier tapping */
+    .article-card {
+        min-height: 60px;
+    }
+
+    /* Increase tap target sizes */
+    .article-link {
+        padding: 4px;
+        margin: -4px;
+    }
+}
+
+/* ========================================
+   PERFORMANCE OPTIMIZATIONS
+   ======================================== */
+
+/* Reduce animations on devices that prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+
+    html {
+        scroll-behavior: auto;
+    }
+}
+
+/* GPU acceleration for smooth animations */
+.article-card,
+.article-image,
+.news-grid-item {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* ========================================
+   DARK MODE ENHANCEMENTS
+   ======================================== */
+[data-theme="dark"] .article-card {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="dark"] .article-card:hover {
+    box-shadow:
+        0 20px 60px rgba(0, 0, 0, 0.5),
+        0 0 0 1px var(--accent),
+        0 0 40px var(--glow);
+}

@@ -24,11 +24,19 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
+    
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
         
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+    
+    - name: Install Node dependencies
+      run: npm install
         
     - name: Run Aggregator
       env:
@@ -36,23 +44,26 @@ jobs:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       run: python src/main.py
       continue-on-error: false
+    
+    - name: Build React App
+      run: npm run build
       
     - name: Prepare deployment
       run: |
-        mkdir -p _site
-        cp -r public/* _site/
-        cp -r data _site/
-        # Include generated images if they exist
+        # Copy data folder into dist
+        cp -r data dist/
+        # Copy generated images if they exist
         if [ -d "data/images" ]; then
-          mkdir -p _site/data/images
-          cp -r data/images/* _site/data/images/ || true
+          mkdir -p dist/data/images
+          cp -r data/images/* dist/data/images/ || true
         fi
         
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site
+        publish_dir: ./dist
         publish_branch: gh-pages
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
+
