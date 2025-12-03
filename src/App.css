@@ -20,8 +20,10 @@
    ======================================== */
 .news-grid {
     display: grid;
-    gap: 16px;
-    grid-auto-rows: 280px;
+    gap: 12px;
+    grid-auto-rows: minmax(180px, auto);
+    grid-auto-flow: dense;
+    /* Fill gaps intelligently */
 
     /* Mobile: Single column */
     grid-template-columns: 1fr;
@@ -29,6 +31,8 @@
 
 .news-grid-item {
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    min-height: 0;
+    /* Prevent overflow */
 }
 
 /* ========================================
@@ -102,6 +106,15 @@
     }
 }
 
+/* Ripple click effect */
+@keyframes ripple {
+    to {
+        transform: translate(-50%, -50%) scale(20);
+        opacity: 0;
+    }
+}
+
+
 .skeleton {
     animation: shimmer 2s infinite;
     background: linear-gradient(to right,
@@ -128,8 +141,8 @@ html {
     }
 
     .news-grid {
-        gap: 12px;
-        grid-auto-rows: 320px;
+        gap: 10px;
+        grid-auto-rows: minmax(200px, auto);
     }
 
     .article-card {
@@ -144,8 +157,8 @@ html {
     }
 
     .news-grid {
-        gap: 14px;
-        grid-auto-rows: 300px;
+        gap: 12px;
+        grid-auto-rows: minmax(220px, auto);
     }
 }
 
@@ -153,14 +166,8 @@ html {
 @media (min-width: 640px) {
     .news-grid {
         grid-template-columns: repeat(2, 1fr);
-        gap: 20px;
-        grid-auto-rows: 320px;
-    }
-
-    /* Allow some span variations on tablet */
-    .news-grid-item:nth-child(10n + 1) {
-        grid-column: span 2;
-        grid-row: span 1;
+        gap: 14px;
+        grid-auto-rows: minmax(200px, auto);
     }
 }
 
@@ -168,8 +175,8 @@ html {
 @media (min-width: 1024px) {
     .news-grid {
         grid-template-columns: repeat(3, 1fr);
-        gap: 24px;
-        grid-auto-rows: 300px;
+        gap: 16px;
+        grid-auto-rows: minmax(180px, auto);
     }
 
     .container {
@@ -181,7 +188,8 @@ html {
 @media (min-width: 1400px) {
     .news-grid {
         grid-template-columns: repeat(4, 1fr);
-        gap: 28px;
+        gap: 18px;
+        grid-auto-rows: minmax(180px, auto);
     }
 }
 

@@ -1,22 +1,32 @@
 import ArticleCard from './ArticleCard'
+import { useState, useEffect } from 'react'
 
 function NewsGrid({ articles }) {
+    const [isMobile, setIsMobile] = useState(window.innerWidth < 768)
+
+    useEffect(() => {
+        const handleResize = () => setIsMobile(window.innerWidth < 768)
+        window.addEventListener('resize', handleResize)
+        return () => window.removeEventListener('resize', handleResize)
+    }, [])
+
     if (!articles || articles.length === 0) return null
 
-    // Enhanced bento grid pattern with more variety
+    // Smart responsive grid pattern - prevents gaps and ensures uniform layout
     const getCardSize = (index) => {
+        // On mobile, all cards are uniform
+        if (isMobile) {
+            return { gridColumn: 'span 1', gridRow: 'span 1', type: 'normal' }
+        }
+
+        // On desktop, use a balanced pattern that fills nicely
         const patterns = [
-            // Pattern 1: Featured + Normal grid
-            { gridColumn: 'span 2', gridRow: 'span 2', type: 'featured' }, // Large featured
+            { gridColumn: 'span 2', gridRow: 'span 1', type: 'wide' },      // Wide featured
             { gridColumn: 'span 1', gridRow: 'span 1', type: 'normal' },
             { gridColumn: 'span 1', gridRow: 'span 1', type: 'normal' },
-            { gridColumn: 'span 1', gridRow: 'span 2', type: 'tall' },      // Tall
-            { gridColumn: 'span 2', gridRow: 'span 1', type: 'wide' },      // Wide
             { gridColumn: 'span 1', gridRow: 'span 1', type: 'normal' },
             { gridColumn: 'span 1', gridRow: 'span 1', type: 'normal' },
-            { gridColumn: 'span 1', gridRow: 'span 2', type: 'tall' },
             { gridColumn: 'span 2', gridRow: 'span 1', type: 'wide' },
-            { gridColumn: 'span 1', gridRow: 'span 1', type: 'normal' },
         ]
         return patterns[index % patterns.length]
     }
@@ -31,11 +41,10 @@ function NewsGrid({ articles }) {
                         className="news-grid-item"
                         style={{
                             gridColumn: size.gridColumn,
-                            gridRow: size.gridRow,
-                            animation: `fadeInUp 0.6s cubic-bezier(0.4, 0, 0.2, 1) ${index * 0.08}s both`
+                            animation: `fadeInUp 0.6s cubic-bezier(0.4, 0, 0.2, 1) ${index * 0.05}s both`
                         }}
                     >
-                        <ArticleCard article={article} size={size} />
+                        <ArticleCard article={article} size={size} index={index} />
                     </div>
                 )
             })}

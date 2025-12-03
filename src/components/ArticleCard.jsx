@@ -1,16 +1,33 @@
 import { useState } from 'react'
 import { ExternalLink } from 'lucide-react'
 
-function ArticleCard({ article, size }) {
+function ArticleCard({ article, size, index }) {
     const [isHovered, setIsHovered] = useState(false)
+    const [ripples, setRipples] = useState([])
 
     const isFeatured = size.type === 'featured'
     const isWide = size.type === 'wide' || isFeatured
     const isTall = size.type === 'tall' || isFeatured
 
+    const handleClick = (e) => {
+        const card = e.currentTarget
+        const rect = card.getBoundingClientRect()
+        const ripple = {
+            x: e.clientX - rect.left,
+            y: e.clientY - rect.top,
+            id: Date.now()
+        }
+        setRipples([...ripples, ripple])
+        setTimeout(() => {
+            setRipples(prev => prev.filter(r => r.id !== ripple.id))
+        }, 600)
+    }
+
+
     return (
         <div
             className="article-card"
+            onClick={handleClick}
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
             style={{
@@ -19,15 +36,37 @@ function ArticleCard({ article, size }) {
                 flexDirection: 'column',
                 overflow: 'hidden',
                 position: 'relative',
-                transform: isHovered ? 'scale(1.05) translateZ(0)' : 'scale(1) translateZ(0)',
+                transform: isHovered ? 'scale(1.03) translateY(-4px)' : 'scale(1) translateY(0)',
                 zIndex: isHovered ? 10 : 1,
-                willChange: 'transform'
+                willChange: 'transform',
+                cursor: 'pointer'
             }}
         >
+            {/* Ripple Effect */}
+            {ripples.map(ripple => (
+                <span
+                    key={ripple.id}
+                    style={{
+                        position: 'absolute',
+                        borderRadius: '50%',
+                        backgroundColor: 'var(--accent)',
+                        opacity: 0.3,
+                        width: '20px',
+                        height: '20px',
+                        left: `${ripple.x}px`,
+                        top: `${ripple.y}px`,
+                        transform: 'translate(-50%, -50%) scale(0)',
+                        animation: 'ripple 0.6s ease-out',
+                        pointerEvents: 'none',
+                        zIndex: 20
+                    }}
+                />
+            ))}
+
             {article.image && (
                 <div className="article-image-container" style={{
                     width: '100%',
-                    height: isTall ? '60%' : '50%',
+                    height: isTall ? '55%' : '45%',
                     overflow: 'hidden',
                     position: 'relative'
                 }}>
@@ -107,16 +146,16 @@ function ArticleCard({ article, size }) {
             )}
 
             <div style={{
-                padding: isFeatured ? '28px' : isWide ? '24px' : '20px',
+                padding: isFeatured ? '16px' : isWide ? '14px' : '12px',
                 flex: 1,
                 display: 'flex',
                 flexDirection: 'column',
                 position: 'relative'
             }}>
                 <h3 style={{
-                    fontSize: isFeatured ? '24px' : isWide ? '20px' : '17px',
+                    fontSize: isFeatured ? '18px' : isWide ? '16px' : '14px',
                     fontWeight: '700',
-                    marginBottom: '12px',
+                    marginBottom: '8px',
                     lineHeight: '1.3',
                     color: 'var(--text-primary)',
                     flex: isTall ? '0 0 auto' : '1',
@@ -133,7 +172,7 @@ function ArticleCard({ article, size }) {
                         }}>
                         <span style={{ flex: 1 }}>{article.title}</span>
                         <ExternalLink
-                            size={isFeatured ? 18 : 16}
+                            size={isFeatured ? 16 : 14}
                             style={{
                                 opacity: isHovered ? 0.8 : 0.4,
                                 flexShrink: 0,
@@ -145,26 +184,27 @@ function ArticleCard({ article, size }) {
                     </a>
                 </h3>
 
-                {(isWide || isTall) && !article.image && (
-                    <p style={{
-                        fontSize: '14px',
-                        color: 'var(--text-secondary)',
-                        lineHeight: '1.6',
-                        marginBottom: '12px',
-                        display: '-webkit-box',
-                        WebkitLineClamp: isTall ? '8' : '4',
-                        WebkitBoxOrient: 'vertical',
-                        overflow: 'hidden'
-                    }}>
-                        {article.summary || 'No summary available.'}
-                    </p>
-                )}
-
-                <div style={{
+                {/* Always show summary to fill empty space */}
+                <p style={{
                     fontSize: '12px',
                     color: 'var(--text-secondary)',
+                    lineHeight: '1.5',
+                    marginBottom: '8px',
+                    display: '-webkit-box',
+                    WebkitLineClamp: article.image ? (isWide ? '3' : '2') : (isTall ? '8' : '4'),
+                    WebkitBoxOrient: 'vertical',
+                    overflow: 'hidden',
+                    flex: '1 1 auto'
+                }}>
+                    {article.summary || article.title}
+                </p>
+
+
+                <div style={{
+                    fontSize: '11px',
+                    color: 'var(--text-secondary)',
                     marginTop: 'auto',
-                    paddingTop: '12px',
+                    paddingTop: '8px',
                     borderTop: '1px solid var(--border)',
                     display: 'flex',
                     justifyContent: 'space-between',

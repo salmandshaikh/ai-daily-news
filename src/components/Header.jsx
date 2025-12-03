@@ -1,6 +1,11 @@
-import { Moon, Sun } from 'lucide-react'
+import { Moon, Sun, Menu, X } from 'lucide-react'
+import { useState } from 'react'
 
 function Header({ theme, toggleTheme }) {
+    const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+
+    const toggleMobileMenu = () => setMobileMenuOpen(!mobileMenuOpen)
+
     return (
         <header style={{
             position: 'fixed',
@@ -31,7 +36,12 @@ function Header({ theme, toggleTheme }) {
                     AI Daily News
                 </div>
 
-                <nav style={{ display: 'flex', alignItems: 'center', gap: '32px' }}>
+                {/* Desktop Navigation */}
+                <nav className="desktop-nav" style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '32px'
+                }}>
                     <ul style={{
                         display: 'flex',
                         listStyle: 'none',
@@ -85,7 +95,135 @@ function Header({ theme, toggleTheme }) {
                         {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />}
                     </button>
                 </nav>
+
+                {/* Mobile Menu Button */}
+                <div className="mobile-nav-toggle" style={{ display: 'none' }}>
+                    <button
+                        onClick={toggleMobileMenu}
+                        style={{
+                            background: 'var(--bg-secondary)',
+                            border: '1px solid var(--border)',
+                            borderRadius: '12px',
+                            width: '44px',
+                            height: '44px',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            cursor: 'pointer',
+                            transition: 'all 0.3s ease',
+                            color: 'var(--text-primary)'
+                        }}
+                    >
+                        {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+                    </button>
+                </div>
             </div>
+
+            {/* Mobile Menu Overlay */}
+            <div
+                className="mobile-menu"
+                style={{
+                    position: 'fixed',
+                    top: '70px',
+                    left: 0,
+                    right: 0,
+                    bottom: 0,
+                    backgroundColor: 'var(--bg-card)',
+                    backdropFilter: 'blur(20px)',
+                    transform: mobileMenuOpen ? 'translateX(0)' : 'translateX(100%)',
+                    transition: 'transform 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
+                    display: 'none',
+                    flexDirection: 'column',
+                    padding: '24px',
+                    gap: '16px',
+                    zIndex: 999
+                }}
+            >
+                <ul style={{
+                    listStyle: 'none',
+                    margin: 0,
+                    padding: 0,
+                    display: 'flex',
+                    flexDirection: 'column',
+                    gap: '16px'
+                }}>
+                    {['Home', 'Technology', 'Research', 'Business'].map(item => (
+                        <li key={item}>
+                            <a
+                                href="#"
+                                onClick={() => setMobileMenuOpen(false)}
+                                style={{
+                                    color: 'var(--text-primary)',
+                                    textDecoration: 'none',
+                                    fontWeight: '600',
+                                    fontSize: '18px',
+                                    padding: '16px',
+                                    display: 'block',
+                                    borderRadius: '12px',
+                                    transition: 'all 0.3s ease',
+                                    backgroundColor: 'transparent'
+                                }}
+                                onMouseEnter={(e) => {
+                                    e.target.style.backgroundColor = 'var(--bg-secondary)'
+                                    e.target.style.color = 'var(--accent)'
+                                }}
+                                onMouseLeave={(e) => {
+                                    e.target.style.backgroundColor = 'transparent'
+                                    e.target.style.color = 'var(--text-primary)'
+                                }}
+                            >
+                                {item}
+                            </a>
+                        </li>
+                    ))}
+                </ul>
+
+                <button
+                    onClick={() => {
+                        toggleTheme()
+                        setMobileMenuOpen(false)
+                    }}
+                    style={{
+                        background: 'var(--bg-secondary)',
+                        border: '1px solid var(--border)',
+                        borderRadius: '12px',
+                        padding: '16px',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        gap: '12px',
+                        cursor: 'pointer',
+                        transition: 'all 0.3s ease',
+                        color: 'var(--text-primary)',
+                        fontSize: '16px',
+                        fontWeight: '600'
+                    }}
+                >
+                    {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />}
+                    <span>Toggle {theme === 'light' ? 'Dark' : 'Light'} Mode</span>
+                </button>
+            </div>
+
+            <style>{`
+                /* Mobile Responsive Styles */
+                @media (max-width: 767px) {
+                    .desktop-nav {
+                        display: none !important;
+                    }
+                    .mobile-nav-toggle {
+                        display: flex !important;
+                    }
+                    .mobile-menu {
+                        display: flex !important;
+                    }
+                }
+
+                @media (min-width: 768px) {
+                    .mobile-menu {
+                        display: none !important;
+                    }
+                }
+            `}</style>
         </header>
     )
 }
