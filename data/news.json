@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T16:02:52.164298",
+  "updated": "2025-12-04T20:02:47.895358",
   "articles": [
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/openai-to-acquire-neptune",
       "published": "Wed, 03 Dec 2025 10:00:00 GMT",
       "image": "data/images/90006b5b1bc32f72344365d5beecdd9e.png",
-      "summary": "OpenAI has announced its plans to acquire Neptune, a platform that helps data scientists and machine learning engineers track and manage their experiments. This acquisition is expected to enhance OpenAI's capabilities in experiment management and reproducibility. The move will likely strengthen OpenAI's position in the AI research and development space."
+      "summary": "OpenAI has announced plans to acquire Neptune, a platform that helps researchers and developers track and manage machine learning experiments. This acquisition is expected to enhance OpenAI's capabilities in experiment management and reproducibility, further advancing the development of AI models. The move underscores OpenAI's commitment to streamlining AI research and development processes."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/people-first-ai-fund-grantees",
       "published": "Wed, 03 Dec 2025 08:00:00 GMT",
       "image": "data/images/02fd52dd9c6fc78766d33c49d7e332ee.png",
-      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and fairness in artificial intelligence development. These grants aim to promote AI that benefits society, with a focus on transparency, accountability, and inclusivity. By funding people-centered AI initiatives, the organization seeks to create a more equitable and responsible AI ecosystem."
+      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and equity in the development of artificial intelligence. These grants aim to foster a more inclusive and responsible AI ecosystem, driving innovation that benefits people and society. The funded projects will explore applications of AI in areas such as education, healthcare, and social justice."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/mirakl",
       "published": "Mon, 01 Dec 2025 22:00:00 GMT",
       "image": "data/images/6b817fa90d39391b6bce73a75c54415d.png",
-      "summary": "Mirakl is pioneering \"agentic commerce,\" a revolutionary approach that enables businesses to create autonomous, AI-driven ecosystems, transforming the way companies buy, sell, and interact with products. This innovative model empowers enterprises to make data-driven decisions and streamline operations. By leveraging AI and machine learning, Mirakl's agentic commerce vision aims to redefine the future of commerce and unlock new growth opportunities."
+      "summary": "Mirakl is pioneering \"agentic commerce,\" a revolutionary approach that empowers businesses to create personalized, AI-driven shopping experiences. This innovative vision leverages artificial intelligence to connect customers with relevant products and services, streamlining the online shopping process. By adopting agentic commerce, companies can enhance customer engagement and drive sales through tailored recommendations and seamless interactions."
     },
     {
       "source": "RSS",
@@ -44,7 +44,16 @@
       "url": "https://openai.com/index/ai-mental-health-research-grants",
       "published": "Mon, 01 Dec 2025 12:00:00 GMT",
       "image": "data/images/6ce0bc892026809c3c77bfbe74e3b37f.png",
-      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research has the potential to revolutionize mental health care by leveraging AI's capabilities in data analysis and personalized interventions. The grants will enable scientists to investigate how AI can improve mental health outcomes and reduce the stigma associated with mental illness."
+      "summary": "The funding grants aim to support innovative research into the intersection of AI and mental health, exploring how artificial intelligence can be used to improve diagnosis, treatment, and prevention of mental health conditions. This initiative has the potential to revolutionize mental health care by leveraging AI's capabilities to analyze complex data and develop personalized interventions. By investing in this research, the goal is to improve mental health outcomes and enhance the overall well-being of individuals."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Engineering more resilient crops for a warming climate",
+      "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+      "published": "Thu, 04 Dec 2025 16:23:24 +0000",
+      "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
+      "summary": "Scientists are developing more resilient crops to combat the impacts of climate change, using advanced engineering techniques to enhance their ability to withstand rising temperatures and extreme weather conditions. This innovation aims to improve crop yields and food security in a warming world. By engineering climate-resilient crops, researchers hope to mitigate the effects of climate change on global food production."
     },
     {
       "source": "RSS",
@@ -53,7 +62,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI-powered protein structure prediction tool, has made significant impact over the past five years, transforming the field of biology and medicine. By accurately predicting the 3D structure of proteins, AlphaFold has enabled breakthroughs in disease research, drug discovery, and vaccine development. Its innovative technology has opened up new avenues for scientific inquiry, accelerating our understanding of the human body and potential treatments for various diseases."
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant strides in the field of biology and medicine over the past five years. Its ability to accurately predict protein structures has accelerated scientific discoveries, enabling breakthroughs in disease research and drug development. This innovation has far-reaching implications, transforming our understanding of the human body and paving the way for new treatments and therapies."
     },
     {
       "source": "RSS",
@@ -62,7 +71,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies for preventing and managing cardiovascular conditions. By targeting this specific protein, scientists may be able to reduce the risk of heart disease and improve patient outcomes."
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies and improved patient outcomes. By understanding the function of this protein, scientists can now explore innovative ways to prevent and manage heart disease."
     },
     {
       "source": "RSS",
@@ -71,7 +80,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to easily verify the authenticity of images and combat misinformation. This innovation utilizes machine learning to detect and flag manipulated or fake images, promoting a safer and more trustworthy experience. By leveraging AI, Gemini aims to stay ahead of emerging threats and protect its users from potential scams."
+      "summary": "Gemini is integrating AI-powered image verification into its app, aiming to enhance user trust and security by automatically detecting and flagging suspicious or fake images. This innovative feature utilizes machine learning algorithms to analyze images and prevent potential scams or phishing attempts. By leveraging AI, Gemini is taking a proactive step towards protecting its users from visual deception."
     },
     {
       "source": "RSS",
@@ -80,16 +89,7 @@
       "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
       "published": "Thu, 20 Nov 2025 15:11:14 +0000",
       "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a cutting-edge model based on the Gemini 3 Pro Image, designed to empower creators and developers to build innovative applications. This powerful tool enables the generation of high-quality images, opening up new possibilities for art, design, and more. With Nano Banana Pro, users can unlock their full creative potential and bring their ideas to life."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Nano Banana Pro",
-      "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
-      "published": "Thu, 20 Nov 2025 15:05:02 +0000",
-      "image": "data/images/dfd7b624be01064027f3b5fc4526456a.png",
-      "summary": "The Nano Banana Pro has been introduced, representing a significant advancement in compact technology. This innovative device promises to deliver enhanced performance and efficiency, making it an exciting development in the tech world. Further details on its features and capabilities are awaited, but its launch is generating buzz among tech enthusiasts."
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model allows for more efficient and accurate image processing, paving the way for new use cases in fields like computer vision and AI. With Nano Banana Pro, creators can unlock new possibilities for image-based projects and experiences."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers fine-tuned Claude, an AI model, to improve an open-source large language model (LLM), demonstrating the potential for collaborative advancements in AI technology. This innovation enables the open-source community to leverage Claude's capabilities, driving further development and refinement of LLMs. The outcome is expected to accelerate progress in natural language processing and generation."
+      "summary": "Researchers fine-tuned Claude, an AI model, to work with an open-source large language model (LLM), allowing for more customizable and accessible language processing capabilities. This innovation enables developers to tailor the LLM to specific tasks and industries, potentially leading to more accurate and efficient language understanding. The fine-tuned model can be used for a range of applications, from text generation to conversational AI."
     },
     {
       "source": "RSS",
@@ -107,16 +107,7 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating human-like reasoning and policy enforcement, reducing errors and improving overall performance. By integrating this technology, developers can create more reliable and trustworthy AI models that better align with human values and regulations."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "SARLO-80: Worldwide Slant SAR Language Optic Dataset at 80 cm Resolution",
-      "url": "https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset",
-      "published": "Mon, 01 Dec 2025 10:10:38 GMT",
-      "image": "data/images/366855893587deb0019e26a02c8fc8c3.png",
-      "summary": "Researchers have introduced the SARLO-80 dataset, a global collection of high-resolution satellite images with 80 cm resolution, enabling advanced applications in fields like environmental monitoring and urban planning. This dataset uses Synthetic Aperture Radar (SAR) technology to provide detailed images, even in areas with heavy cloud cover or darkness. The SARLO-80 dataset has the potential to revolutionize Earth observation and mapping capabilities."
+      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating custom policies and reasoning capabilities, reducing errors and improving overall performance. By integrating this technology, developers can create more reliable and trustworthy AI models that better align with real-world requirements."
     },
     {
       "source": "RSS",
@@ -125,7 +116,7 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "data/images/3d6e0a7360d145e4fa0d32a79eec62e7.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update streamlines the AI ecosystem, making it more accessible and efficient for a wide range of applications. By reducing complexity, Transformers v5 is poised to accelerate innovation in natural language processing and beyond."
+      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to integrate and customize AI models. This update empowers the AI ecosystem by providing a more flexible and accessible framework for building and deploying AI applications. With v5, developers can now focus on innovation and experimentation, driving further advancements in AI capabilities."
     },
     {
       "source": "RSS",
@@ -134,7 +125,34 @@
       "url": "https://huggingface.co/blog/flux-2",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "data/images/7ade91402396a044178cc01c085c9038.png",
-      "summary": "Diffusers has introduced FLUX-2, a significant update that enhances its capabilities. FLUX-2 is expected to bring improved performance and new features to the table, further solidifying Diffusers' position in the tech landscape. This update is likely to have a notable impact on the development and application of diffusion models."
+      "summary": "Diffusers has introduced FLUX-2, a new addition that is expected to bring significant advancements in AI-generated content. FLUX-2 aims to improve the efficiency and quality of diffusion models, enabling more realistic and detailed outputs. This update has the potential to revolutionize the field of AI art and image generation, offering new creative possibilities for users."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Continuous batching from first principles",
+      "url": "https://huggingface.co/blog/continuous_batching",
+      "published": "Tue, 25 Nov 2025 00:00:00 GMT",
+      "image": "data/images/6b3d62de3a06b17ab33db9abf1acd5f0.png",
+      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. This method, derived from first principles, aims to optimize batch processing and improve overall system performance. By rethinking the fundamentals of batching, this innovation has the potential to accelerate AI and ML workloads."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The long wait is over, Ganymede has arrived",
+      "url": "https://endeavouros.com/news/the-long-wait-is-over-ganymede-has-arrived/",
+      "published": "2025-11-29T23:57:13",
+      "image": "https://endeavouros.com/wp-content/uploads/2025/11/EndeavourOS_Ganymede__3840x2160-scaled.jpg",
+      "summary": "The highly-anticipated Ganymede release has finally arrived, bringing with it a slew of exciting new features and updates. This major milestone promises to revolutionize the tech landscape, offering improved performance, enhanced functionality, and a more streamlined user experience. With its arrival, developers and users alike can look forward to exploring the vast possibilities and innovations that Ganymede has to offer."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+      "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
+      "published": "2025-12-04T15:31:52",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
+      "summary": "Microsoft has significantly reduced its AI sales targets by half after its sales team failed to meet their quotas, indicating a slower-than-expected adoption of AI solutions. This adjustment reflects the challenges of integrating AI into existing business models and the need for more realistic expectations. The move may impact Microsoft's revenue projections and influence its AI development strategy."
     },
     {
       "source": "Hacker News",
@@ -143,7 +161,7 @@
       "url": "https://uncloud.run/",
       "published": "2025-12-04T06:02:23",
       "image": "https://uncloud.run/images/logo-wide.png",
-      "summary": "Uncloud is a new tool that enables developers to deploy containerized applications across multiple servers without relying on Kubernetes (k8s). This innovative solution simplifies the deployment process, reducing complexity and overhead. By bypassing k8s, Uncloud offers a more lightweight and accessible alternative for managing containerized apps."
+      "summary": "Uncloud is a new tool that enables developers to deploy containerized applications across multiple servers without relying on Kubernetes (k8s). This simplifies the deployment process and reduces the complexity associated with container orchestration. By eliminating the need for k8s, Uncloud aims to make containerized app deployment more accessible and efficient for developers."
     },
     {
       "source": "Hacker News",
@@ -152,52 +170,16 @@
       "url": "https://railsdesigner.com/custom-elements/",
       "published": "2025-12-04T11:03:16",
       "image": "data/images/c430fad41f7bcb93cdf5218b41f9743a.png",
-      "summary": "Developers can now create optimistic UI in Rails, allowing for a more seamless user experience by temporarily displaying the outcome of an action before it's confirmed by the server. This approach enables faster and more responsive interactions, improving overall user engagement. By leveraging custom elements, developers can also extend and customize their UI components for more tailored and dynamic interfaces."
+      "summary": "Developers can now create optimistic UI in Rails, allowing for a more seamless user experience by temporarily displaying the expected outcome of an action before the server confirms it. This approach improves responsiveness and reduces perceived latency. By leveraging custom elements, developers can further enhance their applications with reusable, modular components."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Human hair grows through 'pulling' not pushing, study shows",
-      "url": "https://phys.org/news/2025-12-human-hair.html",
-      "published": "2025-12-04T13:22:35",
-      "image": "data/images/83bedbe10999ad5c3bae7d1cee434196.png",
-      "summary": "Researchers have made a groundbreaking discovery that challenges the long-held belief that hair growth is driven by cells pushing from the root. Instead, a new study reveals that human hair grows through a \"pulling\" mechanism, where the hair follicle is stretched from the outside, allowing the hair to extend. This innovative finding could lead to new treatments for hair loss and other related conditions."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Math Legend Who Just Left Academia\u2013For an AI Startup Run by a 24-Year-Old",
-      "url": "https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417",
-      "published": "2025-12-04T15:26:29",
-      "image": "data/images/1b95d5f6b80d7a9b62d7f3c0c67294ec.png",
-      "summary": "Math legend Michael Atiyah has left academia to join an AI startup, reportedly drawn by the company's innovative approach to machine learning. The startup, run by 24-year-old entrepreneur, is applying Atiyah's mathematical theories to develop new AI technologies. This unexpected collaboration has the potential to revolutionize the field of artificial intelligence and push the boundaries of what is possible with machine learning."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
-      "url": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
-      "published": "2025-12-04T07:00:51",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/48c4497b02b8c90c53d3585b47180905187ea95e.png?1715450395",
-      "summary": "Saturn, a startup backed by Y Combinator, is seeking a Senior AI Engineer to join their team, indicating the company's focus on advancing its AI capabilities. This hiring effort suggests Saturn is investing in innovative technologies to drive growth and stay competitive. The role offers an opportunity for experienced engineers to contribute to cutting-edge AI projects and shape the company's tech landscape."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microsoft faces complaint in EU over Israeli surveillance data",
-      "url": "https://www.france24.com/en/live-news/20251204-microsoft-faces-complaint-in-eu-over-israeli-surveillance-data",
-      "published": "2025-12-04T15:23:28",
-      "image": "data/images/899932df522d456e7ae44b983191ef9e.png",
-      "summary": "Microsoft is facing a complaint in the EU over its alleged use of Israeli surveillance data, which raises concerns about data protection and human rights. The complaint claims that Microsoft's acquisition of an Israeli firm provides it with access to sensitive surveillance data, potentially violating EU regulations. This controversy highlights the growing scrutiny of tech companies' handling of sensitive data and their partnerships with surveillance firms."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
-      "url": "https://arxiv.org/abs/2512.04047",
-      "published": "2025-12-04T08:38:17",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "A new study suggests that AI-powered persuasion tools could enable elites to shape public opinion on a large scale, as the cost of persuading individuals decreases with the use of artificial intelligence. This raises concerns about the potential for manipulation and control of mass preferences, undermining democratic processes. As AI-driven persuasion becomes more prevalent, it may amplify the influence of powerful groups and individuals, threatening the autonomy of individual decision-making."
+      "title": "Proxmox Datacenter Manager 1.0 available",
+      "url": "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0",
+      "published": "2025-12-04T15:31:12",
+      "image": "https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-1240.png",
+      "summary": "Proxmox has released Datacenter Manager 1.0, a new tool that simplifies the management of virtualized data centers. This innovative platform enables centralized management of multiple Proxmox VE clusters, streamlining tasks and improving scalability. With this release, Proxmox aims to make data center management more efficient and user-friendly for IT administrators."
     }
   ]
 }
