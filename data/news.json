@@ -1,15 +1,6 @@
 {
-  "updated": "2025-12-04T20:02:47.895358",
+  "updated": "2025-12-05T00:44:04.365260",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How confessions can keep language models honest",
-      "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
-      "published": "Wed, 03 Dec 2025 10:00:00 GMT",
-      "image": "data/images/cde3f850a45d41dcb1c22056411b7e09.png",
-      "summary": "Researchers have found that \"confessions\" - a technique where language models are prompted to admit when they don't know something - can significantly improve their honesty and accuracy. By acknowledging their limitations, language models can reduce the spread of misinformation and provide more reliable responses. This innovation has the potential to increase trust in AI-generated content and improve the overall quality of language model outputs."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,7 +8,16 @@
       "url": "https://openai.com/index/openai-to-acquire-neptune",
       "published": "Wed, 03 Dec 2025 10:00:00 GMT",
       "image": "data/images/90006b5b1bc32f72344365d5beecdd9e.png",
-      "summary": "OpenAI has announced plans to acquire Neptune, a platform that helps researchers and developers track and manage machine learning experiments. This acquisition is expected to enhance OpenAI's capabilities in experiment management and reproducibility, further advancing the development of AI models. The move underscores OpenAI's commitment to streamlining AI research and development processes."
+      "summary": "OpenAI is set to acquire Neptune, a platform that helps companies build and deploy machine learning models. This acquisition is expected to enhance OpenAI's capabilities in model development and deployment, further solidifying its position in the AI industry. The move will likely accelerate the development of more advanced AI technologies and applications."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How confessions can keep language models honest",
+      "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+      "published": "Wed, 03 Dec 2025 10:00:00 GMT",
+      "image": "data/images/cde3f850a45d41dcb1c22056411b7e09.png",
+      "summary": "Researchers have discovered that \"confessions\" - a technique where language models are prompted to admit when they don't know something - can significantly improve their honesty and accuracy. By encouraging models to acknowledge uncertainty, confessions can help mitigate the spread of misinformation and promote more trustworthy interactions. This innovation has the potential to increase transparency and reliability in AI-powered language systems."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/people-first-ai-fund-grantees",
       "published": "Wed, 03 Dec 2025 08:00:00 GMT",
       "image": "data/images/02fd52dd9c6fc78766d33c49d7e332ee.png",
-      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and equity in the development of artificial intelligence. These grants aim to foster a more inclusive and responsible AI ecosystem, driving innovation that benefits people and society. The funded projects will explore applications of AI in areas such as education, healthcare, and social justice."
+      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and equity in the development of artificial intelligence. These grants aim to promote responsible AI innovation, addressing issues like bias, transparency, and accountability. By funding people-centered AI initiatives, the organization seeks to create a more inclusive and beneficial AI ecosystem."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/mirakl",
       "published": "Mon, 01 Dec 2025 22:00:00 GMT",
       "image": "data/images/6b817fa90d39391b6bce73a75c54415d.png",
-      "summary": "Mirakl is pioneering \"agentic commerce,\" a revolutionary approach that empowers businesses to create personalized, AI-driven shopping experiences. This innovative vision leverages artificial intelligence to connect customers with relevant products and services, streamlining the online shopping process. By adopting agentic commerce, companies can enhance customer engagement and drive sales through tailored recommendations and seamless interactions."
+      "summary": "Mirakl is pioneering \"agentic commerce,\" a revolutionary approach that empowers businesses to create personalized, autonomous, and adaptive shopping experiences. This innovative vision leverages AI and machine learning to enable real-time decision-making and tailored customer interactions. By redefining the commerce landscape, Mirakl aims to help companies drive growth and stay competitive in a rapidly evolving market."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/ai-mental-health-research-grants",
       "published": "Mon, 01 Dec 2025 12:00:00 GMT",
       "image": "data/images/6ce0bc892026809c3c77bfbe74e3b37f.png",
-      "summary": "The funding grants aim to support innovative research into the intersection of AI and mental health, exploring how artificial intelligence can be used to improve diagnosis, treatment, and prevention of mental health conditions. This initiative has the potential to revolutionize mental health care by leveraging AI's capabilities to analyze complex data and develop personalized interventions. By investing in this research, the goal is to improve mental health outcomes and enhance the overall well-being of individuals."
+      "summary": "Researchers have been awarded funding grants to explore the intersection of AI and mental health, aiming to develop innovative solutions for diagnosis, treatment, and support. This new research initiative seeks to harness the power of AI to improve mental health outcomes and address the growing need for more effective interventions. By combining AI and mental health expertise, scientists hope to create more personalized and accessible care options."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to combat the impacts of climate change, using advanced engineering techniques to enhance their ability to withstand rising temperatures and extreme weather conditions. This innovation aims to improve crop yields and food security in a warming world. By engineering climate-resilient crops, researchers hope to mitigate the effects of climate change on global food production."
+      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using advanced engineering techniques to enhance their ability to withstand extreme temperatures and weather conditions. This innovation aims to improve crop yields and food security in the face of rising global temperatures. By creating climate-resilient crops, researchers hope to mitigate the impacts of climate change on agriculture and ensure a sustainable food supply."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant strides in the field of biology and medicine over the past five years. Its ability to accurately predict protein structures has accelerated scientific discoveries, enabling breakthroughs in disease research and drug development. This innovation has far-reaching implications, transforming our understanding of the human body and paving the way for new treatments and therapies."
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impacts in the scientific community over the past five years, accelerating discoveries in fields like medicine and biology. Its ability to accurately predict 3D protein structures has enabled breakthroughs in disease research and drug development. By democratizing access to protein folding predictions, AlphaFold has opened up new avenues for researchers and scientists to explore and innovate."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies and improved patient outcomes. By understanding the function of this protein, scientists can now explore innovative ways to prevent and manage heart disease."
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies for preventing and managing cardiovascular conditions. By understanding the function of this protein, scientists may be able to develop targeted interventions to reduce the risk of heart disease."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is integrating AI-powered image verification into its app, aiming to enhance user trust and security by automatically detecting and flagging suspicious or fake images. This innovative feature utilizes machine learning algorithms to analyze images and prevent potential scams or phishing attempts. By leveraging AI, Gemini is taking a proactive step towards protecting its users from visual deception."
+      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to authenticate the legitimacy of images and combat deepfakes. This innovative feature utilizes machine learning to detect and flag manipulated or fake images, enhancing user trust and safety. By leveraging AI, Gemini aims to stay ahead of emerging threats and provide a more secure experience for its users."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
       "published": "Thu, 20 Nov 2025 15:11:14 +0000",
       "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model allows for more efficient and accurate image processing, paving the way for new use cases in fields like computer vision and AI. With Nano Banana Pro, creators can unlock new possibilities for image-based projects and experiences."
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge image model based on the Gemini 3 Pro architecture, allowing developers to build innovative applications with enhanced visual capabilities. This model enables advanced image generation and manipulation, opening up new possibilities for creative and technical projects. With Nano Banana Pro, users can unlock new levels of visual expression and automation."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers fine-tuned Claude, an AI model, to work with an open-source large language model (LLM), allowing for more customizable and accessible language processing capabilities. This innovation enables developers to tailor the LLM to specific tasks and industries, potentially leading to more accurate and efficient language understanding. The fine-tuned model can be used for a range of applications, from text generation to conversational AI."
+      "summary": "Researchers fine-tuned Claude, an AI model, to work with an open-source large language model (LLM), enabling more accessible and customizable language processing capabilities. This breakthrough allows developers to adapt and improve the model for specific tasks, driving innovation in natural language understanding. The collaboration has the potential to accelerate advancements in AI and language technology."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating custom policies and reasoning capabilities, reducing errors and improving overall performance. By integrating this technology, developers can create more reliable and trustworthy AI models that better align with real-world requirements."
+      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications by ensuring they adhere to specific rules and regulations. This innovation allows for more efficient and reliable decision-making in AI systems, reducing the risk of errors or unintended consequences. By integrating reasoning into policy enforcement, developers can create more trustworthy and compliant AI models."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "data/images/3d6e0a7360d145e4fa0d32a79eec62e7.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to integrate and customize AI models. This update empowers the AI ecosystem by providing a more flexible and accessible framework for building and deploying AI applications. With v5, developers can now focus on innovation and experimentation, driving further advancements in AI capabilities."
+      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to integrate AI models into their applications. This update empowers the AI ecosystem by providing a more streamlined and accessible way to work with transformer-based models. By reducing complexity, Transformers v5 has the potential to accelerate AI innovation and adoption across various industries."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/flux-2",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "data/images/7ade91402396a044178cc01c085c9038.png",
-      "summary": "Diffusers has introduced FLUX-2, a new addition that is expected to bring significant advancements in AI-generated content. FLUX-2 aims to improve the efficiency and quality of diffusion models, enabling more realistic and detailed outputs. This update has the potential to revolutionize the field of AI art and image generation, offering new creative possibilities for users."
+      "summary": "Diffusers has introduced FLUX-2, a new addition to its platform, which is expected to bring enhanced capabilities and improvements. FLUX-2 is likely to offer advanced features and tools, further expanding the possibilities of diffusers. This update may have significant implications for users, enabling more efficient and effective workflows."
     },
     {
       "source": "RSS",
@@ -134,16 +134,61 @@
       "url": "https://huggingface.co/blog/continuous_batching",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "data/images/6b3d62de3a06b17ab33db9abf1acd5f0.png",
-      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence and machine learning models. This method, derived from first principles, aims to optimize batch processing and improve overall system performance. By rethinking the fundamentals of batching, this innovation has the potential to accelerate AI and ML workloads."
+      "summary": "Researchers have introduced a new approach to continuous batching, a technique that enables more efficient processing of data in artificial intelligence models. By re-examining the fundamentals of batching, this method has the potential to significantly improve the speed and scalability of AI systems. This innovation could lead to breakthroughs in areas like natural language processing and computer vision."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The long wait is over, Ganymede has arrived",
-      "url": "https://endeavouros.com/news/the-long-wait-is-over-ganymede-has-arrived/",
-      "published": "2025-11-29T23:57:13",
-      "image": "https://endeavouros.com/wp-content/uploads/2025/11/EndeavourOS_Ganymede__3840x2160-scaled.jpg",
-      "summary": "The highly-anticipated Ganymede release has finally arrived, bringing with it a slew of exciting new features and updates. This major milestone promises to revolutionize the tech landscape, offering improved performance, enhanced functionality, and a more streamlined user experience. With its arrival, developers and users alike can look forward to exploring the vast possibilities and innovations that Ganymede has to offer."
+      "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
+      "url": "https://openrouter.ai/state-of-ai",
+      "published": "2025-12-04T22:26:43",
+      "image": "https://openrouter.ai/dynamic-og?pathname=state-of-ai&title=State+of+AI&description=An+empirical+study+analyzing+over+100+trillion+tokens+of+real-world+LLM+interactions+across+tasks%2C+geographies%2C+and+time.",
+      "summary": "Researchers have released a study on the state of AI, training a massive 100T token model using OpenRouter, a open-source routing framework. This breakthrough achievement demonstrates the potential for open-source AI models to rival those developed by tech giants, promoting greater accessibility and innovation in the field. The study's findings highlight the rapidly advancing capabilities of AI and its potential to drive significant technological progress."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How elites could shape mass preferences as AI reduces persuasion costs",
+      "url": "https://arxiv.org/abs/2512.04047",
+      "published": "2025-12-04T08:38:17",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "A new concept suggests that AI could significantly lower the cost of persuasion, enabling elites to more easily shape public opinion and manipulate mass preferences. This raises concerns about the potential for AI-facilitated influence and control, particularly in the realms of politics and social discourse. As AI-powered persuasion tools become more prevalent, the boundaries between authentic public opinion and manipulated sentiment may become increasingly blurred."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "url": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
+      "published": "2025-12-04T23:08:25",
+      "image": "data/images/ef0b8b58a7966f3d300d1d279c9e8710.png",
+      "summary": "Researchers gave five large language models (LLMs) $100,000 each to trade stocks over an 8-month period, testing their ability to make investment decisions. The results showed that while the LLMs were able to learn and adapt, none of them were able to outperform the S&P 500 index, highlighting the challenges of applying AI to complex financial markets. The experiment provides valuable insights into the limitations and potential of AI-driven trading systems."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
+      "url": "https://www.bbc.com/news/articles/c1w932vqye0o",
+      "published": "2025-12-04T20:56:08",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/28c4/live/af28cc40-d12f-11f0-91c0-a3ef1eb0ee2e.png",
+      "summary": "A Cozy Mk IV light aircraft crashed due to a 3D-printed engine part that was weakened by heat, highlighting the potential risks of using additive manufacturing in critical aircraft components. The incident underscores the need for rigorous testing and certification of 3D-printed parts in aerospace applications. This crash serves as a cautionary tale for the industry's growing reliance on 3D printing technology."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "SMS phishers pivot to points, taxes, fake retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "2025-12-04T23:08:07",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2025/12/tmobpoints-smish.png",
+      "summary": "SMS phishers are shifting their tactics to exploit new targets, including loyalty points, tax refunds, and fake online retailers, in an attempt to trick victims into divulging sensitive information. This pivot highlights the evolving nature of phishing attacks, which continue to adapt to new vulnerabilities and deception methods. As a result, users must remain vigilant and cautious when receiving suspicious messages, especially those related to financial or personal data."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Some models of reality are bolder than others",
+      "url": "https://cjauvin.github.io/posts/metaphysical-boldness/",
+      "published": "2025-12-02T15:23:57",
+      "image": "data/images/0fa7b2f525a8adab475e8a3dc4896b35.png",
+      "summary": "A recent discussion on Hacker News explores the concept of \"bold\" models of reality, which refer to simulations or theories that challenge our current understanding of the world. These models, such as the simulation hypothesis, propose radical ideas about the nature of reality, encouraging innovative thinking and debate. By considering these unconventional perspectives, researchers and thinkers can push the boundaries of human knowledge and understanding."
     },
     {
       "source": "Hacker News",
@@ -152,34 +197,7 @@
       "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
       "published": "2025-12-04T15:31:52",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
-      "summary": "Microsoft has significantly reduced its AI sales targets by half after its sales team failed to meet their quotas, indicating a slower-than-expected adoption of AI solutions. This adjustment reflects the challenges of integrating AI into existing business models and the need for more realistic expectations. The move may impact Microsoft's revenue projections and influence its AI development strategy."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-      "url": "https://uncloud.run/",
-      "published": "2025-12-04T06:02:23",
-      "image": "https://uncloud.run/images/logo-wide.png",
-      "summary": "Uncloud is a new tool that enables developers to deploy containerized applications across multiple servers without relying on Kubernetes (k8s). This simplifies the deployment process and reduces the complexity associated with container orchestration. By eliminating the need for k8s, Uncloud aims to make containerized app deployment more accessible and efficient for developers."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Building optimistic UI in Rails (and learn custom elements)",
-      "url": "https://railsdesigner.com/custom-elements/",
-      "published": "2025-12-04T11:03:16",
-      "image": "data/images/c430fad41f7bcb93cdf5218b41f9743a.png",
-      "summary": "Developers can now create optimistic UI in Rails, allowing for a more seamless user experience by temporarily displaying the expected outcome of an action before the server confirms it. This approach improves responsiveness and reduces perceived latency. By leveraging custom elements, developers can further enhance their applications with reusable, modular components."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Proxmox Datacenter Manager 1.0 available",
-      "url": "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0",
-      "published": "2025-12-04T15:31:12",
-      "image": "https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-1240.png",
-      "summary": "Proxmox has released Datacenter Manager 1.0, a new tool that simplifies the management of virtualized data centers. This innovative platform enables centralized management of multiple Proxmox VE clusters, streamlining tasks and improving scalability. With this release, Proxmox aims to make data center management more efficient and user-friendly for IT administrators."
+      "summary": "Microsoft has significantly reduced its AI sales targets by half after its sales team failed to meet their quotas, indicating a slower-than-expected adoption of AI technology. This adjustment suggests that the company is reassessing its expectations for AI revenue growth. The move may impact Microsoft's overall revenue projections and its competitive position in the AI market."
     }
   ]
 }
