@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-07T12:15:36.638831",
+  "updated": "2025-12-07T16:02:25.798279",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/global-affairs/openai-for-australia",
       "published": "Thu, 04 Dec 2025 19:00:00 GMT",
       "image": "data/images/2e0148c5e087c908277cb684343cc708.png",
-      "summary": "OpenAI has launched a tailored version for Australia, providing localized AI models and tools to support the country's businesses, researchers, and developers. This initiative aims to drive innovation and economic growth in Australia by making AI more accessible and relevant to the local market. With OpenAI for Australia, users can leverage AI capabilities to solve unique challenges and opportunities specific to the region."
+      "summary": "OpenAI has launched a dedicated platform for Australia, providing access to its AI models and tools tailored to the country's specific needs. This initiative aims to drive innovation and economic growth in Australia by enabling businesses, researchers, and developers to leverage AI capabilities. With OpenAI for Australia, the country is poised to unlock new opportunities in areas like education, healthcare, and finance."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/openai-to-acquire-neptune",
       "published": "Wed, 03 Dec 2025 10:00:00 GMT",
       "image": "data/images/90006b5b1bc32f72344365d5beecdd9e.png",
-      "summary": "OpenAI has announced plans to acquire Neptune, a platform for building and deploying machine learning models. This acquisition is expected to enhance OpenAI's capabilities in model development and deployment, further solidifying its position in the AI landscape. The move will likely accelerate innovation in AI research and applications, driving new advancements in the field."
+      "summary": "OpenAI is set to acquire Neptune, a cutting-edge machine learning platform, in a move that will further enhance its AI capabilities and accelerate innovation in the field. This acquisition is expected to bolster OpenAI's research and development efforts, driving advancements in areas like natural language processing and computer vision. By combining Neptune's expertise with its own, OpenAI aims to push the boundaries of AI and unlock new possibilities for users."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
       "published": "Wed, 03 Dec 2025 10:00:00 GMT",
       "image": "data/images/cde3f850a45d41dcb1c22056411b7e09.png",
-      "summary": "Researchers have discovered that \"confessing\" when a language model is unsure or lacks knowledge can significantly improve its honesty and transparency. This approach, which involves training models to express uncertainty or admit when they don't know something, can help mitigate the spread of misinformation and increase trust in AI-generated content. By acknowledging their limitations, language models can provide more accurate and reliable information, making them more useful and trustworthy tools."
+      "summary": "Researchers have found that \"confessions\" - a technique where language models are prompted to admit when they don't know something - can significantly improve their honesty and accuracy. By encouraging models to say \"I don't know\" when uncertain, confessions can help mitigate the spread of misinformation and increase trust in AI-generated content. This innovation has the potential to make language models more reliable and transparent in their responses."
     },
     {
       "source": "RSS",
@@ -34,8 +34,8 @@
       "title": "Announcing the initial People-First AI Fund grantees",
       "url": "https://openai.com/index/people-first-ai-fund-grantees",
       "published": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and safety in the development of artificial intelligence. This initiative aims to promote responsible AI innovation, focusing on transparency, accountability, and fairness. By funding these projects, the People-First AI Fund is driving a more equitable and beneficial approach to AI development."
+      "image": "data/images/02fd52dd9c6fc78766d33c49d7e332ee.png",
+      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and equity in the development of artificial intelligence. These grants aim to foster a more inclusive and responsible AI ecosystem, driving innovation that benefits society as a whole. By investing in people-centered AI initiatives, the fund seeks to create a positive impact on communities and individuals."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/mirakl",
       "published": "Mon, 01 Dec 2025 22:00:00 GMT",
       "image": "data/images/6b817fa90d39391b6bce73a75c54415d.png",
-      "summary": "Mirakl is pioneering \"agentic commerce\", a revolutionary approach that empowers businesses to create personalized, AI-driven shopping experiences. This innovative model enables companies to connect with customers through autonomous agents, streamlining interactions and fostering deeper relationships. By leveraging AI and machine learning, Mirakl's agentic commerce vision aims to transform the future of e-commerce and customer engagement."
+      "summary": "Mirakl is pioneering \"agentic commerce\", a revolutionary approach that empowers businesses to create personalized, autonomous, and adaptive shopping experiences. This innovative vision leverages AI and machine learning to enable more intuitive and dynamic customer interactions. By doing so, Mirakl aims to transform the e-commerce landscape and redefine the way companies connect with their customers."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using innovative engineering techniques to enhance their ability to tolerate extreme temperatures and droughts. This breakthrough has the potential to improve global food security and reduce crop losses due to climate change. By creating climate-resilient crops, researchers aim to ensure a more sustainable food supply for future generations."
+      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using advanced engineering techniques to enhance their ability to withstand extreme temperatures and weather conditions. This innovation aims to improve crop yields and food security in the face of rising global temperatures. By creating climate-resilient crops, researchers hope to mitigate the impacts of climate change on agriculture and ensure a more sustainable food supply."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI-powered protein structure prediction tool, has made a significant impact in the scientific community over the past five years. Developed by DeepMind, AlphaFold has enabled researchers to accelerate drug discovery, understand disease mechanisms, and explore new areas of biology. Its accuracy and speed have transformed the field of structural biology, opening up new avenues for medical research and potential breakthroughs."
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impact over the past five years, transforming the field of biology and medicine by accurately predicting 3D protein structures. This breakthrough has enabled scientists to better understand diseases, develop new treatments, and design novel therapeutics. AlphaFold's innovations have opened up new avenues for research, promising to accelerate medical discoveries and improve human health."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies and improved outcomes for patients with cardiovascular conditions. By understanding the protein's function, scientists can now explore innovative ways to target and prevent heart disease."
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery sheds light on the underlying mechanisms of heart disease, allowing scientists to better understand the condition and develop targeted therapies. By targeting this protein, new treatments could help prevent or reverse heart disease, improving outcomes for millions of people worldwide."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to easily verify the authenticity of images and detect potential deepfakes. This innovation leverages AI technology to analyze images and provide users with a higher level of trust and security. By doing so, Gemini aims to combat misinformation and promote a safer online environment."
+      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to instantly verify the authenticity of images and detect potential deepfakes. This innovative feature utilizes machine learning algorithms to analyze images and provide a trust score, enhancing user safety and security. By bringing AI image verification to its platform, Gemini aims to stay ahead of emerging threats and protect its users from misinformation."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
       "published": "Thu, 20 Nov 2025 15:11:14 +0000",
       "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model is designed to facilitate the creation of powerful image-based projects, leveraging the latest advancements in AI and machine learning. With Nano Banana Pro, developers can unlock new possibilities in image processing and generation, driving innovation in various industries."
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model offers a powerful tool for generating and manipulating images, opening up new possibilities for creative and technical projects. With Nano Banana Pro, users can unlock new levels of visual expression and automation in their work."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The swift-huggingface library provides a comprehensive Swift client for Hugging Face, allowing developers to seamlessly integrate AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation enables Swift developers to leverage Hugging Face's vast model repository and accelerate AI-powered app development. By bridging the gap between Swift and Hugging Face, developers can now build more intelligent and interactive applications."
+      "summary": "The swift-huggingface library has been introduced, providing a complete Swift client for Hugging Face, enabling developers to seamlessly integrate AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation allows for easy access to Hugging Face's vast model repository, streamlining the development of AI-powered applications. With swift-huggingface, developers can now leverage the power of Hugging Face's models to build more intelligent and interactive user experiences."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers successfully fine-tuned Claude, an AI model, on an open-source large language model (LLM), demonstrating the potential for community-driven advancements in AI development. This breakthrough enables developers to adapt and improve LLMs, driving innovation in natural language processing. The open-source approach could accelerate the development of more accurate and specialized AI models."
+      "summary": "Researchers fine-tuned Claude, an AI model, on an open-source large language model (LLM), demonstrating the potential for community-driven advancements in AI technology. This innovation enables developers to build upon and improve existing LLMs, driving progress in natural language processing. The outcome showcases the possibilities of collaborative AI development and its potential impact on the future of language models."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have developed a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications by ensuring they adhere to specific rules and regulations. This innovation allows AI systems to make more informed decisions while minimizing potential risks. By integrating reasoning into policy enforcement, AI applications can become more reliable and trustworthy."
+      "summary": "Researchers have developed a custom policy enforcement framework that utilizes reasoning to enhance the safety and speed of AI applications. This innovation enables AI systems to make more informed decisions while adhering to specific policies and guidelines, reducing potential risks and errors. By integrating reasoning into policy enforcement, AI applications can become more reliable and efficient in various industries."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "data/images/3d6e0a7360d145e4fa0d32a79eec62e7.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update enables seamless adoption of AI technologies, driving innovation across the ecosystem. By streamlining model development, Transformers v5 is poised to accelerate AI advancements and applications."
+      "summary": "The latest version of Transformers, v5, has been released, offering simplified model definitions to power the AI ecosystem. This update enables easier integration and customization of transformer models, driving innovation in natural language processing and other AI applications. By streamlining model development, Transformers v5 is poised to accelerate advancements in AI research and industry adoption."
     },
     {
       "source": "RSS",
@@ -134,7 +134,16 @@
       "url": "https://huggingface.co/blog/flux-2",
       "published": "Tue, 25 Nov 2025 00:00:00 GMT",
       "image": "data/images/7ade91402396a044178cc01c085c9038.png",
-      "summary": "Diffusers has introduced FLUX-2, a significant update that enhances its capabilities, although details about its specific features and improvements are not provided. This addition is expected to expand the possibilities for users of the Diffusers platform. The integration of FLUX-2 may bring new tools and functionalities to the table, further innovating the field it operates in."
+      "summary": "Diffusers has introduced FLUX-2, a new addition to its platform, which is expected to enhance its capabilities in AI model generation and editing. FLUX-2 brings improved functionality and features, allowing for more efficient and effective model development. This update is set to have a significant impact on the AI community, enabling users to create and refine models with greater ease and precision."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google Titans architecture, helping AI have long-term memory",
+      "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+      "published": "2025-12-07T12:23:45",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+      "summary": "Google's Titans architecture is a new AI framework that enables long-term memory, allowing AI models to retain and recall information over extended periods, similar to human memory. This innovation has the potential to significantly improve AI's ability to learn, reason, and make decisions. By mimicking human-like memory, Titans architecture could lead to breakthroughs in areas like natural language processing and computer vision."
     },
     {
       "source": "Hacker News",
@@ -143,7 +152,7 @@
       "url": "https://rfd.shared.oxide.computer/rfd/0576",
       "published": "2025-12-07T01:17:40",
       "image": "data/images/9c43e59ef2f183755d5bf515066a3497.png",
-      "summary": "Oxide is leveraging Large Language Models (LLMs) to revolutionize their workflow, utilizing AI-powered tools to automate tasks and enhance productivity. By integrating LLMs, Oxide aims to streamline processes and improve efficiency, paving the way for innovative applications of AI in their operations. This adoption of LLMs showcases the growing potential of AI in transforming industries and workflows."
+      "summary": "Oxide is leveraging Large Language Models (LLMs) to enhance their workflow, utilizing AI-powered tools to automate tasks and improve efficiency. This innovative approach enables their team to focus on high-priority tasks, driving productivity and innovation. By embracing LLMs, Oxide is at the forefront of AI adoption, paving the way for other companies to explore similar applications."
     },
     {
       "source": "Hacker News",
@@ -151,8 +160,8 @@
       "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
       "url": "https://github.com/Tongyi-MAI/Z-Image",
       "published": "2025-11-30T11:36:34",
-      "image": "https://opengraph.githubassets.com/736dafce47b9e7d20525f9ede1b8c4e209570c47185de2ff603b56fdb9cd75a6/Tongyi-MAI/Z-Image",
-      "summary": "Researchers have introduced Z-Image, a groundbreaking image generation model boasting 6 billion parameters, which enables highly efficient and powerful image creation. This innovative model has the potential to revolutionize the field of computer vision and AI-generated content. With its massive parameter count, Z-Image can generate remarkably realistic and detailed images, opening up new possibilities for applications in art, design, and more."
+      "image": "https://opengraph.githubassets.com/ad2733a930af2db8e55d130fa9a6a8835c93312b9b55237c2a0478f562128215/Tongyi-MAI/Z-Image",
+      "summary": "Researchers have unveiled Z-Image, a groundbreaking image generation model boasting 6 billion parameters, which enables highly efficient and powerful image creation. This innovation has the potential to revolutionize fields such as graphic design, art, and entertainment. With its massive parameter count, Z-Image can generate high-quality images with unprecedented detail and realism."
     },
     {
       "source": "Hacker News",
@@ -161,16 +170,7 @@
       "url": "https://arxiv.org/abs/2505.17272",
       "published": "2025-12-06T20:15:54",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Researchers have introduced Zebra-Llama, a novel hybrid model that combines the strengths of large language models and efficient architectures to achieve better performance while reducing computational costs. This innovative approach enables faster and more accurate processing of natural language tasks, making it a significant step towards more efficient AI models. By merging the benefits of different architectures, Zebra-Llama has the potential to revolutionize the field of natural language processing."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trains cancelled over fake bridge collapse image",
-      "url": "https://www.bbc.com/news/articles/cwygqqll9k2o",
-      "published": "2025-12-07T00:37:15",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5e92/live/bc1e9fa0-d1fd-11f0-a892-01d657345866.jpg",
-      "summary": "A fake image of a bridge collapse was circulated online, prompting authorities to cancel trains as a precautionary measure. The image, which was later revealed to be a photoshopped hoax, caused significant disruptions to rail services. The incident highlights the potential for misinformation to have real-world consequences and impact critical infrastructure."
+      "summary": "Researchers have introduced Zebra-Llama, a novel hybrid approach that combines the strengths of large language models and specialized models to achieve efficient and accurate performance. This innovation enables the creation of more versatile and adaptable AI models, reducing computational costs and improving overall efficiency. By leveraging the best of both worlds, Zebra-Llama has the potential to revolutionize various applications of natural language processing."
     }
   ]
 }
