@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-08T12:18:21.215541",
+  "updated": "2025-12-08T16:02:53.461349",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Instacart and OpenAI partner on AI shopping experiences",
+      "url": "https://openai.com/index/instacart-partnership",
+      "published": "Mon, 08 Dec 2025 06:00:00 GMT",
+      "image": "data/images/04406f188d7ede97bf6be6262cc38574.png",
+      "summary": "Instacart has partnered with OpenAI to integrate AI-powered shopping experiences, enabling customers to interact with virtual shopping assistants and receive personalized product recommendations. This collaboration aims to enhance the online grocery shopping experience, making it more intuitive and efficient. By leveraging OpenAI's technology, Instacart seeks to revolutionize the way people shop for groceries online."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
       "published": "Mon, 08 Dec 2025 04:00:00 GMT",
       "image": "data/images/f662ba22721809713945db3685035ef6.png",
-      "summary": "The state of enterprise AI is rapidly evolving, with more businesses adopting artificial intelligence to drive innovation and efficiency. Key advancements include increased use of machine learning, natural language processing, and automation, transforming industries such as healthcare, finance, and customer service. As AI adoption grows, companies are seeing significant improvements in productivity, decision-making, and customer experience."
+      "summary": "The state of enterprise AI reveals a growing trend of businesses adopting artificial intelligence to drive innovation and efficiency. Key advancements include the use of machine learning for predictive analytics and automation, leading to improved decision-making and reduced operational costs. As AI continues to evolve, enterprises are poised to unlock new opportunities for growth and competitiveness."
     },
     {
       "source": "RSS",
@@ -17,16 +26,7 @@
       "url": "https://openai.com/global-affairs/openai-for-australia",
       "published": "Thu, 04 Dec 2025 19:00:00 GMT",
       "image": "data/images/2e0148c5e087c908277cb684343cc708.png",
-      "summary": "OpenAI has launched a tailored version for Australia, providing access to its AI models and tools for local businesses, developers, and researchers. This move aims to drive innovation and economic growth in the region by leveraging AI capabilities. The introduction of OpenAI for Australia is expected to have a significant impact on the country's tech industry, enabling new applications and use cases."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI to acquire Neptune",
-      "url": "https://openai.com/index/openai-to-acquire-neptune",
-      "published": "Wed, 03 Dec 2025 10:00:00 GMT",
-      "image": "data/images/90006b5b1bc32f72344365d5beecdd9e.png",
-      "summary": "OpenAI has announced plans to acquire Neptune, a cutting-edge database company, to enhance its AI infrastructure and improve data management capabilities. This acquisition is expected to accelerate OpenAI's development of more advanced AI models and applications. The move highlights OpenAI's focus on building a robust tech stack to support its innovative AI solutions."
+      "summary": "OpenAI has launched a tailored version of its AI platform for Australia, aiming to provide localized solutions and support for businesses and developers. This move is expected to drive innovation and adoption of AI technologies in the Australian market. By introducing region-specific features and capabilities, OpenAI seeks to address unique challenges and opportunities in the Australian economy."
     },
     {
       "source": "RSS",
@@ -35,16 +35,16 @@
       "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
       "published": "Wed, 03 Dec 2025 10:00:00 GMT",
       "image": "data/images/cde3f850a45d41dcb1c22056411b7e09.png",
-      "summary": "Researchers have discovered that incorporating \"confessions\" into language models can improve their honesty and transparency, allowing them to admit when they don't know something. This innovation has the potential to increase trust in AI-generated responses and reduce the spread of misinformation. By acknowledging their limitations, language models can provide more accurate and reliable information."
+      "summary": "Researchers have discovered that \"confessions\" - a technique where language models are prompted to admit when they don't know something - can significantly improve their honesty and accuracy. By acknowledging their limitations, language models can reduce the spread of misinformation and provide more reliable responses. This innovation has the potential to increase trust in AI-generated content and improve the overall quality of language model outputs."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Announcing the initial People-First AI Fund grantees",
-      "url": "https://openai.com/index/people-first-ai-fund-grantees",
-      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "image": "data/images/02fd52dd9c6fc78766d33c49d7e332ee.png",
-      "summary": "The People-First AI Fund has announced its initial grantees, supporting projects that prioritize human well-being and fairness in artificial intelligence development. These grants aim to foster a more equitable and transparent AI ecosystem, driving innovation that benefits society as a whole. By investing in people-centered AI research, the fund seeks to create a more responsible and inclusive AI landscape."
+      "title": "OpenAI to acquire Neptune",
+      "url": "https://openai.com/index/openai-to-acquire-neptune",
+      "published": "Wed, 03 Dec 2025 10:00:00 GMT",
+      "image": "data/images/90006b5b1bc32f72344365d5beecdd9e.png",
+      "summary": "OpenAI has announced plans to acquire Neptune, a platform for building and deploying machine learning models. This acquisition is expected to enhance OpenAI's capabilities in model development and deployment, further advancing the field of artificial intelligence. The move highlights OpenAI's commitment to expanding its offerings and improving the efficiency of AI model development."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using advanced engineering techniques to enhance their ability to withstand extreme temperatures and weather conditions. This innovation aims to improve crop yields and food security in the face of rising global temperatures. By creating climate-resilient crops, researchers hope to mitigate the impacts of climate change on agriculture and ensure a more sustainable food supply."
+      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using innovative engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This breakthrough has the potential to improve global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to ensure a stable food supply for future generations."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI model, has made significant strides in protein structure prediction over the past five years, transforming the field of biology and medicine. Its impact has enabled breakthroughs in disease research, drug discovery, and our understanding of the human body. By accurately predicting protein shapes, AlphaFold has opened up new avenues for scientific inquiry and innovation, promising to accelerate medical advancements."
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impact over the past five years, accelerating scientific discoveries and transforming the field of biology. Its ability to accurately predict 3D protein structures has enabled breakthroughs in disease research, drug development, and our understanding of the human body. By democratizing access to protein folding predictions, AlphaFold has opened up new avenues for researchers and scientists to explore."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery sheds light on the underlying mechanisms of cardiovascular disease, which is a leading cause of death worldwide. By targeting this protein, scientists may be able to develop more effective therapies to prevent and manage heart disease."
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies and improved patient outcomes. By targeting this protein, scientists may be able to reduce the risk of heart disease, a leading cause of death worldwide."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is introducing AI-powered image verification to its app, enabling users to verify the authenticity of images and combat misinformation. This innovative feature utilizes machine learning to detect and flag manipulated or fake images, promoting a safer and more trustworthy experience. By integrating AI image verification, Gemini aims to stay ahead of emerging threats and provide a more secure platform for its users."
+      "summary": "Gemini is integrating AI-powered image verification into its app, aiming to enhance user security and authenticity. This innovative feature will help detect and prevent fake or manipulated images, promoting a safer and more trustworthy experience for users. By leveraging AI technology, Gemini is setting a new standard for image verification in the industry."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
       "published": "Thu, 20 Nov 2025 15:11:14 +0000",
       "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model allows for more efficient and accurate image processing, opening up new possibilities for AI-powered projects. With Nano Banana Pro, creators can unlock new levels of visual intelligence and bring their ideas to life."
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model offers a powerful tool for generating and manipulating images, opening up new possibilities for AI-powered creativity and automation. With Nano Banana Pro, developers can unlock new levels of visual expression and functionality in their projects."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The new swift-huggingface library provides a complete Swift client for Hugging Face, enabling developers to easily integrate AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation allows for seamless access to Hugging Face's vast model repository, streamlining the development of AI-powered applications. With swift-huggingface, developers can now leverage the power of Hugging Face's models to build more intelligent and interactive user experiences."
+      "summary": "The Hugging Face team has introduced swift-huggingface, a comprehensive Swift client that enables seamless integration with their popular AI model hub. This new client allows developers to easily access and utilize Hugging Face's vast library of pre-trained models in their Swift-based projects. By bridging the gap between Swift and Hugging Face, developers can now leverage cutting-edge AI capabilities in their iOS, macOS, watchOS, and tvOS applications."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/intel-deepmath",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/62c942e58f3ecba520550dfb3250ea13.png",
-      "summary": "DeepMath is a cutting-edge AI agent that utilizes SmolAgents to provide lightweight and efficient math reasoning capabilities. This innovative technology enables the agent to solve complex mathematical problems with reduced computational resources, making it a significant breakthrough in the field of artificial intelligence. By leveraging SmolAgents, DeepMath has the potential to revolutionize math education and problem-solving applications."
+      "summary": "DeepMath is a groundbreaking AI agent that utilizes SmolAgents to provide lightweight and efficient math reasoning capabilities. This innovative technology enables machines to learn and solve mathematical problems with increased accuracy and speed. By leveraging SmolAgents, DeepMath has the potential to revolutionize math education and problem-solving applications."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers fine-tuned Claude, an AI model, on an open-source large language model (LLM), showcasing the potential for customization and improvement of open-source AI systems. This breakthrough allows for more tailored and efficient language processing capabilities. The success of this fine-tuning process opens up new possibilities for AI model development and application."
+      "summary": "Researchers fine-tuned Claude, an AI model, to improve an open-source Large Language Model (LLM), showcasing the potential for collaborative innovation in AI development. This breakthrough enables the open-source model to learn from Claude's capabilities, enhancing its performance and versatility. The outcome demonstrates the power of fine-tuning in advancing language model capabilities and promoting community-driven AI advancements."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications by allowing for more efficient and effective decision-making. This innovation has the potential to significantly improve the reliability and trustworthiness of AI systems. By integrating reasoning into policy enforcement, developers can create more robust and secure AI applications that better align with human values and regulations."
+      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating custom policies and rules, reducing errors and improving overall performance. By integrating reasoning capabilities, AI applications can now operate more efficiently and effectively, paving the way for widespread adoption in various industries."
     },
     {
       "source": "RSS",
@@ -134,16 +134,16 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "data/images/3d6e0a7360d145e4fa0d32a79eec62e7.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update fuels the growth of the AI ecosystem by providing a more accessible and flexible framework for building and deploying AI applications. By streamlining model development, Transformers v5 accelerates innovation and adoption of AI technologies across various industries."
+      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update streamlines the process of building and deploying AI applications, driving innovation across the AI ecosystem. By democratizing access to AI technology, Transformers v5 has the potential to accelerate breakthroughs in natural language processing and beyond."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Web app that lets you send email time capsules",
-      "url": "https://resurf.me",
-      "published": "2025-12-08T11:37:22",
-      "image": "https://resurf.me/images/og-image-e5b8006169621e322cdd50c3344d4f45.png?vsn=d",
-      "summary": "A new web app allows users to send \"email time capsules\" to their future selves or others, with the option to schedule delivery at a specific date and time. This innovative service enables people to capture memories, predictions, or goals and have them delivered at a later date, serving as a unique form of digital nostalgia. By providing a platform for scheduled email delivery, the app offers a fascinating way to reflect on personal growth and experiences over time."
+      "title": "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
+      "url": "https://steerlabs.substack.com/p/confident-idiot-problem",
+      "published": "2025-12-04T20:48:56",
+      "image": "data/images/b1a7d961d4bed3e1f0cd688ebb3cf9cc.png",
+      "summary": "The \"confident idiot\" problem refers to AI systems that provide incorrect answers with high confidence, highlighting the need for strict rules and guidelines to ensure accuracy. Without hard rules, AI models may rely on \"vibe checks\" or intuitive judgments that can lead to errors. Implementing clear guidelines can help mitigate this issue and improve the overall reliability of AI systems."
     },
     {
       "source": "Hacker News",
@@ -152,7 +152,16 @@
       "url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
       "published": "2025-12-07T17:18:54",
       "image": "https://j0nah.com/banner.jpg",
-      "summary": "A developer attempted to recreate the iconic 1996 Space Jam website using the Claude AI model, but ultimately failed to perfectly replicate the retro site's quirks and charm. The project highlights the challenges of using AI to recreate nostalgic web experiences, despite Claude's impressive capabilities. The experiment showcases the limitations of AI in replicating the unique character of old websites."
+      "summary": "A developer attempted to recreate the iconic 1996 Space Jam website using the AI model Claude, but ultimately failed to perfectly replicate the original site. The experiment highlights the challenges of using AI to recreate complex, nostalgia-tinged web designs from the past. Despite the failure, the project showcases the potential of AI in retro web design and sparks interesting discussions on digital preservation and nostalgia."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Web app that lets you send email time capsules",
+      "url": "https://resurf.me",
+      "published": "2025-12-08T11:37:22",
+      "image": "https://resurf.me/images/og-image-e5b8006169621e322cdd50c3344d4f45.png?vsn=d",
+      "summary": "A new web app allows users to send \"email time capsules\" to their future selves or others, enabling them to schedule emails to be delivered on a specific date in the future. This innovative service combines email and calendar functionality, making it possible to send messages that can be opened only at a predetermined time. The app has the potential to revolutionize the way we think about communication and nostalgia."
     },
     {
       "source": "Hacker News",
@@ -161,7 +170,7 @@
       "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
       "published": "2025-12-07T12:23:45",
       "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-      "summary": "Google's new Titans architecture enables AI models to retain information over long periods, mimicking human-like memory and learning capabilities. This innovation has the potential to significantly improve AI performance in areas such as natural language processing and decision-making. By allowing AI to recall and build upon past experiences, Titans could revolutionize the field of artificial intelligence."
+      "summary": "Google's new Titans architecture enables AI models to retain long-term memory, allowing them to learn from past experiences and recall information over extended periods. This innovation has the potential to significantly improve AI's ability to understand context and make informed decisions. By bridging the gap between short-term and long-term memory, Titans could pave the way for more advanced and human-like AI capabilities."
     }
   ]
 }
