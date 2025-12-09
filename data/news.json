@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-09T12:02:50.752248",
+  "updated": "2025-12-09T16:02:47.314108",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Launching our first OpenAI Certifications courses",
+      "url": "https://openai.com/index/openai-certificate-courses",
+      "published": "Tue, 09 Dec 2025 06:00:00 GMT",
+      "image": "data/images/0e9d297d0c45dc8c87b34f5e0c19f4ac.png",
+      "summary": "OpenAI has introduced its first certification courses, aiming to educate developers and professionals on effectively utilizing AI technologies. These courses will cover topics such as AI model development, deployment, and responsible AI practices. By launching these certifications, OpenAI seeks to establish a standard for AI expertise and promote innovation in the field."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/deutsche-telekom-collaboration",
       "published": "Tue, 09 Dec 2025 00:00:00 GMT",
       "image": "data/images/01f91660ffeca8727830462d160da853.png",
-      "summary": "Deutsche Telekom is expanding access to powerful AI technology across Europe, aiming to bring innovative solutions to millions of people. This collaboration is set to drive digital transformation and improve daily life through AI-powered services. By democratizing access to AI, Deutsche Telekom is poised to have a significant impact on the European tech landscape."
+      "summary": "Deutsche Telekom is partnering to bring powerful AI capabilities to millions of customers across Europe, enhancing their digital experiences. This collaboration aims to make AI more accessible and user-friendly, driving innovation and growth. By leveraging AI, Deutsche Telekom is poised to revolutionize the way Europeans live, work, and interact with technology."
     },
     {
       "source": "RSS",
@@ -17,7 +26,7 @@
       "url": "https://openai.com/index/instacart-partnership",
       "published": "Mon, 08 Dec 2025 06:00:00 GMT",
       "image": "data/images/04406f188d7ede97bf6be6262cc38574.png",
-      "summary": "Instacart has partnered with OpenAI to integrate artificial intelligence into its grocery shopping platform, enabling more personalized and streamlined shopping experiences. This collaboration will leverage OpenAI's technology to enhance Instacart's features, such as automated shopping lists and recipe suggestions. The partnership aims to revolutionize the online grocery shopping experience with AI-driven innovations."
+      "summary": "Instacart has partnered with OpenAI to integrate AI-powered features into its grocery shopping platform, aiming to create more personalized and efficient shopping experiences. This collaboration will leverage OpenAI's technology to enhance Instacart's search, navigation, and product recommendations. The partnership is expected to revolutionize the online grocery shopping landscape with more intuitive and tailored interactions."
     },
     {
       "source": "RSS",
@@ -26,7 +35,7 @@
       "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
       "published": "Mon, 08 Dec 2025 04:00:00 GMT",
       "image": "data/images/f662ba22721809713945db3685035ef6.png",
-      "summary": "The state of enterprise AI is rapidly evolving, with more companies adopting artificial intelligence to drive business growth and improve operational efficiency. Key innovations include the increasing use of machine learning and natural language processing to automate tasks and enhance customer experiences. As a result, enterprises are seeing significant gains in productivity, accuracy, and decision-making capabilities."
+      "summary": "The state of enterprise AI is rapidly evolving, with more companies adopting AI technologies to drive business innovation and efficiency. Key trends include the increasing use of machine learning and natural language processing to automate tasks and improve decision-making. As a result, enterprises are seeing significant improvements in productivity, customer experience, and competitiveness."
     },
     {
       "source": "RSS",
@@ -35,16 +44,7 @@
       "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
       "published": "Mon, 08 Dec 2025 00:00:00 GMT",
       "image": "data/images/74981c45d5e036ef53a26d98551c64c6.png",
-      "summary": "Virgin Atlantic is leveraging AI to revolutionize the travel experience, from personalized booking and check-in to predictive maintenance and improved in-flight services. The airline's AI-powered system analyzes vast amounts of data to optimize operations, reduce delays, and enhance customer satisfaction. By harnessing the power of AI, Virgin Atlantic aims to create a seamless and tailored travel experience for its passengers."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing OpenAI for Australia",
-      "url": "https://openai.com/global-affairs/openai-for-australia",
-      "published": "Thu, 04 Dec 2025 19:00:00 GMT",
-      "image": "data/images/2e0148c5e087c908277cb684343cc708.png",
-      "summary": "OpenAI has launched a customized version of its AI platform specifically for Australia, providing local businesses and developers with access to its cutting-edge technology. This launch aims to drive innovation and economic growth in the region by enabling the creation of AI-powered solutions tailored to the Australian market. With this introduction, OpenAI is expanding its global reach and fostering a new wave of AI adoption in Australia."
+      "summary": "Virgin Atlantic is leveraging AI to revolutionize the travel experience, from personalized booking recommendations to streamlined check-in and boarding processes. The airline's AI-powered chatbots also provide real-time assistance to passengers, enhancing customer support and overall satisfaction. By integrating AI into every step of the journey, Virgin Atlantic aims to create a seamless and tailored experience for its travelers."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using innovative breeding techniques and genetic editing tools to enhance their ability to thrive in extreme temperatures and weather conditions. This breakthrough could help ensure global food security and mitigate the impacts of climate change on agriculture. By engineering climate-resilient crops, researchers aim to reduce crop losses and improve yields, benefiting both farmers and consumers."
+      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using innovative engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This breakthrough has the potential to improve global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to ensure a stable food supply for future generations."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant strides in the field of biology and medicine over the past five years. Its ability to accurately predict the 3D structure of proteins has enabled major breakthroughs in disease research and drug development. By accelerating scientific discovery, AlphaFold has the potential to transform our understanding of human health and develop new treatments for various diseases."
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impacts in the scientific community over the past five years, accelerating discoveries in fields like medicine and biology. Its ability to accurately predict protein structures has enabled breakthroughs in disease research and drug development. By democratizing access to protein folding predictions, AlphaFold has opened up new avenues for research and innovation in the life sciences."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery sheds light on the underlying mechanisms of cardiovascular disease, which is a leading cause of death worldwide. By targeting this protein, scientists may be able to develop more effective therapies to prevent and manage heart disease."
+      "summary": "Scientists have made a groundbreaking discovery, identifying a key protein that plays a crucial role in the development of heart disease. This breakthrough could lead to the creation of new treatments and therapies, potentially saving millions of lives worldwide. By understanding the protein's function, researchers can now work towards developing targeted interventions to prevent and combat heart disease."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to easily authenticate the legitimacy of images and protect themselves from potential scams. This innovative feature utilizes machine learning to detect and flag suspicious images, enhancing the overall security and trust within the platform. By leveraging AI technology, Gemini aims to provide a safer and more reliable experience for its users."
+      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to verify the authenticity of images and detect potential deepfakes. This innovation aims to enhance trust and security within the platform, protecting users from misinformation and fraud. By leveraging AI technology, Gemini is taking a significant step towards creating a safer and more transparent environment for its users."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
       "published": "Thu, 20 Nov 2025 15:11:14 +0000",
       "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a cutting-edge image model based on the Gemini 3 Pro architecture, allowing developers to build innovative applications with enhanced visual capabilities. This model enables the creation of more realistic and detailed images, opening up new possibilities for AI-generated content. With Nano Banana Pro, developers can unlock new levels of creativity and productivity in their projects."
+      "summary": "Introducing the Nano Banana Pro, a powerful Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model allows for efficient and accurate image processing, unlocking new possibilities for AI-powered projects. With Nano Banana Pro, creators can explore new frontiers in computer vision and machine learning."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The Hugging Face team has introduced swift-huggingface, a comprehensive Swift client that enables seamless integration with their popular AI model hub. This new client allows developers to easily download, use, and fine-tune models in Swift, expanding the accessibility of AI capabilities for iOS, macOS, watchOS, and tvOS apps. With swift-huggingface, developers can now harness the power of Hugging Face's vast model repository to build innovative AI-powered applications."
+      "summary": "The swift-huggingface library has been released, providing a complete Swift client for Hugging Face, a popular platform for natural language processing (NLP) and machine learning models. This library enables developers to easily integrate Hugging Face models into their Swift applications, streamlining the process of building AI-powered apps. With swift-huggingface, developers can now leverage the power of Hugging Face models on Apple devices and platforms."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/intel-deepmath",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/5fc653437cdd178e8cae978e9df49457.png",
-      "summary": "DeepMath is a revolutionary AI agent that utilizes smolagents to provide lightweight and efficient math reasoning capabilities. This innovative technology enables machines to learn and apply mathematical concepts with increased accuracy and speed. By leveraging smolagents, DeepMath has the potential to transform various fields, including education and scientific research, with its enhanced math problem-solving abilities."
+      "summary": "DeepMath is a groundbreaking AI agent that utilizes smolagents to provide lightweight math reasoning capabilities, making it more efficient and accessible. This innovation enables the agent to solve complex mathematical problems with reduced computational resources. By leveraging smolagents, DeepMath has the potential to revolutionize math education and problem-solving applications."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers successfully fine-tuned Claude, an open-source large language model (LLM), to achieve state-of-the-art results, demonstrating the potential for community-driven AI development. This breakthrough showcases the power of collaborative innovation in advancing LLM capabilities. By fine-tuning Claude, the team unlocked improved performance and efficiency, paving the way for broader adoption of open-source AI models."
+      "summary": "Researchers fine-tuned Claude, an AI model, on an open-source large language model (LLM), allowing for more customizable and adaptable language processing capabilities. This innovation enables developers to tailor the model to specific tasks and industries, potentially leading to more accurate and efficient language understanding. The open-source nature of the project promotes collaboration and further advancements in AI research."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have developed a custom policy enforcement framework that utilizes reasoning to enhance the safety and speed of AI applications. This innovation enables AI systems to make more informed decisions by enforcing custom policies, reducing errors and improving overall performance. By integrating reasoning into policy enforcement, developers can create more reliable and efficient AI models."
+      "summary": "Researchers have developed a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications by ensuring they adhere to specific rules and regulations. This innovation allows for more efficient and reliable AI decision-making, reducing the risk of errors and biases. By integrating reasoning into policy enforcement, AI systems can now make more informed and trustworthy decisions."
     },
     {
       "source": "RSS",
@@ -134,7 +134,16 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "data/images/3d6e0a7360d145e4fa0d32a79eec62e7.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, making it easier for developers to integrate AI models into their applications. This update empowers the AI ecosystem by providing a more streamlined and accessible way to work with transformer-based models. By reducing complexity, Transformers v5 is poised to accelerate AI innovation and adoption across various industries."
+      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update streamlines the process of building and deploying AI applications, fostering innovation and growth in the AI ecosystem. By providing a more accessible and flexible framework, Transformers v5 is poised to accelerate AI adoption across various industries."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kaiju \u2013 General purpose 3D/2D game engine in Go and Vulkan with built in editor",
+      "url": "https://github.com/KaijuEngine/kaiju",
+      "published": "2025-12-09T14:51:46",
+      "image": "https://opengraph.githubassets.com/aaa709d112f20230885181dcf11857a4f563fe6695f5d487a817719153557d0d/KaijuEngine/kaiju",
+      "summary": "Kaiju is a new, open-source game engine built in Go and Vulkan, offering a general-purpose platform for creating 2D and 3D games. What sets Kaiju apart is its built-in editor, making it a self-contained solution for game development. By leveraging Vulkan's powerful graphics capabilities, Kaiju aims to provide a high-performance alternative to existing game engines."
     },
     {
       "source": "Hacker News",
@@ -143,43 +152,16 @@
       "url": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
       "published": "2025-12-02T18:17:48",
       "image": "https://www.gilesthomas.com/images/favicons/web-app-manifest-512x512.png",
-      "summary": "A developer has successfully trained a large language model (LLM) from scratch on a single NVIDIA RTX 3090 graphics card, a notable achievement given the typical requirement for massive computational resources. This feat demonstrates the potential for individuals to develop and train AI models independently, without relying on large-scale infrastructure. The project showcases the capabilities of modern consumer-grade hardware in supporting complex AI workloads."
+      "summary": "A developer has successfully trained a large language model (LLM) from scratch on a single NVIDIA RTX 3090 graphics card, demonstrating the feasibility of training complex AI models on consumer-grade hardware. This achievement showcases the potential for individuals to develop and train their own LLMs without relying on massive computing resources. The project highlights the rapid advancements in AI and the increasing accessibility of powerful computing hardware."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Horses: AI progress is steady. Human equivalence is sudden",
-      "url": "https://andyljones.com/posts/horses.html",
-      "published": "2025-12-09T00:26:35",
-      "image": "https://andyljones.com/icons/robot-solid.png",
-      "summary": "A recent discussion on Hacker News highlights the steady progress of AI, likening it to the gradual improvement of horse breeding, but notes that achieving human equivalence will be a sudden and profound leap. This concept suggests that AI advancements may seem incremental until a tipping point is reached, at which point the technology will rapidly surpass human capabilities. The idea has sparked interesting discussions on the potential implications and timeline for reaching this milestone."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Let's put Tailscale on a jailbroken Kindle",
-      "url": "https://tailscale.com/blog/tailscale-jailbroken-kindle",
-      "published": "2025-12-08T16:34:08",
-      "image": "https://cdn.sanity.io/images/w77i7m8x/production/10c4876ce3b53177e2f90146d25815e8d88745ba-2304x1187.png",
-      "summary": "Developers have successfully installed Tailscale, a zero-configuration VPN, on a jailbroken Kindle, demonstrating the device's potential for repurposing beyond its original e-reader function. This innovative hack enables the Kindle to securely connect to remote networks, opening up new possibilities for the device's use in IoT projects and other applications. By doing so, the developers have breathed new life into the aging e-reader, showcasing the versatility of the Kindle's hardware."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI should only run as fast as we can catch up",
-      "url": "https://higashi.blog/2025/12/07/ai-verification/",
-      "published": "2025-12-08T17:38:34",
-      "image": "data/images/1c2aa5d71fe2528839c05b14ba82299e.png",
-      "summary": "The article on Hacker News argues that AI development should be paced to match human understanding and oversight, rather than rushing forward with unregulated advancements. This approach would prioritize responsible AI growth, allowing us to catch up with the technology's rapid evolution and mitigate potential risks. By slowing the pace of AI innovation, we can ensure that its benefits are realized while minimizing its negative consequences."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Fanfa \u2013 Interactive and animated Mermaid diagrams",
-      "url": "https://fanfa.dev/",
-      "published": "2025-12-04T13:16:54",
-      "image": "data/images/1faa06fe47b822449c9b37fc3ba8b3ab.png",
-      "summary": "Fanfa is a new tool that brings Mermaid diagrams to life with interactive and animated features, making it easier to visualize and communicate complex systems and workflows. This innovation enables users to create dynamic, web-based diagrams that can be shared and collaborated on in real-time. By adding interactivity to Mermaid diagrams, Fanfa enhances the usability and effectiveness of these popular diagrams."
+      "title": "EU investigates Google over AI-generated summaries in search results",
+      "url": "https://www.bbc.com/news/articles/crl95eg33k1o",
+      "published": "2025-12-09T15:10:27",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1308/live/968a9a60-d4f4-11f0-ad89-6340086573f4.jpg",
+      "summary": "The European Union is investigating Google over its use of AI-generated summaries in search results, citing potential copyright infringement and unfair competition concerns. This probe could impact how Google presents information and gives credit to original content creators. The investigation highlights the growing regulatory scrutiny of AI-powered technologies and their effects on intellectual property rights."
     }
   ]
 }
