@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-09T16:02:47.314108",
+  "updated": "2025-12-09T20:02:47.978304",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "url": "https://openai.com/index/agentic-ai-foundation",
+      "published": "Tue, 09 Dec 2025 09:00:00 GMT",
+      "image": "data/images/9c2d9153b3581e7d315e4e1da13b1fa1.png",
+      "summary": "OpenAI has co-founded the Agentic AI Foundation, a new organization focused on developing and promoting autonomous AI systems. As part of this effort, OpenAI has donated its AGENTS.md framework, which provides a foundation for building AI models that can act independently. This move aims to accelerate the development of more advanced and autonomous AI capabilities."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,16 @@
       "url": "https://openai.com/index/openai-certificate-courses",
       "published": "Tue, 09 Dec 2025 06:00:00 GMT",
       "image": "data/images/0e9d297d0c45dc8c87b34f5e0c19f4ac.png",
-      "summary": "OpenAI has introduced its first certification courses, aiming to educate developers and professionals on effectively utilizing AI technologies. These courses will cover topics such as AI model development, deployment, and responsible AI practices. By launching these certifications, OpenAI seeks to establish a standard for AI expertise and promote innovation in the field."
+      "summary": "OpenAI has introduced its first certification courses, aiming to educate developers and professionals on effectively utilizing AI technologies. These courses will provide hands-on training and validation of skills in AI development, deployment, and management. By launching these certifications, OpenAI seeks to establish a standard for AI expertise and foster a community of skilled professionals."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+      "url": "https://openai.com/index/openai-appoints-denise-dresser",
+      "published": "Tue, 09 Dec 2025 00:00:00 GMT",
+      "image": "data/images/ab90e1724cdefa567b876c7b8706dc94.png",
+      "summary": "OpenAI has appointed Denise Dresser as its new Chief Revenue Officer, marking a significant move to drive business growth and revenue strategies. This appointment is expected to leverage Dresser's expertise in scaling companies and navigating complex market landscapes. As CRO, Dresser will play a key role in shaping OpenAI's commercial vision and expansion."
     },
     {
       "source": "RSS",
@@ -17,7 +35,7 @@
       "url": "https://openai.com/index/deutsche-telekom-collaboration",
       "published": "Tue, 09 Dec 2025 00:00:00 GMT",
       "image": "data/images/01f91660ffeca8727830462d160da853.png",
-      "summary": "Deutsche Telekom is partnering to bring powerful AI capabilities to millions of customers across Europe, enhancing their digital experiences. This collaboration aims to make AI more accessible and user-friendly, driving innovation and growth. By leveraging AI, Deutsche Telekom is poised to revolutionize the way Europeans live, work, and interact with technology."
+      "summary": "Deutsche Telekom is partnering to bring powerful AI capabilities to millions of users across Europe, enhancing customer experiences and driving innovation. This collaboration aims to make AI more accessible and user-friendly, bridging the technology gap for a wider audience. By leveraging AI, Deutsche Telekom is poised to revolutionize various aspects of daily life, from communication to entertainment."
     },
     {
       "source": "RSS",
@@ -26,25 +44,7 @@
       "url": "https://openai.com/index/instacart-partnership",
       "published": "Mon, 08 Dec 2025 06:00:00 GMT",
       "image": "data/images/04406f188d7ede97bf6be6262cc38574.png",
-      "summary": "Instacart has partnered with OpenAI to integrate AI-powered features into its grocery shopping platform, aiming to create more personalized and efficient shopping experiences. This collaboration will leverage OpenAI's technology to enhance Instacart's search, navigation, and product recommendations. The partnership is expected to revolutionize the online grocery shopping landscape with more intuitive and tailored interactions."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The state of enterprise AI",
-      "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
-      "published": "Mon, 08 Dec 2025 04:00:00 GMT",
-      "image": "data/images/f662ba22721809713945db3685035ef6.png",
-      "summary": "The state of enterprise AI is rapidly evolving, with more companies adopting AI technologies to drive business innovation and efficiency. Key trends include the increasing use of machine learning and natural language processing to automate tasks and improve decision-making. As a result, enterprises are seeing significant improvements in productivity, customer experience, and competitiveness."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Virgin Atlantic uses AI to enhance every step of travel",
-      "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
-      "published": "Mon, 08 Dec 2025 00:00:00 GMT",
-      "image": "data/images/74981c45d5e036ef53a26d98551c64c6.png",
-      "summary": "Virgin Atlantic is leveraging AI to revolutionize the travel experience, from personalized booking recommendations to streamlined check-in and boarding processes. The airline's AI-powered chatbots also provide real-time assistance to passengers, enhancing customer support and overall satisfaction. By integrating AI into every step of the journey, Virgin Atlantic aims to create a seamless and tailored experience for its travelers."
+      "summary": "Instacart has partnered with OpenAI to integrate artificial intelligence into its grocery shopping platform, aiming to create more personalized and efficient shopping experiences. This collaboration will leverage OpenAI's technology to enhance Instacart's features, such as automated shopping lists and tailored product recommendations. The partnership is set to revolutionize the online grocery shopping landscape with AI-driven innovations."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using innovative engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This breakthrough has the potential to improve global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to ensure a stable food supply for future generations."
+      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using advanced engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This innovation aims to improve global food security by creating crops that can adapt to rising temperatures and changing precipitation patterns. By doing so, researchers hope to mitigate the impacts of climate change on agriculture and ensure a more sustainable food supply."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impacts in the scientific community over the past five years, accelerating discoveries in fields like medicine and biology. Its ability to accurately predict protein structures has enabled breakthroughs in disease research and drug development. By democratizing access to protein folding predictions, AlphaFold has opened up new avenues for research and innovation in the life sciences."
+      "summary": "AlphaFold, a revolutionary AI model developed by DeepMind, has made significant strides in protein structure prediction over the past five years, transforming the field of biology and medicine. Its impact has enabled breakthroughs in disease research, drug discovery, and our understanding of the human body. By accurately predicting protein shapes, AlphaFold has opened up new avenues for scientific research and potential medical applications."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Scientists have made a groundbreaking discovery, identifying a key protein that plays a crucial role in the development of heart disease. This breakthrough could lead to the creation of new treatments and therapies, potentially saving millions of lives worldwide. By understanding the protein's function, researchers can now work towards developing targeted interventions to prevent and combat heart disease."
+      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery could lead to more effective therapies and improved outcomes for patients with cardiovascular conditions. By understanding the protein's function, scientists can now explore innovative ways to target and mitigate its effects on the heart."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to verify the authenticity of images and detect potential deepfakes. This innovation aims to enhance trust and security within the platform, protecting users from misinformation and fraud. By leveraging AI technology, Gemini is taking a significant step towards creating a safer and more transparent environment for its users."
+      "summary": "Gemini is integrating AI-powered image verification into its app to enhance security and authenticity. This innovative feature uses artificial intelligence to verify the legitimacy of images, protecting users from potential scams and fraudulent activities. By leveraging AI, Gemini aims to provide a safer and more trustworthy experience for its users."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
       "published": "Thu, 20 Nov 2025 15:11:14 +0000",
       "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a powerful Gemini 3 Pro Image model that enables developers to build innovative applications with advanced image capabilities. This model allows for efficient and accurate image processing, unlocking new possibilities for AI-powered projects. With Nano Banana Pro, creators can explore new frontiers in computer vision and machine learning."
+      "summary": "Introducing the Nano Banana Pro, a cutting-edge image model based on the Gemini 3 Pro architecture, designed to empower developers to build innovative applications. This model enables the creation of highly realistic images, opening up new possibilities for AI-generated content. With Nano Banana Pro, developers can unlock new levels of creativity and productivity in their projects."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The swift-huggingface library has been released, providing a complete Swift client for Hugging Face, a popular platform for natural language processing (NLP) and machine learning models. This library enables developers to easily integrate Hugging Face models into their Swift applications, streamlining the process of building AI-powered apps. With swift-huggingface, developers can now leverage the power of Hugging Face models on Apple devices and platforms."
+      "summary": "The Hugging Face team has introduced swift-huggingface, a comprehensive Swift client that enables seamless integration of Hugging Face's AI models into iOS, macOS, watchOS, and tvOS apps. This new client allows developers to easily incorporate natural language processing, computer vision, and other AI capabilities into their Apple ecosystem projects. By doing so, it opens up new possibilities for AI-driven app development on Apple devices."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/intel-deepmath",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/5fc653437cdd178e8cae978e9df49457.png",
-      "summary": "DeepMath is a groundbreaking AI agent that utilizes smolagents to provide lightweight math reasoning capabilities, making it more efficient and accessible. This innovation enables the agent to solve complex mathematical problems with reduced computational resources. By leveraging smolagents, DeepMath has the potential to revolutionize math education and problem-solving applications."
+      "summary": "Researchers have introduced DeepMath, a novel math reasoning agent that utilizes smolagents to provide lightweight and efficient mathematical problem-solving capabilities. This innovative approach enables DeepMath to tackle complex math problems with improved accuracy and speed. By leveraging smolagents, DeepMath has the potential to revolutionize math education and research with its enhanced reasoning abilities."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers fine-tuned Claude, an AI model, on an open-source large language model (LLM), allowing for more customizable and adaptable language processing capabilities. This innovation enables developers to tailor the model to specific tasks and industries, potentially leading to more accurate and efficient language understanding. The open-source nature of the project promotes collaboration and further advancements in AI research."
+      "summary": "Researchers successfully fine-tuned Claude, an AI model, on an open-source large language model (LLM), demonstrating the potential for customized and adaptable language models. This innovation enables developers to tailor LLMs to specific tasks and industries, enhancing their performance and versatility. By fine-tuning Claude, the team showcased the feasibility of refining open-source LLMs for targeted applications."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have developed a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications by ensuring they adhere to specific rules and regulations. This innovation allows for more efficient and reliable AI decision-making, reducing the risk of errors and biases. By integrating reasoning into policy enforcement, AI systems can now make more informed and trustworthy decisions."
+      "summary": "Researchers have developed a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications by allowing for more efficient and effective decision-making. This innovation has the potential to significantly improve the reliability and trustworthiness of AI systems. By integrating reasoning into policy enforcement, AI applications can now make more informed decisions while minimizing risks and errors."
     },
     {
       "source": "RSS",
@@ -134,7 +134,16 @@
       "url": "https://huggingface.co/blog/transformers-v5",
       "published": "Mon, 01 Dec 2025 00:00:00 GMT",
       "image": "data/images/3d6e0a7360d145e4fa0d32a79eec62e7.png",
-      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update streamlines the process of building and deploying AI applications, fostering innovation and growth in the AI ecosystem. By providing a more accessible and flexible framework, Transformers v5 is poised to accelerate AI adoption across various industries."
+      "summary": "The latest Transformers v5 release simplifies model definitions, empowering developers to easily integrate and customize AI models. This update enables seamless interaction with the AI ecosystem, fostering innovation and collaboration. By streamlining model development, Transformers v5 accelerates the creation of more accurate and efficient AI applications."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pebble Index 01 \u2013 External memory for your brain",
+      "url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
+      "published": "2025-12-09T15:03:09",
+      "image": "https://repebble.com/assets/meet-pebble-index-01-external-memory-for-your-brain-0-blackhero.jpg",
+      "summary": "The Pebble Index 01 is a innovative, wearable device designed to serve as an external memory aid, helping users recall important information and tasks. This cutting-edge gadget aims to augment human memory, freeing up mental space and reducing cognitive overload. By providing a personalized, AI-driven memory assistant, the Pebble Index 01 has the potential to revolutionize the way we manage our daily lives and interactions."
     },
     {
       "source": "Hacker News",
@@ -142,8 +151,8 @@
       "title": "Kaiju \u2013 General purpose 3D/2D game engine in Go and Vulkan with built in editor",
       "url": "https://github.com/KaijuEngine/kaiju",
       "published": "2025-12-09T14:51:46",
-      "image": "https://opengraph.githubassets.com/aaa709d112f20230885181dcf11857a4f563fe6695f5d487a817719153557d0d/KaijuEngine/kaiju",
-      "summary": "Kaiju is a new, open-source game engine built in Go and Vulkan, offering a general-purpose platform for creating 2D and 3D games. What sets Kaiju apart is its built-in editor, making it a self-contained solution for game development. By leveraging Vulkan's powerful graphics capabilities, Kaiju aims to provide a high-performance alternative to existing game engines."
+      "image": "https://opengraph.githubassets.com/8fa66f57b160cc9de441078af37c9829b14f8037f390e1e772736dbfe400c577/KaijuEngine/kaiju",
+      "summary": "Kaiju is a new, open-source game engine written in Go and utilizing Vulkan, offering a general-purpose platform for creating 2D and 3D games. What sets it apart is its built-in editor, making it a self-contained solution for game development. This innovative engine has the potential to simplify game creation and provide a more streamlined experience for developers."
     },
     {
       "source": "Hacker News",
@@ -152,16 +161,52 @@
       "url": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
       "published": "2025-12-02T18:17:48",
       "image": "https://www.gilesthomas.com/images/favicons/web-app-manifest-512x512.png",
-      "summary": "A developer has successfully trained a large language model (LLM) from scratch on a single NVIDIA RTX 3090 graphics card, demonstrating the feasibility of training complex AI models on consumer-grade hardware. This achievement showcases the potential for individuals to develop and train their own LLMs without relying on massive computing resources. The project highlights the rapid advancements in AI and the increasing accessibility of powerful computing hardware."
+      "summary": "A developer has successfully trained a large language model (LLM) from scratch on a single NVIDIA RTX 3090 GPU, demonstrating the feasibility of building complex AI models on consumer-grade hardware. This achievement highlights the rapid advancements in GPU technology and its potential to democratize access to AI research and development. The project showcases the possibility of training LLMs without relying on massive computing clusters or cloud services."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "EU investigates Google over AI-generated summaries in search results",
-      "url": "https://www.bbc.com/news/articles/crl95eg33k1o",
-      "published": "2025-12-09T15:10:27",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1308/live/968a9a60-d4f4-11f0-ad89-6340086573f4.jpg",
-      "summary": "The European Union is investigating Google over its use of AI-generated summaries in search results, citing potential copyright infringement and unfair competition concerns. This probe could impact how Google presents information and gives credit to original content creators. The investigation highlights the growing regulatory scrutiny of AI-powered technologies and their effects on intellectual property rights."
+      "title": "Donating the Model Context Protocol and Establishing the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "published": "2025-12-09T17:05:42",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=cactus",
+      "summary": "The Model Context Protocol, a framework for building more transparent and explainable AI models, has been donated to the newly established Agentic AI Foundation. This foundation aims to promote the development of more accountable and trustworthy AI systems, fostering a safer and more beneficial AI ecosystem. By making the protocol open-source, the foundation hopes to accelerate innovation and collaboration in the field of AI transparency and explainability."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MCP Joins the Agentic AI Foundation",
+      "url": "http://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/",
+      "published": "2025-12-09T19:26:54",
+      "image": "http://blog.modelcontextprotocol.io/og-image.png",
+      "summary": "MCP has joined the Agentic AI Foundation, a non-profit organization focused on developing and promoting decentralized AI technologies. This partnership aims to advance the development of autonomous and decentralized AI systems, enabling more secure and transparent AI applications. By joining the foundation, MCP is contributing to the creation of a more open and community-driven AI ecosystem."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Detail, a Bug Finder",
+      "url": "https://detail.dev/",
+      "published": "2025-12-09T17:35:35",
+      "image": "https://framerusercontent.com/images/jECfgIhM1AqQJvbXkUPNmfJkHM.png",
+      "summary": "Detail, a new bug finder tool, has been showcased on Hacker News, offering a novel approach to identifying and debugging issues in code. This innovative tool aims to simplify the debugging process, allowing developers to focus on writing code rather than searching for errors. By leveraging advanced algorithms, Detail promises to increase coding efficiency and reduce the time spent on bug fixing."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AWS Trainium3 Deep Dive \u2013 A Potential Challenger Approaching",
+      "url": "https://newsletter.semianalysis.com/p/aws-trainium3-deep-dive-a-potential",
+      "published": "2025-12-04T19:19:05",
+      "image": "https://substackcdn.com/image/fetch/$s_!Fuoh!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F026e10fe-cce5-4c8b-80f9-284a12382b3d_1536x1024.jpeg",
+      "summary": "Amazon Web Services (AWS) has unveiled Trainium3, a new custom-designed chip aimed at accelerating machine learning workloads, potentially challenging existing market leaders. Trainium3 boasts improved performance and efficiency, enabling faster and more cost-effective training of large AI models. This innovation could significantly impact the field of artificial intelligence, making it more accessible and affordable for businesses and developers."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple's slow AI pace becomes a strength as market grows weary of spending",
+      "url": "https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html",
+      "published": "2025-12-09T15:08:24",
+      "image": "https://s.yimg.com/ny/api/res/1.2/atSQM2ukawCVKOb9dk64DQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7991a4a92eb667b978402b14d7f08468",
+      "summary": "Apple's cautious approach to AI development is now being seen as a strategic advantage, as the market becomes increasingly skeptical of excessive AI spending. This restraint allows Apple to focus on refining its existing AI-powered features, rather than rushing to release new ones. As a result, Apple is well-positioned to capitalize on the growing demand for practical, user-friendly AI applications."
     }
   ]
 }
