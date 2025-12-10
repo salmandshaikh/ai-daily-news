@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-10T16:14:43.562371",
+  "updated": "2025-12-10T20:02:56.790783",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Strengthening cyber resilience as AI capabilities advance",
+      "url": "https://openai.com/index/strengthening-cyber-resilience",
+      "published": "Wed, 10 Dec 2025 12:00:00 GMT",
+      "image": "data/images/76b8707bbcc560927c89423ceb8bd7a9.png",
+      "summary": "As AI capabilities advance, cybersecurity is becoming a growing concern, with experts emphasizing the need to strengthen cyber resilience to protect against increasingly sophisticated threats. Next-generation AI-powered attacks are on the rise, requiring organizations to adapt and develop more robust defenses. By leveraging AI itself, businesses can enhance their cybersecurity postures and stay ahead of emerging threats."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/scout24",
       "published": "Tue, 09 Dec 2025 16:00:00 GMT",
       "image": "data/images/e8ef0276dbecf470bfe7fe4394af201b.png",
-      "summary": "Scout24 is revolutionizing real-estate search with AI-powered technology, enabling users to find their dream homes more efficiently. The platform utilizes machine learning algorithms to provide personalized property recommendations and enhance the overall search experience. By leveraging AI, Scout24 aims to set a new standard for real-estate search, making it faster, more accurate, and user-friendly."
+      "summary": "Scout24 is revolutionizing real-estate search with AI-powered technology, enabling users to find their dream homes more efficiently. The platform utilizes machine learning algorithms to provide personalized property recommendations and improve search accuracy. By leveraging AI, Scout24 aims to transform the home-buying experience, making it more intuitive and user-friendly."
     },
     {
       "source": "RSS",
@@ -16,8 +25,8 @@
       "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
       "url": "https://openai.com/index/agentic-ai-foundation",
       "published": "Tue, 09 Dec 2025 09:00:00 GMT",
-      "image": "data/images/9c2d9153b3581e7d315e4e1da13b1fa1.png",
-      "summary": "OpenAI has co-founded the Agentic AI Foundation, a new organization focused on developing and promoting AI that aligns with human values. As part of this effort, OpenAI has donated its AGENTS.md framework, a set of tools and guidelines for building autonomous AI systems. This move aims to accelerate the development of more transparent and responsible AI technologies, with potential far-reaching impacts on the field."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI has co-founded the Agentic AI Foundation, a new organization focused on developing and promoting autonomous AI systems. As part of this initiative, OpenAI has donated its AGENTS.md framework, an open-source toolkit for building and training autonomous AI agents. This move aims to accelerate the development of more advanced and autonomous AI capabilities, with potential applications in various industries and fields."
     },
     {
       "source": "RSS",
@@ -26,7 +35,7 @@
       "url": "https://openai.com/index/openai-certificate-courses",
       "published": "Tue, 09 Dec 2025 06:00:00 GMT",
       "image": "data/images/0e9d297d0c45dc8c87b34f5e0c19f4ac.png",
-      "summary": "OpenAI has introduced its first certification courses, providing developers and professionals with official training and recognition in AI development and deployment. These courses aim to establish a standard for AI expertise and bridge the skills gap in the industry. By offering certifications, OpenAI is making it easier for individuals to demonstrate their proficiency in AI technologies."
+      "summary": "OpenAI has introduced its first certification courses, aiming to educate developers and professionals on effectively utilizing its AI technologies. These courses will cover topics such as building and deploying AI models, and will provide a comprehensive understanding of OpenAI's products and services. By offering these certifications, OpenAI seeks to empower users to harness the full potential of its AI capabilities."
     },
     {
       "source": "RSS",
@@ -35,16 +44,16 @@
       "url": "https://openai.com/index/deutsche-telekom-collaboration",
       "published": "Tue, 09 Dec 2025 00:00:00 GMT",
       "image": "data/images/01f91660ffeca8727830462d160da853.png",
-      "summary": "Deutsche Telekom is partnering to bring powerful AI capabilities to millions of users across Europe, enhancing customer experiences and driving innovation. This collaboration aims to make AI more accessible and user-friendly, bridging the technology gap for a wider audience. By doing so, it's poised to revolutionize the way people interact with technology in their daily lives."
+      "summary": "Deutsche Telekom is partnering to bring powerful AI capabilities to millions of users across Europe, enhancing customer experiences and driving innovation. This collaboration aims to make AI more accessible and user-friendly, bridging the technology gap for a wider audience. By doing so, it is poised to revolutionize various aspects of daily life and business operations in the region."
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
-      "url": "https://openai.com/index/openai-appoints-denise-dresser",
-      "published": "Tue, 09 Dec 2025 00:00:00 GMT",
-      "image": "data/images/ab90e1724cdefa567b876c7b8706dc94.png",
-      "summary": "OpenAI has appointed Denise Dresser as its new Chief Revenue Officer, marking a significant move to drive business growth and revenue strategies. As a seasoned executive, Dresser brings valuable experience to the role, poised to help OpenAI expand its market presence. This appointment is expected to accelerate the company's commercial development and monetization of its AI technologies."
+      "source_name": "Google DeepMind News",
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "published": "Tue, 09 Dec 2025 11:29:03 +0000",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool designed to assess the factuality of large language models. This suite aims to systematically test a model's ability to provide accurate and reliable information, helping to identify and mitigate the spread of misinformation. By using FACTS, developers can refine their models to prioritize factual accuracy and improve overall performance."
     },
     {
       "source": "RSS",
@@ -53,7 +62,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using innovative engineering techniques to enhance their ability to withstand extreme temperatures and weather conditions. This breakthrough has the potential to improve global food security and reduce crop losses due to climate-related stress. By creating climate-resilient crops, researchers aim to ensure a more sustainable food supply for future generations."
+      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using innovative engineering techniques to enhance their ability to withstand rising temperatures and extreme weather events. This breakthrough could help ensure global food security by improving crop yields and reducing losses due to climate-related stress. By engineering climate-resilient crops, researchers aim to mitigate the impacts of climate change on agriculture and food production."
     },
     {
       "source": "RSS",
@@ -62,7 +71,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant strides in the field of biology over the past five years, enabling breakthroughs in disease research and drug discovery. Its ability to accurately predict protein structures has far-reaching implications for understanding complex biological processes and developing new treatments. By accelerating scientific progress, AlphaFold is transforming our understanding of the human body and paving the way for innovative medical advancements."
+      "summary": "DeepMind's AlphaFold has revolutionized the field of protein structure prediction, enabling significant advancements in fields like medicine and biology over the past five years. This AI-powered tool has accurately predicted the 3D structures of nearly all known proteins, opening up new avenues for disease research and treatment. AlphaFold's impact is expected to continue growing, driving breakthroughs in our understanding of the human body and development of new therapies."
     },
     {
       "source": "RSS",
@@ -71,7 +80,7 @@
       "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
       "published": "Tue, 25 Nov 2025 15:52:51 +0000",
       "image": "data/images/c812336b4e64f8385b152f75894e2555.png",
-      "summary": "Researchers have identified a key protein that plays a crucial role in the development of heart disease, paving the way for potential new treatments. This breakthrough discovery sheds light on the underlying mechanisms of the disease, allowing scientists to target the protein and possibly prevent or reverse heart damage. The finding could lead to more effective therapies and improved outcomes for patients with heart disease."
+      "summary": "Scientists have made a groundbreaking discovery, identifying a key protein that contributes to the development of heart disease. This breakthrough could lead to the creation of new treatments and therapies, potentially saving millions of lives. By understanding the role of this protein, researchers can now work towards developing targeted interventions to prevent and combat heart disease."
     },
     {
       "source": "RSS",
@@ -80,16 +89,7 @@
       "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
       "published": "Thu, 20 Nov 2025 15:13:19 +0000",
       "image": "data/images/68be38aabdf2b00146ce0eb1cb199776.png",
-      "summary": "Gemini is integrating AI-powered image verification into its app, enabling users to authenticate the legitimacy of images and combat deepfakes. This innovation leverages machine learning to analyze image metadata and detect potential manipulations, enhancing user trust and safety. By introducing this feature, Gemini aims to stay ahead of emerging threats and provide a more secure experience for its users."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-      "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
-      "published": "Thu, 20 Nov 2025 15:11:14 +0000",
-      "image": "data/images/2bc208e130834bb07a09f2f6b4de97d9.png",
-      "summary": "Introducing the Nano Banana Pro, a cutting-edge image model based on Gemini 3 Pro, allowing developers to build innovative applications with advanced image capabilities. This model enables the creation of highly realistic and detailed images, opening up new possibilities for AI-generated content. With Nano Banana Pro, users can unlock new levels of creativity and productivity in fields like art, design, and more."
+      "summary": "Gemini is introducing AI-powered image verification to its app, enabling users to quickly and easily verify the authenticity of images. This innovative feature utilizes artificial intelligence to detect and flag potentially fake or manipulated images, enhancing user safety and trust. By leveraging AI technology, Gemini aims to stay ahead of emerging threats and provide a more secure experience for its users."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
       "published": "Tue, 09 Dec 2025 20:06:56 GMT",
       "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient multimodal model that achieves frontier performance while reducing computational costs. This innovation enables more efficient processing of various data types, such as text, images, and audio. By optimizing performance and cost, Apriel-1.6-15b-Thinker has the potential to accelerate advancements in AI applications."
+      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient AI model that achieves state-of-the-art multimodal performance, enabling efficient processing of multiple data types such as text, images, and audio. This innovation has the potential to improve various applications, including chatbots, virtual assistants, and content generation. By reducing computational costs, Apriel-1.6-15b-Thinker makes multimodal AI more accessible and affordable for widespread adoption."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The swift-huggingface library provides a complete Swift client for Hugging Face, enabling developers to seamlessly integrate AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation allows for easy access to Hugging Face's vast model repository, streamlining the development of AI-powered applications. With swift-huggingface, developers can now leverage the power of Hugging Face's models to build more intelligent and interactive user experiences."
+      "summary": "The swift-huggingface library provides a comprehensive Swift client for Hugging Face, enabling developers to easily integrate AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation allows for seamless access to Hugging Face's vast model repository, streamlining the development of AI-powered applications. By bridging the gap between Swift and Hugging Face, developers can now build more intelligent and interactive apps with ease."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/intel-deepmath",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/5fc653437cdd178e8cae978e9df49457.png",
-      "summary": "DeepMath is a groundbreaking AI agent that utilizes smolagents to provide lightweight math reasoning capabilities, enabling efficient and accurate problem-solving. This innovative approach has the potential to revolutionize math education and research by making complex mathematical concepts more accessible. With DeepMath, users can expect enhanced math understanding and improved computational abilities."
+      "summary": "DeepMath is a groundbreaking AI agent that utilizes smolagents to enable lightweight math reasoning, making it a significant breakthrough in artificial intelligence. This innovative approach allows for more efficient and effective problem-solving in mathematical domains. By leveraging smolagents, DeepMath has the potential to revolutionize the field of math reasoning and pave the way for new applications in education, research, and industry."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers fine-tuned Claude, an AI model, to improve an open-source large language model (LLM), enhancing its performance and capabilities. This breakthrough enables more efficient and effective development of LLMs, with potential applications in natural language processing and generation. The fine-tuning of Claude demonstrates the potential for collaborative advancements in AI research and development."
+      "summary": "Researchers fine-tuned Claude, an AI model, to work with an open-source large language model (LLM), showcasing the potential for customized and adaptable language processing. This innovation enables more efficient and specialized language understanding, paving the way for advanced applications. By leveraging open-source technology, the possibilities for AI-driven language models have expanded significantly."
     },
     {
       "source": "RSS",
@@ -134,16 +134,43 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have developed a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating custom policies and reasoning capabilities, reducing the risk of errors and improving overall performance. By integrating this technology, developers can create more reliable and trustworthy AI models that better align with human values and regulations."
+      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating human values and policies into their decision-making process. By doing so, AI applications can be more reliable, transparent, and aligned with human intentions."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Putting email in its place with Emacs and Mu4e",
-      "url": "https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/",
-      "published": "2025-12-03T21:42:48",
-      "image": "data/images/ca67f4b8686aebd6254b62e916221dc1.png",
-      "summary": "The article discusses using Emacs and Mu4e to streamline email management, allowing users to integrate their inbox with other workflows and tasks. This setup enables a more efficient and organized approach to handling emails, reducing distractions and increasing productivity. By leveraging these tools, users can reclaim control over their inbox and workflow."
+      "title": "DeepSeek uses banned Nvidia chips for AI model, report says",
+      "url": "https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html",
+      "published": "2025-12-10T16:34:52",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Fk2yUT4vOlF5Etwg8zNicg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/bloomberg_holding_pen_162/aee8f6601ad07837ce30c4681e2a5c4d",
+      "summary": "DeepSeek, an AI model, has reportedly utilized banned Nvidia chips to power its operations, raising concerns about the potential circumvention of export restrictions. This move allows DeepSeek to access high-performance computing capabilities, potentially giving it a competitive edge in the AI space. The use of banned chips highlights the ongoing cat-and-mouse game between tech companies and regulators in the AI industry."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Qwen3-Omni-Flash-2025-12-01\uff1aa next-generation native multimodal large model",
+      "url": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
+      "published": "2025-12-10T16:13:38",
+      "image": "data/images/ab036c0b6829ee0ce543964ab9db0aab.png",
+      "summary": "Researchers have introduced Qwen3-Omni-Flash-2025-12-01, a next-generation native multimodal large model that enables seamless interactions across text, images, and other formats. This innovative model has the potential to revolutionize AI applications by allowing for more intuitive and human-like communication. By integrating multiple modes of interaction, Qwen3-Omni-Flash-2025-12-01 could significantly enhance the capabilities of virtual assistants, chatbots, and other AI-powered systems."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Factor 0.101 now available",
+      "url": "https://re.factorcode.org/2025/12/factor-0-101-now-available.html",
+      "published": "2025-12-10T11:33:31",
+      "image": "data/images/6d28de9e0fd856721816602e65931963.png",
+      "summary": "The latest version of Factor, a general-purpose programming language, has been released as version 0.101. This update brings various improvements and bug fixes, enhancing the language's performance and usability. With this release, developers can expect a more stable and efficient coding experience in the Factor ecosystem."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
+      "url": "https://arxiv.org/abs/2512.08309",
+      "published": "2025-12-10T18:37:27",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Researchers have introduced Terrain Diffusion, a novel algorithm that generates natural-looking terrain using a diffusion-based approach, potentially replacing traditional Perlin Noise methods. This innovation enables more realistic and detailed landscape creation, with applications in gaming, simulation, and visual effects. By leveraging diffusion models, Terrain Diffusion offers improved control and flexibility in terrain generation, opening up new possibilities for procedural content creation."
     },
     {
       "source": "Hacker News",
@@ -152,34 +179,7 @@
       "url": "https://www.cam.ac.uk/stories/volcanoes-black-death",
       "published": "2025-12-06T04:31:42",
       "image": "https://www.cam.ac.uk/sites/default/files/shorthand/251968/RecB8QP39p/assets/l0jNyqdmfg/eastern-mediterranean-atlas-catalan-1375-ls.jpg",
-      "summary": "Researchers have discovered that massive volcanic eruptions in the 14th century triggered a chain of events that led to the devastating Black Death pandemic in Europe. The eruptions caused crop failures and famine, creating an environment where the plague could spread rapidly among a weakened population. This finding highlights the complex interplay between climate, environment, and human health that contributed to one of history's deadliest pandemics."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pebble Index 01 \u2013 External memory for your brain",
-      "url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
-      "published": "2025-12-09T15:03:09",
-      "image": "https://repebble.com/assets/meet-pebble-index-01-external-memory-for-your-brain-0-blackhero.jpg",
-      "summary": "The Pebble Index 01 is a wearable device that aims to augment human memory by providing an external brain, allowing users to store and recall information on the go. This innovative device uses a combination of AI and natural language processing to help users remember important details, making it a potential game-changer for individuals with memory-related issues. By offloading memory tasks to the Pebble Index 01, users can free up mental space and improve their overall productivity."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
-      "published": "2025-12-09T17:05:42",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=cactus",
-      "summary": "Google has donated the Model Context Protocol, a framework for explaining and understanding AI model behavior, to the newly established Agentic AI Foundation. This move aims to promote transparency and accountability in AI development, enabling researchers to better understand and improve AI models. The foundation will oversee the protocol's development and encourage its adoption across the AI research community."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kaiju \u2013 General purpose 3D/2D game engine in Go and Vulkan with built in editor",
-      "url": "https://github.com/KaijuEngine/kaiju",
-      "published": "2025-12-09T14:51:46",
-      "image": "https://opengraph.githubassets.com/6caff4da2197325b1c11e11e8076eadf6ed4cf0ca6efa05aba5ac6998a458981/KaijuEngine/kaiju",
-      "summary": "Kaiju is a new, open-source game engine built in Go and Vulkan, offering a general-purpose platform for creating 2D and 3D games. What's notable is its built-in editor, making it a self-contained solution for game development. This innovative engine has the potential to simplify game creation and provide a more streamlined experience for developers."
+      "summary": "Researchers have discovered that massive volcanic eruptions in the 14th century triggered a chain reaction of climate disruptions, leading to crop failures and famine, which in turn facilitated the spread of the Black Death across Europe. This finding highlights the complex interplay between natural disasters, environmental factors, and human disease. The study sheds new light on the medieval pandemic that devastated Europe, killing an estimated 75 to 200 million people."
     }
   ]
 }
