@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-11T12:20:27.774171",
+  "updated": "2025-12-11T16:15:52.135347",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Increasing revenue 300% by bringing AI to SMBs",
+      "url": "https://openai.com/index/podium",
+      "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "image": "data/images/c3903e1bbace4c5ccf4abd26924414ea.png",
+      "summary": "A new initiative is bringing AI technology to small and medium-sized businesses (SMBs), resulting in a remarkable 300% increase in revenue. By leveraging AI, SMBs can streamline operations, enhance customer experiences, and gain a competitive edge. This innovative approach is democratizing access to AI, enabling smaller businesses to thrive in a rapidly evolving market."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+      "url": "https://openai.com/index/disney-sora-agreement",
+      "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "image": "data/images/bee0d0654729cbffe5cc010305c53d93.png",
+      "summary": "The Walt Disney Company has partnered with OpenAI to integrate its iconic characters into Sora, a cutting-edge AI platform. This landmark agreement will enable immersive experiences featuring Disney's beloved characters, revolutionizing entertainment and storytelling. By leveraging OpenAI's technology, Disney aims to create innovative and interactive experiences for fans worldwide."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +26,7 @@
       "url": "https://openai.com/index/strengthening-cyber-resilience",
       "published": "Wed, 10 Dec 2025 12:00:00 GMT",
       "image": "data/images/76b8707bbcc560927c89423ceb8bd7a9.png",
-      "summary": "As AI capabilities advance, cybersecurity is becoming increasingly crucial to prevent potential threats. Strengthening cyber resilience is key to protecting against sophisticated AI-powered attacks, which can have devastating impacts on individuals and organizations. By prioritizing cyber resilience, we can harness the benefits of AI while minimizing its risks."
+      "summary": "As AI capabilities continue to advance, strengthening cyber resilience is becoming increasingly crucial to protect against sophisticated threats. Next-generation AI-powered security tools are being developed to stay ahead of emerging risks, enabling more effective detection and response to cyberattacks. By leveraging AI-driven solutions, organizations can enhance their defenses and mitigate potential breaches."
     },
     {
       "source": "RSS",
@@ -17,7 +35,7 @@
       "url": "https://openai.com/index/scout24",
       "published": "Tue, 09 Dec 2025 16:00:00 GMT",
       "image": "data/images/e8ef0276dbecf470bfe7fe4394af201b.png",
-      "summary": "Scout24 is revolutionizing real-estate search with AI-powered technology, enabling users to find their dream homes more efficiently. The platform utilizes machine learning algorithms to provide personalized property recommendations and enhance the overall search experience. By leveraging AI, Scout24 aims to set a new standard for real-estate search, making it faster, smarter, and more intuitive."
+      "summary": "Scout24 is revolutionizing real-estate search with AI-powered technology, enabling users to find their dream homes more efficiently. The platform utilizes machine learning algorithms to provide personalized property recommendations and enhance the overall search experience. By leveraging AI, Scout24 aims to set a new standard for real-estate search and make the home-buying process more intuitive and user-friendly."
     },
     {
       "source": "RSS",
@@ -26,25 +44,7 @@
       "url": "https://openai.com/index/agentic-ai-foundation",
       "published": "Tue, 09 Dec 2025 09:00:00 GMT",
       "image": "data/images/9c2d9153b3581e7d315e4e1da13b1fa1.png",
-      "summary": "OpenAI has co-founded the Agentic AI Foundation, a new organization focused on advancing artificial intelligence research and development. As part of this initiative, OpenAI has donated its AGENTS.md framework, an open-source toolkit for building and training AI agents. This donation aims to accelerate innovation in the field and promote collaboration among researchers and developers."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Launching our first OpenAI Certifications courses",
-      "url": "https://openai.com/index/openai-certificate-courses",
-      "published": "Tue, 09 Dec 2025 06:00:00 GMT",
-      "image": "data/images/0e9d297d0c45dc8c87b34f5e0c19f4ac.png",
-      "summary": "OpenAI has introduced its first certification courses, providing developers and professionals with the opportunity to demonstrate their expertise in AI and machine learning. These courses aim to establish a standard for AI knowledge and skills, helping individuals to advance their careers and organizations to identify top talent. By offering these certifications, OpenAI is making a significant step towards promoting AI education and adoption."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Building AI fluency at scale with ChatGPT Enterprise",
-      "url": "https://openai.com/index/commonwealth-bank-of-australia",
-      "published": "Tue, 09 Dec 2025 00:00:00 GMT",
-      "image": "data/images/b4eb3a4730cb422ed5108d6546676bff.png",
-      "summary": "ChatGPT Enterprise has been launched to help businesses build AI fluency at scale, enabling them to integrate AI-powered chatbots into their operations. This platform provides a secure and customizable way for companies to leverage AI technology, enhancing customer experiences and streamlining internal processes. By adopting ChatGPT Enterprise, organizations can unlock new efficiencies and innovations, driving growth and competitiveness in their respective markets."
+      "summary": "OpenAI has co-founded the Agentic AI Foundation, a new organization dedicated to advancing the development of autonomous AI systems. As part of this initiative, OpenAI has donated its AGENTS.md framework, an open-source toolkit for building and testing AI agents. This move aims to accelerate innovation in the field of autonomous AI and promote collaboration among researchers and developers."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to drive innovation in AI-powered security solutions, enhancing protection against emerging threats. The partnership is expected to have a significant impact on the cybersecurity landscape, fostering a safer digital environment."
+      "summary": "A leading tech company is strengthening its partnership with the UK AI Security Institute to advance AI-powered security solutions. This collaboration aims to enhance threat detection and prevention capabilities, promoting a safer digital landscape. The partnership will drive innovation in AI-driven security, benefiting both organizations and individuals."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive prosperity and security in the age of artificial intelligence. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance national security. By working together, the UK government and the tech company seek to establish the country as a leader in responsible AI development and deployment."
+      "summary": "A major tech company has announced a strengthened partnership with the UK government to support prosperity and security in the age of artificial intelligence. This collaboration aims to harness AI's potential to drive economic growth, improve public services, and enhance national security. By working together, the company and the UK government seek to establish the country as a leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
       "published": "Tue, 09 Dec 2025 11:29:03 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool for assessing the factuality of large language models. This suite aims to systematically test the accuracy and reliability of these models, providing a standardized framework for measuring their performance. By using FACTS, developers can identify and address factual errors, ultimately improving the trustworthiness of AI-generated content."
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool to assess the factuality of large language models, helping to identify and mitigate the spread of misinformation. This suite systematically tests language models' ability to distinguish between factual and false information, promoting more accurate and trustworthy AI-generated content. By using FACTS, developers can refine their models to provide more reliable and factual outputs."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using innovative engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This breakthrough could help ensure global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to reduce crop losses and improve yields, ultimately benefiting farmers and communities worldwide."
+      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using advanced engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This innovative approach aims to improve crop yields and food security in the face of rising global temperatures. By creating climate-resilient crops, researchers hope to mitigate the impacts of climate change on agriculture and ensure a more sustainable food supply."
     },
     {
       "source": "RSS",
@@ -89,16 +89,16 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI-powered protein structure prediction tool, has made significant impact over the past five years, accelerating scientific discoveries and breakthroughs in fields like medicine and biology. By accurately predicting the 3D structure of proteins, AlphaFold has enabled researchers to better understand diseases and develop new treatments. Its impact is expected to continue growing, driving innovation in life sciences and beyond."
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impact in the scientific community over the past five years, enabling breakthroughs in disease research and drug discovery. Its ability to accurately predict 3D protein structures has accelerated research in fields like medicine and biology. This innovation has opened up new avenues for understanding and treating complex diseases, transforming the field of life sciences."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
-      "published": "Tue, 09 Dec 2025 20:06:56 GMT",
-      "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient multimodal model that achieves frontier performance while reducing computational costs. This innovation enables more efficient processing of various data types, such as text, images, and audio, making it a significant breakthrough in AI development. By optimizing performance and minimizing expenses, Apriel-1.6-15b-Thinker has the potential to accelerate advancements in fields like natural language processing and computer vision."
+      "title": "Codex is Open Sourcing AI models",
+      "url": "https://huggingface.co/blog/hf-skills-training-codex",
+      "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "image": "data/images/9ce3635e627f503ded7467118964297c.png",
+      "summary": "Codex is open-sourcing its AI models, making it easier for developers to access and build upon the technology. This move is expected to accelerate innovation in the field of artificial intelligence and drive new applications. By making its models publicly available, Codex is democratizing access to AI and empowering a broader community of developers to create new solutions."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The swift-huggingface library provides a complete Swift client for Hugging Face, allowing developers to easily integrate popular AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation enables seamless access to Hugging Face's vast model repository, streamlining the development of AI-powered applications. With swift-huggingface, developers can now leverage state-of-the-art AI models to enhance their apps' capabilities and user experiences."
+      "summary": "The swift-huggingface library provides a complete Swift client for Hugging Face, allowing developers to easily integrate popular AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation enables seamless access to Hugging Face's vast model repository, streamlining the development of AI-powered applications. By bridging the gap between Swift and Hugging Face, developers can now build more intelligent and interactive apps."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/intel-deepmath",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/5fc653437cdd178e8cae978e9df49457.png",
-      "summary": "Researchers have introduced DeepMath, a novel AI agent that leverages smolagents to enable lightweight math reasoning capabilities. This innovation allows for more efficient and effective mathematical problem-solving, making it a significant breakthrough in the field of artificial intelligence. By streamlining math reasoning, DeepMath has the potential to enhance various applications, from education to scientific research."
+      "summary": "Researchers have introduced DeepMath, a cutting-edge math reasoning agent that utilizes smolagents to provide lightweight and efficient mathematical problem-solving capabilities. This innovation enables DeepMath to tackle complex math problems with improved accuracy and speed. By leveraging smolagents, DeepMath has the potential to revolutionize math education and research with its enhanced reasoning abilities."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/93ec3b7ecda8a31b6263b77e6c924347.png",
-      "summary": "Researchers fine-tuned Claude, an AI model, on an open-source large language model (LLM), demonstrating the potential for community-driven advancements in AI. This innovation enables developers to customize and improve LLMs, leading to more accurate and efficient language processing capabilities. The open-source approach fosters collaboration and accelerates progress in the field of natural language processing."
+      "summary": "Researchers fine-tuned Claude, an AI model, to improve an open-source large language model (LLM), showcasing the potential for collaborative development and advancement in natural language processing. This breakthrough demonstrates the possibility of enhancing LLMs through targeted fine-tuning, leading to more accurate and efficient language understanding. The outcome could significantly impact the development of more sophisticated AI models."
     },
     {
       "source": "RSS",
@@ -134,7 +134,25 @@
       "url": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
       "published": "Tue, 02 Dec 2025 18:50:28 GMT",
       "image": "data/images/7ee9ef85ab8d73ef90ef5b255e3eee91.png",
-      "summary": "Researchers have developed a new approach to custom policy enforcement that utilizes reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions while adhering to specific policies and regulations. By integrating reasoning into policy enforcement, AI applications can operate more efficiently and reduce potential risks."
+      "summary": "Researchers have introduced a new approach to custom policy enforcement with reasoning, enabling faster and safer AI applications. This innovation allows AI systems to make more informed decisions by incorporating human values and policies into their decision-making process. By doing so, AI applications can become more reliable, trustworthy, and aligned with human intentions."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Disney making $1B investment in OpenAI, will allow characters on Sora AI",
+      "url": "https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html",
+      "published": "2025-12-11T14:12:14",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229551-1763677947592-gettyimages-2247081462-AFP_84NM2T4.jpeg?v=1763677995&w=1920&h=1080",
+      "summary": "Disney is investing $1 billion in OpenAI, a significant move that will enable the company to integrate its beloved characters into OpenAI's Sora AI platform. This partnership will allow Disney to expand its reach in the AI-generated content space, potentially creating new interactive experiences for fans. The investment highlights Disney's commitment to embracing AI technology to drive innovation and engagement across its brands."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them",
+      "url": "https://github.com/privacyshield-ai/privacy-firewall",
+      "published": "2025-12-09T16:10:37",
+      "image": "https://repository-images.githubusercontent.com/1111333118/4a3f39ca-8b78-4b5e-8c84-9beec6797027",
+      "summary": "A new open-source tool, Local Privacy Firewall, has been introduced to block personally identifiable information (PII) and secrets from being shared with ChatGPT, enhancing user privacy and security. This innovative firewall acts as a intermediary, filtering out sensitive data before it reaches the AI model, thereby preventing potential data breaches. By doing so, it enables users to interact with ChatGPT while maintaining control over their sensitive information."
     },
     {
       "source": "Hacker News",
@@ -143,7 +161,7 @@
       "url": "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/",
       "published": "2025-12-08T12:46:50",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Ev-Fedorenko-cr-Ketherine-Taylor-Social.jpg",
-      "summary": "Researchers have made a breakthrough in understanding how the brain processes language, using AI-powered brain scans to identify the specific neural patterns involved in language comprehension. This discovery has significant implications for the development of more advanced natural language processing technologies and could potentially improve language-related AI models. By cracking the code of language processing in the brain, scientists may unlock new possibilities for human-computer interaction and language understanding."
+      "summary": "Researchers have made a breakthrough in understanding how the brain processes language, using AI-powered brain imaging to map the neural networks involved in language comprehension. This innovation has the potential to improve language models and speech recognition systems, enabling more accurate and human-like communication with machines. The discovery could also lead to new treatments for language disorders and cognitive impairments."
     },
     {
       "source": "Hacker News",
@@ -152,34 +170,7 @@
       "url": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
       "published": "2025-12-10T16:13:38",
       "image": "data/images/ab036c0b6829ee0ce543964ab9db0aab.png",
-      "summary": "Researchers have introduced Qwen3-Omni-Flash-2025-12-01, a next-generation native multimodal large model that enables seamless interactions across various formats, including text, images, and audio. This innovation has the potential to revolutionize AI applications, allowing for more intuitive and human-like interfaces. By integrating multiple modalities, Qwen3-Omni-Flash-2025-12-01 can process and generate diverse types of data, opening up new possibilities for AI-driven technologies."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Flow Where You Want \u2013 Guidance for Flow Models",
-      "url": "https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html",
-      "published": "2025-12-06T04:46:14",
-      "image": "https://drscotthawley.github.io/blog/posts/images/fwyw_kayak.png",
-      "summary": "Researchers have introduced a new guidance method for flow models, enabling more controlled and efficient generation of samples. This innovation allows for targeted sampling, where the model can produce specific outputs based on given conditions, opening up new possibilities for applications like image and text generation. By refining flow models, this breakthrough has the potential to improve the accuracy and versatility of AI-generated content."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
-      "url": "https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
-      "published": "2025-12-10T11:10:58",
-      "image": "data/images/669d333396d5e2c799f4e5fb730544d8.png",
-      "summary": "The article delves into the packaging ecosystem of Common Lisp, explaining how ASDF (Another System Definition Facility) and Quicklisp work together to manage dependencies and libraries. ASDF provides a standard way to define and build Lisp projects, while Quicklisp offers a package manager to easily install and manage libraries. This combination simplifies the development process for Lisp programmers, making it easier to create and share reusable code."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
-      "url": "https://arxiv.org/abs/2512.08309",
-      "published": "2025-12-10T18:37:27",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Researchers have introduced Terrain Diffusion, a novel technique that generates natural-looking terrain using diffusion-based methods, potentially surpassing the capabilities of traditional Perlin Noise. This innovation enables more realistic and detailed landscape creation, with applications in gaming, simulation, and visualization. By leveraging diffusion models, Terrain Diffusion promises to revolutionize the field of procedural content generation."
+      "summary": "Researchers have introduced Qwen3-Omni-Flash-2025-12-01, a next-generation native multimodal large model that enables seamless interaction across text, images, and other media. This innovative model has the potential to revolutionize AI applications, allowing for more intuitive and human-like interfaces. By integrating multiple modalities, Qwen3-Omni-Flash-2025-12-01 could significantly enhance the capabilities of chatbots, virtual assistants, and other AI-powered systems."
     }
   ]
 }
