@@ -1,0 +1,32 @@
+{
+    "name": "AI Daily News",
+    "short_name": "AI News",
+    "description": "Latest AI and machine learning news aggregator",
+    "start_url": "/ai-daily-news/",
+    "scope": "/ai-daily-news/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196F3",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/ai-daily-news/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/ai-daily-news/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "news",
+        "technology",
+        "productivity"
+    ],
+    "lang": "en-US",
+    "dir": "ltr"
+}
