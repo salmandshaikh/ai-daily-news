@@ -81,12 +81,17 @@ def main():
     
     # Generate podcast
     print("\nGenerating daily podcast...")
+    podcast_metadata = None
     try:
-        from podcast_generator import create_podcast
-        podcast_metadata = create_podcast(final_news)
+        # Import from same directory
+        import sys
+        sys.path.insert(0, os.path.dirname(__file__))
+        import podcast_generator
+        podcast_metadata = podcast_generator.create_podcast(final_news)
     except Exception as e:
         print(f"Podcast generation failed: {e}")
-        podcast_metadata = None
+        import traceback
+        traceback.print_exc()
     
     # Save news data with podcast metadata
     news_data = {
