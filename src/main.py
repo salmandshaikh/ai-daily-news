@@ -78,13 +78,31 @@ def main():
             
     # Save to data/news.json
     output_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'news.json')
+    
+    # Generate podcast
+    print("\nGenerating daily podcast...")
+    try:
+        from podcast_generator import create_podcast
+        podcast_metadata = create_podcast(final_news)
+    except Exception as e:
+        print(f"Podcast generation failed: {e}")
+        podcast_metadata = None
+    
+    # Save news data with podcast metadata
+    news_data = {
+        'updated': datetime.datetime.now().isoformat(),
+        'articles': final_news
+    }
+    
+    if podcast_metadata:
+        news_data['podcast'] = podcast_metadata
+    
     with open(output_path, 'w') as f:
-        json.dump({
-            'updated': datetime.datetime.now().isoformat(),
-            'articles': final_news
-        }, f, indent=2)
+        json.dump(news_data, f, indent=2)
         
-    print(f"Done! Saved {len(final_news)} articles to {output_path}")
+    print(f"\nDone! Saved {len(final_news)} articles to {output_path}")
+    if podcast_metadata:
+        print(f"Podcast generated: {podcast_metadata['file']} (~{podcast_metadata['duration']}s)")
 
 if __name__ == "__main__":
     main()

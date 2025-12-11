@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import Header from './components/Header'
 import HeroArticle from './components/HeroArticle'
 import NewsGrid from './components/NewsGrid'
+import PodcastPlayer from './components/PodcastPlayer'
 
 function App() {
     const [theme, setTheme] = useState(() => {
@@ -59,6 +60,9 @@ function App() {
                             }}>
                                 Last updated: {new Date(newsData.updated).toLocaleString()}
                             </div>
+
+                            {/* Podcast Player */}
+                            {newsData.podcast && <PodcastPlayer podcast={newsData.podcast} />}
 
                             <HeroArticle article={newsData.articles[0]} />
                             <NewsGrid articles={newsData.articles.slice(1)} />

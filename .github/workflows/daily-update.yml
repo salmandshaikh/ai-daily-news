@@ -48,6 +48,7 @@ jobs:
     - name: Build React App
       run: npm run build
       
+      
     - name: Prepare deployment
       run: |
         # Copy data folder into dist
@@ -56,6 +57,11 @@ jobs:
         if [ -d "data/images" ]; then
           mkdir -p dist/data/images
           cp -r data/images/* dist/data/images/ || true
+        fi
+        # Copy podcast files if they exist
+        if [ -d "data/podcast" ]; then
+          mkdir -p dist/data/podcast
+          cp -r data/podcast/* dist/data/podcast/ || true
         fi
         
     - name: Deploy to GitHub Pages
