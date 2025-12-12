@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-12T08:15:45.499460",
+  "updated": "2025-12-12T12:19:08.456624",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "url": "https://openai.com/index/bbva-collaboration-expansion",
+      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "image": "data/images/daf89d23919590d83a43a3f89c76ce8c.png",
+      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by integrating AI technology into its operations, aiming to enhance customer experiences and improve efficiency. This collaboration is expected to bring about significant innovations in areas such as customer service, risk management, and financial analysis. By leveraging OpenAI's cutting-edge technology, BBVA seeks to stay ahead of the curve in the rapidly evolving banking landscape."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,25 +17,7 @@
       "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
       "published": "Thu, 11 Dec 2025 10:00:00 GMT",
       "image": "data/images/6b039cc2e6785fd5557e56b6c4f11dd6.png",
-      "summary": "Researchers have unveiled GPT-5.2, a cutting-edge AI model that promises to revolutionize science and math education by providing personalized learning experiences and automated solutions to complex problems. This innovation has the potential to make STEM subjects more accessible and engaging for students of all skill levels. With GPT-5.2, students can expect more accurate and efficient assistance with math and science homework, projects, and research."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Ten years",
-      "url": "https://openai.com/index/ten-years",
-      "published": "Thu, 11 Dec 2025 00:00:00 GMT",
-      "image": "data/images/f83bc3c55df10960b0d1a235c15e5045.png",
-      "summary": "It appears there's no actual news article provided, just a title \"Ten years\" and a source \"RSS\". If you could provide the actual content or a specific article, I'd be happy to summarize it for you in a concise and engaging way."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.2",
-      "url": "https://openai.com/index/introducing-gpt-5-2",
-      "published": "Thu, 11 Dec 2025 00:00:00 GMT",
-      "image": "data/images/44572bd88aa6616ff80c697819c4ad4a.png",
-      "summary": "Researchers have unveiled GPT-5.2, a significant upgrade to the GPT language model, boasting enhanced conversational capabilities and improved performance. This new iteration promises to revolutionize natural language processing tasks, enabling more accurate and human-like interactions. With GPT-5.2, developers can create more sophisticated chatbots, virtual assistants, and language-based applications."
+      "summary": "Researchers are leveraging the power of GPT-5.2 to accelerate breakthroughs in science and math, using its advanced capabilities to analyze complex data and identify patterns. This innovative approach has the potential to revolutionize fields such as physics, biology, and mathematics, enabling scientists to make new discoveries and solve complex problems more efficiently. By combining human expertise with AI-driven insights, GPT-5.2 is poised to drive significant advancements in these critical fields."
     },
     {
       "source": "RSS",
@@ -35,16 +26,25 @@
       "url": "https://openai.com/index/disney-sora-agreement",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/bee0d0654729cbffe5cc010305c53d93.png",
-      "summary": "The Walt Disney Company has partnered with OpenAI to integrate its iconic characters into Sora, a cutting-edge platform. This landmark agreement will enable immersive experiences featuring beloved Disney characters, revolutionizing entertainment and storytelling. By leveraging OpenAI's innovative technology, Disney aims to create new and engaging interactions with its vast library of characters."
+      "summary": "The Walt Disney Company has partnered with OpenAI to integrate its iconic characters into Sora, a cutting-edge AI platform. This landmark agreement will enable the creation of immersive experiences featuring Disney's beloved characters, pushing the boundaries of interactive storytelling. By combining Disney's rich intellectual property with OpenAI's innovative technology, the collaboration is poised to revolutionize the entertainment industry."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Update to GPT-5 System Card: GPT-5.2",
-      "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+      "title": "Increasing revenue 300% by bringing AI to SMBs",
+      "url": "https://openai.com/index/podium",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
-      "image": "data/images/8c47ec5e96c310f9a8a4ea7d39f2a360.png",
-      "summary": "OpenAI has released GPT-5.2, an update to its GPT-5 system, which is expected to bring improvements to the model's performance and capabilities. This update aims to refine the language processing abilities of the GPT-5 model, enabling more accurate and informative responses. The GPT-5.2 update showcases OpenAI's ongoing efforts to enhance its AI technology and push the boundaries of natural language processing."
+      "image": "data/images/c3903e1bbace4c5ccf4abd26924414ea.png",
+      "summary": "A new initiative aims to boost revenue for small to medium-sized businesses (SMBs) by integrating artificial intelligence (AI) solutions, with a goal of increasing revenue by 300%. This innovative approach can help level the playing field for SMBs, enabling them to compete with larger enterprises. By leveraging AI, SMBs can streamline operations, enhance customer experiences, and drive business growth."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-5.2",
+      "url": "https://openai.com/index/introducing-gpt-5-2",
+      "published": "Thu, 11 Dec 2025 00:00:00 GMT",
+      "image": "data/images/44572bd88aa6616ff80c697819c4ad4a.png",
+      "summary": "Researchers have unveiled GPT-5.2, a significant upgrade to the GPT series, boasting enhanced language understanding and generation capabilities. This new model is expected to revolutionize natural language processing tasks, such as text summarization and conversation systems. With GPT-5.2, developers can create more sophisticated and human-like AI applications, transforming the way we interact with technology."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to improve the safety and reliability of AI systems, addressing growing concerns around AI security. The partnership is expected to drive innovation and set new standards for AI security in the industry."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security capabilities. This collaboration aims to develop innovative solutions to combat emerging threats and improve the overall security landscape. The partnership is expected to drive significant advancements in AI-powered security technologies, benefiting both organizations and individuals."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive innovation and prosperity in the AI era. This collaboration aims to harness AI for economic growth, national security, and social benefit, while also addressing ethical concerns. By working together, the partnership seeks to establish the UK as a global leader in responsible AI development and deployment."
+      "summary": "A leading tech company has announced a strengthened partnership with the UK government to drive prosperity and security in the age of AI. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance national security. By working together, the company and the UK government seek to establish the country as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
       "published": "Tue, 09 Dec 2025 11:29:03 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive tool for evaluating the factuality of large language models, helping to identify and mitigate the spread of misinformation. This suite assesses models' ability to distinguish between factual and false information, promoting more accurate and trustworthy AI-generated content. By using FACTS, developers can refine their models to provide more reliable and factual outputs."
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool to assess the factuality of large language models, helping to identify and improve their accuracy and reliability. This suite systematically tests models' ability to distinguish between factual and non-factual information, a crucial step in developing more trustworthy AI systems. By using FACTS, developers can refine their models to provide more accurate and informative responses."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using innovative engineering techniques to enhance their ability to withstand extreme temperatures and weather conditions. This breakthrough has the potential to improve global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to ensure a stable food supply for future generations."
+      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using advanced engineering techniques to enhance their ability to withstand extreme temperatures and weather conditions. This innovation has the potential to improve global food security and reduce crop losses due to climate change. By creating climate-resilient crops, researchers aim to ensure a more sustainable food supply for future generations."
     },
     {
       "source": "RSS",
@@ -89,16 +89,7 @@
       "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
       "published": "Tue, 25 Nov 2025 16:00:12 +0000",
       "image": "data/images/b2a71734bf345ad9d78ef7d6bb4ea8be.png",
-      "summary": "AlphaFold, a revolutionary AI model, has made significant strides in protein structure prediction over the past five years, transforming the field of biology and medicine. Its impact has enabled breakthroughs in disease research, drug discovery, and our understanding of the human body. By accurately predicting protein structures, AlphaFold has opened up new avenues for scientific inquiry and innovation, promising to revolutionize healthcare and beyond."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Why You Should Care About Partial Differential Equations (PDEs)",
-      "url": "https://huggingface.co/blog/hugging-science/pde",
-      "published": "Fri, 12 Dec 2025 03:45:17 GMT",
-      "image": "data/images/cd9639186d48683b8a6e760eb188c5e0.png",
-      "summary": "Partial Differential Equations (PDEs) are crucial in modeling complex systems, from predicting weather patterns to simulating electronic circuits, and advancements in solving PDEs can lead to breakthroughs in fields like climate modeling and medical imaging. Researchers are developing new methods to solve PDEs more efficiently, enabling faster and more accurate simulations. This innovation has the potential to transform various industries, including healthcare, finance, and environmental science."
+      "summary": "AlphaFold, a revolutionary AI protein-folding model, has made significant impacts in the scientific community over the past five years, accelerating discoveries in fields like medicine and biology. Its ability to accurately predict protein structures has enabled breakthroughs in disease research and drug development. By solving a 50-year-old problem in biology, AlphaFold has opened up new avenues for scientific inquiry and innovation."
     },
     {
       "source": "RSS",
@@ -107,7 +98,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily organize and switch between different AI models. This innovation streamlines the development process and enables more efficient experimentation with various models. By simplifying model management, llama.cpp enhances the overall user experience and accelerates AI development."
+      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily switch between different AI models and fine-tune their performance. This innovation enables more flexibility and customization, making it simpler for developers to integrate AI capabilities into their projects. With this update, llama.cpp continues to advance as a cutting-edge open-source AI framework."
     },
     {
       "source": "RSS",
@@ -116,7 +107,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex, a cutting-edge AI platform, is open-sourcing its AI models, allowing developers to access and build upon its innovative technology. This move is expected to accelerate AI adoption and innovation, enabling a wider range of applications and use cases. By making its models open-source, Codex is democratizing access to AI and empowering developers to create new solutions."
+      "summary": "Codex, a cutting-edge AI platform, is open-sourcing its AI models, allowing developers to access and build upon its innovative technology. This move is expected to accelerate AI research and development, enabling the creation of more sophisticated and customized AI solutions. By making its models open-source, Codex is democratizing access to AI and paving the way for breakthroughs in various industries."
     },
     {
       "source": "RSS",
@@ -125,7 +116,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
       "published": "Tue, 09 Dec 2025 20:06:56 GMT",
       "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient multimodal AI model that achieves frontier performance while reducing computational costs. This innovation enables more efficient processing of various data types, such as text, images, and audio. By minimizing computational requirements, Apriel-1.6-15b-Thinker makes multimodal AI more accessible and sustainable for widespread adoption."
+      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient AI model that achieves frontier multimodal performance, enabling efficient processing of various data types such as text, images, and audio. This innovation has the potential to improve applications like chatbots, virtual assistants, and content generation. By reducing computational costs, Apriel-1.6-15b-Thinker makes multimodal AI more accessible and affordable for a wide range of industries."
     },
     {
       "source": "RSS",
@@ -134,7 +125,25 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The swift-huggingface library provides a comprehensive Swift client for Hugging Face, enabling seamless integration of machine learning models into iOS, macOS, watchOS, and tvOS apps. This innovation allows developers to easily leverage Hugging Face's vast model repository, streamlining the process of building AI-powered applications. By bridging the gap between Swift and Hugging Face, developers can now create more intelligent and interactive user experiences."
+      "summary": "The swift-huggingface library offers a comprehensive Swift client for Hugging Face, enabling developers to seamlessly integrate the popular AI model hub into their iOS, macOS, watchOS, and tvOS apps. This innovation allows for easy access to a vast range of pre-trained models, streamlining the development of AI-powered applications. By bridging the gap between Hugging Face and Swift, developers can now leverage the power of AI models in their Apple ecosystem projects."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+      "url": "https://huggingface.co/blog/intel-deepmath",
+      "published": "Thu, 04 Dec 2025 00:00:00 GMT",
+      "image": "data/images/5fc653437cdd178e8cae978e9df49457.png",
+      "summary": "DeepMath is a cutting-edge, lightweight math reasoning agent that leverages smolagents to solve complex mathematical problems with increased efficiency. This innovative technology has the potential to revolutionize the field of mathematics and AI, enabling more accurate and rapid problem-solving. By utilizing smolagents, DeepMath can provide step-by-step reasoning and explanations, making it a valuable tool for education and research."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "After 27 years within budget Austria open 6thlongest railway tunnel in the world",
+      "url": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
+      "published": "2025-12-12T10:50:22",
+      "image": "https://infrastruktur.oebb.at/.resources/corp-2016/themes/images/logo-oebb-infra-og.png",
+      "summary": "Austria has inaugurated the 6th longest railway tunnel in the world, a 56km tunnel that connects the cities of Graz and Klagenfurt, after 27 years of construction within budget. This engineering feat is expected to reduce travel time and increase freight capacity, boosting the regional economy. The tunnel is a significant milestone in European rail infrastructure, enhancing connectivity and sustainability."
     },
     {
       "source": "Hacker News",
@@ -143,7 +152,16 @@
       "url": "https://openai.com/index/introducing-gpt-5-2/",
       "published": "2025-12-11T18:04:47",
       "image": "data/images/36b872da22e1c418e07653848e52aeef.png",
-      "summary": "Researchers have unveiled GPT-5.2, a significant update to the popular language model, boasting improved performance and efficiency. This new iteration is expected to enhance natural language processing capabilities, enabling more accurate and human-like text generation. With GPT-5.2, developers can build more sophisticated AI-powered applications, such as chatbots and language translation tools."
+      "summary": "Researchers have unveiled GPT-5.2, a significant upgrade to the GPT series, boasting improved language understanding and generation capabilities. This new model is expected to enhance various AI applications, such as chatbots and content creation tools. With its increased performance, GPT-5.2 has the potential to revolutionize human-computer interaction and automate complex tasks more effectively."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Guarding My Git Forge Against AI Scrapers",
+      "url": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
+      "published": "2025-12-12T07:51:04",
+      "image": "https://vulpinecitrus.info/favicon.png",
+      "summary": "A developer is taking measures to protect their Git Forge repository from AI-powered scrapers that can exploit open-source code. To counter this, they're implementing rate limiting, IP blocking, and other security measures to prevent unauthorized access. This highlights the growing concern of AI scrapers targeting open-source codebases, emphasizing the need for robust repository security."
     },
     {
       "source": "Hacker News",
@@ -151,8 +169,8 @@
       "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
       "url": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
       "published": "2025-12-12T00:59:46",
-      "image": "https://www.isaaa.org/kc/cropbiotechupdate/files/images/1126202560555AM.jpg",
-      "summary": "Scientists have engineered a CRISPR fungus that produces high amounts of protein, offering a sustainable and environmentally-friendly alternative to traditional livestock farming. This innovative fungus has a meat-like taste and texture, making it a potential game-changer for the food industry. By leveraging CRISPR technology, researchers aim to create a more efficient and eco-friendly way to produce protein-rich foods."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Scientists have engineered a CRISPR fungus that produces high amounts of protein, offering a sustainable and meat-like alternative to traditional livestock. This innovative fungus has the potential to revolutionize the food industry by providing a more environmentally friendly and efficient source of protein. With its meat-like taste and texture, it could become a game-changer for the plant-based meat market."
     },
     {
       "source": "Hacker News",
@@ -161,7 +179,7 @@
       "url": "https://openai.com/index/disney-sora-agreement/",
       "published": "2025-12-11T14:05:16",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "The Walt Disney Company has partnered with OpenAI to develop Sora, a cutting-edge AI technology that enables the creation of interactive and immersive experiences. This collaboration aims to revolutionize the entertainment industry by leveraging OpenAI's advanced language models and Disney's rich content library. The partnership is expected to bring innovative storytelling and interactive experiences to Disney's audiences worldwide."
+      "summary": "The Walt Disney Company has partnered with OpenAI on a project called Sora, aiming to revolutionize content creation with AI-powered tools. This collaboration will enable Disney to leverage OpenAI's cutting-edge technology to generate new ideas, automate tasks, and enhance the overall storytelling experience. By combining Disney's creative expertise with OpenAI's innovative capabilities, Sora has the potential to transform the entertainment industry."
     },
     {
       "source": "Hacker News",
@@ -170,7 +188,7 @@
       "url": "https://www.youtube.com/watch?v=Na9VmMNJvsA",
       "published": "2025-12-11T13:35:55",
       "image": "data/images/544a32e91af8c2a8aa876446b9a6e98b.png",
-      "summary": "A French supermarket's heartwarming Christmas advert has gone viral worldwide, showcasing the power of traditional storytelling without relying on AI-generated content. The ad's emotional appeal and nostalgic value have resonated with audiences globally, proving that human creativity can still outshine technology. The video has become a surprise hit, garnering millions of views and praise for its simplicity and authenticity."
+      "summary": "A French supermarket's heartwarming Christmas advert has gone viral worldwide, showcasing the power of traditional storytelling without relying on AI-generated content. The ad's emotional resonance and authenticity have resonated with viewers globally, highlighting the importance of human touch in advertising. The video's massive success demonstrates that sometimes, simplicity and genuine emotion can be more effective than cutting-edge technology."
     }
   ]
 }
