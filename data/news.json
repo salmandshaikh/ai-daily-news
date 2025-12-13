@@ -1,15 +1,6 @@
 {
-  "updated": "2025-12-12T20:03:46.778954",
+  "updated": "2025-12-13T00:42:22.475588",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "BNY builds \u201cAI for everyone, everywhere\u201d with OpenAI",
-      "url": "https://openai.com/index/bny",
-      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
-      "image": "data/images/d239b700cee866da2d14eabcc390f37a.png",
-      "summary": "BNY Mellon has partnered with OpenAI to make artificial intelligence more accessible, aiming to bring \"AI for everyone, everywhere\" through innovative solutions. This collaboration is expected to drive business growth and improve customer experiences. By leveraging OpenAI's technology, BNY Mellon can enhance its services and provide more efficient and personalized support to its clients."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,7 +8,16 @@
       "url": "https://openai.com/index/bbva-collaboration-expansion",
       "published": "Fri, 12 Dec 2025 00:00:00 GMT",
       "image": "data/images/daf89d23919590d83a43a3f89c76ce8c.png",
-      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by integrating AI technology into its operations, aiming to enhance customer experience and improve internal processes. This collaboration is expected to drive innovation in areas such as chatbots, fraud detection, and personalized financial services. By leveraging OpenAI's cutting-edge technology, BBVA seeks to stay ahead of the curve in the rapidly evolving banking industry."
+      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by leveraging artificial intelligence and machine learning. This collaboration aims to enhance customer experiences, improve operational efficiency, and develop innovative financial services. By integrating OpenAI's technology, BBVA seeks to stay at the forefront of the banking industry's digital transformation."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "BNY builds \u201cAI for everyone, everywhere\u201d with OpenAI",
+      "url": "https://openai.com/index/bny",
+      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "image": "data/images/d239b700cee866da2d14eabcc390f37a.png",
+      "summary": "BNY Mellon has partnered with OpenAI to make artificial intelligence more accessible, aiming to bring \"AI for everyone, everywhere\" through innovative solutions. This collaboration is expected to drive widespread adoption of AI technology, bridging the gap between businesses and individuals. By democratizing AI, BNY Mellon and OpenAI hope to unlock new opportunities and transform industries."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
       "published": "Fri, 12 Dec 2025 00:00:00 GMT",
       "image": "data/images/7d122d86b328f22f619f9854f9f75f25.png",
-      "summary": "The development team behind Sora leveraged Codex, a code generation tool, to rapidly deploy the app on Android in just 28 days. Codex enabled the team to automate coding tasks, significantly reducing development time and effort. This achievement showcases the potential of AI-powered coding tools like Codex to accelerate software development and deployment."
+      "summary": "The developers of Sora used Codex, an AI-powered coding tool, to rapidly develop and ship the Android version of their app in just 28 days. Codex's automated coding capabilities enabled the team to work more efficiently, reducing development time and allowing them to focus on fine-tuning the app's features. This achievement demonstrates the potential of AI-powered tools to accelerate mobile app development and deployment."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
       "published": "Thu, 11 Dec 2025 10:00:00 GMT",
       "image": "data/images/6b039cc2e6785fd5557e56b6c4f11dd6.png",
-      "summary": "Researchers have unveiled GPT-5.2, a powerful AI model that can assist with complex science and math problems, revolutionizing the way we approach these subjects. This innovative technology has the potential to accelerate scientific discoveries and make advanced math concepts more accessible. By leveraging GPT-5.2, scientists and students can tackle challenging problems with increased ease and accuracy, driving progress in various fields."
+      "summary": "Researchers have unveiled GPT-5.2, a cutting-edge AI model that promises to revolutionize science and math education by providing personalized learning experiences and automated grading. This innovative technology has the potential to enhance student understanding and teacher productivity. With GPT-5.2, complex concepts can be broken down into interactive and engaging lessons, making STEM subjects more accessible and fun for learners."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/introducing-gpt-5-2",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/44572bd88aa6616ff80c697819c4ad4a.png",
-      "summary": "The latest iteration of the GPT series, GPT-5.2, has been introduced, boasting improved language understanding and generation capabilities. This update is expected to enhance the model's ability to engage in more natural and informative conversations. With GPT-5.2, users can anticipate more accurate and human-like responses to their queries and prompts."
+      "summary": "The latest iteration of OpenAI's language model, GPT-5.2, has been introduced, boasting improved performance and capabilities in generating human-like text. This update enhances the model's ability to understand and respond to complex queries, further blurring the line between human and artificial intelligence. With GPT-5.2, users can expect more accurate and coherent interactions with AI-powered systems."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement enhances the overall voice experience, allowing for better speech-to-text capabilities and more effective voice assistants. The updated models are expected to drive innovation in voice-activated technologies, making them more accessible and user-friendly."
+      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice recognition capabilities. This innovation allows for powerful voice experiences, including improved speech-to-text functionality and enhanced voice assistants. The upgraded models will likely enhance various applications, from virtual assistants to transcription services."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company is strengthening its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to drive innovation in AI-powered security solutions, enhancing protection against emerging threats. The partnership is expected to yield cutting-edge technologies and expertise, bolstering the UK's position in the global AI security landscape."
+      "summary": "A leading tech company is strengthening its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, driving innovation and growth in the field. By combining their expertise, they will work towards creating more robust and reliable AI solutions."
     },
     {
       "source": "RSS",
@@ -70,8 +70,8 @@
       "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance cybersecurity. By working together, the UK government and the tech company seek to establish the country as a leader in responsible AI development and deployment."
+      "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
+      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance cybersecurity. By working together, the company and the UK government seek to establish the country as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
       "published": "Tue, 09 Dec 2025 11:29:03 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive tool for evaluating the factuality of large language models, aiming to improve their accuracy and reliability. This suite assesses models' ability to distinguish between factual and non-factual information, a crucial step in enhancing their performance. By using FACTS, developers can identify and address factuality issues in their models, leading to more trustworthy AI systems."
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool designed to assess the factuality of large language models. This suite aims to systematically test the accuracy and reliability of AI-generated content, providing a standardized framework for measuring factuality. By using FACTS, developers can better identify and mitigate the spread of misinformation generated by language models."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using advanced engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This innovation has the potential to improve global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to ensure a stable food supply for future generations."
+      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using advanced engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This innovation aims to improve global food security by creating crops that can adapt to rising temperatures and changing precipitation patterns. By doing so, researchers hope to reduce crop losses and ensure a more sustainable food supply for the future."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily manage and switch between different AI models. This innovation enables more flexibility and customization, making it simpler to experiment with various models and applications. By streamlining model management, llama.cpp enhances the overall user experience and expands its potential use cases."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enhances the flexibility and customization of the llama.cpp framework, enabling developers to adapt to various use cases and applications. By streamlining model management, users can now focus on fine-tuning and optimizing their AI models for improved performance."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex, a cutting-edge AI technology, is open-sourcing its models, allowing developers to access and build upon its innovative language processing capabilities. This move is expected to accelerate AI research and development, enabling the creation of more sophisticated and customized AI applications. By making its models open-source, Codex is democratizing access to AI technology and fostering a community-driven approach to AI innovation."
+      "summary": "Codex, a leader in AI development, is open-sourcing its AI models, making them freely available for use and modification. This move is expected to accelerate innovation and collaboration in the AI community, driving advancements in areas like natural language processing and machine learning. By sharing its models, Codex aims to democratize access to AI technology and foster a more open and inclusive ecosystem."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
       "published": "Tue, 09 Dec 2025 20:06:56 GMT",
       "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient multimodal model that achieves frontier performance while reducing computational costs. This innovation enables more efficient processing of multiple data types, such as text, images, and audio, making it a significant breakthrough in AI development. By optimizing performance and cost, Apriel-1.6-15b-Thinker has the potential to accelerate adoption of multimodal AI applications in various industries."
+      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cutting-edge multimodal model that achieves frontier performance while being cost-efficient. This innovation enables more accessible and widespread adoption of AI technologies, particularly in areas like computer vision and natural language processing. By reducing computational costs, Apriel-1.6-15b-Thinker has the potential to drive significant advancements in various applications, from image recognition to language translation."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The Hugging Face team has introduced swift-huggingface, a comprehensive Swift client that allows developers to seamlessly integrate Hugging Face's AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation enables Swift developers to leverage the power of Hugging Face's transformer models for natural language processing and machine learning tasks. With swift-huggingface, developers can now build more intelligent and interactive apps with ease."
+      "summary": "The Hugging Face team has released swift-huggingface, a comprehensive Swift client that enables seamless integration of their popular AI models into iOS, macOS, watchOS, and tvOS apps. This new client allows developers to easily leverage Hugging Face's vast model repository, including language models and computer vision models, to build innovative AI-powered applications. By bridging the gap between Hugging Face and Swift, developers can now create more intelligent and interactive user experiences on Apple devices."
     },
     {
       "source": "RSS",
@@ -134,16 +134,25 @@
       "url": "https://huggingface.co/blog/intel-deepmath",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/5fc653437cdd178e8cae978e9df49457.png",
-      "summary": "DeepMath is a cutting-edge, lightweight math reasoning agent that utilizes smolagents to solve complex mathematical problems. This innovative technology enables efficient and accurate reasoning, making it a significant breakthrough in the field of artificial intelligence. By leveraging smolagents, DeepMath has the potential to revolutionize math education and problem-solving applications."
+      "summary": "DeepMath, a revolutionary AI agent, leverages smolagents to provide lightweight math reasoning capabilities, making it a significant breakthrough in artificial intelligence. This innovation enables efficient and accurate math problem-solving, paving the way for various applications in education and research. By combining smolagents with deep learning, DeepMath achieves impressive results while minimizing computational resources."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Benn Jordan's flock camera jammer will send you to jail in Florida now [video]",
-      "url": "https://www.youtube.com/watch?v=qEllWdK4l_A",
-      "published": "2025-12-12T18:58:43",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A device called the \"Flock Camera Jammer\" created by Benn Jordan, which can disrupt traffic cameras, is now illegal in Florida, and using it can result in jail time. This law aims to prevent drivers from evading traffic tickets by interfering with camera functionality. The new legislation highlights the ongoing cat-and-mouse game between tech-savvy individuals and law enforcement seeking to maintain public safety."
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "url": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "published": "2025-12-12T20:41:38",
+      "image": "https://docs.developer.apple.com/tutorials/developer-og.jpg",
+      "summary": "macOS 26.2 introduces a significant update, enabling fast AI clusters with RDMA (Remote Direct Memory Access) over Thunderbolt, allowing for high-speed data transfer and accelerated AI processing. This innovation enables developers to create powerful AI clusters using multiple Macs connected via Thunderbolt, boosting performance and efficiency. The update has the potential to revolutionize AI development and deployment on macOS devices."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "published": "2025-12-12T23:30:19",
+      "image": "https://static.simonwillison.net/static/2025/openai-skills-card.jpg",
+      "summary": "OpenAI has introduced a new feature called \"skills\" in ChatGPT and Codex CLI, allowing users to access a range of specialized capabilities and tools within the platforms. This update enables more precise and efficient interactions, as users can now invoke specific skills to accomplish tasks such as language translation or code generation. The integration of skills enhances the overall functionality and versatility of OpenAI's tools."
     },
     {
       "source": "Hacker News",
@@ -152,61 +161,16 @@
       "url": "https://www.bbc.com/future/article/20251201-how-cosmic-rays-grounded-thousands-of-aircraft",
       "published": "2025-12-08T13:20:19",
       "image": "https://ychef.files.bbci.co.uk/624x351/p0mkv5f0.jpg",
-      "summary": "A fascinating incident occurred where a fleet of aircraft was grounded due to \"bit flips\" caused by cosmic rays, which altered the planes' computer systems and triggered false error messages. This rare phenomenon highlights the vulnerability of modern technology to high-energy particles from space. The incident underscores the need for robust error correction and radiation hardening in critical systems, especially in the aviation industry."
+      "summary": "A recent incident involving a fleet of aircraft being grounded was caused by \"bit flips,\" a phenomenon where cosmic rays alter the binary code in computer systems, leading to errors and malfunctions. This rare occurrence highlights the vulnerability of modern technology to cosmic radiation, which can have significant impacts on safety-critical systems. The incident serves as a reminder of the need for robust error correction and radiation-hardening measures in sensitive electronics."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "BpfJailer: eBPF Mandatory Access Control [pdf]",
-      "url": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
-      "published": "2025-12-12T14:20:20",
-      "image": "data/images/ac538332770915a463eb0ab7d500c4a5.png",
-      "summary": "BpfJailer is a new Linux security system that utilizes eBPF (extended Berkeley Packet Filter) to enforce Mandatory Access Control (MAC), providing a more fine-grained and flexible approach to system security. This innovation allows for more precise control over system calls and resource access, enhancing overall security and reducing the risk of privilege escalation attacks. By leveraging eBPF, BpfJailer offers a more efficient and scalable solution for securing Linux systems."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Tripwire: A new anti evil maid defense",
-      "url": "https://github.com/fr33-sh/Tripwire",
-      "published": "2025-12-11T09:46:56",
-      "image": "https://opengraph.githubassets.com/69f14d08a884ac2928a30a5979ef4987178f35d96b0ec1685676751ef66bfa49/fr33-sh/Tripwire",
-      "summary": "Tripwire is a new open-source defense mechanism designed to prevent \"evil maid\" attacks, where an attacker gains physical access to a device and installs malware. This innovative solution aims to detect and prevent such attacks by monitoring for any unauthorized changes to a device's boot process. By providing an additional layer of security, Tripwire helps protect sensitive data and devices from physical compromise."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Guarding My Git Forge Against AI Scrapers",
-      "url": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
-      "published": "2025-12-12T07:51:04",
-      "image": "https://vulpinecitrus.info/favicon.png",
-      "summary": "A developer has implemented measures to protect their open-source code on Git Forge from AI-powered scrapers that exploit public repositories for training data. The safeguards include rate limiting, CAPTCHAs, and API restrictions to prevent unauthorized access. This effort highlights the growing concern of protecting intellectual property in the era of AI-driven data harvesting."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Koralm Railway",
-      "url": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
-      "published": "2025-12-12T10:50:22",
-      "image": "https://infrastruktur.oebb.at/.resources/corp-2016/themes/images/logo-oebb-infra-og.png",
-      "summary": "The Koralm Railway is a high-speed rail project in Austria that will connect the cities of Graz and Klagenfurt, reducing travel time to just 45 minutes. This innovative railway features advanced tunneling technology and will have a significant impact on regional transportation. Upon completion, it's expected to increase economic growth and connectivity in the region."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Training LLMs for Honesty via Confessions",
-      "url": "https://arxiv.org/abs/2512.08093",
-      "published": "2025-12-12T10:37:51",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Researchers have proposed a novel approach to training large language models (LLMs) for honesty, where the model is encouraged to \"confess\" when it's unsure or doesn't know the answer to a question. This method aims to improve the model's transparency and trustworthiness by penalizing it for providing false or misleading information. By doing so, LLMs can become more reliable and accurate in their responses, reducing the spread of misinformation."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Framework Raises DDR5 Memory Prices by 50% for DIY Laptops",
-      "url": "https://www.phoronix.com/news/Framework-50p-DDR5-Memory",
-      "published": "2025-12-12T15:58:10",
-      "image": "https://www.phoronix.net/image.php?id=framework-16-ryzen-ai-300-series&image=framework_16_13",
-      "summary": "Framework, a DIY laptop manufacturer, has increased the price of its DDR5 memory modules by 50% due to rising component costs. This price hike may impact the affordability of Framework's modular laptops, which are known for their customizable and upgradable design. The change reflects the broader industry trend of increasing memory prices, affecting the DIY laptop market."
+      "title": "Using secondary school maths to demystify AI",
+      "url": "https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/",
+      "published": "2025-12-12T16:32:43",
+      "image": "https://www.raspberrypi.org/app/uploads/2025/11/Ada-CS-event-500x281.png",
+      "summary": "Researchers are using secondary school-level math concepts to explain complex AI principles, making AI more accessible and demystifying its underlying technology. This approach aims to provide a deeper understanding of AI without requiring advanced math knowledge, promoting a more inclusive and transparent AI community. By leveraging familiar math concepts, individuals can better comprehend and engage with AI, bridging the gap between technical experts and the general public."
     }
   ]
 }
