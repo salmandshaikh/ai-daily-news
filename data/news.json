@@ -1,15 +1,6 @@
 {
-  "updated": "2025-12-15T08:17:31.179658",
+  "updated": "2025-12-15T12:20:20.558949",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "BBVA and OpenAI collaborate to transform global banking",
-      "url": "https://openai.com/index/bbva-collaboration-expansion",
-      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by leveraging artificial intelligence and machine learning. This collaboration aims to enhance customer experiences, improve operational efficiency, and drive innovation in financial services. By integrating OpenAI's technology, BBVA seeks to stay ahead of the curve in the rapidly evolving banking landscape."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,7 +8,7 @@
       "url": "https://openai.com/index/bny",
       "published": "Fri, 12 Dec 2025 00:00:00 GMT",
       "image": "data/images/d239b700cee866da2d14eabcc390f37a.png",
-      "summary": "BNY Mellon has partnered with OpenAI to make artificial intelligence more accessible, aiming to bring AI capabilities to everyone, everywhere. This collaboration is expected to drive innovation and democratize access to AI, enabling widespread adoption across various industries. By leveraging OpenAI's technology, BNY Mellon seeks to create a more inclusive and AI-driven ecosystem."
+      "summary": "BNY Mellon has partnered with OpenAI to develop an \"AI for everyone, everywhere\" platform, aiming to make artificial intelligence more accessible and inclusive. This collaboration is expected to drive innovation and democratize AI adoption across various industries. By leveraging OpenAI's technology, BNY Mellon seeks to create a more equitable and widespread use of AI solutions."
     },
     {
       "source": "RSS",
@@ -26,7 +17,16 @@
       "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
       "published": "Fri, 12 Dec 2025 00:00:00 GMT",
       "image": "data/images/7d122d86b328f22f619f9854f9f75f25.png",
-      "summary": "The team behind Sora, a popular app, leveraged Codex, a cutting-edge AI-powered coding tool, to successfully ship the Android version in just 28 days. This rapid development was made possible by Codex's ability to generate high-quality code, reducing the time and effort required to build the app. By utilizing Codex, the team was able to accelerate their development process, achieving a remarkably fast time-to-market for the Android version of Sora."
+      "summary": "The team behind Sora leveraged Codex, a cutting-edge AI-powered coding tool, to rapidly develop and ship the Android version of their app in just 28 days. This achievement demonstrates the potential of Codex to accelerate development timelines and improve productivity. By automating coding tasks, Codex enabled the team to focus on higher-level creative decisions, resulting in a swift and successful launch."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "url": "https://openai.com/index/bbva-collaboration-expansion",
+      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "image": "data/images/daf89d23919590d83a43a3f89c76ce8c.png",
+      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by leveraging artificial intelligence and machine learning. This collaboration aims to enhance customer experiences, improve operational efficiency, and drive innovation in financial services. By integrating OpenAI's technology, BBVA seeks to stay at the forefront of digital transformation in the banking industry."
     },
     {
       "source": "RSS",
@@ -35,16 +35,16 @@
       "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
       "published": "Thu, 11 Dec 2025 10:00:00 GMT",
       "image": "data/images/6b039cc2e6785fd5557e56b6c4f11dd6.png",
-      "summary": "Researchers have unveiled GPT-5.2, a cutting-edge AI model that promises to revolutionize science and math education by providing personalized learning experiences and automated solutions to complex problems. This innovative technology has the potential to make STEM subjects more accessible and engaging for students of all levels. With GPT-5.2, students can expect more accurate and efficient learning outcomes, paving the way for a new era in science and math education."
+      "summary": "Researchers have unveiled GPT-5.2, a powerful AI model that can accelerate scientific discoveries and math problem-solving. This innovative tool has the potential to revolutionize fields like physics, engineering, and computer science by automating complex calculations and generating novel solutions. With GPT-5.2, scientists can explore new ideas and theories more efficiently, leading to breakthroughs in various disciplines."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.2",
-      "url": "https://openai.com/index/introducing-gpt-5-2",
+      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+      "url": "https://openai.com/index/disney-sora-agreement",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
-      "image": "data/images/44572bd88aa6616ff80c697819c4ad4a.png",
-      "summary": "The introduction of GPT-5.2 marks a significant advancement in AI technology, boasting improved language understanding and generation capabilities. This upgraded model is expected to enhance various applications, including chatbots, language translation, and content creation. With GPT-5.2, developers can build more sophisticated and human-like AI interfaces, revolutionizing the way we interact with technology."
+      "image": "data/images/bee0d0654729cbffe5cc010305c53d93.png",
+      "summary": "The Walt Disney Company has partnered with OpenAI to bring its iconic characters to the Sora platform, marking a significant collaboration between entertainment and AI. This agreement will enable the integration of Disney's beloved characters into Sora's interactive experiences, opening up new possibilities for immersive storytelling. The partnership is set to revolutionize the way fans engage with Disney's characters, leveraging OpenAI's cutting-edge technology to create innovative and interactive experiences."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for more precise and natural interactions with virtual assistants. The improved models are expected to significantly boost the performance of voice-powered applications and devices."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement enhances the overall voice experience, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The updated models are expected to drive innovation in voice-powered technologies, from smart home devices to mobile apps."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security and develop innovative solutions. This collaboration aims to improve the security and resilience of AI systems, addressing emerging threats and challenges. The partnership is expected to drive significant advancements in AI security research and development, benefiting both the industry and society."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and resilience of AI systems, driving innovation in the field. The partnership is expected to have a significant impact on the development of more secure and trustworthy AI technologies."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government, aiming to harness AI for economic growth and national security. This collaboration will focus on developing and implementing AI solutions to drive prosperity and security in the UK. The partnership is expected to have a significant impact on the country's digital transformation and global competitiveness."
+      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive prosperity and security in the age of AI. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance national security. By working together, they seek to establish the UK as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
       "published": "Tue, 09 Dec 2025 11:29:03 +0000",
       "image": "data/images/fdc9e271747e497ae120297b1f6a71be.png",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool designed to assess the factuality of large language models. This suite aims to systematically test the accuracy and reliability of AI-generated content, helping to identify and mitigate the spread of misinformation. By using FACTS, developers can refine their models to produce more trustworthy and factual outputs."
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive tool for evaluating the factuality of large language models, enabling a systematic assessment of their ability to provide accurate and reliable information. This suite aims to identify and mitigate the spread of misinformation by testing language models' performance on a wide range of factual tasks. By using FACTS, developers can refine their models to improve factuality and trustworthiness."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to combat the challenges of a warming climate, using advanced engineering techniques to enhance their ability to withstand extreme temperatures and droughts. This innovation has the potential to improve global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to ensure a stable food supply for future generations."
+      "summary": "Scientists are developing more resilient crops to combat the impacts of climate change, using advanced engineering techniques to enhance their ability to withstand rising temperatures and extreme weather conditions. This innovation has the potential to improve global food security and reduce crop losses due to environmental stress. By creating climate-resilient crops, researchers aim to ensure a more sustainable food supply for future generations."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enables more flexibility and customization, making it simpler for developers to integrate AI into their projects. By streamlining model management, llama.cpp enhances its usability and expands its potential applications."
+      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily switch between different AI models and fine-tune them for specific tasks. This innovation enables more flexibility and customization in AI applications, making it easier to adapt to various use cases. By streamlining model management, llama.cpp enhances the overall performance and usability of its AI capabilities."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex, a cutting-edge AI platform, is open-sourcing its AI models, allowing developers to access and build upon its innovative technology. This move is expected to accelerate AI adoption and drive innovation in the field, enabling the creation of more sophisticated and powerful AI applications. By making its models open-source, Codex is democratizing access to AI and empowering developers to push the boundaries of what is possible."
+      "summary": "Codex, a cutting-edge AI platform, is open-sourcing its models, allowing developers to access and build upon its innovative technology. This move is expected to accelerate AI adoption and innovation, enabling a wider range of applications and use cases. By making its models open-source, Codex is democratizing access to AI and empowering the development community to create new and exciting solutions."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
       "published": "Tue, 09 Dec 2025 20:06:56 GMT",
       "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient AI model that achieves state-of-the-art performance in multimodal tasks, such as vision and language processing. This innovation enables more efficient use of computational resources, making AI more accessible and affordable for a wider range of applications. By pushing the frontier of multimodal performance, Apriel-1.6-15b-Thinker has the potential to drive advancements in areas like computer vision, natural language processing, and human-computer interaction."
+      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient AI model that achieves frontier multimodal performance, enabling efficient processing of various data types such as text, images, and audio. This innovation has the potential to improve applications like chatbots, virtual assistants, and content generation. By reducing computational costs, Apriel-1.6-15b-Thinker makes multimodal AI more accessible and scalable for widespread adoption."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/swift-huggingface",
       "published": "Fri, 05 Dec 2025 00:00:00 GMT",
       "image": "data/images/e9286eebab2d5d0b9a45f34a4f59d637.png",
-      "summary": "The swift-huggingface library provides a comprehensive Swift client for Hugging Face, enabling developers to integrate popular AI models into their iOS, macOS, watchOS, and tvOS apps. This innovation allows for seamless access to Hugging Face's vast model repository, streamlining the development of AI-powered applications. By bridging the gap between Swift and Hugging Face, developers can now easily leverage cutting-edge AI capabilities in their projects."
+      "summary": "The Hugging Face team has introduced swift-huggingface, a comprehensive Swift client that enables seamless integration with their popular AI model hub. This new client allows developers to easily access and utilize Hugging Face's vast library of models in their Swift-based projects, expanding the possibilities for AI-powered iOS, macOS, watchOS, and tvOS apps. By bridging the gap between Swift and Hugging Face, developers can now build more intelligent and innovative applications."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/intel-deepmath",
       "published": "Thu, 04 Dec 2025 00:00:00 GMT",
       "image": "data/images/5fc653437cdd178e8cae978e9df49457.png",
-      "summary": "DeepMath is a revolutionary math reasoning agent that utilizes smolagents to provide lightweight and efficient problem-solving capabilities. This innovative technology enables machines to reason and solve complex mathematical problems with increased accuracy and speed. By leveraging smolagents, DeepMath has the potential to transform various fields, including education and research, with its cutting-edge math reasoning abilities."
+      "summary": "DeepMath is a novel AI agent that leverages smolagents to enable lightweight math reasoning capabilities, making it more efficient and accessible. This innovation has the potential to revolutionize math education and problem-solving by providing a more intuitive and user-friendly interface. With DeepMath, users can expect improved math understanding and accuracy, thanks to its advanced reasoning and problem-solving abilities."
     },
     {
       "source": "Hacker News",
@@ -143,16 +143,7 @@
       "url": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
       "published": "2025-12-15T00:17:02",
       "image": "https://imagenes.elpais.com/resizer/v2/7E4S5MDV25MJNBA77WUMWZ3RSQ.jpg?auth=dc176b7a46c8a709d8f029b7ebd061922e4b705eb0b000898609275473b5bead&width=1200",
-      "summary": "As AI increasingly replaces human workers, experts are debating whether AI systems should be taxed like their human counterparts, potentially generating revenue to support workers displaced by automation. This concept raises questions about the responsibility of AI owners and the role of taxation in mitigating the social impact of technological unemployment. By taxing AI, governments could create a safety net for workers affected by automation."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hashcards: A plain-text spaced repetition system",
-      "url": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-      "published": "2025-12-14T16:55:29",
-      "image": "https://borretti.me/assets/card/hashcards-plain-text-spaced-repetition.webp",
-      "summary": "Hashcards is a new, open-source tool that utilizes plain-text files to implement a spaced repetition system, allowing users to efficiently memorize information. This innovative approach enables seamless synchronization across devices and easy editing of flashcards. By leveraging plain-text files, Hashcards provides a flexible and accessible way to manage knowledge and learning."
+      "summary": "As AI increasingly replaces human workers, a growing debate suggests that AI systems should be subject to taxation, similar to human employees, to offset the loss of tax revenue and mitigate the impact on social welfare systems. This concept, known as \"robot taxes,\" aims to ensure that the benefits of automation are shared by society as a whole. By taxing AI, governments could generate revenue to support workers displaced by automation and fund retraining programs."
     },
     {
       "source": "Hacker News",
@@ -161,7 +152,16 @@
       "url": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
       "published": "2025-12-14T23:48:37",
       "image": "https://martinalderson.com/img/og/ai-agents-are-starting-to-eat-saas.png",
-      "summary": "AI-powered agents are increasingly replacing traditional Software as a Service (SaaS) models, offering more personalized and automated experiences for users. This shift is driven by advancements in AI, enabling agents to learn and adapt to individual needs, potentially disrupting the SaaS industry. As a result, companies are rethinking their SaaS strategies to incorporate AI-driven solutions that provide more value and efficiency."
+      "summary": "AI agents are increasingly replacing traditional Software as a Service (SaaS) models, offering more personalized and automated solutions. This shift is driven by AI's ability to learn and adapt to user needs, potentially disrupting the SaaS industry. As AI agents improve, they may soon become the preferred choice for tasks currently handled by SaaS applications."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hashcards: A plain-text spaced repetition system",
+      "url": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+      "published": "2025-12-14T16:55:29",
+      "image": "https://borretti.me/assets/card/hashcards-plain-text-spaced-repetition.webp",
+      "summary": "Hashcards is a new, open-source tool that utilizes a plain-text spaced repetition system to help users memorize information more efficiently. This innovative approach allows for seamless integration with existing note-taking systems, making it easy to review and retain knowledge. By leveraging spaced repetition, Hashcards enables users to optimize their learning process and retain information more effectively."
     },
     {
       "source": "Hacker News",
@@ -170,25 +170,7 @@
       "url": "https://status.claude.com/incidents/9g6qpr72ttbr",
       "published": "2025-12-14T21:53:13",
       "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "summary": "A recent issue has been reported on Hacker News, where multiple AI models are experiencing elevated error rates, suggesting a potential widespread problem with the underlying technology. This glitch is affecting various models, leading to inaccurate results and sparking concerns about reliability. The cause of the issue is still unknown, prompting further investigation and discussion among developers and users."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted",
-      "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
-      "published": "2025-12-15T00:35:41",
-      "image": "https://www.techpowerup.com/img/LyjhnECZ5Iamtqd9.jpg",
-      "summary": "Microsoft's Copilot AI has been integrated into LG TVs, bringing AI-powered features and recommendations to the viewing experience. However, users have discovered that the Copilot AI cannot be deleted from the TV, raising concerns about data collection and privacy. This permanent integration marks a significant shift in the convergence of AI and home entertainment."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
-      "url": "https://trigger.dev/blog/shai-hulud-postmortem",
-      "published": "2025-12-14T10:07:00",
-      "image": "https://trigger.dev/blog/shai-hulud-postmortem/shai-hulud-postmortem.png",
-      "summary": "A developer's machine was compromised by a hacker known as Shai-Hulud, allowing them to gain access to the developer's GitHub organization and repositories. The breach highlights the importance of robust security measures, such as two-factor authentication and secure password management, to prevent similar incidents. The post-mortem analysis serves as a cautionary tale for developers to prioritize security and protect their online presence."
+      "summary": "A recent issue has been reported on Hacker News, where multiple AI models are experiencing elevated error rates, causing disruptions to various applications and services. The cause of the issue is still unknown, but it's sparking discussions among developers and users about the reliability and stability of AI models. This widespread glitch highlights the need for more robust testing and quality control in AI development."
     }
   ]
 }
