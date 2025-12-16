@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-16T16:03:46.600925",
+  "updated": "2025-12-16T20:03:16.087556",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Evaluating AI\u2019s ability to perform scientific research tasks",
+      "url": "https://openai.com/index/frontierscience",
+      "published": "Tue, 16 Dec 2025 09:00:00 GMT",
+      "image": "data/images/d0ea2f2b7d34f814b24b7b36bcc1da01.png",
+      "summary": "Researchers are exploring AI's potential to assist with scientific research tasks, such as data analysis and hypothesis generation. A new study evaluates the capabilities and limitations of AI in performing these tasks, highlighting its potential to accelerate discovery and innovation. By automating routine tasks, AI could free up scientists to focus on higher-level thinking and complex problem-solving."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,16 @@
       "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
       "published": "Tue, 16 Dec 2025 08:00:00 GMT",
       "image": "data/images/4964c8290dfaaa1dd449fa64d560decd.png",
-      "summary": "Researchers are exploring the potential of AI to accelerate biological research, leveraging its capability to analyze vast amounts of data and identify patterns. This integration of AI in biology could lead to breakthroughs in disease diagnosis, treatment, and prevention. By automating tedious tasks, AI can free up scientists to focus on higher-level thinking and innovation, revolutionizing the field of biology."
+      "summary": "Researchers are exploring the potential of AI to accelerate biological research, leveraging its capabilities to analyze vast amounts of data and identify patterns. This integration of AI in biology could lead to breakthroughs in disease understanding and treatment, as well as drug discovery. By automating tedious tasks, AI can free up scientists to focus on higher-level thinking and experimentation, driving innovation in the field."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The new ChatGPT Images is here",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here",
+      "published": "Tue, 16 Dec 2025 00:00:00 GMT",
+      "image": "data/images/07a33fca8ac12ed33602bbcc9eb7b65c.png",
+      "summary": "ChatGPT has unveiled its latest feature, ChatGPT Images, which enables users to generate and edit images using text prompts. This innovative tool combines AI-powered image generation with the conversational capabilities of ChatGPT, opening up new creative possibilities. With ChatGPT Images, users can bring their ideas to life and explore new forms of visual expression."
     },
     {
       "source": "RSS",
@@ -17,7 +35,7 @@
       "url": "https://openai.com/index/bbva-collaboration-expansion",
       "published": "Fri, 12 Dec 2025 00:00:00 GMT",
       "image": "data/images/daf89d23919590d83a43a3f89c76ce8c.png",
-      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by leveraging artificial intelligence and machine learning. This collaboration aims to enhance customer experiences, improve operational efficiency, and drive innovation in the financial sector. By integrating OpenAI's technology, BBVA seeks to stay at the forefront of digital transformation in banking."
+      "summary": "BBVA has partnered with OpenAI to integrate artificial intelligence into its banking services, aiming to enhance customer experiences and improve operational efficiency. This collaboration is set to transform the global banking landscape by leveraging OpenAI's cutting-edge technology to drive innovation and digital transformation. The partnership will enable BBVA to develop more personalized and intuitive banking solutions, revolutionizing the way customers interact with financial services."
     },
     {
       "source": "RSS",
@@ -26,25 +44,7 @@
       "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
       "published": "Fri, 12 Dec 2025 00:00:00 GMT",
       "image": "data/images/7d122d86b328f22f619f9854f9f75f25.png",
-      "summary": "The team behind Sora leveraged Codex, a cutting-edge AI-powered coding tool, to rapidly develop and deploy the Android version of their app in just 28 days. This achievement showcases the potential of AI-assisted coding to accelerate development timelines and improve efficiency. By utilizing Codex, the team was able to streamline their workflow and bring their app to market at an unprecedented pace."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "BNY builds \u201cAI for everyone, everywhere\u201d with OpenAI",
-      "url": "https://openai.com/index/bny",
-      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
-      "image": "data/images/d239b700cee866da2d14eabcc390f37a.png",
-      "summary": "BNY Mellon has partnered with OpenAI to make artificial intelligence more accessible, aiming to bring \"AI for everyone, everywhere\" through innovative solutions. This collaboration is expected to drive business growth and improve customer experiences. By leveraging OpenAI's technology, BNY Mellon can provide more personalized and efficient services to its clients worldwide."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Advancing science and math with GPT-5.2",
-      "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
-      "published": "Thu, 11 Dec 2025 10:00:00 GMT",
-      "image": "data/images/6b039cc2e6785fd5557e56b6c4f11dd6.png",
-      "summary": "Researchers are leveraging GPT-5.2, a cutting-edge AI model, to accelerate breakthroughs in science and math by automating complex calculations and generating novel solutions. This innovative application of AI has the potential to revolutionize fields such as physics, engineering, and computer science. By augmenting human capabilities, GPT-5.2 is poised to drive significant advancements in these disciplines."
+      "summary": "The team behind Sora, a popular app, leveraged Codex to rapidly develop and release its Android version in just 28 days. Codex, a cutting-edge AI-powered coding tool, enabled the team to automate and streamline the development process, significantly reducing the time-to-market. This achievement demonstrates the potential of AI-assisted coding to accelerate app development and deployment."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice experiences. This improvement allows for better voice recognition, transcription, and generation, opening up new possibilities for voice-activated applications. The updated models will enhance the overall quality and responsiveness of voice interactions, making them more natural and intuitive."
+      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation allows for better voice recognition, transcription, and generation, paving the way for advanced voice assistants and applications. With Gemini, developers can create more powerful and intuitive voice-powered interfaces, revolutionizing the way users interact with technology."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A new partnership has been formed with the UK AI Security Institute, aiming to enhance AI security and innovation. This collaboration is expected to drive advancements in AI research and development, ultimately strengthening the security of AI systems. By working together, the partnership seeks to foster a more secure and trustworthy AI ecosystem."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, driving innovation and growth in the field. The partnership is expected to have a significant impact on the development of more secure and reliable AI technologies."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance cybersecurity. The partnership will focus on developing and implementing AI solutions to address key challenges and opportunities in the UK."
+      "summary": "A leading tech company has announced a strengthened partnership with the UK government to drive prosperity and security in the age of AI. This collaboration aims to harness the power of artificial intelligence to boost economic growth, improve public services, and enhance national security. By working together, the company and the UK government seek to establish the country as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
       "published": "Tue, 09 Dec 2025 11:29:03 +0000",
       "image": "data/images/fdc9e271747e497ae120297b1f6a71be.png",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool that assesses the factuality of large language models, helping to identify and mitigate the spread of misinformation. This suite systematically tests language models' ability to provide accurate and reliable information, promoting more trustworthy AI interactions. By using FACTS, developers can refine their models to better distinguish between factual and fictional content."
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool designed to assess the factuality of large language models. This suite systematically tests a model's ability to provide accurate and reliable information, helping to identify areas of improvement and increase trust in AI-generated content. By using FACTS, developers can refine their models to produce more factual and trustworthy outputs."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
       "published": "Thu, 04 Dec 2025 16:23:24 +0000",
       "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using advanced engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This innovation aims to ensure global food security by creating crops that can adapt to rising temperatures and changing precipitation patterns. By doing so, researchers hope to mitigate the impacts of climate change on agriculture and food production."
+      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using innovative engineering techniques to enhance their ability to thrive in extreme temperatures and weather conditions. This breakthrough has the potential to improve global food security and mitigate the impacts of climate change on agriculture. By creating climate-resilient crops, researchers aim to ensure a stable food supply for future generations."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that allows users to create and configure AI agents with ease, democratizing access to customizable AI models. This innovation enables developers to design and train AI agents tailored to specific tasks and applications, without requiring extensive expertise. By making AI more accessible, CUGA has the potential to accelerate AI adoption and innovation across various industries."
+      "summary": "Hugging Face has introduced CUGA, a platform that democratizes access to configurable AI agents, allowing developers to easily create and customize AI models. This innovation enables a wider range of users to build and deploy AI solutions, regardless of their expertise level. By making AI more accessible, CUGA has the potential to accelerate AI adoption and drive innovation across various industries."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models",
       "published": "Mon, 15 Dec 2025 14:08:17 GMT",
       "image": "data/images/d8c85dd0cd88103624354818a847de49.png",
-      "summary": "The Nemotron 3 Nano introduces a new standard for efficient, open, and intelligent agentic models, revolutionizing the field of artificial intelligence. This innovative technology enables the creation of more sophisticated and autonomous models, allowing for greater flexibility and customization. By setting a new benchmark for agentic models, Nemotron 3 Nano has the potential to significantly impact various industries, from robotics to healthcare."
+      "summary": "The Nemotron 3 Nano introduces a new standard for efficient, open, and intelligent agentic models, revolutionizing the field with its innovative approach. This cutting-edge technology enables the development of more sophisticated and autonomous models, paving the way for significant advancements in AI research. By providing an open and accessible framework, Nemotron 3 Nano is poised to accelerate breakthroughs in areas such as robotics, healthcare, and finance."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily switch between different AI models and configure their settings. This innovation enhances the overall user experience and provides more flexibility in leveraging the capabilities of llama.cpp. By streamlining model management, users can now focus on exploring the full potential of this AI tool."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enhances the flexibility and customization of the llama.cpp framework, enabling developers to tailor their AI applications to specific use cases. By streamlining model management, this update simplifies the development process and unlocks new possibilities for AI-driven projects."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex is open-sourcing its AI models, making it easier for developers to access and integrate advanced artificial intelligence capabilities into their projects. This move is expected to accelerate innovation and collaboration in the AI community, driving new applications and use cases. By open-sourcing its models, Codex is democratizing access to AI technology and empowering a wider range of developers to build innovative solutions."
+      "summary": "Codex is taking a significant step by open-sourcing its AI models, making them accessible to developers and researchers worldwide. This move is expected to accelerate innovation and advancement in the field of artificial intelligence, enabling the creation of more sophisticated and diverse AI-powered applications. By sharing its models, Codex aims to foster collaboration and drive progress in AI development."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
       "published": "Tue, 09 Dec 2025 20:06:56 GMT",
       "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient multimodal AI model that achieves frontier performance while reducing computational costs. This innovation enables more accessible and efficient processing of multiple data types, such as text, images, and audio. By optimizing performance and cost, Apriel-1.6-15b-Thinker has the potential to accelerate adoption of multimodal AI applications in various industries."
+      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cutting-edge multimodal model that achieves state-of-the-art performance while being more cost-efficient than its predecessors. This innovation has the potential to make AI more accessible and affordable for a wide range of applications. By reducing computational costs, Apriel-1.6-15b-Thinker paves the way for more widespread adoption of multimodal AI models."
     },
     {
       "source": "Hacker News",
@@ -143,43 +143,43 @@
       "url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
       "published": "2025-12-16T13:46:57",
       "image": "https://www.tum.de/fileadmin/user_upload_87/_processed_/7/c/csm_Foto_Riedl_Epp_Gabriel_Castrillon_-_quer_2ca96e8977.jpg",
-      "summary": "Researchers have found that up to 40% of fMRI signals may not accurately represent brain activity, potentially leading to misinterpretations of brain function and behavior. This discovery challenges the reliability of fMRI scans, a widely used tool in neuroscience and psychology. The findings could have significant implications for the field, requiring a re-examination of existing research and methods."
+      "summary": "Researchers have made a groundbreaking discovery that up to 40% of functional magnetic resonance imaging (fMRI) signals may not accurately reflect brain activity, potentially leading to misinterpretations of brain function and behavior. This finding challenges the reliability of fMRI scans, a widely used tool in neuroscience and psychology. The revelation could significantly impact the field, prompting a re-examination of existing research and the development of more accurate imaging techniques."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Children with cancer scammed out of millions fundraised for their treatment",
-      "url": "https://www.bbc.com/news/articles/ckgz318y8elo",
-      "published": "2025-12-16T06:17:37",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0b73/live/a6481a60-d6a0-11f0-9fb5-5f3a3703a365.jpg",
-      "summary": "A devastating scam has targeted children with cancer, swindling millions of dollars in donations meant for their medical treatment. The scam, which exploited online fundraising platforms, has highlighted the need for increased security measures to protect vulnerable individuals and ensure donations reach their intended recipients. This incident underscores the importance of verifying fundraising campaigns to prevent such heartless crimes."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing",
-      "url": "https://github.com/mantisfury/ArkhamMirror",
-      "published": "2025-12-16T09:51:31",
-      "image": "https://opengraph.githubassets.com/9f98cac2f37c4ea2a5b539fbbe048eb877de26cce870ed76bfb36671559b1f97/mantisfury/ArkhamMirror",
-      "summary": "ArkhamMirror is a novel airgapped investigation platform that enables CIA-style hypothesis testing, allowing researchers to analyze and investigate complex systems in a secure, isolated environment. This platform uses a unique approach to test hypotheses, providing a more structured and efficient method for identifying potential security threats. By leveraging this technology, researchers can enhance their threat detection capabilities and improve overall cybersecurity posture."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bonsai: A Voxel Engine, from scratch",
-      "url": "https://github.com/scallyw4g/bonsai",
-      "published": "2025-12-16T06:06:43",
-      "image": "https://repository-images.githubusercontent.com/74796411/91e9a674-39a6-4b7a-8eef-c5150dc57beb",
-      "summary": "Developers have created Bonsai, a voxel engine built from scratch, allowing for the rendering of 3D graphics using cube-like voxels. This innovative engine enables the creation of unique, blocky worlds and objects, similar to those found in games like Minecraft. By building Bonsai from the ground up, the developers aim to optimize performance and push the boundaries of voxel-based graphics."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Be Careful with GIDs in Rails",
-      "url": "https://blog.julik.nl/2025/12/a-trap-with-global-ids",
-      "published": "2025-12-11T02:03:58",
+      "title": "GPT Image 1.5",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "published": "2025-12-16T18:07:07",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A recent warning has been issued to Rails developers regarding the potential pitfalls of using Global IDs (GIDs) in their applications. GIDs can lead to security vulnerabilities and performance issues if not implemented correctly, highlighting the need for caution when utilizing this feature. By being mindful of GID usage, developers can avoid common mistakes and ensure the stability and security of their Rails applications."
+      "summary": "GPT Image 1.5 is a new AI model that generates high-quality images from text prompts, showcasing significant advancements in text-to-image synthesis. This updated model improves upon its predecessor with enhanced image realism, diversity, and coherence. With GPT Image 1.5, users can create stunning visuals with unprecedented levels of detail and accuracy, opening up new possibilities for artistic and creative applications."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia Nemotron 3 Family of Models",
+      "url": "https://research.nvidia.com/labs/nemotron/Nemotron-3/",
+      "published": "2025-12-15T14:39:49",
+      "image": "data/images/597582b4adbe47a0f85a684a3b28e24d.png",
+      "summary": "Nvidia has introduced the Nemotron 3 family of models, a new generation of AI-powered language models that promise to revolutionize natural language processing. These models boast significant improvements in performance, efficiency, and scalability, enabling more accurate and nuanced language understanding. With Nemotron 3, Nvidia aims to push the boundaries of AI-driven applications, from chatbots to content generation and beyond."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI URI Scheme \u2013 Internet-Draft",
+      "url": "https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html",
+      "published": "2025-12-15T07:28:27",
+      "image": "data/images/c0d83ee34e9bbb958c6e5116dd5f4b17.png",
+      "summary": "The Internet Engineering Task Force (IETF) has proposed an AI URI scheme, a new standard for identifying and accessing AI models and services on the internet. This scheme aims to simplify the discovery and integration of AI capabilities, enabling more seamless interactions between humans, applications, and AI systems. By standardizing AI resource identification, the AI URI scheme could accelerate the development of AI-powered applications and services."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AIsbom \u2013 open-source CLI to detect \"Pickle Bombs\" in PyTorch models",
+      "url": "https://github.com/Lab700xOrg/aisbom",
+      "published": "2025-12-16T15:55:45",
+      "image": "https://opengraph.githubassets.com/95e8b24679abf74bde502c5ab6797058627ef132bbaee354c8f5f11d89707791/Lab700xOrg/aisbom",
+      "summary": "A new open-source tool called AIsbom has been released, providing a command-line interface (CLI) to detect \"Pickle Bombs\" in PyTorch models. Pickle Bombs are malicious files that can cause denial-of-service attacks, and AIsbom aims to help developers identify and mitigate these threats. By using AIsbom, PyTorch users can now more easily secure their models against these types of attacks."
     },
     {
       "source": "Hacker News",
@@ -188,25 +188,16 @@
       "url": "https://vllora.dev/blog/debug-mode/",
       "published": "2025-12-12T10:44:50",
       "image": "https://vllora.dev/img/debugging-paused-breakpoint-view.png",
-      "summary": "The vLLora platform has introduced a \"Debug Mode\" for Large Language Models (LLMs), allowing developers to better understand and fine-tune their AI models. This new feature provides detailed insights into the decision-making process of LLMs, enabling more accurate and efficient debugging. By improving the transparency and explainability of LLMs, vLLora's Debug Mode has the potential to significantly enhance the development and deployment of AI applications."
+      "summary": "The vLLora platform has introduced a debug mode for Large Language Models (LLMs), allowing developers to better understand and refine the decision-making processes of these AI models. This feature enables more transparent and explainable AI, which can lead to improved performance and reduced errors. By providing insight into LLMs' inner workings, vLLora's debug mode has the potential to accelerate the development of more reliable and trustworthy AI systems."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "U.S. unemployment rose in November despite job gains",
-      "url": "https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90",
-      "published": "2025-12-16T14:11:08",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "The US unemployment rate unexpectedly rose to 3.7% in November, despite a significant gain of 263,000 new jobs, indicating a complex labor market. This job growth exceeded economists' expectations, but the unemployment rate increase suggests more people are re-entering the workforce. The mixed signals highlight the ongoing challenges in the US economy."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
-      "url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-      "published": "2025-12-16T03:03:49",
-      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/6940043002b9b0e7d938b3ac_1765802302699.jpeg",
-      "summary": "A recent discovery has found that several popular \"privacy\" browser extensions have been secretly selling conversations between 8 million users and AI chatbots for profit. This shocking revelation raises concerns about the true intentions of these extensions, which claim to prioritize user privacy. The incident highlights the need for greater transparency and accountability in the development of privacy-focused tools."
+      "title": "Show HN: Solving the ~95% legislative coverage gap using LLM's",
+      "url": "https://lustra.news/",
+      "published": "2025-12-16T14:39:59",
+      "image": "https://lustra.news/assets/og_preview.png",
+      "summary": "A new project utilizes Large Language Models (LLMs) to bridge the approximately 95% legislative coverage gap, making it easier to access and understand laws and regulations. This innovative approach aims to increase transparency and accessibility of legislative information, which is currently difficult to navigate due to its complexity and volume. By leveraging LLMs, the project has the potential to revolutionize the way people interact with and understand the law."
     }
   ]
 }
