@@ -1,6 +1,15 @@
 {
-  "updated": "2025-12-17T12:19:43.942062",
+  "updated": "2025-12-17T16:14:47.230363",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing OpenAI Academy for News Organizations",
+      "url": "https://openai.com/index/openai-academy-for-news-organizations",
+      "published": "Wed, 17 Dec 2025 06:00:00 GMT",
+      "image": "data/images/662ae0f9a3dd46c9a8f0eb28146a948c.png",
+      "summary": "OpenAI has launched the OpenAI Academy for News Organizations, a program designed to help news outlets effectively utilize AI tools and promote responsible AI adoption in journalism. The academy aims to provide news organizations with the knowledge and skills needed to harness AI's potential while maintaining editorial integrity. This initiative has the potential to revolutionize the way news is researched, written, and disseminated, enhancing the overall quality and efficiency of journalism."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/frontierscience",
       "published": "Tue, 16 Dec 2025 09:00:00 GMT",
       "image": "data/images/d0ea2f2b7d34f814b24b7b36bcc1da01.png",
-      "summary": "Researchers are exploring AI's potential to assist with scientific research tasks, such as data analysis and hypothesis generation. A new study evaluates the capabilities and limitations of AI in performing these tasks, shedding light on its potential to accelerate scientific discovery. This innovation could significantly impact the field of research, enabling scientists to focus on higher-level thinking and decision-making."
+      "summary": "Researchers are exploring AI's potential to perform scientific research tasks, such as data analysis and hypothesis generation, with promising results. AI systems have shown ability to accelerate the research process, identify patterns, and make predictions, potentially revolutionizing the field of scientific discovery. This innovation could significantly impact the speed and accuracy of research, leading to breakthroughs in various scientific disciplines."
     },
     {
       "source": "RSS",
@@ -17,7 +26,7 @@
       "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
       "published": "Tue, 16 Dec 2025 08:00:00 GMT",
       "image": "data/images/4964c8290dfaaa1dd449fa64d560decd.png",
-      "summary": "Researchers are exploring the potential of AI to accelerate biological research, leveraging its capabilities to analyze vast amounts of data and identify patterns. This integration of AI in biology could lead to breakthroughs in disease understanding and treatment, as well as personalized medicine. By automating tedious tasks, AI can free up scientists to focus on higher-level thinking and innovation, revolutionizing the field of biological research."
+      "summary": "Researchers are exploring the potential of AI to accelerate biological research, leveraging its capabilities to analyze vast amounts of data and identify patterns. This integration of AI in biology could lead to breakthroughs in disease understanding and treatment, as well as drug discovery. By automating tasks and providing insights, AI is poised to revolutionize the field of biological research, enabling scientists to make new discoveries at an unprecedented pace."
     },
     {
       "source": "RSS",
@@ -26,25 +35,25 @@
       "url": "https://openai.com/index/new-chatgpt-images-is-here",
       "published": "Tue, 16 Dec 2025 00:00:00 GMT",
       "image": "data/images/07a33fca8ac12ed33602bbcc9eb7b65c.png",
-      "summary": "ChatGPT has launched a new feature called ChatGPT Images, allowing users to generate and edit images using text prompts. This innovation combines AI-powered text understanding with image creation capabilities, opening up new possibilities for creative applications. With ChatGPT Images, users can bring their ideas to life with unprecedented ease and accuracy."
+      "summary": "ChatGPT has launched a new feature called ChatGPT Images, allowing users to generate and edit images using text prompts. This innovation enables users to create custom visuals, from simple designs to complex scenes, using the power of AI. With ChatGPT Images, the possibilities for creative expression and content generation have expanded significantly."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "BBVA and OpenAI collaborate to transform global banking",
-      "url": "https://openai.com/index/bbva-collaboration-expansion",
+      "title": "BNY builds \u201cAI for everyone, everywhere\u201d with OpenAI",
+      "url": "https://openai.com/index/bny",
       "published": "Fri, 12 Dec 2025 00:00:00 GMT",
-      "image": "data/images/daf89d23919590d83a43a3f89c76ce8c.png",
-      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by leveraging artificial intelligence and machine learning. This collaboration aims to enhance customer experiences, improve operational efficiency, and drive innovation in financial services. By integrating OpenAI's technology, BBVA seeks to stay at the forefront of the banking industry's digital transformation."
+      "image": "data/images/d239b700cee866da2d14eabcc390f37a.png",
+      "summary": "BNY Mellon has partnered with OpenAI to make artificial intelligence more accessible, aiming to bring AI capabilities to everyone, everywhere. This collaboration is expected to drive innovation and improve customer experiences across various industries. By democratizing AI, BNY Mellon and OpenAI hope to unlock new opportunities and create a more inclusive digital landscape."
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
-      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
-      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
-      "image": "data/images/7d122d86b328f22f619f9854f9f75f25.png",
-      "summary": "The team behind Sora leveraged Codex, a cutting-edge AI-powered coding tool, to rapidly develop and ship the Android version of their app in just 28 days. Codex's ability to generate high-quality code enabled the team to work efficiently and meet their tight deadline. This achievement showcases the potential of AI-driven development tools to accelerate the app development process."
+      "source_name": "Google DeepMind News",
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "published": "Wed, 17 Dec 2025 11:58:17 +0000",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster data processing and analysis. This innovative technology is poised to revolutionize the field of frontier intelligence, allowing for more efficient and effective decision-making. With its enhanced capabilities, Gemini 3 Flash is set to transform the way organizations approach complex data challenges."
     },
     {
       "source": "RSS",
@@ -53,7 +62,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for better understanding of user requests and more effective responses. The improved models will power various voice-activated applications, revolutionizing the way users interact with devices."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement is expected to enhance voice experiences, allowing for more seamless interactions with virtual assistants and other voice-powered technologies. The updated models will likely have a significant impact on the development of voice-activated devices and services."
     },
     {
       "source": "RSS",
@@ -62,7 +71,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company is strengthening its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, driving innovation and growth in the field. The partnership will focus on addressing key challenges and opportunities in AI security, shaping the future of AI adoption."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to improve the security and resilience of AI systems, addressing emerging threats and risks. The partnership will drive innovation in AI security, fostering a safer and more secure digital landscape."
     },
     {
       "source": "RSS",
@@ -71,7 +80,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A leading tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness the power of AI to tackle complex challenges and create new opportunities for economic growth. By working together, the company and the UK government seek to establish the UK as a global leader in AI development and deployment."
+      "summary": "A leading tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness the potential of AI to boost economic growth, improve public services, and enhance cybersecurity. By working together, the UK government and the tech company seek to establish the country as a global leader in AI development and adoption."
     },
     {
       "source": "RSS",
@@ -80,16 +89,16 @@
       "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
       "published": "Tue, 09 Dec 2025 11:29:03 +0000",
       "image": "data/images/fdc9e271747e497ae120297b1f6a71be.png",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive tool for evaluating the factuality of large language models, enabling systematic assessments of their ability to provide accurate and reliable information. This benchmark suite aims to identify and address the limitations of current language models in generating factual content. By using FACTS, developers can improve the accuracy and trustworthiness of their AI models."
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive tool for evaluating the factuality of large language models, enabling systematic assessment of their ability to provide accurate and reliable information. This suite aims to identify and mitigate the spread of misinformation by holding language models to a higher standard of factuality. By using FACTS, developers can refine their models to produce more trustworthy and accurate outputs."
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Engineering more resilient crops for a warming climate",
-      "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
-      "published": "Thu, 04 Dec 2025 16:23:24 +0000",
-      "image": "data/images/cb05073ee3833bd729e47727cc72e694.png",
-      "summary": "Scientists are developing more resilient crops to withstand the challenges of a warming climate, using advanced engineering techniques to enhance their ability to tolerate extreme temperatures and weather conditions. This innovation aims to improve crop yields and food security in the face of rising global temperatures. By creating climate-resilient crops, researchers hope to mitigate the impacts of climate change on agriculture and ensure a sustainable food supply."
+      "source_name": "Hugging Face - Blog",
+      "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+      "published": "Wed, 17 Dec 2025 13:22:18 GMT",
+      "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking framework that assesses the performance of AI models, with the NeMo Evaluator tool being used to test the NVIDIA Nemotron 3 Nano. This standard aims to provide a unified way to evaluate AI models, enabling more accurate comparisons and driving innovation in the field. The Open Evaluation Standard has the potential to accelerate AI development by establishing a common benchmarking framework."
     },
     {
       "source": "RSS",
@@ -98,16 +107,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that democratizes access to configurable AI agents, allowing developers to easily build and customize AI models. This innovation enables users to create tailored AI solutions without requiring extensive expertise, making AI more accessible and widespread. By simplifying the development process, CUGA has the potential to accelerate AI adoption across various industries and applications."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Nemotron 3 Nano \\- A new Standard for Efficient, Open, and Intelligent Agentic Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-efficient-open-intelligent-models",
-      "published": "Mon, 15 Dec 2025 14:08:17 GMT",
-      "image": "data/images/d8c85dd0cd88103624354818a847de49.png",
-      "summary": "The Nemotron 3 Nano introduces a new standard for agentic models, prioritizing efficiency, openness, and intelligence. This innovative model enables more effective decision-making and problem-solving capabilities, potentially revolutionizing various industries. By leveraging open and intelligent architectures, Nemotron 3 Nano sets a new benchmark for advanced agentic modeling."
+      "summary": "CUGA, a cutting-edge AI framework, has been integrated into Hugging Face, a popular AI platform, to democratize access to configurable AI agents. This collaboration enables developers to easily create and customize AI models, promoting innovation and widespread adoption of AI technology. By making AI more accessible, CUGA on Hugging Face has the potential to revolutionize industries and applications."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enables more flexibility and customization in AI applications, making it simpler to deploy and test various models. By streamlining model management, llama.cpp enhances the overall efficiency and effectiveness of AI development workflows."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enhances the flexibility and customizability of the llama.cpp framework, enabling developers to adapt to various use cases and applications. By streamlining model management, this update simplifies the development process and expands the potential of llama.cpp."
     },
     {
       "source": "RSS",
@@ -124,8 +124,8 @@
       "title": "Codex is Open Sourcing AI models",
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
-      "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex is open-sourcing its AI models, making it easier for developers to access and build upon its innovative technology. This move is expected to accelerate AI adoption and drive further innovation in the field. By sharing its models, Codex aims to foster collaboration and community-driven development, potentially leading to breakthroughs in AI research and applications."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Codex, a leading AI developer, is open-sourcing its AI models, allowing the global community to access and contribute to its cutting-edge technology. This move is expected to accelerate innovation and advancements in the field of artificial intelligence, enabling developers to build upon and improve existing models. By making its models open-source, Codex is democratizing access to AI and fostering collaboration among researchers and developers."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
       "published": "Tue, 09 Dec 2025 20:06:56 GMT",
       "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient AI model that achieves frontier multimodal performance, potentially revolutionizing applications that require simultaneous processing of text, images, and other data types. This breakthrough enables more efficient use of computational resources, making advanced AI capabilities more accessible. By reducing costs and increasing performance, Apriel-1.6-15b-Thinker paves the way for widespread adoption of multimodal AI in various industries."
+      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient multimodal model that achieves state-of-the-art performance while reducing computational costs. This innovation enables more accessible and efficient processing of multiple data types, such as text, images, and audio. By optimizing performance and cost, Apriel-1.6-15b-Thinker has the potential to accelerate advancements in AI applications."
     },
     {
       "source": "Hacker News",
@@ -143,7 +143,7 @@
       "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
       "published": "2025-12-16T21:14:49",
       "image": "data/images/ebba690b59c6688d0807277094226341.png",
-      "summary": "The increasing power of AI is poised to make formal verification, a rigorous method of testing software and hardware, more mainstream and accessible. This could lead to significant improvements in the reliability and security of complex systems, such as autonomous vehicles and critical infrastructure. By automating the verification process, AI can help reduce errors and ensure that systems behave as intended, even in unexpected scenarios."
+      "summary": "The increasing power of AI is poised to make formal verification, a rigorous method of testing software, more mainstream and accessible. By automating the verification process, AI can help reduce errors and improve the reliability of complex software systems. This innovation has the potential to significantly impact industries such as finance, healthcare, and transportation, where software reliability is critical."
     },
     {
       "source": "Hacker News",
@@ -152,25 +152,7 @@
       "url": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html",
       "published": "2025-12-17T08:05:30",
       "image": "data/images/cc97fb0f5dbd80e9608d08f69d3a6283.png",
-      "summary": "The TLA+ Modeling Tips post on Hacker News provides expert advice on utilizing the TLA+ formal specification language to model and verify complex systems. By following these tips, developers can improve the accuracy and reliability of their systems, reducing errors and bugs. This resource is particularly valuable for those working on distributed systems, concurrency, and other complex software applications."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI's real superpower: consuming, not creating",
-      "url": "https://msanroman.io/blog/ai-consumption-paradigm",
-      "published": "2025-12-17T08:34:00",
-      "image": "https://msanroman.io/api/og?title=AI's%20real%20superpower%3A%20consuming%2C%20not%20creating",
-      "summary": "A recent discussion on Hacker News highlights AI's ability to consume and process vast amounts of data as its true superpower, rather than its capacity for creation. This perspective suggests that AI's strength lies in its ability to analyze and learn from existing information, making it a powerful tool for tasks like data analysis and decision-making. By focusing on consumption, AI can unlock new insights and efficiencies, revolutionizing industries and workflows."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT Image 1.5",
-      "url": "https://openai.com/index/new-chatgpt-images-is-here/",
-      "published": "2025-12-16T18:07:07",
-      "image": "data/images/00ef9273534456ea2b33282e0a3aec62.png",
-      "summary": "GPT Image 1.5 is a new AI model that generates high-quality images from text prompts, showcasing significant improvements in image realism and diversity. This update builds upon its predecessor, offering enhanced capabilities for creating detailed and coherent images. The release of GPT Image 1.5 has the potential to revolutionize the field of AI-generated art and design."
+      "summary": "The TLA+ Modeling Tips post on Hacker News provides guidance on using the TLA+ formal specification language to model and verify complex systems. By following these tips, developers can improve their ability to design and analyze distributed systems, reducing errors and increasing overall system reliability. This resource is particularly valuable for those working on complex, high-stakes projects where precise system modeling is crucial."
     },
     {
       "source": "Hacker News",
@@ -179,16 +161,25 @@
       "url": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
       "published": "2025-12-16T22:07:49",
       "image": "https://www.waterfox.com/open-graph/blog/no-ai-here-response-to-mozilla.png",
-      "summary": "Mozilla's CEO has announced a new chapter for the organization, sparking debate about the role of AI in its future. In response, some developers are pushing back against the idea of incorporating AI, citing concerns about autonomy and transparency. The discussion highlights the tension between embracing AI-driven innovation and preserving human agency in tech development."
+      "summary": "Mozilla's CEO has announced a new chapter for the company, focusing on building AI-powered products, but some community members are pushing back with a \"No AI\" movement, citing concerns over the technology's potential impact on user privacy and autonomy. This backlash highlights the ongoing debate about the role of AI in shaping the future of the internet. The \"No AI\" movement is advocating for a more human-centered approach to technology development."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "40 percent of fMRI signals do not correspond to actual brain activity",
-      "url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
-      "published": "2025-12-16T13:46:57",
-      "image": "https://www.tum.de/fileadmin/user_upload_87/_processed_/7/c/csm_Foto_Riedl_Epp_Gabriel_Castrillon_-_quer_2ca96e8977.jpg",
-      "summary": "A recent study reveals that approximately 40% of fMRI signals may not accurately represent brain activity, casting doubt on the reliability of this widely-used neuroimaging technique. This finding has significant implications for the field of neuroscience, potentially affecting the interpretation of countless research studies. The discovery highlights the need for more rigorous validation methods to ensure the accuracy of fMRI results."
+      "title": "AI's real superpower: consuming, not creating",
+      "url": "https://msanroman.io/blog/ai-consumption-paradigm",
+      "published": "2025-12-17T08:34:00",
+      "image": "https://msanroman.io/api/og?title=AI's%20real%20superpower%3A%20consuming%2C%20not%20creating",
+      "summary": "A recent discussion on Hacker News highlights AI's ability to consume and process vast amounts of data as its true superpower, rather than its capacity to create. This perspective emphasizes AI's potential to augment human capabilities by analyzing and generating insights from large datasets. By leveraging this strength, AI can drive innovation and solve complex problems in various industries, from healthcare to finance."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT Image 1.5",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "published": "2025-12-16T18:07:07",
+      "image": "data/images/00ef9273534456ea2b33282e0a3aec62.png",
+      "summary": "GPT Image 1.5 is a new AI model that can generate high-quality images from text prompts, offering improved performance and realism compared to its predecessors. This innovation has the potential to revolutionize fields such as graphic design, art, and advertising. With GPT Image 1.5, users can create stunning visuals with unprecedented ease and accuracy, opening up new creative possibilities."
     },
     {
       "source": "Hacker News",
@@ -197,7 +188,16 @@
       "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
       "published": "2025-12-16T22:48:56",
       "image": "https://static.simonwillison.net/static/2025/justjshtml-better-card.jpg",
-      "summary": "A developer successfully ported the JustHTML library from Python to JavaScript in just hours using the Codex CLI and GPT-5.2, demonstrating the power of AI-assisted coding. This achievement showcases the potential of AI tools to significantly accelerate and simplify the process of translating code between programming languages. The use of Codex CLI and GPT-5.2 enabled the developer to complete the porting process rapidly and efficiently."
+      "summary": "A developer successfully ported the JustHTML library from Python to JavaScript in just hours using Codex CLI and GPT-5.2, demonstrating the power of AI-powered coding tools. This achievement showcases the potential for rapid language translation and code migration, revolutionizing the way developers work with different programming languages."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "40 percent of fMRI signals do not correspond to actual brain activity",
+      "url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
+      "published": "2025-12-16T13:46:57",
+      "image": "https://www.tum.de/fileadmin/user_upload_87/_processed_/7/c/csm_Foto_Riedl_Epp_Gabriel_Castrillon_-_quer_2ca96e8977.jpg",
+      "summary": "A recent study has found that up to 40% of signals detected by functional magnetic resonance imaging (fMRI) scans may not correspond to actual brain activity, highlighting a significant flaw in the widely-used neuroimaging technique. This discovery could have major implications for the field of neuroscience, potentially overturning decades of research that relied on fMRI data. The findings suggest that fMRI results may be more prone to error than previously thought, requiring a reevaluation of existing research methods."
     },
     {
       "source": "Hacker News",
@@ -206,25 +206,7 @@
       "url": "https://github.com/p-org/P",
       "published": "2025-12-17T07:42:09",
       "image": "https://repository-images.githubusercontent.com/37799274/6d519480-ce84-11eb-82c5-da28a8d691e1",
-      "summary": "Researchers have introduced \"P\", a formal modeling and analysis framework for distributed event-driven systems, enabling developers to write reliable and scalable code. This innovation allows for the verification of system correctness, reducing errors and improving overall system performance. By applying formal methods, \"P\" has the potential to significantly impact the development of complex distributed systems."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Mephisto \u2013 A RAM-only, ad-free disposable email PWA built with React",
-      "url": "https://mephistomail.site",
-      "published": "2025-12-17T09:54:48",
-      "image": "data/images/8f3a219029b7f099dca9dcdfebb24f87.png",
-      "summary": "Mephisto is a new, innovative email service that exists solely in RAM, making it a highly secure and private option. As a disposable email PWA built with React, it offers an ad-free experience and automatically deletes all data when closed. This unique approach prioritizes user privacy and security, providing a fresh alternative to traditional email services."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nvidia Nemotron 3 Family of Models",
-      "url": "https://research.nvidia.com/labs/nemotron/Nemotron-3/",
-      "published": "2025-12-15T14:39:49",
-      "image": "data/images/597582b4adbe47a0f85a684a3b28e24d.png",
-      "summary": "Nvidia has unveiled the Nemotron 3 family of models, a significant advancement in AI technology that enables faster and more efficient processing of complex tasks. This innovation has the potential to revolutionize industries such as healthcare, finance, and gaming by providing unparalleled computational power. With Nemotron 3, Nvidia is poised to further solidify its position as a leader in the field of artificial intelligence and machine learning."
+      "summary": "Researchers have introduced \"P\", a formal modeling and analysis framework for distributed event-driven systems, enabling developers to write reliable and scalable code. This innovation allows for the verification of system correctness, reducing errors and improving overall system performance. By using \"P\", developers can ensure their distributed systems are more robust and efficient."
     }
   ]
 }
