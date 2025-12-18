@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-17T20:03:34.726249",
+  "updated": "2025-12-18T00:41:49.553748",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,16 @@
       "url": "https://openai.com/index/openai-academy-for-news-organizations",
       "published": "Wed, 17 Dec 2025 06:00:00 GMT",
       "image": "data/images/662ae0f9a3dd46c9a8f0eb28146a948c.png",
-      "summary": "OpenAI has launched the OpenAI Academy for News Organizations, a program aimed at helping news outlets effectively utilize AI technology to enhance their reporting and storytelling. The academy will provide training, resources, and support to journalists and newsrooms, enabling them to harness the power of AI for fact-checking, research, and content creation. This initiative has the potential to revolutionize the way news is gathered, verified, and disseminated, promoting more accurate and engaging journalism."
+      "summary": "OpenAI has launched the OpenAI Academy for News Organizations, a program designed to help newsrooms effectively utilize AI tools and mitigate potential risks. This initiative aims to provide journalists and media outlets with the knowledge and skills needed to leverage AI for fact-checking, research, and content creation. By doing so, OpenAI seeks to promote responsible AI adoption in the news industry and enhance the quality of journalism."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Developers can now submit apps to ChatGPT",
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+      "published": "Wed, 17 Dec 2025 00:00:00 GMT",
+      "image": "data/images/ddf4c104b29683689d4b7b163791d3db.png",
+      "summary": "Developers can now submit their own apps to ChatGPT, enabling the AI model to interact with and provide more personalized experiences. This integration allows ChatGPT to expand its capabilities and provide users with a wider range of functionalities. By opening up to third-party apps, ChatGPT is poised to become an even more versatile and powerful tool."
     },
     {
       "source": "RSS",
@@ -17,7 +26,7 @@
       "url": "https://openai.com/index/frontierscience",
       "published": "Tue, 16 Dec 2025 09:00:00 GMT",
       "image": "data/images/d0ea2f2b7d34f814b24b7b36bcc1da01.png",
-      "summary": "Researchers are exploring AI's potential to assist with scientific research tasks, such as data analysis and hypothesis generation. A new study evaluates the capabilities and limitations of AI in performing these tasks, paving the way for more efficient and accurate scientific discovery. This innovation could significantly accelerate the research process and lead to breakthroughs in various fields of science."
+      "summary": "Researchers are exploring AI's potential to assist with scientific research tasks, such as data analysis and hypothesis generation. A new study evaluates the capabilities and limitations of AI in performing these tasks, highlighting its potential to accelerate discovery and improve research efficiency. By automating routine tasks, AI could enable scientists to focus on higher-level thinking and innovation, revolutionizing the research process."
     },
     {
       "source": "RSS",
@@ -26,7 +35,7 @@
       "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
       "published": "Tue, 16 Dec 2025 08:00:00 GMT",
       "image": "data/images/4964c8290dfaaa1dd449fa64d560decd.png",
-      "summary": "Researchers are exploring the potential of AI to accelerate biological research, leveraging its capabilities to analyze vast amounts of data and identify patterns. This innovative approach aims to speed up discoveries in fields such as genomics, proteomics, and drug development. By harnessing AI's power, scientists hope to unlock new insights and breakthroughs, revolutionizing the field of biological research."
+      "summary": "Researchers are exploring the potential of AI to accelerate biological research, leveraging machine learning algorithms to analyze vast amounts of data and identify patterns that can lead to breakthroughs in fields like medicine and genetics. This innovative approach has the potential to significantly speed up the discovery process, enabling scientists to develop new treatments and therapies more efficiently. By harnessing the power of AI, biologists can unlock new insights and uncover hidden connections in complex biological systems."
     },
     {
       "source": "RSS",
@@ -35,16 +44,7 @@
       "url": "https://openai.com/index/new-chatgpt-images-is-here",
       "published": "Tue, 16 Dec 2025 00:00:00 GMT",
       "image": "data/images/07a33fca8ac12ed33602bbcc9eb7b65c.png",
-      "summary": "ChatGPT has unveiled a new feature called ChatGPT Images, allowing users to generate images based on text prompts. This innovation combines the power of AI chat with image creation, opening up new possibilities for creative expression and content generation. With ChatGPT Images, users can now bring their ideas to life in a more visual and engaging way."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "BBVA and OpenAI collaborate to transform global banking",
-      "url": "https://openai.com/index/bbva-collaboration-expansion",
-      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
-      "image": "data/images/daf89d23919590d83a43a3f89c76ce8c.png",
-      "summary": "BBVA has partnered with OpenAI to revolutionize global banking by integrating AI technology into its operations, enhancing customer experience and improving efficiency. This collaboration aims to leverage OpenAI's innovative capabilities to develop personalized banking services and streamline processes. The partnership is expected to set a new standard for AI-driven banking, transforming the financial industry worldwide."
+      "summary": "ChatGPT has unveiled its latest feature, ChatGPT Images, which enables users to generate and edit images using text prompts. This innovation combines AI-powered text understanding with image creation capabilities, opening up new possibilities for artistic expression and content creation. With ChatGPT Images, users can bring their ideas to life with unprecedented ease and precision."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for exceptional speed and efficiency, revolutionizing the field of frontier intelligence. This innovative technology enables faster processing and analysis of complex data, making it a game-changer for various industries. With its enhanced capabilities, Gemini 3 Flash is poised to drive significant advancements in AI-powered applications and decision-making."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid information processing, enabling faster decision-making and analysis. This innovative technology is built to handle vast amounts of data at unprecedented speeds, making it a game-changer in the field of artificial intelligence. With Gemini 3 Flash, users can expect enhanced performance, improved accuracy, and accelerated insights."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has unveiled improved Gemini audio models, enhancing voice experiences with more accurate and natural-sounding speech recognition. These advancements enable more powerful and intuitive voice interactions, revolutionizing the way users engage with virtual assistants and other voice-activated technologies. The updated models are set to significantly improve the overall voice experience, making it more seamless and efficient."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation allows for better voice recognition, transcription, and generation, paving the way for enhanced virtual assistants and voice-activated applications. With Gemini, developers can create more powerful and intuitive voice interfaces that improve user interactions."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to improve the security and trustworthiness of AI systems, addressing growing concerns around AI safety and ethics. The partnership is expected to drive innovation and shape the future of AI security in the UK and beyond."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security research and development. This collaboration aims to drive innovation in AI security and address emerging threats. By combining expertise, they will work towards creating more robust and secure AI systems."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive innovation and security in the AI era, aiming to boost prosperity and growth. This collaboration will focus on developing and implementing AI solutions to address key challenges and opportunities in the UK. The partnership is expected to have a significant impact on the country's economic and social development, shaping the future of AI adoption."
+      "summary": "A leading tech company has announced a strengthened partnership with the UK government to drive innovation and support national prosperity and security in the age of AI. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance cybersecurity. By working together, the UK government and the tech company seek to establish the country as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
       "published": "Tue, 09 Dec 2025 11:29:03 +0000",
       "image": "data/images/fdc9e271747e497ae120297b1f6a71be.png",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool designed to assess the factuality of large language models. This suite systematically tests a model's ability to provide accurate and reliable information, helping to identify and mitigate the spread of misinformation. By using FACTS, developers can refine their language models to improve their performance and trustworthiness."
+      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive evaluation tool designed to assess the factuality of large language models. This suite systematically tests a model's ability to provide accurate and reliable information, helping to identify and mitigate the spread of misinformation. By using FACTS, developers can refine their models to improve factuality and trustworthiness."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a new benchmarking framework, to evaluate the performance of its Nemotron 3 Nano model using the NeMo Evaluator tool. This standard aims to provide a unified and transparent way to assess AI model performance, enabling more accurate comparisons and driving innovation in the field. By leveraging the Open Evaluation Standard, developers can optimize their models and push the boundaries of AI capabilities."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking tool that assesses the performance of AI models, with a focus on the Nemotron 3 Nano using the NeMo Evaluator. This standard aims to provide a unified framework for evaluating AI models, enabling more accurate comparisons and driving innovation in the field. By using the Open Evaluation Standard, developers can optimize their models and push the boundaries of AI capabilities."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that enables users to create and customize AI agents with ease, democratizing access to configurable AI models. This innovation allows developers to design and train AI agents tailored to specific tasks and applications, promoting greater flexibility and control. By making CUGA available, Hugging Face is bridging the gap between AI research and real-world applications, empowering a wider range of users to harness the power of AI."
+      "summary": "Hugging Face has introduced CUGA, a platform that enables users to create and customize AI agents with ease, democratizing access to configurable AI. This innovation allows developers to build tailored AI models without extensive expertise, opening up new possibilities for AI adoption. By making AI more accessible, CUGA has the potential to accelerate innovation and drive widespread adoption of AI technologies."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enhances the flexibility and usability of the open-source framework, making it more accessible to developers. By streamlining model management, llama.cpp is poised to further accelerate AI development and deployment."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation streamlines the development process and enables more efficient experimentation with various models. By simplifying model management, llama.cpp enhances its usability and flexibility for developers working with AI applications."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Codex is taking a significant step by open-sourcing its AI models, making them accessible to developers and researchers worldwide. This move is expected to accelerate innovation and collaboration in the field of artificial intelligence, allowing for more diverse and widespread applications. By opening up its models, Codex aims to drive progress and democratize access to AI technology."
+      "summary": "Codex, a leader in AI technology, is open-sourcing its AI models, allowing developers to access and build upon its cutting-edge language processing capabilities. This move is expected to accelerate innovation in the field and enable the creation of more sophisticated AI-powered applications. By making its models open-source, Codex is democratizing access to AI technology and fostering a community-driven approach to AI development."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
       "published": "Tue, 09 Dec 2025 20:06:56 GMT",
       "image": "data/images/2b0fad8cc5e541ab9a36e1e1324265f7.png",
-      "summary": "The Apriel-1.6-15b-Thinker model achieves cost-efficient frontier multimodal performance, showcasing a significant breakthrough in AI efficiency. This innovation enables faster and more accurate processing of multiple data types, such as text, images, and audio. By optimizing performance while reducing computational costs, the Apriel-1.6-15b-Thinker model has the potential to revolutionize various applications, from natural language processing to computer vision."
+      "summary": "Researchers have introduced Apriel-1.6-15b-Thinker, a cost-efficient AI model that achieves frontier multimodal performance, enabling efficient processing of various data types such as text, images, and audio. This innovation has the potential to improve applications like chatbots, virtual assistants, and content generation. By reducing computational costs, Apriel-1.6-15b-Thinker makes multimodal AI more accessible and affordable for widespread adoption."
     },
     {
       "source": "Hacker News",
@@ -143,7 +143,7 @@
       "url": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
       "published": "2025-12-17T17:08:35",
       "image": "https://cdn.prod.website-files.com/6660a5bfdcf6c5fbf039f446/69428e2d7c764c046536a548_AWS%20CEO%20Junior%20Developers%20AI.jpg",
-      "summary": "AWS CEO Adam Selipsky has dismissed the idea of replacing junior developers with AI as \"one of the dumbest ideas\", emphasizing the importance of human ingenuity and creativity in software development. He believes AI can augment developer capabilities, but not replace the unique skills and perspectives that junior devs bring to the table. This stance highlights the potential of AI as a tool to enhance, rather than replace, human talent in the tech industry."
+      "summary": "AWS CEO Adam Selipsky has dismissed the idea of replacing junior developers with AI as \"one of the dumbest ideas\", emphasizing the importance of human skills and judgment in software development. He believes that while AI can augment certain tasks, it cannot replicate the creativity and problem-solving abilities of human developers. This stance highlights the need for a balanced approach to AI adoption in the tech industry."
     },
     {
       "source": "Hacker News",
@@ -152,25 +152,16 @@
       "url": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
       "published": "2025-12-17T17:13:03",
       "image": "https://www.docker.com/app/uploads/2025/03/image.png",
-      "summary": "Docker has introduced free hardened images to enhance the security of its container ecosystem, providing users with a more secure foundation for their applications. These images are built with security best practices and include features like minimized attack surfaces and up-to-date vulnerability patches. By using these hardened images, developers can significantly reduce the risk of security breaches and create more reliable containerized environments."
+      "summary": "Docker has introduced free hardened images to enhance the security of its container ecosystem, providing users with a more secure foundation for their applications. These images are built with security best practices and include features like minimized attack surfaces and secure defaults. By using these hardened images, developers can reduce the risk of vulnerabilities and create more secure containerized environments."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why outcome-billing makes sense for AI Agents",
-      "url": "https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/",
-      "published": "2025-12-17T18:02:12",
-      "image": "https://www.valmi.io/blog/content/images/2025/12/Group-1-2.png",
-      "summary": "Outcome-billing for AI agents is gaining traction as it allows businesses to pay only for tangible results, rather than hourly or project-based fees. This model incentivizes AI developers to deliver high-quality solutions, aligning their interests with those of their clients. By tying payment to specific outcomes, outcome-billing has the potential to increase AI adoption and drive more effective AI-powered innovations."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI capability isn't humanness",
-      "url": "https://research.roundtable.ai/capabilities-humanness/",
-      "published": "2025-12-17T17:08:06",
-      "image": "https://research.roundtable.ai/images/data-constraints.png",
-      "summary": "A recent discussion on Hacker News highlights that true artificial intelligence (AI) capability shouldn't be measured by its ability to mimic human-like behavior, but rather by its ability to process and generate unique insights. This shift in perspective could lead to more innovative AI applications, focusing on augmenting human capabilities rather than replicating them. By redefining AI's purpose, researchers can unlock new potential for machine learning and automation."
+      "title": "Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?",
+      "url": "https://www.nber.org/papers/w34553",
+      "published": "2025-12-17T23:29:48",
+      "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
+      "summary": "Researchers have identified a significant increase in midlife mortality rates in the US, primarily driven by rising deaths from accidental poisonings, suicides, and alcoholic liver disease. This trend is particularly pronounced among white, non-Hispanic Americans with limited education, suggesting a complex interplay of socioeconomic and behavioral factors. The study's findings highlight a pressing need to address the underlying causes of these mortality disparities and develop targeted interventions to mitigate them."
     },
     {
       "source": "Hacker News",
@@ -179,43 +170,25 @@
       "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer",
       "published": "2025-12-17T17:00:39",
       "image": "https://bookface-images.s3.amazonaws.com/logos/b45b89c014889cb606378fa4f5f52f6cc889042d.png?1759975190",
-      "summary": "Flick, a startup backed by Y Combinator, is seeking a founding engineer to help build a platform that brings Figma's collaborative design approach to AI filmmaking. This innovative tool aims to revolutionize the film industry by enabling real-time collaboration and AI-powered video editing. By combining human creativity with AI capabilities, Flick has the potential to democratize filmmaking and unlock new possibilities for content creators."
+      "summary": "Flick, a startup backed by Y Combinator, is seeking a founding engineer to help build a platform that brings Figma's collaborative design approach to AI-powered filmmaking. This innovative tool aims to revolutionize the film industry by making it easier for creators to produce high-quality content using AI. By combining human creativity with AI capabilities, Flick has the potential to democratize filmmaking and unlock new possibilities for visual storytelling."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FCC chair suggests agency isn't independent, word cut from mission statement",
-      "url": "https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website",
-      "published": "2025-12-17T18:14:33",
-      "image": "data/images/a6a33df9ef8c8b4492731ef430273bfe.png",
-      "summary": "FCC Chair Jessica Rosenworcel has sparked controversy by removing the word \"independent\" from the agency's mission statement, fueling concerns about the FCC's autonomy. This change has raised questions about the agency's ability to make unbiased decisions, free from external pressures. The move has significant implications for the regulation of the tech industry and the future of net neutrality."
+      "title": "Developers can now submit apps to ChatGPT",
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/",
+      "published": "2025-12-17T22:27:29",
+      "image": "data/images/ddf4c104b29683689d4b7b163791d3db.png",
+      "summary": "Developers can now submit their own apps to ChatGPT, enabling the AI model to interact with and learn from a wider range of external tools and services. This move opens up new possibilities for integrating ChatGPT with various applications, enhancing its capabilities and user experience. By expanding its app ecosystem, ChatGPT is poised to become an even more powerful and versatile AI assistant."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Doublespeed hacked, revealing what its AI-generated accounts are promoting",
-      "url": "https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/",
-      "published": "2025-12-17T18:16:58",
-      "image": "https://www.404media.co/content/images/size/w1200/2025/12/Copy-of-Screenshot-as-Lede-Image--6-.png",
-      "summary": "Doublespeed, a platform using AI to generate social media accounts, has been hacked, exposing the content it promotes, including potential disinformation and propaganda. The breach reveals the inner workings of AI-generated accounts, raising concerns about the spread of misinformation online. This hack highlights the need for increased transparency and regulation of AI-powered social media activities."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI will make formal verification go mainstream",
-      "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
-      "published": "2025-12-16T21:14:49",
-      "image": "data/images/ebba690b59c6688d0807277094226341.png",
-      "summary": "The integration of AI in formal verification is poised to make this rigorous testing method mainstream, enabling developers to more efficiently and effectively prove the correctness of their code. AI-powered tools will automate the verification process, reducing the need for manual intervention and increasing adoption across the industry. This innovation is expected to significantly improve the reliability and security of software systems."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI's real superpower: consuming, not creating",
-      "url": "https://msanroman.io/blog/ai-consumption-paradigm",
-      "published": "2025-12-17T08:34:00",
-      "image": "https://msanroman.io/api/og?title=AI's%20real%20superpower%3A%20consuming%2C%20not%20creating",
-      "summary": "A recent discussion on Hacker News highlights AI's ability to consume and process vast amounts of data as its true superpower, rather than its capacity for creation. This shift in perspective emphasizes AI's potential to augment human capabilities by analyzing and generating insights from large datasets. By focusing on consumption, AI can unlock new possibilities for data-driven decision making and automation."
+      "title": "The State of AI Coding Report 2025",
+      "url": "https://www.greptile.com/state-of-ai-coding-2025",
+      "published": "2025-12-17T16:45:35",
+      "image": "https://www.greptile.com/state-of-ai-report-og.png",
+      "summary": "The State of AI Coding Report 2025 reveals significant advancements in AI-powered coding tools, with 70% of developers now using AI-assisted coding platforms to boost productivity and efficiency. This shift is transforming the software development landscape, enabling faster and more accurate coding. As a result, AI-driven coding is poised to become the new norm in the tech industry."
     },
     {
       "source": "Hacker News",
@@ -224,7 +197,7 @@
       "url": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
       "published": "2025-12-16T22:07:49",
       "image": "https://www.waterfox.com/open-graph/blog/no-ai-here-response-to-mozilla.png",
-      "summary": "Mozilla's CEO has announced a new chapter for the company, sparking debate among developers and users. In response, some are expressing concerns about the potential integration of AI-powered features, with some advocating for a more traditional, human-driven approach. The discussion highlights the ongoing tension between embracing AI innovation and preserving the integrity of open-source and community-driven projects."
+      "summary": "Mozilla's CEO has announced a new chapter for the organization, focusing on building AI-powered products, but some community members are pushing back with the \"No AI*\" movement, advocating for a return to Mozilla's roots in open-source and community-driven development. This backlash highlights the tension between embracing AI innovation and preserving the organization's traditional values. The debate sparks a larger conversation about the role of AI in shaping the future of the web and online communities."
     }
   ]
 }
