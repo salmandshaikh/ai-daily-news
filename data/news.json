@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T08:16:06.499756",
+  "updated": "2025-12-19T12:19:10.411919",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that enables AI models to provide transparent and explainable reasoning behind their decisions. This innovation has the potential to increase trust in AI systems by allowing users to monitor and understand the thought process behind AI-generated outputs. By making AI decision-making more transparent, chain-of-thought monitorability can improve the reliability and accountability of AI applications."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that evaluates the ability to track and understand the decision-making process of AI models. This innovation aims to improve transparency and trust in AI systems by providing a clearer understanding of how they arrive at their conclusions. By monitoring the thought process, developers can identify potential biases and errors, leading to more reliable and accurate AI models."
     },
     {
       "source": "RSS",
@@ -17,16 +17,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to enhance protections for teenagers, introducing new safeguards to prevent harmful or explicit content from being exposed to young users. This move aims to create a safer online environment for teens, addressing concerns around online safety and well-being. The updated model spec is part of Meta's ongoing efforts to prioritize youth protection and promote a more responsible social media ecosystem."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "AI literacy resources for teens and parents",
-      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "published": "Thu, 18 Dec 2025 11:00:00 GMT",
-      "image": "data/images/a27bcac68a13fdfed8da498528e20e57.png",
-      "summary": "A new collection of AI literacy resources has been launched to help teens and parents understand the basics of artificial intelligence and its applications. These resources aim to bridge the knowledge gap and promote responsible AI use among young people. By providing accessible guides and tutorials, the initiative seeks to empower the next generation to navigate the increasingly AI-driven world."
+      "summary": "Meta has updated its model specification to include new protections for teenagers, aiming to enhance online safety and security for younger users. The update focuses on limiting suspicious interactions and promoting a safer environment. This move highlights the company's efforts to prioritize teen protection and well-being in its platforms."
     },
     {
       "source": "RSS",
@@ -35,16 +26,25 @@
       "url": "https://openai.com/index/us-department-of-energy-collaboration",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/8deb89ca9ea2980df267193b8d1e877c.png",
-      "summary": "In a significant partnership, a major tech company is deepening its collaboration with the U.S. Department of Energy to advance innovation in fields like artificial intelligence and clean energy. This partnership aims to drive breakthroughs in emerging technologies and address pressing national challenges. By combining resources and expertise, the collaboration is expected to accelerate the development of cutting-edge solutions."
+      "summary": "Google has announced a new collaboration with the U.S. Department of Energy to advance research in artificial intelligence, quantum computing, and other emerging technologies. This partnership aims to drive innovation and solve complex challenges in areas such as climate modeling and materials science. By combining Google's expertise with the DOE's resources, the collaboration is expected to accelerate breakthroughs in these critical fields."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.2-Codex",
-      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
+      "title": "AI literacy resources for teens and parents",
+      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "published": "Thu, 18 Dec 2025 11:00:00 GMT",
+      "image": "data/images/a27bcac68a13fdfed8da498528e20e57.png",
+      "summary": "A new collection of AI literacy resources is now available to help teens and parents understand the basics of artificial intelligence and its impact on daily life. These resources aim to promote digital literacy and critical thinking skills, enabling users to navigate AI-driven technologies effectively. By providing accessible information, the initiative seeks to bridge the knowledge gap and foster a more informed community."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+      "url": "https://openai.com/index/gpt-5-2-codex-system-card",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
-      "image": "data/images/354635545e2dae1b22c90a46b9da3711.png",
-      "summary": "Researchers have introduced GPT-5.2-Codex, a significant update to the GPT series, enhancing its coding capabilities and ability to understand natural language. This advancement has the potential to revolutionize programming and development, making it more accessible and efficient. With GPT-5.2-Codex, users can expect improved code generation, debugging, and optimization, streamlining the coding process."
+      "image": "data/images/a9e4776ffccaeb44751adb3ea3663463.png",
+      "summary": "The GPT-5.2 system has been enhanced with GPT-5.2-Codex, a significant update that expands its capabilities. This addendum brings improved coding and programming features, enabling more efficient and accurate code generation and understanding. With GPT-5.2-Codex, the AI model can better assist developers and programmers in their work, revolutionizing the field of coding and software development."
     },
     {
       "source": "RSS",
@@ -53,7 +53,16 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid processing and analysis, providing users with accelerated insights and decision-making capabilities. This innovative technology is built to handle complex tasks at unprecedented speeds, revolutionizing the field of artificial intelligence. By prioritizing speed and efficiency, Gemini 3 Flash enables faster and more accurate data analysis, transforming the way businesses and organizations approach intelligence gathering."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster decision-making and accelerated innovation. This advanced technology is poised to revolutionize industries by providing rapid insights and data analysis. By prioritizing speed, Gemini 3 Flash aims to give users a competitive edge in today's fast-paced world."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+      "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "published": "Tue, 16 Dec 2025 10:14:24 +0000",
+      "image": "data/images/161bedf1d609d4148855669919681018.png",
+      "summary": "The Gemma Scope 2 tool has been introduced to aid the AI safety community in better understanding complex language model behavior, enabling researchers to analyze and identify potential biases and flaws. This innovation aims to improve the transparency and reliability of AI systems, particularly large language models. By deepening our understanding of these models, Gemma Scope 2 can help mitigate potential risks and ensure more responsible AI development."
     },
     {
       "source": "RSS",
@@ -62,7 +71,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement is expected to enhance voice experiences, such as voice assistants and transcription services, with better speech recognition and understanding. The updated models will allow for more powerful and seamless voice interactions across various devices and platforms."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for more precise and natural interactions with virtual assistants. The improved models will power a range of applications, from voice search to conversational interfaces."
     },
     {
       "source": "RSS",
@@ -71,7 +80,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security research and development. This collaboration aims to drive innovation in AI-powered security solutions, addressing emerging threats and improving overall cybersecurity. The partnership is expected to have a significant impact on the development of more secure and reliable AI systems."
+      "summary": "A leading tech company has strengthened its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, driving innovation and growth in the field. The partnership is expected to yield cutting-edge solutions and expertise, shaping the future of AI security."
     },
     {
       "source": "RSS",
@@ -80,16 +89,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive prosperity and security in the age of AI. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance national security. By working together, the company and the UK government seek to establish the country as a leader in responsible AI development and deployment."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
-      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-      "published": "Tue, 09 Dec 2025 11:29:03 +0000",
-      "image": "data/images/fdc9e271747e497ae120297b1f6a71be.png",
-      "summary": "Researchers have introduced the FACTS Benchmark Suite, a comprehensive tool for evaluating the factuality of large language models, allowing for systematic assessment of their ability to provide accurate and reliable information. This suite aims to address concerns about the spread of misinformation by AI models, promoting more trustworthy and transparent language generation. By using FACTS, developers can identify and improve the factual accuracy of their models, enhancing overall performance and reliability."
+      "summary": "A leading tech company has announced a strengthened partnership with the UK government to drive prosperity and security in the age of artificial intelligence. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance national security. By working together, the company and the UK government seek to establish the country as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for easier integration with various models and datasets, streamlining the natural language processing workflow. By improving tokenization, the update enhances the overall performance and flexibility of transformer-based models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This new approach allows for easier integration with various models and downstream tasks, enhancing overall flexibility and performance. By streamlining tokenization, the update paves the way for more efficient and effective natural language processing applications."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking tool that assesses the performance of AI models, with the NeMo Evaluator being used to test the NVIDIA Nemotron 3 Nano. This innovation enables developers to evaluate and compare AI models more efficiently, driving advancements in AI research and development. The Open Evaluation Standard is expected to have a significant impact on the field of AI, allowing for more accurate and consistent model evaluations."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking tool that assesses the performance of AI models, with the NeMo Evaluator being used to test the NVIDIA Nemotron 3 Nano. This standard aims to provide a unified framework for evaluating AI models, enabling more accurate comparisons and driving innovation in the field. The NeMo Evaluator's results will help developers optimize their models and improve overall AI performance."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that democratizes access to configurable AI agents, allowing developers to easily create and customize AI models. This innovation enables a wider range of users to build and deploy AI solutions, regardless of their expertise level. By making AI more accessible, CUGA has the potential to accelerate AI adoption and innovation across various industries."
+      "summary": "Hugging Face has introduced CUGA, a platform that enables users to create and configure AI agents with ease, democratizing access to customizable AI models. This innovation allows developers to build tailored AI solutions without requiring extensive expertise, making AI more accessible and user-friendly. By simplifying the process, CUGA has the potential to accelerate AI adoption across various industries and applications."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily manage and switch between different AI models. This innovation enables more flexibility and customization, making it simpler for developers to integrate AI capabilities into their applications. With model management, llama.cpp takes a significant step forward in simplifying AI model deployment and maintenance."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enables more flexibility and customization, making it simpler to adapt the AI to specific tasks and applications. By streamlining model management, llama.cpp enhances its usability and versatility for developers and users alike."
     },
     {
       "source": "RSS",
@@ -134,16 +134,16 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex, a cutting-edge AI platform, is open-sourcing its AI models, making them freely available for developers to access and build upon. This move is expected to accelerate innovation and collaboration in the AI community, driving advancements in natural language processing and code generation. By open-sourcing its models, Codex is empowering developers to create new applications and services that can learn and improve over time."
+      "summary": "Codex, a cutting-edge AI technology, is open-sourcing its models, allowing developers to access and build upon its innovative language processing capabilities. This move is expected to accelerate AI research and development, enabling the creation of more sophisticated and specialized AI applications. By making its models open-source, Codex is democratizing access to AI technology and fostering a collaborative community of developers and researchers."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "History LLMs: Models trained exclusively on pre-1913 texts",
-      "url": "https://github.com/DGoettlich/history-llms",
-      "published": "2025-12-18T22:39:47",
-      "image": "https://opengraph.githubassets.com/41c73d6da727db359b322260869e4cfa74230493d6ff14bd0ec522455d30bb17/DGoettlich/history-llms",
-      "summary": "Researchers have developed History LLMs, a new class of language models trained solely on texts from before 1913, offering a unique glimpse into the language and culture of the past. These models can generate historically accurate text, providing insights into the evolution of language and societal norms. By leveraging this technology, historians and scholars can gain a deeper understanding of historical contexts and events."
+      "title": "Show HN: Hacker News, but every headline is hysterical clickbait",
+      "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html",
+      "published": "2025-12-19T11:21:45",
+      "image": "data/images/cc959d1c21ead4b253a3138414cd3af8.png",
+      "summary": "A new project has been showcased on Hacker News, transforming the site's headlines into humorous clickbait titles, adding a comedic twist to the platform's usual serious tech discussions. This experiment uses AI to generate sensationalized headlines, poking fun at the clickbait trend often seen in online media. The result is an entertaining parody of typical tech news headlines, offering a lighthearted take on the tech community's favorite stories."
     },
     {
       "source": "Hacker News",
@@ -152,7 +152,25 @@
       "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
       "published": "2025-12-18T19:08:48",
       "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-      "summary": "A recent supply-chain attack successfully compromised several major platforms, including Vercel, Cursor, and Discord, by exploiting vulnerabilities in their dependencies. The attack highlights the growing concern of third-party risks in the software supply chain, emphasizing the need for enhanced security measures. This incident demonstrates the potential for widespread impact when a single vulnerability is exploited, compromising multiple high-profile targets."
+      "summary": "A group of hackers claimed responsibility for a supply-chain attack that compromised several high-profile companies, including Vercel, Cursor, and Discord, by exploiting vulnerabilities in their shared dependencies. The attack highlights the growing risk of supply-chain vulnerabilities in the tech industry. The hackers demonstrated the potential for widespread disruption by breaching multiple companies through a single weak link."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "History LLMs: Models trained exclusively on pre-1913 texts",
+      "url": "https://github.com/DGoettlich/history-llms",
+      "published": "2025-12-18T22:39:47",
+      "image": "https://opengraph.githubassets.com/064cae15dca79c79a9bda91c585f4743821cdb330b56ba060e5886ada0db2e46/DGoettlich/history-llms",
+      "summary": "Researchers have developed History LLMs, large language models trained solely on texts from before 1913, allowing for a unique glimpse into the language and perspectives of the past. This innovation enables the study of historical language patterns and cultural context, with potential applications in fields like history, literature, and linguistics. By leveraging these models, scholars can gain new insights into the evolution of language and thought over time."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: CommerceTXT \u2013 An open standard for AI shopping context (like llms.txt)",
+      "url": "https://commercetxt.org/",
+      "published": "2025-12-16T15:12:37",
+      "image": "data/images/342e51e57878821e09c821d150ecd7d0.png",
+      "summary": "CommerceTXT is a proposed open standard for AI shopping context, aiming to simplify the integration of large language models (LLMs) with e-commerce platforms. This standard, similar to llms.txt, enables developers to easily share and utilize shopping-related data, such as product information and customer preferences. By adopting CommerceTXT, businesses can enhance their AI-powered shopping experiences and improve customer interactions."
     },
     {
       "source": "Hacker News",
@@ -161,7 +179,16 @@
       "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
       "published": "2025-12-18T18:14:48",
       "image": "data/images/5e6dad96a2e14f8c17d0a808b5db5785.png",
-      "summary": "Researchers have unveiled GPT-5.2-Codex, a new AI model that can generate code in various programming languages, showcasing significant improvements in code completion and generation capabilities. This innovation has the potential to revolutionize software development, enabling developers to work more efficiently and accurately. GPT-5.2-Codex's advanced coding abilities may also democratize access to programming, making it more accessible to non-technical users."
+      "summary": "GPT-5.2-Codex is a new AI model that generates code in various programming languages, showcasing significant advancements in automated coding capabilities. This model has the potential to revolutionize software development by increasing efficiency and reducing the need for human coders. With its impressive code generation abilities, GPT-5.2-Codex may transform the way developers approach programming tasks."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Prompt caching for cheaper LLM tokens",
+      "url": "https://ngrok.com/blog/prompt-caching/",
+      "published": "2025-12-16T16:32:27",
+      "image": "https://frontend-blog-ngrok.vercel.app/blog-assets/images/2025-12-16-prompt-caching/og.jpg",
+      "summary": "Researchers have introduced prompt caching, a technique that reduces the cost of using large language models (LLMs) by storing and reusing previously computed results. This innovation enables cheaper LLM tokens, making AI-powered applications more accessible and affordable for developers. By minimizing redundant computations, prompt caching has the potential to significantly lower the operational costs of AI-driven services."
     },
     {
       "source": "Hacker News",
@@ -170,16 +197,7 @@
       "url": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
       "published": "2025-12-18T18:55:34",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/12/18/512293.jpg?v=3.1",
-      "summary": "China has launched a secretive \"Manhattan Project\" to develop cutting-edge AI chips, aiming to rival Western tech giants and reduce dependence on foreign technology. This ambitious initiative has already led to significant breakthroughs, with Chinese companies like Baidu and Alibaba making strides in AI chip design and manufacturing. By developing its own AI chips, China seeks to gain a competitive edge in the global tech landscape and bolster its national security."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
-      "url": "https://ngrok.com/blog/prompt-caching/",
-      "published": "2025-12-16T16:32:27",
-      "image": "https://frontend-blog-ngrok.vercel.app/blog-assets/images/2025-12-16-prompt-caching/og.jpg",
-      "summary": "Researchers have introduced \"prompt caching,\" a technique that can reduce the cost of large language model (LLM) tokens by up to 10 times. This innovation works by storing and reusing previously computed results for similar prompts, thereby minimizing the need for redundant calculations. By doing so, prompt caching has the potential to make LLMs more accessible and affordable for a wider range of applications."
+      "summary": "China has launched a secretive \"Manhattan Project\" to develop advanced AI chips, aiming to rival Western tech giants and reduce dependence on foreign technology. This ambitious initiative has led to significant breakthroughs, with Chinese companies now producing high-performance AI chips that can compete with those from the US and other countries. By achieving self-sufficiency in AI chip production, China is poised to gain a strategic edge in the global tech landscape."
     },
     {
       "source": "Hacker News",
@@ -187,8 +205,8 @@
       "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
       "url": "https://github.com/vivienhenz24/fuzzy-canary",
       "published": "2025-12-16T20:42:38",
-      "image": "https://opengraph.githubassets.com/2e7ab7060feaff824365e1e64830051e793e937f44bcf10583f9bcc71092b8a7/vivienhenz24/fuzzy-canary",
-      "summary": "A developer has found a creative way to deter AI scrapers from overwhelming self-hosted blogs by using porn-related content as a \"trap\" to identify and block malicious traffic. This approach leverages the fact that many AI models are trained to avoid explicit content, causing them to avoid the \"trap\" and ultimately preventing them from scraping the blog. By using this tactic, bloggers can protect their sites from excessive scraping and reduce server load."
+      "image": "https://opengraph.githubassets.com/e9d42275a4264298311d06d2fe6dd69261548c850ef64937b6e570588a2e2b58/vivienhenz24/fuzzy-canary",
+      "summary": "A developer has introduced a creative solution to prevent AI scrapers from overwhelming self-hosted blogs, by using porn-related content as a deterrent. The approach involves embedding explicit text in a way that's invisible to human readers, but detectable by AI scrapers, which then get blocked for accessing adult content. This innovative tactic aims to protect bloggers from excessive scraping and potential server crashes."
     },
     {
       "source": "Hacker News",
@@ -197,16 +215,7 @@
       "url": "https://mastodon.social/@firefoxwebdevs/115740500373677782",
       "published": "2025-12-18T18:18:30",
       "image": "data/images/2a7535dc11f015d601c6fff8dd3d192c.png",
-      "summary": "Mozilla's Firefox browser will introduce an option to disable all AI-powered features, giving users more control over their browsing experience. This move prioritizes user privacy and choice, allowing individuals to opt-out of AI-driven suggestions and other features. By doing so, Firefox aims to differentiate itself from other browsers and cater to users who value anonymity and minimal data collection."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "T5Gemma 2: The next generation of encoder-decoder models",
-      "url": "https://blog.google/technology/developers/t5gemma-2/",
-      "published": "2025-12-18T19:48:15",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/T5-Keyword_RD1-V01.width-1300.png",
-      "summary": "Researchers have introduced T5Gemma 2, a next-generation encoder-decoder model that promises significant improvements in natural language processing tasks. This innovative model builds upon the success of its predecessor, offering enhanced performance and efficiency in generating human-like text. With T5Gemma 2, developers can expect to see major breakthroughs in areas like language translation, text summarization, and content creation."
+      "summary": "Mozilla is introducing an option in Firefox to disable all AI-powered features, giving users greater control over their browsing experience. This move aims to address growing concerns about AI-driven data collection and user tracking. By offering this option, Firefox is prioritizing user privacy and transparency in its AI implementation."
     }
   ]
 }
