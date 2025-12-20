@@ -175,8 +175,9 @@ html {
 @media (min-width: 1024px) {
     .news-grid {
         grid-template-columns: repeat(3, 1fr);
-        gap: 16px;
-        grid-auto-rows: minmax(180px, auto);
+        gap: 20px;
+        grid-auto-rows: 450px;
+        /* Fixed height for uniform boxes */
     }
 
     .container {
@@ -187,9 +188,11 @@ html {
 /* Large Desktop (1400px+) */
 @media (min-width: 1400px) {
     .news-grid {
-        grid-template-columns: repeat(4, 1fr);
-        gap: 18px;
-        grid-auto-rows: minmax(180px, auto);
+        grid-template-columns: repeat(3, 1fr);
+        /* Strictly 3 columns */
+        gap: 24px;
+        grid-auto-rows: 500px;
+        /* Slightly taller on large screens */
     }
 }
 
