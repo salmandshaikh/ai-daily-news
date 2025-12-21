@@ -61,10 +61,11 @@ function App() {
                                 Last updated: {new Date(newsData.updated).toLocaleString()}
                             </div>
 
-                            {/* Podcast Player */}
+                            <HeroArticle article={newsData.articles[0]} />
+
+                            {/* Podcast Player - Now below the headline */}
                             {newsData.podcast && <PodcastPlayer podcast={newsData.podcast} />}
 
-                            <HeroArticle article={newsData.articles[0]} />
                             <NewsGrid articles={newsData.articles.slice(1)} />
                         </>
                     ) : (

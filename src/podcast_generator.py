@@ -134,31 +134,48 @@ async def combine_audio_segments(segments, output_path):
     
     # Generate final audio (using first speaker's voice for now, will improve)
     # Better approach: concatenate the temp files
+    # Combine all segments
     try:
-        # Try to use pydub if available
+        # Try to use pydub if available and working (requires ffmpeg)
         from pydub import AudioSegment
         
         combined = AudioSegment.empty()
-        for temp_file in temp_files:
+        silence = AudioSegment.silent(duration=500) # 500ms pause between speakers
+        
+        print(f"Combining {len(temp_files)} segments using pydub...")
+        for i, temp_file in enumerate(temp_files):
             segment = AudioSegment.from_mp3(str(temp_file))
             combined += segment
-            # Add small pause between segments
-            combined += AudioSegment.silent(duration=300)  # 300ms pause
+            
+            # Add pause between segments (but not after the last one)
+            if i < len(temp_files) - 1:
+                combined += silence
         
         combined.export(output_path, format="mp3")
         print(f"Combined audio saved to {output_path}")
         
-    except ImportError:
-        # Fallback: just copy the first file (not ideal but works)
-        print("pydub not available, using simple concatenation")
-        import shutil
-        if temp_files:
-            shutil.copy(temp_files[0], output_path)
+    except (ImportError, Exception) as e:
+        print(f"Audio processing with pydub failed ({e}). Using binary concatenation fallback.")
+        
+        # Fallback: Binary concatenation of MP3 files
+        # This works surprisingly well for MP3s even without re-encoding
+        with open(output_path, 'wb') as outfile:
+            for i, temp_file in enumerate(temp_files):
+                with open(temp_file, 'rb') as infile:
+                    outfile.write(infile.read())
+        
+        print(f"Combined audio (binary concat) saved to {output_path}")
     
     # Cleanup temp files
     for temp_file in temp_files:
-        temp_file.unlink()
-    temp_dir.rmdir()
+        try:
+            temp_file.unlink()
+        except:
+            pass
+    try:
+        temp_dir.rmdir()
+    except:
+        pass
 
 def create_podcast(articles):
     """

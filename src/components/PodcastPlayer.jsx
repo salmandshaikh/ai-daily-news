@@ -65,68 +65,140 @@ function PodcastPlayer({ podcast }) {
 
     return (
         <div style={{
-            background: 'var(--bg-secondary)',
+            background: 'var(--bg-card)',
+            backdropFilter: 'blur(12px)',
+            WebkitBackdropFilter: 'blur(12px)',
             borderRadius: '16px',
             padding: '24px',
-            marginBottom: '32px',
-            border: '1px solid var(--border)'
-        }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>
-                <Volume2 size={24} color="var(--primary)" />
+            marginBottom: '48px',
+            border: '1px solid var(--border)',
+            boxShadow: '0 8px 32px rgba(0, 0, 0, 0.1)',
+            transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)'
+        }}
+            onMouseEnter={(e) => {
+                e.currentTarget.style.borderColor = 'var(--accent)'
+                e.currentTarget.style.boxShadow = '0 12px 48px rgba(0, 0, 0, 0.15)'
+            }}
+            onMouseLeave={(e) => {
+                e.currentTarget.style.borderColor = 'var(--border)'
+                e.currentTarget.style.boxShadow = '0 8px 32px rgba(0, 0, 0, 0.1)'
+            }}
+        >
+            <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '20px' }}>
+                <div style={{
+                    width: '48px',
+                    height: '48px',
+                    borderRadius: '12px',
+                    background: 'linear-gradient(135deg, var(--accent), var(--accent-hover))',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    boxShadow: '0 4px 12px rgba(0,0,0,0.2)'
+                }}>
+                    <Volume2 size={24} color="white" />
+                </div>
+
                 <div style={{ flex: 1 }}>
-                    <h3 style={{ margin: 0, fontSize: '18px', fontWeight: 600 }}>
-                        🎙️ AI Daily News Podcast
+                    <div style={{
+                        display: 'inline-flex',
+                        alignItems: 'center',
+                        gap: '8px',
+                        marginBottom: '4px'
+                    }}>
+                        <span style={{
+                            fontSize: '11px',
+                            fontWeight: '700',
+                            textTransform: 'uppercase',
+                            color: 'var(--accent)',
+                            letterSpacing: '0.5px'
+                        }}>
+                            Daily Briefing
+                        </span>
+                        <span style={{
+                            fontSize: '11px',
+                            color: 'var(--text-secondary)'
+                        }}>• {podcast.date}</span>
+                    </div>
+                    <h3 style={{ margin: 0, fontSize: '18px', fontWeight: 700, color: 'var(--text-primary)' }}>
+                        AI Daily News Podcast
                     </h3>
-                    <p style={{ margin: '4px 0 0 0', fontSize: '14px', color: 'var(--text-secondary)' }}>
-                        {podcast.date} • {podcast.speakers.join(' & ')} • ~{Math.floor(podcast.duration / 60)}:{(podcast.duration % 60).toString().padStart(2, '0')}
-                    </p>
                 </div>
                 <a
                     href={podcast.file}
                     download={`ai-news-${podcast.date}.mp3`}
                     style={{
                         padding: '8px 16px',
-                        background: 'var(--primary)',
-                        color: 'white',
+                        border: '1px solid var(--border)',
+                        color: 'var(--text-primary)',
                         borderRadius: '8px',
                         textDecoration: 'none',
                         display: 'flex',
                         alignItems: 'center',
                         gap: '8px',
-                        fontSize: '14px',
-                        fontWeight: 500
+                        fontSize: '13px',
+                        fontWeight: 600,
+                        transition: 'all 0.2s',
+                        background: 'transparent'
+                    }}
+                    onMouseEnter={e => {
+                        e.currentTarget.style.backgroundColor = 'var(--bg-secondary)'
+                        e.currentTarget.style.borderColor = 'var(--text-secondary)'
+                    }}
+                    onMouseLeave={e => {
+                        e.currentTarget.style.backgroundColor = 'transparent'
+                        e.currentTarget.style.borderColor = 'var(--border)'
                     }}
                 >
                     <Download size={16} />
-                    Download
+                    <span className="hide-mobile">MP3</span>
                 </a>
             </div>
 
             <audio ref={audioRef} src={podcast.file} preload="metadata" />
 
             {/* Progress Bar */}
-            <div style={{ marginBottom: '16px' }}>
-                <input
-                    type="range"
-                    min="0"
-                    max="100"
-                    value={progress}
-                    onChange={handleSeek}
-                    style={{
-                        width: '100%',
-                        height: '6px',
+            <div style={{ marginBottom: '20px', padding: '0 4px' }}>
+                <div style={{
+                    position: 'relative',
+                    height: '6px',
+                    background: 'var(--bg-secondary)',
+                    borderRadius: '3px',
+                    overflow: 'hidden'
+                }}>
+                    <div style={{
+                        position: 'absolute',
+                        top: 0,
+                        left: 0,
+                        height: '100%',
+                        width: `${progress}%`,
+                        background: 'var(--accent)',
                         borderRadius: '3px',
-                        outline: 'none',
-                        cursor: 'pointer',
-                        accentColor: 'var(--primary)'
-                    }}
-                />
+                        transition: 'width 0.1s linear'
+                    }} />
+                    <input
+                        type="range"
+                        min="0"
+                        max="100"
+                        value={progress}
+                        onChange={handleSeek}
+                        style={{
+                            position: 'absolute',
+                            top: 0,
+                            left: 0,
+                            width: '100%',
+                            height: '100%',
+                            opacity: 0,
+                            cursor: 'pointer',
+                        }}
+                    />
+                </div>
                 <div style={{
                     display: 'flex',
                     justifyContent: 'space-between',
                     fontSize: '12px',
+                    fontWeight: '500',
                     color: 'var(--text-secondary)',
-                    marginTop: '4px'
+                    marginTop: '8px'
                 }}>
                     <span>{formatTime(currentTime)}</span>
                     <span>{formatTime(duration)}</span>
@@ -138,82 +210,70 @@ function PodcastPlayer({ podcast }) {
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                gap: '16px'
+                gap: '24px'
             }}>
                 <button
                     onClick={() => skip(-10)}
                     style={{
-                        background: 'var(--bg-primary)',
-                        border: '1px solid var(--border)',
-                        borderRadius: '50%',
-                        width: '40px',
-                        height: '40px',
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center',
+                        background: 'transparent',
+                        border: 'none',
+                        color: 'var(--text-secondary)',
                         cursor: 'pointer',
-                        transition: 'all 0.2s'
+                        display: 'flex',
+                        flexDirection: 'column',
+                        alignItems: 'center',
+                        gap: '4px',
+                        fontSize: '10px',
+                        transition: 'color 0.2s'
                     }}
-                    title="Skip back 10s"
+                    onMouseEnter={e => e.currentTarget.style.color = 'var(--text-primary)'}
+                    onMouseLeave={e => e.currentTarget.style.color = 'var(--text-secondary)'}
                 >
-                    <SkipBack size={20} />
+                    <SkipBack size={24} />
+                    -10s
                 </button>
 
                 <button
                     onClick={togglePlay}
                     style={{
-                        background: 'var(--primary)',
+                        background: 'var(--text-primary)',
                         border: 'none',
                         borderRadius: '50%',
-                        width: '56px',
-                        height: '56px',
+                        width: '64px',
+                        height: '64px',
                         display: 'flex',
                         alignItems: 'center',
                         justifyContent: 'center',
                         cursor: 'pointer',
-                        color: 'white',
-                        transition: 'all 0.2s',
-                        boxShadow: '0 4px 12px rgba(33, 150, 243, 0.3)'
+                        color: 'var(--bg-primary)',
+                        transition: 'transform 0.2s cubic-bezier(0.4, 0, 0.2, 1)',
+                        boxShadow: '0 8px 24px rgba(0,0,0,0.15)'
                     }}
+                    onMouseEnter={e => e.currentTarget.style.transform = 'scale(1.05)'}
+                    onMouseLeave={e => e.currentTarget.style.transform = 'scale(1)'}
                 >
-                    {isPlaying ? <Pause size={24} /> : <Play size={24} style={{ marginLeft: '2px' }} />}
+                    {isPlaying ? <Pause size={28} fill="currentColor" /> : <Play size={28} style={{ marginLeft: '4px' }} fill="currentColor" />}
                 </button>
 
                 <button
                     onClick={() => skip(10)}
                     style={{
-                        background: 'var(--bg-primary)',
-                        border: '1px solid var(--border)',
-                        borderRadius: '50%',
-                        width: '40px',
-                        height: '40px',
+                        background: 'transparent',
+                        border: 'none',
+                        color: 'var(--text-secondary)',
+                        cursor: 'pointer',
                         display: 'flex',
+                        flexDirection: 'column',
                         alignItems: 'center',
-                        justifyContent: 'center',
-                        cursor: 'pointer',
-                        transition: 'all 0.2s'
+                        gap: '4px',
+                        fontSize: '10px',
+                        transition: 'color 0.2s'
                     }}
-                    title="Skip forward 10s"
+                    onMouseEnter={e => e.currentTarget.style.color = 'var(--text-primary)'}
+                    onMouseLeave={e => e.currentTarget.style.color = 'var(--text-secondary)'}
                 >
-                    <SkipForward size={20} />
-                </button>
-
-                <button
-                    onClick={changePlaybackRate}
-                    style={{
-                        background: 'var(--bg-primary)',
-                        border: '1px solid var(--border)',
-                        borderRadius: '8px',
-                        padding: '8px 12px',
-                        cursor: 'pointer',
-                        fontSize: '14px',
-                        fontWeight: 600,
-                        minWidth: '50px',
-                        transition: 'all 0.2s'
-                    }}
-                    title="Change playback speed"
-                >
-                    {playbackRate}x
+                    <SkipForward size={24} />
+                    +10s
                 </button>
             </div>
         </div>
