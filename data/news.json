@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-21T20:25:35.803969",
+  "updated": "2025-12-21T21:21:55.192780",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a new approach to evaluating AI models' decision-making processes, enabling more transparent and explainable artificial intelligence. This innovation has the potential to improve trust in AI systems by providing a clearer understanding of their thought processes. By monitoring and analyzing these chains of thought, developers can identify biases and errors, leading to more reliable and accurate AI models."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that enables AI models to provide transparent and explainable reasoning behind their decisions. This innovation has the potential to increase trust in AI systems by allowing users to track and understand the thought process behind AI-generated outputs. By making AI decision-making more transparent, chain-of-thought monitorability can have a significant impact on the development of more reliable and accountable AI models."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/a27bcac68a13fdfed8da498528e20e57.png",
-      "summary": "A new collection of AI literacy resources has been launched to help teens and parents understand the basics of artificial intelligence and its practical applications. These resources aim to bridge the knowledge gap and promote responsible AI use among young people and their families. By providing accessible learning materials, the initiative seeks to empower the next generation to navigate the increasingly AI-driven world."
+      "summary": "A new collection of AI literacy resources has been launched to help teens and parents understand the basics of artificial intelligence and its applications. These resources aim to bridge the knowledge gap and promote responsible AI use among young people. By providing accessible learning materials, the initiative seeks to empower the next generation to navigate the increasingly AI-driven world."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/us-department-of-energy-collaboration",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/8deb89ca9ea2980df267193b8d1e877c.png",
-      "summary": "A leading tech company has announced a strengthened partnership with the U.S. Department of Energy to accelerate innovation in clean energy and advanced technologies. This collaboration aims to drive breakthroughs in fields like artificial intelligence, quantum computing, and battery storage. By combining resources and expertise, the partnership seeks to tackle pressing energy challenges and create a more sustainable future."
+      "summary": "Google has announced a deeper collaboration with the U.S. Department of Energy to advance research in artificial intelligence, quantum computing, and other emerging technologies. This partnership aims to drive innovation and tackle complex challenges in fields like climate modeling and materials science. By combining Google's expertise with the DOE's resources, the collaboration seeks to accelerate breakthroughs and drive positive impact."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to include new protections for teenagers, aiming to enhance their online safety and well-being. The updated model focuses on limiting sensitive or explicit content from being shown to teens, promoting a healthier online environment. This move demonstrates Meta's commitment to prioritizing teen safety and digital responsibility."
+      "summary": "Meta has updated its model specification to include enhanced protections for teenagers, aiming to improve online safety and reduce potential harm. The new guidelines focus on limiting sensitive or explicit content exposure to teens and promoting a more secure environment. This move demonstrates a commitment to prioritizing user well-being, particularly for vulnerable age groups."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/introducing-gpt-5-2-codex",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/354635545e2dae1b22c90a46b9da3711.png",
-      "summary": "GPT-5.2-Codex is a new AI model that combines the capabilities of GPT-5 with Codex, a code generation model, to enable more advanced and efficient coding assistance. This innovation has the potential to revolutionize software development by automating routine coding tasks and improving overall coding accuracy. With GPT-5.2-Codex, developers can expect to see significant improvements in code completion, bug fixing, and code optimization."
+      "summary": "GPT-5.2-Codex is a new AI model that generates code in various programming languages, leveraging the power of natural language processing to automate coding tasks. This innovative tool has the potential to revolutionize software development, making it faster and more accessible to developers of all skill levels. By streamlining the coding process, GPT-5.2-Codex can significantly boost productivity and efficiency in the tech industry."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a new AI model designed for rapid intelligence, built to process and analyze vast amounts of data at unprecedented speeds. This cutting-edge technology has the potential to revolutionize industries that rely on swift decision-making, such as finance and healthcare. With its lightning-fast capabilities, Gemini 3 Flash is poised to transform the way businesses operate and make data-driven decisions."
+      "summary": "Gemini 3 Flash is a new AI model designed for speed and efficiency, enabling faster processing of complex tasks and queries. This innovation aims to revolutionize the field of artificial intelligence by providing lightning-fast responses and insights. With Gemini 3 Flash, users can expect enhanced performance and productivity in various applications, from language processing to data analysis."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing tools for researchers to better comprehend complex language model behavior. This initiative enables the AI safety community to delve deeper into understanding how language models work, identifying potential risks and biases. By doing so, Gemma Scope 2 contributes to the development of more reliable and trustworthy AI systems."
+      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, specifically focusing on AI safety. By providing a platform for researchers to analyze and visualize language model outputs, Gemma Scope 2 enables the AI safety community to identify potential biases and vulnerabilities. This innovation has the potential to significantly improve the development of more reliable and trustworthy AI models."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement is expected to enhance voice experiences, such as voice assistants and speech-to-text features, with better understanding and response to user queries. The updated models will likely lead to more seamless and intuitive interactions with voice-powered devices and services."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. These improvements will enhance voice experiences, allowing for better speech recognition, music and audio processing, and more. The advanced models will power innovative voice-based features and services, revolutionizing the way we interact with technology."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company is strengthening its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, driving innovation in the field. The partnership is expected to have a significant impact on the development of more secure and reliable AI technologies."
+      "summary": "A new partnership has been formed with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to drive advancements in AI-powered security solutions, promoting a safer digital landscape. By combining expertise, the partnership will foster cutting-edge research and development in AI security."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness the power of AI to address key challenges and create new opportunities for economic growth. By working together, the company and the UK government seek to establish the UK as a global leader in responsible AI development and deployment."
+      "summary": "A major tech company is strengthening its partnership with the UK government to drive prosperity and security in the age of AI. This collaboration aims to harness the power of AI to boost economic growth, improve public services, and enhance national security. By working together, the UK government and the tech company hope to establish the UK as a leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest update to Transformers v5 introduces a revamped tokenization system, making it simpler, clearer, and more modular. This new system allows for easier integration of custom tokenizers and improves overall performance. By streamlining tokenization, the update enhances the efficiency and flexibility of natural language processing models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for more efficient and flexible text processing, enabling developers to better fine-tune their models for specific tasks. With this update, the library becomes more accessible and user-friendly, paving the way for improved natural language processing applications."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking framework that allows for the evaluation of AI models like its Nemotron 3 Nano using the NeMo Evaluator tool. This standard enables developers to assess and compare the performance of different AI models in a standardized and transparent way. By providing a common evaluation framework, NVIDIA aims to accelerate AI innovation and drive progress in the field."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking tool that assesses the performance of AI models, and has used it to evaluate its Nemotron 3 Nano model with the NeMo Evaluator. This standard allows for more accurate and transparent comparisons of AI models, enabling developers to make informed decisions. The Open Evaluation Standard has the potential to accelerate AI innovation by providing a common framework for model evaluation."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that enables users to create and configure AI agents with ease, democratizing access to customizable AI models. This innovation allows developers to build tailored AI solutions without requiring extensive expertise, making AI more accessible and versatile. By lowering the barrier to entry, CUGA has the potential to unlock a wide range of AI applications across various industries."
+      "summary": "Hugging Face has introduced CUGA, a platform that enables the creation of customizable AI agents, making it easier for developers to build and deploy tailored AI models. This democratization of AI technology allows for more widespread adoption and innovation, as users can now configure agents to suit specific needs and applications. By providing accessible and adaptable AI solutions, CUGA has the potential to revolutionize industries and drive further AI advancements."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation streamlines the development process and enables more efficient experimentation with various models. By simplifying model management, llama.cpp enhances its usability and flexibility for developers working with AI applications."
+      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily switch between different AI models and manage their instances. This innovation streamlines the development process and enables more efficient experimentation with various models. By simplifying model management, developers can focus on improving AI performance and accuracy."
     },
     {
       "source": "RSS",
@@ -134,7 +134,16 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex, a leader in AI technology, is open-sourcing its AI models, making them freely available to developers and researchers. This move is expected to accelerate innovation and advancement in the field of artificial intelligence, enabling the creation of more sophisticated and powerful AI applications. By sharing its models, Codex aims to foster collaboration and drive progress in AI development."
+      "summary": "Codex is open-sourcing its AI models, making it easier for developers to access and build upon the technology. This move is expected to accelerate innovation in the field of artificial intelligence and drive new applications. By sharing its models, Codex aims to foster a community-driven approach to AI development and advancement."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Guide to Local Coding Models",
+      "url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+      "published": "2025-12-21T20:55:15",
+      "image": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
+      "summary": "A new guide to local coding models has been released, providing developers with a comprehensive overview of techniques for training and deploying machine learning models on local devices. This approach enables faster and more secure data processing, reducing reliance on cloud infrastructure. By leveraging local coding models, developers can create more efficient and private applications."
     },
     {
       "source": "Hacker News",
@@ -143,7 +152,7 @@
       "url": "https://oldmanrahul.com/2025/12/19/ai-code-review-trick/",
       "published": "2025-12-21T17:21:05",
       "image": "https://oldmanrahul.com/images/oldmanrahul_menu_icon.jpg",
-      "summary": "A new AI-powered tool can review code in just 10 seconds, providing instant feedback on errors, security vulnerabilities, and best practices. This innovation has the potential to significantly speed up the development process and improve code quality. By automating code reviews, developers can focus on writing better code and reducing bugs, leading to faster and more reliable software releases."
+      "summary": "A new AI-powered tool can review code in just 10 seconds, providing instant feedback on errors, security vulnerabilities, and best practices. This innovative tool has the potential to revolutionize the coding process, saving developers time and improving overall code quality. By automating code reviews, developers can focus on writing better code and accelerating the development process."
     },
     {
       "source": "Hacker News",
@@ -152,16 +161,7 @@
       "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
       "published": "2025-12-21T04:06:36",
       "image": "https://metr.org/assets/images/measuring-ai-ability-to-complete-long-tasks/length-of-tasks-log.png",
-      "summary": "Researchers have developed a new framework to assess the ability of AI models to complete long, complex tasks, such as writing a short story or holding a conversation. This framework evaluates AI's capacity for sustained reasoning and decision-making, pushing the boundaries of current AI capabilities. By measuring long-term task completion, developers can better understand AI's limitations and potential applications."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: AI-Augmented Memory for Groups",
-      "url": "https://www.largemem.com/",
-      "published": "2025-12-16T14:32:48",
-      "image": "https://largemem.com/og-image.png",
-      "summary": "A new AI-powered tool has been introduced, enabling groups to collectively augment their memory by automatically generating notes and summaries of discussions. This innovation has the potential to revolutionize team collaboration and knowledge sharing, making it easier to recall important details and decisions. By leveraging AI, groups can now tap into a shared, artificial memory that enhances human recall and productivity."
+      "summary": "Researchers have developed a new framework to assess the ability of AI models to complete long, complex tasks, such as writing entire books or generating lengthy code. This innovation has the potential to significantly advance the field of artificial intelligence by enabling more accurate evaluations of AI capabilities. By measuring AI's long-term completion abilities, developers can refine their models to tackle more ambitious projects."
     },
     {
       "source": "Hacker News",
@@ -170,17 +170,17 @@
       "url": "https://www.jmail.world",
       "published": "2025-12-20T21:00:05",
       "image": "https://www.jmail.world/social-preview.png",
-      "summary": "Jmail is an open-source alternative to Google Suite, inspired by the need for secure and private document management following the Epstein files scandal. This project aims to provide a self-hosted solution for email, calendar, and document storage, giving users full control over their data. By offering a decentralized and transparent alternative, Jmail promotes data sovereignty and security."
+      "summary": "Jmail is an open-source alternative to Google Suite, inspired by the need for secure and private document management, as seen in the Epstein files case. This project aims to provide a self-hosted solution for sensitive information, offering features similar to Google Drive and Docs. By decentralizing data storage, Jmail promotes greater control and security over sensitive documents."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 120,
+    "duration": 122,
     "date": "2025-12-21",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 9
+    "segments": 8
   }
 }
