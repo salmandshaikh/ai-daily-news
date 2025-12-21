@@ -3,6 +3,7 @@ import Header from './components/Header'
 import HeroArticle from './components/HeroArticle'
 import NewsGrid from './components/NewsGrid'
 import PodcastPlayer from './components/PodcastPlayer'
+import Chatbot from './components/Chatbot'
 
 function App() {
     const [theme, setTheme] = useState(() => {
@@ -88,6 +89,11 @@ function App() {
                     © 2025 AI Daily News. Powered by Groq & OpenRouter.
                 </div>
             </footer>
+
+            {/* AI Chatbot */}
+            {newsData && newsData.articles && (
+                <Chatbot articles={newsData.articles} />
+            )}
         </div>
     )
 }
