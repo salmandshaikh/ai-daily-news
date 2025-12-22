@@ -1,6 +1,24 @@
 {
-  "updated": "2025-12-22T16:03:32.480867",
+  "updated": "2025-12-22T20:03:25.721446",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
+      "summary": "The developers of ChatGPT Atlas are continuously working to harden the model against prompt injection attacks, which involve manipulating the AI's responses through carefully crafted input. This effort aims to improve the model's security and reliability, ensuring it provides accurate and trustworthy information. By strengthening its defenses, ChatGPT Atlas can better withstand potential exploits and maintain user trust."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "One in a million: celebrating the customers shaping AI\u2019s future",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
+      "summary": "A recent celebration highlighted the crucial role of customers in shaping the future of Artificial Intelligence (AI), with one in a million users driving innovation and improvement. These customers are providing valuable feedback and insights, helping to refine AI models and push the boundaries of what is possible. By collaborating with these forward-thinking users, AI developers can create more effective and user-friendly solutions that transform industries and revolutionize daily life."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +26,7 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\" to better understand and evaluate the decision-making processes of AI models. This innovation aims to provide more transparency and insight into how AI systems arrive at their conclusions, enabling more accurate and trustworthy outcomes. By monitoring the thought process, developers can identify potential biases and improve the overall reliability of AI-driven systems."
+      "summary": "Researchers are exploring \"chain-of-thought\" monitorability, a concept that enables AI models to provide transparent and explainable reasoning for their decisions. This innovation has the potential to increase trust in AI systems by allowing users to understand the thought process behind their outputs. By evaluating chain-of-thought monitorability, developers can create more reliable and accountable AI models."
     },
     {
       "source": "RSS",
@@ -17,7 +35,7 @@
       "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/a27bcac68a13fdfed8da498528e20e57.png",
-      "summary": "A new collection of AI literacy resources has been launched to help teens and parents understand the basics of artificial intelligence and its impact on daily life. These resources aim to bridge the knowledge gap and promote responsible AI use among young people. By providing accessible and engaging materials, the initiative seeks to empower the next generation to navigate the increasingly AI-driven world."
+      "summary": "A new initiative has launched to provide AI literacy resources for teens and parents, aiming to educate them on the basics of artificial intelligence and its applications. These resources will help bridge the knowledge gap and promote responsible AI use among younger generations. By doing so, it will empower teens and parents to navigate the increasingly AI-driven world with confidence."
     },
     {
       "source": "RSS",
@@ -26,25 +44,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to enhance protections for teenagers, introducing new guidelines to prevent harmful or explicit content from being exposed to young users. This move aims to create a safer online environment for teens, prioritizing their well-being and safety. The updated model spec will help reduce the risk of teenagers encountering inappropriate content on the platform."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Deepening our collaboration with the U.S. Department of Energy",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "published": "Thu, 18 Dec 2025 11:00:00 GMT",
-      "image": "data/images/8deb89ca9ea2980df267193b8d1e877c.png",
-      "summary": "Microsoft has announced a strengthened partnership with the U.S. Department of Energy to advance innovation in fields like artificial intelligence, clean energy, and quantum computing. This collaboration aims to drive breakthroughs in emerging technologies and tackle pressing global challenges. By combining their expertise, Microsoft and the DOE seek to accelerate the development of sustainable solutions and foster a more resilient energy future."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.2-Codex",
-      "url": "https://openai.com/index/gpt-5-2-codex",
-      "published": "Thu, 18 Dec 2025 00:00:00 GMT",
-      "image": "data/images/354635545e2dae1b22c90a46b9da3711.png",
-      "summary": "Researchers have introduced GPT-5.2-Codex, a significant upgrade to the GPT series, offering improved coding capabilities and enhanced language understanding. This new model has the potential to revolutionize coding tasks, making it easier for developers to generate and modify code. With GPT-5.2-Codex, the boundaries between human and artificial intelligence in coding are becoming increasingly blurred."
+      "summary": "Meta has updated its model specification to include new protections for teens, focusing on limiting suspicious interactions and promoting a safer online environment. This update aims to reduce potential harm and exploitation of teenage users. The new protections will help create a more secure space for teens to interact and share content online."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, revolutionizing the way data is processed and analyzed. This innovative technology enables faster decision-making and enhanced performance, making it a game-changer in the field of artificial intelligence. With its lightning-fast capabilities, Gemini 3 Flash is poised to transform industries and applications that rely on rapid data insights."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid data processing and analysis, enabling faster decision-making. This innovative technology is built to handle complex tasks with increased speed and efficiency. By leveraging Gemini 3 Flash, users can unlock new insights and drive business growth through accelerated intelligence capabilities."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a platform for researchers to analyze and understand complex language model behavior. This initiative will enable the AI safety community to deepen their knowledge of language models, identifying potential risks and developing more robust and reliable models. By shedding light on language model behavior, Gemma Scope 2 has the potential to significantly impact the development of safer and more trustworthy AI systems."
+      "summary": "The Gemma Scope 2 is a new tool designed to help the AI safety community better understand complex language model behavior, enabling researchers to analyze and identify potential risks. This innovation aims to deepen the understanding of AI decision-making processes, promoting safer and more reliable language models. By providing insights into language model behavior, Gemma Scope 2 can help mitigate potential biases and flaws in AI systems."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement enhances the overall voice experience, allowing for better speech recognition and more seamless interactions. The updated models are set to power a new generation of voice-enabled devices and services."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This innovation enhances voice experiences, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The improved models are expected to power more intuitive and responsive voice-based interfaces."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has strengthened its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to drive innovation in AI-powered security solutions, enhancing protection against emerging threats. The partnership is expected to have a significant impact on the cybersecurity landscape, fostering a safer digital environment."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to develop cutting-edge AI solutions to tackle emerging cyber threats and improve overall security. The partnership is expected to drive significant advancements in AI-powered security and bolster the UK's position as a hub for AI innovation."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness the power of AI to address key challenges and create new opportunities for growth. By working together, the partnership seeks to establish the UK as a global leader in responsible AI development and deployment."
+      "summary": "A leading tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness the power of AI to tackle complex challenges and create new opportunities for economic growth. By working together, the company and the UK government seek to establish the UK as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for easier integration with other libraries and frameworks, enhancing the overall flexibility and customization of the Transformers library. By streamlining tokenization, developers can now focus on building more efficient and effective natural language processing models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for more efficient and flexible text processing, enabling developers to better customize and fine-tune their models. By streamlining tokenization, the update paves the way for improved natural language processing capabilities and more accurate AI-driven applications."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking framework that assesses the performance of AI models, with the NeMo Evaluator tool being used to test the NVIDIA Nemotron 3 Nano. This standard aims to provide a unified way to evaluate AI models, enabling more accurate comparisons and advancements in the field. By using the Open Evaluation Standard, developers can optimize their models for better performance and efficiency."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking framework that assesses the performance of AI models, with the NeMo Evaluator tool being used to test the NVIDIA Nemotron 3 Nano. This standard aims to provide a unified way to evaluate AI models, enabling more accurate comparisons and driving innovation in the field. The NeMo Evaluator tool allows developers to measure the performance of their models against industry standards, streamlining the development process."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that democratizes access to configurable AI agents, allowing developers to easily create and customize AI models. This innovation enables users to tailor AI agents to specific tasks and applications, making AI more accessible and adaptable. By lowering the barrier to entry, CUGA has the potential to accelerate AI adoption and innovation across various industries."
+      "summary": "CUGA, a cutting-edge AI framework, has been integrated into Hugging Face, a popular AI hub, to democratize access to configurable AI agents. This collaboration enables developers to easily create and customize AI models, bridging the gap between AI research and real-world applications. By making CUGA available on Hugging Face, the platform is expanding its capabilities to foster innovation and widespread adoption of AI technologies."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enhances flexibility and customization, enabling developers to adapt the AI to specific tasks and applications. By streamlining model management, llama.cpp improves overall efficiency and usability for users."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enables more flexibility and customization, making it simpler to adapt the AI to specific tasks and applications. By streamlining model management, llama.cpp enhances its usability and versatility for developers and users alike."
     },
     {
       "source": "RSS",
@@ -134,16 +134,43 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex, a cutting-edge AI technology, is open-sourcing its models, allowing developers to access and build upon its innovative language processing capabilities. This move is expected to accelerate AI research and development, enabling the creation of more sophisticated and customized AI applications. By making its models open-source, Codex is democratizing access to advanced AI technology and fostering a community-driven approach to AI innovation."
+      "summary": "Codex, a cutting-edge AI technology, is open-sourcing its models, allowing developers to access and build upon its innovative language processing capabilities. This move is expected to accelerate AI research and development, enabling the creation of more sophisticated and customized AI applications. By making its models open-source, Codex is democratizing access to AI technology and fostering a community-driven approach to AI innovation."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A guide to local coding models",
-      "url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-      "published": "2025-12-21T20:55:15",
-      "image": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
-      "summary": "A new guide on local coding models has been released, providing developers with a comprehensive overview of how to build and deploy machine learning models on local devices. This approach enables faster and more secure processing, as sensitive data is kept on-device rather than being transmitted to the cloud. By leveraging local coding models, developers can create more efficient and private AI-powered applications."
+      "title": "Scaling LLMs to Larger Codebases",
+      "url": "https://blog.kierangill.xyz/oversight-and-guidance",
+      "published": "2025-12-22T15:38:37",
+      "image": "https://blog.kierangill.xyz/images/guidance-and-oversight-og.webp",
+      "summary": "Researchers have made a breakthrough in scaling Large Language Models (LLMs) to larger codebases, enabling them to better understand and generate code. This innovation has the potential to revolutionize software development by automating coding tasks and improving code quality. By scaling LLMs, developers can now leverage AI to tackle complex coding projects more efficiently and effectively."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
+      "url": "https://www.useparallel.com/uplane1/careers",
+      "published": "2025-12-22T17:00:34",
+      "image": "https://ik.imagekit.io/parallel/undefined/6942baf61af7b542c9885322/company/header/prl-c_E4W-GquqR",
+      "summary": "Uplane, a startup backed by Y Combinator, is seeking founding engineers with expertise in full-stack development and AI to join their team. This hiring push suggests Uplane is poised for growth and innovation, leveraging AI and full-stack technologies to drive their mission forward. As a YC-backed company, Uplane's hiring efforts may indicate a promising future for the startup."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Jimmy Lai Is a Martyr for Freedom",
+      "url": "https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/",
+      "published": "2025-12-22T16:56:35",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/12/jimmy-lai-free-speech-china.jpg",
+      "summary": "Jimmy Lai, a Hong Kong media tycoon, is being hailed as a martyr for freedom due to his unwavering stance against China's oppressive regime. His bravery in the face of persecution has inspired a global movement, highlighting the importance of a free press and democracy. Lai's selfless dedication to truth and transparency has made him a symbol of resistance against authoritarianism."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+      "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+      "published": "2025-12-22T16:31:40",
+      "image": "https://www.404media.co/content/images/size/w1200/2025/12/1222.gif",
+      "summary": "Flock, a company providing AI-powered cameras for neighborhood watch programs, inadvertently exposed its cameras to the internet, allowing researchers to track and monitor users. This security lapse raised significant concerns about data privacy and surveillance. By exploiting this vulnerability, researchers were able to track individuals and vehicles, highlighting the potential risks of unchecked AI-powered surveillance."
     },
     {
       "source": "Hacker News",
@@ -152,7 +179,7 @@
       "url": "https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html",
       "published": "2025-12-21T14:46:53",
       "image": "data/images/d4a1f06e5b509f74582c1d4057bc3ce8.png",
-      "summary": "A developer has shared their approach to protecting their Forgejo instance from AI-powered web crawlers, utilizing techniques such as rate limiting and CAPTCHAs to prevent scraping. This method helps maintain the integrity of their self-hosted platform, preventing unwanted data extraction by AI bots. By implementing these safeguards, users can ensure their Forgejo instances remain secure and private."
+      "summary": "A developer shared their approach to protecting their Forgejo instance from AI-powered web crawlers, utilizing techniques such as rate limiting and CAPTCHAs to prevent scraping. This method helps prevent unwanted data extraction and preserves the integrity of their instance. By implementing these measures, developers can safeguard their platforms from malicious AI-driven crawlers."
     },
     {
       "source": "Hacker News",
@@ -160,22 +187,13 @@
       "title": "Decompiling the Synergy: Human\u2013LLM Teaming in Reverse Engineering [pdf]",
       "url": "https://www.zionbasque.com/files/papers/dec-synergy-study.pdf",
       "published": "2025-12-17T18:10:23",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers have made a breakthrough in reverse engineering by teaming humans with Large Language Models (LLMs), demonstrating the potential for collaborative synergy between humans and AI. This innovative approach enables more efficient and effective decompilation of complex software, leveraging the strengths of both human intuition and AI-driven analysis. The study highlights the exciting possibilities of human-AI collaboration in solving complex problems."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
-      "url": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
-      "published": "2025-12-22T00:27:04",
-      "image": "data/images/49485ab947089e1c53f0634cb0246e1f.png",
-      "summary": "ONNX Runtime and CoreML, popular frameworks for machine learning model deployment, may automatically convert models to 16-bit floating-point (FP16) format without user intervention, potentially impacting model accuracy. This silent conversion can occur even if the original model was trained in a higher precision format, such as FP32. Developers should be aware of this behavior to ensure their models are optimized for the desired level of precision."
+      "image": "data/images/8ff46875c57f5eff2b64481f9aa4418b.png",
+      "summary": "Researchers have made a breakthrough in reverse engineering by teaming humans with large language models (LLMs), achieving a synergy that enhances decompilation efficiency and accuracy. This collaboration enables humans to focus on high-level decisions while LLMs handle complex, low-level tasks, streamlining the reverse engineering process. The study demonstrates the potential for human-LLM teaming to revolutionize the field of reverse engineering and cybersecurity."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 122,
+    "duration": 111,
     "date": "2025-12-22",
     "speakers": [
       "Alex",
