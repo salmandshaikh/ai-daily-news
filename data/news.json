@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-23T00:45:26.446326",
+  "updated": "2025-12-23T04:34:31.414783",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
-      "summary": "A recent celebration highlighted the contributions of exceptional customers who are pioneering the use of AI in innovative ways. These customers, one in a million, are shaping the future of AI by leveraging its capabilities to drive transformation and growth in their industries. Their groundbreaking work is paving the way for others to adopt and benefit from AI technologies."
+      "summary": "A recent celebration highlighted the innovative customers who are pushing the boundaries of AI technology, with over a million users contributing to its development. These pioneers are shaping the future of AI by leveraging its capabilities to drive business growth, improve efficiency, and solve complex problems. Their contributions are helping to accelerate AI adoption and create new opportunities for industries worldwide."
     },
     {
       "source": "RSS",
@@ -16,8 +16,8 @@
       "title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
-      "summary": "OpenAI is continuously enhancing the security of ChatGPT Atlas to protect against prompt injection attacks, which aim to manipulate the model's responses. The updates focus on improving the model's ability to detect and reject malicious prompts, ensuring a safer and more reliable user experience. By hardening ChatGPT Atlas, OpenAI aims to stay ahead of potential threats and maintain the integrity of its AI platform."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to protect against prompt injection attacks, which involve manipulating the model with malicious input. This hardening process aims to improve the model's security and reliability, ensuring it can withstand attempts to exploit its vulnerabilities. By doing so, OpenAI is strengthening the foundation of its AI technology to provide safer and more trustworthy interactions."
     },
     {
       "source": "RSS",
@@ -26,16 +26,16 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that evaluates the ability to track and understand the decision-making process of AI models. This innovation aims to improve transparency and trust in AI systems by providing insights into their thought processes. By monitoring these chains of thought, developers can identify potential biases and errors, leading to more reliable and accountable AI decision-making."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that evaluates the ability to track and understand the decision-making process of AI models. This innovation aims to improve transparency and explainability in AI, enabling developers to identify biases and errors. By monitoring the thought process of AI, this technology has the potential to increase trust and reliability in AI-driven systems."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "AI literacy resources for teens and parents",
-      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "title": "Deepening our collaboration with the U.S. Department of Energy",
+      "url": "https://openai.com/index/us-department-of-energy-collaboration",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
-      "image": "data/images/a27bcac68a13fdfed8da498528e20e57.png",
-      "summary": "A new collection of AI literacy resources has been launched to help teens and parents understand the basics of artificial intelligence and its applications. These resources aim to educate users on how AI works, its benefits and risks, and how to critically evaluate AI-generated content. By promoting AI literacy, the initiative seeks to empower the next generation to navigate an increasingly AI-driven world."
+      "image": "data/images/8deb89ca9ea2980df267193b8d1e877c.png",
+      "summary": "Microsoft has announced a strengthened partnership with the U.S. Department of Energy to advance innovation in fields like artificial intelligence, clean energy, and quantum computing. This collaboration aims to drive breakthroughs in emerging technologies and tackle complex challenges. By working together, Microsoft and the DOE will accelerate the development of cutting-edge solutions to benefit the environment, economy, and society."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to enhance teen protections, introducing new features to prioritize their online safety and well-being. The updates aim to limit potentially harmful interactions and provide a safer environment for teenagers on the platform. This move demonstrates a commitment to protecting vulnerable users and promoting a more responsible social media experience."
+      "summary": "Meta has updated its model specification to include new protections for teenagers, aiming to enhance online safety and security for young users. The updated model focuses on limiting sensitive content and interactions, promoting a healthier online environment. This move demonstrates a commitment to prioritizing teen well-being in the digital space."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster and more efficient processing of complex data. This innovative technology is poised to revolutionize the field of artificial intelligence, allowing for quicker insights and decision-making. With its enhanced performance, Gemini 3 Flash is set to transform the way businesses and organizations approach data analysis and intelligence gathering."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster and more efficient processing of complex data. This innovative technology is poised to revolutionize the field of artificial intelligence, allowing for quicker insights and decision-making. By prioritizing speed, Gemini 3 Flash aims to unlock new possibilities in AI applications and beyond."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, particularly in the context of AI safety. By providing a platform for researchers to analyze and visualize language model outputs, Gemma Scope 2 can help identify potential biases and flaws in AI decision-making. This innovation has the potential to significantly improve the reliability and trustworthiness of AI systems."
+      "summary": "The Gemma Scope 2 tool has been introduced to aid the AI safety community in better understanding complex language model behavior. This innovation enables researchers to analyze and visualize the decision-making processes of large language models, providing valuable insights into their strengths and weaknesses. By deepening our understanding of these models, Gemma Scope 2 can help improve their safety and reliability."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a wide range of applications. This improvement is set to enhance voice experiences, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The enhanced models will also support more languages and dialects, expanding accessibility and usability."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement is expected to enhance voice experiences, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The updated models will likely have a significant impact on the development of voice-powered technologies."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company is expanding its partnership with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to develop cutting-edge solutions to protect against emerging threats and promote a safer digital landscape. The partnership will drive research, development, and implementation of AI-powered security technologies."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to drive advancements in AI-powered security solutions, protecting against emerging threats. By combining expertise, the partnership seeks to foster a more secure and trustworthy AI ecosystem."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
       "published": "Wed, 10 Dec 2025 14:59:21 +0000",
       "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance cybersecurity. By working together, the company and the UK government seek to establish the UK as a global leader in responsible AI development and deployment."
+      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance cybersecurity. By working together, the UK government and the tech company hope to establish the country as a global leader in responsible AI development and deployment."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest version of Transformers, v5, introduces a revamped tokenization system that simplifies and clarifies the process, making it more modular and efficient. This update allows for easier integration with other libraries and frameworks, enhancing the overall usability of the Transformers library. By streamlining tokenization, developers can now focus on building more accurate and effective natural language processing models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This new system allows for easier integration of custom tokenizers and improved handling of special tokens, enabling more efficient and accurate natural language processing. By streamlining tokenization, the update paves the way for more advanced language models and applications."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking framework that allows for standardized evaluation of AI models. The standard is demonstrated with the NeMo Evaluator, which assesses the performance of the NVIDIA Nemotron 3 Nano, a compact AI accelerator. This innovation enables developers to compare and optimize AI models more efficiently, driving advancements in the field."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking tool that assesses the performance of AI models, with the Nemotron 3 Nano being the first model evaluated using the NeMo Evaluator. This standard aims to provide a unified framework for comparing AI model performance, enabling more accurate and fair comparisons. The Open Evaluation Standard has the potential to accelerate AI innovation by establishing a common language for model evaluation."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that democratizes access to configurable AI agents, allowing developers to easily create and customize AI models. This innovation enables users to tailor AI agents to specific tasks and applications, making AI more accessible and adaptable. By lowering the barrier to entry, CUGA has the potential to accelerate AI adoption and innovation across various industries."
+      "summary": "CUGA, a platform for creating customizable AI agents, has been integrated into Hugging Face, a popular AI hub, to democratize access to configurable AI models. This collaboration enables developers to easily build, train, and deploy tailored AI agents, lowering the barrier to entry for AI innovation. By making CUGA available on Hugging Face, the AI community can now leverage a wider range of customizable AI capabilities."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily switch between different AI models and manage their instances. This innovation enhances flexibility and customization, enabling developers to experiment with various models and optimize their performance. By streamlining model management, llama.cpp improves the overall efficiency of AI development and deployment."
+      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily manage and switch between different AI models. This innovation enables more flexibility and customization, making it simpler to adapt the AI to specific tasks and applications. By streamlining model management, llama.cpp enhances its usability and versatility for developers and users alike."
     },
     {
       "source": "RSS",
@@ -134,25 +134,16 @@
       "url": "https://huggingface.co/blog/hf-skills-training-codex",
       "published": "Thu, 11 Dec 2025 00:00:00 GMT",
       "image": "data/images/9ce3635e627f503ded7467118964297c.png",
-      "summary": "Codex, a leading AI research organization, is open-sourcing its AI models, making it easier for developers to access and build upon cutting-edge technologies. This move is expected to accelerate innovation in the field and democratize access to AI capabilities. By sharing its models, Codex aims to foster collaboration and drive advancements in AI research and applications."
+      "summary": "Codex is open-sourcing its AI models, allowing developers to access and build upon the technology. This move is expected to accelerate innovation in the field of artificial intelligence and promote collaboration among researchers and developers. By making its models open-source, Codex is democratizing access to AI and paving the way for new applications and advancements."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-      "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-      "published": "2025-12-22T16:31:40",
-      "image": "https://www.404media.co/content/images/size/w1200/2025/12/1222.gif",
-      "summary": "Flock, a company providing AI-powered cameras for neighborhood watch programs, inadvertently exposed its cameras to the internet, allowing unauthorized access to live feeds. Researchers were able to track individuals and vehicles using the exposed cameras, raising significant privacy concerns. This incident highlights the potential risks of IoT devices and the importance of robust security measures to protect sensitive data."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
-      "url": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
-      "published": "2025-12-22T22:35:45",
-      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/694806d8d1a011b13249a012_image%20(17)%20copy.jpg",
-      "summary": "A malicious npm package called Lotusbail has been discovered, which secretly harvests WhatsApp messages and contacts from users' devices. The package, likely used for social engineering or phishing attacks, highlights the risks of using unverified dependencies in software development. This incident serves as a reminder for developers to thoroughly vet third-party packages to prevent such security breaches."
+      "title": "Our New Sam Audio Model Transforms Audio Editing",
+      "url": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
+      "published": "2025-12-16T20:25:04",
+      "image": "https://about.fb.com/wp-content/uploads/2025/12/SAM-Audio_Social-Share.jpg?w=1200",
+      "summary": "The new Sam audio model revolutionizes audio editing by allowing for precise and efficient editing of audio files, enabling users to make complex changes with ease. This innovative model uses AI to analyze and understand audio content, making it possible to edit audio with unprecedented accuracy and speed. By transforming the audio editing landscape, Sam has the potential to democratize high-quality audio production and open up new creative possibilities."
     },
     {
       "source": "Hacker News",
@@ -161,7 +152,25 @@
       "url": "https://blog.kierangill.xyz/oversight-and-guidance",
       "published": "2025-12-22T15:38:37",
       "image": "https://blog.kierangill.xyz/images/guidance-and-oversight-og.webp",
-      "summary": "Researchers are exploring ways to scale Large Language Models (LLMs) to larger codebases, enabling them to better understand and generate complex code. This innovation has the potential to revolutionize software development by improving code completion, bug detection, and automated programming tasks. By scaling LLMs, developers can tap into more accurate and efficient coding assistance, transforming the way they build and maintain software."
+      "summary": "Researchers are exploring ways to scale Large Language Models (LLMs) to larger codebases, enabling them to better understand and generate code. This innovation has the potential to revolutionize software development by improving code completion, debugging, and optimization. By scaling LLMs, developers can tap into more efficient and automated coding processes, transforming the way they build and maintain complex software systems."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+      "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+      "published": "2025-12-22T16:31:40",
+      "image": "https://www.404media.co/content/images/size/w1200/2025/12/1222.gif",
+      "summary": "Flock, a company providing AI-powered cameras for neighborhood watch programs, inadvertently exposed its cameras to the internet, allowing researchers to track and access footage. This security lapse raises concerns about the potential for mass surveillance and highlights the need for robust security measures in IoT devices. By tracking themselves, researchers demonstrated the vulnerability, emphasizing the importance of prioritizing user privacy and security."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
+      "url": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
+      "published": "2025-12-22T22:35:45",
+      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/694806d8d1a011b13249a012_image%20(17)%20copy.jpg",
+      "summary": "A malicious npm package called Lotusbail has been discovered, which secretly harvests WhatsApp messages and contacts from users' devices. This package was designed to appear as a legitimate library, but instead, it exfiltrates sensitive data to a remote server. The finding highlights the growing concern of malicious packages in the npm ecosystem, posing a significant threat to user privacy and security."
     },
     {
       "source": "Hacker News",
@@ -170,12 +179,39 @@
       "url": "https://arxiv.org/abs/2512.14693",
       "published": "2025-12-22T18:59:22",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Researchers have introduced a Universal Reasoning Model that achieves impressive results on the Abstraction and Reasoning Corpus (ARC) challenge, passing 53.8% of ARC1 and 16.0% of ARC2 tests. This breakthrough demonstrates significant progress in artificial intelligence's ability to reason and solve complex problems. The model's performance has the potential to pave the way for more advanced AI systems capable of human-like reasoning and decision-making."
+      "summary": "Researchers have introduced a Universal Reasoning Model that achieves impressive results on the Abstraction and Reasoning Corpus (ARC) benchmarks, passing 53.8% of ARC1 and 16.0% of ARC2 tests. This breakthrough demonstrates significant advancements in artificial intelligence's ability to reason and solve complex problems. The model's performance has sparked excitement in the AI community, with potential applications in various fields."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Python SDK \u2013 forecasting with foundation time-series and tabular models",
+      "url": "https://github.com/S-FM/faim-python-client",
+      "published": "2025-12-18T11:33:28",
+      "image": "https://opengraph.githubassets.com/f42f33aacef057a2e904d1a6b45fec76bb77fc9e3b31f34679b4002b62ca1096/S-FM/faim-python-client",
+      "summary": "A new Python SDK has been released, enabling developers to easily integrate foundation time-series and tabular models for forecasting into their applications. This innovation simplifies the process of predicting future trends and patterns, making it more accessible to a wider range of users. By leveraging these models, developers can build more accurate and data-driven forecasting tools, driving better decision-making and business outcomes."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
+      "url": "https://www.useparallel.com/uplane1/careers",
+      "published": "2025-12-22T17:00:34",
+      "image": "https://ik.imagekit.io/parallel/undefined/6942baf61af7b542c9885322/company/header/prl-c_E4W-GquqR",
+      "summary": "Uplane, a startup backed by Y Combinator, is seeking founding engineers to join their team, focusing on full-stack and AI development. This opportunity allows engineers to contribute to the company's early stages and shape its technological direction. As a founding engineer, you'll play a key role in building Uplane's innovative products and services from the ground up."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Diesel pollution particles impair lysosomal functions of iPSC-derived microglia",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0160412025002181",
+      "published": "2025-12-23T02:56:50",
+      "image": "data/images/3e47021bf274c4a4ecf9a29f7cc0b2d1.png",
+      "summary": "Researchers have found that exposure to diesel pollution particles can damage the lysosomal function of microglia, a type of brain cell, derived from induced pluripotent stem cells (iPSCs). This impairment can have significant implications for brain health, as lysosomes play a crucial role in removing waste and toxins from cells. The study highlights the potential neurodegenerative effects of air pollution, particularly in urban areas with high diesel emissions."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 120,
+    "duration": 122,
     "date": "2025-12-23",
     "speakers": [
       "Alex",
