@@ -1,15 +1,6 @@
 {
-  "updated": "2025-12-23T16:03:25.493373",
+  "updated": "2025-12-23T20:03:32.126832",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to protect against prompt injection attacks, which involve manipulating the model with malicious input. This effort aims to improve the security and reliability of the AI chatbot, ensuring it provides accurate and trustworthy responses. By hardening ChatGPT Atlas, OpenAI is mitigating potential risks and enhancing user experience."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,7 +8,16 @@
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
-      "summary": "A recent celebration highlighted the crucial role of customers in shaping the future of Artificial Intelligence (AI), with one in a million users driving innovation through their interactions. These power users are helping to refine AI models and push the boundaries of what is possible with the technology. By leveraging customer feedback and insights, AI developers can create more effective and user-friendly solutions that transform industries and revolutionize daily life."
+      "summary": "A recent celebration highlighted the crucial role of customers in shaping the future of Artificial Intelligence (AI), with one in a million users driving innovation through feedback and collaboration. These forward-thinking individuals are helping to push the boundaries of AI capabilities, enabling more effective and personalized solutions. By working together, customers and AI developers are unlocking new possibilities and transforming industries."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to protect against prompt injection attacks, which involve manipulating the model with malicious input. This effort aims to improve the security and reliability of the AI chatbot, ensuring it can withstand attempts to exploit its vulnerabilities. By hardening ChatGPT Atlas, OpenAI is working to prevent potential misuse and maintain user trust."
     },
     {
       "source": "RSS",
@@ -26,16 +26,16 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that evaluates the transparency and explainability of AI decision-making processes. This innovation aims to improve the accountability and trustworthiness of AI systems by providing a clearer understanding of their thought processes. By monitoring and analyzing these chains of thought, developers can identify biases and errors, leading to more reliable and efficient AI models."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that evaluates the ability to track and understand the decision-making process of artificial intelligence (AI) models. This innovation aims to improve transparency and trust in AI systems by providing a clear understanding of how they arrive at their conclusions. By monitoring the thought process, developers can identify potential biases and errors, leading to more reliable and accountable AI models."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Deepening our collaboration with the U.S. Department of Energy",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "title": "AI literacy resources for teens and parents",
+      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
-      "image": "data/images/8deb89ca9ea2980df267193b8d1e877c.png",
-      "summary": "Microsoft is strengthening its partnership with the U.S. Department of Energy to advance innovation in fields like artificial intelligence, clean energy, and quantum computing. This collaboration aims to drive breakthroughs in areas such as climate modeling and materials science. By combining resources and expertise, the partnership seeks to accelerate the development of cutting-edge technologies that can help address pressing global challenges."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "A new collection of AI literacy resources has been launched to help teens and parents understand the basics of artificial intelligence and its applications. These resources aim to bridge the knowledge gap and promote responsible AI use among young people. By providing accessible and engaging materials, the initiative seeks to empower the next generation to navigate the increasingly AI-driven world."
     },
     {
       "source": "RSS",
@@ -44,7 +44,16 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to include new protections for teens, aiming to enhance online safety and security for young users. The updates focus on limiting interactions between teens and adults they don't know, as well as reducing the visibility of teens' online activity. This move highlights the company's efforts to create a safer digital environment for minors."
+      "summary": "Meta has updated its model specification to enhance teen protections, introducing new features to prioritize their safety and well-being online. The updates aim to limit suspicious interactions and provide more age-appropriate experiences for teenage users. This move marks a significant step towards creating a safer online environment for younger users."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "published": "Tue, 23 Dec 2025 17:01:02 +0000",
+      "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
+      "summary": "Google has released its year in review for 2025, highlighting 8 key areas where the company achieved significant research breakthroughs. These advancements span various fields, including artificial intelligence, natural language processing, and computer vision, with potential to drive innovation and improvement in numerous industries. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological capabilities and exploring new applications for emerging technologies."
     },
     {
       "source": "RSS",
@@ -53,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid processing and analysis, enabling faster decision-making and insights. This innovative technology is built to handle complex data sets with exceptional speed and accuracy. By revolutionizing data analysis, Gemini 3 Flash has the potential to transform industries and applications that rely on swift and informed decision-making."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster and more efficient processing of complex data. This innovative technology is poised to revolutionize various industries by providing rapid insights and decision-making capabilities. With its enhanced performance, Gemini 3 Flash is set to transform the way businesses and organizations approach data analysis and intelligence gathering."
     },
     {
       "source": "RSS",
@@ -62,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, promoting AI safety by providing tools for researchers to analyze and identify potential risks. This initiative can help mitigate the unintended consequences of AI models, such as biases and misinformation. By deepening our understanding of language models, Gemma Scope 2 contributes to the development of more reliable and trustworthy AI systems."
+      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a platform for researchers to analyze and understand complex language model behavior. This initiative will help the AI community identify potential risks and biases in language models, enabling the development of more reliable and trustworthy AI systems. By deepening our understanding of language model behavior, Gemma Scope 2 has the potential to significantly impact the field of AI safety and ethics."
     },
     {
       "source": "RSS",
@@ -71,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement enhances the overall voice experience, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The updated models are expected to power more intuitive and responsive voice-activated devices and services."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for better understanding of user requests and more effective responses. The improved models will power a range of applications, from virtual assistants to voice-controlled devices."
     },
     {
       "source": "RSS",
@@ -80,16 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A new partnership has been formed with the UK AI Security Institute to further advance AI security research and development. This collaboration aims to drive innovation in AI security and address emerging threats. By working together, the partnership seeks to create more robust and secure AI systems that can benefit society as a whole."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
-      "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
-      "published": "Wed, 10 Dec 2025 14:59:21 +0000",
-      "image": "data/images/593667d06eb655406c19b717b5a8a8e8.png",
-      "summary": "A major tech company has announced a strengthened partnership with the UK government to drive AI innovation and support national prosperity and security. This collaboration aims to harness AI's potential to boost economic growth, improve public services, and enhance cybersecurity. By working together, the UK government and the tech company seek to establish the country as a leader in responsible AI development and deployment."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to develop cutting-edge AI solutions and address emerging security challenges. The partnership is expected to drive significant advancements in AI security research and development."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for more efficient and flexible text processing, enabling developers to easily customize and integrate tokenization models into their applications. With this update, the library becomes even more powerful and accessible for natural language processing tasks."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This change enables more efficient and flexible text processing, allowing developers to better tailor their models to specific tasks and languages. The updated tokenization system is expected to improve the overall performance and accuracy of transformer-based models."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking framework that assesses the performance of AI models, with a focus on its Nemotron 3 Nano model using the NeMo Evaluator tool. This standard aims to provide a unified way to evaluate AI models, enabling more accurate comparisons and driving innovation in the field. By using the Open Evaluation Standard, developers can optimize their models and improve overall AI performance."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking framework that assesses the performance of AI models, with the Nemotron 3 Nano being the first model evaluated using the NeMo Evaluator tool. This standard aims to provide a unified way to measure AI model performance, enabling more accurate comparisons and driving innovation in the field. The Nemotron 3 Nano evaluation demonstrates the potential of this standard to streamline AI model development and optimization."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "CUGA, a platform for creating configurable AI agents, has been integrated into Hugging Face, a popular AI hub, to democratize access to customizable AI models. This collaboration enables developers to easily build, share, and fine-tune AI agents for various applications, promoting innovation and flexibility in the AI community. By making CUGA available on Hugging Face, AI development becomes more accessible and user-friendly for a broader range of users."
+      "summary": "Hugging Face has introduced CUGA, a platform that enables users to create and configure AI agents with ease, democratizing access to customizable AI models. This innovation allows developers to fine-tune AI agents for specific tasks and applications, making AI more accessible and adaptable. By simplifying the process of creating tailored AI models, CUGA has the potential to accelerate AI adoption across various industries."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management, allowing users to easily manage and switch between different AI models. This innovation streamlines the development process and enables more efficient experimentation with various models. By simplifying model management, llama.cpp enhances its usability and flexibility for developers working with AI applications."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enhances the flexibility and customizability of the llama.cpp framework, enabling developers to experiment with various models and fine-tune their applications. By streamlining model management, this update simplifies the development process and unlocks new possibilities for AI-powered projects."
     },
     {
       "source": "Hacker News",
@@ -142,8 +142,17 @@
       "title": "Executorch: On-device AI across mobile, embedded and edge for PyTorch",
       "url": "https://github.com/pytorch/executorch",
       "published": "2025-12-18T13:51:11",
-      "image": "https://opengraph.githubassets.com/c73f95bb299a70ad714baad26ab5ae8d509df864b40180739df6faee933e2040/pytorch/executorch",
-      "summary": "Executorch is a new open-source framework that enables on-device AI deployment for PyTorch models across mobile, embedded, and edge devices. This innovation allows for faster and more efficient AI processing, reducing the need for cloud connectivity and improving real-time application performance. By bringing AI capabilities to the edge, Executorch has the potential to unlock new use cases for AI-powered devices."
+      "image": "https://opengraph.githubassets.com/f4f5077e5fef653d71ee6cb580a1518ae26783fd627fc9181c6edc60b7eefba4/pytorch/executorch",
+      "summary": "Executorch is a new open-source framework that enables on-device AI inference for PyTorch models across mobile, embedded, and edge devices. This innovation allows for faster and more efficient deployment of AI models, reducing latency and improving real-time processing capabilities. By bringing AI processing to the edge, Executorch has the potential to unlock new use cases for AI in areas like IoT, robotics, and autonomous systems."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Local AI is driving the biggest change in laptops in decades",
+      "url": "https://spectrum.ieee.org/ai-models-locally",
+      "published": "2025-12-23T00:12:16",
+      "image": "https://spectrum.ieee.org/media-library/hands-typing-on-laptop-with-a-building-scaffold-shaped-like-a-face-on-the-screen.png?id=62173878&width=1200&height=600&coordinates=0%2C152%2C0%2C153",
+      "summary": "The integration of local AI in laptops is revolutionizing the industry, enabling devices to learn and adapt to users' habits without relying on cloud connectivity. This shift is expected to bring significant improvements in performance, security, and battery life, marking the biggest change in laptops in decades. By processing data locally, laptops can now provide more personalized and efficient experiences, transforming the way we interact with our devices."
     },
     {
       "source": "Hacker News",
@@ -152,39 +161,12 @@
       "url": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota",
       "published": "2025-12-23T10:53:07",
       "image": "https://i.guim.co.uk/img/media/0c0d402539470b70559e972804fa15cf214418f2/0_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c1defa81df212662b7a9cbe6ef7b527",
-      "summary": "Ryanair has been fined \u20ac256M for implementing an \"abusive strategy\" to limit ticket sales by online travel agencies (OTAs), restricting consumer choice and competition. The airline's tactics, which included imposing contractual restrictions on OTAs, have been deemed anti-competitive by regulators. This ruling aims to promote fair competition and increase transparency in the online travel booking market."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Our New Sam Audio Model Transforms Audio Editing",
-      "url": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
-      "published": "2025-12-16T20:25:04",
-      "image": "https://about.fb.com/wp-content/uploads/2025/12/SAM-Audio_Social-Share.jpg?w=1200",
-      "summary": "The new Sam audio model revolutionizes audio editing by allowing for precise and efficient editing of audio files, enabling users to remove noise, adjust pitch, and modify tone with unprecedented ease. This innovative model uses AI to analyze and manipulate audio waves, opening up new creative possibilities for music producers, podcasters, and sound designers. By streamlining the editing process, Sam has the potential to transform the audio production industry."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-      "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-      "published": "2025-12-22T16:31:40",
-      "image": "https://www.404media.co/content/images/size/w1200/2025/12/1222.gif",
-      "summary": "Researchers discovered that Flock, a company offering AI-powered cameras for neighborhood watch programs, had inadvertently exposed its cameras to the internet, allowing anyone to access live feeds. By tracking their own movements, investigators were able to demonstrate the significant privacy risks posed by this vulnerability. The incident highlights the need for robust security measures to protect sensitive data in IoT devices."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Scaling LLMs to Larger Codebases",
-      "url": "https://blog.kierangill.xyz/oversight-and-guidance",
-      "published": "2025-12-22T15:38:37",
-      "image": "https://blog.kierangill.xyz/images/guidance-and-oversight-og.webp",
-      "summary": "Researchers are exploring ways to scale Large Language Models (LLMs) to larger codebases, enabling them to better understand and generate code. This innovation has the potential to revolutionize software development by automating coding tasks and improving code quality. By scaling LLMs, developers can leverage AI to tackle complex coding challenges and increase productivity."
+      "summary": "Ryanair has been fined \u20ac256M by the Italian Competition Authority for adopting an \"abusive strategy\" to limit ticket sales through online travel agencies (OTAs). The airline allegedly used contractual clauses to restrict OTAs from selling its tickets, giving preference to its own website and mobile app. This ruling aims to promote fair competition and increase consumer choice in the European airline market."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 118,
+    "duration": 115,
     "date": "2025-12-23",
     "speakers": [
       "Alex",
