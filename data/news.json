@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-25T16:03:07.381271",
+  "updated": "2025-12-25T20:03:24.270679",
   "articles": [
     {
       "source": "RSS",
@@ -97,7 +97,7 @@
       "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
-      "image": "data/images/a19849b13092ea690b766b7929804637.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Alzheimer\u2019s disease can be reversed in animal models: Study",
+      "url": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
+      "published": "2025-12-25T15:22:36",
+      "image": "https://case.edu/news/sites/default/files/styles/opengraph_1200x630/public/2025-12/epilepsy-feat.jpg?h=d1cb525d&itok=Sjwl31X8",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Asahi Linux with Sway on the MacBook Air M2",
+      "url": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/",
+      "published": "2025-12-25T14:20:29",
+      "image": "https://i.dllu.net/2024-12-01-19-14-32_DSCF3120_58a0af3f29ead0118ef194dbccea00f020dbe0f8_a168a62312d435a9-2400.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)",
+      "url": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/",
+      "published": "2025-12-25T18:06:44",
+      "image": "https://cyata.ai/wp-content/uploads/2025/12/LangGrinch-Blog-post-cover.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Asterisk AI Voice Agent",
       "url": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
       "published": "2025-12-24T23:25:37",
-      "image": "https://opengraph.githubassets.com/2a2c2774fb21660d117ca9ceaa82f22c143ca3f9873541cb8a8931d0b6b017c5/hkjarral/Asterisk-AI-Voice-Agent",
+      "image": "https://opengraph.githubassets.com/21e3ea598e64622d65391b94ad620504674ff164eb4848b546a9700cfc00f427/hkjarral/Asterisk-AI-Voice-Agent",
       "summary": "Summary unavailable."
     },
     {
@@ -151,16 +178,7 @@
       "title": "Show HN: Vibium \u2013 Browser automation for AI and humans, by Selenium's creator",
       "url": "https://github.com/VibiumDev/vibium",
       "published": "2025-12-24T17:49:02",
-      "image": "https://opengraph.githubassets.com/f724d9b01f732a6aca86cffbc18d1b337d2f0b5c162a35e7f8c6161941c3ed6e/VibiumDev/vibium",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The next-gen mainboard designed with amigaos4 and morphos in mind",
-      "url": "https://mirari.vitasys.nl/our-story/",
-      "published": "2025-12-25T00:38:09",
-      "image": "data/images/f4a292e8733a411210bc3f45d83fcad5.png",
+      "image": "https://opengraph.githubassets.com/2ff53e137bad18886a51a78e4f7f7cbcadf9f74d9b02357e7053627edc082775/VibiumDev/vibium",
       "summary": "Summary unavailable."
     }
   ],
