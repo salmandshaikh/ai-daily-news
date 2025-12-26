@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T00:45:42.434909",
+  "updated": "2025-12-26T04:26:57.988874",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Critical vulnerability in LangChain \u2013 CVE-2025-68664",
+      "url": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/",
+      "published": "2025-12-25T18:06:44",
+      "image": "https://cyata.ai/wp-content/uploads/2025/12/LangGrinch-Blog-post-cover.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Google is 'gradually rolling out' option to change your gmail.com address",
       "url": "https://9to5google.com/2025/12/24/google-change-gmail-addresses/",
       "published": "2025-12-25T21:36:48",
@@ -161,15 +170,6 @@
       "url": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
       "published": "2025-12-25T15:22:36",
       "image": "https://case.edu/news/sites/default/files/styles/opengraph_1200x630/public/2025-12/epilepsy-feat.jpg?h=d1cb525d&itok=Sjwl31X8",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "All I Want for Christmas Is Your Secrets: LangGrinch hits LangChain Core",
-      "url": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/",
-      "published": "2025-12-25T18:06:44",
-      "image": "https://cyata.ai/wp-content/uploads/2025/12/LangGrinch-Blog-post-cover.png",
       "summary": "Summary unavailable."
     }
   ],
