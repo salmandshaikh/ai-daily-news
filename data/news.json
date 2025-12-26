@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-25T20:03:24.270679",
+  "updated": "2025-12-26T00:45:42.434909",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a19849b13092ea690b766b7929804637.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,16 +139,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Alzheimer\u2019s disease can be reversed in animal models: Study",
-      "url": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
-      "published": "2025-12-25T15:22:36",
-      "image": "https://case.edu/news/sites/default/files/styles/opengraph_1200x630/public/2025-12/epilepsy-feat.jpg?h=d1cb525d&itok=Sjwl31X8",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Asahi Linux with Sway on the MacBook Air M2",
+      "title": "Asahi Linux with Sway on the MacBook Air M2 (2024)",
       "url": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/",
       "published": "2025-12-25T14:20:29",
       "image": "https://i.dllu.net/2024-12-01-19-14-32_DSCF3120_58a0af3f29ead0118ef194dbccea00f020dbe0f8_a168a62312d435a9-2400.jpg",
@@ -157,35 +148,35 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)",
+      "title": "Google is 'gradually rolling out' option to change your gmail.com address",
+      "url": "https://9to5google.com/2025/12/24/google-change-gmail-addresses/",
+      "published": "2025-12-25T21:36:48",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/gmail-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Alzheimer\u2019s disease can be reversed in animal models? Study",
+      "url": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
+      "published": "2025-12-25T15:22:36",
+      "image": "https://case.edu/news/sites/default/files/styles/opengraph_1200x630/public/2025-12/epilepsy-feat.jpg?h=d1cb525d&itok=Sjwl31X8",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "All I Want for Christmas Is Your Secrets: LangGrinch hits LangChain Core",
       "url": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/",
       "published": "2025-12-25T18:06:44",
       "image": "https://cyata.ai/wp-content/uploads/2025/12/LangGrinch-Blog-post-cover.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Asterisk AI Voice Agent",
-      "url": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "published": "2025-12-24T23:25:37",
-      "image": "https://opengraph.githubassets.com/21e3ea598e64622d65391b94ad620504674ff164eb4848b546a9700cfc00f427/hkjarral/Asterisk-AI-Voice-Agent",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Vibium \u2013 Browser automation for AI and humans, by Selenium's creator",
-      "url": "https://github.com/VibiumDev/vibium",
-      "published": "2025-12-24T17:49:02",
-      "image": "https://opengraph.githubassets.com/2ff53e137bad18886a51a78e4f7f7cbcadf9f74d9b02357e7053627edc082775/VibiumDev/vibium",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2025-12-25",
+    "date": "2025-12-26",
     "speakers": [
       "Alex",
       "Jordan"
