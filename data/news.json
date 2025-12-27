@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T04:23:42.211107",
+  "updated": "2025-12-27T08:03:23.809994",
   "articles": [
     {
       "source": "RSS",
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI Police Reports: Year in Review",
+      "url": "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review",
+      "published": "2025-12-23T17:30:15",
+      "image": "https://www.eff.org/files/banner_library/yearinreview_1200x600px_banner_2025.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
       "url": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
       "published": "2025-12-26T17:07:53",
@@ -151,34 +160,7 @@
       "title": "Show HN: Witr \u2013 Explain why a process is running on your Linux system",
       "url": "https://github.com/pranshuparmar/witr",
       "published": "2025-12-26T15:20:36",
-      "image": "https://opengraph.githubassets.com/28052b1606bb9f9574c4203e9e3f21822a921ab4451dd08c56ba8c9142178662/pranshuparmar/witr",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Perfect Aircrete, Kitchen Ingredients [video]",
-      "url": "https://www.youtube.com/watch?v=z4_GxPHwqkA",
-      "published": "2025-12-20T15:13:02",
-      "image": "data/images/d03fd16eddd592fbdd4a3ef24ce2e833.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rob Pike goes nuclear over GenAI",
-      "url": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
-      "published": "2025-12-26T14:08:47",
-      "image": "https://cdn.bsky.app/img/avatar/plain/did:plc:vsgr3rwyckhiavgqzdcuzm6i/bafkreig5vsojzvkwmf5liew6brmd6jhp6gxlwvo5cqbmt2asloj2gg6rhq@jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What happened to all the gold Spain got from the New World? (1985)",
-      "url": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world",
-      "published": "2025-12-22T07:18:08",
-      "image": "https://cst.brightspotcdn.com/dims4/default/4c364c9/2147483647/strip/true/crop/300x171+0+58/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Fh6Ot4VdtUp0ZokUSQOdsk3y0G9Q%3D%2F0x0%3A300x287%2F300x287%2Ffilters%3Afocal%28150x143%3A151x144%29%3Ano_upscale%28%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F20535581%2F851004_300x287.gif",
+      "image": "https://opengraph.githubassets.com/6485f5edbfdec1659fea74ba567e6da75822115d4d671ba1172b104b24656b12/pranshuparmar/witr",
       "summary": "Summary unavailable."
     }
   ],
