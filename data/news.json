@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T04:37:21.059773",
+  "updated": "2025-12-28T08:03:32.854780",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "A new research shows that 21-33% of YouTube's feed may consist of AI slop",
+      "url": "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/",
+      "published": "2025-12-28T07:14:43",
+      "image": "https://www.kapwing.com/blog/content/images/2025/11/Header_Slop-Report.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How we lost communication to entertainment",
       "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
       "published": "2025-12-27T20:15:01",
@@ -175,10 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Richard Stallman at the First Hackers Conference in 1984 [video]",
-      "url": "https://www.youtube.com/watch?v=Hf2pfzzWPYE",
-      "published": "2025-12-27T21:15:14",
-      "image": "data/images/e19a598d93d3e109005e5e060a825869.png",
+      "title": "Public Domain Day 2026",
+      "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/",
+      "published": "2025-12-27T22:15:43",
+      "image": "https://web.law.duke.edu/sites/default/files/images/centers/cspd/pdd2025/PDDmontageRS.jpg",
       "summary": "Summary unavailable."
     }
   ],
