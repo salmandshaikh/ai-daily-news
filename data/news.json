@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T20:03:31.856224",
+  "updated": "2025-12-28T00:52:33.572071",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a19849b13092ea690b766b7929804637.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "How we lost communication to entertainment",
+      "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "published": "2025-12-27T20:15:01",
+      "image": "https://ploum.net/files/framalistes.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Gpg.fail",
       "url": "https://gpg.fail",
       "published": "2025-12-27T17:05:50",
       "image": "data/images/06ebfd1d3f70a1db6e0657b31672d53c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
+      "url": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
+      "published": "2025-12-27T19:45:28",
+      "image": "https://www.shanethegamer.com/wp-content/uploads/2025/12/STG-Cover-7-1.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -153,12 +171,21 @@
       "published": "2025-12-27T08:45:46",
       "image": "data/images/3d81857a94c3aad58ce878ebe2006735.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Richard Stallman at the First Hackers Conference in 1984 [video]",
+      "url": "https://www.youtube.com/watch?v=Hf2pfzzWPYE",
+      "published": "2025-12-27T21:15:14",
+      "image": "data/images/e19a598d93d3e109005e5e060a825869.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2025-12-27",
+    "date": "2025-12-28",
     "speakers": [
       "Alex",
       "Jordan"
