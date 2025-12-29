@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-29T16:03:08.074817",
+  "updated": "2025-12-29T20:03:24.412280",
   "articles": [
     {
       "source": "RSS",
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Meta's ads tools started switching out top-performing ads with AI-generated ones",
+      "url": "https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10",
+      "published": "2025-12-29T19:51:47",
+      "image": "https://i.insider.com/690273690be9845f2dc556e8?width=1200&format=jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "List of domains censored by German ISPs",
+      "url": "https://cuiiliste.de/domains",
+      "published": "2025-12-29T18:21:30",
+      "image": "https://cuiiliste.de/img/nocuii.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Z80-\u03bcLM, a 'Conversational AI' That Fits in 40KB",
       "url": "https://github.com/HarryR/z80ai",
       "published": "2025-12-29T05:41:24",
-      "image": "https://opengraph.githubassets.com/799083b3a23f79ffe044f6c9228442d68aafa52a74daca52960cfa058589ae60/HarryR/z80ai",
+      "image": "https://opengraph.githubassets.com/76560b95f6f119501ddee546c22a15a6f2b366b08dcb53415eb940f7735c4836/HarryR/z80ai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Evidex \u2013 AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)",
+      "url": "https://www.getevidex.com",
+      "published": "2025-12-29T17:17:01",
+      "image": "data/images/c8e964d48a3d98787d17fe22e5485b9d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -152,51 +179,6 @@
       "url": "https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca",
       "published": "2025-12-29T13:06:49",
       "image": "https://i.guim.co.uk/img/media/f23da26f8402f91bc06b7a051a59f632f7c7cde6/424_0_2581_2065/master/2581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e81c03d0f4a8f09f84377c187c4e998a",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "As AI gobbles up chips, prices for devices may rise",
-      "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-      "published": "2025-12-28T22:52:21",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2550x1434+0+37/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fcb%2Fe6930aae4194aa1d81d15e00b18b%2Fap101105125088.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
-      "url": "https://nilch.org",
-      "published": "2025-12-29T05:25:25",
-      "image": "data/images/18cfb03d84b223c8772a124df873b750.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Researchers discover molecular difference in autistic brains",
-      "url": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
-      "published": "2025-12-28T22:23:33",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/57bd75f5-dd42-4a47-a99f-35c660e446a0",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MongoBleed Explained Simply",
-      "url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
-      "published": "2025-12-28T21:03:03",
-      "image": "https://substackcdn.com/image/fetch/$s_!GSKe!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9251c26a-c98a-41a5-9c60-19708875feff_1200x630.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Asking Gemini 3 to generate Brainfuck code results in an infinite loop",
-      "url": "https://teodordyakov.github.io/brainfuck-agi/",
-      "published": "2025-12-29T09:40:09",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
