@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T20:04:10.013799",
+  "updated": "2025-12-29T00:50:57.449381",
   "articles": [
     {
       "source": "RSS",
@@ -139,44 +139,53 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
-      "url": "https://arxiv.org/abs/2512.02080",
-      "published": "2025-12-28T15:02:07",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "title": "Stepping down as Mockito maintainer after 10 years",
+      "url": "https://github.com/mockito/mockito/issues/3777",
+      "published": "2025-12-28T20:14:58",
+      "image": "https://opengraph.githubassets.com/9686c3c6bc3f1b78ea4e4f6db586546209adf10451ccd8d414dbede62eb369c4/mockito/mockito/issues/3777",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How we lost communication to entertainment",
-      "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "published": "2025-12-27T20:15:01",
-      "image": "https://ploum.net/files/framalistes.jpg",
+      "title": "MongoBleed Explained Simply",
+      "url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
+      "published": "2025-12-28T21:03:03",
+      "image": "https://substackcdn.com/image/fetch/$s_!GSKe!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9251c26a-c98a-41a5-9c60-19708875feff_1200x630.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Gpg.fail",
-      "url": "https://gpg.fail",
-      "published": "2025-12-27T17:05:50",
-      "image": "data/images/06ebfd1d3f70a1db6e0657b31672d53c.png",
+      "title": "Researchers Discover Molecular Difference in Autistic Brains",
+      "url": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
+      "published": "2025-12-28T22:23:33",
+      "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/57bd75f5-dd42-4a47-a99f-35c660e446a0",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
-      "url": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
-      "published": "2025-12-27T19:45:28",
-      "image": "https://www.shanethegamer.com/wp-content/uploads/2025/12/STG-Cover-7-1.webp",
+      "title": "Why I Disappeared \u2013 My week with minimal internet in a remote island chain",
+      "url": "https://www.kenklippenstein.com/p/why-i-disappeared",
+      "published": "2025-12-28T21:45:44",
+      "image": "https://substackcdn.com/image/fetch/$s_!N-GV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98e900ca-a889-4632-9f3f-72609f633f40_1908x994.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "As AI gobbles up chips, prices for devices may rise",
+      "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
+      "published": "2025-12-28T22:52:21",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2550x1434+0+37/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fcb%2Fe6930aae4194aa1d81d15e00b18b%2Fap101105125088.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2025-12-28",
+    "date": "2025-12-29",
     "speakers": [
       "Alex",
       "Jordan"
