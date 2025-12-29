@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-29T00:50:57.449381",
+  "updated": "2025-12-29T04:41:05.087387",
   "articles": [
     {
       "source": "RSS",
@@ -139,15 +139,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Stepping down as Mockito maintainer after 10 years",
-      "url": "https://github.com/mockito/mockito/issues/3777",
-      "published": "2025-12-28T20:14:58",
-      "image": "https://opengraph.githubassets.com/9686c3c6bc3f1b78ea4e4f6db586546209adf10451ccd8d414dbede62eb369c4/mockito/mockito/issues/3777",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "MongoBleed Explained Simply",
       "url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
       "published": "2025-12-28T21:03:03",
@@ -157,7 +148,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Researchers Discover Molecular Difference in Autistic Brains",
+      "title": "As AI gobbles up chips, prices for devices may rise",
+      "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
+      "published": "2025-12-28T22:52:21",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2550x1434+0+37/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fcb%2Fe6930aae4194aa1d81d15e00b18b%2Fap101105125088.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Researchers discover molecular difference in autistic brains",
       "url": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
       "published": "2025-12-28T22:23:33",
       "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/57bd75f5-dd42-4a47-a99f-35c660e446a0",
@@ -175,10 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "As AI gobbles up chips, prices for devices may rise",
-      "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-      "published": "2025-12-28T22:52:21",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2550x1434+0+37/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fcb%2Fe6930aae4194aa1d81d15e00b18b%2Fap101105125088.jpg",
+      "title": "How to Complain (2024)",
+      "url": "https://outerproduct.net/trivial/2024-03-25_complain.html",
+      "published": "2025-12-28T23:23:21",
+      "image": "data/images/7b154e0ee9032f39808830c24d91ff77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Stepping down as Mockito maintainer after ten years",
+      "url": "https://github.com/mockito/mockito/issues/3777",
+      "published": "2025-12-28T20:14:58",
+      "image": "https://opengraph.githubassets.com/9686c3c6bc3f1b78ea4e4f6db586546209adf10451ccd8d414dbede62eb369c4/mockito/mockito/issues/3777",
       "summary": "Summary unavailable."
     }
   ],
