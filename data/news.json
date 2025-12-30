@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-29T20:03:24.412280",
+  "updated": "2025-12-30T00:45:49.231152",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
-      "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meta's ads tools started switching out top-performing ads with AI-generated ones",
-      "url": "https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10",
-      "published": "2025-12-29T19:51:47",
-      "image": "https://i.insider.com/690273690be9845f2dc556e8?width=1200&format=jpeg",
+      "title": "ManusAI Joins Meta",
+      "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+      "published": "2025-12-29T22:24:22",
+      "image": "https://files.manuscdn.com/assets/dashboard/materials/2025/12/29/be24830250b19286eda97af3b8f076bc3e0f835a3fa818bb4c3095354c351cfe.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -157,35 +157,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Z80-\u03bcLM, a 'Conversational AI' That Fits in 40KB",
-      "url": "https://github.com/HarryR/z80ai",
-      "published": "2025-12-29T05:41:24",
-      "image": "https://opengraph.githubassets.com/76560b95f6f119501ddee546c22a15a6f2b366b08dcb53415eb940f7735c4836/HarryR/z80ai",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Evidex \u2013 AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)",
-      "url": "https://www.getevidex.com",
-      "published": "2025-12-29T17:17:01",
-      "image": "data/images/c8e964d48a3d98787d17fe22e5485b9d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "UK accounting body to halt remote exams amid AI cheating",
-      "url": "https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca",
-      "published": "2025-12-29T13:06:49",
-      "image": "https://i.guim.co.uk/img/media/f23da26f8402f91bc06b7a051a59f632f7c7cde6/424_0_2581_2065/master/2581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e81c03d0f4a8f09f84377c187c4e998a",
+      "title": "AI is forcing us to write good code",
+      "url": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
+      "published": "2025-12-29T19:11:26",
+      "image": "https://substackcdn.com/image/fetch/$s_!M5s0!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0d94e7a-5c6a-4801-a96c-4e2104f96419_2752x1536.jpeg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2025-12-29",
+    "date": "2025-12-30",
     "speakers": [
       "Alex",
       "Jordan"
