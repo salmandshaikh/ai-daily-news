@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T16:03:16.601479",
+  "updated": "2026-01-01T20:03:30.389601",
   "articles": [
     {
       "source": "RSS",
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "AI literacy resources for teens and parents",
-      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "title": "Updating our Model Spec with teen protections",
+      "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
-      "image": "data/images/a27bcac68a13fdfed8da498528e20e57.png",
+      "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "2025: The Year in LLMs",
-      "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-      "published": "2025-12-31T23:54:46",
-      "image": "https://static.simonwillison.net/static/2025/metr-long-task-2025.jpg",
+      "title": "Building an internal agent: Code-driven vs. LLM-driven workflows",
+      "url": "https://lethain.com/agents-coordinators/",
+      "published": "2026-01-01T18:34:25",
+      "image": "https://lethain.com/static/author.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Resistance training load does not determine hypertrophy",
-      "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
-      "published": "2025-12-31T22:25:58",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Finland detains ship and its crew after critical undersea cable damaged",
+      "url": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
+      "published": "2026-01-01T18:46:07",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2253489264.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sony PS5 ROM keys leaked \u2013 jailbreaking could be made easier with BootROM codes",
+      "url": "https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes",
+      "published": "2026-01-01T15:57:39",
+      "image": "https://cdn.mos.cms.futurecdn.net/Vy6yo6NzRverNeZry3FQBo-1920-80.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Dell's version of the DGX Spark fixes pain points",
+      "url": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+      "published": "2026-01-01T19:11:53",
+      "image": "data/images/b11ad1a501fc0df4b4da2a44af850ee1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "2025: The Year in LLMs",
+      "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "published": "2025-12-31T23:54:46",
+      "image": "https://static.simonwillison.net/static/2025/metr-long-task-2025.jpg",
       "summary": "Summary unavailable."
     }
   ],
