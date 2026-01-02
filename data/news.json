@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-02T12:18:58.912094",
+  "updated": "2026-01-02T16:03:45.048087",
   "articles": [
     {
       "source": "RSS",
@@ -61,7 +61,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +166,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FreeBSD: Home NAS, part 1 \u2013 configuring ZFS mirror (RAID1)",
-      "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-      "published": "2026-01-02T06:48:32",
-      "image": "https://rtfm.co.ua/wp-content/uploads/2025/11/freebsd_logo1.jpg",
+      "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+      "url": "https://lalitm.com/post/one-number-i-trust/",
+      "published": "2026-01-02T10:25:11",
+      "image": "data/images/3efce1076705d7a0ea302a7d8a09358b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
-      "url": "https://lalitm.com/post/one-number-i-trust/",
-      "published": "2026-01-02T10:25:11",
-      "image": "data/images/3efce1076705d7a0ea302a7d8a09358b.png",
+      "title": "Show HN: OfferGridAI \u2013 side-by-side comparison of real estate offers from PDFs",
+      "url": "https://offergridai.com",
+      "published": "2026-01-02T13:29:47",
+      "image": "https://offergridai.com/banner.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "FreeBSD: Home NAS, part 1 \u2013 configuring ZFS mirror (RAID1)",
+      "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
+      "published": "2026-01-02T06:48:32",
+      "image": "https://rtfm.co.ua/wp-content/uploads/2025/11/freebsd_logo1.jpg",
       "summary": "Summary unavailable."
     }
   ],
