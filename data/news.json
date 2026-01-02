@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-02T16:03:45.048087",
+  "updated": "2026-01-02T20:03:43.038439",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "One in a million: celebrating the customers shaping AI\u2019s future",
-      "url": "https://openai.com/index/one-in-a-million-customers",
-      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "url": "https://openai.com/index/openai-grove",
+      "published": "Fri, 02 Jan 2026 10:00:00 GMT",
+      "image": "data/images/db2d3b5aaede6b344b00941c39c1cf33.png",
       "summary": "Summary unavailable."
     },
     {
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Evaluating chain-of-thought monitorability",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "published": "Thu, 18 Dec 2025 12:00:00 GMT",
-      "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
+      "title": "One in a million: celebrating the customers shaping AI\u2019s future",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Deepening our collaboration with the U.S. Department of Energy",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "published": "Thu, 18 Dec 2025 11:00:00 GMT",
-      "image": "data/images/8deb89ca9ea2980df267193b8d1e877c.png",
+      "title": "Evaluating chain-of-thought monitorability",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "published": "Thu, 18 Dec 2025 12:00:00 GMT",
+      "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,6 +157,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "C \u2013> Java != Java \u2013> LLM",
+      "url": "http://www.observationalhazard.com/2025/12/c-java-java-llm.html",
+      "published": "2025-12-28T04:40:56",
+      "image": "data/images/c0c499ff1b055b26b4265ced98bf182d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Happy Public Domain Day 2026",
       "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
       "published": "2026-01-02T01:42:16",
@@ -170,24 +179,6 @@
       "url": "https://lalitm.com/post/one-number-i-trust/",
       "published": "2026-01-02T10:25:11",
       "image": "data/images/3efce1076705d7a0ea302a7d8a09358b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: OfferGridAI \u2013 side-by-side comparison of real estate offers from PDFs",
-      "url": "https://offergridai.com",
-      "published": "2026-01-02T13:29:47",
-      "image": "https://offergridai.com/banner.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FreeBSD: Home NAS, part 1 \u2013 configuring ZFS mirror (RAID1)",
-      "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-      "published": "2026-01-02T06:48:32",
-      "image": "https://rtfm.co.ua/wp-content/uploads/2025/11/freebsd_logo1.jpg",
       "summary": "Summary unavailable."
     }
   ],
