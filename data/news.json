@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-02T08:03:05.985271",
+  "updated": "2026-01-02T12:18:58.912094",
   "articles": [
     {
       "source": "RSS",
@@ -61,7 +61,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "10 years of personal finances in plain text files",
+      "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+      "published": "2026-01-02T11:07:51",
+      "image": "data/images/7fef971a7f80f16d171b20333febe070.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
+      "url": "https://standardebooks.org/blog/public-domain-day-2026",
+      "published": "2026-01-02T08:40:41",
+      "image": "https://standardebooks.org/images/logo.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Happy Public Domain Day 2026",
       "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
       "published": "2026-01-02T01:42:16",
@@ -157,19 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Dell's version of the DGX Spark fixes pain points",
-      "url": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
-      "published": "2026-01-01T19:11:53",
-      "image": "data/images/b11ad1a501fc0df4b4da2a44af850ee1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Finland detains ship and its crew after critical undersea cable damaged",
-      "url": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
-      "published": "2026-01-01T18:46:07",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2253489264.jpg?c=16x9&q=w_800,c_fill",
+      "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+      "url": "https://lalitm.com/post/one-number-i-trust/",
+      "published": "2026-01-02T10:25:11",
+      "image": "data/images/3efce1076705d7a0ea302a7d8a09358b.png",
       "summary": "Summary unavailable."
     }
   ],
