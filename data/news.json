@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-03T16:03:30.247394",
+  "updated": "2026-01-03T20:03:10.397928",
   "articles": [
     {
       "source": "RSS",
@@ -139,10 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tomasf/Cadova: Swift DSL for parametric 3D modeling",
+      "title": "Recursive Language Models",
+      "url": "https://arxiv.org/abs/2512.24601",
+      "published": "2026-01-03T11:29:33",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cadova: Swift DSL for parametric 3D modeling",
       "url": "https://github.com/tomasf/Cadova",
       "published": "2025-12-31T09:16:58",
-      "image": "https://opengraph.githubassets.com/c638435b3ce7ffdeb24ed111ae6c0f46fefa526765224ba9c5f91e6540e2ba20/tomasf/Cadova",
+      "image": "https://opengraph.githubassets.com/716b4c292defc552e7de3751954915780d8014f28ee49eccbf5e6b861ac766e5/tomasf/Cadova",
       "summary": "Summary unavailable."
     },
     {
@@ -151,16 +160,7 @@
       "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
       "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
       "published": "2026-01-03T04:01:03",
-      "image": "https://opengraph.githubassets.com/aca20fa36b15ecb77ce7e39d5990640556139b4ef07667a1d0aed8e8e61399a5/IQuestLab/IQuest-Coder-V1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Recursive Language Models",
-      "url": "https://arxiv.org/abs/2512.24601",
-      "published": "2026-01-03T11:29:33",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://opengraph.githubassets.com/43be3ef12fb10adc1204567048eb0d6e7f213ff567e836e887e1ed7b27a87556/IQuestLab/IQuest-Coder-V1",
       "summary": "Summary unavailable."
     }
   ],
