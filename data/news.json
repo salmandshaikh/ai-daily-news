@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-03T08:14:23.369845",
+  "updated": "2026-01-03T12:03:13.309836",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "One in a million: celebrating the customers shaping AI\u2019s future",
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,16 +142,16 @@
       "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
       "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
       "published": "2026-01-03T04:01:03",
-      "image": "https://opengraph.githubassets.com/23aa2658e92a467e554ac7c7cf42ad057f794c0c009864f4f02af623079e625f/IQuestLab/IQuest-Coder-V1",
+      "image": "https://opengraph.githubassets.com/99383758c8bbd74f9337c194ef122d0dfecaff0f814049ee9d862e1bdb9ab394/IQuestLab/IQuest-Coder-V1",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Chain Flinger",
-      "url": "https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction",
-      "published": "2025-12-28T21:56:27",
-      "image": "data/images/24f4dc6e57472e481cb4a7dc0c9c93a2.png",
+      "title": "GitHub \u2013 tomasf/Cadova: Swift DSL for parametric 3D modeling",
+      "url": "https://github.com/tomasf/Cadova",
+      "published": "2025-12-31T09:16:58",
+      "image": "https://opengraph.githubassets.com/55c0af07951c9d5082727c4d89fc716a95e62ad1188088e2321a18a9036dc608/tomasf/Cadova",
       "summary": "Summary unavailable."
     }
   ],
