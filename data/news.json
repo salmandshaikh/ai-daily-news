@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-03T22:52:46.015253",
+  "updated": "2026-01-04T00:53:16.015849",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/openai-grove",
       "published": "Fri, 02 Jan 2026 10:00:00 GMT",
       "image": "data/images/db2d3b5aaede6b344b00941c39c1cf33.png",
-      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program that brings together a diverse group of individuals to collaborate and learn about AI safety and governance. This initiative aims to foster a community of experts who can help shape the development of responsible AI practices. By supporting this cohort, OpenAI is promoting a safer and more transparent AI ecosystem."
+      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program that brings together a diverse group of individuals to learn and work on AI-related projects. This initiative aims to foster collaboration, knowledge-sharing, and innovation in the field of artificial intelligence. By supporting the growth of AI talent, OpenAI's Grove Cohort 2 is poised to drive significant advancements in AI research and development."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
-      "summary": "OpenAI is continuously improving ChatGPT Atlas to defend against prompt injection attacks, which involve manipulating the model's inputs to elicit undesired responses. This hardening process aims to enhance the model's security and reliability, ensuring it provides accurate and safe interactions. By addressing prompt injection vulnerabilities, OpenAI is strengthening its AI model to better withstand potential exploits."
+      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to protect against prompt injection attacks, which involve manipulating the model with malicious input. This effort aims to improve the security and reliability of the AI system, ensuring it can withstand attempts to bypass its safeguards. By hardening ChatGPT Atlas, OpenAI is promoting a safer and more trustworthy user experience."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
-      "summary": "Microsoft is highlighting the innovative ways its customers are using AI to drive transformation and shape the future of the technology. From healthcare to finance, these pioneers are pushing the boundaries of what's possible with AI, driving breakthroughs and improvements in their industries. Their unique applications and use cases are helping to accelerate AI's potential and create a better future for all."
+      "summary": "Microsoft is highlighting the innovative ways its customers are using AI to shape the future, from transforming industries to improving daily lives. These pioneers are leveraging AI to drive breakthroughs and create new opportunities, demonstrating the vast potential of this technology. By showcasing these success stories, Microsoft aims to inspire others to explore the possibilities of AI and drive further innovation."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that enables AI systems to provide transparent and explainable decision-making processes. This innovation has the potential to increase trust in AI models by allowing users to monitor and understand the thought process behind their predictions. By achieving this, AI systems can become more reliable and accountable in high-stakes applications."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\" to better understand how AI models think and make decisions, enabling more transparent and trustworthy AI systems. This innovation has the potential to improve the reliability and accountability of AI applications across various industries. By monitoring AI thought processes, developers can identify and address biases, errors, and other issues more effectively."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to include new protections for teenagers, aiming to enhance online safety and limit potentially harmful interactions. The updated model focuses on reducing exposure to sensitive content and promoting a healthier digital environment for teens. This move highlights the company's efforts to prioritize user well-being, particularly among vulnerable age groups."
+      "summary": "Meta has updated its model specification to enhance protections for teenagers, introducing new safeguards to prevent minors from being exposed to harmful or age-inappropriate content. This move aims to create a safer online environment for teens, aligning with the company's commitment to user well-being. The updated model spec will help mitigate potential risks and ensure a more secure experience for young users."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to transform industries and improve daily life, from enhanced language understanding to more accurate healthcare diagnostics. By pushing the boundaries of what's possible, Google's research efforts are paving the way for a more futuristic and connected world."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to transform industries and improve daily life, from enhanced language understanding to improved healthcare outcomes. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological innovation and exploration."
     },
     {
       "source": "RSS",
@@ -61,8 +61,8 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid intelligence gathering, prioritizing speed and efficiency in its operations. This innovative technology aims to revolutionize the field of frontier intelligence by providing swift and accurate insights. By leveraging its advanced capabilities, Gemini 3 Flash has the potential to significantly impact various industries that rely on fast and reliable data analysis."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid processing and analysis, enabling faster decision-making and improved performance. This innovative technology is built to handle complex tasks with speed and accuracy, making it a game-changer in the field of artificial intelligence. With Gemini 3 Flash, users can expect enhanced efficiency and productivity in their workflows."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, specifically focusing on AI safety. By providing a platform for researchers to analyze and visualize language model outputs, Gemma Scope 2 enables the AI safety community to identify potential biases and flaws. This innovation has the potential to significantly improve the development of more reliable and trustworthy AI models."
+      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, particularly in the context of AI safety. By providing a platform for researchers to analyze and visualize language model outputs, Gemma Scope 2 facilitates a deeper understanding of AI decision-making processes. This innovation has the potential to significantly impact the development of more reliable and transparent AI systems."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement enhances the overall voice experience, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The updated models are expected to power more intuitive and responsive voice-based interfaces."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This improvement enhances the capabilities of voice assistants, allowing for better speech recognition and more natural interactions. The updated models are expected to power a wide range of applications, from virtual assistants to voice-controlled devices."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "Google is strengthening its partnership with the UK's AI Security Institute to advance AI security research and development. This collaboration aims to improve the security and trustworthiness of AI systems, addressing key challenges in the field. By working together, they hope to drive innovation and establish best practices for AI security."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security and develop innovative solutions. This collaboration aims to improve the safety and reliability of AI systems, addressing growing concerns around AI security. The partnership is expected to drive significant advancements in the field, benefiting both the industry and the public."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern large language models (LLMs). This innovation aims to prevent LLMs from generating harmful or misleading content by detecting and mitigating potential threats. By integrating AprielGuard, developers can significantly improve the reliability and trustworthiness of AI-powered language systems."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of large language models (LLMs). This innovation aims to protect LLMs from malicious inputs and improve their overall reliability. By integrating AprielGuard, developers can significantly reduce the risk of LLMs generating harmful or misleading content."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for easier integration with other libraries and models, streamlining the natural language processing workflow. By improving tokenization, the update enhances the overall efficiency and flexibility of transformer-based models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for more efficient and flexible text processing, enabling developers to easily customize and integrate tokenization models. The update is expected to improve the overall performance and usability of natural language processing applications."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a new benchmarking tool, and demonstrated its capabilities with the NeMo Evaluator on the NVIDIA Nemotron 3 Nano. This innovation enables more accurate and standardized performance measurements for AI models, promoting transparency and comparability in the field. By using the Open Evaluation Standard, developers can optimize their models and make more informed decisions about AI deployments."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a new benchmarking framework, and has tested it with the Nemotron 3 Nano using the NeMo Evaluator tool. This standard aims to provide a fair and transparent way to evaluate AI models, allowing for more accurate comparisons of performance. The Nemotron 3 Nano has shown impressive results, demonstrating the potential of the Open Evaluation Standard to drive innovation in AI development."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "The CUGA framework is now available on Hugging Face, making it easier for developers to create and customize AI agents. This democratization of configurable AI agents enables wider accessibility and innovation in the field, allowing users to tailor AI models to their specific needs. By lowering the barrier to entry, CUGA on Hugging Face has the potential to accelerate AI adoption and development across various industries."
+      "summary": "Hugging Face has introduced CUGA, a platform that democratizes access to configurable AI agents, allowing developers to easily create and customize AI models. This innovation enables a wider range of users to build and deploy AI solutions, regardless of their expertise level. By making AI more accessible, CUGA has the potential to accelerate AI adoption across various industries and applications."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
       "published": "Thu, 11 Dec 2025 15:47:44 GMT",
       "image": "data/images/9e52f6d76d137f455a9c2048043195da.png",
-      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily manage and switch between different AI models. This innovation enhances the flexibility and customization of the llama.cpp framework, enabling developers to experiment with various models and tailor their applications to specific needs. By streamlining model management, this update simplifies the development process and expands the potential applications of llama.cpp."
+      "summary": "The latest update to llama.cpp introduces model management capabilities, allowing users to easily switch between different AI models and versions. This innovation enhances flexibility and customization, enabling developers to experiment with various models and optimize their applications. By streamlining model management, llama.cpp further solidifies its position as a versatile and user-friendly AI framework."
     },
     {
       "source": "Hacker News",
@@ -143,7 +143,16 @@
       "url": "https://arxiv.org/abs/2510.25741",
       "published": "2026-01-03T21:34:33",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Researchers have introduced a new approach called \"Looped Language Models\" that enables latent reasoning to scale more efficiently, allowing AI models to better understand and generate human-like language. This innovation has the potential to significantly improve natural language processing tasks, such as text summarization and question-answering. By leveraging looped language models, AI systems can learn to reason and understand complex contexts more effectively."
+      "summary": "Researchers have introduced a novel approach called \"looped language models\" that enables latent reasoning to scale more efficiently, allowing AI models to better understand and generate human-like text. This innovation has the potential to significantly improve natural language processing capabilities, enabling more accurate and informative responses. By leveraging this technology, AI systems can become more effective at understanding complex contexts and generating coherent text."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Comparing benefits of every-third-day vs. daily low-dose aspirin therapy (2001)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11190906/",
+      "published": "2026-01-03T23:10:30",
+      "image": "data/images/9fab4512a28c1c55a092d26337ee854a.png",
+      "summary": "This study from 2001 compares the benefits of taking low-dose aspirin every day versus every third day, with a focus on cardiovascular health. The research aims to determine the most effective regimen for preventing heart attacks and strokes. The findings could have significant implications for public health, as aspirin therapy is a common preventative measure for cardiovascular disease."
     },
     {
       "source": "Hacker News",
@@ -152,26 +161,17 @@
       "url": "https://arxiv.org/abs/2512.24601",
       "published": "2026-01-03T11:29:33",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Recursive language models have been introduced, enabling AI to generate text based on its own previous outputs, creating a self-improving loop. This innovation has the potential to significantly enhance language understanding and generation capabilities. By leveraging recursive feedback, these models can refine their responses and produce more coherent and contextually relevant text."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cadova: Swift DSL for parametric 3D modeling",
-      "url": "https://github.com/tomasf/Cadova",
-      "published": "2025-12-31T09:16:58",
-      "image": "https://opengraph.githubassets.com/a54af59496239e4e66bc8b8ccba4167ae2f5c5b6187bb48605f2add04ccd460c/tomasf/Cadova",
-      "summary": "Cordova is a new Swift-based domain-specific language (DSL) that enables parametric 3D modeling, allowing developers to create complex 3D models using a simple and intuitive syntax. This innovation has the potential to revolutionize fields such as architecture, product design, and gaming by streamlining the 3D modeling process. With Cadova, developers can generate 3D models programmatically, opening up new possibilities for automation and customization."
+      "summary": "Recursive language models are being explored for their potential to revolutionize natural language processing by allowing models to generate text based on their own previous outputs. This innovation enables the creation of more coherent and contextually aware language generation, with potential applications in chatbots, writing assistants, and content creation. By leveraging recursive architectures, these models can learn to refine their own outputs, leading to more accurate and engaging text generation."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 119,
-    "date": "2026-01-03",
+    "duration": 108,
+    "date": "2026-01-04",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 8
+    "segments": 9
   }
 }
