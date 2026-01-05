@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-05T12:20:43.579316",
+  "updated": "2026-01-05T16:15:39.931007",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/openai-grove",
       "published": "Fri, 02 Jan 2026 10:00:00 GMT",
       "image": "data/images/db2d3b5aaede6b344b00941c39c1cf33.png",
-      "summary": "OpenAI has announced the launch of Grove Cohort 2, a new program aimed at fostering innovation and collaboration among AI researchers and developers. This initiative will bring together a diverse group of experts to advance the field of artificial intelligence and drive breakthroughs in AI research. By facilitating knowledge sharing and collaboration, Grove Cohort 2 has the potential to accelerate AI development and unlock new possibilities."
+      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program aimed at fostering innovation and collaboration among AI researchers and developers. This initiative brings together talented individuals to work on cutting-edge AI projects, driving advancements in the field. By supporting this cohort, OpenAI is further accelerating the development of AI technologies and their potential to transform industries."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
-      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to defend against prompt injection attacks, which involve manipulating the model's input to elicit undesired responses. This effort aims to improve the model's security and reliability, ensuring users receive accurate and trustworthy information. By hardening ChatGPT Atlas, OpenAI is mitigating potential risks and strengthening its AI technology."
+      "summary": "OpenAI is continuously strengthening ChatGPT Atlas to prevent prompt injection attacks, which involve manipulating the model with malicious inputs. This effort aims to enhance the security and reliability of the AI chatbot, protecting users from potential exploits. By hardening ChatGPT Atlas, OpenAI is improving its resilience against evolving threats and ensuring a safer user experience."
     },
     {
       "source": "RSS",
@@ -25,8 +25,8 @@
       "title": "One in a million: celebrating the customers shaping AI\u2019s future",
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
-      "summary": "Microsoft is highlighting the innovative ways its customers are using AI to shape the future, from transforming industries to improving daily lives. These trailblazers are leveraging AI to drive breakthroughs and solve complex problems, paving the way for a more intelligent and automated world. By showcasing these success stories, Microsoft aims to inspire others to explore the vast potential of AI and its impact on society."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Microsoft is highlighting the innovative ways its customers are using AI to drive transformation and shape the future of the technology. From healthcare to finance, these pioneers are pushing the boundaries of what's possible with AI, driving breakthroughs and advancements. Their unique applications and use cases are helping to refine and improve AI, ultimately benefiting millions of people worldwide."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that enables AI models to provide step-by-step reasoning for their decisions, making them more transparent and trustworthy. This innovation has the potential to increase accountability in AI decision-making, particularly in high-stakes applications. By monitoring the thought process behind AI-driven decisions, developers can identify biases and improve overall model performance."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that enables AI models to provide transparent and explainable reasoning processes. This innovation has the potential to increase trust in AI decision-making by allowing users to monitor and understand the thought process behind AI-generated responses. By promoting transparency, chain-of-thought monitorability can significantly enhance the reliability and accountability of AI systems."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to include enhanced teen protections, aiming to improve safety and well-being for teenage users. The new specifications focus on limiting harmful or explicit content and ensuring a more secure online environment. This update reflects the company's efforts to prioritize user safety, particularly for vulnerable age groups."
+      "summary": "Meta has updated its model specifications to include stronger protections for teens, aiming to enhance their online safety and well-being. The new guidelines focus on limiting sensitive content and interactions for teenage users. This move is part of a broader effort to create a safer and more responsible online environment for young people."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and emerging technologies. These innovations have the potential to transform industries and improve daily life, from enhanced language understanding to more efficient computer vision. The breakthroughs demonstrate Google's ongoing commitment to pushing the boundaries of technological innovation and exploration."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing the company's advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive meaningful impact across various industries, from healthcare to environmental sustainability. With these breakthroughs, Google is paving the way for a more technologically advanced and interconnected future."
     },
     {
       "source": "RSS",
@@ -61,8 +61,8 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid information processing and analysis. This innovative technology is built for speed, enabling faster decision-making and real-time insights. By leveraging advanced algorithms and AI, Gemini 3 Flash is poised to revolutionize the field of intelligence gathering and analysis."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid information processing, enabling faster and more efficient intelligence gathering. This innovative technology prioritizes speed, making it ideal for applications that require swift data analysis and decision-making. By accelerating intelligence capabilities, Gemini 3 Flash has the potential to revolutionize industries that rely on swift and accurate data insights."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 tool has been released to aid the AI safety community in better understanding complex language model behavior, enabling researchers to analyze and identify potential biases and flaws. This innovation aims to deepen the understanding of AI decision-making processes, promoting more transparent and reliable language models. By providing insights into language model behavior, Gemma Scope 2 can help mitigate risks associated with AI systems."
+      "summary": "The Gemma Scope 2 tool has been released to aid the AI safety community in better understanding complex language model behavior, enabling researchers to analyze and mitigate potential risks. This innovative platform provides in-depth insights into language models, helping to identify and address safety concerns. By deepening our understanding of these models, Gemma Scope 2 contributes to the development of more reliable and trustworthy AI systems."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement is expected to enhance voice experiences, such as voice assistants and voice-to-text features, with better speech recognition and transcription. The updated models will likely lead to more seamless and intuitive interactions with voice-powered devices and services."
+      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice experiences. These improvements allow for better speech recognition, music and audio classification, and other voice-related capabilities. The upgraded models will power a range of applications, from virtual assistants to voice-controlled devices, with enhanced precision and reliability."
     },
     {
       "source": "RSS",
@@ -89,16 +89,16 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to drive innovation in AI-powered security solutions, enhancing protection against emerging threats. The partnership is expected to yield cutting-edge technologies and expertise, shaping the future of AI security."
+      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to develop cutting-edge AI solutions and address emerging security challenges. The partnership is expected to drive significant advancements in the field of AI security and have a positive impact on the industry."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Introducing Falcon H1R 7B",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-h1r-7b",
-      "published": "Mon, 05 Jan 2026 09:26:24 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "The Falcon H1R 7B is a newly introduced AI model, boasting 7 billion parameters for advanced natural language processing capabilities. This innovation promises to enhance language understanding and generation, with potential applications in areas like chatbots, language translation, and content creation. The Falcon H1R 7B's impressive scale is expected to drive significant improvements in AI-driven conversations and text analysis."
+      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+      "published": "Mon, 05 Jan 2026 09:16:51 GMT",
+      "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a novel AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI paradigms to achieve state-of-the-art results in Arabic language processing tasks. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, such as language translation and text summarization, for Arabic-speaking communities."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of large language models (LLMs). This innovative guardrail system detects and mitigates potential risks and biases in LLMs, ensuring more reliable and trustworthy outputs. By integrating AprielGuard, developers can significantly improve the overall performance and security of modern LLM systems."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative approach acts as a guardrail, detecting and mitigating potential risks and vulnerabilities in LLM systems. By doing so, AprielGuard aims to improve the overall reliability and trustworthiness of AI models in real-world applications."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This new design allows for more flexibility and customization, enabling developers to better tailor their models to specific tasks and languages. The update aims to improve overall model performance and efficiency, paving the way for more accurate and effective natural language processing applications."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This change allows for more flexible and customizable tokenization, enabling developers to better fine-tune their models for specific tasks and languages. The update aims to improve the overall performance and efficiency of transformer-based models, a key innovation in natural language processing."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
       "published": "Wed, 17 Dec 2025 13:22:18 GMT",
       "image": "data/images/f51a4c1f3d105667522b84e3e0bfd655.png",
-      "summary": "NVIDIA has introduced the Open Evaluation Standard, a benchmarking tool that assesses the performance of AI models, with the NeMo Evaluator being used to test the NVIDIA Nemotron 3 Nano. This standard aims to provide a transparent and consistent way to evaluate AI models, enabling more accurate comparisons and driving innovation in the field. The Open Evaluation Standard has the potential to accelerate AI development by establishing a common framework for benchmarking and evaluation."
+      "summary": "NVIDIA has introduced the Open Evaluation Standard, a new benchmarking framework, and has tested it with their Nemotron 3 Nano using the NeMo Evaluator tool. This standard aims to provide a fair and transparent way to evaluate AI models, allowing for more accurate comparisons and advancements in the field. The Nemotron 3 Nano has shown promising results, demonstrating the potential of the Open Evaluation Standard to drive innovation in AI development."
     },
     {
       "source": "RSS",
@@ -134,16 +134,16 @@
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "published": "Mon, 15 Dec 2025 16:01:04 GMT",
       "image": "data/images/365ced6c8699588557c50ea5ea83387c.png",
-      "summary": "Hugging Face has introduced CUGA, a platform that enables users to create and configure AI agents with ease, democratizing access to customizable AI models. This innovation allows developers to design and train AI agents tailored to specific tasks and applications, without requiring extensive expertise. By making AI more accessible, CUGA has the potential to accelerate innovation and adoption across various industries."
+      "summary": "Hugging Face has introduced CUGA, a platform that enables users to create and customize AI agents with ease, democratizing access to configurable AI models. This innovation allows developers to design and train AI agents tailored to specific tasks and applications, promoting greater flexibility and control. By making CUGA available, Hugging Face aims to lower the barriers to entry for AI development and foster a more diverse range of AI-powered solutions."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Anna's Archive Loses .Org Domain After Surprise Suspension",
+      "title": "Anna's Archive loses .org domain after surprise suspension",
       "url": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
       "published": "2026-01-05T10:23:32",
       "image": "https://torrentfreak.com/images/books-long.png",
-      "summary": "Anna's Archive, a popular platform for preserving and sharing software and digital artifacts, has lost its .org domain due to a surprise suspension. The unexpected move has sparked concerns about the fragility of online archives and the importance of decentralized infrastructure. The suspension highlights the need for alternative domain systems and backup strategies to ensure the long-term preservation of digital content."
+      "summary": "Anna's Archive, a popular repository of software and archival materials, has lost its .org domain due to a surprise suspension, sparking concerns over internet censorship and the fragility of online archives. The sudden loss of the domain has made the site inaccessible, highlighting the vulnerability of online repositories to external control. The suspension's cause and implications are still unclear, prompting discussions among the tech community."
     },
     {
       "source": "Hacker News",
@@ -152,39 +152,21 @@
       "url": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
       "published": "2026-01-05T02:36:20",
       "image": "https://images.ctfassets.net/fczckc3dt6mv/4Shcl6IRqCmg5VYJkRqzV9/5100e6c51ba572f9b75b5589f77bb1b6/j-winn_11-19.png",
-      "summary": "As Hurricane Helene approached, a developer expressed a desire for a simple, plain text website that could withstand heavy traffic and provide essential information without the risk of crashing. This sparked a discussion on the importance of minimalism and accessibility in web design, particularly during times of crisis. The idea highlights the value of simplicity and reliability in online platforms when it matters most."
+      "summary": "As Hurricane Helene approached, a developer yearned for a simple, low-bandwidth website to stay informed, highlighting the need for plain text alternatives to resource-intensive websites. This desire sparked a discussion on the importance of accessibility and simplicity in web design, particularly during times of crisis. The conversation emphasized the value of minimalistic websites that can function with limited internet connectivity."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Building a Rust-style static analyzer for C++ with AI",
-      "url": "http://mpaxos.com/blog/rusty-cpp.html",
-      "published": "2026-01-05T05:11:59",
-      "image": "data/images/568cfb71fe59822974c3e9f7717899cf.png",
-      "summary": "Researchers are developing a Rust-style static analyzer for C++ using artificial intelligence, aiming to improve the language's memory safety and error detection capabilities. This innovative approach leverages AI to identify potential bugs and vulnerabilities in C++ code, similar to Rust's compile-time checks. By integrating AI-powered analysis, C++ developers may soon benefit from enhanced code reliability and security."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Web development is fun again",
-      "url": "https://ma.ttias.be/web-development-is-fun-again/",
-      "published": "2026-01-04T15:00:18",
-      "image": "https://ma.ttias.be//social-share-images/web-development-is-fun-again.png",
-      "summary": "The web development landscape is experiencing a resurgence in excitement, driven by innovative tools and frameworks that simplify the development process. New technologies are making it easier for developers to build fast, scalable, and secure applications, rekindling the joy of web development. This shift is empowering developers to focus on creativity and problem-solving, rather than getting bogged down in complex infrastructure."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Eurostar AI vulnerability: When a chatbot goes off the rails",
-      "url": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
-      "published": "2026-01-04T20:52:52",
-      "image": "https://www.pentestpartners.com/wp-content/uploads/2025/12/Ross-Ai-eurostar-headlinev3-1024x576.png",
-      "summary": "Eurostar's chatbot was found to have a significant AI vulnerability, allowing hackers to access sensitive customer information. The vulnerability, discovered by a security researcher, highlights the potential risks of relying on AI-powered chatbots for customer support. This incident serves as a reminder for companies to prioritize the security of their AI systems to protect user data."
+      "title": "All AI Videos Are Harmful (2025)",
+      "url": "https://idiallo.com/blog/all-ai-videos-are-harmful",
+      "published": "2026-01-05T13:44:59",
+      "image": "https://cdn.idiallo.com/images/assets/594/thumb.jpg",
+      "summary": "A recent post on Hacker News claims that all AI-generated videos pose a threat, as they can be used to spread misinformation and manipulate public opinion. The post highlights the potential harm of deepfakes and AI-generated content, which can be nearly indistinguishable from reality. As AI video technology advances, concerns about its impact on truth and trust in media are growing."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 113,
+    "duration": 112,
     "date": "2026-01-05",
     "speakers": [
       "Alex",
