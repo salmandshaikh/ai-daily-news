@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T00:46:56.598295",
+  "updated": "2026-01-06T04:32:03.837156",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/openai-grove",
       "published": "Fri, 02 Jan 2026 10:00:00 GMT",
       "image": "data/images/db2d3b5aaede6b344b00941c39c1cf33.png",
-      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program aimed at supporting and accelerating the development of AI-powered projects. This initiative will provide selected participants with access to resources, mentorship, and funding to help them bring their innovative ideas to life. By fostering a community of AI entrepreneurs and researchers, OpenAI's Grove Cohort 2 is poised to drive cutting-edge advancements in the field of artificial intelligence."
+      "summary": "OpenAI has announced the launch of Grove Cohort 2, a new program aimed at fostering innovation and collaboration among AI researchers and developers. This initiative brings together talented individuals to advance the field of artificial intelligence and drive cutting-edge research. By supporting this community, OpenAI aims to accelerate breakthroughs and applications in AI."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
-      "summary": "Researchers are continuously working to strengthen ChatGPT Atlas against prompt injection attacks, which involve manipulating the model with malicious inputs. This effort aims to improve the model's security and reliability, ensuring it can withstand attempts to exploit its vulnerabilities. By hardening ChatGPT Atlas, developers can better protect users from potential threats and maintain the integrity of the AI system."
+      "summary": "OpenAI is continuously improving ChatGPT Atlas to defend against prompt injection attacks, which attempt to manipulate the model's responses. This hardening process aims to enhance the model's security and reliability, ensuring it provides accurate and trustworthy information. By mitigating prompt injection vulnerabilities, ChatGPT Atlas can better maintain its integrity and provide safer interactions with users."
     },
     {
       "source": "RSS",
@@ -25,8 +25,8 @@
       "title": "One in a million: celebrating the customers shaping AI\u2019s future",
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A new initiative is highlighting the crucial role of customers in shaping the future of Artificial Intelligence (AI), with one in a million users driving innovation through feedback and collaboration. These customers are helping to refine AI models and develop new applications, pushing the boundaries of what is possible with the technology. By working closely with these forward-thinking users, companies can accelerate AI development and create more effective solutions."
+      "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
+      "summary": "A recent celebration highlighted the crucial role of customers in shaping the future of Artificial Intelligence (AI). These innovators, one in a million, are leveraging AI to drive transformative change in their industries and communities. By pushing the boundaries of what's possible with AI, they're paving the way for groundbreaking advancements and applications."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers have introduced a new framework for evaluating the \"chain-of-thought\" monitorability of AI models, enabling more transparent and explainable decision-making processes. This innovation has the potential to increase trust in AI systems by providing a clearer understanding of their thought processes. By monitoring and evaluating these chains of thought, developers can create more reliable and accountable AI models."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that enables AI systems to provide transparent and explainable decision-making processes. This innovation has the potential to increase trust in AI models by allowing users to monitor and understand the thought process behind their predictions. By doing so, it can improve the reliability and accountability of AI-driven applications."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to include enhanced protections for teenagers, aiming to provide a safer online environment. The new spec prioritizes teen safety and well-being, with a focus on minimizing potential harm. This update reflects the company's commitment to creating a more secure and responsible social media experience for young users."
+      "summary": "Meta has updated its model specification to include additional protections for teenagers, aiming to enhance online safety and security for younger users. This update focuses on limiting suspicious interactions and promoting a safer environment for teens. The new specification is part of Meta's ongoing efforts to prioritize user well-being and protection."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing the company's advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impacts in fields such as healthcare, sustainability, and education. From improved language models to enhanced computer vision, Google's research efforts are pushing the boundaries of what is possible with technology."
+      "summary": "Google's 2025 year in review highlights 8 key areas of research breakthroughs, showcasing significant advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to transform industries and improve daily life, from enhanced language understanding to more accurate health diagnostics. By pushing the boundaries of what's possible, Google's research efforts are paving the way for a more technologically advanced future."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid intelligence gathering, leveraging advanced technologies to deliver swift and accurate insights. This innovation enables faster decision-making and enhanced productivity, making it a game-changer in various industries. With its lightning-fast capabilities, Gemini 3 Flash is poised to revolutionize the way organizations process and analyze complex data."
+      "summary": "Gemini 3 Flash is a new AI model designed for speed and efficiency, enabling faster processing of complex tasks and queries. This cutting-edge technology has the potential to revolutionize various industries with its rapid intelligence capabilities. By prioritizing speed, Gemini 3 Flash aims to deliver swift and accurate insights, transforming the way we interact with AI systems."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a deeper understanding of complex language model behavior. This initiative will enable researchers to analyze and interpret the decision-making processes of large language models, helping to identify potential biases and flaws. By shedding light on these complex models, Gemma Scope 2 can contribute to the development of more reliable and trustworthy AI systems."
+      "summary": "The Gemma Scope 2 tool has been introduced to aid the AI safety community in better understanding complex language model behavior, enabling researchers to analyze and identify potential biases and flaws. This innovation aims to deepen the understanding of AI decision-making processes, promoting more transparent and reliable language models. By leveraging Gemma Scope 2, researchers can develop more effective safety protocols and improve overall AI performance."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for smoother interactions with virtual assistants and other voice-powered technologies. The improved models are expected to significantly boost the overall quality of voice-activated services."
+      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice experiences. These improvements allow for better speech recognition, music processing, and overall audio understanding, paving the way for more sophisticated voice-activated applications. The upgraded models will enhance the performance of various voice-powered devices and services."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has strengthened its partnership with the UK AI Security Institute to enhance AI-powered security solutions. This collaboration aims to develop innovative technologies that protect against emerging cyber threats. The partnership will drive cutting-edge research and development in AI security, benefiting both the industry and the public sector."
+      "summary": "A major tech company is strengthening its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, driving innovation in the field. The partnership is expected to have a significant impact on the development of more secure and reliable AI technologies."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments. This innovation allows AI systems to better understand and interact with the physical world, paving the way for more sophisticated robotics and autonomous systems. By integrating reasoning and physics, Cosmos Reason 2 has the potential to revolutionize industries such as manufacturing, logistics, and healthcare."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities for physical systems, allowing robots and autonomous systems to better understand and interact with their environment. This innovation has the potential to revolutionize industries such as robotics, healthcare, and manufacturing by enabling more intelligent and adaptive machines. With Cosmos Reason 2, NVIDIA is pushing the boundaries of AI capabilities, enabling more sophisticated decision-making and problem-solving in complex physical systems."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a revolutionary AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This breakthrough technology combines the strengths of different AI approaches to achieve state-of-the-art results in Arabic language processing tasks. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, including language translation, text summarization, and chatbots."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI technologies to achieve state-of-the-art results in Arabic language processing tasks. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a powerful combination that brings artificial intelligence (AI) agents to life, enabling developers to create interactive and autonomous robots. The Reachy Mini is a compact robot that can be programmed using NVIDIA's DGX Spark platform, allowing for advanced AI capabilities and human-like interactions. This innovation has the potential to revolutionize industries such as healthcare, education, and entertainment with interactive and intelligent robots."
+      "summary": "NVIDIA has introduced DGX Spark and Reachy Mini, innovative tools that enable the creation of lifelike agents, revolutionizing the field of robotics and AI. These solutions allow developers to build and train interactive, humanoid robots that can learn and adapt in complex environments. With DGX Spark and Reachy Mini, NVIDIA is pushing the boundaries of AI-powered robotics and human-robot interaction."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovation aims to protect LLMs from malicious inputs and improve their overall reliability. By integrating AprielGuard, developers can significantly reduce the risk of AI models being exploited or manipulated for harmful purposes."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of large language models (LLMs). This innovation aims to protect LLMs from potential attacks and biases, ensuring more reliable and trustworthy outputs. By integrating AprielGuard, developers can significantly improve the overall security and performance of modern LLM systems."
     },
     {
       "source": "RSS",
@@ -134,16 +134,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This new system allows for more flexible and customizable tokenization, enabling developers to better preprocess and analyze text data. The update aims to improve the overall performance and efficiency of natural language processing (NLP) models."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Tailsnitch \u2013 A security auditor for Tailscale",
-      "url": "https://github.com/Adversis/tailsnitch",
-      "published": "2026-01-05T16:47:23",
-      "image": "https://opengraph.githubassets.com/7b4e477200088c7c61e7a5c3d52739a9ddb22f70323c442851a838f0a2f42c8b/Adversis/tailsnitch",
-      "summary": "Tailsnitch is a new security auditor tool designed for Tailscale, a popular zero-config VPN service, helping users identify and fix potential security vulnerabilities in their networks. This innovative tool aims to enhance the security and reliability of Tailscale connections, providing users with greater peace of mind. By streamlining the auditing process, Tailsnitch makes it easier for users to ensure their networks are secure and compliant."
+      "summary": "The latest version of Transformers, v5, introduces a revamped tokenization system that is simpler, more modular, and easier to understand. This update enables more efficient and flexible text processing, allowing developers to better customize and fine-tune their models. By streamlining tokenization, the new version aims to improve overall performance and usability of the Transformers library."
     },
     {
       "source": "Hacker News",
@@ -152,26 +143,53 @@
       "url": "https://arxiv.org/abs/1803.03635",
       "published": "2026-01-02T22:53:53",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Researchers have introduced the \"Lottery Ticket Hypothesis\", a method that can reduce the number of parameters in neural networks by up to 90% while maintaining their accuracy. This breakthrough allows for the creation of sparse, trainable neural networks that are more efficient and require less computational power. By pruning unnecessary connections, the hypothesis enables faster training and deployment of AI models, making them more accessible and scalable."
+      "summary": "Researchers have proposed the \"Lottery Ticket Hypothesis\", a method that can reduce neural network parameters by up to 90% while maintaining performance. This approach identifies sparse, trainable sub-networks within larger models, enabling more efficient training and deployment. By doing so, it has the potential to significantly reduce computational costs and improve the scalability of deep learning models."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Boston Dynamics and DeepMind form new AI partnership",
-      "url": "https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/",
-      "published": "2026-01-05T21:06:13",
-      "image": "https://bostondynamics.com/wp-content/uploads/2026/01/atlas-full-body-sq.jpg",
-      "summary": "Boston Dynamics and DeepMind have formed a new AI partnership, combining their expertise in robotics and artificial intelligence to drive innovation in areas like robotics and machine learning. This collaboration is expected to lead to significant advancements in AI-powered robotics, enabling more sophisticated and autonomous systems. The partnership brings together two leaders in their respective fields, promising to accelerate breakthroughs in AI and robotics research."
+      "title": "Raindrop-Powered Generator Using Carbon Fiber Composites",
+      "url": "https://en.sedaily.com/technology/2025/12/15/unist-develops-raindrop-powered-generator-using-carbon",
+      "published": "2025-12-30T17:20:02",
+      "image": "https://newsimg.sedaily.com/2025/12/15/2H1QNBR90H_1.jpg",
+      "summary": "Researchers have developed a raindrop-powered generator using carbon fiber composites, which can harness the energy from raindrops to produce electricity. This innovative technology has the potential to provide a sustainable and eco-friendly source of power, particularly in areas with high rainfall. The use of carbon fiber composites enables the generator to be lightweight, durable, and efficient, making it a promising solution for off-grid energy generation."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Tailsnitch \u2013 A security auditor for Tailscale",
+      "url": "https://github.com/Adversis/tailsnitch",
+      "published": "2026-01-05T16:47:23",
+      "image": "https://opengraph.githubassets.com/ac8cacfe490777f53a4825a3725de71dd2009ac23a6770fbae529acd4c0a1572/Adversis/tailsnitch",
+      "summary": "Tailsnitch is a new security auditor tool designed for Tailscale, a popular zero-config VPN service, to help identify and fix potential security vulnerabilities. This open-source tool scans Tailscale configurations to detect issues such as overly permissive access controls and insecure key management. By using Tailsnitch, users can strengthen their Tailscale setup and reduce the risk of security breaches."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Scientific production in the era of large language models [pdf]",
+      "url": "https://gwern.net/doc/science/2025-kusumegi.pdf",
+      "published": "2026-01-05T21:33:29",
+      "image": "data/images/f6d860c6ffefa2be75290792d667e8f1.png",
+      "summary": "A new study explores the impact of large language models on scientific production, highlighting their potential to accelerate research and discovery. These models can assist with tasks such as literature review, data analysis, and even generating new hypotheses, revolutionizing the way scientists work. By automating routine tasks, large language models can free up researchers to focus on higher-level thinking and innovation."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why didn't AI \u201cjoin the workforce\u201d in 2025?",
+      "url": "https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/",
+      "published": "2026-01-05T22:10:15",
+      "image": "https://calnewport.com/wp-content/uploads/2026/01/Newsletter-Images-22-1.png",
+      "summary": "Despite predictions, AI did not fully integrate into the workforce in 2025, with experts citing limitations in common sense, emotional intelligence, and human judgment as major hurdles. The technology still requires significant human oversight and input to operate effectively, hindering its ability to fully replace human workers. As a result, AI remains a tool to augment human capabilities rather than a replacement for them."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 122,
+    "duration": 117,
     "date": "2026-01-06",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 10
+    "segments": 8
   }
 }
