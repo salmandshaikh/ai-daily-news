@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T16:03:32.766242",
+  "updated": "2026-01-06T20:03:17.353805",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/openai-grove",
       "published": "Fri, 02 Jan 2026 10:00:00 GMT",
       "image": "data/images/db2d3b5aaede6b344b00941c39c1cf33.png",
-      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program that brings together a diverse group of individuals to build and innovate with AI. This cohort aims to foster collaboration and drive innovation in AI research and development. By supporting talented individuals, OpenAI hopes to accelerate breakthroughs and advancements in the field of artificial intelligence."
+      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program aimed at supporting and accelerating the growth of AI startups and innovators. This initiative provides selected participants with access to resources, mentorship, and funding to develop and scale their AI-powered projects. By fostering collaboration and innovation, Grove Cohort 2 is poised to drive significant advancements in the field of artificial intelligence."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
-      "summary": "Researchers are continuously working to strengthen ChatGPT Atlas against prompt injection attacks, which involve manipulating the model's responses with malicious input. This effort aims to improve the model's security and reliability, ensuring it provides accurate and trustworthy information. By hardening ChatGPT Atlas, developers can mitigate potential risks and enhance user experience."
+      "summary": "OpenAI is continuously updating ChatGPT Atlas to protect against prompt injection attacks, which attempt to manipulate the model's responses for malicious purposes. These updates aim to improve the model's security and robustness, ensuring more reliable and trustworthy interactions. By hardening ChatGPT Atlas, OpenAI is reducing the risk of potential exploits and enhancing user safety."
     },
     {
       "source": "RSS",
@@ -25,8 +25,8 @@
       "title": "One in a million: celebrating the customers shaping AI\u2019s future",
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Microsoft is highlighting the innovative ways its customers are using AI to shape the future, from transforming healthcare to revolutionizing education. These pioneers are pushing the boundaries of what's possible with AI, driving breakthroughs and creating new opportunities. By showcasing their stories, Microsoft aims to inspire others to explore the vast potential of AI and its impact on various industries."
+      "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
+      "summary": "Microsoft is highlighting the innovative ways its customers are utilizing AI, from transforming healthcare to revolutionizing education. These pioneers are shaping the future of AI, leveraging tools like machine learning and natural language processing to drive meaningful impact. By showcasing these success stories, Microsoft aims to inspire others to explore the vast potential of AI and create their own unique solutions."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
       "published": "Thu, 18 Dec 2025 12:00:00 GMT",
       "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that evaluates the ability to track and understand the decision-making process of AI models. This innovation aims to improve transparency and trust in AI systems by providing insights into their thought processes. By monitoring these chains of thought, developers can identify potential biases and errors, leading to more reliable and accountable AI decision-making."
+      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a concept that evaluates the transparency and explainability of AI decision-making processes. This innovation aims to provide a clearer understanding of how AI models arrive at their conclusions, enhancing trust and reliability in AI systems. By monitoring the thought process behind AI decisions, developers can identify potential biases and improve overall model performance."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
       "published": "Thu, 18 Dec 2025 11:00:00 GMT",
       "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to include new teen protections, aiming to enhance safety and security for teenage users on its platforms. The updated model focuses on limiting interactions between teens and adults they don't know, and introduces new features to prevent online harassment. This move marks a significant step towards creating a safer online environment for young users."
+      "summary": "Meta has updated its model specification to include new protections for teenagers, aiming to enhance online safety and security for younger users. The updated model focuses on limiting sensitive content and interactions, promoting a healthier online environment. This move highlights the company's efforts to prioritize teen well-being and digital safety."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive meaningful impact across various industries and aspects of life. From improved language understanding to enhanced computer vision, Google's research efforts are pushing the boundaries of what is possible with technology."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to transform industries and improve daily life, from enhanced language understanding to more efficient computer vision. The breakthroughs demonstrate Google's ongoing commitment to pushing the boundaries of technological innovation and exploration."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid information processing and analysis. This innovative tool is built to provide swift insights, enabling users to make informed decisions quickly. By prioritizing speed, Gemini 3 Flash aims to revolutionize the way organizations approach data-driven decision making."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid information processing and analysis. This innovative technology is built for speed, enabling faster decision-making and real-time insights. With Gemini 3 Flash, users can unlock new levels of efficiency and productivity in their workflows."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to enhance the AI safety community's understanding of complex language model behavior, facilitating deeper insights into their decision-making processes. By providing a platform for analysis, Gemma Scope 2 enables researchers to identify potential biases and flaws in language models, ultimately contributing to the development of more reliable and trustworthy AI systems. This innovation has the potential to significantly impact the field of AI safety and transparency."
+      "summary": "The Gemma Scope 2 initiative aims to advance AI safety by providing the community with tools to better comprehend complex language model behavior. This effort focuses on analyzing and understanding the decision-making processes of large language models, enabling researchers to identify potential risks and biases. By deepening this understanding, the AI safety community can develop more effective strategies to mitigate potential issues and create more reliable AI systems."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This improvement allows for better speech recognition, music and audio processing, and overall enhanced voice interactions. The enhanced Gemini models will power a range of applications, from virtual assistants to voice-controlled devices."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation allows for better speech recognition, music and audio processing, and overall improved voice interactions. The enhanced models will power various applications, from virtual assistants to podcast and music streaming services."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A major tech company is strengthening its partnership with the UK AI Security Institute to advance AI-powered security solutions. This collaboration aims to enhance threat detection and response capabilities, promoting a safer digital landscape. By combining expertise, the partnership seeks to drive innovation in AI-driven security and protect against emerging cyber threats."
+      "summary": "A new partnership has been formed with the UK AI Security Institute to advance AI security research and development. This collaboration aims to drive innovation in AI-powered security solutions, enhancing protection against emerging threats. The partnership is expected to yield cutting-edge security technologies and expertise, benefiting both organizations and the broader cybersecurity community."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments. This innovation allows AI systems to better understand and interact with the physical world, opening up new possibilities for applications such as robotics and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of AI capabilities, enabling more intelligent and autonomous machines."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, logistics, and healthcare by enhancing the autonomy and decision-making abilities of AI-powered systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of physical AI, enabling more intelligent and adaptive machines that can learn and respond to complex situations."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a novel AI model that utilizes a hybrid architecture to improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to push the boundaries of Arabic language processing. By enhancing Arabic language AI, Falcon-H1-Arabic has the potential to revolutionize various applications, from language translation to text summarization, in the Arabic-speaking world."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI technologies to push the boundaries of Arabic language processing, enabling more accurate and efficient communication. Falcon-H1-Arabic has the potential to revolutionize Arabic language AI applications, from chatbots to language translation tools."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a pair of innovative tools that bring artificial intelligence (AI) agents to life. DGX Spark is a cloud-based platform that enables developers to create and train AI models, while Reachy Mini is a miniature robot that can interact with its environment and learn from experiences. This combination has the potential to revolutionize fields such as robotics, gaming, and education by creating more realistic and interactive AI-powered experiences."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a pair of innovative platforms that enable the creation of lifelike AI agents. DGX Spark is a cloud-based service for building and training AI models, while Reachy Mini is a miniature robot designed for human-robot interaction. These tools have the potential to revolutionize fields such as robotics, healthcare, and education by making AI more accessible and interactive."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of large language models (LLMs). This innovative approach acts as a \"guardrail\" to detect and mitigate potential hazards, ensuring more reliable and trustworthy AI interactions. By integrating AprielGuard, LLM systems can better withstand adversarial attacks and provide more secure outputs."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of large language models (LLMs). This innovative approach acts as a \"guardrail\" to detect and mitigate potential risks, ensuring more reliable and secure interactions with LLM systems. By integrating AprielGuard, developers can significantly improve the trustworthiness of AI-powered applications and services."
     },
     {
       "source": "RSS",
@@ -134,7 +134,61 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more transparent, and modular. This change allows for easier customization and integration of tokenization models, enabling developers to fine-tune their natural language processing (NLP) applications. The updated tokenization system is expected to improve the overall performance and flexibility of Transformers-based models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This new system allows for more flexible and customizable tokenization, enabling developers to better preprocess and analyze text data. The update aims to improve the overall performance and efficiency of natural language processing (NLP) models."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why agents matter more than other AI",
+      "url": "https://substack.com/home/post/p-182047799",
+      "published": "2026-01-06T00:26:20",
+      "image": "data/images/94b4b4e3d86f19f6283fbe4915e96d9e.png",
+      "summary": "A recent discussion on Hacker News highlights the growing importance of AI agents, which can perform tasks autonomously and make decisions, over other forms of AI. Unlike traditional AI models, agents can interact with their environment and adapt to changing situations, making them more versatile and valuable. As a result, AI agents are poised to have a significant impact on industries such as robotics, healthcare, and finance."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
+      "url": "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/",
+      "published": "2026-01-06T16:53:27",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/11/jenga.jpg?resize=1200,800",
+      "summary": "The \"Stack Fallacy\" refers to the misconception that a company can successfully enter a new market by simply controlling one layer of the technology stack, when in reality, they must excel at every layer to succeed. This fallacy has led many big companies to fail in their attempts to disrupt new markets, as they underestimate the complexity and expertise required to dominate an entire stack. By recognizing the Stack Fallacy, companies can better understand the challenges of entering new markets and develop more effective strategies for innovation and growth."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Creating a Bespoke Data Diode for Air\u2011Gapped Networks",
+      "url": "https://nelop.com/bespoke-data-diode-airgap/",
+      "published": "2026-01-06T18:10:31",
+      "image": "https://nelop.com/wp-content/uploads/2025/11/Data-Diode.jpg",
+      "summary": "Researchers have developed a bespoke data diode for air-gapped networks, enabling secure one-way data transfer between isolated systems. This innovation enhances the security of sensitive networks by preventing data breaches while still allowing for controlled data exchange. The custom-built data diode provides a robust solution for high-security environments, such as government and financial institutions."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation",
+      "url": "https://arxiv.org/abs/2512.20687",
+      "published": "2026-01-06T18:02:01",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Researchers have introduced a new approach to language generation called Hierarchical Autoregressive Modeling, which enables more efficient use of memory while maintaining high-quality text output. This innovation has the potential to significantly reduce the computational resources required for language models, making them more accessible and scalable. By achieving memory efficiency, this technology can pave the way for more widespread adoption of AI-powered language generation tools."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "High-performance header-only container library for C++23 on x86-64",
+      "url": "https://github.com/kressler/fast-containers",
+      "published": "2026-01-06T14:41:55",
+      "image": "https://opengraph.githubassets.com/5ffbab073475565ffdfc2ec88a4c7e9837deb05b63cad35daa635cc8831c5fd7/kressler/fast-containers",
+      "summary": "A new C++23 library has been released, offering a high-performance, header-only container solution for x86-64 architectures. This library aims to provide a lightweight and efficient alternative to existing container libraries, leveraging the latest C++23 features. By being header-only, it simplifies integration and reduces compilation times, making it an attractive option for developers seeking optimized performance."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why is the Gmail app 700 MB?",
+      "url": "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb",
+      "published": "2026-01-06T16:46:13",
+      "image": "data/images/7f5c1ecc0f0d5d1a8bb65f832272c601.png",
+      "summary": "The Gmail app has ballooned to a massive 700 MB in size, sparking debate among developers and users on Hacker News. This enormous size is largely due to the app's extensive use of native code, images, and other resources, which has led to a significant increase in storage requirements. The discussion highlights the challenges of optimizing app size while maintaining performance and features."
     },
     {
       "source": "Hacker News",
@@ -143,7 +197,7 @@
       "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
       "published": "2026-01-06T11:42:35",
       "image": "https://regmedia.co.uk/2021/02/24/cash.jpg",
-      "summary": "Amazon Web Services (AWS) has increased its GPU prices by 15% without warning, catching users off guard with the unexpected change on a Saturday. This move is likely to impact businesses and developers relying on AWS for compute-intensive workloads, such as AI and machine learning applications. The sudden price hike may prompt users to explore alternative cloud providers or optimize their GPU usage to mitigate the added costs."
+      "summary": "Amazon Web Services (AWS) has increased the prices of its GPU instances by 15%, a move that may catch some users off guard as it was announced on a Saturday. This price hike could significantly impact businesses and developers relying on AWS for graphics processing and machine learning workloads. The sudden change may prompt some to reevaluate their cloud infrastructure costs and consider alternative providers."
     },
     {
       "source": "Hacker News",
@@ -152,30 +206,21 @@
       "url": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
       "published": "2026-01-02T13:21:42",
       "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/67/2022/04/25201252/10410757_original.jpg",
-      "summary": "In a remarkable feat of engineering, a ship's hull was successfully repaired while still in the river, despite freezing -50\u02daC temperatures. The innovative repair method allowed the ship to remain operational, minimizing downtime and showcasing the effectiveness of cutting-edge repair technologies. This achievement highlights the potential for efficient and resilient maintenance solutions in extreme environments."
+      "summary": "A team of engineers successfully repaired a ship's hull while it was still in the river, in extreme -50\u02daC temperatures, using a specialized underwater welding technique. This innovative approach allowed for a rapid and efficient repair, minimizing downtime and potential environmental damage. The achievement demonstrates the potential for advanced welding technologies to enable complex repairs in challenging environments."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "High-performance header-only container library for C++23 on x86-64",
-      "url": "https://github.com/kressler/fast-containers",
-      "published": "2026-01-06T14:41:55",
-      "image": "https://opengraph.githubassets.com/895fb1eea5d75cdee8c2568ec90cbe0f5d6aa23830fd990fe374b861315d3b67/kressler/fast-containers",
-      "summary": "A new C++23 library has been released, offering a high-performance, header-only container solution for x86-64 architectures. This library aims to provide a lightweight and efficient alternative to traditional container libraries, leveraging C++23's features for enhanced performance. By being header-only, it simplifies integration and reduces compilation times, making it an attractive option for developers seeking optimized container management."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tube trains could navigate the Underground using the rules of Quantum Physics",
-      "url": "https://www.ianvisits.co.uk/articles/tube-trains-could-navigate-the-underground-using-the-weird-rules-of-quantum-physics-86370/",
-      "published": "2026-01-06T08:26:23",
-      "image": "https://8400e186.delivery.rocketcdn.me/articles/wp-content/uploads/sites/2/2026/01/imperial-college-quantum-accelerometer.jpg",
-      "summary": "Researchers propose using quantum physics principles to optimize Tube train navigation in the London Underground, potentially reducing congestion and improving efficiency. This innovative approach leverages quantum-inspired algorithms to minimize delays and maximize route utilization. By applying quantum rules to traditional navigation systems, the Underground could experience significant improvements in performance and passenger experience."
+      "title": "DatBench: Discriminative, faithful, and efficient VLM evaluations",
+      "url": "https://arxiv.org/abs/2601.02316",
+      "published": "2026-01-06T17:43:03",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Researchers have introduced DatBench, a new evaluation framework for Vision-Language Models (VLMs) that assesses their discriminative power, faithfulness, and efficiency. DatBench provides a more comprehensive and nuanced understanding of VLM performance, enabling developers to improve their models' accuracy and reliability. This innovation has the potential to significantly impact the development of AI models that process and generate multimedia content."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 120,
+    "duration": 112,
     "date": "2026-01-06",
     "speakers": [
       "Alex",
