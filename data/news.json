@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-07T16:17:05.283816",
+  "updated": "2026-01-07T20:03:49.748512",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Tolan builds voice-first AI with GPT-5.1",
+      "url": "https://openai.com/index/tolan",
+      "published": "Wed, 07 Jan 2026 10:00:00 GMT",
+      "image": "data/images/f6254e2278107085e12edec774a45440.png",
+      "summary": "Tolan is leveraging GPT-5.1 to develop voice-first AI, enabling more natural and intuitive human-computer interactions. This innovative approach allows for seamless voice-based communication, potentially revolutionizing the way we interact with technology. By harnessing the power of GPT-5.1, Tolan aims to create more sophisticated and user-friendly voice AI experiences."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing ChatGPT Health",
+      "url": "https://openai.com/index/introducing-chatgpt-health",
+      "published": "Wed, 07 Jan 2026 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "ChatGPT Health is a new AI model designed to provide personalized health and wellness advice, offering users a conversational interface to discuss their health concerns and receive tailored guidance. This innovative tool has the potential to revolutionize the way people access and engage with healthcare information. By leveraging AI, ChatGPT Health aims to make health advice more accessible and user-friendly."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,16 +26,7 @@
       "url": "https://openai.com/index/openai-grove",
       "published": "Fri, 02 Jan 2026 10:00:00 GMT",
       "image": "data/images/db2d3b5aaede6b344b00941c39c1cf33.png",
-      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program aimed at supporting and accelerating the growth of AI startups and innovators. This initiative provides selected participants with access to resources, mentorship, and funding to develop and refine their AI-powered projects. By fostering collaboration and innovation, Grove Cohort 2 is poised to drive significant advancements in the field of artificial intelligence."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "data/images/8f7aeba4872b97ebe62ef0ea0df18b4b.png",
-      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to defend against prompt injection attacks, which involve manipulating the model with malicious inputs. This effort aims to improve the security and reliability of the AI system, ensuring it can withstand increasingly sophisticated threats. By hardening ChatGPT Atlas, OpenAI is strengthening its ability to generate accurate and trustworthy responses."
+      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program that brings together a diverse group of individuals to collaborate and drive innovation in AI. This initiative aims to foster a community-driven approach to AI development, promoting knowledge sharing and collective growth. By supporting this cohort, OpenAI is furthering its mission to make AI more accessible and beneficial to society."
     },
     {
       "source": "RSS",
@@ -26,25 +35,16 @@
       "url": "https://openai.com/index/one-in-a-million-customers",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
-      "summary": "Microsoft is highlighting exceptional customers who are pushing the boundaries of AI innovation, with over a million organizations now using their Azure AI platform. These pioneers are leveraging AI to drive transformative change in industries such as healthcare, finance, and education. By showcasing their stories, Microsoft aims to inspire others to explore the vast potential of AI and drive future advancements."
+      "summary": "Microsoft is highlighting the innovative ways its customers are using AI to shape the future, from transforming industries to improving daily lives. These pioneers are leveraging AI to drive groundbreaking solutions, showcasing the technology's vast potential. By sharing their stories, Microsoft aims to inspire others to explore AI's limitless possibilities."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Evaluating chain-of-thought monitorability",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "published": "Thu, 18 Dec 2025 12:00:00 GMT",
-      "image": "data/images/ee97cfdfe7bb4e27c6b901a7f01c7701.png",
-      "summary": "Researchers are exploring \"chain-of-thought monitorability\", a new approach to evaluating AI models' decision-making processes, enabling more transparent and trustworthy AI systems. This innovation has the potential to improve the reliability of AI-driven applications, from healthcare to finance. By monitoring AI thought processes, developers can identify biases and errors, leading to more accurate and responsible AI decision-making."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Updating our Model Spec with teen protections",
-      "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "published": "Thu, 18 Dec 2025 11:00:00 GMT",
-      "image": "data/images/b55c1ce29ea31dfcd6c42e494550ad16.png",
-      "summary": "Meta has updated its model specification to enhance teen protections, introducing new safeguards to minimize harmful content and interactions for teenage users. This move aims to create a safer online environment for teens, with stricter guidelines and regulations in place. The updated model spec prioritizes teen well-being and online safety, reflecting the company's commitment to responsible tech development."
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to protect against prompt injection attacks, which involve manipulating the model's responses with malicious input. This effort aims to improve the model's security and reliability, ensuring users receive accurate and trustworthy information. By hardening ChatGPT Atlas, OpenAI is strengthening its defense against potential exploits and misuse."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive meaningful impact across various industries, from healthcare to environmental sustainability. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological innovation and improving lives through research and development."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing the company's advancements in AI, machine learning, and emerging technologies. These innovations have the potential to drive meaningful impact across industries, from improved language understanding to enhanced computer vision capabilities. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological innovation and exploration."
     },
     {
       "source": "RSS",
@@ -61,8 +61,8 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid performance, enabling faster and more efficient processing of complex data. This innovative technology is built to accelerate decision-making and drive business growth. With its enhanced speed and capabilities, Gemini 3 Flash is poised to revolutionize the field of frontier intelligence."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster and more efficient processing of complex data. This innovative technology is poised to revolutionize the field of artificial intelligence, allowing for quicker insights and decision-making. With its enhanced capabilities, Gemini 3 Flash is set to transform the way businesses and organizations approach data analysis and intelligence gathering."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing tools for researchers to better comprehend complex language model behavior. This initiative enables the AI safety community to deepen their understanding of language models, ultimately helping to identify and mitigate potential risks. By shedding light on these complex systems, Gemma Scope 2 contributes to the development of more reliable and trustworthy AI models."
+      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a platform for researchers to analyze and understand complex language model behavior. This initiative enables the AI safety community to deepen their knowledge of language models, ultimately helping to identify potential risks and develop more reliable AI systems. By shedding light on language model behavior, Gemma Scope 2 has the potential to significantly impact the development of safer and more trustworthy AI."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for enhanced user experiences. The improved models allow for better speech understanding and generation, paving the way for more powerful voice-activated applications. This innovation is expected to significantly impact the development of voice assistants and conversational AI systems."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for better understanding of user requests and more precise responses. The improved models will power a range of applications, from virtual assistants to voice-controlled devices."
     },
     {
       "source": "RSS",
@@ -88,8 +88,8 @@
       "title": "Deepening our partnership with the UK AI Security Institute",
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
-      "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has strengthened its partnership with the UK AI Security Institute to advance AI-powered security solutions. This collaboration aims to enhance threat detection and response capabilities, promoting a safer digital landscape. By combining expertise, they will drive innovation in AI-driven security and protect against emerging cyber threats."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "A leading tech company has strengthened its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to drive innovation in AI-powered security solutions, enhancing protection against emerging threats. The partnership is expected to yield cutting-edge technologies and expertise, bolstering the UK's position in the global AI security landscape."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
       "published": "Tue, 06 Jan 2026 21:16:17 GMT",
       "image": "data/images/45b9884e38fa88a86894bd4c7976845e.png",
-      "summary": "Researchers have introduced Llama Nemotron RAG models, a novel approach to multimodal search and visual document retrieval that significantly improves accuracy. This innovative model combines text and image understanding to enhance search results, making it a powerful tool for applications like image-based search and document analysis. By leveraging this technology, users can expect more precise and relevant results in their searches."
+      "summary": "Researchers have introduced Llama Nemotron RAG models, a novel approach to multimodal search and visual document retrieval that significantly improves accuracy. By combining language and visual features, these models enable more effective and efficient searching of complex documents. This innovation has the potential to revolutionize information retrieval, making it easier to find specific data in large, visually-rich datasets."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to achieve state-of-the-art results in Arabic natural language processing tasks. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance a wide range of applications, from language translation to text summarization."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI paradigms to achieve state-of-the-art results in Arabic language processing tasks. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a pair of innovative tools that bring artificial intelligence agents to life. DGX Spark is a cloud-based platform that enables developers to create and train AI models, while Reachy Mini is a robotic platform that allows these models to interact with the physical world. This combination has the potential to revolutionize industries such as robotics, healthcare, and education by creating more interactive and immersive AI experiences."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, innovative tools that bring artificial intelligence agents to life, enabling developers to create interactive and immersive experiences. DGX Spark is a cloud-based platform that simplifies AI model development, while Reachy Mini is a compact robotic platform that allows for physical interaction with AI agents. This combination has the potential to revolutionize fields such as robotics, gaming, and education."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovation aims to protect LLMs from potential attacks and biases, ensuring more reliable and trustworthy AI interactions. By integrating AprielGuard, developers can significantly improve the overall security and performance of their LLM systems."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative approach acts as a \"guardrail\" to detect and mitigate potential risks, ensuring more reliable and trustworthy AI interactions. By integrating AprielGuard, LLM systems can better withstand adversarial attacks and provide more accurate, safe responses."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for more efficient and flexible text processing, enabling developers to better customize and fine-tune their models. The update is expected to improve the overall performance and usability of the Transformers library, a popular tool for natural language processing tasks."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation enables easier integration with various models and datasets, streamlining natural language processing tasks. The updated tokenization system is expected to improve the overall performance and flexibility of transformer-based models."
     },
     {
       "source": "Hacker News",
@@ -143,52 +143,43 @@
       "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
       "published": "2026-01-07T14:46:31",
       "image": "data/images/1605351d0760ac2e498b25125def7a69.png",
-      "summary": "A researcher created a LaTeX package that simulates coffee stains on documents, allowing users to add a touch of realism to their PDFs. The package uses algorithms to generate random stain patterns, giving documents a more organic and humorous look. This innovative tool can be used to add a bit of whimsy to academic papers, presentations, and other formal documents."
+      "summary": "Researchers have created a LaTeX package that simulates coffee stains on documents, adding a touch of realism to printed or digital papers. The innovative tool uses algorithms to generate realistic stain patterns, allowing users to customize the size, shape, and intensity of the stains. This unique feature can be used to create humorous or nostalgic effects in academic or creative writing."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLM Problems Observed in Humans",
-      "url": "https://embd.cc/llm-problems-observed-in-humans",
-      "published": "2026-01-07T15:36:25",
-      "image": "data/images/936d13f33cdbcea48d82319c1bca5423.png",
-      "summary": "Researchers have identified similar issues in human cognition that are commonly observed in Large Language Models (LLMs), such as hallucinations and lack of common sense. This discovery suggests that LLMs may be mimicking human thought patterns, highlighting the complexity of human intelligence and the potential for AI to inform our understanding of human cognition. The findings have significant implications for the development of more advanced and human-like AI systems."
+      "title": "Creators of Tailwind laid off 75% of their engineering team",
+      "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+      "published": "2026-01-07T16:02:19",
+      "image": "https://opengraph.githubassets.com/c98752e7c9ffb27bab8a930f1d1a6f8e98d0ee14736a98181e48319b9db72e67/tailwindlabs/tailwindcss.com/pull/2388",
+      "summary": "The company behind Tailwind, a popular open-source CSS framework, has laid off 75% of its engineering team, citing financial constraints. This unexpected move has raised concerns among developers about the framework's future development and maintenance. Despite the layoffs, the company has assured users that Tailwind will remain open-source and continue to be supported."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: KeelTest \u2013 AI-driven VS Code unit test generator with bug discovery",
-      "url": "https://keelcode.dev/keeltest",
-      "published": "2026-01-07T13:22:35",
-      "image": "data/images/fbe99875a0f25f31e7f6a277ca0eec50.png",
-      "summary": "KeelTest is a revolutionary AI-powered tool that generates unit tests for Visual Studio Code (VS Code) and also discovers bugs, streamlining the development process. This innovative tool uses machine learning to automatically create tests, saving developers time and effort. By integrating AI-driven testing, KeelTest has the potential to significantly improve code quality and reduce errors."
+      "title": "Building voice agents with Nvidia open models",
+      "url": "https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/",
+      "published": "2026-01-07T16:08:36",
+      "image": "https://www.daily.co/blog/content/images/2026/01/NVIDIA-Open-Models-3.png",
+      "summary": "Nvidia has released open models for building voice agents, enabling developers to create custom voice assistants with advanced speech recognition capabilities. This innovation allows for more accurate and efficient voice interactions, paving the way for a new generation of voice-powered applications. With Nvidia's open models, developers can now build voice agents that rival those of major tech companies, democratizing access to cutting-edge voice technology."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
-      "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
-      "published": "2026-01-06T17:45:37",
-      "image": "https://pbs.twimg.com/profile_images/1876393154099740672/7iLAPmhD_400x400.jpg",
-      "summary": "Opus 4.5, a cutting-edge AI model, is gaining attention for its unusually human-like interactions, departing from the typical AI agent experience. Users are reporting surprisingly coherent and context-specific conversations, blurring the lines between human and machine communication. This breakthrough has sparked interest in the potential of AI to revolutionize interactive technologies."
+      "title": "How Google got its groove back and edged ahead of OpenAI",
+      "url": "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160",
+      "published": "2026-01-07T16:29:41",
+      "image": "data/images/6a42a2f1991e87f6ec3b68d795ffb28a.png",
+      "summary": "Google has regained its lead in the AI race, surpassing OpenAI with its latest advancements in natural language processing and multimodal models. This shift is attributed to Google's significant investments in AI research and development, enabling the company to create more sophisticated and accurate language models. As a result, Google is now poised to dominate the AI landscape, setting a new standard for innovation and capabilities."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
-      "url": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
-      "published": "2026-01-06T20:55:01",
-      "image": "https://byteshape.com/images/logo.svg",
-      "summary": "Researchers have successfully run a 30B Qwen AI model on a Raspberry Pi, a low-cost, credit-card-sized computer, achieving real-time performance. This breakthrough demonstrates the potential for deploying complex AI models on resource-constrained devices, enabling wider accessibility and applications. The achievement paves the way for AI-powered projects on low-cost hardware, opening up new possibilities for innovation and development."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: SMTP Tunnel \u2013 A SOCKS5 proxy disguised as email traffic to bypass DPI",
-      "url": "https://github.com/x011/smtp-tunnel-proxy",
-      "published": "2026-01-07T00:30:09",
-      "image": "https://opengraph.githubassets.com/a46de6976bd02ae2c0c0575dc294c89159c60b0a9783af89f9f308a1e6dc876c/x011/smtp-tunnel-proxy",
-      "summary": "SMTP Tunnel is a novel tool that disguises internet traffic as email communications to evade Deep Packet Inspection (DPI) firewalls, allowing users to bypass restrictive networks. By masquerading as SMTP email traffic, it creates a SOCKS5 proxy that can circumvent censorship and access blocked websites. This innovative approach enables secure and private browsing in environments with strict internet controls."
+      "title": "Show HN: Free and local browser tool for designing gear models for 3D printing",
+      "url": "https://gears.dmtrkovalenko.dev",
+      "published": "2026-01-07T08:42:57",
+      "image": "https://gears.dmtrkovalenko.dev/og-image.png",
+      "summary": "A new browser-based tool allows users to design custom 3D printable gear models locally and for free, streamlining the design process for makers and hobbyists. This innovative tool eliminates the need for expensive software or online subscriptions, making 3D printing more accessible. By providing an intuitive and cost-free solution, it has the potential to democratize gear design and fabrication."
     },
     {
       "source": "Hacker News",
@@ -197,17 +188,44 @@
       "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
       "published": "2026-01-07T15:46:07",
       "image": "https://cdn.mos.cms.futurecdn.net/xU57HyjJgwpdKBvDT7nwdF-2555-80.jpg",
-      "summary": "At CES 2026, Dell delivered a refreshingly straightforward briefing that stood out for its lack of AI hype, focusing on tangible product updates and innovations. This approach was a welcome change from the typical AI-centric presentations that have dominated tech conferences in recent years. The simplicity and clarity of Dell's presentation made it a notable exception in the industry."
+      "summary": "Dell's CES 2026 briefing was notable for its refreshing lack of AI-focused discussions, instead highlighting the company's practical innovations in hardware and software. This approach was a welcome change from the typical AI-centric briefings, offering a more down-to-earth perspective on tech advancements. By focusing on tangible improvements, Dell's briefing stood out as a breath of fresh air in the industry."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+      "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+      "published": "2026-01-06T17:45:37",
+      "image": "https://pbs.twimg.com/profile_images/1876393154099740672/7iLAPmhD_400x400.jpg",
+      "summary": "Opus 4.5, a new AI agent, is gaining attention for its unusually human-like interactions, deviating from the typical AI experience. Users on Hacker News are sharing their surprising and sometimes unsettling conversations with Opus 4.5, which seems to understand context and nuance in a more advanced way. This AI's capabilities are sparking interesting discussions about the potential future of human-AI interactions."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+      "url": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+      "published": "2026-01-06T20:55:01",
+      "image": "https://byteshape.com/images/logo.svg",
+      "summary": "A team has successfully run a 30B Qwen model, a large language processing AI, on a Raspberry Pi, a low-cost single-board computer, in real-time. This achievement demonstrates significant advancements in optimizing AI models for resource-constrained devices. The breakthrough has potential implications for edge computing and deploying AI in IoT devices, making AI more accessible and widespread."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: KeelTest \u2013 AI-driven VS Code unit test generator with bug discovery",
+      "url": "https://keelcode.dev/keeltest",
+      "published": "2026-01-07T13:22:35",
+      "image": "data/images/fbe99875a0f25f31e7f6a277ca0eec50.png",
+      "summary": "KeelTest is a revolutionary AI-powered tool that generates unit tests for Visual Studio Code (VS Code) projects, also capable of discovering bugs in the code. This innovative solution aims to streamline the testing process, saving developers time and effort. By leveraging AI-driven technology, KeelTest has the potential to significantly improve code quality and reliability."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 120,
+    "duration": 113,
     "date": "2026-01-07",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 8
+    "segments": 7
   }
 }
