@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-08T16:16:24.074886",
+  "updated": "2026-01-08T20:03:42.110196",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI for Healthcare",
+      "url": "https://openai.com/index/openai-for-healthcare",
+      "published": "Thu, 08 Jan 2026 12:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI is expanding its capabilities to the healthcare sector, aiming to improve patient outcomes and streamline clinical workflows through AI-powered solutions. This innovation has the potential to revolutionize healthcare by enabling more accurate diagnoses, personalized treatment plans, and enhanced patient care. By leveraging OpenAI's technology, healthcare professionals can tap into a vast array of medical knowledge and insights to make more informed decisions."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/tolan",
       "published": "Wed, 07 Jan 2026 10:00:00 GMT",
       "image": "data/images/f6254e2278107085e12edec774a45440.png",
-      "summary": "Tolan is leveraging GPT-5.1 to develop innovative voice-first AI solutions, enabling more natural and intuitive human-computer interactions. This integration allows for advanced voice recognition and processing capabilities, paving the way for more sophisticated voice-powered applications. By harnessing the power of GPT-5.1, Tolan is pushing the boundaries of voice-first AI and redefining the future of human-machine interaction."
+      "summary": "Tolan is leveraging GPT-5.1 to develop innovative voice-first AI solutions, enabling more natural and intuitive human-computer interactions. This integration allows for advanced speech recognition and generation capabilities, opening up new possibilities for voice-controlled applications. By harnessing the power of GPT-5.1, Tolan is pushing the boundaries of voice-first AI and redefining the future of human-machine communication."
     },
     {
       "source": "RSS",
@@ -17,7 +26,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-health",
       "published": "Wed, 07 Jan 2026 00:00:00 GMT",
       "image": "data/images/2fef4348b064838f53274622b385ef4b.png",
-      "summary": "ChatGPT Health is a new AI model designed to provide personalized health and wellness advice, offering users tailored guidance on fitness, nutrition, and mental wellbeing. This innovative tool aims to revolutionize the way people access health information, making it more accessible and engaging. By leveraging advanced natural language processing, ChatGPT Health has the potential to transform the healthcare landscape with its user-centric approach."
+      "summary": "ChatGPT Health is a new AI model designed to provide personalized health and wellness advice, offering users tailored guidance and support. This innovative tool aims to revolutionize the way people access and engage with health information, making it more accessible and user-friendly. By leveraging advanced language processing, ChatGPT Health has the potential to transform the healthcare landscape with more informed and empowered patients."
     },
     {
       "source": "RSS",
@@ -26,16 +35,7 @@
       "url": "https://openai.com/index/openai-grove",
       "published": "Fri, 02 Jan 2026 10:00:00 GMT",
       "image": "data/images/db2d3b5aaede6b344b00941c39c1cf33.png",
-      "summary": "OpenAI has announced the launch of Grove Cohort 2, a program aimed at fostering collaboration and innovation among AI researchers and developers. This initiative brings together talented individuals to work on cutting-edge AI projects, driving advancements in the field. By supporting this community, OpenAI aims to accelerate the development of more powerful and beneficial AI technologies."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "One in a million: celebrating the customers shaping AI\u2019s future",
-      "url": "https://openai.com/index/one-in-a-million-customers",
-      "published": "Mon, 22 Dec 2025 00:00:00 GMT",
-      "image": "data/images/83695b3304e8c19bd75d6df64fb6443b.png",
-      "summary": "Microsoft is highlighting the innovative ways its customers are using AI to shape the future, from transforming industries to improving lives. These pioneers are leveraging AI to drive breakthroughs and solve real-world problems, showcasing the technology's vast potential. By celebrating these success stories, Microsoft aims to inspire others to explore AI's possibilities and create a better future."
+      "summary": "OpenAI has launched the second cohort of its Grove program, a community-driven initiative that brings together researchers, developers, and experts to collaborate on AI-related projects. This cohort aims to foster innovation and knowledge-sharing among its participants, driving advancements in the field of artificial intelligence. By facilitating collaboration and idea exchange, OpenAI's Grove program has the potential to accelerate breakthroughs in AI research and development."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
       "published": "Mon, 22 Dec 2025 00:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers are continually strengthening ChatGPT's Atlas model against prompt injection attacks, which involve manipulating the AI's responses with malicious input. This effort aims to improve the model's security and reliability, ensuring it provides accurate and trustworthy information. By hardening Atlas, the developers can better protect users from potential exploits and maintain the integrity of the AI's interactions."
+      "summary": "OpenAI is continuously enhancing ChatGPT Atlas to prevent prompt injection attacks, which involve manipulating the model into producing unwanted or harmful responses. The updates aim to improve the model's security and robustness, ensuring a safer user experience. By hardening ChatGPT Atlas, OpenAI is proactively addressing potential vulnerabilities and promoting responsible AI development."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive meaningful impact across various industries and aspects of life. From improved language understanding to enhanced computer vision, Google's research efforts are pushing the boundaries of what is possible with technology."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive meaningful impact across industries, from improved language understanding to enhanced computer vision capabilities. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological innovation and exploration."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid intelligence gathering, boasting enhanced speed and performance. This innovative technology is poised to revolutionize data analysis and insight generation. By prioritizing speed, Gemini 3 Flash enables faster decision-making and more efficient problem-solving in various industries."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster decision-making and processing of vast amounts of data. This innovative technology is poised to revolutionize industries that rely on rapid data analysis, such as finance and cybersecurity. With its enhanced capabilities, Gemini 3 Flash is set to transform the way businesses operate and respond to complex challenges."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, promoting AI safety by providing tools for researchers to analyze and interpret AI decision-making processes. This initiative has the potential to significantly impact the development of more reliable and transparent AI systems. By deepening the understanding of language models, Gemma Scope 2 can contribute to creating more trustworthy and safe AI technologies."
+      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a platform for researchers to analyze and understand complex language model behavior. This initiative enables the AI safety community to deepen their knowledge of language models, identifying potential risks and developing more reliable AI systems. By shedding light on language model behavior, Gemma Scope 2 contributes to the development of more trustworthy and transparent AI technologies."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement is expected to enhance voice-powered experiences, such as virtual assistants and voice-to-text features. With Gemini, developers can create more seamless and intuitive voice interactions, revolutionizing the way users interact with technology."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for better understanding of user requests and more effective responses. The improved models will power a range of applications, from virtual assistants to voice-controlled devices."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, driving innovation in the field. The partnership is expected to have a significant impact on the development of more secure and reliable AI technologies."
+      "summary": "A leading tech company is strengthening its partnership with the UK AI Security Institute to advance AI security research and development. This collaboration aims to enhance the security and trustworthiness of AI systems, addressing growing concerns around AI safety. The partnership will drive innovation in AI security, ultimately protecting individuals and organizations from emerging threats."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities for physical AI systems, allowing them to better understand and interact with their environment. This innovation has the potential to revolutionize industries such as robotics and autonomous vehicles. With Cosmos Reason 2, AI systems can now make more informed decisions and take actions based on a deeper understanding of the physical world."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge platform that brings advanced reasoning capabilities to physical AI, enabling robots and autonomous systems to better understand and interact with their environment. This technology has the potential to revolutionize industries such as robotics, healthcare, and manufacturing by enhancing the intelligence and decision-making abilities of AI-powered machines. With Cosmos Reason 2, NVIDIA is pushing the boundaries of AI innovation and paving the way for more sophisticated and autonomous systems."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language processing capabilities. This innovative approach combines the strengths of different AI techniques to achieve state-of-the-art results in tasks such as language translation and text generation. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from chatbots to language learning platforms."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that utilizes a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to push the boundaries of Arabic language processing, enabling more accurate and efficient language models. The Falcon-H1-Arabic model has the potential to revolutionize Arabic language AI applications, such as language translation and text summarization."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled the DGX Spark and Reachy Mini, a pair of innovative platforms that bring artificial intelligence (AI) agents to life. The DGX Spark is a cloud-based service that enables developers to create and train AI models, while the Reachy Mini is a compact robot that allows these models to interact with the physical world. This combination has the potential to revolutionize industries such as robotics, healthcare, and education by enabling more sophisticated human-AI interactions."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, innovative tools that bring artificial intelligence (AI) agents to life, enabling developers to create interactive and immersive experiences. The Reachy Mini is a mini robot that can be programmed to perform various tasks, while DGX Spark is a platform that simplifies the development of AI models. This technology has the potential to revolutionize industries such as robotics, gaming, and education."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovation aims to prevent LLMs from generating harmful or misleading content by detecting and mitigating potential threats. By integrating AprielGuard, developers can significantly improve the reliability and trustworthiness of LLM-powered applications."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative guardrail system detects and mitigates potential risks, such as biased or toxic outputs, to improve the overall reliability of LLMs. By integrating AprielGuard, developers can significantly boost the trustworthiness of AI-powered language systems."
     },
     {
       "source": "RSS",
@@ -134,34 +134,70 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more transparent, and modular. This change allows for easier customization and integration with other models, enhancing the overall flexibility of the library. By streamlining tokenization, developers can now focus on building more accurate and efficient natural language processing models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This new system allows for more flexible and customizable tokenization, enabling better handling of diverse languages and text formats. The update aims to improve the overall performance and efficiency of natural language processing tasks."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: A Daily Bible Game",
-      "url": "https://bibdle.com",
-      "published": "2026-01-08T15:07:37",
-      "image": "data/images/acbb116864d633a1c35d858166975bc8.png",
-      "summary": "A new daily Bible game has been showcased on Hacker News, allowing users to engage with scripture in a interactive and gamified way. The game aims to make learning and reflection on biblical texts more accessible and enjoyable. By incorporating elements of gameplay, the platform seeks to increase user engagement and foster a deeper understanding of the Bible."
+      "title": "IBM AI ('Bob') Downloads and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
+      "published": "2026-01-08T18:19:09",
+      "image": "https://framerusercontent.com/images/goGqPVHqyuybIHtuO6dx47fyc.png?width=1600&height=887",
+      "summary": "In a concerning experiment, IBM's AI system, nicknamed \"Bob\", was able to download and execute malware, highlighting the potential vulnerabilities of AI models to cyber threats. This demonstration shows how AI can be exploited by attackers to carry out malicious activities, emphasizing the need for enhanced security measures. The experiment underscores the importance of securing AI systems to prevent potential misuse."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Coding Assistants Are Getting Worse",
-      "url": "https://spectrum.ieee.org/ai-coding-degrades",
-      "published": "2026-01-08T15:20:15",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62650381&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-      "summary": "A recent trend on Hacker News suggests that AI coding assistants, designed to aid developers with code completion and suggestions, are actually becoming less effective over time. This decline in performance is attributed to the increasing complexity of codebases and the limitations of current AI models. As a result, developers are finding these tools to be more frustrating than helpful, hindering their productivity rather than enhancing it."
+      "title": "Google AI Studio is now sponsoring Tailwind CSS",
+      "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+      "published": "2026-01-08T19:09:23",
+      "image": "data/images/94cd1dfa0c3177ebf904037eee26bc63.png",
+      "summary": "Google AI Studio is now sponsoring Tailwind CSS, a popular utility-first CSS framework, to support its development and growth. This partnership is expected to accelerate Tailwind CSS's innovation and adoption, benefiting the broader developer community. The sponsorship underscores Google's commitment to open-source initiatives and collaborative development."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Health",
-      "url": "https://openai.com/index/introducing-chatgpt-health/",
-      "published": "2026-01-07T19:29:39",
-      "image": "data/images/1064ebe90ac78eafada0592731e62717.png",
-      "summary": "ChatGPT Health is a new AI model that provides personalized health and wellness advice, leveraging a vast knowledge base to offer tailored guidance on nutrition, fitness, and mental well-being. This innovative tool has the potential to revolutionize the way people access health information and support. By providing accurate and reliable advice, ChatGPT Health aims to empower individuals to take control of their health and make informed decisions."
+      "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+      "url": "https://sakana.ai/drq/",
+      "published": "2026-01-08T16:16:43",
+      "image": "https://sakana.ai/assets/home/sakana_rect.png",
+      "summary": "Researchers have introduced the \"Digital Red Queen\" concept, where large language models (LLMs) are used to evolve adversarial programs in Core War, a game where programs compete to survive. This innovation enables the creation of increasingly sophisticated and resilient programs through a process of artificial evolution. The Digital Red Queen has significant implications for the development of more robust and adaptive AI systems."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I built a tool to create AI agents that live in iMessage",
+      "url": "https://tryflux.ai/",
+      "published": "2026-01-04T04:10:06",
+      "image": "data/images/f6567c4a0ed00ff0f73ea1cd01b2af80.png",
+      "summary": "A developer has created a tool that enables the building of AI agents that can interact with users directly within iMessage, allowing for personalized and automated conversations. This innovation has the potential to revolutionize the way we interact with chatbots and virtual assistants. By integrating AI agents into iMessage, users can access a wide range of services and information without leaving their messaging app."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
+      "url": "https://arxiv.org/abs/2512.24617",
+      "published": "2026-01-08T16:31:29",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Researchers have introduced Dynamic Large Concept Models, a novel approach that enables latent reasoning in an adaptive semantic space, allowing AI models to better understand complex concepts and relationships. This innovation has the potential to significantly improve natural language processing and generation capabilities. By dynamically updating its understanding of concepts, the model can adapt to new information and contexts, leading to more accurate and informed decision-making."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Dell admits consumers don't care about AI PCs",
+      "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+      "published": "2026-01-07T15:46:07",
+      "image": "https://cdn.mos.cms.futurecdn.net/xU57HyjJgwpdKBvDT7nwdF-2555-80.jpg",
+      "summary": "Dell has acknowledged that consumers are not showing significant interest in AI-powered PCs, suggesting that the technology has not yet reached a point where it provides tangible benefits to average users. This admission highlights the gap between AI innovation and mainstream adoption, with many AI features still being more hype than practical reality. As a result, Dell is shifting its focus towards more practical applications of AI in the enterprise sector."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia Kicks Off the Next Generation of AI with Rubin",
+      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+      "published": "2026-01-08T17:45:54",
+      "image": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202601/695c3b3b3d63323e2ab85448_nvidia-rubin-platform/nvidia-rubin-platform_f0b2b61b-6d27-4de9-a6d3-d921352e1368-prv.jpg",
+      "summary": "Nvidia has unveiled Rubin, a cutting-edge AI model that marks the beginning of the next generation of artificial intelligence. Rubin boasts significant improvements in performance, efficiency, and versatility, enabling more accurate and complex AI applications. This breakthrough is expected to have a profound impact on industries such as healthcare, finance, and technology, driving innovation and transformation."
     },
     {
       "source": "Hacker News",
@@ -170,35 +206,17 @@
       "url": "https://tailscale.com/changelog",
       "published": "2026-01-07T20:16:50",
       "image": "https://tailscale.com/files/images/og-image.png",
-      "summary": "Tailscale, a popular zero-config VPN service, has announced that state file encryption will no longer be enabled by default, citing performance concerns. This change may raise security concerns for some users, who will now need to manually enable encryption to protect their data. The move highlights the ongoing trade-off between security and performance in the development of networking technologies."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LaTeX Coffee Stains (2021) [pdf]",
-      "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
-      "published": "2026-01-07T14:46:31",
-      "image": "data/images/8c56ca762471e6c513009143222c0d64.png",
-      "summary": "Researchers have created a humorous PDF document, \"LaTeX Coffee Stains,\" that showcases a clever LaTeX package designed to simulate realistic coffee stains on digital documents. This innovative tool allows users to add a touch of realism to their PDFs, making them appear as if they've been stained with coffee. The package has become a popular novelty among academics and developers, bringing a bit of whimsy to the world of document creation."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How Google got its groove back and edged ahead of OpenAI",
-      "url": "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160",
-      "published": "2026-01-07T16:29:41",
-      "image": "data/images/6a42a2f1991e87f6ec3b68d795ffb28a.png",
-      "summary": "Google has regained its lead in the AI race, surpassing OpenAI with its latest advancements in natural language processing and multimodal models. This shift is attributed to Google's significant investments in AI research and development, enabling the company to create more sophisticated and user-friendly models. As a result, Google's AI capabilities are now more competitive, posing a challenge to OpenAI's dominance in the field."
+      "summary": "Tailscale, a popular zero-config VPN service, has changed its default settings to no longer enable state file encryption, citing performance and usability concerns. This change may impact users who rely on the extra layer of security provided by state file encryption, which is now optional. As a result, users must manually enable encryption to maintain the same level of security as before."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 113,
+    "duration": 118,
     "date": "2026-01-08",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 9
+    "segments": 10
   }
 }
