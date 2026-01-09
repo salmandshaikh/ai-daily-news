@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-09T16:13:59.287333",
+  "updated": "2026-01-09T20:03:45.870824",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and SoftBank Group partner with SB Energy",
+      "url": "https://openai.com/index/stargate-sb-energy-partnership",
+      "published": "Fri, 09 Jan 2026 11:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to explore innovative applications of AI in the renewable energy sector. This collaboration aims to leverage AI technologies to optimize energy production, storage, and distribution, driving a more sustainable future. The partnership has the potential to revolutionize the energy industry by increasing efficiency and reducing carbon footprint."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/datadog",
       "published": "Fri, 09 Jan 2026 00:00:00 GMT",
       "image": "data/images/e0e190cc3b2b39239c7b865b0cf750c3.png",
-      "summary": "Datadog is leveraging Codex, an AI-powered code generation tool, to conduct system-level code reviews, aiming to improve code quality and reduce errors. This integration enables automated review of complex system code, freeing up developer time for more strategic tasks. By adopting Codex, Datadog is streamlining its development process and enhancing overall system reliability."
+      "summary": "Datadog is leveraging Codex, an AI-powered code generation tool, to conduct system-level code reviews, enhancing the efficiency and accuracy of its development process. This integration enables Datadog to automate code analysis and improve overall code quality. By utilizing Codex, Datadog aims to streamline its software development lifecycle and reduce errors."
     },
     {
       "source": "RSS",
@@ -17,7 +26,7 @@
       "url": "https://openai.com/index/netomi",
       "published": "Thu, 08 Jan 2026 13:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Netomi's experience in scaling agentic systems offers valuable lessons for enterprises, highlighting the importance of balancing human oversight with AI-driven automation to achieve efficient and effective customer service. By integrating AI-powered chatbots with human customer support, companies can significantly improve response times and resolution rates. This approach enables enterprises to enhance their customer experience while reducing operational costs."
+      "summary": "Netomi, a leading AI-powered customer service platform, has shared valuable lessons on scaling agentic systems into enterprise environments, highlighting the importance of integrating human oversight and continuous learning. By doing so, companies can effectively deploy AI-driven solutions that enhance customer experience and improve operational efficiency. This approach enables businesses to harness the full potential of AI while minimizing potential risks and errors."
     },
     {
       "source": "RSS",
@@ -26,7 +35,7 @@
       "url": "https://openai.com/index/openai-for-healthcare",
       "published": "Thu, 08 Jan 2026 12:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "OpenAI is expanding its capabilities into the healthcare sector, aiming to revolutionize medical research and patient care with its AI technology. This integration has the potential to improve disease diagnosis, personalize treatment plans, and streamline clinical workflows. By leveraging OpenAI's innovative solutions, healthcare professionals can unlock new insights and enhance patient outcomes."
+      "summary": "OpenAI is expanding into the healthcare sector, leveraging its AI capabilities to improve patient outcomes and streamline clinical workflows. This innovative integration has the potential to revolutionize healthcare by enabling more accurate diagnoses, personalized treatment plans, and enhanced patient care. By applying AI to medical data and research, OpenAI aims to drive meaningful advancements in the healthcare industry."
     },
     {
       "source": "RSS",
@@ -35,16 +44,7 @@
       "url": "https://openai.com/index/tolan",
       "published": "Wed, 07 Jan 2026 10:00:00 GMT",
       "image": "data/images/f6254e2278107085e12edec774a45440.png",
-      "summary": "Tolan is leveraging GPT-5.1 to develop voice-first AI, enabling more natural and intuitive human-computer interactions. This innovative approach allows users to engage with technology using voice commands, revolutionizing the way we interact with devices. By harnessing the power of GPT-5.1, Tolan is pushing the boundaries of voice-based AI and paving the way for a new era of conversational interfaces."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT Health",
-      "url": "https://openai.com/index/introducing-chatgpt-health",
-      "published": "Wed, 07 Jan 2026 00:00:00 GMT",
-      "image": "data/images/2fef4348b064838f53274622b385ef4b.png",
-      "summary": "ChatGPT Health has been introduced, a new AI model designed to provide personalized health and wellness advice. This innovative tool aims to offer tailored guidance on various health topics, from nutrition to fitness and mental well-being. By leveraging advanced language understanding, ChatGPT Health has the potential to revolutionize the way people access and engage with health information."
+      "summary": "Tolan is leveraging GPT-5.1 to develop voice-first AI solutions, enabling more natural and intuitive human-computer interactions. This integration allows Tolan to create advanced voice-activated interfaces that can understand and respond to complex voice commands. By harnessing the power of GPT-5.1, Tolan is pushing the boundaries of voice AI capabilities and paving the way for innovative applications."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impact in fields such as healthcare, sustainability, and accessibility. From improved language models to enhanced computer vision, Google's research efforts are pushing the boundaries of what's possible in tech."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impact in fields such as healthcare, sustainability, and accessibility. From improved language models to enhanced computer vision, Google's research efforts are pushing the boundaries of what is possible with technology."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for accelerated performance, enabling faster and more efficient processing of complex tasks. This innovative technology is poised to revolutionize the field of artificial intelligence with its enhanced speed and capabilities. By prioritizing speed, Gemini 3 Flash aims to unlock new possibilities for AI applications and transform the way we interact with intelligent systems."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, revolutionizing the way data is processed and analyzed. This innovative technology enables faster decision-making and improved performance, making it a game-changer in the field of artificial intelligence. With Gemini 3 Flash, users can expect enhanced efficiency and accuracy in their operations."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 tool has been introduced to help the AI safety community better comprehend the intricate behavior of complex language models. This innovation enables researchers to analyze and visualize the decision-making processes of large language models, promoting a deeper understanding of their strengths and weaknesses. By shedding light on these complex models, Gemma Scope 2 aims to enhance AI safety and reliability."
+      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a platform for researchers to analyze and understand complex language model behavior. This initiative enables the AI safety community to deepen their knowledge of language models, identifying potential risks and biases. By doing so, Gemma Scope 2 contributes to the development of more reliable and trustworthy AI systems."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This innovation enhances voice recognition, allowing for better understanding of nuances in speech and improved overall performance. The updated models are set to power a range of applications, from virtual assistants to voice-controlled devices."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice experiences. This improvement enhances voice recognition and generation capabilities, paving the way for more sophisticated voice assistants and applications. The updated models are expected to significantly boost the quality and responsiveness of voice-powered interactions."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company is strengthening its partnership with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to advance research and development in AI-powered security solutions, driving greater protection against emerging threats. The partnership is set to foster a more secure and resilient digital landscape."
+      "summary": "A leading tech company has strengthened its partnership with the UK AI Security Institute to enhance AI security research and development. This collaboration aims to foster innovation and address emerging AI security challenges, promoting a safer digital landscape. The partnership is expected to drive significant advancements in AI security, benefiting both the industry and society as a whole."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities for physical AI systems. This innovation allows AI to better understand and interact with the physical world, opening up new possibilities for robotics, autonomous systems, and other applications. With Cosmos Reason 2, NVIDIA is pushing the boundaries of AI capabilities, enabling more intelligent and autonomous machines."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, healthcare, and logistics by enabling more intelligent and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of physical AI, enabling machines to make more informed decisions and take actions in complex, real-world scenarios."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI paradigms to push the boundaries of Arabic language processing. By enhancing Arabic language AI, Falcon-H1-Arabic has the potential to revolutionize various applications, from language translation to text summarization."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that utilizes a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to push the boundaries of Arabic language processing, enabling more accurate and efficient language translation and analysis. By advancing Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization, for Arabic-speaking communities worldwide."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has introduced DGX Spark and Reachy Mini, a pair of innovative tools that enable the creation of lifelike agents, revolutionizing the field of artificial intelligence. DGX Spark is a software framework that simplifies the development of AI agents, while Reachy Mini is a compact, humanoid robot that brings these agents to life. This breakthrough combination has the potential to transform industries such as healthcare, education, and entertainment with more realistic and interactive AI experiences."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, innovative tools that enable the creation of lifelike agents, revolutionizing robotics and AI development. DGX Spark is a software framework that simplifies the process of building and training AI models, while Reachy Mini is a compact, humanoid robot that brings these models to life. This breakthrough combination has the potential to transform industries such as healthcare, education, and entertainment with interactive, human-like robots."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative guardrail system aims to detect and mitigate potential risks, such as bias and toxicity, in LLM-generated content. By integrating AprielGuard, developers can significantly improve the reliability and trustworthiness of their AI-powered applications."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovation aims to protect LLMs from potential attacks and biases, ensuring more reliable and trustworthy outputs. By integrating AprielGuard, developers can significantly improve the overall security and performance of their LLM systems."
     },
     {
       "source": "RSS",
@@ -134,53 +134,53 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for easier integration with various models and datasets, streamlining the natural language processing workflow. By improving tokenization, the update enhances the overall efficiency and flexibility of transformer-based models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for more efficient and flexible text processing, enabling developers to better customize and integrate tokenization into their natural language processing (NLP) models. The update aims to improve overall performance and ease of use for NLP applications."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
-      "url": "https://github.com/samuel-vitorino/sopro",
-      "published": "2026-01-08T20:37:07",
-      "image": "https://opengraph.githubassets.com/005273ecf95a276155a01f132c236f9460788318ad5f3499695aedd75b8ee6a2/samuel-vitorino/sopro",
-      "summary": "Researchers have introduced Sopro TTS, a 169M model that enables zero-shot voice cloning, allowing it to mimic voices without prior training data. This innovative model can run on a CPU, making it more accessible and efficient than traditional GPU-based models. Sopro TTS has the potential to revolutionize voice synthesis and cloning applications, such as virtual assistants and audio content creation."
+      "title": "Show HN: EuConform \u2013 Offline-first EU AI Act compliance tool (open source)",
+      "url": "https://github.com/Hiepler/EuConform",
+      "published": "2026-01-09T19:11:57",
+      "image": "https://opengraph.githubassets.com/aaddbebd170cc2c7d51b49ae2443e85746936507a9a2cd0cd25fd41902ec2256/Hiepler/EuConform",
+      "summary": "EuConform is an open-source, offline-first tool designed to help organizations comply with the EU's AI Act regulations. This innovative solution streamlines the compliance process, allowing companies to assess and mitigate AI-related risks more efficiently. By making EuConform open source, developers can contribute to and benefit from a community-driven approach to AI regulation compliance."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI coding assistants are getting worse?",
-      "url": "https://spectrum.ieee.org/ai-coding-degrades",
-      "published": "2026-01-08T15:20:15",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62650381&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-      "summary": "A recent discussion on Hacker News suggests that AI coding assistants, despite their initial promise, are becoming less effective due to over-reliance on outdated models and training data. This has led to a decline in the quality of code suggestions and completions, hindering developer productivity. As a result, some developers are starting to question the long-term value of these AI-powered tools."
+      "title": "AI Zealotry",
+      "url": "https://matthewrocklin.com/ai-zealotry/",
+      "published": "2026-01-09T18:17:24",
+      "image": "https://matthewrocklin.com/assets/images/social/ai-zealotry.png",
+      "summary": "A recent discussion on Hacker News highlights the growing concern of \"AI zealotry,\" where some developers and researchers prioritize AI solutions over human judgment and critical thinking. This trend raises questions about the potential risks and unintended consequences of over-reliance on AI. As AI continues to advance, it's essential to strike a balance between technological innovation and human oversight to ensure responsible development."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Replit founder Amjad Masad isn\u2019t afraid of Silicon Valley",
-      "url": "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/",
-      "published": "2026-01-08T18:05:02",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_4e70jhqanh28v7hkicshnrsv1e/-C100.00%25x78.75%25%2C0.00%25%2C4.09%25-FWEBP",
-      "summary": "Replit founder Amjad Masad is making waves in Silicon Valley with his bold approach to coding and education. His platform, Replit, aims to make coding more accessible and collaborative, challenging traditional norms in the tech industry. By democratizing coding, Masad is poised to disrupt the status quo and bring new opportunities to aspiring developers."
+      "title": "Agonist-Antagonist Myoneural Interface",
+      "url": "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/",
+      "published": "2026-01-09T05:44:58",
+      "image": "https://dam-prod.media.mit.edu/thumb/2018/05/29/AMI-gif.gif.1400x1400.gif",
+      "summary": "Researchers have developed an innovative myoneural interface that enables more precise control over prosthetic limbs, using a combination of agonist and antagonist muscle signals. This technology has the potential to revolutionize prosthetic control, allowing for more natural and intuitive movement. By decoding the complex interactions between muscle groups, this interface could significantly improve the quality of life for individuals with amputations."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Systematically Improving Espresso: Mathematical Modeling and Experiment (2020)",
-      "url": "https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2",
-      "published": "2026-01-02T16:31:18",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Researchers used mathematical modeling and experimentation to optimize espresso brewing, resulting in a more precise and controlled process. By applying data-driven techniques, they were able to identify key factors affecting espresso quality, such as temperature and flow rate. This innovative approach has the potential to revolutionize the art of espresso-making, enabling baristas to produce consistently high-quality shots."
+      "title": "SendGrid isn\u2019t emailing about ICE or BLM \u2013\u00a0it\u2019s a phishing attack",
+      "url": "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/",
+      "published": "2026-01-09T16:36:48",
+      "image": "https://fredbenenson.com/wp-content/uploads/2026/01/Screenshot-2026-01-09-at-7.54.28-AM.png",
+      "summary": "A phishing attack is circulating, impersonating SendGrid, a popular email service, to trick users into divulging sensitive information under the guise of taking a stance on ICE or BLM. The scam emails aim to exploit users' emotions and curiosity, highlighting the importance of verifying email authenticity. This attack serves as a reminder to be cautious when interacting with emails, especially those with sensitive or provocative subjects."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 131,
+    "duration": 116,
     "date": "2026-01-09",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 10
+    "segments": 9
   }
 }
