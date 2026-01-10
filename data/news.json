@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-10T12:17:56.864018",
+  "updated": "2026-01-10T16:03:09.506216",
   "articles": [
     {
       "source": "RSS",
@@ -7,8 +7,8 @@
       "title": "OpenAI and SoftBank Group partner with SB Energy",
       "url": "https://openai.com/index/stargate-sb-energy-partnership",
       "published": "Fri, 09 Jan 2026 11:00:00 GMT",
-      "image": "data/images/9f04eb0759f7c4d6dbc7d42186d81f78.png",
-      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to accelerate the development of renewable energy solutions, leveraging AI to optimize energy production and consumption. This collaboration aims to reduce carbon emissions and promote sustainable energy practices. The partnership will focus on integrating AI technologies with SB Energy's renewable energy portfolio to drive innovation and efficiency."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to advance the development of artificial intelligence (AI) in the renewable energy sector. This collaboration aims to leverage AI to optimize energy production, storage, and distribution, promoting a more sustainable and efficient energy ecosystem. By combining their expertise, the partners seek to drive innovation and reduce carbon footprint in the energy industry."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/datadog",
       "published": "Fri, 09 Jan 2026 00:00:00 GMT",
       "image": "data/images/e0e190cc3b2b39239c7b865b0cf750c3.png",
-      "summary": "Datadog is leveraging Codex, an AI-powered code review tool, to streamline system-level code reviews, enhancing the efficiency and accuracy of its development process. This integration enables Datadog to automate code analysis and identify potential issues, freeing up developers to focus on higher-level tasks. By adopting Codex, Datadog aims to improve overall code quality and reduce the time spent on manual code reviews."
+      "summary": "Datadog is leveraging Codex, an AI-powered coding tool, to conduct system-level code reviews, streamlining its development process and improving code quality. This integration enables automated review and optimization of complex system code, reducing manual effort and enhancing overall system performance. By adopting Codex, Datadog aims to accelerate innovation and deliver more reliable software solutions."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/netomi",
       "published": "Thu, 08 Jan 2026 13:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Netomi's experience offers valuable lessons for scaling agentic systems, such as AI-powered chatbots, into large enterprises, highlighting the importance of seamless integration and adaptability. By doing so, companies can unlock the full potential of these systems to enhance customer experience and improve operational efficiency. This approach can lead to increased adoption and effectiveness of AI-driven solutions in enterprise settings."
+      "summary": "Netomi, a leading AI platform, shares valuable lessons on scaling agentic systems into large enterprises, highlighting the importance of integrating human-like intelligence into automated customer service. By doing so, companies can enhance customer experience and improve operational efficiency. This innovation has the potential to revolutionize the way businesses interact with their customers, making support more personalized and effective."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/tolan",
       "published": "Wed, 07 Jan 2026 10:00:00 GMT",
       "image": "data/images/f6254e2278107085e12edec774a45440.png",
-      "summary": "Tolan is leveraging the power of GPT-5.1 to develop innovative voice-first AI solutions, enabling more natural and intuitive human-computer interactions. This integration allows for advanced voice recognition and response capabilities, opening up new possibilities for voice-controlled applications. By harnessing the capabilities of GPT-5.1, Tolan is pushing the boundaries of voice-first AI and redefining the future of human-machine interaction."
+      "summary": "Tolan is leveraging GPT-5.1 to develop innovative voice-first AI solutions, enabling more natural and intuitive human-machine interactions. This integration allows for advanced speech recognition and generation capabilities, paving the way for more sophisticated voice-powered applications. By harnessing the power of GPT-5.1, Tolan is pushing the boundaries of voice-first AI and its potential to transform various industries."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impacts in fields such as healthcare, sustainability, and accessibility. From improved language models to enhanced computer vision, Google's research efforts are paving the way for a more technologically advanced future."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impact across industries, from improved language understanding to enhanced computer vision capabilities. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological innovation and exploration."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid performance, enabling faster and more efficient processing of complex data. This innovation has the potential to revolutionize various industries by providing swift and accurate insights. With its enhanced speed, Gemini 3 Flash is poised to transform the way businesses and organizations approach data analysis and decision-making."
+      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid processing and analysis, enabling faster decision-making with its frontier intelligence capabilities. This innovation promises to revolutionize various industries with its accelerated performance. By prioritizing speed, Gemini 3 Flash aims to unlock new possibilities in AI-driven applications."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to enhance the AI safety community's understanding of complex language model behavior, enabling researchers to better identify and mitigate potential risks. By providing a deeper insight into language models, Gemma Scope 2 can help develop more reliable and trustworthy AI systems. This innovation has the potential to significantly impact the development of safer and more responsible AI technologies."
+      "summary": "The Gemma Scope 2 tool has been introduced to aid the AI safety community in better understanding complex language model behavior, enabling researchers to analyze and identify potential biases and flaws. This innovation has the potential to significantly enhance the development of more reliable and transparent AI systems. By deepening our understanding of language models, Gemma Scope 2 can help mitigate risks associated with AI and promote more responsible AI development."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice recognition for a wide range of applications. This improvement allows for better voice experiences, including more precise speech recognition and generation. The updated models will enhance the overall performance of voice-powered devices and services."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement enhances the overall voice experience, allowing for better speech recognition and more seamless interactions with virtual assistants. The updated models are expected to power more intuitive and responsive voice-powered devices and services."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A leading tech company has announced a partnership with the UK AI Security Institute to enhance AI security and develop innovative solutions. This collaboration aims to improve the security and trustworthiness of AI systems, driving advancements in the field. The partnership is expected to have a significant impact on the development of more secure and reliable AI technologies."
+      "summary": "A major tech company has announced a partnership with the UK AI Security Institute to enhance AI security and innovation. This collaboration aims to advance research and development in AI security, driving new technologies and solutions. The partnership is expected to have a significant impact on the future of AI security, fostering a safer and more secure digital landscape."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, healthcare, and logistics by enabling more intelligent and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of AI research and development, paving the way for more sophisticated and human-like machine intelligence."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, healthcare, and logistics by enabling more intelligent and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of physical AI, enabling machines to make more informed decisions and adapt to complex situations."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to advance Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to improve accuracy and efficiency in processing the complex Arabic language. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative model pushes the boundaries of natural language processing for Arabic, enabling more accurate and efficient language translation, summarization, and text analysis. By advancing Arabic language AI, Falcon-H1-Arabic has the potential to enhance communication and access to information for millions of Arabic speakers worldwide."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a pair of innovative tools that enable the creation of lifelike agents, revolutionizing the field of artificial intelligence. DGX Spark is a cloud-based platform that streamlines the development of AI models, while Reachy Mini is a compact, humanoid robot that brings these models to life. This breakthrough combination has the potential to transform industries such as healthcare, education, and entertainment with interactive, AI-powered agents."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a powerful combination that brings artificial intelligence agents to life, enabling developers to create interactive and autonomous robots. The Reachy Mini is a compact, humanoid robot that can be controlled by NVIDIA's AI technology, while DGX Spark is a high-performance computing platform that powers the robot's intelligent actions. This innovation has the potential to revolutionize robotics and AI development, making it easier to create intelligent and interactive machines."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative guardrail system aims to detect and mitigate potential risks, such as biased or toxic outputs, to ensure more reliable and trustworthy AI interactions. By integrating AprielGuard, LLMs can become more resilient to adversarial attacks and provide safer, more accurate responses."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative system acts as a guardrail, detecting and mitigating potential risks and biases in LLM outputs. By integrating AprielGuard, developers can significantly improve the reliability and trustworthiness of AI-powered language systems."
     },
     {
       "source": "RSS",
@@ -134,7 +134,7 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more transparent, and modular. This change allows for easier integration with other libraries and models, enabling more efficient and flexible natural language processing tasks. The update aims to improve the overall performance and usability of the Transformers library, a popular open-source tool for AI and machine learning applications."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This innovation allows for easier integration with various models and datasets, enhancing the overall efficiency of natural language processing tasks. By streamlining tokenization, the update paves the way for more accurate and effective language modeling applications."
     },
     {
       "source": "Hacker News",
@@ -143,7 +143,7 @@
       "url": "https://mathstodon.xyz/@tao/115855840223258103",
       "published": "2026-01-09T22:39:15",
       "image": "data/images/6b087a17881cc8f0e1665c97a3c6d390.png",
-      "summary": "Researchers have made a groundbreaking achievement as AI has successfully solved Erdos problem #728, a long-standing mathematical puzzle, with minimal human intervention. This breakthrough demonstrates the rapidly advancing capabilities of artificial intelligence in tackling complex mathematical problems. The autonomous solution marks a significant milestone in the field of AI-assisted mathematics and problem-solving."
+      "summary": "Researchers have made a groundbreaking achievement as an AI system has successfully solved Erdos problem #728, a long-standing mathematical puzzle, with minimal human intervention. This breakthrough demonstrates the rapidly advancing capabilities of AI in tackling complex mathematical problems. The autonomous solution marks a significant milestone in the field of artificial intelligence and its potential to drive innovation in mathematics."
     },
     {
       "source": "Hacker News",
@@ -152,39 +152,21 @@
       "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
       "published": "2026-01-06T12:44:52",
       "image": "data/images/0966421460e565c3a55e690eeadcb259.png",
-      "summary": "Researchers have discovered that Greenland sharks, which can live for centuries, have a unique DNA repair mechanism that helps maintain their vision over time. This mechanism allows the sharks to repair damaged DNA in their eyes, effectively preventing age-related vision loss. The discovery could potentially lead to new insights into human eye health and the development of treatments for age-related vision problems."
+      "summary": "Researchers have discovered that Greenland sharks can maintain their vision for centuries due to a unique DNA repair mechanism that protects their eyes from damage. This remarkable ability allows the sharks to thrive in the dark, icy waters of the Arctic, where light is scarce and oxidative stress is high. The study's findings could potentially lead to new insights into human eye health and age-related vision loss."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My article on why AI is great (or terrible) or how to use it",
-      "url": "https://matthewrocklin.com/ai-zealotry/",
-      "published": "2026-01-09T18:17:24",
-      "image": "https://matthewrocklin.com/assets/images/social/ai-zealotry.png",
-      "summary": "A recent article on Hacker News explores the dual nature of AI, discussing both its immense potential to revolutionize industries and its potential drawbacks, such as job displacement. The author provides guidance on how to harness AI's power while mitigating its negative consequences. By weighing the pros and cons, readers can develop a more nuanced understanding of AI's impact and learn to use it effectively."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The paradox of failed resolutions",
-      "url": "https://jillianhess.substack.com/p/the-paradox-of-failed-resolutions",
-      "published": "2026-01-07T00:45:38",
-      "image": "data/images/9db67e9a01cb1caa05058a678a145660.png",
-      "summary": "The discussion on Hacker News explores the paradox of failed New Year's resolutions, where individuals set ambitious goals but often struggle to maintain them. The conversation delves into the psychological and behavioral factors that contribute to this phenomenon, including unrealistic expectations and lack of accountability. By examining these factors, users aim to identify strategies for making lasting changes and overcoming the obstacles that hinder resolution success."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I got paid minimum wage to solve an impossible problem",
-      "url": "https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve",
-      "published": "2026-01-10T10:53:28",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "A developer shared their experience of being paid minimum wage to solve a complex, unsolvable problem, highlighting the unrealistic expectations and poor compensation often faced by tech workers. The story sparked a discussion on Hacker News about the ethics of assigning impossible tasks and the need for better working conditions in the tech industry. This anecdote sheds light on the challenges and frustrations that many developers encounter in their daily work."
+      "title": "ChatGPT Health is a marketplace, guess who is the product?",
+      "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
+      "published": "2026-01-08T14:40:20",
+      "image": "https://consciousdigital.org/wp-content/uploads/2026/01/chatgpt-health.jpeg",
+      "summary": "ChatGPT Health has raised concerns by creating a marketplace where users' health data is the product, sparking debates about data privacy and exploitation. This development highlights the potential risks of AI-powered health platforms, where sensitive information can be collected and monetized. As a result, users are urged to be cautious about sharing personal health data online."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 117,
+    "duration": 120,
     "date": "2026-01-10",
     "speakers": [
       "Alex",
