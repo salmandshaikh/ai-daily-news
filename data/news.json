@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-12T12:21:43.698613",
+  "updated": "2026-01-12T16:16:30.095794",
   "articles": [
     {
       "source": "RSS",
@@ -8,7 +8,7 @@
       "url": "https://openai.com/index/stargate-sb-energy-partnership",
       "published": "Fri, 09 Jan 2026 11:00:00 GMT",
       "image": "data/images/9f04eb0759f7c4d6dbc7d42186d81f78.png",
-      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to advance renewable energy solutions, leveraging AI to optimize energy production and consumption. This collaboration aims to accelerate the transition to sustainable energy sources and reduce carbon emissions. By combining AI and renewable energy expertise, the partnership seeks to create innovative solutions for a more sustainable future."
+      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to advance renewable energy solutions, leveraging AI to optimize energy production and consumption. This collaboration aims to reduce carbon emissions and promote sustainable energy practices. By integrating AI and renewable energy, the partnership seeks to create a more efficient and environmentally friendly energy ecosystem."
     },
     {
       "source": "RSS",
@@ -17,7 +17,7 @@
       "url": "https://openai.com/index/datadog",
       "published": "Fri, 09 Jan 2026 00:00:00 GMT",
       "image": "data/images/e0e190cc3b2b39239c7b865b0cf750c3.png",
-      "summary": "Datadog has integrated Codex, an AI-powered coding tool, to conduct system-level code reviews, aiming to improve code quality and reduce errors. This innovative approach enables Datadog to automate the review process, freeing up developers to focus on more complex tasks. By leveraging Codex, Datadog can enhance its overall system reliability and performance."
+      "summary": "Datadog is leveraging Codex, an AI-powered code generation tool, to conduct system-level code reviews, streamlining the development process and improving code quality. This integration enables automated reviews, reducing manual effort and allowing developers to focus on higher-level tasks. By adopting Codex, Datadog aims to enhance its overall coding efficiency and reliability."
     },
     {
       "source": "RSS",
@@ -26,7 +26,7 @@
       "url": "https://openai.com/index/netomi",
       "published": "Thu, 08 Jan 2026 13:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Netomi's experience scaling agentic systems into the enterprise offers valuable lessons on integrating AI-powered chatbots and virtual agents into large organizations. By leveraging machine learning and natural language processing, Netomi's technology has improved customer support and automation for various companies. The key to successful implementation lies in balancing human oversight with AI-driven decision-making to ensure seamless and efficient customer interactions."
+      "summary": "Netomi, a leading AI customer service platform, has shared valuable insights on scaling agentic systems within enterprises, highlighting the importance of integrating human-like conversational AI to enhance customer experiences. By leveraging AI-powered chatbots, companies can streamline support operations and improve response times. This approach has significant implications for enterprises seeking to modernize their customer service capabilities."
     },
     {
       "source": "RSS",
@@ -35,7 +35,7 @@
       "url": "https://openai.com/index/openai-for-healthcare",
       "published": "Thu, 08 Jan 2026 12:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "OpenAI is expanding into the healthcare sector, leveraging its AI technology to improve patient outcomes and streamline clinical workflows. This innovation has the potential to revolutionize healthcare by enabling more accurate diagnoses, personalized treatment plans, and enhanced patient care. By applying OpenAI's capabilities to medical data and research, healthcare professionals can unlock new insights and improve overall quality of care."
+      "summary": "OpenAI is expanding into the healthcare sector, leveraging its AI technology to improve patient outcomes and streamline clinical workflows. This innovation has the potential to enhance disease diagnosis, personalize treatment plans, and optimize healthcare resource allocation. By applying AI to healthcare, OpenAI aims to revolutionize the industry and improve the overall quality of care."
     },
     {
       "source": "RSS",
@@ -44,7 +44,7 @@
       "url": "https://openai.com/index/tolan",
       "published": "Wed, 07 Jan 2026 10:00:00 GMT",
       "image": "data/images/f6254e2278107085e12edec774a45440.png",
-      "summary": "Tolan is leveraging GPT-5.1 to develop innovative voice-first AI solutions, enabling more natural and intuitive human-computer interactions. This integration allows for more accurate speech recognition and generation, paving the way for advanced voice assistants and conversational interfaces. By harnessing the power of GPT-5.1, Tolan is pushing the boundaries of voice-first AI and redefining the future of human-machine interaction."
+      "summary": "Tolan is leveraging the power of GPT-5.1 to develop innovative voice-first AI solutions, enabling more natural and intuitive human-computer interactions. This cutting-edge technology has the potential to revolutionize the way we interact with devices, making voice commands more accurate and efficient. By harnessing the capabilities of GPT-5.1, Tolan is pushing the boundaries of voice AI and paving the way for a new era of conversational interfaces."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing the company's advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impacts in fields such as healthcare, sustainability, and accessibility. From improved language models to enhanced computer vision, Google's research efforts are pushing the boundaries of what is possible with technology."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impacts in fields such as healthcare, sustainability, and accessibility. From improved language models to enhanced computer vision, Google's research efforts are pushing the boundaries of what is possible with technology."
     },
     {
       "source": "RSS",
@@ -61,8 +61,8 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for exceptional speed and performance, revolutionizing the field of frontier intelligence. This innovative technology enables faster and more efficient processing of complex data, opening up new possibilities for applications in various industries. With Gemini 3 Flash, users can expect significant improvements in processing time, making it an exciting development in the world of artificial intelligence."
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "summary": "Gemini 3 Flash is a new AI model designed for speed and efficiency, aimed at revolutionizing frontier intelligence. This cutting-edge technology is built to process and analyze vast amounts of data quickly, enabling faster decision-making and innovation. With its enhanced capabilities, Gemini 3 Flash has the potential to transform various industries and applications."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, specifically focusing on AI safety. By providing a platform for researchers to analyze and visualize language model outputs, Gemma Scope 2 enables the AI safety community to identify potential biases and risks. This innovation has the potential to significantly improve the development of more reliable and trustworthy AI systems."
+      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a platform for researchers to analyze and understand complex language model behavior. This initiative enables the AI safety community to deepen their knowledge of language models, identifying potential risks and biases. By shedding light on these intricacies, Gemma Scope 2 can help develop more reliable and trustworthy AI systems."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models to deliver more powerful and immersive voice experiences. This innovation enables more accurate speech recognition, allowing for seamless interactions with virtual assistants and other voice-activated technologies. The improved models are expected to enhance the overall user experience, making voice interactions more natural and intuitive."
+      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice experiences. These improved models can better recognize and respond to voice commands, paving the way for more powerful and intuitive voice-activated technologies. This advancement has the potential to significantly enhance virtual assistants, voice-controlled devices, and other voice-enabled applications."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
       "published": "Thu, 11 Dec 2025 00:06:40 +0000",
       "image": "data/images/d3a637b2754e03a1416351db7cb57552.png",
-      "summary": "A major tech company has announced a partnership with the UK AI Security Institute to enhance AI security capabilities. This collaboration aims to develop innovative solutions to address emerging AI threats and improve overall cybersecurity. The partnership is expected to drive significant advancements in AI security research and development."
+      "summary": "A major tech company has announced a partnership with the UK AI Security Institute to enhance AI security and research. This collaboration aims to drive innovation in AI-powered security solutions and address emerging threats. The partnership is expected to have a significant impact on the development of more robust and secure AI systems."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge platform that enables advanced reasoning capabilities in physical AI systems, allowing them to better understand and interact with their environment. This innovation has the potential to revolutionize fields such as robotics and autonomous vehicles. By integrating advanced reasoning with physical AI, Cosmos Reason 2 can lead to more intelligent and autonomous machines that can learn and adapt in complex scenarios."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, logistics, and healthcare by enabling more intelligent and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of physical AI, enabling machines to make more informed decisions and take actions in complex, dynamic environments."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a revolutionary AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovation has the potential to enhance various applications, including language translation, text summarization, and chatbots, for the Arabic-speaking community. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic aims to bridge the gap in language representation and accessibility."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to achieve state-of-the-art results in Arabic language processing tasks. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, including language translation, text summarization, and chatbots."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a powerful combination that brings AI agents to life by enabling the creation of interactive, humanoid robots. The Reachy Mini robot, powered by NVIDIA's DGX Spark platform, can learn and adapt to its environment, opening up new possibilities for robotics and AI research. This innovation has the potential to revolutionize fields such as healthcare, education, and customer service with more interactive and human-like robots."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a powerful combination that brings AI agents to life by enabling the creation of interactive, humanoid robots. The Reachy Mini robot, powered by NVIDIA's DGX Spark platform, allows developers to build and train AI models that can control the robot's movements and interactions. This innovation has the potential to revolutionize robotics and AI research, enabling more realistic and engaging human-robot interactions."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovation aims to protect LLMs from potential attacks and biases, ensuring more reliable and trustworthy AI interactions. By integrating AprielGuard, developers can significantly improve the overall security and performance of LLM systems."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern large language models (LLMs). This innovation aims to prevent LLMs from generating harmful or misleading content by detecting and mitigating potential threats. By integrating AprielGuard, developers can significantly improve the reliability and trustworthiness of AI-powered language systems."
     },
     {
       "source": "RSS",
@@ -134,7 +134,16 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This new design allows for easier integration of custom tokenizers and improved handling of special tokens, enhancing the overall flexibility of the framework. The update aims to streamline natural language processing tasks, enabling developers to build more efficient and effective models."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This new system allows for more flexibility and customization, enabling developers to better tailor their models to specific tasks and languages. The updated tokenization system has the potential to improve the overall performance and efficiency of transformer-based models."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+      "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+      "published": "2026-01-12T16:04:27",
+      "image": "https://opengraph.githubassets.com/846b59c23dc0ad59b081f1d71401b4c0631c29e2e19a3334acca5e59bbb2e79b/haykgrigo3/TimeCapsuleLLM",
+      "summary": "Researchers have introduced TimeCapsuleLLM, a large language model (LLM) uniquely trained on data solely from 1800-1875, offering a fascinating glimpse into the language and culture of the past. This innovative approach allows for the analysis of historical language patterns and potential applications in fields like historical research and education. By isolating the training data to a specific time period, TimeCapsuleLLM provides a distinct perspective on the evolution of language."
     },
     {
       "source": "Hacker News",
@@ -143,44 +152,17 @@
       "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
       "published": "2026-01-12T09:10:45",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5f22/live/067c0170-ef8e-11f0-8faf-09c6d7521940.jpg",
-      "summary": "Ai, a 49-year-old Japanese chimpanzee, has passed away, leaving behind a legacy of remarkable cognitive abilities, including counting up to four and creating impressive paintings. Ai's artistic talents and numerical understanding were studied by researchers, providing valuable insights into the intelligence and creativity of non-human primates. Her unique abilities have contributed significantly to our understanding of animal cognition and intelligence."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Don't fall into the anti-AI hype",
-      "url": "https://antirez.com/news/158",
-      "published": "2026-01-11T10:26:18",
-      "image": "data/images/092d64ea2af0c2652c63595c642f94ad.png",
-      "summary": "The article cautions against buying into the negative hype surrounding AI, emphasizing that the technology has the potential to bring about significant benefits and improvements to various industries. By focusing on the potential drawbacks, we risk overlooking the innovative solutions AI can provide, such as enhanced productivity and efficiency. A balanced perspective is necessary to harness the full potential of AI and drive meaningful progress."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Shellock, a real-time CLI flag explainer for fish shell",
-      "url": "https://github.com/ibehnam/shellock",
-      "published": "2026-01-07T07:39:12",
-      "image": "https://opengraph.githubassets.com/ec0dd4991edec0d70e459bc8d48b610b560517118f0454465fdbe88f8568d3e3/ibehnam/shellock",
-      "summary": "Shellock is a innovative tool that provides real-time explanations for command-line interface (CLI) flags in the fish shell, helping users understand complex commands. This tool aims to simplify the learning process and improve productivity for developers and power users. By offering instant explanations, Shellock streamlines the workflow and reduces errors in the fish shell environment."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Poison Fountain",
-      "url": "https://rnsaffn.com/poison3/",
-      "published": "2026-01-11T17:05:52",
-      "image": "data/images/716c8bf69229fb2a9cc8e33e2c3a6c87.png",
-      "summary": "The \"Poison Fountain\" refers to a novel AI attack method where malicious actors intentionally contaminate open-source language models with biased or toxic data. This \"poisoned\" data can then be used to train AI models, potentially leading to the spread of misinformation or harmful content. The discovery highlights the need for more robust data validation and security measures in AI development."
+      "summary": "Ai, a talented Japanese chimpanzee, has passed away at 49, leaving behind a legacy of impressive cognitive abilities, including counting up to four and creating artwork. Her innovative use of numbers and artistic expression showcased the advanced problem-solving capabilities of primates. Ai's remarkable talents have contributed significantly to our understanding of animal intelligence and cognition."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 108,
+    "duration": 124,
     "date": "2026-01-12",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 9
+    "segments": 10
   }
 }
