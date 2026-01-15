@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-14T20:03:12.430306",
+  "updated": "2026-01-15T00:44:40.694393",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI partners with Cerebras",
+      "url": "https://openai.com/index/cerebras-partnership",
+      "published": "Wed, 14 Jan 2026 14:00:00 GMT",
+      "image": "data/images/bce561fc78c9e5a4f4805ae0fb7a04a6.png",
+      "summary": "OpenAI has partnered with Cerebras, a leading AI computing company, to accelerate the development of large language models using Cerebras' high-performance AI computing systems. This collaboration is expected to significantly boost the training speed and efficiency of OpenAI's models, enabling more advanced AI capabilities. The partnership will likely drive innovation in AI research and applications, with potential impacts on industries such as natural language processing and machine learning."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +17,7 @@
       "url": "https://openai.com/index/zenken",
       "published": "Tue, 13 Jan 2026 16:00:00 GMT",
       "image": "data/images/cf54477bcad660daf17ac1b56a2018fc.png",
-      "summary": "Zenken, a sales-focused company, has integrated ChatGPT Enterprise to enhance its lean sales team's capabilities, leveraging AI-driven insights to streamline sales processes. This innovative approach aims to boost productivity and efficiency, allowing the team to focus on high-value tasks. By harnessing the power of ChatGPT, Zenken is poised to revolutionize its sales strategy and drive business growth."
+      "summary": "Zenken, a sales-focused company, has adopted ChatGPT Enterprise to enhance its lean sales team's capabilities. This integration is expected to boost efficiency and productivity by automating tasks and providing AI-driven insights. With ChatGPT Enterprise, Zenken's sales team can now focus on high-value activities, driving business growth and revenue expansion."
     },
     {
       "source": "RSS",
@@ -17,7 +26,7 @@
       "url": "https://openai.com/index/stargate-sb-energy-partnership",
       "published": "Fri, 09 Jan 2026 11:00:00 GMT",
       "image": "data/images/9f04eb0759f7c4d6dbc7d42186d81f78.png",
-      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to accelerate the development of renewable energy solutions, leveraging AI to optimize energy production and consumption. This collaboration aims to reduce carbon emissions and promote sustainable energy practices. By combining AI expertise with renewable energy capabilities, the partnership seeks to create a more efficient and environmentally friendly energy ecosystem."
+      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to accelerate the development of artificial intelligence (AI) technologies in the renewable energy sector. This collaboration aims to leverage AI to optimize energy production, storage, and distribution, driving a more sustainable and efficient energy future. The partnership is expected to have a significant impact on the global transition to renewable energy sources."
     },
     {
       "source": "RSS",
@@ -26,7 +35,7 @@
       "url": "https://openai.com/index/datadog",
       "published": "Fri, 09 Jan 2026 00:00:00 GMT",
       "image": "data/images/e0e190cc3b2b39239c7b865b0cf750c3.png",
-      "summary": "Datadog is leveraging Codex, an AI-powered code review tool, to streamline its system-level code review process, enhancing efficiency and accuracy. This integration enables automated code analysis, reducing manual review time and allowing developers to focus on higher-level tasks. By adopting Codex, Datadog aims to improve its overall code quality and reliability."
+      "summary": "Datadog has integrated Codex, an AI-powered coding tool, to enhance its system-level code review process, aiming to improve code quality and reduce errors. This innovation enables automated review of complex system code, streamlining the development process and reducing the risk of human error. By leveraging Codex, Datadog can ensure more reliable and efficient code deployments."
     },
     {
       "source": "RSS",
@@ -35,16 +44,7 @@
       "url": "https://openai.com/index/netomi",
       "published": "Thu, 08 Jan 2026 13:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Netomi's expertise in scaling agentic systems offers valuable lessons for enterprises, highlighting the importance of integrating AI and machine learning to drive automation and efficiency. By leveraging these systems, companies can enhance customer experience and streamline operations. Key takeaways from Netomi's approach include prioritizing flexibility, scalability, and seamless human-AI collaboration."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI for Healthcare",
-      "url": "https://openai.com/index/openai-for-healthcare",
-      "published": "Thu, 08 Jan 2026 12:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "OpenAI is expanding into the healthcare sector, aiming to revolutionize medical research and patient care with its AI technology. This integration has the potential to improve disease diagnosis, personalize treatment plans, and streamline clinical workflows. By leveraging OpenAI's capabilities, healthcare professionals can unlock new insights and enhance patient outcomes, marking a significant innovation in the field."
+      "summary": "Netomi's experience offers valuable lessons for scaling AI-powered agentic systems within large enterprises, highlighting the importance of seamless integration and robust security measures. By leveraging autonomous agents, businesses can streamline customer support and improve overall efficiency. This approach has the potential to revolutionize enterprise operations, enabling companies to provide 24/7 support and enhance customer experiences."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
       "published": "Tue, 13 Jan 2026 17:00:18 +0000",
       "image": "data/images/6bcadc2454f12611b57d6921fe6eb3ad.png",
-      "summary": "Veo has released version 3.1 of its \"Ingredients to Video\" platform, enhancing consistency, creativity, and control for users. This update allows for more precise video editing and customization options, giving creators greater flexibility and autonomy. With Veo 3.1, users can produce high-quality videos with increased efficiency and personalized flair."
+      "summary": "Veo 3.1 introduces new features that enhance consistency, creativity, and control in video creation, allowing users to produce high-quality content with ease. The update includes improved ingredient-based video editing, enabling more precise and efficient video production. This innovation empowers creators to focus on storytelling and visual expression, streamlining the video creation process."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive meaningful impact across various industries and aspects of life. From improved language understanding to enhanced computer vision, Google's research efforts are pushing the boundaries of what's possible in the tech landscape."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impact across industries, from improved language understanding to enhanced computer vision capabilities. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological innovation and exploration."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster data processing and analysis. This innovative technology is poised to revolutionize the field of artificial intelligence, allowing for quicker insights and decision-making. By prioritizing speed, Gemini 3 Flash aims to unlock new possibilities for businesses and organizations."
+      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid processing and analysis, revolutionizing the field of frontier intelligence. This innovative technology enables faster and more efficient data processing, making it a game-changer for various applications. With its enhanced speed and capabilities, Gemini 3 Flash is poised to transform the way we approach complex data analysis and decision-making."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 tool has been introduced to aid the AI safety community in better understanding complex language model behavior, enabling deeper analysis and insight into AI decision-making. This innovation has the potential to improve AI safety and reliability by providing a more nuanced understanding of language models. By shedding light on AI behavior, Gemma Scope 2 can help mitigate risks and ensure more trustworthy AI interactions."
+      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, facilitating advancements in AI safety. By providing a platform for researchers to analyze and interact with language models, Gemma Scope 2 enables a deeper exploration of AI decision-making processes. This innovation has the potential to significantly impact the development of more reliable and trustworthy AI systems."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has enhanced its Gemini audio models, enabling more accurate and efficient voice recognition for a wide range of applications. This improvement allows for more powerful voice experiences, such as better voice assistants and more effective voice-to-text capabilities. The upgraded models are expected to significantly enhance the overall voice interaction experience for users."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a range of applications. This improvement enhances voice experiences, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The updated models are expected to significantly boost the performance of voice-powered devices and services."
     },
     {
       "source": "RSS",
@@ -98,7 +98,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, logistics, and healthcare by enabling more intelligent and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of physical AI, enabling machines to learn, adapt, and make decisions in complex, real-world scenarios."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities for physical systems, allowing robots and autonomous systems to better understand and interact with their environment. This innovation has the potential to revolutionize industries such as robotics, healthcare, and manufacturing. With Cosmos Reason 2, AI systems can now make more informed decisions and take more precise actions in complex, dynamic situations."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI technologies to achieve state-of-the-art results in Arabic language processing tasks. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to achieve state-of-the-art results in Arabic language processing. This innovative approach combines the strengths of different AI techniques to improve language understanding and generation capabilities. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled the DGX Spark and Reachy Mini, a pair of innovative tools that enable the creation of lifelike agents, revolutionizing the field of artificial intelligence. The DGX Spark is a powerful AI computing platform, while the Reachy Mini is a robotic arm designed for human-robot interaction. Together, they empower developers to build more realistic and interactive AI agents, opening up new possibilities for robotics, gaming, and beyond."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, innovative tools that bring artificial intelligence (AI) agents to life, enabling developers to create interactive and immersive experiences. DGX Spark is a cloud-based platform for building and training AI models, while Reachy Mini is a compact robot that can be controlled by these AI agents. This combination has the potential to revolutionize fields like robotics, gaming, and education, making AI more accessible and interactive."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative system acts as a \"guardrail\" to detect and mitigate potential risks, such as biased or toxic outputs, in LLMs. By integrating AprielGuard, developers can significantly improve the reliability and trustworthiness of AI-powered language systems."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative approach acts as a \"guardrail\" to detect and prevent potential misuse, such as generating harmful or biased content. By integrating AprielGuard, LLM systems can become more reliable and trustworthy, mitigating potential risks and improving overall performance."
     },
     {
       "source": "RSS",
@@ -134,22 +134,22 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This change allows for more efficient and flexible text processing, enabling developers to build more accurate and effective natural language processing models. The update streamlines the tokenization process, making it a significant improvement for AI and machine learning applications."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more modular, and easier to use. This new system allows for more efficient and flexible text processing, enabling developers to better fine-tune their models for specific tasks. The update aims to improve the overall performance and usability of the Transformers library, a popular open-source tool for natural language processing."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meet ski map artist James Niehues, the 'Monet of the mountains'",
+      "title": "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
       "url": "https://adventure.com/ski-map-artist-james-niehues/",
       "published": "2026-01-10T22:58:25",
       "image": "https://adventure.com/wp-content/uploads/2021/02/Hero-James-Niehues-ski-trails-Photo-credit-James-Niehues-scaled.jpg",
-      "summary": "James Niehues, dubbed the \"Monet of the mountains\", is a renowned artist known for hand-painting intricate and detailed ski maps that have become iconic in the skiing world. His unique style and technique have captured the beauty of mountain landscapes, earning him a loyal following among ski enthusiasts. Niehues' artwork has been featured in numerous resorts and publications, solidifying his legacy as a master of his craft."
+      "summary": "James Niehues, dubbed the \"Monet of the mountains\", is a renowned ski map artist known for his hand-painted illustrations of mountain resorts. His work has been featured in numerous ski resorts worldwide, blending art and cartography to create unique and detailed maps. Niehues' innovative style has redefined the traditional ski map, making him a legendary figure in the ski industry."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 120,
-    "date": "2026-01-14",
+    "duration": 117,
+    "date": "2026-01-15",
     "speakers": [
       "Alex",
       "Jordan"
