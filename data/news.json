@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-15T12:20:48.781466",
+  "updated": "2026-01-15T16:21:49.057584",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Investing in Merge Labs",
+      "url": "https://openai.com/index/investing-in-merge-labs",
+      "published": "Thu, 15 Jan 2026 07:00:00 GMT",
+      "image": "data/images/d5f9c0c4b694bd95766f458d7c370ee1.png",
+      "summary": "Merge Labs, a pioneering technology firm, has secured significant investment to further develop its innovative solutions. This funding will enable the company to expand its cutting-edge offerings, driving growth and advancement in its field. With this investment, Merge Labs is poised to make a substantial impact on the tech industry, shaping the future of emerging technologies."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "published": "Thu, 15 Jan 2026 00:00:00 GMT",
+      "image": "data/images/0db5a2ac554da5b4ff316feb318fbb43.png",
+      "summary": "The US is focusing on strengthening its AI supply chain through domestic manufacturing, aiming to reduce reliance on foreign suppliers and enhance national security. This initiative seeks to promote the development of AI-related technologies, such as semiconductors and microchips, within the country. By doing so, the US hopes to boost its competitiveness in the global AI market and mitigate potential risks associated with foreign dependence."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,7 +26,7 @@
       "url": "https://openai.com/index/cerebras-partnership",
       "published": "Wed, 14 Jan 2026 14:00:00 GMT",
       "image": "data/images/bce561fc78c9e5a4f4805ae0fb7a04a6.png",
-      "summary": "OpenAI has partnered with Cerebras, a leading AI computing company, to accelerate the development of artificial intelligence models using Cerebras' high-performance computing systems. This collaboration is expected to enable OpenAI to train larger and more complex AI models, driving innovation in areas like natural language processing and computer vision. The partnership will likely lead to significant advancements in AI capabilities and applications."
+      "summary": "OpenAI has partnered with Cerebras, a leading AI computing company, to accelerate the development of artificial intelligence models using Cerebras' high-performance computing technology. This collaboration is expected to significantly enhance the capabilities of OpenAI's models, enabling faster and more efficient processing of complex AI tasks. The partnership has the potential to drive major breakthroughs in AI research and applications."
     },
     {
       "source": "RSS",
@@ -17,7 +35,7 @@
       "url": "https://openai.com/index/zenken",
       "published": "Tue, 13 Jan 2026 16:00:00 GMT",
       "image": "data/images/cf54477bcad660daf17ac1b56a2018fc.png",
-      "summary": "Zenken has leveraged ChatGPT Enterprise to enhance the capabilities of its lean sales team, streamlining processes and improving efficiency. This integration enables the team to automate tasks and focus on high-value activities, driving business growth. By harnessing the power of AI, Zenken aims to revolutionize its sales operations and stay ahead in the competitive market."
+      "summary": "Zenken, a company with a lean sales team, has adopted ChatGPT Enterprise to enhance its sales capabilities. This integration enables the team to automate tasks, provide personalized customer support, and generate leads more efficiently. By leveraging ChatGPT's AI technology, Zenken aims to boost sales productivity and drive business growth."
     },
     {
       "source": "RSS",
@@ -26,25 +44,7 @@
       "url": "https://openai.com/index/stargate-sb-energy-partnership",
       "published": "Fri, 09 Jan 2026 11:00:00 GMT",
       "image": "data/images/9f04eb0759f7c4d6dbc7d42186d81f78.png",
-      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to advance the development of renewable energy solutions. This collaboration aims to leverage AI technology to optimize energy production and reduce carbon emissions. The partnership is expected to drive innovation in the renewable energy sector, promoting a more sustainable future."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Datadog uses Codex for system-level code review",
-      "url": "https://openai.com/index/datadog",
-      "published": "Fri, 09 Jan 2026 00:00:00 GMT",
-      "image": "data/images/e0e190cc3b2b39239c7b865b0cf750c3.png",
-      "summary": "Datadog is leveraging Codex, an AI-powered code generation tool, to conduct system-level code reviews, aiming to improve code quality and reduce errors. This integration enables automated reviews of complex systems, freeing up developers to focus on higher-level tasks. By utilizing Codex, Datadog can streamline its development process and enhance overall system reliability."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
-      "url": "https://openai.com/index/netomi",
-      "published": "Thu, 08 Jan 2026 13:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Netomi, a leading provider of AI-powered customer service solutions, is sharing its expertise on scaling agentic systems for enterprise use. By leveraging autonomous agents, businesses can streamline customer support and improve overall efficiency. Netomi's insights offer valuable lessons for companies looking to integrate AI-driven systems into their operations."
+      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to explore innovative applications of artificial intelligence in the renewable energy sector. This collaboration aims to optimize energy production, storage, and distribution using AI-powered solutions. The partnership is expected to drive sustainability and efficiency in the energy industry, leveraging OpenAI's cutting-edge technology and SB Energy's expertise in renewable energy."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
       "published": "Tue, 13 Jan 2026 17:00:18 +0000",
       "image": "data/images/6bcadc2454f12611b57d6921fe6eb3ad.png",
-      "summary": "Veo has released version 3.1 of its video creation platform, introducing new features that enhance consistency, creativity, and control. This update enables users to produce high-quality videos with more precision and flexibility, streamlining the content creation process. With Veo 3.1, users can now exercise greater creative control over their video content, resulting in more engaging and polished final products."
+      "summary": "Veo has released version 3.1 of its video creation platform, enhancing consistency, creativity, and control for users. This update allows for more precise editing and customization options, enabling creators to produce high-quality videos with ease. With Veo 3.1, users can now exercise greater creative control over their video content, streamlining the production process."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights significant research breakthroughs in 8 key areas, driving innovation in AI, machine learning, and other technologies. These advancements have the potential to transform industries and improve daily life, from enhanced language understanding to more efficient computing systems. By pushing the boundaries of what's possible, Google's research efforts are paving the way for a more technologically advanced future."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive meaningful impact across various industries, from healthcare to environmental sustainability. The breakthroughs demonstrate Google's commitment to pushing the boundaries of technological innovation and improving lives through research and development."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for rapid information processing and analysis, revolutionizing the field of frontier intelligence. This innovative technology prioritizes speed, enabling faster decision-making and response times. By leveraging Gemini 3 Flash, users can stay ahead of the curve with real-time insights and actionable intelligence."
+      "summary": "Gemini 3 Flash is a cutting-edge intelligence platform designed for exceptional speed, enabling faster and more efficient processing of complex data. This innovative technology has the potential to revolutionize various industries by providing rapid insights and decision-making capabilities. With its enhanced performance, Gemini 3 Flash is poised to transform the way organizations approach data analysis and intelligence gathering."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 project aims to advance AI safety by providing a platform for researchers to analyze and understand complex language model behavior. This initiative enables the AI safety community to deepen their knowledge of language models, identifying potential risks and improving their overall reliability. By shedding light on these complex systems, Gemma Scope 2 has the potential to significantly impact the development of more secure and trustworthy AI models."
+      "summary": "The Gemma Scope 2 tool has been released to aid the AI safety community in better understanding complex language model behavior, enabling researchers to analyze and identify potential risks. This innovation allows for deeper insights into AI decision-making processes, promoting more reliable and trustworthy AI systems. By enhancing transparency and interpretability, Gemma Scope 2 contributes to the development of safer and more responsible AI technologies."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a wide range of applications. This innovation enhances voice experiences, allowing for better speech-to-text capabilities and more seamless interactions with virtual assistants. The improved models are expected to significantly boost the performance of voice-powered devices and services."
+      "summary": "Google has introduced improved Gemini audio models, enhancing voice experiences with more accurate and efficient speech recognition. This innovation enables more powerful voice interactions, allowing for seamless communication between humans and devices. The upgraded models are expected to significantly impact virtual assistants, voice-controlled devices, and other applications that rely on voice technology."
     },
     {
       "source": "RSS",
@@ -97,8 +97,8 @@
       "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
-      "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, healthcare, and logistics by enhancing the intelligence and autonomy of physical systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of AI capabilities in the physical world."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning in physical environments, allowing robots and machines to better understand and interact with their surroundings. This innovation has the potential to revolutionize industries such as manufacturing, healthcare, and logistics by enabling more intelligent and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of physical AI, enabling machines to learn, reason, and adapt in complex environments."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that utilizes a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to achieve state-of-the-art results in Arabic language processing. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a revolutionary AI model that leverages a hybrid architecture to achieve state-of-the-art results in Arabic language processing. This innovative approach combines the strengths of different AI techniques to improve language understanding and generation capabilities. By pushing the boundaries of Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, such as language translation and text summarization, for Arabic-speaking communities."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has introduced DGX Spark and Reachy Mini, a pair of innovative tools that enable the creation of lifelike agents, revolutionizing fields such as robotics and artificial intelligence. DGX Spark is a powerful AI computing platform, while Reachy Mini is a miniature robot designed for research and development. Together, they allow developers to build and interact with highly realistic virtual agents, opening up new possibilities for human-computer interaction and AI-driven applications."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, innovative tools that bring AI agents to life by enabling the creation of interactive, humanoid robots. The Reachy Mini is a compact, robotic platform that can be programmed with various AI tasks, while DGX Spark provides the necessary computational power to drive these tasks. This breakthrough has the potential to revolutionize industries such as healthcare, education, and customer service with interactive, AI-powered robots."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "published": "Tue, 23 Dec 2025 14:07:35 GMT",
       "image": "data/images/a19849b13092ea690b766b7929804637.png",
-      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovation aims to protect LLMs from potential attacks and biases, ensuring more reliable and trustworthy outputs. By integrating AprielGuard, developers can significantly improve the overall security and performance of their AI systems."
+      "summary": "Researchers have introduced AprielGuard, a novel framework designed to enhance the safety and adversarial robustness of modern Large Language Models (LLMs). This innovative system acts as a \"guardrail\" to detect and prevent potential hazards, such as biased or toxic responses, in LLM outputs. By integrating AprielGuard, developers can significantly improve the reliability and trustworthiness of AI-powered language systems."
     },
     {
       "source": "RSS",
@@ -134,16 +134,25 @@
       "url": "https://huggingface.co/blog/tokenizers",
       "published": "Thu, 18 Dec 2025 00:00:00 GMT",
       "image": "data/images/95d0b9c271150f448df044e87bab7e3a.png",
-      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, clearer, and more modular. This change allows for easier integration with other libraries and models, enabling more efficient and flexible natural language processing (NLP) applications. The updated tokenization system is expected to improve the overall performance and usability of Transformers, a popular open-source NLP library."
+      "summary": "The latest Transformers v5 update introduces a revamped tokenization system, making it simpler, more transparent, and modular for developers. This change enables easier integration with other libraries and models, allowing for more flexible and efficient natural language processing applications. The updated tokenization system is expected to improve the overall performance and usability of Transformers v5."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A letter to those who fired tech writers because of AI",
-      "url": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
-      "published": "2026-01-15T07:58:23",
-      "image": "https://passo.uno/thumb.png",
-      "summary": "A recent post on Hacker News argues that firing tech writers in favor of AI-generated content is a short-sighted decision, as human writers bring nuance, empathy, and critical thinking to technical documentation. The author emphasizes that AI can assist, but not replace, the complexity and creativity that human writers bring to the table. By relying solely on AI, companies may compromise the quality and effectiveness of their technical communications."
+      "title": "OBS Studio 32.1.0 Beta 1 available",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1",
+      "published": "2026-01-15T14:57:53",
+      "image": "https://opengraph.githubassets.com/eebb43aa139d9a0e46ecfd2ac202996d3d2cb87fe63560d9c25adbf571e60de1/obsproject/obs-studio/releases/tag/32.1.0-beta1",
+      "summary": "OBS Studio has released its 32.1.0 Beta 1, offering a slew of new features and improvements to enhance the live streaming and video recording experience. This update includes a revamped UI, improved performance, and enhanced plugin support. The beta version is now available for testing, allowing users to try out the latest features before the official release."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Palantir app helping ICE raids in Minneapolis",
+      "url": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+      "published": "2026-01-15T14:54:51",
+      "image": "https://www.404media.co/content/images/size/w1200/2026/01/54976776897_a1f5f78a32_k.jpg",
+      "summary": "A Palantir app is reportedly being used by US Immigration and Customs Enforcement (ICE) to facilitate raids in Minneapolis, sparking controversy over the tech company's involvement in immigration enforcement. The app allegedly provides ICE with real-time data and analytics to track and locate targets, raising concerns about surveillance and privacy. This development highlights the growing intersection of technology and immigration policy, with Palantir's software playing a key role in ICE's operations."
     },
     {
       "source": "Hacker News",
@@ -151,27 +160,27 @@
       "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
       "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
       "published": "2026-01-15T08:23:02",
-      "image": "data/images/8224b3b6725e2cc9c5448150b46e1a54.png",
-      "summary": "Raspberry Pi has unveiled a new AI-focused hat that adds 8GB of RAM, enabling users to run large language models (LLMs) locally on their devices. This innovation allows for more efficient and private AI processing, eliminating the need for cloud-based services. The new hat expands the capabilities of Raspberry Pi devices, making them more suitable for AI-driven projects and applications."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Raspberry Pi has unveiled a new AI hat that boosts local machine learning capabilities with 8GB of RAM, enabling the deployment of large language models (LLMs) directly on the device. This innovation allows for faster and more private AI processing, making it ideal for applications that require low-latency and secure data handling. The new AI hat expands the possibilities for Raspberry Pi-based projects, from smart home automation to AI-powered robotics."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Sparrow-1 \u2013 Audio-native model for human-level turn-taking without ASR",
-      "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
-      "published": "2026-01-14T18:01:23",
-      "image": "https://cdn.prod.website-files.com/68c8e57d6e512b9573db147f/6965b91ae4d9714025045033_Hero222.png",
-      "summary": "Sparrow-1 is a groundbreaking audio-native model that enables human-level turn-taking in conversations without relying on Automatic Speech Recognition (ASR) technology. This innovation allows for more natural and seamless interactions between humans and machines, potentially revolutionizing voice assistants and chatbots. By bypassing traditional ASR methods, Sparrow-1 can respond more quickly and accurately to spoken input, making it a significant breakthrough in audio-based AI."
+      "title": "Sinclair C5",
+      "url": "https://en.wikipedia.org/wiki/Sinclair_C5",
+      "published": "2026-01-10T20:31:51",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sinclair_C5_with_high_vis_mast.jpg/1280px-Sinclair_C5_with_high_vis_mast.jpg",
+      "summary": "The Sinclair C5 is a retro-futuristic single-seat, battery-assisted vehicle launched in 1985, showcasing a unique blend of innovation and nostalgia. This pioneering electric vehicle was designed for short-distance commuting, boasting a top speed of 15 mph and a range of 20 miles. Although it wasn't a commercial success, the Sinclair C5 remains an iconic symbol of 80s tech experimentation and a precursor to modern e-vehicle designs."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
-    "duration": 113,
+    "duration": 127,
     "date": "2026-01-15",
     "speakers": [
       "Alex",
       "Jordan"
     ],
-    "segments": 8
+    "segments": 9
   }
 }
