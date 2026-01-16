@@ -1,14 +1,32 @@
 {
-  "updated": "2026-01-16T16:15:17.390574",
+  "updated": "2026-01-16T20:03:33.332838",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing ChatGPT Go, now available worldwide",
+      "url": "https://openai.com/index/introducing-chatgpt-go",
+      "published": "Fri, 16 Jan 2026 00:00:00 GMT",
+      "image": "data/images/8389479bea071ad21c7425be24b6d8a1.png",
+      "summary": "ChatGPT Go has been launched worldwide, expanding access to the AI chatbot's capabilities. This global rollout enables users to interact with the model in various languages, further bridging the gap between humans and artificial intelligence. With ChatGPT Go, users can now experience the power of conversational AI anywhere, anytime."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "published": "Fri, 16 Jan 2026 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "OpenAI is introducing a new advertising approach to expand access to ChatGPT, aiming to make the AI model more widely available while maintaining a high-quality user experience. This move will help support the development of ChatGPT and enable more people to benefit from its capabilities. By doing so, OpenAI is bridging the gap between innovation and accessibility in AI technology."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
       "title": "Investing in Merge Labs",
       "url": "https://openai.com/index/investing-in-merge-labs",
       "published": "Thu, 15 Jan 2026 07:00:00 GMT",
-      "image": "data/images/d5f9c0c4b694bd95766f458d7c370ee1.png",
-      "summary": "Merge Labs, a pioneering tech firm, has secured significant investment to further develop its innovative solutions. This funding will accelerate the company's growth and expansion, driving cutting-edge advancements in its field. The investment is expected to have a profound impact on the industry, enabling Merge Labs to revolutionize the way businesses operate and interact."
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Merge Labs, a cutting-edge tech firm, has secured significant investment to further develop its innovative solutions. This funding will enable the company to accelerate its growth and expand its offerings, driving meaningful impact in the industry. With this investment, Merge Labs is poised to revolutionize the tech landscape with its groundbreaking technologies."
     },
     {
       "source": "RSS",
@@ -17,7 +35,7 @@
       "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
       "published": "Thu, 15 Jan 2026 00:00:00 GMT",
       "image": "data/images/0db5a2ac554da5b4ff316feb318fbb43.png",
-      "summary": "The US is pushing to strengthen its AI supply chain by investing in domestic manufacturing, aiming to reduce reliance on foreign suppliers. This initiative seeks to boost the production of AI-related components, such as semiconductors, within the country. By doing so, the US hopes to enhance its AI capabilities, improve national security, and stay competitive in the global tech landscape."
+      "summary": "The US is focusing on strengthening its AI supply chain by promoting domestic manufacturing, aiming to reduce reliance on foreign-made components. This initiative seeks to enhance national security and competitiveness in the tech industry. By boosting domestic production, the US hopes to accelerate AI innovation and development while minimizing vulnerabilities in its supply chain."
     },
     {
       "source": "RSS",
@@ -26,25 +44,7 @@
       "url": "https://openai.com/index/cerebras-partnership",
       "published": "Wed, 14 Jan 2026 14:00:00 GMT",
       "image": "data/images/bce561fc78c9e5a4f4805ae0fb7a04a6.png",
-      "summary": "OpenAI has partnered with Cerebras, a leading AI computing company, to accelerate the development of artificial intelligence models using Cerebras' high-performance computing technology. This collaboration is expected to significantly enhance the performance and efficiency of OpenAI's models, enabling faster and more accurate processing of complex AI tasks. The partnership will likely drive innovation in areas like natural language processing and computer vision."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-      "url": "https://openai.com/index/zenken",
-      "published": "Tue, 13 Jan 2026 16:00:00 GMT",
-      "image": "data/images/cf54477bcad660daf17ac1b56a2018fc.png",
-      "summary": "Zenken, a sales-focused company, has integrated ChatGPT Enterprise to enhance its lean sales team's capabilities. This innovative move aims to boost productivity and efficiency by leveraging AI-driven automation and personalized customer interactions. By adopting ChatGPT Enterprise, Zenken can now provide more tailored support and streamline its sales processes."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI and SoftBank Group partner with SB Energy",
-      "url": "https://openai.com/index/stargate-sb-energy-partnership",
-      "published": "Fri, 09 Jan 2026 11:00:00 GMT",
-      "image": "data/images/9f04eb0759f7c4d6dbc7d42186d81f78.png",
-      "summary": "OpenAI and SoftBank Group have partnered with SB Energy to accelerate the development of renewable energy technologies. This collaboration aims to leverage AI and machine learning to optimize energy production and reduce costs. By combining their expertise, the companies hope to drive innovation in the renewable energy sector and promote a more sustainable future."
+      "summary": "OpenAI has partnered with Cerebras, a leading AI computing company, to accelerate the development of large language models using Cerebras' high-performance computing systems. This collaboration aims to improve the efficiency and scalability of AI training, enabling OpenAI to push the boundaries of language understanding and generation. The partnership is expected to drive significant advancements in AI research and applications."
     },
     {
       "source": "RSS",
@@ -53,7 +53,7 @@
       "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
       "published": "Tue, 13 Jan 2026 17:00:18 +0000",
       "image": "data/images/6bcadc2454f12611b57d6921fe6eb3ad.png",
-      "summary": "Veo has released version 3.1, enhancing its \"Ingredients to Video\" platform with improved consistency, creativity, and control features. This update enables users to produce high-quality, customized videos more efficiently, with advanced editing capabilities and streamlined workflows. The new version empowers creators to focus on storytelling and visual expression, taking video production to the next level."
+      "summary": "Veo has released version 3.1 of its \"Ingredients to Video\" platform, enhancing consistency, creativity, and control for users. This update enables more efficient video creation, allowing for streamlined workflows and increased productivity. With Veo 3.1, users can now produce high-quality videos with greater ease and precision."
     },
     {
       "source": "RSS",
@@ -62,7 +62,7 @@
       "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
       "published": "Tue, 23 Dec 2025 17:01:02 +0000",
       "image": "data/images/baf7f40a9936d86d0fe7b8abcb184cfb.png",
-      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing the company's advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impact across industries, from improved language understanding to enhanced computer vision capabilities. By pushing the boundaries of what's possible, Google's research efforts are paving the way for a more technologically advanced future."
+      "summary": "Google's 2025 year in review highlights 8 key areas with significant research breakthroughs, showcasing advancements in AI, machine learning, and other emerging technologies. These innovations have the potential to drive major impact across industries, from improved language understanding to enhanced computer vision capabilities. The breakthroughs demonstrate Google's continued commitment to pushing the boundaries of technological innovation and exploration."
     },
     {
       "source": "RSS",
@@ -71,7 +71,7 @@
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
       "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid intelligence gathering, leveraging advanced technologies to deliver swift and accurate insights. This innovative platform is built for speed, enabling faster decision-making and response times in various applications. By prioritizing velocity, Gemini 3 Flash aims to revolutionize the field of frontier intelligence."
+      "summary": "Gemini 3 Flash is a cutting-edge AI model designed for rapid intelligence gathering, boasting enhanced speed and performance. This innovative technology is built to process vast amounts of data quickly, enabling faster decision-making and insights. With Gemini 3 Flash, users can expect accelerated information processing and analysis, revolutionizing the field of frontier intelligence."
     },
     {
       "source": "RSS",
@@ -80,7 +80,7 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "The Gemma Scope 2 tool has been introduced to aid the AI safety community in better understanding complex language model behavior, enabling researchers to analyze and identify potential biases and flaws. This innovation has the potential to significantly enhance the development of more reliable and trustworthy AI systems. By providing deeper insights into language models, Gemma Scope 2 can help mitigate risks associated with AI decision-making."
+      "summary": "The Gemma Scope 2 project aims to enhance the understanding of complex language model behavior, promoting AI safety by providing insights into the decision-making processes of large language models. This initiative will help researchers identify potential biases and flaws, ultimately contributing to the development of more reliable and trustworthy AI systems. By deepening our understanding of language models, Gemma Scope 2 can help mitigate risks associated with AI and foster more responsible AI development."
     },
     {
       "source": "RSS",
@@ -89,7 +89,7 @@
       "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
       "published": "Fri, 12 Dec 2025 17:50:50 +0000",
       "image": "data/images/59261b664e712826193a52d7161687d4.png",
-      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a wide range of applications. This enhancement is expected to significantly improve voice experiences, such as voice assistants and speech-to-text systems. With Gemini, developers can create more powerful and intuitive voice-powered interfaces, revolutionizing the way users interact with technology."
+      "summary": "Google has upgraded its Gemini audio models, enabling more accurate and efficient voice recognition for a wide range of applications. This improvement enhances the overall voice experience, allowing for better speech recognition, transcription, and voice assistants. The upgraded models are expected to power more intuitive and responsive voice interactions across various devices and platforms."
     },
     {
       "source": "RSS",
@@ -97,8 +97,8 @@
       "title": "Introducing OptiMind, a research model designed for optimization",
       "url": "https://huggingface.co/blog/microsoft/optimind",
       "published": "Thu, 15 Jan 2026 18:49:16 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "OptiMind is a new research model that leverages advanced algorithms to optimize complex systems, enabling faster and more efficient decision-making. This innovative model has the potential to revolutionize fields such as logistics, finance, and energy management. By streamlining processes and reducing waste, OptiMind can drive significant cost savings and productivity gains for businesses and organizations."
+      "image": "data/images/873c6fb49615844922576a4a3c047e1d.png",
+      "summary": "OptiMind is a newly introduced research model that leverages advanced algorithms to optimize complex systems and processes. This innovative model has the potential to revolutionize various industries by streamlining operations and improving overall efficiency. By harnessing the power of optimization, OptiMind can help organizations make data-driven decisions and drive significant cost savings."
     },
     {
       "source": "RSS",
@@ -107,7 +107,7 @@
       "url": "https://huggingface.co/blog/open-responses",
       "published": "Thu, 15 Jan 2026 00:00:00 GMT",
       "image": "data/images/3730316cbbe7de90176bd0559cc4b001.png",
-      "summary": "Open Responses is a new AI technology that enables computers to generate human-like responses to open-ended questions and prompts. This innovation has the potential to revolutionize chatbots, virtual assistants, and other interactive systems, making them more conversational and user-friendly. By leveraging advanced natural language processing, Open Responses can provide more accurate and context-specific answers, enhancing overall user experience."
+      "summary": "Open Responses is a new AI-powered feature that enables users to generate human-like responses to various prompts and questions. This technology has the potential to revolutionize content creation, customer service, and more by providing personalized and engaging interactions. By leveraging machine learning, Open Responses can help automate tasks and improve user experiences across multiple industries."
     },
     {
       "source": "RSS",
@@ -116,7 +116,7 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
-      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities for physical systems, allowing robots and autonomous devices to better understand and interact with their environment. This innovation has the potential to revolutionize industries such as robotics, healthcare, and manufacturing. With Cosmos Reason 2, AI systems can now make more informed decisions and adapt to complex, dynamic situations."
+      "summary": "NVIDIA has unveiled Cosmos Reason 2, a cutting-edge AI platform that enables advanced reasoning capabilities in physical environments. This innovation allows AI systems to better understand and interact with the physical world, paving the way for more sophisticated robotics and autonomous systems. With Cosmos Reason 2, NVIDIA is pushing the boundaries of AI capabilities, enabling more intelligent and adaptive machines."
     },
     {
       "source": "RSS",
@@ -125,7 +125,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
       "published": "Mon, 05 Jan 2026 09:16:51 GMT",
       "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
-      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI technologies to push the boundaries of Arabic language processing, enabling more accurate and efficient text analysis and creation. By advancing Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to content creation."
+      "summary": "Researchers have introduced Falcon-H1-Arabic, a groundbreaking AI model that leverages a hybrid architecture to significantly improve Arabic language understanding and generation capabilities. This innovative approach combines the strengths of different AI techniques to push the boundaries of Arabic language processing, enabling more accurate and efficient language analysis. By advancing Arabic language AI, Falcon-H1-Arabic has the potential to enhance various applications, from language translation to text summarization."
     },
     {
       "source": "RSS",
@@ -134,16 +134,7 @@
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "published": "Mon, 05 Jan 2026 00:00:00 GMT",
       "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a pair of innovative tools that enable the creation of interactive, AI-powered agents. DGX Spark is a cloud-based platform for building and training AI models, while Reachy Mini is a robotic platform for bringing these agents to life in the physical world. This combination has the potential to revolutionize fields such as robotics, education, and entertainment with more realistic and engaging interactions."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old",
-      "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
-      "published": "2026-01-16T13:44:25",
-      "image": "https://cdn8.openculture.com/2026/01/14225619/Screenshot-2026-01-14-at-10.57.21-PM-1024x597.png",
-      "summary": "Researchers have uncovered what is believed to be Michelangelo's first painting, created when the renowned artist was just 12 or 13 years old. The discovery sheds new light on Michelangelo's early development as an artist, showcasing his impressive talent from a young age. This finding provides a unique glimpse into the formative years of one of history's most iconic artists."
+      "summary": "NVIDIA has unveiled DGX Spark and Reachy Mini, a pair of innovative tools that bring AI agents to life by enabling the creation of interactive, humanoid robots. The Reachy Mini is a compact, robotic arm that can be controlled by AI models, while DGX Spark is a platform that streamlines the development of AI-powered robots. This technology has the potential to revolutionize industries such as healthcare, education, and entertainment with interactive, AI-driven robots."
     },
     {
       "source": "Hacker News",
@@ -152,25 +143,43 @@
       "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
       "published": "2026-01-16T15:37:19",
       "image": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png",
-      "summary": "Google has made 6-day and IP address certificates generally available, allowing for more flexible and secure certificate issuance options. This update enables developers to obtain short-lived certificates for temporary projects or testing environments, and IP address certificates for securing IP-based communications. This change aims to improve the security and convenience of certificate management for developers and organizations."
+      "summary": "Google has announced the general availability of 6-day and IP address certificates, allowing for more flexible and secure certificate issuance options. This update enables organizations to issue certificates with shorter lifespans, reducing the risk of certificate-related security breaches. The new options provide greater control and automation for certificate management, enhancing overall security and compliance."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory",
+      "title": "Michelangelo's first painting, created when he was 12 or 13",
+      "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
+      "published": "2026-01-16T13:44:25",
+      "image": "https://cdn8.openculture.com/2026/01/14225619/Screenshot-2026-01-14-at-10.57.21-PM-1024x597.png",
+      "summary": "Researchers have uncovered what is believed to be Michelangelo's first painting, created when the renowned artist was just 12 or 13 years old. The discovery sheds new light on Michelangelo's early life and artistic development, providing a unique glimpse into the formative years of a master artist. This finding is a significant contribution to art history, offering insights into the emergence of one of the world's most iconic artists."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Indy (YC S21) \u2013 A support app designed for ADHD brains",
+      "url": "https://www.shimmer.care/indy-redirect",
+      "published": "2026-01-16T16:20:21",
+      "image": "https://cdn.prod.website-files.com/5fd53aee74de0344a4307aad/69418262bdc15a26ad6c6ba9_shimmer-indy-meta.avif",
+      "summary": "Indy, a startup from Y Combinator's Summer 2021 batch, has launched an innovative support app tailored for individuals with ADHD, aiming to help them stay organized and focused. The app utilizes personalized strategies and tools to cater to unique ADHD brain functions, promoting productivity and mental well-being. By providing a customized support system, Indy seeks to improve the daily lives of those living with ADHD."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs/",
+      "published": "2026-01-16T17:00:29",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/a5f4989742560bd0715218257a7c7ea7f73ab700.png?1712364271",
+      "summary": "Zep AI, a startup backed by Y Combinator, is hiring forward-deployed engineers to drive innovation in AI agent context engineering. This role will involve working closely with customers to develop and deploy AI solutions, pushing the boundaries of what's possible with AI. By joining Zep AI, engineers can be at the forefront of shaping the future of AI applications."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
       "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
       "published": "2026-01-16T13:39:31",
-      "image": "data/images/5f71808469cd269e89c7bb186bd755b3.png",
-      "summary": "Dev-owned testing, where developers are responsible for testing their own code, often fails in practice due to lack of objectivity and inadequate testing expertise. However, in theory, it can succeed by reducing testing cycles and increasing developer accountability. When implemented correctly, dev-owned testing can bridge the gap between development and quality assurance, leading to faster and more reliable software releases."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "psc: The ps utility, with an eBPF twist and container context",
-      "url": "https://github.com/loresuso/psc",
-      "published": "2026-01-16T13:20:20",
-      "image": "https://opengraph.githubassets.com/df1cd7a19b55f34841e5363caa4b01c199c5835b9d346c95e9d9e600045ba388/loresuso/psc",
-      "summary": "The \"psc\" tool is a modern alternative to the traditional \"ps\" utility, leveraging eBPF (extended Berkeley Packet Filter) to provide more detailed and efficient process monitoring. This new tool adds container context, allowing for better visibility into containerized environments. By combining eBPF and container awareness, psc offers a more comprehensive and powerful process inspection experience."
+      "image": "data/images/527ed5ebf28cda770e2a0384690eadaf.png",
+      "summary": "The concept of dev-owned testing, where developers take ownership of testing their own code, often fails in practice due to lack of testing expertise and inadequate prioritization. However, in theory, it has the potential to improve code quality and reduce bugs by allowing developers to catch issues early on. By acknowledging the challenges and limitations, teams can work to implement dev-owned testing more effectively, leading to better software development outcomes."
     },
     {
       "source": "Hacker News",
@@ -179,35 +188,34 @@
       "url": "https://dmvaldman.github.io/rooklift/",
       "published": "2026-01-14T22:19:36",
       "image": "data/images/c11c024e088e1fdaf4273b9f637e66ea.png",
-      "summary": "A developer has successfully trained their smartwatch to track cognitive functions, such as attention and mental workload, using machine learning algorithms and physiological data. This innovative approach could potentially enable smartwatches to monitor and support mental health and productivity. By leveraging wearable technology, individuals may gain valuable insights into their cognitive abilities and receive personalized recommendations for improvement."
+      "summary": "A developer has successfully trained their smartwatch to track cognitive functions, such as attention and mental workload, using machine learning algorithms and physiological data from the device. This innovative approach could potentially enable smartwatches to monitor and support mental health and productivity. By leveraging wearable technology, individuals may gain valuable insights into their cognitive state and receive personalized recommendations for improvement."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: The Analog I \u2013 Inducing Recursive Self-Modeling in LLMs [pdf]",
-      "url": "https://github.com/philMarcus/Birth-of-a-Mind",
-      "published": "2026-01-16T13:40:19",
-      "image": "https://opengraph.githubassets.com/b4de010bed1f4c1e084e4f8c1266ee68e4ad1827e5a604016b71e921c54f303e/philMarcus/Birth-of-a-Mind",
-      "summary": "Researchers have introduced \"The Analog I\", a novel approach to induce recursive self-modeling in Large Language Models (LLMs), enabling them to better understand their own thought processes and generate more accurate responses. This innovation has the potential to significantly improve LLMs' ability to reason and learn from their own outputs. By allowing LLMs to reflect on their own models, \"The Analog I\" could lead to more advanced and human-like AI capabilities."
+      "title": "psc: The ps utility, with an eBPF twist and container context",
+      "url": "https://github.com/loresuso/psc",
+      "published": "2026-01-16T13:20:20",
+      "image": "https://opengraph.githubassets.com/da2d5b4320a1cdd4cc10f62c42091757134cdb0ae7143bfb03e5019260fb19bc/loresuso/psc",
+      "summary": "The \"psc\" tool is a modern alternative to the traditional \"ps\" utility, leveraging eBPF (extended Berkeley Packet Filter) to provide enhanced process monitoring and container-aware context. This innovation enables more accurate and detailed insights into system performance, particularly in containerized environments. By combining eBPF's advanced tracing capabilities with container awareness, psc offers a powerful new way to diagnose and troubleshoot complex system issues."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Altaid 8800 (2024)",
-      "url": "https://sunrise-ev.com/8080.htm",
-      "published": "2026-01-12T05:42:21",
+      "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
+      "url": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/",
+      "published": "2026-01-16T06:54:55",
+      "image": "data/images/d5af4bfafe992fde8acbb961dd71b816.png",
+      "summary": "Researchers are exploring ways to integrate non-deterministic AI outputs into traditional software, enabling more reliable and efficient deployment of AI models. This involves developing new techniques to manage and predict AI output variability, allowing for smoother integration with conventional code. By tackling this challenge, developers can unlock more widespread adoption of AI-powered solutions in mainstream applications."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+      "published": "2026-01-16T18:02:19",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "The Altaid 8800, set to release in 2024, promises to revolutionize the AI landscape with its unprecedented processing power and cutting-edge architecture. This next-generation AI accelerator is expected to significantly boost performance in complex tasks like natural language processing and computer vision. By pushing the boundaries of AI computing, the Altaid 8800 has the potential to drive breakthroughs in various industries, from healthcare to finance."
+      "summary": "OpenAI is introducing a new advertising approach to support the development of ChatGPT, while also expanding access to the AI model. This move aims to balance revenue generation with the goal of making ChatGPT more widely available to users. By doing so, OpenAI hopes to further improve and refine the capabilities of its popular conversational AI platform."
     }
-  ],
-  "podcast": {
-    "file": "data/podcast/latest.mp3",
-    "duration": 123,
-    "date": "2026-01-16",
-    "speakers": [
-      "Alex",
-      "Jordan"
-    ],
-    "segments": 9
-  }
+  ]
 }
