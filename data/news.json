@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-18T12:03:18.936513",
+  "updated": "2026-01-18T16:03:25.431037",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Five Practical Lessons for Serving Models with Triton Inference Server",
-      "url": "https://talperry.com/en/posts/genai/triton-inference-server/",
-      "published": "2026-01-13T15:27:16",
-      "image": "data/images/40b7fdf84f7e83b6cd37c3ff226e8495.png",
+      "title": "Starting from scratch: Training a 30M Topological Transformer",
+      "url": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
+      "published": "2026-01-18T11:39:14",
+      "image": "data/images/2c6bfd2b64874937a1473633e212f47c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "More sustainable epoxy thanks to phosphorus",
+      "url": "https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen",
+      "published": "2026-01-14T10:43:31",
+      "image": "https://www.empa.ch/documents/56164/33636011/eq90-sustainable-epoxy-mailexpert-600x337.jpg/711415d8-4f34-3a56-4d12-2c99cc06c692?version=1.0&t=1765378333525&imagePreview=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Figma-use \u2013 CLI to control Figma for AI agents",
+      "url": "https://github.com/dannote/figma-use",
+      "published": "2026-01-18T05:55:48",
+      "image": "https://opengraph.githubassets.com/0e703c41a2492b2e0b41c5666f209942bf0f087b9b05515709fac51245fb5e76/dannote/figma-use",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI companies will fail. We can salvage something from the wreckage",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur",
+      "published": "2026-01-18T14:45:37",
+      "image": "https://i.guim.co.uk/img/media/3cab6e38d4ff57c0631ad4532131aa15878f8386/284_824_2216_1773/master/2216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35399f4f1d76c88a6b1cc65f4fc711f5",
       "summary": "Summary unavailable."
     },
     {
