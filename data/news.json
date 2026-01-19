@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T04:43:39.286944",
+  "updated": "2026-01-19T08:18:30.608123",
   "articles": [
     {
       "source": "RSS",
@@ -97,7 +97,7 @@
       "title": "Introducing OptiMind, a research model designed for optimization",
       "url": "https://huggingface.co/blog/microsoft/optimind",
       "published": "Thu, 15 Jan 2026 18:49:16 GMT",
-      "image": "data/images/873c6fb49615844922576a4a3c047e1d.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,17 +139,8 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "At least 21 killed in Spain after crash involving high-speed trains",
-      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
-      "published": "2026-01-18T23:54:43",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0871/live/ced51930-f4b7-11f0-a422-4ba8a094a8fa.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: I quit coding years ago. AI brought me back",
-      "url": "https://calquio.com",
+      "url": "https://calquio.com/finance/compound-interest",
       "published": "2026-01-19T00:50:20",
       "image": "data/images/2b44f22fcde605917417521b2bc3ace2.png",
       "summary": "Summary unavailable."
@@ -157,10 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Predicting OpenAI's ad strategy",
-      "url": "https://ossa-ma.github.io/blog/openads",
-      "published": "2026-01-18T14:25:49",
-      "image": "https://ossa-ma.github.io/images/theworldisads.png",
+      "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
+      "url": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/",
+      "published": "2026-01-16T06:54:55",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "High-speed train collision in Spain kills at least 21",
+      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
+      "published": "2026-01-18T23:54:43",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d332/live/68e21de0-f50b-11f0-a422-4ba8a094a8fa.jpg",
       "summary": "Summary unavailable."
     }
   ],
