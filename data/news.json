@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-18T20:03:32.808642",
+  "updated": "2026-01-19T00:51:02.638377",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "AI for human agency",
+      "title": "AI for self empowerment",
       "url": "https://openai.com/index/ai-for-human-agency",
       "published": "Sun, 18 Jan 2026 12:00:00 GMT",
-      "image": "data/images/64d9981c0b1f15bc0a296965fd9437b5.png",
+      "image": "data/images/585445a8df4467f34d0d1236da060701.png",
       "summary": "Summary unavailable."
     },
     {
@@ -15,7 +15,7 @@
       "source_name": "OpenAI News",
       "title": "A business that scales with the value of intelligence",
       "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-      "published": "Sat, 17 Jan 2026 00:00:00 GMT",
+      "published": "Sun, 18 Jan 2026 10:00:00 GMT",
       "image": "data/images/beec099e647171dbd8e5f95bdf26b999.png",
       "summary": "Summary unavailable."
     },
@@ -25,7 +25,7 @@
       "title": "The truth left out from Elon Musk\u2019s recent court filing",
       "url": "https://openai.com/index/the-truth-elon-left-out",
       "published": "Fri, 16 Jan 2026 12:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b61b884f63798969f73e0294235b7660.png",
       "summary": "Summary unavailable."
     },
     {
@@ -70,7 +70,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Predicting OpenAI's ad strategy",
+      "url": "https://ossa-ma.github.io/blog/openads",
+      "published": "2026-01-18T14:25:49",
+      "image": "https://ossa-ma.github.io/images/theworldisads.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Sins of the Children (Adrian Tchaikovsky)",
       "url": "https://asteriskmag.com/issues/07/sins-of-the-children",
       "published": "2026-01-18T17:08:58",
@@ -157,53 +166,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Predicting OpenAI's ad strategy",
-      "url": "https://ossa-ma.github.io/blog/openads",
-      "published": "2026-01-18T14:25:49",
-      "image": "https://ossa-ma.github.io/images/theworldisads.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Starting from scratch: Training a 30M Topological Transformer",
       "url": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
       "published": "2026-01-18T11:39:14",
       "image": "data/images/2c6bfd2b64874937a1473633e212f47c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Figma-use \u2013 CLI to control Figma for AI agents",
-      "url": "https://github.com/dannote/figma-use",
-      "published": "2026-01-18T05:55:48",
-      "image": "https://opengraph.githubassets.com/2cf6fae3bd98d29fe5ad557cb27dc67e6fa333dbf64d9afa8f3587c71e580dc2/dannote/figma-use",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tired of AI, people are committing to the analog lifestyle in 2026",
-      "url": "https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness",
-      "published": "2026-01-18T19:04:48",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/image2-20260117224224808.jpg?c=16x9&q=w_800,c_fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
-      "url": "https://twitter.com/neelsomani/status/2012695714187325745",
-      "published": "2026-01-18T03:48:03",
-      "image": "data/images/2f45db76cf73a2aa42b6f1f72a576e82.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-18",
+    "date": "2026-01-19",
     "speakers": [
       "Alex",
       "Jordan"
