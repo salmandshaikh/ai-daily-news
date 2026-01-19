@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T12:21:50.152315",
+  "updated": "2026-01-19T16:15:48.789547",
   "articles": [
     {
       "source": "RSS",
@@ -25,15 +25,6 @@
       "title": "The truth left out from Elon Musk\u2019s recent court filing",
       "url": "https://openai.com/index/the-truth-elon-left-out",
       "published": "Fri, 16 Jan 2026 12:00:00 GMT",
-      "image": "data/images/b61b884f63798969f73e0294235b7660.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our approach to advertising and expanding access to ChatGPT",
-      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "published": "Fri, 16 Jan 2026 00:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -44,6 +35,15 @@
       "url": "https://openai.com/index/introducing-chatgpt-go",
       "published": "Fri, 16 Jan 2026 00:00:00 GMT",
       "image": "data/images/8389479bea071ad21c7425be24b6d8a1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "published": "Fri, 16 Jan 2026 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "West Midlands police chief quits over AI hallucination",
+      "url": "https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/",
+      "published": "2026-01-19T14:54:02",
+      "image": "https://regmedia.co.uk/2018/11/01/shutterstock_run_to_fire_exit.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Radboud University selects Fairphone as standard smartphone for employees",
       "url": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
       "published": "2026-01-19T08:23:04",
       "image": "https://www.ru.nl/sites/default/files/styles/open_graph_image/public/recharge/smartphone-mobile-hand-person-people-technology-595792-pxhere_com.jpg?itok=vMhdDJ4_",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I quit coding years ago. AI brought me back",
+      "url": "https://calquio.com/finance/compound-interest",
+      "published": "2026-01-19T00:50:20",
+      "image": "data/images/2b44f22fcde605917417521b2bc3ace2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -161,33 +179,6 @@
       "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup",
       "published": "2026-01-19T10:09:38",
       "image": "data/images/8a1903f3be13d40001c235cf7c6cb4c0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I quit coding years ago. AI brought me back",
-      "url": "https://calquio.com/finance/compound-interest",
-      "published": "2026-01-19T00:50:20",
-      "image": "data/images/2b44f22fcde605917417521b2bc3ace2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Greenpeace pilot brings heat pumps and solar to Ukrainian community",
-      "url": "https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community",
-      "published": "2026-01-19T09:33:50",
-      "image": "https://www.pveurope.eu/sites/default/files/styles/discover/public/aurora/2026/01/506045.jpeg?itok=lsT7gH8X",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "High-speed train collision in Spain kills at least 39",
-      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
-      "published": "2026-01-18T23:54:43",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d332/live/68e21de0-f50b-11f0-a422-4ba8a094a8fa.jpg",
       "summary": "Summary unavailable."
     }
   ],
