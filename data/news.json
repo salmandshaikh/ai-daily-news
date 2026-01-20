@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-20T00:46:06.950460",
+  "updated": "2026-01-20T04:37:29.216036",
   "articles": [
     {
       "source": "RSS",
@@ -94,10 +94,10 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Introducing OptiMind, a research model designed for optimization",
-      "url": "https://huggingface.co/blog/microsoft/optimind",
-      "published": "Thu, 15 Jan 2026 18:49:16 GMT",
-      "image": "data/images/873c6fb49615844922576a4a3c047e1d.png",
+      "title": "Differential Transformer V2",
+      "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+      "published": "Tue, 20 Jan 2026 03:20:57 GMT",
+      "image": "data/images/bf57f2a55a7dde6cd7d232b823f480c1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The coming industrialisation of exploit generation with LLMs",
+      "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
+      "published": "2026-01-19T07:57:04",
+      "image": "https://sean.heelan.io/wp-content/uploads/2009/05/cropped-oxford_7602.jpg?w=200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The assistant axis: situating and stabilizing the character of LLMs",
       "url": "https://www.anthropic.com/research/assistant-axis",
       "published": "2026-01-19T21:25:16",
@@ -161,24 +170,6 @@
       "url": "https://research.perplexity.ai/articles/weight-transfer-for-rl-post-training-in-under-2-seconds",
       "published": "2026-01-19T19:53:38",
       "image": "https://framerusercontent.com/images/iTnnwJb1aPX64GiqUgfdmgLsy78.jpeg?width=1456&height=816",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The coming industrialisation of exploit generation with LLMs",
-      "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
-      "published": "2026-01-19T07:57:04",
-      "image": "https://sean.heelan.io/wp-content/uploads/2009/05/cropped-oxford_7602.jpg?w=200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Letter from a Birmingham Jail (1963)",
-      "url": "https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html",
-      "published": "2026-01-19T19:17:52",
-      "image": "data/images/3b51a1ecb98628bb7628a2e59f4f6109.png",
       "summary": "Summary unavailable."
     }
   ],
