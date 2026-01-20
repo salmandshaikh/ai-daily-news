@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-20T12:21:52.992096",
+  "updated": "2026-01-20T16:20:32.830490",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "published": "Tue, 20 Jan 2026 05:45:00 GMT",
+      "image": "data/images/814a7f04af1733da7c2bc681a395898c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -26,15 +35,6 @@
       "url": "https://openai.com/index/the-truth-elon-left-out",
       "published": "Fri, 16 Jan 2026 12:00:00 GMT",
       "image": "data/images/b61b884f63798969f73e0294235b7660.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT Go, now available worldwide",
-      "url": "https://openai.com/index/introducing-chatgpt-go",
-      "published": "Fri, 16 Jan 2026 00:00:00 GMT",
-      "image": "data/images/8389479bea071ad21c7425be24b6d8a1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -70,7 +70,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The assistant axis: situating and stabilizing the character of LLMs",
-      "url": "https://www.anthropic.com/research/assistant-axis",
-      "published": "2026-01-19T21:25:16",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/021f5a89f9b3ba1755f9a2315bc63be855259532-3840x1762.png",
+      "title": "'AI' is a dick move, redux",
+      "url": "https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/",
+      "published": "2026-01-20T16:09:53",
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2Fnotes%2F2026%2Fnote-on-debating-llm-fans%2F/opengraph/",
       "summary": "Summary unavailable."
     }
   ],
