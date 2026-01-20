@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-20T16:20:32.830490",
+  "updated": "2026-01-20T20:39:17.436598",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "url": "https://openai.com/index/cisco",
+      "published": "Tue, 20 Jan 2026 11:00:00 GMT",
+      "image": "data/images/781e8f6ad2e42a4c3bad455c7c41fc8e.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,6 +17,15 @@
       "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
       "published": "Tue, 20 Jan 2026 05:45:00 GMT",
       "image": "data/images/814a7f04af1733da7c2bc681a395898c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our approach to age prediction",
+      "url": "https://openai.com/index/our-approach-to-age-prediction",
+      "published": "Tue, 20 Jan 2026 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -26,24 +44,6 @@
       "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
       "published": "Sun, 18 Jan 2026 10:00:00 GMT",
       "image": "data/images/beec099e647171dbd8e5f95bdf26b999.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The truth left out from Elon Musk\u2019s recent court filing",
-      "url": "https://openai.com/index/the-truth-elon-left-out",
-      "published": "Fri, 16 Jan 2026 12:00:00 GMT",
-      "image": "data/images/b61b884f63798969f73e0294235b7660.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our approach to advertising and expanding access to ChatGPT",
-      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "published": "Fri, 16 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -70,7 +70,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-      "url": "https://github.com/jordanhubbard/nanolang",
-      "published": "2026-01-19T21:48:07",
-      "image": "https://repository-images.githubusercontent.com/1066847926/62062dd8-4653-4c88-91e4-f17493091431",
+      "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+      "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "published": "2026-01-20T18:16:09",
+      "image": "https://static.longnow.org/2022/04/1-QpK0dPz4sOtgKfQYShhF1A.gif",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Without benchmarking LLMs, you're likely overpaying 5-10x",
+      "url": "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
+      "published": "2026-01-20T19:03:25",
+      "image": "https://karllorey.com/img/og/without-benchmarking-llms-youre-overpaying.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "'AI' is a dick move, redux",
-      "url": "https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/",
-      "published": "2026-01-20T16:09:53",
-      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2Fnotes%2F2026%2Fnote-on-debating-llm-fans%2F/opengraph/",
+      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+      "url": "https://github.com/jordanhubbard/nanolang",
+      "published": "2026-01-19T21:48:07",
+      "image": "https://repository-images.githubusercontent.com/1066847926/62062dd8-4653-4c88-91e4-f17493091431",
       "summary": "Summary unavailable."
     }
   ],
