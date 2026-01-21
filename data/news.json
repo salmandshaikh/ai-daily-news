@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T12:21:55.347350",
+  "updated": "2026-01-21T16:23:20.585263",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: yolo-cage \u2013 AI coding agents that can't exfiltrate secrets",
+      "url": "https://github.com/borenstein/yolo-cage",
+      "published": "2026-01-21T15:13:29",
+      "image": "https://opengraph.githubassets.com/0c1be1383e9949654c7616d24d3d7618a86f123719e30cc9121e7a4f815a0f86/borenstein/yolo-cage",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
       "url": "https://elliotarledge.com/blog/batmobile",
       "published": "2026-01-18T01:29:42",
@@ -148,10 +157,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Comic-Con Bans AI Art After Artist Pushback",
+      "url": "https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/",
+      "published": "2026-01-21T14:12:32",
+      "image": "https://images.unsplash.com/photo-1697479865079-bf7ef1ea5e22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fGNvbWljLWNvbnxlbnwwfHx8fDE3Njg5MjcxNTZ8MA&ixlib=rb-4.1.0&q=80&w=2000",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
       "published": "2026-01-20T18:16:09",
       "image": "https://static.longnow.org/2022/04/1-QpK0dPz4sOtgKfQYShhF1A.gif",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The first 100 days as a Renovate maintainer",
+      "url": "https://www.jvt.me/posts/2026/01/21/renovate-100-days/",
+      "published": "2026-01-21T13:35:41",
+      "image": "https://media.jvt.me/6657d4ff89.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+      "url": "https://github.com/ef1500/libbbf",
+      "published": "2026-01-21T04:27:08",
+      "image": "https://opengraph.githubassets.com/b656da7c32171bfb13a5a79539514f5e4ac966a9f2a9669d60cbaf0c0d75a879/ef1500/libbbf",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+      "url": "https://so-long-sucker.vercel.app/",
+      "published": "2026-01-20T22:09:49",
+      "image": "https://so-long-sucker.vercel.app/og-image.svg",
       "summary": "Summary unavailable."
     }
   ],
