@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-21T04:37:24.202175",
+  "updated": "2026-01-21T08:03:14.425016",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "url": "https://openai.com/index/horizon-1000",
+      "published": "Tue, 20 Jan 2026 21:00:00 GMT",
+      "image": "data/images/5de48fe15ce76130119d2c21f356c95f.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/our-approach-to-age-prediction",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
       "image": "data/images/fa99aed6fe0fe565b233a71f4848a8bb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "AI for self empowerment",
-      "url": "https://openai.com/index/ai-for-self-empowerment",
-      "published": "Sun, 18 Jan 2026 12:00:00 GMT",
-      "image": "data/images/585445a8df4467f34d0d1236da060701.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "published": "Wed, 21 Jan 2026 06:25:31 GMT",
+      "image": "data/images/e4466e2ba5d53c26d7e11f44d1efaaf2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Differential Transformer V2",
       "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
       "published": "Tue, 20 Jan 2026 03:20:57 GMT",
@@ -128,12 +137,21 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-      "published": "Mon, 05 Jan 2026 09:16:51 GMT",
-      "image": "data/images/4c64cdf563e4370f86025c46be761a91.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Agentic AI Handbook: Production-Ready Patterns",
+      "url": "https://www.nibzard.com/agentic-handbook",
+      "published": "2026-01-21T06:48:56",
+      "image": "https://nibzard.com/api/og/agentic-handbook",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+      "url": "https://github.com/ef1500/libbbf",
+      "published": "2026-01-21T04:27:08",
+      "image": "https://opengraph.githubassets.com/0706ddbad4fbe29e4c1207f7e9b5f893f3a3c3518023e5a4a79bd9ebbc91c2e2/ef1500/libbbf",
       "summary": "Summary unavailable."
     },
     {
@@ -152,15 +170,6 @@
       "url": "https://so-long-sucker.vercel.app/",
       "published": "2026-01-20T22:09:49",
       "image": "https://so-long-sucker.vercel.app/og-image.svg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
-      "url": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
-      "published": "2026-01-21T01:37:41",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg",
       "summary": "Summary unavailable."
     },
     {
