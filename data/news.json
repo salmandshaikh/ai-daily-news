@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-21T00:47:40.365018",
+  "updated": "2026-01-21T04:37:24.202175",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Stargate Community",
+      "url": "https://openai.com/index/stargate-community",
+      "published": "Tue, 20 Jan 2026 19:00:00 GMT",
+      "image": "data/images/982d199a581adc4a83e4c36ac15ec5ed.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -25,7 +34,7 @@
       "title": "Our approach to age prediction",
       "url": "https://openai.com/index/our-approach-to-age-prediction",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/fa99aed6fe0fe565b233a71f4848a8bb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/ai-for-self-empowerment",
       "published": "Sun, 18 Jan 2026 12:00:00 GMT",
       "image": "data/images/585445a8df4467f34d0d1236da060701.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A business that scales with the value of intelligence",
-      "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-      "published": "Sun, 18 Jan 2026 10:00:00 GMT",
-      "image": "data/images/beec099e647171dbd8e5f95bdf26b999.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Electricity use of AI coding agents",
-      "url": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
-      "published": "2026-01-20T18:02:02",
-      "image": "data/images/3675e071aa0a401c10cb2eadc84f2d92.png",
+      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+      "url": "https://so-long-sucker.vercel.app/",
+      "published": "2026-01-20T22:09:49",
+      "image": "https://so-long-sucker.vercel.app/og-image.svg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
-      "url": "https://so-long-sucker.vercel.app/",
-      "published": "2026-01-20T22:09:49",
-      "image": "https://so-long-sucker.vercel.app/og-image.svg",
+      "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+      "url": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+      "published": "2026-01-21T01:37:41",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg",
       "summary": "Summary unavailable."
     },
     {
