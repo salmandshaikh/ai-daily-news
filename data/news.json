@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-21T08:03:14.425016",
+  "updated": "2026-01-21T12:21:55.347350",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How countries can end the capability overhang",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "published": "Wed, 21 Jan 2026 01:00:00 GMT",
+      "image": "data/images/5e8a0cb7cb9841f7b95be27358b4d606.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing Edu for Countries",
+      "url": "https://openai.com/index/edu-for-countries",
+      "published": "Wed, 21 Jan 2026 01:00:00 GMT",
+      "image": "data/images/e321dc607f629bbe87ad39c0ac1fe1c3.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -26,24 +44,6 @@
       "url": "https://openai.com/index/cisco",
       "published": "Tue, 20 Jan 2026 11:00:00 GMT",
       "image": "data/images/781e8f6ad2e42a4c3bad455c7c41fc8e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
-      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
-      "published": "Tue, 20 Jan 2026 05:45:00 GMT",
-      "image": "data/images/814a7f04af1733da7c2bc681a395898c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our approach to age prediction",
-      "url": "https://openai.com/index/our-approach-to-age-prediction",
-      "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "data/images/fa99aed6fe0fe565b233a71f4848a8bb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Agentic AI Handbook: Production-Ready Patterns",
-      "url": "https://www.nibzard.com/agentic-handbook",
-      "published": "2026-01-21T06:48:56",
-      "image": "https://nibzard.com/api/og/agentic-handbook",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
-      "url": "https://github.com/ef1500/libbbf",
-      "published": "2026-01-21T04:27:08",
-      "image": "https://opengraph.githubassets.com/0706ddbad4fbe29e4c1207f7e9b5f893f3a3c3518023e5a4a79bd9ebbc91c2e2/ef1500/libbbf",
+      "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
+      "url": "https://elliotarledge.com/blog/batmobile",
+      "published": "2026-01-18T01:29:42",
+      "image": "data/images/0f566503a49e3cb70f9e5fa06ee35c77.png",
       "summary": "Summary unavailable."
     },
     {
@@ -161,24 +152,6 @@
       "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
       "published": "2026-01-20T18:16:09",
       "image": "https://static.longnow.org/2022/04/1-QpK0dPz4sOtgKfQYShhF1A.gif",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
-      "url": "https://so-long-sucker.vercel.app/",
-      "published": "2026-01-20T22:09:49",
-      "image": "https://so-long-sucker.vercel.app/og-image.svg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Maintenance: Of Everything, Part One",
-      "url": "https://press.stripe.com/maintenance-part-one",
-      "published": "2026-01-20T19:01:30",
-      "image": "https://images.stripeassets.com/fzn2n1nzq965/530359Xz3aQDQlSImDqESx/ce7765a360aa2cbf8d2cc0dbef1442e2/MOE_social.jpg?q=80",
       "summary": "Summary unavailable."
     }
   ],
