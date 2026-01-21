@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-20T20:39:17.436598",
+  "updated": "2026-01-21T00:47:40.365018",
   "articles": [
     {
       "source": "RSS",
@@ -103,6 +103,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+      "url": "https://huggingface.co/blog/waypoint-1",
+      "published": "Tue, 20 Jan 2026 00:00:00 GMT",
+      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Open Responses: What you need to know",
       "url": "https://huggingface.co/blog/open-responses",
       "published": "Thu, 15 Jan 2026 00:00:00 GMT",
@@ -128,18 +137,9 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-      "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "published": "Mon, 05 Jan 2026 00:00:00 GMT",
-      "image": "data/images/2ae75986f9c749d3745976debf9252d4.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+      "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
       "published": "2026-01-20T18:16:09",
       "image": "https://static.longnow.org/2022/04/1-QpK0dPz4sOtgKfQYShhF1A.gif",
@@ -148,35 +148,35 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Without benchmarking LLMs, you're likely overpaying 5-10x",
-      "url": "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
-      "published": "2026-01-20T19:03:25",
-      "image": "https://karllorey.com/img/og/without-benchmarking-llms-youre-overpaying.jpg",
+      "title": "Electricity use of AI coding agents",
+      "url": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
+      "published": "2026-01-20T18:02:02",
+      "image": "data/images/3675e071aa0a401c10cb2eadc84f2d92.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The coming industrialisation of exploit generation with LLMs",
-      "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
-      "published": "2026-01-19T07:57:04",
-      "image": "https://sean.heelan.io/wp-content/uploads/2009/05/cropped-oxford_7602.jpg?w=200",
+      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+      "url": "https://so-long-sucker.vercel.app/",
+      "published": "2026-01-20T22:09:49",
+      "image": "https://so-long-sucker.vercel.app/og-image.svg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-      "url": "https://github.com/jordanhubbard/nanolang",
-      "published": "2026-01-19T21:48:07",
-      "image": "https://repository-images.githubusercontent.com/1066847926/62062dd8-4653-4c88-91e4-f17493091431",
+      "title": "Maintenance: Of Everything, Part One",
+      "url": "https://press.stripe.com/maintenance-part-one",
+      "published": "2026-01-20T19:01:30",
+      "image": "https://images.stripeassets.com/fzn2n1nzq965/530359Xz3aQDQlSImDqESx/ce7765a360aa2cbf8d2cc0dbef1442e2/MOE_social.jpg?q=80",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-20",
+    "date": "2026-01-21",
     "speakers": [
       "Alex",
       "Jordan"
