@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-22T12:22:55.023642",
+  "updated": "2026-01-22T16:20:12.739139",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Inside Praktika's conversational approach to language learning",
+      "url": "https://openai.com/index/praktika",
+      "published": "Thu, 22 Jan 2026 05:00:00 GMT",
+      "image": "data/images/71d2528f9b3d538aa66a4b614de4fce1.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -13,8 +22,8 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How countries can end the capability overhang",
-      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "title": "Introducing Edu for Countries",
+      "url": "https://openai.com/index/edu-for-countries",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
@@ -22,8 +31,8 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing Edu for Countries",
-      "url": "https://openai.com/index/edu-for-countries",
+      "title": "How countries can end the capability overhang",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
@@ -39,11 +48,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Stargate Community",
-      "url": "https://openai.com/index/stargate-community",
-      "published": "Tue, 20 Jan 2026 19:00:00 GMT",
-      "image": "data/images/982d199a581adc4a83e4c36ac15ec5ed.png",
+      "source_name": "Google DeepMind News",
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "published": "Fri, 16 Jan 2026 10:39:00 +0000",
+      "image": "data/images/605f9451e26a42fc2d0c5be60c181135.png",
       "summary": "Summary unavailable."
     },
     {
@@ -80,15 +89,6 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Improved Gemini audio models for powerful voice experiences",
-      "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
-      "published": "Fri, 12 Dec 2025 17:50:50 +0000",
-      "image": "data/images/59261b664e712826193a52d7161687d4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "url": "https://gptzero.me/news/neurips/",
+      "published": "2026-01-22T15:20:48",
+      "image": "https://gptzero.me/news/content/images/2026/01/NeurIPS-logo.svg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
       "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
       "published": "2026-01-21T23:22:40",
@@ -166,6 +175,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Meet the Alaska Student Arrested for Eating an AI Art Exhibit",
+      "url": "https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/",
+      "published": "2026-01-22T14:12:13",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/01/AI-Art.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
       "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
       "published": "2026-01-21T21:07:47",
@@ -179,15 +197,6 @@
       "url": "https://blog.kagi.com/waiting-dawn-search",
       "published": "2026-01-21T17:28:03",
       "image": "data/images/f64081821964de9b9908d349160be3e8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Rails UI",
-      "url": "https://railsui.com/",
-      "published": "2026-01-21T18:31:19",
-      "image": "https://railsui.com/assets/opengraph-1a6a4cdcc11010412d739e27df2f7ad68a58e21dd9611e3246f9ea1b2990d086.jpg",
       "summary": "Summary unavailable."
     }
   ],
