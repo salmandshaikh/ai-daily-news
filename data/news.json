@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T20:20:01.962978",
+  "updated": "2026-01-22T00:47:31.647831",
   "articles": [
     {
       "source": "RSS",
@@ -148,19 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "url": "https://blog.kagi.com/waiting-dawn-search",
-      "published": "2026-01-21T17:28:03",
-      "image": "data/images/f64081821964de9b9908d349160be3e8.png",
+      "title": "Three types of LLM workloads and how to serve them",
+      "url": "https://modal.com/llm-almanac/workloads",
+      "published": "2026-01-21T16:15:06",
+      "image": "https://modal-cdn.com/llm-almanac/preview-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Autonomous (YC F25) is hiring \u2013 AI-native financial advisor at 0% advisory fees",
-      "url": "https://atg.science/",
-      "published": "2026-01-21T17:00:54",
-      "image": "https://atg.science/social-card.png",
+      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+      "url": "https://blog.kagi.com/waiting-dawn-search",
+      "published": "2026-01-21T17:28:03",
+      "image": "data/images/f64081821964de9b9908d349160be3e8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -171,30 +171,12 @@
       "published": "2026-01-20T19:03:25",
       "image": "https://karllorey.com/img/og/without-benchmarking-llms-youre-overpaying.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
-      "url": "https://elliotarledge.com/blog/batmobile",
-      "published": "2026-01-18T01:29:42",
-      "image": "data/images/0f566503a49e3cb70f9e5fa06ee35c77.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: yolo-cage \u2013 AI coding agents that can't exfiltrate secrets",
-      "url": "https://github.com/borenstein/yolo-cage",
-      "published": "2026-01-21T15:13:29",
-      "image": "https://opengraph.githubassets.com/1739a3e9f92ace6cbce0b1ad51c4246f733a64d90ff54b01a07a2d985f61a5cd/borenstein/yolo-cage",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-21",
+    "date": "2026-01-22",
     "speakers": [
       "Alex",
       "Jordan"
