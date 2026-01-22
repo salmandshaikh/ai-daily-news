@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T04:40:30.998267",
+  "updated": "2026-01-22T08:03:16.416409",
   "articles": [
     {
       "source": "RSS",
@@ -13,19 +13,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing Edu for Countries",
-      "url": "https://openai.com/index/edu-for-countries",
+      "title": "How countries can end the capability overhang",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "data/images/e321dc607f629bbe87ad39c0ac1fe1c3.png",
+      "image": "data/images/5e8a0cb7cb9841f7b95be27358b4d606.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How countries can end the capability overhang",
-      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "title": "Introducing Edu for Countries",
+      "url": "https://openai.com/index/edu-for-countries",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "data/images/5e8a0cb7cb9841f7b95be27358b4d606.png",
+      "image": "data/images/e321dc607f629bbe87ad39c0ac1fe1c3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,15 +148,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Rails UI",
-      "url": "https://railsui.com/",
-      "published": "2026-01-21T18:31:19",
-      "image": "https://railsui.com/assets/opengraph-1a6a4cdcc11010412d739e27df2f7ad68a58e21dd9611e3246f9ea1b2990d086.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "url": "https://blog.kagi.com/waiting-dawn-search",
       "published": "2026-01-21T17:28:03",
@@ -166,10 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Three types of LLM workloads and how to serve them",
-      "url": "https://modal.com/llm-almanac/workloads",
-      "published": "2026-01-21T16:15:06",
-      "image": "https://modal-cdn.com/llm-almanac/preview-image.png",
+      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
+      "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
+      "published": "2026-01-21T22:41:45",
+      "image": "data/images/88b5b2adff330b37f4133c0146b2ce00.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
+      "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
+      "published": "2026-01-21T21:07:47",
+      "image": "https://www.valueaddedresource.net/content/images/2026/01/ebayua12126.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Rails UI",
+      "url": "https://railsui.com/",
+      "published": "2026-01-21T18:31:19",
+      "image": "https://railsui.com/assets/opengraph-1a6a4cdcc11010412d739e27df2f7ad68a58e21dd9611e3246f9ea1b2990d086.jpg",
       "summary": "Summary unavailable."
     }
   ],
