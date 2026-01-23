@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T20:04:03.453393",
+  "updated": "2026-01-23T00:47:37.298461",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "How countries can end the capability overhang",
       "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "data/images/5e8a0cb7cb9841f7b95be27358b4d606.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -43,7 +43,7 @@
       "title": "Introducing Edu for Countries",
       "url": "https://openai.com/index/edu-for-countries",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "data/images/e321dc607f629bbe87ad39c0ac1fe1c3.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,53 +148,44 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Constellation Space (YC W26) \u2013 AI for satellite mission assurance",
-      "url": "https://constellation-io.com/",
-      "published": "2026-01-22T17:03:21",
-      "image": "data/images/64d1d9dc6b7a99fa9e5b0b1d02bc4959.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "published": "2026-01-21T22:41:45",
-      "image": "data/images/88b5b2adff330b37f4133c0146b2ce00.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "published": "2026-01-21T23:22:40",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/sweepai/sweep-next-edit-1.5B.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-      "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
-      "published": "2026-01-21T21:07:47",
-      "image": "https://www.valueaddedresource.net/content/images/2026/01/ebayua12126.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "In Praise of APL (1977)",
-      "url": "https://www.jsoftware.com/papers/perlis77.htm",
-      "published": "2026-01-22T08:44:56",
+      "title": "Composing APIs and CLIs in the LLM era",
+      "url": "https://walters.app/blog/composing-apis-clis",
+      "published": "2026-01-22T17:14:04",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "'Active' sitting is better for brain health: review of studies",
+      "url": "https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health",
+      "published": "2026-01-22T19:03:56",
+      "image": "https://www.sciencealert.com/images/2026/01/ManDoingAUniqueSitOnCouch.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: First Claude Code client for Ollama local models",
+      "url": "https://github.com/21st-dev/1code",
+      "published": "2026-01-22T17:26:12",
+      "image": "https://opengraph.githubassets.com/d7b40de825b2322177b32bf6c47a0f55102e3643e8a7985ac6d1346a6a6fb5f2/21st-dev/1code",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
+      "published": "2026-01-22T16:31:47",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/Linum-AI/linum-v2-2b-text-to-video-696bda16289e9ebd71501957.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-22",
+    "date": "2026-01-23",
     "speakers": [
       "Alex",
       "Jordan"
