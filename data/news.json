@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-23T00:47:37.298461",
+  "updated": "2026-01-23T04:35:21.964674",
   "articles": [
     {
       "source": "RSS",
@@ -148,10 +148,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Composing APIs and CLIs in the LLM era",
-      "url": "https://walters.app/blog/composing-apis-clis",
-      "published": "2026-01-22T17:14:04",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Scaling PostgreSQL to power 800M ChatGPT users",
+      "url": "https://openai.com/index/scaling-postgresql/",
+      "published": "2026-01-22T21:24:23",
+      "image": "data/images/34f0165e8b29db9dc3c3335421da33a0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: First Claude Code client for Ollama local models",
-      "url": "https://github.com/21st-dev/1code",
-      "published": "2026-01-22T17:26:12",
-      "image": "https://opengraph.githubassets.com/d7b40de825b2322177b32bf6c47a0f55102e3643e8a7985ac6d1346a6a6fb5f2/21st-dev/1code",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
-      "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
-      "published": "2026-01-22T16:31:47",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/Linum-AI/linum-v2-2b-text-to-video-696bda16289e9ebd71501957.png",
+      "title": "Composing APIs and CLIs in the LLM era",
+      "url": "https://walters.app/blog/composing-apis-clis",
+      "published": "2026-01-22T17:14:04",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
