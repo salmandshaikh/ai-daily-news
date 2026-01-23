@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-23T08:03:24.894795",
+  "updated": "2026-01-23T12:21:12.252832",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "How countries can end the capability overhang",
       "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "data/images/5e8a0cb7cb9841f7b95be27358b4d606.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -43,7 +43,7 @@
       "title": "Introducing Edu for Countries",
       "url": "https://openai.com/index/edu-for-countries",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "data/images/e321dc607f629bbe87ad39c0ac1fe1c3.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ghostty's AI Policy",
+      "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
+      "published": "2026-01-23T09:50:26",
+      "image": "https://opengraph.githubassets.com/8d8ac0ca6d77dc3de9efe0988b5ef84d4b732ae4996471ae0aff31ca032638f9/ghostty-org/ghostty",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Is a Horse (2024)",
+      "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
+      "published": "2026-01-20T00:20:54",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Proton Spam and the AI Consent Problem",
       "url": "https://dbushell.com/2026/01/22/proton-spam/",
       "published": "2026-01-23T07:01:29",
@@ -157,46 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The State of Modern AI Text to Speech Systems for Screen Reader Users",
+      "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
+      "published": "2026-01-23T09:24:27",
+      "image": "data/images/05007f4c5607c91248e4682715403bf1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Scaling PostgreSQL to power 800M ChatGPT users",
       "url": "https://openai.com/index/scaling-postgresql/",
       "published": "2026-01-22T21:24:23",
       "image": "data/images/34f0165e8b29db9dc3c3335421da33a0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Talking to LLMs has improved my thinking",
-      "url": "https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/",
-      "published": "2026-01-23T03:52:06",
-      "image": "data/images/bd9eb96e92df748013c52da8fddbd895.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
-      "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
-      "published": "2026-01-22T16:31:47",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/Linum-AI/linum-v2-2b-text-to-video-696bda16289e9ebd71501957.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "'Active' sitting is better for brain health: review of studies",
-      "url": "https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health",
-      "published": "2026-01-22T19:03:56",
-      "image": "https://www.sciencealert.com/images/2026/01/ManDoingAUniqueSitOnCouch.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Composing APIs and CLIs in the LLM era",
-      "url": "https://walters.app/blog/composing-apis-clis",
-      "published": "2026-01-22T17:14:04",
-      "image": "data/images/3536c532be75d88f7ad41fe355a21dc0.png",
       "summary": "Summary unavailable."
     }
   ],
