@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-23T16:16:39.633978",
+  "updated": "2026-01-23T20:03:16.069178",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Unrolling the Codex agent loop",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "published": "Fri, 23 Jan 2026 12:00:00 GMT",
+      "image": "data/images/1f316494c8ed3ee124bd750b54fa59c3.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -26,15 +35,6 @@
       "url": "https://openai.com/index/higgsfield",
       "published": "Wed, 21 Jan 2026 10:00:00 GMT",
       "image": "data/images/43dd2fabf135cbd67d303760d64e429c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How countries can end the capability overhang",
-      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
-      "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Claude.ai silently failing since Jan 14, no official acknowledgment",
+      "url": "https://github.com/anthropics/claude-code/issues/18866",
+      "published": "2026-01-23T18:42:38",
+      "image": "https://opengraph.githubassets.com/71e4d6571aab90c2198c7665e602f48b81c59ed3de418fc78a1812dc983d7c18/anthropics/claude-code/issues/18866",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI is a horse (2024)",
       "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
       "published": "2026-01-20T00:20:54",
@@ -157,28 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "url": "https://gptzero.me/news/neurips/",
-      "published": "2026-01-22T15:20:48",
-      "image": "https://gptzero.me/news/content/images/2026/01/NeurIPS-logo.svg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The state of modern AI text to speech systems for screen reader users",
-      "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
-      "published": "2026-01-23T09:24:27",
-      "image": "data/images/08f535b5a7341ac57daecbf992e53b28.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Usage Policy",
-      "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "published": "2026-01-23T09:50:26",
-      "image": "https://opengraph.githubassets.com/c465eb932d5f2ebe4fc60986f15e4a02d827b4e6d157a9fc659fe4529e6dd832/ghostty-org/ghostty",
+      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
+      "published": "2026-01-22T16:31:47",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/Linum-AI/linum-v2-2b-text-to-video-696bda16289e9ebd71501957.png",
       "summary": "Summary unavailable."
     }
   ],
