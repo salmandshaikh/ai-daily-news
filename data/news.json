@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-23T12:21:12.252832",
+  "updated": "2026-01-23T16:16:39.633978",
   "articles": [
     {
       "source": "RSS",
@@ -139,16 +139,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ghostty's AI Policy",
-      "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "published": "2026-01-23T09:50:26",
-      "image": "https://opengraph.githubassets.com/8d8ac0ca6d77dc3de9efe0988b5ef84d4b732ae4996471ae0aff31ca032638f9/ghostty-org/ghostty",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Is a Horse (2024)",
+      "title": "AI is a horse (2024)",
       "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
       "published": "2026-01-20T00:20:54",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
@@ -175,19 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The State of Modern AI Text to Speech Systems for Screen Reader Users",
+      "title": "The state of modern AI text to speech systems for screen reader users",
       "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
       "published": "2026-01-23T09:24:27",
-      "image": "data/images/05007f4c5607c91248e4682715403bf1.png",
+      "image": "data/images/08f535b5a7341ac57daecbf992e53b28.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Scaling PostgreSQL to power 800M ChatGPT users",
-      "url": "https://openai.com/index/scaling-postgresql/",
-      "published": "2026-01-22T21:24:23",
-      "image": "data/images/34f0165e8b29db9dc3c3335421da33a0.png",
+      "title": "AI Usage Policy",
+      "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
+      "published": "2026-01-23T09:50:26",
+      "image": "https://opengraph.githubassets.com/c465eb932d5f2ebe4fc60986f15e4a02d827b4e6d157a9fc659fe4529e6dd832/ghostty-org/ghostty",
       "summary": "Summary unavailable."
     }
   ],
