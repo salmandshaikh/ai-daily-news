@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-24T04:26:58.001748",
+  "updated": "2026-01-24T08:03:32.324021",
   "articles": [
     {
       "source": "RSS",
@@ -133,16 +133,16 @@
       "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Open-source self-driving for 325 car models from 27 brands",
-      "url": "https://comma.ai",
-      "published": "2026-01-24T01:00:50",
-      "image": "https://comma.ai/og-comma-four.png",
+      "title": "Traintrackr \u2013 Live LED Maps",
+      "url": "https://www.traintrackr.co.uk/",
+      "published": "2026-01-19T07:53:17",
+      "image": "data/images/2f47ca0b94291091ae516bdb651a43ea.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,19 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
-      "url": "https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer",
-      "published": "2026-01-24T01:00:48",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/3292fb1cfe578ca77d78b69b29c49b279212ee59.png?1748897426",
+      "title": "Proton spam and the AI consent problem",
+      "url": "https://dbushell.com/2026/01/22/proton-spam/",
+      "published": "2026-01-23T07:01:29",
+      "image": "https://dbushell.com/images/articles/2026-01-22-proton-spam.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Proton Spam and the AI Consent Problem",
-      "url": "https://dbushell.com/2026/01/22/proton-spam/",
-      "published": "2026-01-23T07:01:29",
-      "image": "https://dbushell.com/images/articles/2026-01-22-proton-spam.png",
+      "title": "Air traffic control: the IBM 9020",
+      "url": "https://computer.rip/2026-01-17-air-traffic-control-9020.html",
+      "published": "2026-01-19T02:37:49",
+      "image": "https://computer.rip/f/9020/1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
+      "published": "2026-01-22T16:31:47",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/Linum-AI/linum-v2-2b-text-to-video-696bda16289e9ebd71501957.png",
       "summary": "Summary unavailable."
     }
   ],
