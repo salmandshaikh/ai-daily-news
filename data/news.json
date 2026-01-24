@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-23T20:03:16.069178",
+  "updated": "2026-01-24T00:45:54.463822",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "Introducing Edu for Countries",
       "url": "https://openai.com/index/edu-for-countries",
       "published": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/e321dc607f629bbe87ad39c0ac1fe1c3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude.ai silently failing since Jan 14, no official acknowledgment",
-      "url": "https://github.com/anthropics/claude-code/issues/18866",
-      "published": "2026-01-23T18:42:38",
-      "image": "https://opengraph.githubassets.com/71e4d6571aab90c2198c7665e602f48b81c59ed3de418fc78a1812dc983d7c18/anthropics/claude-code/issues/18866",
+      "title": "Mental Models (2018)",
+      "url": "https://fs.blog/mental-models/",
+      "published": "2026-01-23T21:08:55",
+      "image": "https://fs.blog/wp-content/uploads/2018/08/acquiring-wisdom-white.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is a horse (2024)",
-      "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "published": "2026-01-20T00:20:54",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes",
+      "url": "https://news.aibase.com/news/24859",
+      "published": "2026-01-23T23:15:12",
+      "image": "data/images/e713a768dec8c93f04b5a28d0d3cfcb2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -162,21 +162,12 @@
       "published": "2026-01-23T07:01:29",
       "image": "https://dbushell.com/images/articles/2026-01-22-proton-spam.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
-      "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
-      "published": "2026-01-22T16:31:47",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/Linum-AI/linum-v2-2b-text-to-video-696bda16289e9ebd71501957.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-23",
+    "date": "2026-01-24",
     "speakers": [
       "Alex",
       "Jordan"
