@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-24T16:03:00.278580",
+  "updated": "2026-01-24T20:03:14.869088",
   "articles": [
     {
       "source": "RSS",
@@ -79,7 +79,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,16 +133,25 @@
       "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
-      "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Traintrackr \u2013 Live LED Maps",
-      "url": "https://www.traintrackr.co.uk/",
-      "published": "2026-01-19T07:53:17",
-      "image": "data/images/2f47ca0b94291091ae516bdb651a43ea.png",
+      "title": "JSON-render: LLM-based JSON-to-UI tool",
+      "url": "https://json-render.dev/",
+      "published": "2026-01-24T19:12:56",
+      "image": "https://json-render.dev/og",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "C++26 Reflection loves QRangeModel",
+      "url": "https://www.qt.io/blog/c26-reflection-qrangemodel",
+      "published": "2026-01-20T05:19:53",
+      "image": "https://www.qt.io/hubfs/AI-Generated%20Media/Images/An%20abstract%20image%20with%20a%20mirror%20showing%20the%20reflection%20of%20a%20Qt%20desktop%20application%20with%20lists%20and%20tables%20of%20data-1.png",
       "summary": "Summary unavailable."
     }
   ],
