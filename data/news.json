@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-25T16:03:17.031662",
+  "updated": "2026-01-25T20:02:57.942808",
   "articles": [
     {
       "source": "RSS",
@@ -79,7 +79,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,16 @@
       "title": "Web-based image editor modeled after Deluxe Paint",
       "url": "https://github.com/steffest/DPaint-js",
       "published": "2026-01-25T12:54:53",
-      "image": "https://opengraph.githubassets.com/827c1bb046a1e90c4ae7d67ae9426b8f6d67a9dae7031f73743b49f14c25160d/steffest/DPaint-js",
+      "image": "https://opengraph.githubassets.com/e7c2ad90e87dc9ac133820dc88f540f17573b128ec8832031e2e5117d2b5d740/steffest/DPaint-js",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+      "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+      "published": "2026-01-25T17:36:19",
+      "image": "https://www.eff.org/files/banner_library/surveillance-og-2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -152,24 +161,6 @@
       "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
       "published": "2026-01-25T00:14:40",
       "image": "https://keck.usc.edu/news/wp-content/uploads/sites/68/2026/01/iStock-2217025535-modified-e4b07314-9325-4adb-a1ff-02219bd88865.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: AutoShorts \u2013 Local, GPU-accelerated AI video pipeline for creators",
-      "url": "https://github.com/divyaprakash0426/autoshorts",
-      "published": "2026-01-25T07:36:20",
-      "image": "https://opengraph.githubassets.com/3eac892080d76b1b0a5f4d5d6dfc550606c5c1502133d8373ddabd35a6343f62/divyaprakash0426/autoshorts",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Challenges and Research Directions for Large Language Model Inference Hardware",
-      "url": "https://arxiv.org/abs/2601.05047",
-      "published": "2026-01-25T02:48:36",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
