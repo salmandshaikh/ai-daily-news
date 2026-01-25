@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-24T20:03:14.869088",
+  "updated": "2026-01-25T00:53:06.448626",
   "articles": [
     {
       "source": "RSS",
@@ -79,7 +79,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "Differential Transformer V2",
       "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
       "published": "Tue, 20 Jan 2026 03:20:57 GMT",
-      "image": "data/images/bf57f2a55a7dde6cd7d232b823f480c1.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
       "summary": "Summary unavailable."
     },
     {
@@ -144,21 +144,12 @@
       "published": "2026-01-24T19:12:56",
       "image": "https://json-render.dev/og",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "C++26 Reflection loves QRangeModel",
-      "url": "https://www.qt.io/blog/c26-reflection-qrangemodel",
-      "published": "2026-01-20T05:19:53",
-      "image": "https://www.qt.io/hubfs/AI-Generated%20Media/Images/An%20abstract%20image%20with%20a%20mirror%20showing%20the%20reflection%20of%20a%20Qt%20desktop%20application%20with%20lists%20and%20tables%20of%20data-1.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-24",
+    "date": "2026-01-25",
     "speakers": [
       "Alex",
       "Jordan"
