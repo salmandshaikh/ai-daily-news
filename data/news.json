@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T00:52:49.412796",
+  "updated": "2026-01-26T04:47:16.160442",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -134,6 +134,15 @@
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
       "published": "Mon, 05 Jan 2026 22:56:51 GMT",
       "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Scientists identify brain waves that define the limits of 'you'",
+      "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+      "published": "2026-01-26T00:10:42",
+      "image": "https://www.sciencealert.com/images/2026/01/Brain-You.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Clawdbot - open source personal AI assistant",
+      "url": "https://github.com/clawdbot/clawdbot",
+      "published": "2026-01-26T00:27:41",
+      "image": "https://opengraph.githubassets.com/8c1d2391581546dae7d31178e6843145bc58b483bb52652ecf357a37fa0f445f/clawdbot/clawdbot",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Web-based image editor modeled after Deluxe Paint",
       "url": "https://github.com/steffest/DPaint-js",
       "published": "2026-01-25T12:54:53",
-      "image": "https://opengraph.githubassets.com/11bf4bf6200fba3f478030ce50741e085a036700c884e397220b6e2d79907bd5/steffest/DPaint-js",
+      "image": "https://opengraph.githubassets.com/fad87ae4597b03fc818f69f46145c380130c963f24c063d6be42d6d8efff9f4e/steffest/DPaint-js",
       "summary": "Summary unavailable."
     },
     {
@@ -179,15 +197,6 @@
       "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
       "published": "2026-01-25T17:36:19",
       "image": "https://www.eff.org/files/banner_library/surveillance-og-2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Data Leak Exposes 149M Logins, Including Gmail, Facebook",
-      "url": "https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/",
-      "published": "2026-01-25T19:45:10",
-      "image": "data/images/1ae3be0dc997ab5e56f2d775a5d8326d.png",
       "summary": "Summary unavailable."
     }
   ],
