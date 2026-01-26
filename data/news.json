@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T04:47:16.160442",
+  "updated": "2026-01-26T08:03:11.449260",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,6 +157,33 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Compiling models to megakernels",
+      "url": "https://blog.luminal.com/p/compiling-models-to-megakernels",
+      "published": "2026-01-25T05:12:12",
+      "image": "https://substackcdn.com/image/fetch/$s_!VkC-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3fe3c3f-74ad-4862-a2d2-edb8b3705ecb_3840x2160.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Clawdbot - open source personal AI assistant",
+      "url": "https://github.com/clawdbot/clawdbot",
+      "published": "2026-01-26T00:27:41",
+      "image": "https://opengraph.githubassets.com/f6ae3371123d3797f635299d5e5b41e81b8493552cce8ff99c2b453c7406040b/clawdbot/clawdbot",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Web-based image editor modeled after Deluxe Paint",
+      "url": "https://github.com/steffest/DPaint-js",
+      "published": "2026-01-25T12:54:53",
+      "image": "https://opengraph.githubassets.com/9bb05eb70d5086b9094353387fdfbad38af1264f13350f8f1876fc7b2b2c263b/steffest/DPaint-js",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Spanish track was fractured before high-speed train disaster, report finds",
       "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
       "published": "2026-01-25T19:12:50",
@@ -170,24 +197,6 @@
       "url": "https://www.lighthouses.app/",
       "published": "2026-01-25T18:06:26",
       "image": "data/images/af561fbb702d87d1087ecef6279f6bf1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Clawdbot - open source personal AI assistant",
-      "url": "https://github.com/clawdbot/clawdbot",
-      "published": "2026-01-26T00:27:41",
-      "image": "https://opengraph.githubassets.com/8c1d2391581546dae7d31178e6843145bc58b483bb52652ecf357a37fa0f445f/clawdbot/clawdbot",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Web-based image editor modeled after Deluxe Paint",
-      "url": "https://github.com/steffest/DPaint-js",
-      "published": "2026-01-25T12:54:53",
-      "image": "https://opengraph.githubassets.com/fad87ae4597b03fc818f69f46145c380130c963f24c063d6be42d6d8efff9f4e/steffest/DPaint-js",
       "summary": "Summary unavailable."
     },
     {
