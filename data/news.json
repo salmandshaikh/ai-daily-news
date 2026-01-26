@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T12:21:51.524230",
+  "updated": "2026-01-26T16:19:10.358182",
   "articles": [
     {
       "source": "RSS",
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
+      "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
+      "published": "Mon, 26 Jan 2026 14:53:45 GMT",
+      "image": "data/images/5288b7ebcf53b66d14b9f7efcd113e07.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
       "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
       "published": "Wed, 21 Jan 2026 06:25:31 GMT",
@@ -115,7 +124,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,12 +137,30 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-      "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-      "published": "Mon, 05 Jan 2026 22:56:51 GMT",
-      "image": "data/images/7ba30060c34f31cd8aa50e181fd64322.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
+      "url": "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM",
+      "published": "2026-01-26T15:06:09",
+      "image": "data/images/7c2ace8e258dd2977cce790dc4ac55ec.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+      "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "published": "2026-01-26T14:27:00",
+      "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OSS ChatGPT WebUI \u2013 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
+      "url": "https://llmspy.org/docs/v3",
+      "published": "2026-01-26T15:01:03",
+      "image": "http://localhost:3000/og/docs/v3/image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +169,16 @@
       "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
       "url": "https://github.com/quaadgras/graphics.gd/discussions/242",
       "published": "2026-01-26T07:41:52",
-      "image": "https://opengraph.githubassets.com/2b9ae8c0cd673c7bdc9107c1fd693d839ab735123d1a76a2d13ceec7f77c84c0/quaadgras/graphics.gd/discussions/242",
+      "image": "https://opengraph.githubassets.com/061c68a68c157fcb1d16553bddd5001f631fff912c04efa61c80efee5eb4c622/quaadgras/graphics.gd/discussions/242",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Only 1 LLM can fly a drone",
+      "url": "https://github.com/kxzk/snapbench",
+      "published": "2026-01-26T11:00:44",
+      "image": "https://opengraph.githubassets.com/445bd04f1ead095106b80f91ab94c0a2eab434b29b58e63a41d6a0156093396a/kxzk/snapbench",
       "summary": "Summary unavailable."
     },
     {
@@ -157,46 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Case study: Creative math \u2013 How AI fakes proofs",
-      "url": "https://tomaszmachnik.pl/case-study-math-en.html",
-      "published": "2026-01-25T22:44:50",
-      "image": "data/images/f5de2cb3bacb64bdd925701c4355b725.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Compiling models to megakernels",
-      "url": "https://blog.luminal.com/p/compiling-models-to-megakernels",
-      "published": "2026-01-25T05:12:12",
-      "image": "https://substackcdn.com/image/fetch/$s_!VkC-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3fe3c3f-74ad-4862-a2d2-edb8b3705ecb_3840x2160.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: An interactive map of US lighthouses and navigational aids",
-      "url": "https://www.lighthouses.app/",
-      "published": "2026-01-25T18:06:26",
-      "image": "data/images/af561fbb702d87d1087ecef6279f6bf1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Clawdbot - open source personal AI assistant",
-      "url": "https://github.com/clawdbot/clawdbot",
-      "published": "2026-01-26T00:27:41",
-      "image": "https://opengraph.githubassets.com/15e2e570f87847b2950f8b69bbf8dd835d60974cd9ee8cd8ef5d5b68d2d5bbb6/clawdbot/clawdbot",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ICE using Palantir tool that feeds on Medicaid data",
-      "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "published": "2026-01-25T17:36:19",
-      "image": "https://www.eff.org/files/banner_library/surveillance-og-2.png",
+      "title": "AI will not replace software engineers (hopefully)",
+      "url": "https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0",
+      "published": "2026-01-26T15:05:04",
+      "image": "data/images/23c784096d6118c694faaa8997325037.png",
       "summary": "Summary unavailable."
     }
   ],
