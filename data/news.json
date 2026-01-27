@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T16:16:54.045142",
+  "updated": "2026-01-27T20:03:48.662622",
   "articles": [
     {
       "source": "RSS",
@@ -8,6 +8,15 @@
       "url": "https://openai.com/index/pvh-future-of-fashion",
       "published": "Tue, 27 Jan 2026 06:00:00 GMT",
       "image": "data/images/2586c353abe5ac80419c96c4b97fed9f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing Prism",
+      "url": "https://openai.com/index/introducing-prism",
+      "published": "Tue, 27 Jan 2026 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/scaling-postgresql",
       "published": "Thu, 22 Jan 2026 12:00:00 GMT",
       "image": "data/images/21309fdc7128e787c74880708eb8569a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Inside Praktika's conversational approach to language learning",
-      "url": "https://openai.com/index/praktika",
-      "published": "Thu, 22 Jan 2026 05:00:00 GMT",
-      "image": "data/images/71d2528f9b3d538aa66a4b614de4fce1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "published": "Tue, 27 Jan 2026 15:01:45 GMT",
+      "image": "data/images/9a83e5c330013f4caf8eef52c1ff5c71.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Alyah \u2b50\ufe0f: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
       "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
       "published": "Tue, 27 Jan 2026 10:26:42 GMT",
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Differential Transformer V2",
-      "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-      "published": "Tue, 20 Jan 2026 03:20:57 GMT",
-      "image": "data/images/bf57f2a55a7dde6cd7d232b823f480c1.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI2: Open Coding Agents",
+      "url": "https://allenai.org/blog/open-coding-agents",
+      "published": "2026-01-27T17:17:54",
+      "image": "https://www.datocms-assets.com/64837/1769473127-unnamed-46.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -157,37 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
-      "url": "https://www.kimi.com/blog/kimi-k2-5.html",
-      "published": "2026-01-27T05:42:27",
-      "image": "data/images/bb82a5d8eac2da716f806fc0df38e131.png",
+      "title": "A first look at Aperture by Tailscale (private alpha)",
+      "url": "https://tailscale.com/blog/aperture-private-alpha",
+      "published": "2026-01-27T16:23:40",
+      "image": "https://tailscale.com/api/og-image?id=bc1ffe36-8071-420e-a849-9c1391c0ad2b",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple introduces new AirTag with longer range and improved findability",
-      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-      "published": "2026-01-26T14:10:25",
-      "image": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261433",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-      "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
-      "published": "2026-01-26T19:19:40",
-      "image": "https://static.simonwillison.net/static/2026/chatgpt-containers-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "There is an AI code review bubble",
-      "url": "https://www.greptile.com/blog/ai-code-review-bubble",
-      "published": "2026-01-26T15:38:50",
-      "image": "https://greptile.com/opengraph/opengraph-blog.webp",
+      "title": "Vargai/SDK \u2013 JSX for AI video, declarative programming language for Claude Code",
+      "url": "https://varg.ai/sdk",
+      "published": "2026-01-22T20:24:06",
+      "image": "https://varg.ai/sdk-og.webp",
       "summary": "Summary unavailable."
     }
   ],
