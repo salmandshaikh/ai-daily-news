@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-27T12:21:45.479104",
+  "updated": "2026-01-27T16:16:54.045142",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "published": "Tue, 27 Jan 2026 06:00:00 GMT",
+      "image": "data/images/2586c353abe5ac80419c96c4b97fed9f.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,15 +48,6 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
-      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
-      "published": "Thu, 22 Jan 2026 00:00:00 GMT",
-      "image": "data/images/1074f80cee4fb040f31f4d998f4ab3bf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Google DeepMind News",
       "title": "D4RT: Teaching AI to see the world in four dimensions",
       "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
@@ -79,7 +79,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
+      "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+      "published": "2026-01-27T15:45:45",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
       "url": "https://www.kimi.com/blog/kimi-k2-5.html",
       "published": "2026-01-27T05:42:27",
@@ -179,42 +188,6 @@
       "url": "https://www.greptile.com/blog/ai-code-review-bubble",
       "published": "2026-01-26T15:38:50",
       "image": "https://greptile.com/opengraph/opengraph-blog.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI code and software craft",
-      "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
-      "published": "2026-01-26T18:04:15",
-      "image": "data/images/53385507075aab7b35ac1b0aa4ff8b2b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
-      "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
-      "published": "2026-01-26T22:29:54",
-      "image": "data/images/3381036c557ea61aad69e883940fc62b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Model Market Fit",
-      "url": "https://www.nicolasbustamante.com/p/model-market-fit",
-      "published": "2026-01-20T17:24:41",
-      "image": "https://substackcdn.com/image/fetch/$s_!oJFe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa911c7-321f-4d6a-b48d-7679eec1b09f_2752x1536.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
-      "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
-      "published": "2026-01-26T16:27:46",
-      "image": "data/images/ba7957436b562cfce1333bbbe76ee33e.png",
       "summary": "Summary unavailable."
     }
   ],
