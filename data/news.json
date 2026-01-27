@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T08:17:50.906203",
+  "updated": "2026-01-27T12:21:45.479104",
   "articles": [
     {
       "source": "RSS",
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Alyah \u2b50\ufe0f: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+      "published": "Tue, 27 Jan 2026 10:26:42 GMT",
+      "image": "data/images/2fc9f238989afcca38f97fb868252f4e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
       "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
       "published": "Tue, 27 Jan 2026 01:53:15 GMT",
@@ -128,15 +137,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-      "url": "https://huggingface.co/blog/waypoint-1",
-      "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Heathrow scraps liquid container limit",
@@ -157,19 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-      "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
-      "published": "2026-01-26T19:19:40",
-      "image": "https://static.simonwillison.net/static/2026/chatgpt-containers-card.jpg",
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "published": "2026-01-26T14:10:25",
+      "image": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261433",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple introduces new AirTag with longer range and improved findability",
-      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-      "published": "2026-01-26T14:10:25",
-      "image": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261432",
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+      "published": "2026-01-26T19:19:40",
+      "image": "https://static.simonwillison.net/static/2026/chatgpt-containers-card.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -187,16 +187,7 @@
       "title": "AI code and software craft",
       "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
       "published": "2026-01-26T18:04:15",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Model Market Fit",
-      "url": "https://www.nicolasbustamante.com/p/model-market-fit",
-      "published": "2026-01-20T17:24:41",
-      "image": "https://substackcdn.com/image/fetch/$s_!oJFe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa911c7-321f-4d6a-b48d-7679eec1b09f_2752x1536.png",
+      "image": "data/images/53385507075aab7b35ac1b0aa4ff8b2b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -211,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: TetrisBench \u2013 Gemini Flash reaches 66% win rate on Tetris against Opus",
-      "url": "https://tetrisbench.com/tetrisbench/",
-      "published": "2026-01-26T18:42:40",
-      "image": "data/images/5942fb9a87949594b812d6c9052c65e6.png",
+      "title": "Model Market Fit",
+      "url": "https://www.nicolasbustamante.com/p/model-market-fit",
+      "published": "2026-01-20T17:24:41",
+      "image": "https://substackcdn.com/image/fetch/$s_!oJFe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa911c7-321f-4d6a-b48d-7679eec1b09f_2752x1536.png",
       "summary": "Summary unavailable."
     },
     {
