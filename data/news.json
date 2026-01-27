@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T00:55:09.414825",
+  "updated": "2026-01-27T04:39:38.639960",
   "articles": [
     {
       "source": "RSS",
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+      "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+      "published": "Tue, 27 Jan 2026 01:53:15 GMT",
+      "image": "data/images/499f50e4f9e620fb89472732bbc5516a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
       "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
       "published": "Mon, 26 Jan 2026 14:53:45 GMT",
@@ -124,16 +133,7 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Open Responses: What you need to know",
-      "url": "https://huggingface.co/blog/open-responses",
-      "published": "Thu, 15 Jan 2026 00:00:00 GMT",
-      "image": "data/images/3730316cbbe7de90176bd0559cc4b001.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,10 +148,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI code and software craft",
-      "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
-      "published": "2026-01-26T18:04:15",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "published": "2026-01-26T14:10:25",
+      "image": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261432",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple introduces new AirTag with longer range and improved findability",
-      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-      "published": "2026-01-26T14:10:25",
-      "image": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261433",
+      "title": "AI code and software craft",
+      "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+      "published": "2026-01-26T18:04:15",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Model Market Fit",
+      "url": "https://www.nicolasbustamante.com/p/model-market-fit",
+      "published": "2026-01-20T17:24:41",
+      "image": "https://substackcdn.com/image/fetch/$s_!oJFe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa911c7-321f-4d6a-b48d-7679eec1b09f_2752x1536.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor",
-      "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
-      "published": "2026-01-26T22:29:54",
-      "image": "data/images/2b58accea116183dcaea4c3119294cd0.png",
+      "title": "Show HN: Only 1 LLM can fly a drone",
+      "url": "https://github.com/kxzk/snapbench",
+      "published": "2026-01-26T11:00:44",
+      "image": "https://opengraph.githubassets.com/bbd94960ca3f0768fd161a5f4f7a800d9bd86f8ffce3a7ecdaf70a145c686807/kxzk/snapbench",
       "summary": "Summary unavailable."
     },
     {
@@ -206,24 +215,6 @@
       "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
       "published": "2026-01-26T14:27:00",
       "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Only 1 LLM can fly a drone",
-      "url": "https://github.com/kxzk/snapbench",
-      "published": "2026-01-26T11:00:44",
-      "image": "https://opengraph.githubassets.com/191f76384a325f1b9a284e7f4050da96423e6e407e07ff3e6476d59f7b1b5000/kxzk/snapbench",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
-      "url": "https://github.com/quaadgras/graphics.gd/discussions/242",
-      "published": "2026-01-26T07:41:52",
-      "image": "https://opengraph.githubassets.com/061c68a68c157fcb1d16553bddd5001f631fff912c04efa61c80efee5eb4c622/quaadgras/graphics.gd/discussions/242",
       "summary": "Summary unavailable."
     }
   ],
