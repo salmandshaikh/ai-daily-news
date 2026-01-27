@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-26T20:03:26.344819",
+  "updated": "2026-01-27T00:55:09.414825",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Indeed uses AI to help evolve the job search",
+      "url": "https://openai.com/index/indeed-maggie-hulce",
+      "published": "Mon, 26 Jan 2026 00:00:00 GMT",
+      "image": "data/images/3f04552af5ac1f99c3812fd955da30ec.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -35,15 +44,6 @@
       "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
       "published": "Thu, 22 Jan 2026 00:00:00 GMT",
       "image": "data/images/1074f80cee4fb040f31f4d998f4ab3bf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Higgsfield turns simple ideas into cinematic social videos",
-      "url": "https://openai.com/index/higgsfield",
-      "published": "Wed, 21 Jan 2026 10:00:00 GMT",
-      "image": "data/images/43dd2fabf135cbd67d303760d64e429c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,37 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: TetrisBench \u2013 Gemini Flash reaches 66% win rate on Tetris against Opus",
-      "url": "https://tetrisbench.com/tetrisbench/",
-      "published": "2026-01-26T18:42:40",
-      "image": "data/images/5942fb9a87949594b812d6c9052c65e6.png",
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+      "published": "2026-01-26T19:19:40",
+      "image": "https://static.simonwillison.net/static/2026/chatgpt-containers-card.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The mountain that weighed the Earth",
-      "url": "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/",
-      "published": "2026-01-26T16:43:30",
-      "image": "https://signoregalilei.com/wp-content/uploads/2026/01/Schiehallion_01.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "When AI 'builds a browser,' check the repo before believing the hype",
-      "url": "https://www.theregister.com/2026/01/26/cursor_opinion/",
-      "published": "2026-01-26T18:58:37",
-      "image": "https://regmedia.co.uk/2016/05/25/run_save_cancel.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
-      "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
-      "published": "2026-01-26T14:27:00",
-      "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
+      "title": "AI code and software craft",
+      "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+      "published": "2026-01-26T18:04:15",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -184,10 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OSS ChatGPT WebUI \u2013 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
-      "url": "https://llmspy.org/docs/v3",
-      "published": "2026-01-26T15:01:03",
-      "image": "http://localhost:3000/og/docs/v3/image.png",
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "published": "2026-01-26T14:10:25",
+      "image": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261433",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: TetrisBench \u2013 Gemini Flash reaches 66% win rate on Tetris against Opus",
+      "url": "https://tetrisbench.com/tetrisbench/",
+      "published": "2026-01-26T18:42:40",
+      "image": "data/images/5942fb9a87949594b812d6c9052c65e6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -202,10 +193,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor",
+      "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
+      "published": "2026-01-26T22:29:54",
+      "image": "data/images/2b58accea116183dcaea4c3119294cd0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+      "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "published": "2026-01-26T14:27:00",
+      "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Only 1 LLM can fly a drone",
       "url": "https://github.com/kxzk/snapbench",
       "published": "2026-01-26T11:00:44",
-      "image": "https://opengraph.githubassets.com/f27fe8e2e589b0a8afc5730eedc028f1b223871a3e603f19e5aec7ebcc8ac985/kxzk/snapbench",
+      "image": "https://opengraph.githubassets.com/191f76384a325f1b9a284e7f4050da96423e6e407e07ff3e6476d59f7b1b5000/kxzk/snapbench",
       "summary": "Summary unavailable."
     },
     {
@@ -216,21 +225,12 @@
       "published": "2026-01-26T07:41:52",
       "image": "https://opengraph.githubassets.com/061c68a68c157fcb1d16553bddd5001f631fff912c04efa61c80efee5eb4c622/quaadgras/graphics.gd/discussions/242",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Notice of Collective Action Lawsuit Against Workday, INC",
-      "url": "https://workdaycase.com",
-      "published": "2026-01-26T18:37:37",
-      "image": "https://workdaycase.com/assets/images/card.jpg?v=f1a8d860",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-26",
+    "date": "2026-01-27",
     "speakers": [
       "Alex",
       "Jordan"
