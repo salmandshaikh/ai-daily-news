@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T04:39:38.639960",
+  "updated": "2026-01-27T08:17:50.906203",
   "articles": [
     {
       "source": "RSS",
@@ -133,7 +133,25 @@
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
       "published": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/39c0a29ab385973149dfbd223cbe38c2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Heathrow scraps liquid container limit",
+      "url": "https://www.bbc.com/news/articles/c1evvx89559o",
+      "published": "2026-01-23T19:38:33",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed35/live/71631250-f847-11f0-b385-5f48925de19a.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
+      "url": "https://www.kimi.com/blog/kimi-k2-5.html",
+      "published": "2026-01-27T05:42:27",
+      "image": "data/images/bb82a5d8eac2da716f806fc0df38e131.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,6 +202,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
+      "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
+      "published": "2026-01-26T22:29:54",
+      "image": "data/images/3381036c557ea61aad69e883940fc62b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: TetrisBench \u2013 Gemini Flash reaches 66% win rate on Tetris against Opus",
       "url": "https://tetrisbench.com/tetrisbench/",
       "published": "2026-01-26T18:42:40",
@@ -197,24 +224,6 @@
       "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
       "published": "2026-01-26T16:27:46",
       "image": "data/images/ba7957436b562cfce1333bbbe76ee33e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Only 1 LLM can fly a drone",
-      "url": "https://github.com/kxzk/snapbench",
-      "published": "2026-01-26T11:00:44",
-      "image": "https://opengraph.githubassets.com/bbd94960ca3f0768fd161a5f4f7a800d9bd86f8ffce3a7ecdaf70a145c686807/kxzk/snapbench",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
-      "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
-      "published": "2026-01-26T14:27:00",
-      "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
       "summary": "Summary unavailable."
     }
   ],
