@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T20:03:48.662622",
+  "updated": "2026-01-28T00:47:03.355313",
   "articles": [
     {
       "source": "RSS",
@@ -79,7 +79,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,6 +89,15 @@
       "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
       "published": "Tue, 16 Dec 2025 10:14:24 +0000",
       "image": "data/images/161bedf1d609d4148855669919681018.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-singapore",
+      "published": "Tue, 27 Jan 2026 23:41:12 GMT",
+      "image": "data/images/a1fc27cc00eb1abfb89900585df1cbbe.png",
       "summary": "Summary unavailable."
     },
     {
@@ -121,19 +130,19 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
-      "url": "https://huggingface.co/blog/nvidia/earth-2-open-models",
-      "published": "Mon, 26 Jan 2026 14:53:45 GMT",
-      "image": "data/images/5288b7ebcf53b66d14b9f7efcd113e07.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
       "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
       "published": "Wed, 21 Jan 2026 06:25:31 GMT",
       "image": "data/images/e4466e2ba5d53c26d7e11f44d1efaaf2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I wrapped the Zorks with an LLM",
+      "url": "https://infocom.tambo.co/",
+      "published": "2026-01-27T20:59:49",
+      "image": "data/images/631b339b09e414adfe9600d8f7407ed2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,44 +157,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Heathrow scraps liquid container limit",
-      "url": "https://www.bbc.com/news/articles/c1evvx89559o",
-      "published": "2026-01-23T19:38:33",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ed35/live/71631250-f847-11f0-b385-5f48925de19a.jpg",
+      "title": "LLM-as-a-Courtroom",
+      "url": "https://falconer.com/notes/llm-as-a-courtroom/",
+      "published": "2026-01-27T18:32:36",
+      "image": "https://mkt.falconer.com/og-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
-      "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
-      "published": "2026-01-27T15:45:45",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A first look at Aperture by Tailscale (private alpha)",
-      "url": "https://tailscale.com/blog/aperture-private-alpha",
-      "published": "2026-01-27T16:23:40",
-      "image": "https://tailscale.com/api/og-image?id=bc1ffe36-8071-420e-a849-9c1391c0ad2b",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Vargai/SDK \u2013 JSX for AI video, declarative programming language for Claude Code",
-      "url": "https://varg.ai/sdk",
-      "published": "2026-01-22T20:24:06",
-      "image": "https://varg.ai/sdk-og.webp",
+      "title": "Management as AI superpower: Thriving in a world of agentic AI",
+      "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+      "published": "2026-01-27T17:04:22",
+      "image": "https://substackcdn.com/image/fetch/$s_!ml-7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe84ef-5e39-49bb-a6e8-4d427d42b54e_2496x1696.jpeg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-27",
+    "date": "2026-01-28",
     "speakers": [
       "Alex",
       "Jordan"
