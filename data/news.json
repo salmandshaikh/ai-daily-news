@@ -1,6 +1,15 @@
 {
-  "updated": "2026-01-28T16:22:06.189109",
+  "updated": "2026-01-28T20:16:45.472962",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
+      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -13,10 +22,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "The next chapter for AI in the EU",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
-      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "url": "https://openai.com/index/ai-agent-link-safety",
+      "published": "Wed, 28 Jan 2026 00:00:00 GMT",
+      "image": "data/images/b8f5fa5130f3222833f057e460431271.png",
       "summary": "Summary unavailable."
     },
     {
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/trustbank",
       "published": "Tue, 27 Jan 2026 00:00:00 GMT",
       "image": "data/images/9449b014ebc4ee1960cc7fe356e66b82.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing Prism",
-      "url": "https://openai.com/index/introducing-prism",
-      "published": "Tue, 27 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
-      "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
-      "published": "2026-01-28T15:39:11",
-      "image": "data/images/21c597e5216ce100fae9c7480448f1ff.png",
+      "title": "Show HN: Cua-Bench \u2013 a benchmark for AI agents in GUI environments",
+      "url": "https://github.com/trycua/cua",
+      "published": "2026-01-26T17:46:22",
+      "image": "https://opengraph.githubassets.com/1a89a3ddf24844825ef9d23fea38bd1739d0813145b8237d518e75c25034a835/trycua/cua",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Cua-Bench \u2013 a benchmark for AI agents in GUI environments",
-      "url": "https://github.com/trycua/cua",
-      "published": "2026-01-26T17:46:22",
-      "image": "https://opengraph.githubassets.com/f9ce86aa6bcc0b84c0b03bc266cce3e082975d2a41c8e0466a5b663efeb7fa7e/trycua/cua",
+      "title": "That's Not How Email Works, HSBC",
+      "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
+      "published": "2026-01-28T18:12:02",
+      "image": "https://danq.me/_q23-og/27343/0.png",
       "summary": "Summary unavailable."
     }
   ],
