@@ -1,6 +1,24 @@
 {
-  "updated": "2026-01-28T08:02:56.019388",
+  "updated": "2026-01-28T12:22:31.187239",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
+      "image": "data/images/4739526da843e66d9692a9abdc6cc41f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
+      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -26,24 +44,6 @@
       "url": "https://openai.com/index/introducing-prism",
       "published": "Tue, 27 Jan 2026 00:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Indeed uses AI to help evolve the job search",
-      "url": "https://openai.com/index/indeed-maggie-hulce",
-      "published": "Mon, 26 Jan 2026 00:00:00 GMT",
-      "image": "data/images/3f04552af5ac1f99c3812fd955da30ec.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Unrolling the Codex agent loop",
-      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
-      "published": "Fri, 23 Jan 2026 12:00:00 GMT",
-      "image": "data/images/1f316494c8ed3ee124bd750b54fa59c3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -143,24 +143,6 @@
       "url": "https://allenai.org/blog/open-coding-agents",
       "published": "2026-01-27T17:17:54",
       "image": "https://www.datocms-assets.com/64837/1769473127-unnamed-46.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AISLE\u2019s autonomous analyzer found all CVEs in the January OpenSSL release",
-      "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
-      "published": "2026-01-28T01:38:15",
-      "image": "https://aisle.com/api/media/file/openssl%20release%202-1200x630.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I wrapped the Zorks with an LLM",
-      "url": "https://infocom.tambo.co/",
-      "published": "2026-01-27T20:59:49",
-      "image": "data/images/631b339b09e414adfe9600d8f7407ed2.png",
       "summary": "Summary unavailable."
     }
   ],
