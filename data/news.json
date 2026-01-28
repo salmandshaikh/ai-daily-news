@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T00:47:03.355313",
+  "updated": "2026-01-28T04:37:20.107181",
   "articles": [
     {
       "source": "RSS",
@@ -8,6 +8,15 @@
       "url": "https://openai.com/index/pvh-future-of-fashion",
       "published": "Tue, 27 Jan 2026 06:00:00 GMT",
       "image": "data/images/2586c353abe5ac80419c96c4b97fed9f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "url": "https://openai.com/index/trustbank",
+      "published": "Tue, 27 Jan 2026 00:00:00 GMT",
+      "image": "data/images/9449b014ebc4ee1960cc7fe356e66b82.png",
       "summary": "Summary unavailable."
     },
     {
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
       "published": "Fri, 23 Jan 2026 12:00:00 GMT",
       "image": "data/images/1f316494c8ed3ee124bd750b54fa59c3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
-      "url": "https://openai.com/index/scaling-postgresql",
-      "published": "Thu, 22 Jan 2026 12:00:00 GMT",
-      "image": "data/images/21309fdc7128e787c74880708eb8569a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,10 +94,10 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Nemotron-Personas-Singapore: Co-Designed Data for Sovereign AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-singapore",
-      "published": "Tue, 27 Jan 2026 23:41:12 GMT",
-      "image": "data/images/a1fc27cc00eb1abfb89900585df1cbbe.png",
+      "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil",
+      "published": "Wed, 28 Jan 2026 00:56:10 GMT",
+      "image": "data/images/e582194ba6b2dc25f4f5a540d30f9c07.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I wrapped the Zorks with an LLM",
-      "url": "https://infocom.tambo.co/",
-      "published": "2026-01-27T20:59:49",
-      "image": "data/images/631b339b09e414adfe9600d8f7407ed2.png",
+      "title": "AI found 12 vulnerabilities in OpenSSL",
+      "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+      "published": "2026-01-28T01:38:15",
+      "image": "https://aisle.com/api/media/file/openssl%20release%202-1200x630.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -152,24 +152,6 @@
       "url": "https://allenai.org/blog/open-coding-agents",
       "published": "2026-01-27T17:17:54",
       "image": "https://www.datocms-assets.com/64837/1769473127-unnamed-46.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM-as-a-Courtroom",
-      "url": "https://falconer.com/notes/llm-as-a-courtroom/",
-      "published": "2026-01-27T18:32:36",
-      "image": "https://mkt.falconer.com/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Management as AI superpower: Thriving in a world of agentic AI",
-      "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
-      "published": "2026-01-27T17:04:22",
-      "image": "https://substackcdn.com/image/fetch/$s_!ml-7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe84ef-5e39-49bb-a6e8-4d427d42b54e_2496x1696.jpeg",
       "summary": "Summary unavailable."
     }
   ],
