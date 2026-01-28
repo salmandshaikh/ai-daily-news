@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T12:22:31.187239",
+  "updated": "2026-01-28T16:22:06.189109",
   "articles": [
     {
       "source": "RSS",
@@ -103,6 +103,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+      "url": "https://huggingface.co/blog/upskill",
+      "published": "Wed, 28 Jan 2026 00:00:00 GMT",
+      "image": "data/images/52b04f857ed0a17134e206111f8f91c5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
       "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
       "published": "Tue, 27 Jan 2026 15:01:45 GMT",
@@ -128,21 +137,30 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-      "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-      "published": "Wed, 21 Jan 2026 06:25:31 GMT",
-      "image": "data/images/e4466e2ba5d53c26d7e11f44d1efaaf2.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Airfoil (2024)",
+      "url": "https://ciechanow.ski/airfoil/",
+      "published": "2026-01-28T14:32:30",
+      "image": "https://ciechanow.ski/images/og/airfoil.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI2: Open Coding Agents",
-      "url": "https://allenai.org/blog/open-coding-agents",
-      "published": "2026-01-27T17:17:54",
-      "image": "https://www.datocms-assets.com/64837/1769473127-unnamed-46.jpg",
+      "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
+      "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+      "published": "2026-01-28T15:39:11",
+      "image": "data/images/21c597e5216ce100fae9c7480448f1ff.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Cua-Bench \u2013 a benchmark for AI agents in GUI environments",
+      "url": "https://github.com/trycua/cua",
+      "published": "2026-01-26T17:46:22",
+      "image": "https://opengraph.githubassets.com/f9ce86aa6bcc0b84c0b03bc266cce3e082975d2a41c8e0466a5b663efeb7fa7e/trycua/cua",
       "summary": "Summary unavailable."
     }
   ],
