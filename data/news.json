@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T20:16:45.472962",
+  "updated": "2026-01-29T00:55:57.173685",
   "articles": [
     {
       "source": "RSS",
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Powering tax donations with AI powered personalized recommendations",
-      "url": "https://openai.com/index/trustbank",
+      "title": "Introducing Prism",
+      "url": "https://openai.com/index/introducing-prism",
       "published": "Tue, 27 Jan 2026 00:00:00 GMT",
-      "image": "data/images/9449b014ebc4ee1960cc7fe356e66b82.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,33 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The UK paid \u00a34.1M for a bookmarks site",
+      "url": "https://mahadk.com/posts/ai-skills-hub",
+      "published": "2026-01-28T23:16:12",
+      "image": "https://mahadk.com//posts/ai-skills-hub/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+      "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+      "published": "2026-01-28T23:36:23",
+      "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/06msdo9orriwhp633kxw6r2xjd3f",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "url": "https://www.arcee.ai/blog/trinity-large",
+      "published": "2026-01-28T00:57:52",
+      "image": "https://cdn.prod.website-files.com/68d12bf17c9c2b9864d5218e/6978cb152e57d4dbda9f9c69_Blog%20cover%20(1).png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Airfoil (2024)",
       "url": "https://ciechanow.ski/airfoil/",
       "published": "2026-01-28T14:32:30",
@@ -148,26 +175,35 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Cua-Bench \u2013 a benchmark for AI agents in GUI environments",
-      "url": "https://github.com/trycua/cua",
-      "published": "2026-01-26T17:46:22",
-      "image": "https://opengraph.githubassets.com/1a89a3ddf24844825ef9d23fea38bd1739d0813145b8237d518e75c25034a835/trycua/cua",
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "url": "https://github.com/jmuncor/sherlock",
+      "published": "2026-01-28T18:52:24",
+      "image": "https://opengraph.githubassets.com/7dbaef0d1e2922623975458cb19642ffe0a1f8afee1012f985144cfcadf73e5a/jmuncor/sherlock",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "That's Not How Email Works, HSBC",
-      "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
-      "published": "2026-01-28T18:12:02",
-      "image": "https://danq.me/_q23-og/27343/0.png",
+      "title": "Jellyfin LLM/\"AI\" Development Policy",
+      "url": "https://jellyfin.org/docs/general/contributing/llm-policies/",
+      "published": "2026-01-28T21:42:03",
+      "image": "https://jellyfin.org/images/social.png?v2",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "World Models",
+      "url": "https://ankitmaloo.com/world-models/",
+      "published": "2026-01-25T09:03:26",
+      "image": "data/images/b370a141442ab810a4532e28e4c90d0c.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-28",
+    "date": "2026-01-29",
     "speakers": [
       "Alex",
       "Jordan"
