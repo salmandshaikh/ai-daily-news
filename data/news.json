@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T08:25:26.153474",
+  "updated": "2026-01-29T12:27:43.610545",
   "articles": [
     {
       "source": "RSS",
@@ -79,7 +79,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,16 +142,16 @@
       "title": "Render Mermaid diagrams as SVGs or ASCII art",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "published": "2026-01-29T02:08:40",
-      "image": "https://opengraph.githubassets.com/00b659e9a8704ea769072daf0677c627a994732fc8111dcb5ad7295cdb0bcb38/lukilabs/beautiful-mermaid",
+      "image": "https://opengraph.githubassets.com/fefb86a9c266876ed523a81c10f8b60f095ae96fc64d41be1eb330b931d8993c/lukilabs/beautiful-mermaid",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We can't send mail farther than 500 miles (2002)",
+      "title": "We can\u2019t send mail farther than 500 miles (2002)",
       "url": "https://web.mit.edu/jemorris/humor/500-miles",
       "published": "2026-01-29T03:58:33",
-      "image": "data/images/560966a008576162da6c0a9ab99876df.png",
+      "image": "data/images/19cbfcae85b13e35dc4957b028a7a623.png",
       "summary": "Summary unavailable."
     },
     {
@@ -161,6 +161,24 @@
       "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
       "published": "2026-01-29T02:11:42",
       "image": "https://i.guim.co.uk/img/media/606f34633fefe42ecdfca363e4b1fc0468490a83/488_0_4858_3889/master/4858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a744fcf6aedd164aeb53f8ff5dd148e",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+      "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+      "published": "2026-01-29T12:03:13",
+      "image": "data/images/cade30efc842d1c58c72c6402d606def.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI\u2019s unit economics",
+      "url": "https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview",
+      "published": "2026-01-29T08:11:51",
+      "image": "https://substackcdn.com/image/fetch/$s_!CYan!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba92684e-3bf4-455f-a05c-cbc08f811d1a_1280x1280.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,19 +202,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
-      "url": "https://github.com/jmuncor/sherlock",
-      "published": "2026-01-28T18:52:24",
-      "image": "https://opengraph.githubassets.com/e9137df88bdab8d4a27e40f60b58c2ca846ff4c3162c0d6f67eece630ee2985c/jmuncor/sherlock",
+      "title": "Tesla ending Models S and X production",
+      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "published": "2026-01-28T22:53:54",
+      "image": "https://image.cnbcfm.com/api/v1/image/106844785-1614168905231-106844785-1614168417817-gettyimages-1302579261-vcg111317588857.jpg?v=1769640014&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tesla ending Models S and X production",
-      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-      "published": "2026-01-28T22:53:54",
-      "image": "https://image.cnbcfm.com/api/v1/image/106844785-1614168905231-106844785-1614168417817-gettyimages-1302579261-vcg111317588857.jpg?v=1769640014&w=1920&h=1080",
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "url": "https://github.com/jmuncor/sherlock",
+      "published": "2026-01-28T18:52:24",
+      "image": "https://opengraph.githubassets.com/a61a4a0336419fa09455a4711b3aad441c48b83a3704f54a4dc0ec4553e254f4/jmuncor/sherlock",
       "summary": "Summary unavailable."
     }
   ],
