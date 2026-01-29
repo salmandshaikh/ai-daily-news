@@ -1,13 +1,13 @@
 {
-  "updated": "2026-01-29T16:28:29.296559",
+  "updated": "2026-01-29T20:17:44.841596",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "The next chapter for AI in the EU",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
-      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
+      "title": "Inside OpenAI\u2019s in-house data agent",
+      "url": "https://openai.com/index/inside-our-in-house-data-agent",
+      "published": "Thu, 29 Jan 2026 10:00:00 GMT",
+      "image": "data/images/1d2a03c34e02216ffe65e8405bb5c9ab.png",
       "summary": "Summary unavailable."
     },
     {
@@ -17,6 +17,15 @@
       "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "image": "data/images/4739526da843e66d9692a9abdc6cc41f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
+      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,11 +48,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Powering tax donations with AI powered personalized recommendations",
-      "url": "https://openai.com/index/trustbank",
-      "published": "Tue, 27 Jan 2026 00:00:00 GMT",
-      "image": "data/images/9449b014ebc4ee1960cc7fe356e66b82.png",
+      "source_name": "Google DeepMind News",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "published": "Thu, 29 Jan 2026 17:01:05 +0000",
+      "image": "data/images/89c637faf3e4cdd4fca4f81162c7dc12.png",
       "summary": "Summary unavailable."
     },
     {
@@ -84,20 +93,20 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-      "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-      "published": "Tue, 16 Dec 2025 10:14:24 +0000",
-      "image": "data/images/161bedf1d609d4148855669919681018.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+      "published": "Thu, 29 Jan 2026 17:03:25 GMT",
+      "image": "data/images/87544fe443285301d4a55063f46d1d5d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil",
-      "published": "Wed, 28 Jan 2026 00:56:10 GMT",
-      "image": "data/images/e582194ba6b2dc25f4f5a540d30f9c07.png",
+      "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+      "url": "https://huggingface.co/blog/daggr",
+      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+      "image": "data/images/3a626d70ea456d865733d6e44fb581ae.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,15 +137,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
-      "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
-      "published": "Tue, 27 Jan 2026 01:53:15 GMT",
-      "image": "data/images/499f50e4f9e620fb89472732bbc5516a.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Claude Code Daily Benchmarks for Degradation Tracking",
@@ -157,42 +157,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
-      "url": "https://ipsj.ixsq.nii.ac.jp/records/229345",
-      "published": "2026-01-29T14:03:12",
-      "image": "data/images/5552e559ba65cbbb5fbd26065bda8b52.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Render Mermaid diagrams as SVGs or ASCII art",
-      "url": "https://github.com/lukilabs/beautiful-mermaid",
-      "published": "2026-01-29T02:08:40",
-      "image": "https://opengraph.githubassets.com/fb63c0f539fe5e04eae4c839ac33195cf6832d0cc60626994ad3439ef5bd682d/lukilabs/beautiful-mermaid",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We can\u2019t send mail farther than 500 miles (2002)",
-      "url": "https://web.mit.edu/jemorris/humor/500-miles",
-      "published": "2026-01-29T03:58:33",
-      "image": "data/images/19cbfcae85b13e35dc4957b028a7a623.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Maine\u2019s \u2018Lobster Lady\u2019 who fished for nearly a century dies aged 105",
-      "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-      "published": "2026-01-29T02:11:42",
-      "image": "https://i.guim.co.uk/img/media/606f34633fefe42ecdfca363e4b1fc0468490a83/488_0_4858_3889/master/4858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a744fcf6aedd164aeb53f8ff5dd148e",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
       "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
       "published": "2026-01-29T16:12:19",
@@ -202,28 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Airfoil (2024)",
-      "url": "https://ciechanow.ski/airfoil/",
-      "published": "2026-01-28T14:32:30",
-      "image": "https://ciechanow.ski/images/og/airfoil.png",
+      "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
+      "url": "https://ipsj.ixsq.nii.ac.jp/records/229345",
+      "published": "2026-01-29T14:03:12",
+      "image": "data/images/5552e559ba65cbbb5fbd26065bda8b52.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tesla ending Models S and X production",
-      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-      "published": "2026-01-28T22:53:54",
-      "image": "https://image.cnbcfm.com/api/v1/image/108258667-1769640842986-gettyimages-1246210638-TESLA_PRICES.jpeg?v=1769640870&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trinity large: An open 400B sparse MoE model",
-      "url": "https://www.arcee.ai/blog/trinity-large",
-      "published": "2026-01-28T00:57:52",
-      "image": "https://cdn.prod.website-files.com/68d12bf17c9c2b9864d5218e/6978cb152e57d4dbda9f9c69_Blog%20cover%20(1).png",
+      "title": "We can\u2019t send mail farther than 500 miles (2002)",
+      "url": "https://web.mit.edu/jemorris/humor/500-miles",
+      "published": "2026-01-29T03:58:33",
+      "image": "data/images/19cbfcae85b13e35dc4957b028a7a623.png",
       "summary": "Summary unavailable."
     }
   ],
