@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T12:27:43.610545",
+  "updated": "2026-01-29T16:28:29.296559",
   "articles": [
     {
       "source": "RSS",
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing Prism",
-      "url": "https://openai.com/index/introducing-prism",
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "url": "https://openai.com/index/trustbank",
       "published": "Tue, 27 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/9449b014ebc4ee1960cc7fe356e66b82.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+      "url": "https://marginlab.ai/trackers/claude-code/",
+      "published": "2026-01-29T13:59:07",
+      "image": "https://marginlab.ai/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
+      "url": "https://quesma.com/blog/introducing-otel-bench/",
+      "published": "2026-01-29T15:37:21",
+      "image": "https://quesma.com/_astro/thumbnail_piotr.CjJxCeZg.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
+      "url": "https://ipsj.ixsq.nii.ac.jp/records/229345",
+      "published": "2026-01-29T14:03:12",
+      "image": "data/images/5552e559ba65cbbb5fbd26065bda8b52.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Render Mermaid diagrams as SVGs or ASCII art",
       "url": "https://github.com/lukilabs/beautiful-mermaid",
       "published": "2026-01-29T02:08:40",
-      "image": "https://opengraph.githubassets.com/fefb86a9c266876ed523a81c10f8b60f095ae96fc64d41be1eb330b931d8993c/lukilabs/beautiful-mermaid",
+      "image": "https://opengraph.githubassets.com/fb63c0f539fe5e04eae4c839ac33195cf6832d0cc60626994ad3439ef5bd682d/lukilabs/beautiful-mermaid",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
-      "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
-      "published": "2026-01-29T12:03:13",
-      "image": "data/images/cade30efc842d1c58c72c6402d606def.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI\u2019s unit economics",
-      "url": "https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview",
-      "published": "2026-01-29T08:11:51",
-      "image": "https://substackcdn.com/image/fetch/$s_!CYan!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba92684e-3bf4-455f-a05c-cbc08f811d1a_1280x1280.jpeg",
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "published": "2026-01-29T16:12:19",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/08/28/ChatGPT-suicide-cropped.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -193,28 +211,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Tesla ending Models S and X production",
+      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "published": "2026-01-28T22:53:54",
+      "image": "https://image.cnbcfm.com/api/v1/image/108258667-1769640842986-gettyimages-1246210638-TESLA_PRICES.jpeg?v=1769640870&w=1920&h=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Trinity large: An open 400B sparse MoE model",
       "url": "https://www.arcee.ai/blog/trinity-large",
       "published": "2026-01-28T00:57:52",
       "image": "https://cdn.prod.website-files.com/68d12bf17c9c2b9864d5218e/6978cb152e57d4dbda9f9c69_Blog%20cover%20(1).png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tesla ending Models S and X production",
-      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-      "published": "2026-01-28T22:53:54",
-      "image": "https://image.cnbcfm.com/api/v1/image/106844785-1614168905231-106844785-1614168417817-gettyimages-1302579261-vcg111317588857.jpg?v=1769640014&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
-      "url": "https://github.com/jmuncor/sherlock",
-      "published": "2026-01-28T18:52:24",
-      "image": "https://opengraph.githubassets.com/a61a4a0336419fa09455a4711b3aad441c48b83a3704f54a4dc0ec4553e254f4/jmuncor/sherlock",
       "summary": "Summary unavailable."
     }
   ],
