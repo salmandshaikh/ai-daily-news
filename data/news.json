@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T20:17:44.841596",
+  "updated": "2026-01-30T00:56:07.310387",
   "articles": [
     {
       "source": "RSS",
@@ -8,6 +8,24 @@
       "url": "https://openai.com/index/inside-our-in-house-data-agent",
       "published": "Thu, 29 Jan 2026 10:00:00 GMT",
       "image": "data/images/1d2a03c34e02216ffe65e8405bb5c9ab.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "url": "https://openai.com/index/taisei",
+      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+      "image": "data/images/f2cd8b66ab06e093b4d7284158f674f2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -26,24 +44,6 @@
       "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
       "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Keeping your data safe when an AI agent clicks a link",
-      "url": "https://openai.com/index/ai-agent-link-safety",
-      "published": "Wed, 28 Jan 2026 00:00:00 GMT",
-      "image": "data/images/b8f5fa5130f3222833f057e460431271.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "PVH reimagines the future of fashion with OpenAI",
-      "url": "https://openai.com/index/pvh-future-of-fashion",
-      "published": "Tue, 27 Jan 2026 06:00:00 GMT",
-      "image": "data/images/2586c353abe5ac80419c96c4b97fed9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,7 +139,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+      "title": "Claude Code daily benchmarks for degradation tracking",
       "url": "https://marginlab.ai/trackers/claude-code/",
       "published": "2026-01-29T13:59:07",
       "image": "https://marginlab.ai/og-image.png",
@@ -148,10 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
-      "url": "https://quesma.com/blog/introducing-otel-bench/",
-      "published": "2026-01-29T15:37:21",
-      "image": "https://quesma.com/_astro/thumbnail_piotr.CjJxCeZg.jpg",
+      "title": "The WiFi only works when it's raining (2024)",
+      "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+      "published": "2026-01-29T20:47:36",
+      "image": "https://predr.ag/processed_images/wifi-router-on-balcony.7957eb70ffe9a1ac.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+      "url": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
+      "published": "2026-01-29T23:06:34",
+      "image": "https://softwarefordays.com/media/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -162,30 +171,12 @@
       "published": "2026-01-29T16:12:19",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/08/28/ChatGPT-suicide-cropped.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
-      "url": "https://ipsj.ixsq.nii.ac.jp/records/229345",
-      "published": "2026-01-29T14:03:12",
-      "image": "data/images/5552e559ba65cbbb5fbd26065bda8b52.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We can\u2019t send mail farther than 500 miles (2002)",
-      "url": "https://web.mit.edu/jemorris/humor/500-miles",
-      "published": "2026-01-29T03:58:33",
-      "image": "data/images/19cbfcae85b13e35dc4957b028a7a623.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-29",
+    "date": "2026-01-30",
     "speakers": [
       "Alex",
       "Jordan"
