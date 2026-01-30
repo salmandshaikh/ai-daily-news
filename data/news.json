@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T16:24:42.599842",
+  "updated": "2026-01-30T20:16:55.333561",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
       "url": "https://openai.com/index/taisei",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,55 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Amla Sandbox \u2013 WASM bash shell sandbox for AI agents",
-      "url": "https://github.com/amlalabs/amla-sandbox",
-      "published": "2026-01-30T14:34:32",
-      "image": "https://opengraph.githubassets.com/6a35a99c7ff76fdeb39bb0271abb301d6d498298f3282ebb989f295f9dcc0e6e/amlalabs/amla-sandbox",
+      "title": "OpenClaw \u2013 Moltbot Renamed Again",
+      "url": "https://openclaw.ai/blog/introducing-openclaw",
+      "published": "2026-01-30T05:14:48",
+      "image": "https://openclaw.ai/og-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenClaw \u2013 Moltbot Renamed Again",
-      "url": "https://openclaw.ai/blog/introducing-openclaw",
-      "published": "2026-01-30T05:14:48",
-      "image": "https://openclaw.ai/og-image.png",
+      "title": "Joel Spolsky: Painless Software Schedules (2000)",
+      "url": "https://www.joelonsoftware.com/2000/03/29/painless-software-schedules/",
+      "published": "2026-01-26T11:08:16",
+      "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2016/12/11969842.jpg?fit=400%2C400&ssl=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Washington Post Raid Is a Frightening Reminder: Turn Off Your Phone's Biometrics",
+      "url": "https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/",
+      "published": "2026-01-30T19:38:44",
+      "image": "https://theintercept.com/wp-content/uploads/2026/01/GettyImages-1201763746-e1769748518311.jpg?fit=5002%2C2497&w=1200&h=800",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Amla Sandbox \u2013 WASM bash shell sandbox for AI agents",
+      "url": "https://github.com/amlalabs/amla-sandbox",
+      "published": "2026-01-30T14:34:32",
+      "image": "https://opengraph.githubassets.com/79e7510b787efb056661319388574ca3495aa25c08accb5629fcaeedcb8ceec8/amlalabs/amla-sandbox",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mamdani to kill the NYC AI chatbot caught telling businesses to break the law",
+      "url": "https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law",
+      "published": "2026-01-30T18:02:23",
+      "image": "https://mrkp-static-production.themarkup.org/uploads/2026/01/011226-Zohran-Mamdani-GETTY-MU-01-1200x628.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Videogame stocks slide after Google's Project Genie AI model release",
+      "url": "https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/",
+      "published": "2026-01-30T19:04:28",
+      "image": "data/images/b72386f24e5dc4537386381ba8c369bf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,37 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Where I'm at with AI",
-      "url": "https://paulosman.me/2026/01/18/where-im-at-with-ai/",
-      "published": "2026-01-30T14:38:32",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "How AI Impacts Skill Formation",
       "url": "https://arxiv.org/abs/2601.20245",
       "published": "2026-01-30T07:06:47",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
-      "published": "2026-01-29T21:02:31",
-      "image": "data/images/f2cd8b66ab06e093b4d7284158f674f2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The WiFi only works when it's raining (2024)",
-      "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
-      "published": "2026-01-29T20:47:36",
-      "image": "https://predr.ag/processed_images/wifi-router-on-balcony.7957eb70ffe9a1ac.jpg",
       "summary": "Summary unavailable."
     }
   ],
