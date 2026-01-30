@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T05:03:54.017936",
+  "updated": "2026-01-30T08:24:32.208188",
   "articles": [
     {
       "source": "RSS",
@@ -97,7 +97,7 @@
       "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
       "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
       "published": "Thu, 29 Jan 2026 17:03:25 GMT",
-      "image": "data/images/87544fe443285301d4a55063f46d1d5d.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenClaw \u2013 Moltbot Renamed Again",
+      "url": "https://openclaw.ai/blog/introducing-openclaw",
+      "published": "2026-01-30T05:14:48",
+      "image": "https://openclaw.ai/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Claude Code daily benchmarks for degradation tracking",
       "url": "https://marginlab.ai/trackers/claude-code/",
       "published": "2026-01-29T13:59:07",
       "image": "https://marginlab.ai/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "published": "2026-01-29T21:02:31",
+      "image": "data/images/f2cd8b66ab06e093b4d7284158f674f2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Moltworker: a self-hosted personal AI agent, minus the minis",
-      "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
-      "published": "2026-01-29T14:43:07",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/50LUcxsxkxczfIwcqCO13r/ed5a7074fb7a85fb88306d04db2426cb/Introducing_Moltworker-_a_self-hosted_personal_AI_agent__minus_the_minis-OG.png",
+      "title": "How AI assistance impacts the formation of coding skills",
+      "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+      "published": "2026-01-30T05:41:23",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Abacus&backgroundColor=sky",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I'm building an AI-proof writing tool. How would you defeat it?",
-      "url": "https://auth-auth.vercel.app/",
-      "published": "2026-01-28T18:18:16",
-      "image": "data/images/d0cb60450c224e01647a8c0ab92e1def.png",
+      "title": "The paper model houses of Peter Fritz (2013)",
+      "url": "https://socks-studio.com/2013/12/06/the-imaginary-town-of-an-unconscious-architect-the-387-paper-models-houses-of-peter-fritz/",
+      "published": "2026-01-27T22:24:33",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
