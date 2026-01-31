@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T12:19:43.398308",
+  "updated": "2026-01-31T16:14:06.490439",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
       "url": "https://openai.com/index/taisei",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "US reportedly investigate claims that Meta can read encrypted WhatsApp messages",
+      "url": "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages",
+      "published": "2026-01-31T13:27:23",
+      "image": "https://i.guim.co.uk/img/media/3b2d9e5704aa4cc63dbc19f3e9679f9ee8501778/886_311_2237_1789/master/2237.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09d4a0edadd7040772a41a23cc8ee90a",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
       "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "published": "2026-01-31T00:51:27",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ac147f2a98a1624910c7de29bdf804f5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CPython Internals Explained",
+      "url": "https://github.com/zpoint/CPython-Internals",
+      "published": "2026-01-27T14:07:37",
+      "image": "https://opengraph.githubassets.com/10e050b95047dd388babe4581eaf14422dfb5a2e6c1c71bc32048bcacc00dad1/zpoint/CPython-Internals",
       "summary": "Summary unavailable."
     },
     {
