@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T16:14:06.490439",
+  "updated": "2026-01-31T20:03:02.268048",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
       "url": "https://openai.com/index/taisei",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -31,19 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "EMEA Youth & Wellbeing Grant",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
-      "image": "data/images/4739526da843e66d9692a9abdc6cc41f.png",
+      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "The next chapter for AI in the EU",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "published": "Wed, 28 Jan 2026 01:00:00 GMT",
-      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
+      "image": "data/images/4739526da843e66d9692a9abdc6cc41f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "published": "Wed, 28 Jan 2026 00:00:00 GMT",
-      "image": "data/images/52b04f857ed0a17134e206111f8f91c5.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "CPython Internals Explained",
+      "url": "https://github.com/zpoint/CPython-Internals",
+      "published": "2026-01-27T14:07:37",
+      "image": "https://opengraph.githubassets.com/d4773a24650e5805879a9a9b373006e17e0a433d143c88d0943c27d13cd6da45/zpoint/CPython-Internals",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "published": "2026-01-31T00:51:27",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "US reportedly investigate claims that Meta can read encrypted WhatsApp messages",
       "url": "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages",
       "published": "2026-01-31T13:27:23",
@@ -148,37 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "published": "2026-01-31T00:51:27",
-      "image": "data/images/ac147f2a98a1624910c7de29bdf804f5.png",
+      "title": "Students using \u201chumanizer\u201d programs to beat accusations of cheating with AI",
+      "url": "https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878",
+      "published": "2026-01-28T18:09:07",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/01-AI-DetectorsAnuj-Shrestha-3f3370.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CPython Internals Explained",
-      "url": "https://github.com/zpoint/CPython-Internals",
-      "published": "2026-01-27T14:07:37",
-      "image": "https://opengraph.githubassets.com/10e050b95047dd388babe4581eaf14422dfb5a2e6c1c71bc32048bcacc00dad1/zpoint/CPython-Internals",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
-      "url": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
-      "published": "2026-01-29T13:20:07",
-      "image": "https://somehowmanage.com/wp-content/uploads/2020/10/cropped-headshot2-small-1.png?w=200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Archyl \u2013 The modern platform for C4 model documentation",
-      "url": "https://www.archyl.com/",
-      "published": "2026-01-27T11:08:37",
-      "image": "https://www.archyl.com/og-image.png",
+      "title": "What's going on at Heathrow Airport",
+      "url": "https://blog.billyedmoore.com/heathrow",
+      "published": "2026-01-26T18:18:07",
+      "image": "data/images/64ef74b092d342d1b3c927e974ed648c.png",
       "summary": "Summary unavailable."
     }
   ],
