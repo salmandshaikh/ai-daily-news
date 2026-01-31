@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T00:53:36.697493",
+  "updated": "2026-01-31T04:56:21.813018",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
       "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
       "published": "Thu, 29 Jan 2026 17:03:25 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/87544fe443285301d4a55063f46d1d5d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I built an AI conversation partner to practice speaking languages",
-      "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
-      "published": "2026-01-30T22:16:19",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/35/51/c6355174-972e-4c25-49cf-d6004be73545/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "published": "2026-01-31T00:51:27",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The $100B Megadeal Between OpenAI and Nvidia Is on Ice",
+      "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
       "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
       "published": "2026-01-31T00:02:30",
-      "image": "data/images/75a66b99f0ccb52fcf70f2b0ea7416d8.png",
+      "image": "data/images/6364ccd51a7bb821ac1d6f7903b7d94c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -175,15 +175,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Roots is a game server daemon that manages Docker containers for game servers",
-      "url": "https://github.com/SproutPanel/roots",
-      "published": "2026-01-27T07:07:06",
-      "image": "https://opengraph.githubassets.com/ec8bc88aeb9a4a25ea18b5b2eea38fb8cb64d96c6329fcd5dc9dd1de8c58b55a/SproutPanel/roots",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Email experiments: filtering out external images",
       "url": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
       "published": "2026-01-30T12:01:36",
@@ -193,10 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "175K+ publicly-exposed Ollama AI instances discovered",
-      "url": "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
-      "published": "2026-01-31T00:12:22",
-      "image": "https://cdn.mos.cms.futurecdn.net/xELUWtzbMUxTj23au8d3PC-2560-80.jpg",
+      "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+      "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+      "published": "2026-01-30T22:16:19",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/35/51/c6355174-972e-4c25-49cf-d6004be73545/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Roots is a game server daemon that manages Docker containers for game servers",
+      "url": "https://github.com/SproutPanel/roots",
+      "published": "2026-01-27T07:07:06",
+      "image": "https://opengraph.githubassets.com/1baeb735e8ca023777ce36d16897a52ed1518cfeaa534e320c327988ffcc9e0a/SproutPanel/roots",
       "summary": "Summary unavailable."
     },
     {
@@ -205,7 +205,16 @@
       "title": "Show HN: Amla Sandbox \u2013 WASM bash shell sandbox for AI agents",
       "url": "https://github.com/amlalabs/amla-sandbox",
       "published": "2026-01-30T14:34:32",
-      "image": "https://opengraph.githubassets.com/1aabc8eac999886aa382b57bbf05f8a1a7cc5c67d5494919617ede95aafc9adc/amlalabs/amla-sandbox",
+      "image": "https://opengraph.githubassets.com/9656c3e1dd3465a35d15c89f4344cb7209e6fcbf1cd39481745131a982ec397b/amlalabs/amla-sandbox",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "175K+ publicly-exposed Ollama AI instances discovered",
+      "url": "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
+      "published": "2026-01-31T00:12:22",
+      "image": "https://cdn.mos.cms.futurecdn.net/xELUWtzbMUxTj23au8d3PC-2560-80.jpg",
       "summary": "Summary unavailable."
     }
   ],
