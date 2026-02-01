@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-01T05:19:40.199612",
+  "updated": "2026-02-01T08:19:30.888480",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -169,16 +169,7 @@
       "title": "Show HN: Minimal \u2013 Open-Source Community driven Hardened Container Images",
       "url": "https://github.com/rtvkiz/minimal",
       "published": "2026-01-31T19:58:00",
-      "image": "https://opengraph.githubassets.com/06288b80630a86a3dd7bb728c23cbaee0944032076e6fe6d60b9085782eccb5b/rtvkiz/minimal",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Browser Agent Benchmark: Comparing LLM models for web automation",
-      "url": "https://browser-use.com/posts/ai-browser-agent-benchmark",
-      "published": "2026-01-31T15:48:37",
-      "image": "https://browser-use.com/api/og?title=Browser+Agent+Benchmark%3A+Comparing+LLM+Models+for+Web+Automation&date=Jan+31%2C+2026&author=Alexander+Yue",
+      "image": "https://opengraph.githubassets.com/24bda99d80284efc477e4f368906a78109b07a6defa8c58016ece28d741d8924/rtvkiz/minimal",
       "summary": "Summary unavailable."
     },
     {
@@ -187,7 +178,7 @@
       "title": "CPython Internals Explained",
       "url": "https://github.com/zpoint/CPython-Internals",
       "published": "2026-01-27T14:07:37",
-      "image": "https://opengraph.githubassets.com/9e67c188239760e67570007d7cddc49231671ea0c423798f69961c3ffee9f198/zpoint/CPython-Internals",
+      "image": "https://opengraph.githubassets.com/f52776187302f2487ba6a408f8fe16f51d8a5bc9f136d7812d0101ce74f267c6/zpoint/CPython-Internals",
       "summary": "Summary unavailable."
     }
   ],
