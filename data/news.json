@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T20:03:02.268048",
+  "updated": "2026-02-01T01:05:26.468848",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "published": "Wed, 28 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/52b04f857ed0a17134e206111f8f91c5.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,53 +139,53 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "published": "2026-01-31T21:14:02",
+      "image": "https://wikiedu.org/wp-content/uploads/2026/01/GenAI-blog-post-2026-feature-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Minimal \u2013 Open-Source Community driven Hardened Container Images",
+      "url": "https://github.com/rtvkiz/minimal",
+      "published": "2026-01-31T19:58:00",
+      "image": "https://opengraph.githubassets.com/bc3f11b101dfd0bd91d41256349b1519d297ef1613e88005d8a78e1215e1cc1d/rtvkiz/minimal",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "In Praise Of \u2013Dry-Run",
+      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "published": "2026-01-31T20:42:13",
+      "image": "https://henrikwarne.com/wp-content/uploads/2026/01/snow.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "CPython Internals Explained",
       "url": "https://github.com/zpoint/CPython-Internals",
       "published": "2026-01-27T14:07:37",
-      "image": "https://opengraph.githubassets.com/d4773a24650e5805879a9a9b373006e17e0a433d143c88d0943c27d13cd6da45/zpoint/CPython-Internals",
+      "image": "https://opengraph.githubassets.com/e612bfa4353194e3f0027535630b5df9f15db369c18e59170155af9dc7887f04/zpoint/CPython-Internals",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "published": "2026-01-31T00:51:27",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "US reportedly investigate claims that Meta can read encrypted WhatsApp messages",
-      "url": "https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages",
-      "published": "2026-01-31T13:27:23",
-      "image": "https://i.guim.co.uk/img/media/3b2d9e5704aa4cc63dbc19f3e9679f9ee8501778/886_311_2237_1789/master/2237.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09d4a0edadd7040772a41a23cc8ee90a",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Students using \u201chumanizer\u201d programs to beat accusations of cheating with AI",
-      "url": "https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878",
-      "published": "2026-01-28T18:09:07",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/01-AI-DetectorsAnuj-Shrestha-3f3370.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What's going on at Heathrow Airport",
-      "url": "https://blog.billyedmoore.com/heathrow",
-      "published": "2026-01-26T18:18:07",
-      "image": "data/images/64ef74b092d342d1b3c927e974ed648c.png",
+      "title": "US has investigated claims WhatsApp chats aren't private",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
+      "published": "2026-01-31T17:25:30",
+      "image": "data/images/e0050036fcc19337e5c5efcd10d96ecc.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-01-31",
+    "date": "2026-02-01",
     "speakers": [
       "Alex",
       "Jordan"
