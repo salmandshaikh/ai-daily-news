@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-02T05:20:09.807974",
+  "updated": "2026-02-02T08:29:46.669127",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
       "url": "https://openai.com/index/taisei",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
       "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
       "published": "Thu, 29 Jan 2026 17:03:25 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/87544fe443285301d4a55063f46d1d5d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "published": "Wed, 28 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/52b04f857ed0a17134e206111f8f91c5.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
+      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "published": "2026-02-01T20:51:56",
+      "image": "https://journal.rafaelcosta.me/content/images/2026/01/ios-26-iphone-16-pro-trust-this-computer-alert-mac-crop-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
       "url": "https://github.com/gavrielc/nanoclaw",
       "published": "2026-02-01T22:49:22",
@@ -152,6 +161,15 @@
       "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
       "published": "2026-02-02T01:11:15",
       "image": "data/images/61e9a7abb5f4c13a7e020ec5f0b24987.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
+      "url": "https://www.wired.com/story/the-red-bull-leaks/",
+      "published": "2026-02-02T05:10:59",
+      "image": "https://media.wired.com/photos/697369cf8b7aaa4c8f551ec4/191:100/w_1280,c_limit/012225_Red-Bull-Follow-Up.jpg",
       "summary": "Summary unavailable."
     },
     {
