@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-02T12:29:26.588770",
+  "updated": "2026-02-02T16:23:49.519218",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "url": "https://openai.com/index/snowflake-partnership",
+      "published": "Mon, 02 Feb 2026 06:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -26,15 +35,6 @@
       "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
       "image": "data/images/f2cd8b66ab06e093b4d7284158f674f2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The next chapter for AI in the EU",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
-      "image": "data/images/6d73a668b58507f05db48e40669f87cc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft is walking back Windows 11's AI overload",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "published": "2026-02-02T11:52:29",
-      "image": "https://cdn.mos.cms.futurecdn.net/xstyFBAMP9XTUL8qniRTN4-2560-80.jpg",
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "url": "https://neutree.ai/blog/nano-vllm-part-1",
+      "published": "2026-02-02T12:52:35",
+      "image": "https://neutree.ai/images/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,28 +166,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "MaliciousCorgi: AI Extensions send your code to China",
+      "url": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
+      "published": "2026-02-02T12:59:58",
+      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/6970f940bb0dc57ccc6cd9ca_maliciousCorgi%20copy.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "We asked 15,000 European devs about jobs, salaries, and AI [pdf]",
+      "url": "https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf",
+      "published": "2026-02-02T15:31:35",
+      "image": "data/images/d1852a4f5c950f8b8441d79c0fcb7b78.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
       "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
       "published": "2026-02-02T01:11:15",
       "image": "data/images/61e9a7abb5f4c13a7e020ec5f0b24987.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
-      "url": "https://www.wired.com/story/the-red-bull-leaks/",
-      "published": "2026-02-02T05:10:59",
-      "image": "https://media.wired.com/photos/697369cf8b7aaa4c8f551ec4/191:100/w_1280,c_limit/012225_Red-Bull-Follow-Up.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Two kinds of AI users are emerging",
-      "url": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
-      "published": "2026-02-01T23:45:18",
-      "image": "https://martinalderson.com/img/og/two-kinds-of-ai-users-are-emerging-the-gap-between-them-is-astonishing.png",
       "summary": "Summary unavailable."
     }
   ],
