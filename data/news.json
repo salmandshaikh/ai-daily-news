@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T12:30:06.247514",
+  "updated": "2026-02-03T16:39:13.179028",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
       "url": "https://openai.com/index/taisei",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+      "published": "Tue, 03 Feb 2026 15:03:19 GMT",
+      "image": "data/images/0ed0fc774b2d320b4f04a4d8e93ea9c7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
       "url": "https://huggingface.co/blog/Photoroom/prx-part2",
       "published": "Tue, 03 Feb 2026 11:25:53 GMT",
@@ -128,39 +137,39 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-      "published": "Tue, 27 Jan 2026 15:01:45 GMT",
-      "image": "data/images/9a83e5c330013f4caf8eef52c1ff5c71.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
+      "url": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
+      "published": "2026-02-03T14:35:25",
+      "image": "https://blog.rbby.dev/og-base_hu_b9eeea61e6fcdc88.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Rentahuman \u2013 The Meatspace Layer for AI",
-      "url": "https://rentahuman.ai",
-      "published": "2026-02-03T09:30:07",
-      "image": "data/images/2db75ff1660dd8645d88a2dfbf556980.png",
+      "title": "Data Brokers Can Fuel Violence Against Public Servants",
+      "url": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
+      "published": "2026-02-03T15:28:59",
+      "image": "https://media.wired.com/photos/697d55e413c39f45f09e613f/191:100/w_1280,c_limit/security_data_public_servant_violence.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LNAI \u2013 Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
-      "url": "https://github.com/KrystianJonca/lnai",
-      "published": "2026-02-03T08:45:57",
-      "image": "https://opengraph.githubassets.com/16d2e0a5c100827f787b5420ec5f62d785e2502e681de52d074386634c62abe0/KrystianJonca/lnai",
+      "title": "Banning lead in gas worked. The proof is in our hair",
+      "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+      "published": "2026-02-03T01:52:21",
+      "image": "https://d26toa8f6ahusa.cloudfront.net/wp-content/uploads/2026/01/16161115/pexels-nataliya-voitkevich-hair-scaled.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "published": "2026-02-03T00:28:06",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)",
+      "url": "https://github.com/RAIL-Suite/RAIL",
+      "published": "2026-02-03T14:16:49",
+      "image": "https://opengraph.githubassets.com/d14dfebb456e2cc098526b028d8acdff2e9e28f584bf0dd08c36863f12a6236c/RAIL-Suite/RAIL",
       "summary": "Summary unavailable."
     },
     {
@@ -175,6 +184,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "published": "2026-02-03T00:28:06",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Archive.today is directing a DDoS attack against my blog?",
       "url": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
       "published": "2026-02-01T05:11:53",
@@ -184,28 +202,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LNAI \u2013 Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
+      "url": "https://github.com/KrystianJonca/lnai",
+      "published": "2026-02-03T08:45:57",
+      "image": "https://opengraph.githubassets.com/8ef51dd128454522a02546c1fca20ee605b565b651158e864526435ccd989c13/KrystianJonca/lnai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "xAI joins SpaceX",
       "url": "https://www.spacex.com/updates#xai-joins-spacex",
       "published": "2026-02-02T21:51:22",
       "image": "https://www.spacex.com/static/images/share.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nano-vLLM: How a vLLM-style inference engine works",
-      "url": "https://neutree.ai/blog/nano-vllm-part-1",
-      "published": "2026-02-02T12:52:35",
-      "image": "https://neutree.ai/images/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Paris prosecutors raid France offices of Elon Musk's X",
-      "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
-      "published": "2026-02-03T10:08:52",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/96f8/live/12bc3eb0-00ea-11f1-8974-f3140348ffed.jpg",
       "summary": "Summary unavailable."
     }
   ],
