@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-02T16:23:49.519218",
+  "updated": "2026-02-03T01:00:13.581727",
   "articles": [
     {
       "source": "RSS",
@@ -8,6 +8,15 @@
       "url": "https://openai.com/index/snowflake-partnership",
       "published": "Mon, 02 Feb 2026 06:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the Codex app",
+      "url": "https://openai.com/index/introducing-the-codex-app",
+      "published": "Mon, 02 Feb 2026 00:00:00 GMT",
+      "image": "data/images/1f4b3e7b7ea67ad129dbf673001a7f41.png",
       "summary": "Summary unavailable."
     },
     {
@@ -22,15 +31,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-      "url": "https://openai.com/index/taisei",
-      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
       "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "EMEA Youth & Wellbeing Grant",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-      "published": "Wed, 28 Jan 2026 01:00:00 GMT",
-      "image": "data/images/4739526da843e66d9692a9abdc6cc41f.png",
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "url": "https://openai.com/index/taisei",
+      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
       "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
       "published": "Thu, 29 Jan 2026 17:03:25 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/87544fe443285301d4a55063f46d1d5d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,42 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "xAI joins SpaceX",
+      "url": "https://www.spacex.com/updates#xai-joins-spacex",
+      "published": "2026-02-02T21:51:22",
+      "image": "https://www.spacex.com/static/images/share.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Hot Mess of AI",
+      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "published": "2026-02-03T00:28:06",
+      "image": "data/images/9ecb43d3371d5655c454e1dd40f9484d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Firefox Getting New Controls to Turn Off AI Features",
+      "url": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
+      "published": "2026-02-02T23:54:02",
+      "image": "https://images.macrumors.com/t/RipjXFrZ7hZXFYU-IcWkFul0Lf0=/2048x/article-new/2026/02/firefox-ai-toggle.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Advancing AI Benchmarking with Game Arena",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "published": "2026-02-02T17:49:07",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kaggle_Games_Social.width-1300.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Nano-vLLM: How a vLLM-style inference engine works",
       "url": "https://neutree.ai/blog/nano-vllm-part-1",
       "published": "2026-02-02T12:52:35",
@@ -148,53 +184,35 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
-      "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "published": "2026-02-01T20:51:56",
-      "image": "https://journal.rafaelcosta.me/content/images/2026/01/ios-26-iphone-16-pro-trust-this-computer-alert-mac-crop-1.png",
+      "title": "Todd C. Miller \u2013 Sudo maintainer for over 30 years",
+      "url": "https://www.millert.dev/",
+      "published": "2026-02-02T17:25:26",
+      "image": "data/images/a58e8e43e01c308a19919e7ec92345b5.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
-      "url": "https://github.com/gavrielc/nanoclaw",
-      "published": "2026-02-01T22:49:22",
-      "image": "https://repository-images.githubusercontent.com/1146738089/6d3089da-11d6-4a31-ae00-8ec33e30c667",
+      "title": "Training a trillion parameter model to be funny",
+      "url": "https://jokegen.sdan.io/blog",
+      "published": "2026-01-27T16:58:05",
+      "image": "https://joke-generator.vercel.app/opengraph-image?cff7d2a37e94a9a3",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MaliciousCorgi: AI Extensions send your code to China",
-      "url": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
-      "published": "2026-02-02T12:59:58",
-      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/6970f940bb0dc57ccc6cd9ca_maliciousCorgi%20copy.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We asked 15,000 European devs about jobs, salaries, and AI [pdf]",
-      "url": "https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf",
-      "published": "2026-02-02T15:31:35",
-      "image": "data/images/d1852a4f5c950f8b8441d79c0fcb7b78.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
-      "published": "2026-02-02T01:11:15",
-      "image": "data/images/61e9a7abb5f4c13a7e020ec5f0b24987.png",
+      "title": "Nvidia shares are down after report that its OpenAI investment stalled",
+      "url": "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html",
+      "published": "2026-02-02T20:25:41",
+      "image": "https://image.cnbcfm.com/api/v1/image/108236157-1764789584169-gettyimages-2249797726-090a8349_o1ruppxc.jpeg?v=1770024908&w=1920&h=1080",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-02",
+    "date": "2026-02-03",
     "speakers": [
       "Alex",
       "Jordan"
