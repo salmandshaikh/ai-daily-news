@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-03T16:39:13.179028",
+  "updated": "2026-02-03T20:23:14.306863",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The Sora feed philosophy",
+      "url": "https://openai.com/index/sora-feed-philosophy",
+      "published": "Tue, 03 Feb 2026 00:00:00 GMT",
+      "image": "data/images/f12bcd7959422ddc7cddffc2a8f6a95c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
       "image": "data/images/f2cd8b66ab06e093b4d7284158f674f2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-      "url": "https://openai.com/index/taisei",
-      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/de7d4a009efbf3999cb5d6fb9040db62.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "H Company's new Holo2 model takes the lead in UI Localization",
+      "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+      "published": "Tue, 03 Feb 2026 17:40:14 GMT",
+      "image": "data/images/bf179ad6516ee31486e716eca1be3d86.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
       "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
       "published": "Tue, 03 Feb 2026 15:03:19 GMT",
@@ -124,97 +133,52 @@
       "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
       "url": "https://huggingface.co/blog/daggr",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/3a626d70ea456d865733d6e44fb581ae.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-      "url": "https://huggingface.co/blog/upskill",
-      "published": "Wed, 28 Jan 2026 00:00:00 GMT",
-      "image": "data/images/52b04f857ed0a17134e206111f8f91c5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
-      "url": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
-      "published": "2026-02-03T14:35:25",
-      "image": "https://blog.rbby.dev/og-base_hu_b9eeea61e6fcdc88.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Data Brokers Can Fuel Violence Against Public Servants",
-      "url": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
-      "published": "2026-02-03T15:28:59",
-      "image": "https://media.wired.com/photos/697d55e413c39f45f09e613f/191:100/w_1280,c_limit/security_data_public_servant_violence.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Banning lead in gas worked. The proof is in our hair",
-      "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
-      "published": "2026-02-03T01:52:21",
-      "image": "https://d26toa8f6ahusa.cloudfront.net/wp-content/uploads/2026/01/16161115/pexels-nataliya-voitkevich-hair-scaled.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)",
-      "url": "https://github.com/RAIL-Suite/RAIL",
-      "published": "2026-02-03T14:16:49",
-      "image": "https://opengraph.githubassets.com/d14dfebb456e2cc098526b028d8acdff2e9e28f584bf0dd08c36863f12a6236c/RAIL-Suite/RAIL",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Todd C. Miller \u2013 Sudo maintainer for over 30 years",
-      "url": "https://www.millert.dev/",
-      "published": "2026-02-02T17:25:26",
-      "image": "data/images/a58e8e43e01c308a19919e7ec92345b5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "published": "2026-02-03T00:28:06",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Archive.today is directing a DDoS attack against my blog?",
-      "url": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-      "published": "2026-02-01T05:11:53",
-      "image": "https://i0.wp.com/gyrovague.com/wp-content/uploads/2026/02/image.png?fit=1200%2C798&ssl=1",
+      "title": "Sandboxing AI Agents in Linux",
+      "url": "https://blog.senko.net/sandboxing-ai-agents-in-linux",
+      "published": "2026-02-03T17:35:37",
+      "image": "https://cdn.writeas.net/img/w-sq-light.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LNAI \u2013 Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
-      "url": "https://github.com/KrystianJonca/lnai",
-      "published": "2026-02-03T08:45:57",
-      "image": "https://opengraph.githubassets.com/8ef51dd128454522a02546c1fca20ee605b565b651158e864526435ccd989c13/KrystianJonca/lnai",
+      "title": "China Moon Mission: Aiming for 2030 Lunar Landing",
+      "url": "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
+      "published": "2026-02-03T19:32:11",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=63413355&width=1200&height=600&coordinates=0%2C370%2C0%2C130",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "xAI joins SpaceX",
-      "url": "https://www.spacex.com/updates#xai-joins-spacex",
-      "published": "2026-02-02T21:51:22",
-      "image": "https://www.spacex.com/static/images/share.jpg",
+      "title": "X offices raided in France",
+      "url": "https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc",
+      "published": "2026-02-03T16:14:17",
+      "image": "https://dims.apnews.com/dims4/default/a38bc68/2147483647/strip/true/crop/7681x5118+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fd0%2F47e3b063ae6efd879a729a33596e%2F255b9d2c8cd447a5ab63ce0bc23df02b",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Migrate Wizard \u2013 IMAP Based Email Migration Tool",
+      "url": "https://migratewizard.com/#features",
+      "published": "2026-02-03T17:19:47",
+      "image": "https://migratewizard.com/migrate-wizard-blue.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I built \"AI Wattpad\" to eval LLMs on fiction",
+      "url": "https://narrator.sh/llm-leaderboard",
+      "published": "2026-02-03T17:08:43",
+      "image": "https://narrator.sh/images/logo.png",
       "summary": "Summary unavailable."
     }
   ],
