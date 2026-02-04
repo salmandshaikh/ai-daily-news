@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-04T08:26:55.488685",
+  "updated": "2026-02-04T12:29:59.521890",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "url": "https://openai.com/index/vfl-wolfsburg",
+      "published": "Wed, 04 Feb 2026 00:00:00 GMT",
+      "image": "data/images/1a02d4f72810222254df779a269bc258.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/inside-our-in-house-data-agent",
       "published": "Thu, 29 Jan 2026 10:00:00 GMT",
       "image": "data/images/1d2a03c34e02216ffe65e8405bb5c9ab.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
-      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/f2cd8b66ab06e093b4d7284158f674f2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,16 @@
       "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
       "url": "https://huggingface.co/blog/daggr",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/3a626d70ea456d865733d6e44fb581ae.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Ghidra MCP Server \u2013 110 tools for AI-assisted reverse engineering",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "published": "2026-02-04T06:51:51",
+      "image": "https://opengraph.githubassets.com/02b27f25b58e0cfabec319777760420a7612dcede6326a185ddba8f89d6613af/bethington/ghidra-mcp",
       "summary": "Summary unavailable."
     },
     {
@@ -148,10 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Notepad++ supply chain attack breakdown",
-      "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
-      "published": "2026-02-03T22:35:27",
-      "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/02/03072543/notepad-supply-chain-attack-featured-image.jpg",
+      "title": "\"time to GPT-2\", down to 2.91 hours",
+      "url": "https://twitter.com/karpathy/status/2018804068874064198",
+      "published": "2026-02-04T09:24:20",
+      "image": "data/images/56208a5ce76d997440e7deb95a02378e.png",
       "summary": "Summary unavailable."
     }
   ],
