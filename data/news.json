@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T12:29:59.521890",
+  "updated": "2026-02-04T16:32:03.973514",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
       "url": "https://openai.com/index/snowflake-partnership",
       "published": "Mon, 02 Feb 2026 06:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/1c100ff48828923d58ad99877e399cdd.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3\u2019s Top Model",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+      "published": "Wed, 04 Feb 2026 15:00:40 GMT",
+      "image": "data/images/e5c4813199632ea64beadc99d681b114.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "H Company's new Holo2 model takes the lead in UI Localization",
       "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
       "published": "Tue, 03 Feb 2026 17:40:14 GMT",
@@ -121,19 +130,10 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
-      "published": "Thu, 29 Jan 2026 17:03:25 GMT",
-      "image": "data/images/87544fe443285301d4a55063f46d1d5d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
       "url": "https://huggingface.co/blog/daggr",
       "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/3a626d70ea456d865733d6e44fb581ae.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,16 @@
       "title": "Show HN: Ghidra MCP Server \u2013 110 tools for AI-assisted reverse engineering",
       "url": "https://github.com/bethington/ghidra-mcp",
       "published": "2026-02-04T06:51:51",
-      "image": "https://opengraph.githubassets.com/02b27f25b58e0cfabec319777760420a7612dcede6326a185ddba8f89d6613af/bethington/ghidra-mcp",
+      "image": "https://opengraph.githubassets.com/7bd3599677c7a0abfa54f7e49847341fbbdf0edb118e73b59aff70c4f48c81c9/bethington/ghidra-mcp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Procedures for Repair of Potholes in Asphalt-Surfaced Pavements",
+      "url": "https://highways.dot.gov/media/7941",
+      "published": "2026-02-01T07:08:03",
+      "image": "data/images/10f7ed39bfd919c27d8c9d6c5277de81.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"time to GPT-2\", down to 2.91 hours",
-      "url": "https://twitter.com/karpathy/status/2018804068874064198",
-      "published": "2026-02-04T09:24:20",
-      "image": "data/images/56208a5ce76d997440e7deb95a02378e.png",
+      "title": "Microsoft's Pivotal AI Product Is Running into Big Problems",
+      "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+      "published": "2026-02-04T16:08:55",
+      "image": "data/images/7001a4601fef8c9d5a80b06a4763f52b.png",
       "summary": "Summary unavailable."
     }
   ],
