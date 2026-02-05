@@ -1,13 +1,31 @@
 {
-  "updated": "2026-02-05T16:32:19.789612",
+  "updated": "2026-02-05T20:20:26.419041",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing OpenAI Frontier",
-      "url": "https://openai.com/index/introducing-openai-frontier",
+      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "published": "Thu, 05 Feb 2026 11:00:00 GMT",
+      "image": "data/images/c11fbb6c6dec91789f9f22ab31990279.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing Trusted Access for Cyber",
+      "url": "https://openai.com/index/trusted-access-for-cyber",
+      "published": "Thu, 05 Feb 2026 10:00:00 GMT",
+      "image": "data/images/884ebaac53af212b046bad5e3bbb6b77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.3-Codex System Card",
+      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
       "published": "Thu, 05 Feb 2026 00:00:00 GMT",
-      "image": "data/images/f90337b047098486da5fb99447494880.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -22,28 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Unlocking the Codex harness: how we built the App Server",
-      "url": "https://openai.com/index/unlocking-the-codex-harness",
-      "published": "Wed, 04 Feb 2026 13:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-      "url": "https://openai.com/index/vfl-wolfsburg",
-      "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "data/images/1a02d4f72810222254df779a269bc258.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The Sora feed philosophy",
-      "url": "https://openai.com/index/sora-feed-philosophy",
-      "published": "Tue, 03 Feb 2026 00:00:00 GMT",
-      "image": "data/images/f12bcd7959422ddc7cddffc2a8f6a95c.png",
+      "title": "Introducing GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "published": "Thu, 05 Feb 2026 00:00:00 GMT",
+      "image": "data/images/f15f167c820283644e62132605e42476.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Introducing SyGra Studio",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+      "published": "Thu, 05 Feb 2026 16:52:28 GMT",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3\u2019s Top Model",
       "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "published": "Wed, 04 Feb 2026 15:00:40 GMT",
@@ -128,48 +137,48 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part2",
-      "published": "Tue, 03 Feb 2026 11:25:53 GMT",
-      "image": "data/images/6e6f877c3cfe0fe9dd116b9eb2b80e4f.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "published": "2026-02-05T18:08:08",
+      "image": "data/images/75b6bcaa63fa827235fc92c9bc293ece.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Top downloaded skill in ClawHub contains malware",
-      "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
-      "published": "2026-02-05T11:45:03",
-      "image": "https://images.ctfassets.net/3091ajzcmzlr/1LlGltd9bh09UR5RWaZqlf/92337af2b90765ea33d038e538797394/Hero_The_Risk_of_Agent_Skill_Registries_1920x1080.webp",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf",
+      "published": "2026-02-01T16:31:16",
+      "image": "data/images/a3ed202daf09ec582d05ee89603e9369.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Freshpaint (YC S19) Is Hiring a Senior SWE, Data",
-      "url": "https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761",
-      "published": "2026-02-05T12:00:03",
-      "image": "https://cdn.prod.website-files.com/69417c9f27f09ce1d0e05c2d/695ec483d762f682ea5dd2d1_Freshpaint_Opengraph.png",
+      "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+      "url": "https://arxiv.org/abs/2512.04124",
+      "published": "2026-02-05T18:21:53",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Code: connect to a local model when your quota runs out",
-      "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "published": "2026-02-01T12:43:41",
-      "image": "https://boxc.net/blog/wp-content/uploads/2026/02/claude_code_limit_new_option_header2.png",
+      "title": "Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)",
+      "url": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
+      "published": "2026-02-05T17:00:07",
+      "image": "https://app.ashbyhq.com/api/images/org-theme-social/3208b3d1-ae03-4277-8d2a-5f90e3b90e39/2263ac31-2686-4d43-ac6b-adfa438fb122/8f3a1610-e0a7-488e-b1b2-6387873f803d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is killing B2B SaaS",
-      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "published": "2026-02-04T17:09:28",
-      "image": "https://nmn.gl/blog/assets/saas-stocks.png",
+      "title": "My AI Adoption Journey",
+      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "published": "2026-02-05T19:04:40",
+      "image": "data/images/ca79549ad5f2fe65c3c9448e4cd263cb.png",
       "summary": "Summary unavailable."
     }
   ],
