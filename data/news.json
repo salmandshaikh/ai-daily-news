@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-04T20:21:10.219218",
+  "updated": "2026-02-05T00:58:45.177029",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Navigating health questions with ChatGPT",
+      "url": "https://openai.com/index/navigating-health-questions",
+      "published": "Thu, 05 Feb 2026 00:00:00 GMT",
+      "image": "data/images/ad5f35cd960715682a86658bc62bd6be.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Unlocking the Codex harness: how we built the App Server",
+      "url": "https://openai.com/index/unlocking-the-codex-harness",
+      "published": "Wed, 04 Feb 2026 13:00:00 GMT",
+      "image": "data/images/a59df3f95f5a551328686c4a506451d0.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -25,25 +43,7 @@
       "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
       "url": "https://openai.com/index/snowflake-partnership",
       "published": "Mon, 02 Feb 2026 06:00:00 GMT",
-      "image": "data/images/1c100ff48828923d58ad99877e399cdd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the Codex app",
-      "url": "https://openai.com/index/introducing-the-codex-app",
-      "published": "Mon, 02 Feb 2026 00:00:00 GMT",
-      "image": "data/images/1f4b3e7b7ea67ad129dbf673001a7f41.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Inside OpenAI\u2019s in-house data agent",
-      "url": "https://openai.com/index/inside-our-in-house-data-agent",
-      "published": "Thu, 29 Jan 2026 10:00:00 GMT",
-      "image": "data/images/1d2a03c34e02216ffe65e8405bb5c9ab.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mean People Fail (2014)",
-      "url": "https://paulgraham.com/mean.html",
-      "published": "2026-02-04T19:47:37",
-      "image": "data/images/7e11f797e6bd58d2a9381a8804ee00dd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Yawning has an unexpected influence on the fluid inside your brain",
-      "url": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
-      "published": "2026-01-30T16:57:19",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/01/29133533/SEI_282446299.jpg",
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+      "published": "2026-02-01T12:43:41",
+      "image": "https://boxc.net/blog/wp-content/uploads/2026/02/claude_code_limit_new_option_header2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,35 +157,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Code: connect to a local model when your quota runs out",
-      "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "published": "2026-02-01T12:43:41",
-      "image": "https://boxc.net/blog/wp-content/uploads/2026/02/claude_code_limit_new_option_header2.png",
+      "title": "A real-world benchmark for AI code review",
+      "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+      "published": "2026-02-04T21:13:17",
+      "image": "https://www.qodo.ai/wp-content/uploads/2026/02/Qodo-Benchmark.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Ghidra MCP Server \u2013 110 tools for AI-assisted reverse engineering",
-      "url": "https://github.com/bethington/ghidra-mcp",
-      "published": "2026-02-04T06:51:51",
-      "image": "https://opengraph.githubassets.com/b0d52e143aac69e17f4c959e8806c09a5fde5a0ca448681c5918c188e36043f8/bethington/ghidra-mcp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI needs to augment rather than replace humans or the workplace is doomed",
-      "url": "https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed",
-      "published": "2026-02-04T18:06:16",
-      "image": "https://i.guim.co.uk/img/media/033d3484112fef94a74cd5dc5ec833ed85d2b99c/454_0_2917_2334/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8967dd6ee69e5a6e8a321d58494b5b20",
+      "title": "Show HN: Morph \u2013 Videos of AI testing your PR, embedded in GitHub",
+      "url": "https://morphllm.com/products/glance",
+      "published": "2026-02-04T21:10:55",
+      "image": "https://morphllm.com/browser-testing.webp",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-04",
+    "date": "2026-02-05",
     "speakers": [
       "Alex",
       "Jordan"
