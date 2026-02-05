@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-05T12:30:33.628553",
+  "updated": "2026-02-05T16:32:19.789612",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing OpenAI Frontier",
+      "url": "https://openai.com/index/introducing-openai-frontier",
+      "published": "Thu, 05 Feb 2026 00:00:00 GMT",
+      "image": "data/images/f90337b047098486da5fb99447494880.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -16,7 +25,7 @@
       "title": "Unlocking the Codex harness: how we built the App Server",
       "url": "https://openai.com/index/unlocking-the-codex-harness",
       "published": "Wed, 04 Feb 2026 13:00:00 GMT",
-      "image": "data/images/a59df3f95f5a551328686c4a506451d0.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/sora-feed-philosophy",
       "published": "Tue, 03 Feb 2026 00:00:00 GMT",
       "image": "data/images/f12bcd7959422ddc7cddffc2a8f6a95c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
-      "url": "https://openai.com/index/snowflake-partnership",
-      "published": "Mon, 02 Feb 2026 06:00:00 GMT",
-      "image": "data/images/1c100ff48828923d58ad99877e399cdd.png",
       "summary": "Summary unavailable."
     },
     {
@@ -103,6 +103,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+      "url": "https://huggingface.co/blog/community-evals",
+      "published": "Wed, 04 Feb 2026 00:00:00 GMT",
+      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "H Company's new Holo2 model takes the lead in UI Localization",
       "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
       "published": "Tue, 03 Feb 2026 17:40:14 GMT",
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-      "url": "https://huggingface.co/blog/daggr",
-      "published": "Thu, 29 Jan 2026 00:00:00 GMT",
-      "image": "data/images/3a626d70ea456d865733d6e44fb581ae.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Top downloaded skill in ClawHub contains malware",
+      "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
+      "published": "2026-02-05T11:45:03",
+      "image": "https://images.ctfassets.net/3091ajzcmzlr/1LlGltd9bh09UR5RWaZqlf/92337af2b90765ea33d038e538797394/Hero_The_Risk_of_Agent_Skill_Registries_1920x1080.webp",
       "summary": "Summary unavailable."
     },
     {
