@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T20:20:26.419041",
+  "updated": "2026-02-06T00:55:38.948579",
   "articles": [
     {
       "source": "RSS",
@@ -16,16 +16,16 @@
       "title": "Introducing Trusted Access for Cyber",
       "url": "https://openai.com/index/trusted-access-for-cyber",
       "published": "Thu, 05 Feb 2026 10:00:00 GMT",
-      "image": "data/images/884ebaac53af212b046bad5e3bbb6b77.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.3-Codex System Card",
-      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-      "published": "Thu, 05 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Introducing OpenAI Frontier",
+      "url": "https://openai.com/index/introducing-openai-frontier",
+      "published": "Thu, 05 Feb 2026 06:00:00 GMT",
+      "image": "data/images/f90337b047098486da5fb99447494880.png",
       "summary": "Summary unavailable."
     },
     {
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.3-Codex",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "title": "GPT-5.3-Codex System Card",
+      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
       "published": "Thu, 05 Feb 2026 00:00:00 GMT",
-      "image": "data/images/f15f167c820283644e62132605e42476.png",
+      "image": "data/images/673a6a9f3ae4d5ffef662edcc095ff70.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "My AI Adoption Journey",
+      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "published": "2026-02-05T19:04:40",
+      "image": "data/images/ca79549ad5f2fe65c3c9448e4cd263cb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf",
       "published": "2026-02-01T16:31:16",
@@ -157,35 +166,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
-      "url": "https://arxiv.org/abs/2512.04124",
-      "published": "2026-02-05T18:21:53",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "title": "OpenClaw: When AI Agents Get Full System Access. Security nightmare?",
+      "url": "https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/",
+      "published": "2026-02-01T11:06:29",
+      "image": "https://innfactory.ai/images/blog/openclaw-ki-agent-sicherheit/openclaw-ai.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)",
+      "title": "Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)",
       "url": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
       "published": "2026-02-05T17:00:07",
       "image": "https://app.ashbyhq.com/api/images/org-theme-social/3208b3d1-ae03-4277-8d2a-5f90e3b90e39/2263ac31-2686-4d43-ac6b-adfa438fb122/8f3a1610-e0a7-488e-b1b2-6387873f803d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "My AI Adoption Journey",
-      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "published": "2026-02-05T19:04:40",
-      "image": "data/images/ca79549ad5f2fe65c3c9448e4cd263cb.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-05",
+    "date": "2026-02-06",
     "speakers": [
       "Alex",
       "Jordan"
