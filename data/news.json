@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T12:29:11.519528",
+  "updated": "2026-02-06T16:31:03.991924",
   "articles": [
     {
       "source": "RSS",
@@ -31,19 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Navigating health questions with ChatGPT",
-      "url": "https://openai.com/index/navigating-health-questions",
+      "title": "GPT-5.3-Codex System Card",
+      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
       "published": "Thu, 05 Feb 2026 00:00:00 GMT",
-      "image": "data/images/ad5f35cd960715682a86658bc62bd6be.png",
+      "image": "data/images/673a6a9f3ae4d5ffef662edcc095ff70.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.3-Codex",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "title": "Navigating health questions with ChatGPT",
+      "url": "https://openai.com/index/navigating-health-questions",
       "published": "Thu, 05 Feb 2026 00:00:00 GMT",
-      "image": "data/images/f15f167c820283644e62132605e42476.png",
+      "image": "data/images/ad5f35cd960715682a86658bc62bd6be.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Understanding Neural Network, Visually",
+      "url": "https://visualrambling.space/neural-network/",
+      "published": "2026-02-03T14:49:11",
+      "image": "https://visualrambling.space/neural-network/2f09e8566b1497158907.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A new bill in New York would require disclaimers on AI-generated news content",
       "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
       "published": "2026-02-06T09:56:55",
@@ -157,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Agent Arena \u2013 Test How Manipulation-Proof Your AI Agent Is",
-      "url": "https://wiz.jock.pl/experiments/agent-arena/",
-      "published": "2026-02-06T12:12:18",
-      "image": "data/images/e310e4bb219f9b1e165018727c8711b1.png",
+      "title": "LLMs could be, but shouldn't be compilers",
+      "url": "https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/",
+      "published": "2026-02-06T13:48:01",
+      "image": "data/images/0f506bada5529dc2c79f04c35b68c32c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -175,46 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Smooth CLI \u2013 Token-efficient browser for AI agents",
+      "url": "https://docs.smooth.sh/cli/overview",
+      "published": "2026-02-05T16:13:33",
+      "image": "https://circlemind.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCLI%2BBrowser%26title%3DOverview%26description%3DGive%2Byour%2BAI%2Bagent%2Ba%2Bbrowser%2Bthat%2Bactually%2Bworks%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D5ceecd1c16c736ee161ef138a78c1ad2%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D09830d7ae7bc8f8a427985ad70b72370%26primaryColor%3D%25230081ff%26lightColor%3D%25230081ff%26darkColor%3D%25230081ff%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%2523090b10&w=1200&q=100",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "DNS Explained \u2013 How Domain Names Get Resolved",
       "url": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
       "published": "2026-02-03T09:43:36",
       "image": "https://cdn.bhusalmanish.com.np/Featured%20Image/blog4-dns-explained.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Sealos \u2013 AI Native Cloud Cloud Operating System",
-      "url": "https://github.com/labring/sealos",
-      "published": "2026-02-03T10:11:35",
-      "image": "https://opengraph.githubassets.com/39006c2c099d24f442695eabe800a07857f9c475571bd0e501464f2e674a40ff/labring/sealos",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
-      "url": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
-      "published": "2026-02-06T03:25:51",
-      "image": "data/images/e4abeaf154fac095c32c28cf9cb32a30.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hypernetworks: Neural Networks for Hierarchical Data",
-      "url": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
-      "published": "2026-02-05T16:55:38",
-      "image": "data/images/1e77f0e02a44368d080517b6bb1164e6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Generative Pen-Trained Transformer",
-      "url": "https://theodore.net/projects/Polargraph/",
-      "published": "2026-02-06T04:28:08",
-      "image": "https://theodore.net/assets/images/Polargraph/thumb.png",
       "summary": "Summary unavailable."
     }
   ],
