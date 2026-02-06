@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T05:10:23.701011",
+  "updated": "2026-02-06T08:28:45.641016",
   "articles": [
     {
       "source": "RSS",
@@ -31,19 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Navigating health questions with ChatGPT",
-      "url": "https://openai.com/index/navigating-health-questions",
+      "title": "GPT-5.3-Codex System Card",
+      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
       "published": "Thu, 05 Feb 2026 00:00:00 GMT",
-      "image": "data/images/ad5f35cd960715682a86658bc62bd6be.png",
+      "image": "data/images/673a6a9f3ae4d5ffef662edcc095ff70.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.3-Codex System Card",
-      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+      "title": "Introducing GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
       "published": "Thu, 05 Feb 2026 00:00:00 GMT",
-      "image": "data/images/673a6a9f3ae4d5ffef662edcc095ff70.png",
+      "image": "data/images/f15f167c820283644e62132605e42476.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,6 +157,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
+      "url": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
+      "published": "2026-02-06T03:25:51",
+      "image": "data/images/e4abeaf154fac095c32c28cf9cb32a30.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Hypernetworks: Neural Networks for Hierarchical Data",
       "url": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
       "published": "2026-02-05T16:55:38",
@@ -166,28 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf",
-      "published": "2026-02-01T16:31:16",
-      "image": "data/images/a3ed202daf09ec582d05ee89603e9369.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
-      "url": "https://arxiv.org/abs/2512.04124",
-      "published": "2026-02-05T18:21:53",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)",
-      "url": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
-      "published": "2026-02-05T17:00:07",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-social/3208b3d1-ae03-4277-8d2a-5f90e3b90e39/2263ac31-2686-4d43-ac6b-adfa438fb122/8f3a1610-e0a7-488e-b1b2-6387873f803d.png",
+      "title": "Generative Pen-Trained Transformer",
+      "url": "https://theodore.net/projects/Polargraph/",
+      "published": "2026-02-06T04:28:08",
+      "image": "https://theodore.net/assets/images/Polargraph/thumb.png",
       "summary": "Summary unavailable."
     }
   ],
