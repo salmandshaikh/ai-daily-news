@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T00:55:18.398788",
+  "updated": "2026-02-07T05:00:03.057832",
   "articles": [
     {
       "source": "RSS",
@@ -151,7 +151,7 @@
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
       "published": "2026-02-06T21:16:36",
-      "image": "https://opengraph.githubassets.com/148b0d492f5507511cf97558995d3443e792bf39ac28cbbd6fa64e397d922c9e/pydantic/monty",
+      "image": "https://opengraph.githubassets.com/7184cdd8cc4b48507812d00ba3b3ff91e49f14bbd55f829ed69a70e89070bbca/pydantic/monty",
       "summary": "Summary unavailable."
     },
     {
@@ -193,6 +193,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I'm going to cure my girlfriend's brain tumor",
+      "url": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
+      "published": "2026-02-07T01:05:59",
+      "image": "data/images/dd0de94233ae736652c57bf2edc9cc04.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
       "url": "https://red.anthropic.com/2026/zero-days/",
       "published": "2026-02-05T17:50:37",
@@ -206,15 +215,6 @@
       "url": "https://docs.smooth.sh/cli/overview",
       "published": "2026-02-05T16:13:33",
       "image": "https://circlemind.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCLI%2BBrowser%26title%3DOverview%26description%3DGive%2Byour%2BAI%2Bagent%2Ba%2Bbrowser%2Bthat%2Bactually%2Bworks%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D5ceecd1c16c736ee161ef138a78c1ad2%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D09830d7ae7bc8f8a427985ad70b72370%26primaryColor%3D%25230081ff%26lightColor%3D%25230081ff%26darkColor%3D%25230081ff%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%2523090b10&w=1200&q=100",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A new bill in New York would require disclaimers on AI-generated news content",
-      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-      "published": "2026-02-06T09:56:55",
-      "image": "https://www.niemanlab.org/images/AdobeStock_1034103290-700x467.jpg",
       "summary": "Summary unavailable."
     }
   ],
