@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T08:17:55.570331",
+  "updated": "2026-02-07T12:20:41.767211",
   "articles": [
     {
       "source": "RSS",
@@ -151,7 +151,7 @@
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
       "published": "2026-02-06T21:16:36",
-      "image": "https://opengraph.githubassets.com/695a8bbd2ec6dd261a5ffc4e4fa050752759e2111c54c893643c923bb6b69a61/pydantic/monty",
+      "image": "https://opengraph.githubassets.com/e86313e2004e90eeb0f9b94efc329edaf7ecd5af16f7d84bc30cd5ade85af913/pydantic/monty",
       "summary": "Summary unavailable."
     },
     {
@@ -175,15 +175,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why I Joined OpenAI",
-      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
-      "published": "2026-02-07T01:45:04",
-      "image": "data/images/8bf012a79673dc83acc41bea3bbcc143.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Understanding Neural Network, Visually",
       "url": "https://visualrambling.space/neural-network/",
       "published": "2026-02-03T14:49:11",
@@ -193,10 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Smooth CLI \u2013 Token-efficient browser for AI agents",
-      "url": "https://docs.smooth.sh/cli/overview",
-      "published": "2026-02-05T16:13:33",
-      "image": "https://circlemind.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCLI%2BBrowser%26title%3DOverview%26description%3DGive%2Byour%2BAI%2Bagent%2Ba%2Bbrowser%2Bthat%2Bactually%2Bworks%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D5ceecd1c16c736ee161ef138a78c1ad2%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D09830d7ae7bc8f8a427985ad70b72370%26primaryColor%3D%25230081ff%26lightColor%3D%25230081ff%26darkColor%3D%25230081ff%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%2523090b10&w=1200&q=100",
+      "title": "Why I Joined OpenAI",
+      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+      "published": "2026-02-07T01:45:04",
+      "image": "data/images/8bf012a79673dc83acc41bea3bbcc143.png",
       "summary": "Summary unavailable."
     }
   ],
