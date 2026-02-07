@@ -1,15 +1,6 @@
 {
-  "updated": "2026-02-07T05:00:03.057832",
+  "updated": "2026-02-07T08:17:55.570331",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Korea privacy policy",
-      "url": "https://openai.com/policies/kr-privacy-policy",
-      "published": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "image": "data/images/d8a875df512600d86000650bdd649f44.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,6 +8,15 @@
       "url": "https://openai.com/index/our-approach-to-localization",
       "published": "Fri, 06 Feb 2026 10:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Korea privacy policy",
+      "url": "https://openai.com/policies/kr-privacy-policy",
+      "published": "Fri, 06 Feb 2026 10:00:00 GMT",
+      "image": "data/images/d8a875df512600d86000650bdd649f44.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -151,16 +151,7 @@
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "url": "https://github.com/pydantic/monty",
       "published": "2026-02-06T21:16:36",
-      "image": "https://opengraph.githubassets.com/7184cdd8cc4b48507812d00ba3b3ff91e49f14bbd55f829ed69a70e89070bbca/pydantic/monty",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A century of hair samples proves leaded gas ban worked",
-      "url": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
-      "published": "2026-02-03T05:38:51",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lead2-1152x648.jpg",
+      "image": "https://opengraph.githubassets.com/695a8bbd2ec6dd261a5ffc4e4fa050752759e2111c54c893643c923bb6b69a61/pydantic/monty",
       "summary": "Summary unavailable."
     },
     {
@@ -184,28 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Why I Joined OpenAI",
+      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+      "published": "2026-02-07T01:45:04",
+      "image": "data/images/8bf012a79673dc83acc41bea3bbcc143.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Understanding Neural Network, Visually",
       "url": "https://visualrambling.space/neural-network/",
       "published": "2026-02-03T14:49:11",
       "image": "https://visualrambling.space/neural-network/2f09e8566b1497158907.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I'm going to cure my girlfriend's brain tumor",
-      "url": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
-      "published": "2026-02-07T01:05:59",
-      "image": "data/images/dd0de94233ae736652c57bf2edc9cc04.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
-      "url": "https://red.anthropic.com/2026/zero-days/",
-      "published": "2026-02-05T17:50:37",
-      "image": "data/images/f04719bd839fcb43830a6d01251f45fc.png",
       "summary": "Summary unavailable."
     },
     {
