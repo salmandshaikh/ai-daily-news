@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T20:03:25.953279",
+  "updated": "2026-02-08T01:13:59.192593",
   "articles": [
     {
       "source": "RSS",
@@ -97,7 +97,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+      "published": "2026-02-07T22:25:03",
+      "image": "data/images/93a3b88033be87f0a7654aaaed8c04f7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Al Lowe on model trains, funny deaths and working with Disney",
       "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
       "published": "2026-02-07T15:52:42",
@@ -151,32 +160,14 @@
       "title": "The AI boom is causing shortages everywhere else",
       "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
       "published": "2026-02-07T11:21:29",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Waymo World Model",
-      "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "published": "2026-02-06T16:20:42",
-      "image": "https://images.ctfassets.net/7ijaobx36mtm/2S3Bfbzy16Vo5uHU5kQkFC/05bc9c945a8908eae6d69cb7ead4093e/preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-      "url": "https://github.com/pydantic/monty",
-      "published": "2026-02-06T21:16:36",
-      "image": "https://opengraph.githubassets.com/b2da9526e5bdff8fbbeb314281d701bd88d23552e26687a5b5e4c8896827506c/pydantic/monty",
+      "image": "data/images/a1cf7a84b8d1f1b5e919a984fecb77a3.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-07",
+    "date": "2026-02-08",
     "speakers": [
       "Alex",
       "Jordan"
