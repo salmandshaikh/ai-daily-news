@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-08T05:20:55.338683",
+  "updated": "2026-02-08T08:19:30.702673",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,7 @@
       "title": "Show HN: LocalGPT \u2013 A local-first AI assistant in Rust with persistent memory",
       "url": "https://github.com/localgpt-app/localgpt",
       "published": "2026-02-08T01:26:38",
-      "image": "https://opengraph.githubassets.com/81c23ff42063faa247a26d3d9238bb2bf212cef8dcd8f564f6bad8a9966889fe/localgpt-app/localgpt",
+      "image": "https://opengraph.githubassets.com/a78445905db81dc23379e567aaa5b929110ea419c244ed59626763973b404596/localgpt-app/localgpt",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-      "published": "2026-02-07T22:25:03",
-      "image": "data/images/93a3b88033be87f0a7654aaaed8c04f7.png",
+      "title": "Substack confirms data breach affects users\u2019 email addresses and phone numbers",
+      "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+      "published": "2026-02-08T04:34:50",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/substack-on-a-phone.jpg?resize=1200,800",
       "summary": "Summary unavailable."
     },
     {
@@ -179,6 +179,15 @@
       "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
       "published": "2026-02-07T11:21:29",
       "image": "data/images/a1cf7a84b8d1f1b5e919a984fecb77a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+      "published": "2026-02-07T22:25:03",
+      "image": "data/images/93a3b88033be87f0a7654aaaed8c04f7.png",
       "summary": "Summary unavailable."
     }
   ],
