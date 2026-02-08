@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-08T08:19:30.702673",
+  "updated": "2026-02-08T12:21:20.664644",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Matchlock: Linux-based sandboxing for AI agents",
+      "url": "https://github.com/jingkaihe/matchlock",
+      "published": "2026-02-08T08:07:55",
+      "image": "https://opengraph.githubassets.com/6d82443de43850626be988081ea366f56155a13cb2fa9564f47e75da0039cf3d/jingkaihe/matchlock",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
+      "url": "https://github.com/joshuanwalker/Raiders2600",
+      "published": "2026-02-08T09:10:18",
+      "image": "https://opengraph.githubassets.com/e6b06093dd02e9daa3dc73ae37935d2f171c3e959c753a4884a07cf50d08c2ff/joshuanwalker/Raiders2600",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: LocalGPT \u2013 A local-first AI assistant in Rust with persistent memory",
       "url": "https://github.com/localgpt-app/localgpt",
       "published": "2026-02-08T01:26:38",
-      "image": "https://opengraph.githubassets.com/a78445905db81dc23379e567aaa5b929110ea419c244ed59626763973b404596/localgpt-app/localgpt",
+      "image": "https://opengraph.githubassets.com/81dd10b48f46056ba4ffd527d311b96973b25429496ac4d93cfe9c38b61af681/localgpt-app/localgpt",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "(AI) Slop Terrifies Me",
+      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
+      "published": "2026-02-08T10:31:35",
+      "image": "https://ezhik.jp/assets/thumbnails/bro-you-had-chatgpt-write-the-get-well-card-for-your-grandma.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -170,24 +197,6 @@
       "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
       "published": "2026-02-07T15:52:42",
       "image": "https://spillhistorie.no/wp-content/uploads/2026/02/al-lowe-topp.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The AI boom is causing shortages everywhere else",
-      "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "published": "2026-02-07T11:21:29",
-      "image": "data/images/a1cf7a84b8d1f1b5e919a984fecb77a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-      "published": "2026-02-07T22:25:03",
-      "image": "data/images/93a3b88033be87f0a7654aaaed8c04f7.png",
       "summary": "Summary unavailable."
     }
   ],
