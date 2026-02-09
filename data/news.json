@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-09T12:37:36.366168",
+  "updated": "2026-02-09T20:29:01.737742",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,15 +17,6 @@
       "url": "https://openai.com/index/our-approach-to-localization",
       "published": "Fri, 06 Feb 2026 10:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Korea privacy policy",
-      "url": "https://openai.com/policies/kr-privacy-policy",
-      "published": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "image": "data/images/d8a875df512600d86000650bdd649f44.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,16 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Transformers.js v4 Preview: Now Available on NPM!",
+      "url": "https://huggingface.co/blog/transformersjs-v4",
+      "published": "Mon, 09 Feb 2026 00:00:00 GMT",
+      "image": "data/images/4927ceba4351fbc348b6acde97ed5d63.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,48 +137,39 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-      "published": "Tue, 03 Feb 2026 15:03:19 GMT",
-      "image": "data/images/0ed0fc774b2d320b4f04a4d8e93ea9c7.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Testing Ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt/",
+      "published": "2026-02-09T19:04:16",
+      "image": "data/images/dfb406833339d98d87633e640a80065e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Matrix messaging gaining ground in government IT",
-      "url": "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/",
-      "published": "2026-02-09T11:53:13",
-      "image": "https://regmedia.co.uk/2021/11/19/chat_shutterstock.jpg",
+      "title": "GitHub is down again",
+      "url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
+      "published": "2026-02-09T16:12:19",
+      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Experts Have World Models. LLMs Have Word Models",
-      "url": "https://www.latent.space/p/adversarial-reasoning",
-      "published": "2026-02-08T18:13:48",
-      "image": "https://substackcdn.com/image/fetch/$s_!2ITs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6651e22-efa5-4500-ba6e-34fa98c17941_1600x909.png",
+      "title": "Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy",
+      "url": "https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/",
+      "published": "2026-02-09T18:14:08",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/09/53a59fe5-bd58-472e-85de-36ffa94b8c63/thumbnail/1200x630/0ac7f46283a56747a7d504607216717e/gettyimages-2259766771.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
-      "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
-      "published": "2026-02-08T18:24:26",
-      "image": "https://nullcathedral.com/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI makes the easy part easier and the hard part harder",
-      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "published": "2026-02-08T23:13:34",
-      "image": "data/images/08a0cab04a191b8e20bba7c88a02b804.png",
+      "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
+      "url": "https://github.com/jnidzwetzki/pg-dev-container",
+      "published": "2026-02-05T15:09:45",
+      "image": "https://opengraph.githubassets.com/96315a5d436195afd30520483697ad0534a6997a1aa2ba6857d689f6078383b4/jnidzwetzki/pg-dev-container",
       "summary": "Summary unavailable."
     }
   ],
