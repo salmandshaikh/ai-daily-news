@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-09T01:01:34.396877",
+  "updated": "2026-02-09T05:23:37.766227",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Making AI work for everyone, everywhere: our approach to localization",
       "url": "https://openai.com/index/our-approach-to-localization",
       "published": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/67432b0d13333ab2968c8f078b969cb1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI makes the easy part easier and the hard part harder",
-      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "published": "2026-02-08T23:13:34",
-      "image": "data/images/08a0cab04a191b8e20bba7c88a02b804.png",
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "published": "2026-02-09T04:38:14",
+      "image": "https://dims.apnews.com/dims4/default/700b805/2147483647/strip/true/crop/5743x3827+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2Fb3%2F8b888df1978ccd5d64d55bb82e99%2Fa208b88c60f846a1a1ce5888b9c2dc90",
       "summary": "Summary unavailable."
     },
     {
@@ -152,6 +152,33 @@
       "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
       "published": "2026-02-08T18:24:26",
       "image": "https://nullcathedral.com/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI makes the easy part easier and the hard part harder",
+      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "published": "2026-02-08T23:13:34",
+      "image": "data/images/08a0cab04a191b8e20bba7c88a02b804.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Experts Have World Models. LLMs Have Word Models",
+      "url": "https://www.latent.space/p/adversarial-reasoning",
+      "published": "2026-02-08T18:13:48",
+      "image": "https://substackcdn.com/image/fetch/$s_!2ITs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6651e22-efa5-4500-ba6e-34fa98c17941_1600x909.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "NanoClaw now supports Claude's Agent Swarms in containers",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2020701159175155874",
+      "published": "2026-02-09T03:34:21",
+      "image": "data/images/83cf8e83fdb86a0b1f597c028e731113.png",
       "summary": "Summary unavailable."
     }
   ],
