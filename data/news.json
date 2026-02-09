@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-08T20:03:18.367298",
+  "updated": "2026-02-09T01:01:34.396877",
   "articles": [
     {
       "source": "RSS",
@@ -139,53 +139,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI makes the easy part easier and the hard part harder",
+      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "published": "2026-02-08T23:13:34",
+      "image": "data/images/08a0cab04a191b8e20bba7c88a02b804.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
       "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
       "published": "2026-02-08T18:24:26",
       "image": "https://nullcathedral.com/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Experts Have World Models. LLMs Have Word Models",
-      "url": "https://www.latent.space/p/adversarial-reasoning",
-      "published": "2026-02-08T18:13:48",
-      "image": "https://substackcdn.com/image/fetch/$s_!2ITs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6651e22-efa5-4500-ba6e-34fa98c17941_1600x909.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
-      "url": "https://github.com/joshuanwalker/Raiders2600",
-      "published": "2026-02-08T09:10:18",
-      "image": "https://opengraph.githubassets.com/cba4637e54354783a490c933914de88adeb0a9101070badd20ebb75b56ae6e45/joshuanwalker/Raiders2600",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Matchlock \u2013 Secures AI agent workloads with a Linux-based sandbox",
-      "url": "https://github.com/jingkaihe/matchlock",
-      "published": "2026-02-08T08:07:55",
-      "image": "https://opengraph.githubassets.com/3dfa3782b25ed0d2219350a6780dc50917dd2d902fa2b32d4861b5344e0ef7e6/jingkaihe/matchlock",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: LocalGPT \u2013 A local-first AI assistant in Rust with persistent memory",
-      "url": "https://github.com/localgpt-app/localgpt",
-      "published": "2026-02-08T01:26:38",
-      "image": "https://opengraph.githubassets.com/9883949a16aaac3566aee780f9e9b739a546ecf4daba23b9125c9d29d6210dc9/localgpt-app/localgpt",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-08",
+    "date": "2026-02-09",
     "speakers": [
       "Alex",
       "Jordan"
