@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-10T12:42:11.187574",
+  "updated": "2026-02-10T16:50:44.401196",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ex-GitHub CEO Launches a New Developer Platform for AI Agents",
+      "url": "https://entire.io/blog/hello-entire-world/",
+      "published": "2026-02-10T15:44:47",
+      "image": "https://entire.io/entire-funding-announcement-even-logos.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Oxide raises $200M Series C",
+      "url": "https://oxide.computer/blog/our-200m-series-c",
+      "published": "2026-02-10T14:20:49",
+      "image": "https://oxide-computer-huctn5h8o-oxidecomputer.vercel.app/img/blog/series-c/series-c-announcement-og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Frontier AI agents violate ethical constraints 30\u201350% of time, pressured by KPIs",
       "url": "https://arxiv.org/abs/2512.20798",
       "published": "2026-02-10T03:17:17",
@@ -148,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Pipelock \u2013 All-in-one security harness for AI coding agents",
-      "url": "https://github.com/luckyPipewrench/pipelock",
-      "published": "2026-02-10T12:04:20",
-      "image": "https://repository-images.githubusercontent.com/1152497359/9b6fc1b5-1f76-4bf7-ba53-4f1e3c3d7bb5",
+      "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
+      "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
+      "published": "2026-02-10T14:58:35",
+      "image": "data/images/9d5246624391acb728eb54db63061838.png",
       "summary": "Summary unavailable."
     },
     {
@@ -160,16 +178,16 @@
       "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
       "url": "https://github.com/antirez/voxtral.c",
       "published": "2026-02-10T01:17:35",
-      "image": "https://opengraph.githubassets.com/67b2623312ffe21e0973f86a4416a554acb5a99fec0c860e511fc7519e53acc2/antirez/voxtral.c",
+      "image": "https://opengraph.githubassets.com/8d84bfa13f324cdaa943b0453cf4d6af98a63a2b73098b6e353171010e5204f0/antirez/voxtral.c",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI doesn\u2019t reduce work, it intensifies it",
-      "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
-      "published": "2026-02-10T05:19:00",
-      "image": "data/images/4ed2ae8866369efe39dc271c160c4158.png",
+      "title": "Lance table format explained simply, stupid (Animated)",
+      "url": "https://tontinton.com/posts/lance/",
+      "published": "2026-02-08T12:45:56",
+      "image": "https://tontinton.com/tontinton.jpg",
       "summary": "Summary unavailable."
     }
   ],
