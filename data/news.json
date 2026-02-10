@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-10T16:50:44.401196",
+  "updated": "2026-02-10T20:33:44.508704",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,7 +139,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ex-GitHub CEO Launches a New Developer Platform for AI Agents",
+      "title": "Launch HN: Livedocs (YC W22) \u2013 An AI-native notebook for data analysis",
+      "url": "https://livedocs.com",
+      "published": "2026-02-10T18:09:14",
+      "image": "https://livedocs.com/Livedocs_Meta.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "url": "https://entire.io/blog/hello-entire-world/",
       "published": "2026-02-10T15:44:47",
       "image": "https://entire.io/entire-funding-announcement-even-logos.png",
@@ -148,10 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Oxide raises $200M Series C",
-      "url": "https://oxide.computer/blog/our-200m-series-c",
-      "published": "2026-02-10T14:20:49",
-      "image": "https://oxide-computer-huctn5h8o-oxidecomputer.vercel.app/img/blog/series-c/series-c-announcement-og-image.png",
+      "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "published": "2026-02-10T16:47:29",
+      "image": "https://opengraph.githubassets.com/48bf29a904a52bfca427664c59d5c2a7d5fabd53253fb31897166b587b1e4877/rowboatlabs/rowboat",
       "summary": "Summary unavailable."
     },
     {
@@ -166,28 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Oxide raises $200M Series C",
+      "url": "https://oxide.computer/blog/our-200m-series-c",
+      "published": "2026-02-10T14:20:49",
+      "image": "https://oxide-computer-huctn5h8o-oxidecomputer.vercel.app/img/blog/series-c/series-c-announcement-og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
       "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
       "published": "2026-02-10T14:58:35",
-      "image": "data/images/9d5246624391acb728eb54db63061838.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-      "url": "https://github.com/antirez/voxtral.c",
-      "published": "2026-02-10T01:17:35",
-      "image": "https://opengraph.githubassets.com/8d84bfa13f324cdaa943b0453cf4d6af98a63a2b73098b6e353171010e5204f0/antirez/voxtral.c",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Lance table format explained simply, stupid (Animated)",
-      "url": "https://tontinton.com/posts/lance/",
-      "published": "2026-02-08T12:45:56",
-      "image": "https://tontinton.com/tontinton.jpg",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
