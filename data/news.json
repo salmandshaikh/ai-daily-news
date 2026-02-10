@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-09T20:29:01.737742",
+  "updated": "2026-02-10T01:09:03.392786",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/trusted-access-for-cyber",
       "published": "Thu, 05 Feb 2026 10:00:00 GMT",
       "image": "data/images/884ebaac53af212b046bad5e3bbb6b77.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing OpenAI Frontier",
-      "url": "https://openai.com/index/introducing-openai-frontier",
-      "published": "Thu, 05 Feb 2026 06:00:00 GMT",
-      "image": "data/images/f90337b047098486da5fb99447494880.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Testing Ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt/",
-      "published": "2026-02-09T19:04:16",
-      "image": "data/images/dfb406833339d98d87633e640a80065e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GitHub is down again",
-      "url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-      "published": "2026-02-09T16:12:19",
-      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Eddie Bauer, venerable outdoor apparel retailer, declares bankruptcy",
-      "url": "https://www.cbsnews.com/news/eddie-bauer-bankrupt-outdoor-apparel/",
-      "published": "2026-02-09T18:14:08",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/09/53a59fe5-bd58-472e-85de-36ffa94b8c63/thumbnail/1200x630/0ac7f46283a56747a7d504607216717e/gettyimages-2259766771.jpg",
+      "title": "Super Bowl Ad for Ring Cameras Touted AI Surveillance Network",
+      "url": "https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/",
+      "published": "2026-02-09T20:41:05",
+      "image": "https://truthout.org/app/uploads/2026/02/2026_02-09-ring-cameras.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,14 +151,14 @@
       "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
       "url": "https://github.com/jnidzwetzki/pg-dev-container",
       "published": "2026-02-05T15:09:45",
-      "image": "https://opengraph.githubassets.com/96315a5d436195afd30520483697ad0534a6997a1aa2ba6857d689f6078383b4/jnidzwetzki/pg-dev-container",
+      "image": "https://opengraph.githubassets.com/bcc4a90da882663f39aa269e45d44e1a99f423283fa51c7cd05b39e61c75584f/jnidzwetzki/pg-dev-container",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-09",
+    "date": "2026-02-10",
     "speakers": [
       "Alex",
       "Jordan"
