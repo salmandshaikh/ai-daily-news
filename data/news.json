@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-10T08:37:11.132193",
+  "updated": "2026-02-10T12:42:11.187574",
   "articles": [
     {
       "source": "RSS",
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,28 +148,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Pipelock \u2013 All-in-one security harness for AI coding agents",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "published": "2026-02-10T12:04:20",
+      "image": "https://repository-images.githubusercontent.com/1152497359/9b6fc1b5-1f76-4bf7-ba53-4f1e3c3d7bb5",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
       "url": "https://github.com/antirez/voxtral.c",
       "published": "2026-02-10T01:17:35",
-      "image": "https://opengraph.githubassets.com/c9e2e34675f7e83222f9c4a9912a12af721ec9dca13ce2bd08978963aaf27d41/antirez/voxtral.c",
+      "image": "https://opengraph.githubassets.com/67b2623312ffe21e0973f86a4416a554acb5a99fec0c860e511fc7519e53acc2/antirez/voxtral.c",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs as Language Compilers: Lessons from Fortran for the Future of Coding",
-      "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
-      "published": "2026-02-08T08:15:36",
-      "image": "data/images/26c9e868eac47b317519f2203aa8263a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Generative Pen-Trained Transformer",
-      "url": "https://theodore.net/projects/Polargraph/",
-      "published": "2026-02-06T04:28:08",
-      "image": "https://theodore.net/assets/images/Polargraph/thumb.png",
+      "title": "AI doesn\u2019t reduce work, it intensifies it",
+      "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
+      "published": "2026-02-10T05:19:00",
+      "image": "data/images/4ed2ae8866369efe39dc271c160c4158.png",
       "summary": "Summary unavailable."
     }
   ],
