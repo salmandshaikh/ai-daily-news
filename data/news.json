@@ -1,15 +1,6 @@
 {
-  "updated": "2026-02-10T01:09:03.392786",
+  "updated": "2026-02-10T05:24:11.356742",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,6 +8,15 @@
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
       "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Super Bowl Ad for Ring Cameras Touted AI Surveillance Network",
-      "url": "https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/",
-      "published": "2026-02-09T20:41:05",
-      "image": "https://truthout.org/app/uploads/2026/02/2026_02-09-ring-cameras.jpg",
+      "title": "Frontier AI agents violate ethical constraints 30\u201350% of time, pressured by KPIs",
+      "url": "https://arxiv.org/abs/2512.20798",
+      "published": "2026-02-10T03:17:17",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
-      "url": "https://github.com/jnidzwetzki/pg-dev-container",
-      "published": "2026-02-05T15:09:45",
-      "image": "https://opengraph.githubassets.com/bcc4a90da882663f39aa269e45d44e1a99f423283fa51c7cd05b39e61c75584f/jnidzwetzki/pg-dev-container",
+      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+      "url": "https://github.com/antirez/voxtral.c",
+      "published": "2026-02-10T01:17:35",
+      "image": "https://opengraph.githubassets.com/3cabda4c8371430b1523067ef5f2b6c147a11091bfcaef1c4cdc227334ed3733/antirez/voxtral.c",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLMs as Language Compilers: Lessons from Fortran for the Future of Coding",
+      "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
+      "published": "2026-02-08T08:15:36",
+      "image": "data/images/26c9e868eac47b317519f2203aa8263a.png",
       "summary": "Summary unavailable."
     }
   ],
