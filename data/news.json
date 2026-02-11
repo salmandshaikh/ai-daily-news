@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T08:34:31.621451",
+  "updated": "2026-02-11T12:37:20.977942",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The AI Vampire",
-      "url": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
-      "published": "2026-02-11T08:01:52",
-      "image": "data/images/ef00673857fbba3690a6ba2011f6eb07.png",
+      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+      "published": "2026-02-11T11:27:38",
+      "image": "https://dims.apnews.com/dims4/default/cff83bb/2147483647/strip/true/crop/4005x2669+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F83%2F56%2Fa40ae2f7385a44057ca845ba8125%2F9ff56359bb5749f2959b601277ec2e4f",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Willow \u2013 Protocols for an uncertain future [video]",
-      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
-      "published": "2026-02-08T08:52:50",
-      "image": "https://fosdem.org/2026/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
+      "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "published": "2026-02-10T16:47:29",
+      "image": "https://opengraph.githubassets.com/6a0a9f0f6bf674ab4329f8933486ac57ca4142e242e6780e4f4935910400de8d/rowboatlabs/rowboat",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "published": "2026-02-10T16:47:29",
-      "image": "https://opengraph.githubassets.com/5bf1e86d8708864da3bdd20090471e906aaf774b09a01aaf4299948b8e3d391d/rowboatlabs/rowboat",
+      "title": "Willow \u2013 Protocols for an uncertain future [video]",
+      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+      "published": "2026-02-08T08:52:50",
+      "image": "https://fosdem.org/2026/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
       "summary": "Summary unavailable."
     }
   ],
