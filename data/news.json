@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T05:23:36.274860",
+  "updated": "2026-02-11T08:34:31.621451",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -25,7 +25,7 @@
       "title": "Making AI work for everyone, everywhere: our approach to localization",
       "url": "https://openai.com/index/our-approach-to-localization",
       "published": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "image": "data/images/67432b0d13333ab2968c8f078b969cb1.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "Gemini 3 Flash: frontier intelligence built for speed",
       "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
       "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -134,6 +134,15 @@
       "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
       "published": "Tue, 03 Feb 2026 17:40:14 GMT",
       "image": "data/images/bf179ad6516ee31486e716eca1be3d86.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The AI Vampire",
+      "url": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
+      "published": "2026-02-11T08:01:52",
+      "image": "data/images/ef00673857fbba3690a6ba2011f6eb07.png",
       "summary": "Summary unavailable."
     },
     {
@@ -169,25 +178,7 @@
       "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
       "url": "https://github.com/rowboatlabs/rowboat",
       "published": "2026-02-10T16:47:29",
-      "image": "https://opengraph.githubassets.com/f2477c672e73f26b369be14d744dfe98ecdbc15cf121d3a727762616ecc9a35d/rowboatlabs/rowboat",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Model Training Memory Simulator",
-      "url": "https://czheo.github.io/2026/02/08/model-training-memory-simulator/",
-      "published": "2026-02-08T09:39:06",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Oxide raises $200M Series C",
-      "url": "https://oxide.computer/blog/our-200m-series-c",
-      "published": "2026-02-10T14:20:49",
-      "image": "https://oxide-computer-huctn5h8o-oxidecomputer.vercel.app/img/blog/series-c/series-c-announcement-og-image.png",
+      "image": "https://opengraph.githubassets.com/5bf1e86d8708864da3bdd20090471e906aaf774b09a01aaf4299948b8e3d391d/rowboatlabs/rowboat",
       "summary": "Summary unavailable."
     }
   ],
