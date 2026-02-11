@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T12:37:20.977942",
+  "updated": "2026-02-11T16:50:46.410724",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
-      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
-      "published": "2026-02-11T11:27:38",
-      "image": "https://dims.apnews.com/dims4/default/cff83bb/2147483647/strip/true/crop/4005x2669+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F83%2F56%2Fa40ae2f7385a44057ca845ba8125%2F9ff56359bb5749f2959b601277ec2e4f",
+      "title": "Railway (PaaS) Global Outage",
+      "url": "https://status.railway.com",
+      "published": "2026-02-11T15:51:11",
+      "image": "https://railway.instatus.com/api/og",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: AI agents play SimCity through a REST API",
+      "url": "https://hallucinatingsplines.com",
+      "published": "2026-02-09T15:54:33",
+      "image": "data/images/8989b28d76453990fb0541038b3800e8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "FAA Halts All Flights at El Paso Airport for 10 Days",
+      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "published": "2026-02-11T09:04:00",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GLM5 Released on Z.ai Platform",
+      "url": "https://chat.z.ai/",
+      "published": "2026-02-11T13:42:16",
+      "image": "data/images/108f97499b7baea40b1afb5ce9ac6058.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Do not apologize for replying late to my email",
+      "url": "https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html",
+      "published": "2026-02-11T10:38:55",
+      "image": "https://ploum.net/files/bikepunk_logo_petit.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,28 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
-      "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
-      "published": "2026-02-08T14:01:11",
-      "image": "data/images/7847bf2aa2033698cc0d48a5cd6ed2a0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "published": "2026-02-10T16:47:29",
-      "image": "https://opengraph.githubassets.com/6a0a9f0f6bf674ab4329f8933486ac57ca4142e242e6780e4f4935910400de8d/rowboatlabs/rowboat",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Willow \u2013 Protocols for an uncertain future [video]",
-      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
-      "published": "2026-02-08T08:52:50",
-      "image": "https://fosdem.org/2026/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
+      "title": "AI-First Company Memos",
+      "url": "https://the-ai-native.company/",
+      "published": "2026-02-11T15:41:18",
+      "image": "data/images/691aa52483374dde078a865df9434319.png",
       "summary": "Summary unavailable."
     }
   ],
