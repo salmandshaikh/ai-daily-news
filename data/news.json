@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T01:07:16.813518",
+  "updated": "2026-02-11T05:23:36.274860",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Testing ads in ChatGPT",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -25,7 +25,7 @@
       "title": "Making AI work for everyone, everywhere: our approach to localization",
       "url": "https://openai.com/index/our-approach-to-localization",
       "published": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/67432b0d13333ab2968c8f078b969cb1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,10 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Little Learner: A Straight Line to Deep Learning",
+      "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
       "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
       "published": "2026-02-08T14:01:11",
-      "image": "data/images/a14f4845db806ae9dd0a0ef4558a7b4a.png",
+      "image": "data/images/7847bf2aa2033698cc0d48a5cd6ed2a0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Willow \u2013 Protocols for an uncertain future [video]",
+      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+      "published": "2026-02-08T08:52:50",
+      "image": "https://fosdem.org/2026/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
       "summary": "Summary unavailable."
     },
     {
@@ -160,7 +169,16 @@
       "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
       "url": "https://github.com/rowboatlabs/rowboat",
       "published": "2026-02-10T16:47:29",
-      "image": "https://opengraph.githubassets.com/dd955c1454ccc6970990485392d8a85a829c12c5d4276b72604fac4e3d84781f/rowboatlabs/rowboat",
+      "image": "https://opengraph.githubassets.com/f2477c672e73f26b369be14d744dfe98ecdbc15cf121d3a727762616ecc9a35d/rowboatlabs/rowboat",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Model Training Memory Simulator",
+      "url": "https://czheo.github.io/2026/02/08/model-training-memory-simulator/",
+      "published": "2026-02-08T09:39:06",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -170,15 +188,6 @@
       "url": "https://oxide.computer/blog/our-200m-series-c",
       "published": "2026-02-10T14:20:49",
       "image": "https://oxide-computer-huctn5h8o-oxidecomputer.vercel.app/img/blog/series-c/series-c-announcement-og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Livedocs (YC W22) \u2013 An AI-native notebook for data analysis",
-      "url": "https://livedocs.com",
-      "published": "2026-02-10T18:09:14",
-      "image": "https://livedocs.com/Livedocs_Meta.png",
       "summary": "Summary unavailable."
     }
   ],
