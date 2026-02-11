@@ -1,20 +1,20 @@
 {
-  "updated": "2026-02-10T20:33:44.508704",
+  "updated": "2026-02-11T01:07:16.813518",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
@@ -106,7 +106,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,15 +139,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Livedocs (YC W22) \u2013 An AI-native notebook for data analysis",
-      "url": "https://livedocs.com",
-      "published": "2026-02-10T18:09:14",
-      "image": "https://livedocs.com/Livedocs_Meta.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "url": "https://entire.io/blog/hello-entire-world/",
       "published": "2026-02-10T15:44:47",
@@ -157,19 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "published": "2026-02-10T16:47:29",
-      "image": "https://opengraph.githubassets.com/48bf29a904a52bfca427664c59d5c2a7d5fabd53253fb31897166b587b1e4877/rowboatlabs/rowboat",
+      "title": "The Little Learner: A Straight Line to Deep Learning",
+      "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+      "published": "2026-02-08T14:01:11",
+      "image": "data/images/a14f4845db806ae9dd0a0ef4558a7b4a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Frontier AI agents violate ethical constraints 30\u201350% of time, pressured by KPIs",
-      "url": "https://arxiv.org/abs/2512.20798",
-      "published": "2026-02-10T03:17:17",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "title": "Show HN: Rowboat \u2013 AI coworker that turns your work into a knowledge graph (OSS)",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "published": "2026-02-10T16:47:29",
+      "image": "https://opengraph.githubassets.com/dd955c1454ccc6970990485392d8a85a829c12c5d4276b72604fac4e3d84781f/rowboatlabs/rowboat",
       "summary": "Summary unavailable."
     },
     {
@@ -184,17 +175,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
-      "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
-      "published": "2026-02-10T14:58:35",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Launch HN: Livedocs (YC W22) \u2013 An AI-native notebook for data analysis",
+      "url": "https://livedocs.com",
+      "published": "2026-02-10T18:09:14",
+      "image": "https://livedocs.com/Livedocs_Meta.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "speakers": [
       "Alex",
       "Jordan"
