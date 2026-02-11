@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-11T16:50:46.410724",
+  "updated": "2026-02-11T20:27:42.376988",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering",
+      "published": "Wed, 11 Feb 2026 09:00:00 GMT",
+      "image": "data/images/29b242afa48ca0fa8e7f41a2ea449267.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,11 +48,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing Trusted Access for Cyber",
-      "url": "https://openai.com/index/trusted-access-for-cyber",
-      "published": "Thu, 05 Feb 2026 10:00:00 GMT",
-      "image": "data/images/884ebaac53af212b046bad5e3bbb6b77.png",
+      "source_name": "Google DeepMind News",
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "published": "Mon, 09 Feb 2026 16:12:06 +0000",
+      "image": "data/images/da2c3327a3e80cc3606907e09af1bf6c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -84,15 +93,6 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 3 Flash: frontier intelligence built for speed",
-      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-      "published": "Wed, 17 Dec 2025 11:58:17 +0000",
-      "image": "data/images/6ad08f41f394fa354ac42d3c65e77604.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Hugging Face - Blog",
       "title": "Transformers.js v4 Preview: Now Available on NPM!",
       "url": "https://huggingface.co/blog/transformersjs-v4",
@@ -106,7 +106,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Railway (PaaS) Global Outage",
-      "url": "https://status.railway.com",
-      "published": "2026-02-11T15:51:11",
-      "image": "https://railway.instatus.com/api/og",
+      "title": "Single bone in Spain offers first direct evidence of Hannibal's war elephants",
+      "url": "https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html",
+      "published": "2026-02-06T19:25:52",
+      "image": "data/images/0377d8dc91a72d38276a88636aed62e2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+      "published": "2026-02-11T19:50:43",
+      "image": "data/images/74c77c5db1bfa2e580c4fac56e3d5b05.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "FAA halts all flights at El Paso airport for 10 days",
+      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "published": "2026-02-11T09:04:00",
+      "image": "data/images/2910a7c7de39157485c9eb64c51aff0c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -152,42 +170,6 @@
       "url": "https://hallucinatingsplines.com",
       "published": "2026-02-09T15:54:33",
       "image": "data/images/8989b28d76453990fb0541038b3800e8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FAA Halts All Flights at El Paso Airport for 10 Days",
-      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-      "published": "2026-02-11T09:04:00",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GLM5 Released on Z.ai Platform",
-      "url": "https://chat.z.ai/",
-      "published": "2026-02-11T13:42:16",
-      "image": "data/images/108f97499b7baea40b1afb5ce9ac6058.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Do not apologize for replying late to my email",
-      "url": "https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html",
-      "published": "2026-02-11T10:38:55",
-      "image": "https://ploum.net/files/bikepunk_logo_petit.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-      "url": "https://entire.io/blog/hello-entire-world/",
-      "published": "2026-02-10T15:44:47",
-      "image": "https://entire.io/entire-funding-announcement-even-logos.png",
       "summary": "Summary unavailable."
     },
     {
