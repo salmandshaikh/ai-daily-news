@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T05:20:55.892706",
+  "updated": "2026-02-12T08:32:22.300697",
   "articles": [
     {
       "source": "RSS",
@@ -106,7 +106,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,55 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GLM-5 was trained entirely on Huawei chips",
-      "url": "https://glm5.net/",
-      "published": "2026-02-12T04:06:44",
-      "image": "data/images/5e2500a42208b4830860c68ded412a34.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: CodeRLM \u2013 Tree-sitter-backed code indexing for LLM agents",
-      "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
-      "published": "2026-02-11T13:10:23",
-      "image": "https://opengraph.githubassets.com/d68447c54b1636f537ff9ab4e58a67e4e10f7087ac3fea1f989f08aee62f5628/JaredStewart/coderlm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Problem with LLMs",
-      "url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
-      "published": "2026-02-12T02:03:33",
-      "image": "data/images/2845f3f39c8061dd60d7487edcb6205f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "published": "2026-02-11T23:37:11",
-      "image": "data/images/f504218abbce5f6422f2015b2cb64439.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-      "published": "2026-02-11T19:50:43",
-      "image": "data/images/74c77c5db1bfa2e580c4fac56e3d5b05.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "GLM-OCR \u2013 A multimodal OCR model for complex document understanding",
       "url": "https://github.com/zai-org/GLM-OCR",
       "published": "2026-02-07T14:15:36",
-      "image": "https://opengraph.githubassets.com/34337fef8825ccd093f1280e76b10357f3d70f335ada91701934b0d3e3d5ca90/zai-org/GLM-OCR",
+      "image": "https://opengraph.githubassets.com/42d8bb6ee43eb6ed9740d71da143c1576deec1d4b5d3c951b00165377fff0107/zai-org/GLM-OCR",
       "summary": "Summary unavailable."
     },
     {
@@ -202,10 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Agent Alcove \u2013 Claude, GPT, and Gemini debate across forums",
-      "url": "https://agentalcove.ai",
-      "published": "2026-02-11T20:15:21",
-      "image": "https://agentalcove.ai/opengraph-image?d3fa9b7dcc5eb5a",
+      "title": "Show HN: CodeRLM \u2013 Tree-sitter-backed code indexing for LLM agents",
+      "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+      "published": "2026-02-11T13:10:23",
+      "image": "https://opengraph.githubassets.com/1c54372d6629f466e87a78bdbb5102556d533f926e887deef515dcf00c31e635/JaredStewart/coderlm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+      "published": "2026-02-11T19:50:43",
+      "image": "data/images/74c77c5db1bfa2e580c4fac56e3d5b05.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "published": "2026-02-11T23:37:11",
+      "image": "data/images/f504218abbce5f6422f2015b2cb64439.png",
       "summary": "Summary unavailable."
     }
   ],
