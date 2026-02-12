@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T08:32:22.300697",
+  "updated": "2026-02-12T12:34:30.511403",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
       "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
       "published": "Mon, 09 Feb 2026 16:12:06 +0000",
-      "image": "data/images/da2c3327a3e80cc3606907e09af1bf6c.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+      "url": "https://huggingface.co/blog/openenv-turing",
+      "published": "Thu, 12 Feb 2026 00:00:00 GMT",
+      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Transformers.js v4 Preview: Now Available on NPM!",
       "url": "https://huggingface.co/blog/transformersjs-v4",
       "published": "Mon, 09 Feb 2026 00:00:00 GMT",
@@ -106,7 +115,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,12 +137,21 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "H Company's new Holo2 model takes the lead in UI Localization",
-      "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-      "published": "Tue, 03 Feb 2026 17:40:14 GMT",
-      "image": "data/images/bf179ad6516ee31486e716eca1be3d86.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+      "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+      "published": "2026-02-12T11:46:01",
+      "image": "https://opengraph.githubassets.com/6d949eae41933ec31343c1a889e8c5be946b0baebd31b2efa41ba2dcc8080ada/matplotlib/matplotlib/pull/31132",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Lance table format explained with simple animations",
+      "url": "https://tontinton.com/posts/lance/",
+      "published": "2026-02-08T22:26:52",
+      "image": "https://tontinton.com/tontinton.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -142,16 +160,7 @@
       "title": "GLM-OCR \u2013 A multimodal OCR model for complex document understanding",
       "url": "https://github.com/zai-org/GLM-OCR",
       "published": "2026-02-07T14:15:36",
-      "image": "https://opengraph.githubassets.com/42d8bb6ee43eb6ed9740d71da143c1576deec1d4b5d3c951b00165377fff0107/zai-org/GLM-OCR",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
-      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-      "published": "2026-02-11T09:04:00",
-      "image": "data/images/e0eb0333d31a609158af22d7a85e44cc.png",
+      "image": "https://opengraph.githubassets.com/3e4054ee795342a17b73eee57ac554321ca00585d982c0c790426351ff87d0e9/zai-org/GLM-OCR",
       "summary": "Summary unavailable."
     },
     {
@@ -160,7 +169,7 @@
       "title": "Show HN: CodeRLM \u2013 Tree-sitter-backed code indexing for LLM agents",
       "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
       "published": "2026-02-11T13:10:23",
-      "image": "https://opengraph.githubassets.com/1c54372d6629f466e87a78bdbb5102556d533f926e887deef515dcf00c31e635/JaredStewart/coderlm",
+      "image": "https://opengraph.githubassets.com/665a315f8c49239ad89bffa02660c49f7289ec3b43a8eaf6db504139b56f51ea/JaredStewart/coderlm",
       "summary": "Summary unavailable."
     },
     {
@@ -170,15 +179,6 @@
       "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
       "published": "2026-02-11T19:50:43",
       "image": "data/images/74c77c5db1bfa2e580c4fac56e3d5b05.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "published": "2026-02-11T23:37:11",
-      "image": "data/images/f504218abbce5f6422f2015b2cb64439.png",
       "summary": "Summary unavailable."
     }
   ],
