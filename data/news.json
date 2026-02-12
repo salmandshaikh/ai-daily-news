@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T01:00:09.050293",
+  "updated": "2026-02-12T05:20:55.892706",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
       "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
       "published": "Mon, 09 Feb 2026 16:12:06 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/da2c3327a3e80cc3606907e09af1bf6c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
+      "title": "GLM-5 was trained entirely on Huawei chips",
+      "url": "https://glm5.net/",
+      "published": "2026-02-12T04:06:44",
+      "image": "data/images/5e2500a42208b4830860c68ded412a34.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: CodeRLM \u2013 Tree-sitter-backed code indexing for LLM agents",
+      "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+      "published": "2026-02-11T13:10:23",
+      "image": "https://opengraph.githubassets.com/d68447c54b1636f537ff9ab4e58a67e4e10f7087ac3fea1f989f08aee62f5628/JaredStewart/coderlm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Problem with LLMs",
+      "url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+      "published": "2026-02-12T02:03:33",
+      "image": "data/images/2845f3f39c8061dd60d7487edcb6205f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
       "published": "2026-02-11T23:37:11",
-      "image": "data/images/ad1f26f865742ce703ea3f03c11d9a78.png",
+      "image": "data/images/f504218abbce5f6422f2015b2cb64439.png",
       "summary": "Summary unavailable."
     },
     {
@@ -160,16 +187,7 @@
       "title": "GLM-OCR \u2013 A multimodal OCR model for complex document understanding",
       "url": "https://github.com/zai-org/GLM-OCR",
       "published": "2026-02-07T14:15:36",
-      "image": "https://opengraph.githubassets.com/474fb362174dfafcfcac5296a27892b5e4967f203b543a1ca05278082636db3e/zai-org/GLM-OCR",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: CodeRLM \u2013 Tree-sitter-backed code indexing for LLM agents",
-      "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
-      "published": "2026-02-11T13:10:23",
-      "image": "data/images/f32c1691a393f100c103167ace596e32.png",
+      "image": "https://opengraph.githubassets.com/34337fef8825ccd093f1280e76b10357f3d70f335ada91701934b0d3e3d5ca90/zai-org/GLM-OCR",
       "summary": "Summary unavailable."
     },
     {
@@ -179,15 +197,6 @@
       "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
       "published": "2026-02-11T09:04:00",
       "image": "data/images/e0eb0333d31a609158af22d7a85e44cc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: AI agents play SimCity through a REST API",
-      "url": "https://hallucinatingsplines.com",
-      "published": "2026-02-09T15:54:33",
-      "image": "data/images/8989b28d76453990fb0541038b3800e8.png",
       "summary": "Summary unavailable."
     },
     {
