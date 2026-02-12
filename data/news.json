@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T20:27:42.376988",
+  "updated": "2026-02-12T01:00:09.050293",
   "articles": [
     {
       "source": "RSS",
@@ -52,7 +52,7 @@
       "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
       "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
       "published": "Mon, 09 Feb 2026 16:12:06 +0000",
-      "image": "data/images/da2c3327a3e80cc3606907e09af1bf6c.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Single bone in Spain offers first direct evidence of Hannibal's war elephants",
-      "url": "https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html",
-      "published": "2026-02-06T19:25:52",
-      "image": "data/images/0377d8dc91a72d38276a88636aed62e2.png",
+      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "published": "2026-02-11T23:37:11",
+      "image": "data/images/ad1f26f865742ce703ea3f03c11d9a78.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FAA halts all flights at El Paso airport for 10 days",
+      "title": "GLM-OCR \u2013 A multimodal OCR model for complex document understanding",
+      "url": "https://github.com/zai-org/GLM-OCR",
+      "published": "2026-02-07T14:15:36",
+      "image": "https://opengraph.githubassets.com/474fb362174dfafcfcac5296a27892b5e4967f203b543a1ca05278082636db3e/zai-org/GLM-OCR",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: CodeRLM \u2013 Tree-sitter-backed code indexing for LLM agents",
+      "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+      "published": "2026-02-11T13:10:23",
+      "image": "data/images/f32c1691a393f100c103167ace596e32.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
       "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
       "published": "2026-02-11T09:04:00",
-      "image": "data/images/2910a7c7de39157485c9eb64c51aff0c.png",
+      "image": "data/images/e0eb0333d31a609158af22d7a85e44cc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -175,17 +193,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI-First Company Memos",
-      "url": "https://the-ai-native.company/",
-      "published": "2026-02-11T15:41:18",
-      "image": "data/images/691aa52483374dde078a865df9434319.png",
+      "title": "Show HN: Agent Alcove \u2013 Claude, GPT, and Gemini debate across forums",
+      "url": "https://agentalcove.ai",
+      "published": "2026-02-11T20:15:21",
+      "image": "https://agentalcove.ai/opengraph-image?d3fa9b7dcc5eb5a",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-11",
+    "date": "2026-02-12",
     "speakers": [
       "Alex",
       "Jordan"
