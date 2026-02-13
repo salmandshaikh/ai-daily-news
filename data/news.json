@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T08:30:13.160908",
+  "updated": "2026-02-13T12:29:57.044856",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Bringing ChatGPT to GenAI.mil",
       "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,16 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MinIO repository is no longer maintained",
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "published": "2026-02-13T07:46:03",
+      "image": "https://opengraph.githubassets.com/4d04dd565f739cacbb884cb2ba570083d424e17a2c653b4f85eece49c304834d/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
       "summary": "Summary unavailable."
     },
     {
