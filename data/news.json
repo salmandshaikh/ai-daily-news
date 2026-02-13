@@ -1,6 +1,42 @@
 {
-  "updated": "2026-02-13T16:31:13.558429",
+  "updated": "2026-02-13T20:24:07.743568",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics",
+      "published": "Fri, 13 Feb 2026 11:00:00 GMT",
+      "image": "data/images/09c06651cdf6f25eb617f00d614434cf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "published": "Fri, 13 Feb 2026 10:00:00 GMT",
+      "image": "data/images/5d285d32645504f95c09b31d4d9d5b7d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "url": "https://openai.com/index/beyond-rate-limits",
+      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
+      "image": "data/images/35543131a9418a151cb5b0cc88944859.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Scaling social science research",
+      "url": "https://openai.com/index/scaling-social-science-research",
+      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,42 +44,6 @@
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
       "published": "Thu, 12 Feb 2026 10:00:00 GMT",
       "image": "data/images/7f48ed5377d795ecaee4bd38bac81d46.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Harness engineering: leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering",
-      "published": "Wed, 11 Feb 2026 09:00:00 GMT",
-      "image": "data/images/29b242afa48ca0fa8e7f41a2ea449267.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Making AI work for everyone, everywhere: our approach to localization",
-      "url": "https://openai.com/index/our-approach-to-localization",
-      "published": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MinIO repository is no longer maintained",
-      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-      "published": "2026-02-13T07:46:03",
-      "image": "https://opengraph.githubassets.com/4d04dd565f739cacbb884cb2ba570083d424e17a2c653b4f85eece49c304834d/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "published": "2026-02-13T19:20:12",
+      "image": "data/images/09c06651cdf6f25eb617f00d614434cf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
+      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+      "published": "2026-02-13T17:13:01",
+      "image": "https://media.wired.com/photos/698c943b22a1cf13afaf7d0b/191:100/w_1280,c_limit/sec-cbp-facial-rec-2230156680.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Moltis \u2013 AI assistant with memory, tools, and self-extending skills",
+      "url": "https://www.moltis.org",
+      "published": "2026-02-12T19:15:21",
+      "image": "https://moltis.org/og-social.jpg?v=4",
       "summary": "Summary unavailable."
     },
     {
@@ -170,24 +188,6 @@
       "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "published": "2026-02-12T16:23:24",
       "image": "data/images/09ba13018224f8b106fcec54a45386dd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-      "published": "2026-02-12T13:30:20",
-      "image": "https://blog.can.ac/2026/02/12/the-harness-problem/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Major European payment processor can't send email to Google Workspace users",
-      "url": "https://atha.io/blog/2026-02-12-viva",
-      "published": "2026-02-12T14:24:15",
-      "image": "https://atha.io/static/images/twitter-card.png",
       "summary": "Summary unavailable."
     }
   ],
