@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T20:22:21.461410",
+  "updated": "2026-02-13T01:03:43.736621",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/7ead73574b6fd7c196f0a1a9bc79de80.png",
+      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "published": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
       "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/89df8a3dd951222ea38837f830d0adb4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,6 +157,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "published": "2026-02-12T13:30:20",
+      "image": "https://blog.can.ac/2026/02/12/the-harness-problem/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Major European payment processor can't send email to Google Workspace users",
       "url": "https://atha.io/blog/2026-02-12-viva",
       "published": "2026-02-12T14:24:15",
@@ -166,10 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-      "published": "2026-02-12T13:30:20",
-      "image": "https://blog.can.ac/2026/02/12/the-harness-problem/og.png",
+      "title": "Fixing retail with land value capture",
+      "url": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
+      "published": "2026-02-12T20:44:17",
+      "image": "https://wip.gatspress.com/wp-content/uploads/2026/01/Issue-19-onwards-share-cards-17.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,17 +193,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A party balloon shut down El Paso International Airport; estimated cost \u2013$573k",
-      "url": "https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History",
-      "published": "2026-02-12T19:03:27",
-      "image": "https://log.jasongodfrey.info/img/cartel-party-balloon.png",
+      "title": "ai;dr",
+      "url": "https://www.0xsid.com/blog/aidr",
+      "published": "2026-02-12T17:03:30",
+      "image": "data/images/a80285680faf04d1af3bf83f0ab03062.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-12",
+    "date": "2026-02-13",
     "speakers": [
       "Alex",
       "Jordan"
