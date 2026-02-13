@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T12:29:57.044856",
+  "updated": "2026-02-13T16:31:13.558429",
   "articles": [
     {
       "source": "RSS",
@@ -94,10 +94,19 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "published": "Fri, 13 Feb 2026 00:00:00 GMT",
+      "image": "data/images/7f58487c944883f40405efe81e212949.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,15 +137,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
-      "url": "https://huggingface.co/blog/community-evals",
-      "published": "Wed, 04 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "MinIO repository is no longer maintained",
@@ -152,6 +152,15 @@
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "published": "2026-02-12T18:06:09",
       "image": "data/images/8cf4ed541fb34ddbbe9b627b91b336cb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
+      "url": "http://qualify.gauntletAI.com",
+      "published": "2026-02-13T12:32:05",
+      "image": "data/images/94974cb9be1b850df06c0c51f538df31.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,15 +188,6 @@
       "url": "https://atha.io/blog/2026-02-12-viva",
       "published": "2026-02-12T14:24:15",
       "image": "https://atha.io/static/images/twitter-card.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
-      "url": "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/",
-      "published": "2026-02-12T22:34:58",
-      "image": "https://blog.mozilla.ai/content/images/2026/02/Camera-obscura.jpg",
       "summary": "Summary unavailable."
     }
   ],
