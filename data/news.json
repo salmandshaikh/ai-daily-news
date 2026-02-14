@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T20:24:07.743568",
+  "updated": "2026-02-14T00:57:27.619580",
   "articles": [
     {
       "source": "RSS",
@@ -124,7 +124,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The evolution of OpenAI's mission statement",
+      "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+      "published": "2026-02-13T23:43:27",
+      "image": "https://static.simonwillison.net/static/2026/oenai-mission-statement-card.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics/",
       "published": "2026-02-13T19:20:12",
@@ -148,10 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
-      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
-      "published": "2026-02-13T17:13:01",
-      "image": "https://media.wired.com/photos/698c943b22a1cf13afaf7d0b/191:100/w_1280,c_limit/sec-cbp-facial-rec-2230156680.jpg",
+      "title": "I'm not worried about AI job loss",
+      "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+      "published": "2026-02-13T19:13:04",
+      "image": "https://substackcdn.com/image/fetch/$s_!DcWh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cb35e39-2374-4258-99b1-431087baaa8a_1600x1286.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The \"AI agent hit piece\" situation clarifies how dumb we are acting",
+      "url": "https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/",
+      "published": "2026-02-13T19:41:42",
+      "image": "https://ardentperf.com/wp-content/uploads/2026/02/image-8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,35 +184,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT\u20115.3\u2011Codex\u2011Spark",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "published": "2026-02-12T18:06:09",
-      "image": "data/images/8cf4ed541fb34ddbbe9b627b91b336cb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
-      "url": "http://qualify.gauntletAI.com",
-      "published": "2026-02-13T12:32:05",
-      "image": "data/images/94974cb9be1b850df06c0c51f538df31.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An AI agent published a hit piece on me",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "published": "2026-02-12T16:23:24",
-      "image": "data/images/09ba13018224f8b106fcec54a45386dd.png",
+      "title": "OpenAI has deleted the word 'safely' from its mission",
+      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+      "published": "2026-02-13T22:17:06",
+      "image": "https://images.theconversation.com/files/717478/original/file-20260210-66-jvu3ho.jpg?ixlib=rb-4.1.0&rect=0%2C499%2C6048%2C3024&q=45&auto=format&w=1356&h=668&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-13",
+    "date": "2026-02-14",
     "speakers": [
       "Alex",
       "Jordan"
