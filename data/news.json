@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-14T16:15:07.201782",
+  "updated": "2026-02-14T20:02:50.870131",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "published": "2026-02-14T09:28:45",
-      "image": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/116/065/340/502/333/928/original/a1fc3a10cd6c90ae.png",
+      "title": "Fun with Algebraic Effects \u2013 From Toy Examples to Hardcaml Simulations",
+      "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+      "published": "2026-02-10T19:27:33",
+      "image": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/banner.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "published": "2026-02-13T19:20:12",
-      "image": "data/images/09c06651cdf6f25eb617f00d614434cf.png",
+      "title": "Dr. Oz pushes AI avatars as a fix for rural health care",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
+      "published": "2026-02-14T18:22:48",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5160x2903+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F0c%2F283c417040848278d1e12d72bc58%2Fgettyimages-2259619597.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "published": "2026-02-14T09:28:45",
+      "image": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/116/065/340/502/333/928/original/a1fc3a10cd6c90ae.png",
       "summary": "Summary unavailable."
     }
   ],
