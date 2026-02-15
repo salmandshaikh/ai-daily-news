@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T05:15:54.149887",
+  "updated": "2026-02-15T08:19:12.617619",
   "articles": [
     {
       "source": "RSS",
@@ -133,7 +133,7 @@
       "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3\u2019s Top Model",
       "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "published": "Wed, 04 Feb 2026 15:00:40 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/e5c4813199632ea64beadc99d681b114.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Off Grid \u2013 Run AI text, image gen, vision offline on your phone",
-      "url": "https://github.com/alichherawalla/off-grid-mobile",
-      "published": "2026-02-14T22:39:24",
-      "image": "https://opengraph.githubassets.com/567d1e364068329bc16b8eadb928cad680f9cdf705b5fe811cd634ba6bcb9e61/alichherawalla/off-grid-mobile",
+      "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
+      "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
+      "published": "2026-02-11T14:09:13",
+      "image": "https://cdn1.mdst.app/media/twitter_preview.20df24c6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,10 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
-      "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-      "published": "2026-02-11T14:09:13",
-      "image": "https://cdn1.mdst.app/media/twitter_preview.20df24c6.png",
+      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+      "published": "2026-02-15T03:29:39",
+      "image": "https://caucascapades.wordpress.com/wp-content/uploads/2012/06/orfeus_skuril_body_lb.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Off Grid \u2013 Run AI text, image gen, vision offline on your phone",
+      "url": "https://github.com/alichherawalla/off-grid-mobile",
+      "published": "2026-02-14T22:39:24",
+      "image": "https://opengraph.githubassets.com/61f7411fc3bd155d90b70aa73d3b664155ca1f19f9c5984a39a062746d2c1f62/alichherawalla/off-grid-mobile",
       "summary": "Summary unavailable."
     },
     {
