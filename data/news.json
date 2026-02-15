@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T08:19:12.617619",
+  "updated": "2026-02-15T12:21:44.425847",
   "articles": [
     {
       "source": "RSS",
@@ -148,37 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Two different tricks for fast LLM inference",
+      "url": "https://www.seangoedecke.com/fast-llm-inference/",
+      "published": "2026-02-15T09:27:33",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "published": "2026-02-14T15:35:47",
       "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "published": "2026-02-14T18:46:32",
-      "image": "https://www.niemanlab.org/images/internt-archive-stock-2-700x467.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
-      "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-      "published": "2026-02-11T14:09:13",
-      "image": "https://cdn1.mdst.app/media/twitter_preview.20df24c6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI should build Slack",
-      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "published": "2026-02-14T07:50:13",
-      "image": "https://substackcdn.com/image/fetch/$s_!XQAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89ee056a-0ea2-4473-8e1c-9b21f034c717_1474x2116.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,10 +175,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Off Grid \u2013 Run AI text, image gen, vision offline on your phone",
-      "url": "https://github.com/alichherawalla/off-grid-mobile",
-      "published": "2026-02-14T22:39:24",
-      "image": "https://opengraph.githubassets.com/61f7411fc3bd155d90b70aa73d3b664155ca1f19f9c5984a39a062746d2c1f62/alichherawalla/off-grid-mobile",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "published": "2026-02-14T18:46:32",
+      "image": "https://www.niemanlab.org/images/internt-archive-stock-2-700x467.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI should build Slack",
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "published": "2026-02-14T07:50:13",
+      "image": "https://substackcdn.com/image/fetch/$s_!XQAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89ee056a-0ea2-4473-8e1c-9b21f034c717_1474x2116.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
+      "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
+      "published": "2026-02-11T14:09:13",
+      "image": "https://cdn1.mdst.app/media/twitter_preview.20df24c6.png",
       "summary": "Summary unavailable."
     },
     {
