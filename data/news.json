@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T12:21:44.425847",
+  "updated": "2026-02-15T16:15:15.038203",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,10 +148,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Two different tricks for fast LLM inference",
-      "url": "https://www.seangoedecke.com/fast-llm-inference/",
-      "published": "2026-02-15T09:27:33",
-      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "title": "RynnBrain",
+      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
+      "published": "2026-02-11T00:08:01",
+      "image": "https://opengraph.githubassets.com/f75430f4dc9bd0126fe6449ecd0fb21466807c16dac6f5dac7a30a8821da661f/alibaba-damo-academy/RynnBrain",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +166,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
-      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-      "published": "2026-02-15T03:29:39",
-      "image": "https://caucascapades.wordpress.com/wp-content/uploads/2012/06/orfeus_skuril_body_lb.jpg",
+      "title": "Two different tricks for fast LLM inference",
+      "url": "https://www.seangoedecke.com/fast-llm-inference/",
+      "published": "2026-02-15T09:27:33",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "published": "2026-02-14T18:46:32",
-      "image": "https://www.niemanlab.org/images/internt-archive-stock-2-700x467.jpg",
+      "title": "Constraint Propagation for Fun",
+      "url": "https://eli.li/constraint-propagation-for-fun",
+      "published": "2026-02-10T14:43:16",
+      "image": "https://cdn.blot.im/blog_7b49675ad4964db5a10b2e055c3fc5d8/_avatars/46f6db9e-6ed0-4124-9580-7db796f1cacd.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is going to kill app subscriptions",
+      "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
+      "published": "2026-02-15T15:21:08",
+      "image": "https://nichehunt.app/opengraph-image.png?opengraph-image.c79cda14.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
+      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+      "published": "2026-02-15T03:29:39",
+      "image": "https://caucascapades.wordpress.com/wp-content/uploads/2012/06/orfeus_skuril_body_lb.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -193,19 +211,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
-      "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-      "published": "2026-02-11T14:09:13",
-      "image": "https://cdn1.mdst.app/media/twitter_preview.20df24c6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Colored Petri Nets, LLMs, and distributed applications",
-      "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
-      "published": "2026-02-14T21:08:08",
-      "image": "data/images/023d0cd6f6e371d82c54422efa1d2c05.png",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "published": "2026-02-14T18:46:32",
+      "image": "https://www.niemanlab.org/images/internt-archive-stock-2-700x467.jpg",
       "summary": "Summary unavailable."
     }
   ],
