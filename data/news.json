@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T16:15:15.038203",
+  "updated": "2026-02-15T20:03:00.363668",
   "articles": [
     {
       "source": "RSS",
@@ -52,7 +52,7 @@
       "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
       "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
       "published": "Thu, 12 Feb 2026 16:15:09 +0000",
-      "image": "data/images/e63f3d560ddbf9c7ca1e352111fac611.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
       "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
       "published": "Mon, 09 Feb 2026 16:12:06 +0000",
-      "image": "data/images/da2c3327a3e80cc3606907e09af1bf6c.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "RynnBrain",
-      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
-      "published": "2026-02-11T00:08:01",
-      "image": "https://opengraph.githubassets.com/f75430f4dc9bd0126fe6449ecd0fb21466807c16dac6f5dac7a30a8821da661f/alibaba-damo-academy/RynnBrain",
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "published": "2026-02-14T15:35:47",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "published": "2026-02-14T15:35:47",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+      "title": "RynnBrain",
+      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
+      "published": "2026-02-11T00:08:01",
+      "image": "https://opengraph.githubassets.com/fed070650834c635f045f63eaf4bb6fdf62e27f9f9e0d1673631394f9c5fd2cf/alibaba-damo-academy/RynnBrain",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "(Ars) Editor's Note: Retraction of article containing fabricated quotations",
+      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+      "published": "2026-02-15T18:29:54",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -175,46 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Scientists observe a 300M-year-old brain rhythm in several animal species",
+      "url": "https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html",
+      "published": "2026-02-15T18:52:26",
+      "image": "data/images/2338072ea690b667db407c87df6faa17.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Constraint Propagation for Fun",
       "url": "https://eli.li/constraint-propagation-for-fun",
       "published": "2026-02-10T14:43:16",
       "image": "https://cdn.blot.im/blog_7b49675ad4964db5a10b2e055c3fc5d8/_avatars/46f6db9e-6ed0-4124-9580-7db796f1cacd.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI is going to kill app subscriptions",
-      "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
-      "published": "2026-02-15T15:21:08",
-      "image": "https://nichehunt.app/opengraph-image.png?opengraph-image.c79cda14.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
-      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-      "published": "2026-02-15T03:29:39",
-      "image": "https://caucascapades.wordpress.com/wp-content/uploads/2012/06/orfeus_skuril_body_lb.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI should build Slack",
-      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "published": "2026-02-14T07:50:13",
-      "image": "https://substackcdn.com/image/fetch/$s_!XQAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89ee056a-0ea2-4473-8e1c-9b21f034c717_1474x2116.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "published": "2026-02-14T18:46:32",
-      "image": "https://www.niemanlab.org/images/internt-archive-stock-2-700x467.jpg",
       "summary": "Summary unavailable."
     }
   ],
