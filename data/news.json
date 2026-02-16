@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T20:03:00.363668",
+  "updated": "2026-02-16T00:59:59.435318",
   "articles": [
     {
       "source": "RSS",
@@ -52,7 +52,7 @@
       "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
       "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
       "published": "Thu, 12 Feb 2026 16:15:09 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/e63f3d560ddbf9c7ca1e352111fac611.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
       "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
       "published": "Mon, 09 Feb 2026 16:12:06 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/da2c3327a3e80cc3606907e09af1bf6c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,37 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I love the work of the ArchWiki maintainers",
-      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "published": "2026-02-15T01:20:58",
-      "image": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ilovefs-archwiki-reduced.jpg",
+      "title": "I\u2019m joining OpenAI",
+      "url": "https://steipete.me/posts/2026/openclaw",
+      "published": "2026-02-15T21:54:15",
+      "image": "https://steipete.me/posts/2026/openclaw/index.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "published": "2026-02-14T15:35:47",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+      "title": "Show HN: Klaw.sh \u2013\u00a0Kubernetes for AI agents",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "published": "2026-02-15T17:22:59",
+      "image": "https://opengraph.githubassets.com/d3375479792b965fbcd26128d70126b31b0d4e98d449a47a8303b364fb29b0fc/klawsh/klaw.sh",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "RynnBrain",
-      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
-      "published": "2026-02-11T00:08:01",
-      "image": "https://opengraph.githubassets.com/fed070650834c635f045f63eaf4bb6fdf62e27f9f9e0d1673631394f9c5fd2cf/alibaba-damo-academy/RynnBrain",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "(Ars) Editor's Note: Retraction of article containing fabricated quotations",
-      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
-      "published": "2026-02-15T18:29:54",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
+      "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+      "url": "https://microgpt.boratto.ca",
+      "published": "2026-02-15T18:40:35",
+      "image": "data/images/5a85bf13e2392faa6490897e875422c0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,26 +175,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Scientists observe a 300M-year-old brain rhythm in several animal species",
-      "url": "https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html",
-      "published": "2026-02-15T18:52:26",
-      "image": "data/images/2338072ea690b667db407c87df6faa17.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Constraint Propagation for Fun",
-      "url": "https://eli.li/constraint-propagation-for-fun",
-      "published": "2026-02-10T14:43:16",
-      "image": "https://cdn.blot.im/blog_7b49675ad4964db5a10b2e055c3fc5d8/_avatars/46f6db9e-6ed0-4124-9580-7db796f1cacd.jpg",
+      "title": "Editor's Note: Retraction of article containing fabricated quotations",
+      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+      "published": "2026-02-15T18:29:54",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-15",
+    "date": "2026-02-16",
     "speakers": [
       "Alex",
       "Jordan"
