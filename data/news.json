@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-16T08:33:38.806363",
+  "updated": "2026-02-16T12:31:59.607649",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+      "published": "2026-02-16T11:06:28",
+      "image": "https://regmedia.co.uk/2026/02/05/shutterstock_2457318185.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Expensively Quadratic: The LLM Agent Cost Curve",
       "url": "https://blog.exe.dev/expensively-quadratic",
       "published": "2026-02-13T07:44:50",
@@ -166,46 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Solving Sudoku reasoning via Energy Geometric models",
-      "url": "https://www.davisgeometric.com/index.html",
-      "published": "2026-02-12T09:22:54",
-      "image": "davis-geometric-founder.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
       "url": "https://microgpt.boratto.ca",
       "published": "2026-02-15T18:40:35",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Databases should contain their own Metadata \u2013 Use SQL Everywhere",
-      "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
-      "published": "2026-02-11T15:36:10",
-      "image": "https://floedb.ai/hubfs/systemview3.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
-      "url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
-      "published": "2026-02-11T17:13:17",
-      "image": "https://static.wixstatic.com/media/4ad342_1d8729bf0473401c877e4093bef3fa27~mv2.jpg/v1/fill/w_1000,h_562,al_c,q_85,usm_0.66_1.00_0.01/4ad342_1d8729bf0473401c877e4093bef3fa27~mv2.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Editor's Note: Retraction of article containing fabricated quotations",
-      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
-      "published": "2026-02-15T18:29:54",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
+      "image": "data/images/5a85bf13e2392faa6490897e875422c0.png",
       "summary": "Summary unavailable."
     }
   ],
