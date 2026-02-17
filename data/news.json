@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T05:17:52.097552",
+  "updated": "2026-02-17T08:32:11.767540",
   "articles": [
     {
       "source": "RSS",
@@ -124,7 +124,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is destroying Open Source, and it's not even good yet",
-      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-      "published": "2026-02-17T00:26:20",
-      "image": "data/images/a28fc9900abc2c3e53ce2ac7f53a1fdf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
       "url": "https://forestrydiary.com/",
       "published": "2026-02-16T23:40:33",
       "image": "data/images/1c36422946cf88ba5b3da4c26381729e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PCB Rework and Repair Guide [pdf]",
-      "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-      "published": "2026-02-14T13:42:04",
-      "image": "data/images/222daa10045ca9105cdad7f682608f80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,19 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The long tail of LLM-assisted decompilation",
-      "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
-      "published": "2026-02-16T18:19:16",
-      "image": "http://blog.chrislewis.au/function-embeddings-header.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Maths, CS and AI Compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "published": "2026-02-16T15:15:50",
-      "image": "https://opengraph.githubassets.com/17aacd201db109ae7edcdce8e77e55008ea8bb27d84750d16e7c93bf2e4587e0/HenryNdubuaku/maths-cs-ai-compendium",
+      "title": "PCB Rework and Repair Guide [pdf]",
+      "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
+      "published": "2026-02-14T13:42:04",
+      "image": "data/images/222daa10045ca9105cdad7f682608f80.png",
       "summary": "Summary unavailable."
     }
   ],
