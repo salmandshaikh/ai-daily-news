@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T16:42:59.882476",
+  "updated": "2026-02-17T20:24:27.965459",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,37 +139,55 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why AI writing is so generic, boring, and dangerous: Semantic ablation",
+      "title": "Async/Await on the GPU",
+      "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+      "published": "2026-02-17T16:53:05",
+      "image": "data/images/55ddf046ef83a41db3fc9fe08c88f0c4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
+      "url": "https://sonarly.com/",
+      "published": "2026-02-17T17:03:09",
+      "image": "https://sonarly.com/logo_sonarly.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "An AI Agent Published a Hit Piece on Me \u2013 Forensics and More Fallout",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
+      "published": "2026-02-17T19:31:45",
+      "image": "data/images/13e955e201931eeb837d8570d1df9aaa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+      "url": "https://mage-bench.com/",
+      "published": "2026-02-17T16:22:49",
+      "image": "data/images/1cfe993bfb9424c39309475fe2a268ee.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
+      "url": "https://docs.continue.dev",
+      "published": "2026-02-17T17:08:14",
+      "image": "https://continue.dev/opengraph-image?63efedb2e8c7609c",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Semantic ablation: Why AI writing is generic and boring",
       "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
       "published": "2026-02-17T16:12:29",
       "image": "https://regmedia.co.uk/2021/04/23/dog.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Neurons outside the brain",
-      "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
-      "published": "2026-02-16T18:54:37",
-      "image": "https://substackcdn.com/image/fetch/$s_!GsxB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7a480d7-8ce9-4f37-845d-ffb5762b06bc_2048x1373.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "url": "https://forestrydiary.com/",
-      "published": "2026-02-16T23:40:33",
-      "image": "data/images/1c36422946cf88ba5b3da4c26381729e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
-      "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
-      "published": "2026-02-13T19:19:45",
-      "image": "https://lh3.googleusercontent.com/wg-dOSPIxzfE0LudGLxB9gqS3EncuCdrzfuUha5EHHgUE1gLWeWl9ui-05VPe8AQNGXm_djfm1f8H9SlTcExuVJjMg=s128-rj-sc0x00ffffff",
       "summary": "Summary unavailable."
     }
   ],
