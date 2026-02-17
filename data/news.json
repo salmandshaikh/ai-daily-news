@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-16T20:17:29.409480",
+  "updated": "2026-02-17T01:00:07.391384",
   "articles": [
     {
       "source": "RSS",
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "url": "https://forestrydiary.com/",
+      "published": "2026-02-16T23:40:33",
+      "image": "data/images/1c36422946cf88ba5b3da4c26381729e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia with unusually fast coding model on plate-sized chips",
+      "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "published": "2026-02-12T23:37:31",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "PCB Rework and Repair Guide [pdf]",
       "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
       "published": "2026-02-14T13:42:04",
@@ -148,26 +166,44 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Maths, CS and AI Compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "published": "2026-02-16T15:15:50",
-      "image": "https://opengraph.githubassets.com/6ab050dc545205aed7092f0652296fc761d26f7bad78f08d8e5573a99440debb/HenryNdubuaku/maths-cs-ai-compendium",
+      "title": "Neurons outside the brain",
+      "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+      "published": "2026-02-16T18:54:37",
+      "image": "https://substackcdn.com/image/fetch/$s_!GsxB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7a480d7-8ce9-4f37-845d-ffb5762b06bc_2048x1373.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
-      "published": "2026-02-16T11:06:28",
-      "image": "https://regmedia.co.uk/2026/02/05/shutterstock_2457318185.jpg",
+      "title": "Show HN: Maths, CS and AI Compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "published": "2026-02-16T15:15:50",
+      "image": "https://opengraph.githubassets.com/6d90a86c3c8b151834a579ee1b144119ab3a74fb5f163f341aa7d4e63d72ebae/HenryNdubuaku/maths-cs-ai-compendium",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The long tail of LLM-assisted decompilation",
+      "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+      "published": "2026-02-16T18:19:16",
+      "image": "http://blog.chrislewis.au/function-embeddings-header.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Building a model that visualizes strategic golf",
+      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+      "published": "2026-02-16T17:15:27",
+      "image": "data/images/c631987ce374642acb03b30db82e1b8d.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-16",
+    "date": "2026-02-17",
     "speakers": [
       "Alex",
       "Jordan"
