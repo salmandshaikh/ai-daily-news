@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T12:32:27.739501",
+  "updated": "2026-02-17T16:42:59.882476",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Building for an audience of one: starting and finishing side projects with AI",
-      "url": "https://codemade.net/blog/building-for-one/",
-      "published": "2026-02-17T00:00:03",
-      "image": "https://codemade.net/images/fasttab-hero.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
-      "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
-      "published": "2026-02-13T19:19:45",
-      "image": "https://lh3.googleusercontent.com/wg-dOSPIxzfE0LudGLxB9gqS3EncuCdrzfuUha5EHHgUE1gLWeWl9ui-05VPe8AQNGXm_djfm1f8H9SlTcExuVJjMg=s128-rj-sc0x00ffffff",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "url": "https://forestrydiary.com/",
-      "published": "2026-02-16T23:40:33",
-      "image": "data/images/1c36422946cf88ba5b3da4c26381729e.png",
+      "title": "Why AI writing is so generic, boring, and dangerous: Semantic ablation",
+      "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+      "published": "2026-02-17T16:12:29",
+      "image": "https://regmedia.co.uk/2021/04/23/dog.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -175,10 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "PCB Rework and Repair Guide [pdf]",
-      "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-      "published": "2026-02-14T13:42:04",
-      "image": "data/images/222daa10045ca9105cdad7f682608f80.png",
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "url": "https://forestrydiary.com/",
+      "published": "2026-02-16T23:40:33",
+      "image": "data/images/1c36422946cf88ba5b3da4c26381729e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
+      "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
+      "published": "2026-02-13T19:19:45",
+      "image": "https://lh3.googleusercontent.com/wg-dOSPIxzfE0LudGLxB9gqS3EncuCdrzfuUha5EHHgUE1gLWeWl9ui-05VPe8AQNGXm_djfm1f8H9SlTcExuVJjMg=s128-rj-sc0x00ffffff",
       "summary": "Summary unavailable."
     }
   ],
