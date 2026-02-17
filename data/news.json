@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T08:32:11.767540",
+  "updated": "2026-02-17T12:32:27.739501",
   "articles": [
     {
       "source": "RSS",
@@ -124,7 +124,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "url": "https://forestrydiary.com/",
-      "published": "2026-02-16T23:40:33",
-      "image": "data/images/1c36422946cf88ba5b3da4c26381729e.png",
+      "title": "Building for an audience of one: starting and finishing side projects with AI",
+      "url": "https://codemade.net/blog/building-for-one/",
+      "published": "2026-02-17T00:00:03",
+      "image": "https://codemade.net/images/fasttab-hero.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Building for an audience of one: starting and finishing side projects with AI",
-      "url": "https://codemade.net/blog/building-for-one/",
-      "published": "2026-02-17T00:00:03",
-      "image": "https://codemade.net/images/fasttab-hero.jpg",
+      "title": "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
+      "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
+      "published": "2026-02-13T19:19:45",
+      "image": "https://lh3.googleusercontent.com/wg-dOSPIxzfE0LudGLxB9gqS3EncuCdrzfuUha5EHHgUE1gLWeWl9ui-05VPe8AQNGXm_djfm1f8H9SlTcExuVJjMg=s128-rj-sc0x00ffffff",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "url": "https://forestrydiary.com/",
+      "published": "2026-02-16T23:40:33",
+      "image": "data/images/1c36422946cf88ba5b3da4c26381729e.png",
       "summary": "Summary unavailable."
     },
     {
