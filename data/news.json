@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T16:47:46.948202",
+  "updated": "2026-02-18T20:26:07.835211",
   "articles": [
     {
       "source": "RSS",
@@ -97,7 +97,16 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "One-Shot Any Web App with Gradio's gr.HTML",
+      "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+      "published": "Wed, 18 Feb 2026 00:00:00 GMT",
+      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,25 +133,25 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Transformers.js v4 Preview: Now Available on NPM!",
-      "url": "https://huggingface.co/blog/transformersjs-v4",
-      "published": "Mon, 09 Feb 2026 00:00:00 GMT",
-      "image": "data/images/4927ceba4351fbc348b6acde97ed5d63.png",
+      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why AI Velocity Is Becoming a Debt Accelerator",
-      "url": "https://martinfowler.com/fragments/2026-02-18.html",
-      "published": "2026-02-18T16:08:48",
-      "image": "https://martinfowler.com/logo-sq.png",
+      "title": "Tailscale Peer Relays is now generally available",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "published": "2026-02-18T16:46:12",
+      "image": "https://cdn.sanity.io/images/w77i7m8x/production/ccbb854e716b6a58e62ccb0fd3eed23c2bf77599-2304x1187.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "published": "2026-02-18T18:04:13",
+      "image": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,28 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
-      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
-      "published": "2026-02-18T12:00:50",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/a5f4989742560bd0715218257a7c7ea7f73ab700.png?1712364271",
+      "title": "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
+      "url": "https://www.mnemom.ai",
+      "published": "2026-02-18T16:33:56",
+      "image": "https://www.mnemom.ai/images/og-default.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "published": "2026-02-18T12:16:12",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/16/Copilot_headpic.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Chained Assignment in Python Bytecode",
-      "url": "https://loriculus.org/blog/python-chained-assignment/",
-      "published": "2026-02-14T07:50:18",
-      "image": "data/images/0823055ebef93c205c51ccee54550d31.png",
+      "title": "Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion",
+      "published": "2026-02-18T17:18:50",
+      "image": "data/images/0069ed2a2f8cfefa056854e7839ab31b.png",
       "summary": "Summary unavailable."
     }
   ],
