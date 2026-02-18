@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T05:18:51.901959",
+  "updated": "2026-02-18T08:32:05.027943",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
+      "url": "https://paraschopra.github.io/explainers/",
+      "published": "2026-02-18T06:57:37",
+      "image": "data/images/b990e5a8833c2cbe2e28c3f2858e3b1c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
       "url": "https://www.vogons.org/viewtopic.php?t=105451",
       "published": "2026-02-14T15:17:46",
@@ -161,24 +170,6 @@
       "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
       "published": "2026-02-17T16:53:05",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
-      "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
-      "published": "2026-02-17T14:47:26",
-      "image": "https://cleantechnica.com/wp-content/uploads/2023/12/Tesla-Model-S-Black-Low-Speed-Netherlands-Belgium-Europe-Zach-Shahan-CleanTechnica-scaled.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Structured AI (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
-      "published": "2026-02-17T21:00:30",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/e403c14f8fddce28219fc4c383d7a3a2136a545a.png?1755294413",
       "summary": "Summary unavailable."
     }
   ],
