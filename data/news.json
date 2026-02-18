@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T12:51:39.443028",
+  "updated": "2026-02-18T16:47:46.948202",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,6 +44,15 @@
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
       "published": "Thu, 12 Feb 2026 10:00:00 GMT",
       "image": "data/images/7f48ed5377d795ecaee4bd38bac81d46.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "A new way to express yourself: Gemini can now create music",
+      "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "published": "Wed, 18 Feb 2026 16:01:38 +0000",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -84,11 +93,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "D4RT: Teaching AI to see the world in four dimensions",
-      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
-      "published": "Fri, 16 Jan 2026 10:39:00 +0000",
-      "image": "data/images/605f9451e26a42fc2d0c5be60c181135.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+      "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+      "published": "Wed, 18 Feb 2026 16:15:45 GMT",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +124,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing SyGra Studio",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-      "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why AI Velocity Is Becoming a Debt Accelerator",
+      "url": "https://martinfowler.com/fragments/2026-02-18.html",
+      "published": "2026-02-18T16:08:48",
+      "image": "https://martinfowler.com/logo-sq.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,15 +157,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
-      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
-      "published": "2026-02-18T12:00:50",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/a5f4989742560bd0715218257a7c7ea7f73ab700.png?1712364271",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Fastest Front End Tooling for Humans and AI",
       "url": "https://cpojer.net/posts/fastest-frontend-tooling",
       "published": "2026-02-18T11:51:01",
@@ -166,28 +166,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-      "published": "2026-02-18T01:40:52",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
+      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "published": "2026-02-18T12:00:50",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/a5f4989742560bd0715218257a7c7ea7f73ab700.png?1712364271",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-      "url": "https://www.vogons.org/viewtopic.php?t=105451",
-      "published": "2026-02-14T15:17:46",
-      "image": "data/images/4da35f7b11bfc1b7233990438ffd77b0.png",
+      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+      "published": "2026-02-18T12:16:12",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/16/Copilot_headpic.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Async/Await on the GPU",
-      "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-      "published": "2026-02-17T16:53:05",
-      "image": "data/images/55ddf046ef83a41db3fc9fe08c88f0c4.png",
+      "title": "Chained Assignment in Python Bytecode",
+      "url": "https://loriculus.org/blog/python-chained-assignment/",
+      "published": "2026-02-14T07:50:18",
+      "image": "data/images/0823055ebef93c205c51ccee54550d31.png",
       "summary": "Summary unavailable."
     }
   ],
