@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T01:01:32.612265",
+  "updated": "2026-02-18T05:18:51.901959",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "published": "2026-02-18T01:40:52",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+      "url": "https://www.vogons.org/viewtopic.php?t=105451",
+      "published": "2026-02-14T15:17:46",
+      "image": "data/images/4da35f7b11bfc1b7233990438ffd77b0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Async/Await on the GPU",
       "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
       "published": "2026-02-17T16:53:05",
-      "image": "data/images/55ddf046ef83a41db3fc9fe08c88f0c4.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+      "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
+      "published": "2026-02-17T14:47:26",
+      "image": "https://cleantechnica.com/wp-content/uploads/2023/12/Tesla-Model-S-Black-Low-Speed-Netherlands-Belgium-Europe-Zach-Shahan-CleanTechnica-scaled.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -152,33 +179,6 @@
       "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
       "published": "2026-02-17T21:00:30",
       "image": "https://bookface-images.s3.amazonaws.com/logos/e403c14f8fddce28219fc4c383d7a3a2136a545a.png?1755294413",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
-      "url": "https://github.com/switz/box-of-rain",
-      "published": "2026-02-14T21:42:11",
-      "image": "https://opengraph.githubassets.com/f66f038cb982a6adbf316013afc18fc0c88a1cfc417be86a6e78fa555704beda/switz/box-of-rain",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-      "url": "https://mage-bench.com/",
-      "published": "2026-02-17T16:22:49",
-      "image": "data/images/1cfe993bfb9424c39309475fe2a268ee.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
-      "url": "https://sonarly.com/",
-      "published": "2026-02-17T17:03:09",
-      "image": "https://sonarly.com/logo_sonarly.png",
       "summary": "Summary unavailable."
     }
   ],
