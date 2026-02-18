@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T20:24:27.965459",
+  "updated": "2026-02-18T01:01:32.612265",
   "articles": [
     {
       "source": "RSS",
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "NVIDIA Nemotron 2 Nano 9B Japanese: \u65e5\u672c\u306e\u30bd\u30d6\u30ea\u30f3AI\u3092\u652f\u3048\u308b\u6700\u5148\u7aef\u5c0f\u898f\u6a21\u8a00\u8a9e\u30e2\u30c7\u30eb",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+      "published": "Tue, 17 Feb 2026 23:28:52 GMT",
+      "image": "data/images/5298ef5c51682bebd4d9ed5560942012.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Custom Kernels for All from Codex and Claude",
       "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "published": "Fri, 13 Feb 2026 00:00:00 GMT",
@@ -106,7 +115,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,16 +133,7 @@
       "title": "Introducing SyGra Studio",
       "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "published": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "image": "data/images/a8c33d5d7693592d98b2911184402bef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3\u2019s Top Model",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-      "published": "Wed, 04 Feb 2026 15:00:40 GMT",
-      "image": "data/images/e5c4813199632ea64beadc99d681b114.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
-      "url": "https://sonarly.com/",
-      "published": "2026-02-17T17:03:09",
-      "image": "https://sonarly.com/logo_sonarly.png",
+      "title": "Structured AI (YC F25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
+      "published": "2026-02-17T21:00:30",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/e403c14f8fddce28219fc4c383d7a3a2136a545a.png?1755294413",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "An AI Agent Published a Hit Piece on Me \u2013 Forensics and More Fallout",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
-      "published": "2026-02-17T19:31:45",
-      "image": "data/images/13e955e201931eeb837d8570d1df9aaa.png",
+      "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
+      "url": "https://github.com/switz/box-of-rain",
+      "published": "2026-02-14T21:42:11",
+      "image": "https://opengraph.githubassets.com/f66f038cb982a6adbf316013afc18fc0c88a1cfc417be86a6e78fa555704beda/switz/box-of-rain",
       "summary": "Summary unavailable."
     },
     {
@@ -175,26 +175,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
-      "url": "https://docs.continue.dev",
-      "published": "2026-02-17T17:08:14",
-      "image": "https://continue.dev/opengraph-image?63efedb2e8c7609c",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Semantic ablation: Why AI writing is generic and boring",
-      "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-      "published": "2026-02-17T16:12:29",
-      "image": "https://regmedia.co.uk/2021/04/23/dog.jpg",
+      "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
+      "url": "https://sonarly.com/",
+      "published": "2026-02-17T17:03:09",
+      "image": "https://sonarly.com/logo_sonarly.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-17",
+    "date": "2026-02-18",
     "speakers": [
       "Alex",
       "Jordan"
