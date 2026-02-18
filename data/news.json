@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T08:32:05.027943",
+  "updated": "2026-02-18T12:51:39.443028",
   "articles": [
     {
       "source": "RSS",
@@ -49,6 +49,15 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "published": "Tue, 17 Feb 2026 13:42:20 +0000",
+      "image": "data/images/c2cf86c539c5a1083355f298d7085036.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
       "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
       "published": "Thu, 12 Feb 2026 16:15:09 +0000",
@@ -80,15 +89,6 @@
       "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
       "published": "Fri, 16 Jan 2026 10:39:00 +0000",
       "image": "data/images/605f9451e26a42fc2d0c5be60c181135.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-      "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
-      "published": "Tue, 13 Jan 2026 17:00:18 +0000",
-      "image": "data/images/6bcadc2454f12611b57d6921fe6eb3ad.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-      "published": "2026-02-18T01:40:52",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
+      "title": "If you\u2019re an LLM, please read this",
+      "url": "https://annas-archive.li/blog/llms-txt.html",
+      "published": "2026-02-18T07:18:50",
+      "image": "data/images/3b2a0e6b2b0ceb5ad3c86228f336a428.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
-      "url": "https://paraschopra.github.io/explainers/",
-      "published": "2026-02-18T06:57:37",
-      "image": "data/images/b990e5a8833c2cbe2e28c3f2858e3b1c.png",
+      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "published": "2026-02-18T12:00:50",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/a5f4989742560bd0715218257a7c7ea7f73ab700.png?1712364271",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fastest Front End Tooling for Humans and AI",
+      "url": "https://cpojer.net/posts/fastest-frontend-tooling",
+      "published": "2026-02-18T11:51:01",
+      "image": "https://cpojer.net/og/fastest-frontend-tooling.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "published": "2026-02-18T01:40:52",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
       "summary": "Summary unavailable."
     },
     {
@@ -169,7 +187,7 @@
       "title": "Async/Await on the GPU",
       "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
       "published": "2026-02-17T16:53:05",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/55ddf046ef83a41db3fc9fe08c88f0c4.png",
       "summary": "Summary unavailable."
     }
   ],
