@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-19T16:38:23.840084",
+  "updated": "2026-02-19T20:20:29.704720",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing independent research on AI alignment",
+      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "published": "Thu, 19 Feb 2026 10:00:00 GMT",
+      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -31,15 +40,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Scaling social science research",
-      "url": "https://openai.com/index/scaling-social-science-research",
-      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Beyond rate limits: scaling access to Codex and Sora",
       "url": "https://openai.com/index/beyond-rate-limits",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "url": "https://huggingface.co/blog/unsloth-jobs",
+      "published": "Fri, 20 Feb 2026 00:00:00 GMT",
+      "image": "data/images/e619b1a7e3e57da9632492c1896a743a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "\u300c\u30c7\u30fc\u30bf\u4e0d\u8db3\u300d\u306e\u58c1\u3092\u8d8a\u3048\u308b\uff1a\u5408\u6210\u30da\u30eb\u30bd\u30ca\u304c\u65e5\u672c\u306eAI\u958b\u767a\u3092\u52a0\u901f",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
       "published": "Thu, 19 Feb 2026 15:32:38 GMT",
@@ -106,7 +115,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
-      "url": "https://huggingface.co/blog/openenv-turing",
-      "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+      "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
+      "published": "2026-02-19T18:26:44",
+      "image": "https://i.guim.co.uk/img/media/480ce82d9b54f375b5d8f165c8debe568e413cd8/261_0_6535_5232/master/6535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1000d3b5e9f86c517c96200b0741094",
       "summary": "Summary unavailable."
     },
     {
@@ -148,10 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI made coding more enjoyable",
-      "url": "https://weberdominik.com/blog/ai-coding-enjoyable/",
-      "published": "2026-02-19T16:20:26",
-      "image": "https://weberdominik.com/social.png",
+      "title": "Measuring AI agent autonomy in practice",
+      "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+      "published": "2026-02-19T14:14:14",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=olive",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CTO Says 93% of Developers Use AI, but Productivity Is Still 10%",
+      "url": "https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/",
+      "published": "2026-02-19T19:03:32",
+      "image": "https://shiftmag.dev/wp-content/uploads/2026/02/1.cartoonized.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Large Language Models for Mortals: A Practical Guide for Analysts with Python",
-      "url": "https://crimede-coder.com/blogposts/2026/LLMsForMortals",
-      "published": "2026-02-15T13:12:50",
-      "image": "https://www.crimede-coder.com/images/LLM_CoverPage_Print.png",
+      "title": "AI makes you boring",
+      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+      "published": "2026-02-19T18:12:16",
+      "image": "data/images/1641d51d263398c404966d08adbdf4a4.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Measuring AI agent autonomy in practice",
-      "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-      "published": "2026-02-19T14:14:14",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=olive",
+      "title": "DOGE Bro's Grant Review Process Was Literally Just Asking ChatGPT 'Is This DEI?'",
+      "url": "https://www.techdirt.com/2026/02/19/doge-bros-grant-review-process-was-literally-just-asking-chatgpt-is-this-dei/",
+      "published": "2026-02-19T18:01:50",
+      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "summary": "Summary unavailable."
     },
     {
@@ -188,15 +206,6 @@
       "url": "https://static.stepfun.com/blog/step-3.5-flash/",
       "published": "2026-02-19T02:32:00",
       "image": "data/images/45b1e56454633cd979a3a7d4c2170c46.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tailscale Peer Relays is now generally available",
-      "url": "https://tailscale.com/blog/peer-relays-ga",
-      "published": "2026-02-18T16:46:12",
-      "image": "https://cdn.sanity.io/images/w77i7m8x/production/ccbb854e716b6a58e62ccb0fd3eed23c2bf77599-2304x1187.png",
       "summary": "Summary unavailable."
     }
   ],
