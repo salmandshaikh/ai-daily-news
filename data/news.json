@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-18T20:26:07.835211",
+  "updated": "2026-02-19T01:00:30.591048",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,44 +157,35 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
+      "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+      "published": "2026-02-18T23:19:29",
+      "image": "data/images/f41cfcccd9c22daaec2b2665d8767467.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
+      "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
+      "published": "2026-02-18T14:59:16",
+      "image": "data/images/1b627033351af522f4169fc1ec209b09.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "If you\u2019re an LLM, please read this",
       "url": "https://annas-archive.li/blog/llms-txt.html",
       "published": "2026-02-18T07:18:50",
       "image": "data/images/3b2a0e6b2b0ceb5ad3c86228f336a428.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fastest Front End Tooling for Humans and AI",
-      "url": "https://cpojer.net/posts/fastest-frontend-tooling",
-      "published": "2026-02-18T11:51:01",
-      "image": "https://cpojer.net/og/fastest-frontend-tooling.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
-      "url": "https://www.mnemom.ai",
-      "published": "2026-02-18T16:33:56",
-      "image": "https://www.mnemom.ai/images/og-default.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion",
-      "published": "2026-02-18T17:18:50",
-      "image": "data/images/0069ed2a2f8cfefa056854e7839ab31b.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-18",
+    "date": "2026-02-19",
     "speakers": [
       "Alex",
       "Jordan"
