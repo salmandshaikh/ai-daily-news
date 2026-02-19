@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-19T01:00:30.591048",
+  "updated": "2026-02-19T05:17:30.379176",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing OpenAI for India",
+      "url": "https://openai.com/index/openai-for-india",
+      "published": "Wed, 18 Feb 2026 21:00:00 GMT",
+      "image": "data/images/563b758e31b1fdcd1a6063bc35d91558.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -22,28 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Scaling social science research",
+      "url": "https://openai.com/index/scaling-social-science-research",
+      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Beyond rate limits: scaling access to Codex and Sora",
       "url": "https://openai.com/index/beyond-rate-limits",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
       "image": "data/images/35543131a9418a151cb5b0cc88944859.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling social science research",
-      "url": "https://openai.com/index/scaling-social-science-research",
-      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "published": "Thu, 12 Feb 2026 10:00:00 GMT",
-      "image": "data/images/7f48ed5377d795ecaee4bd38bac81d46.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "How AI is affecting productivity and jobs in Europe",
+      "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+      "published": "2026-02-19T00:22:45",
+      "image": "https://cepr.org/sites/default/files/styles/og_image/public/2026-02/AdobeStock_1772033845.jpeg?itok=jAPHpqwL,https://cepr.org/themes/nhsc-shared/nhsc_base/assets/img/default-social-share.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
       "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
       "published": "2026-02-18T18:04:13",
@@ -157,19 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
+      "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
       "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
       "published": "2026-02-18T23:19:29",
-      "image": "data/images/f41cfcccd9c22daaec2b2665d8767467.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
-      "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
-      "published": "2026-02-18T14:59:16",
-      "image": "data/images/1b627033351af522f4169fc1ec209b09.png",
+      "image": "data/images/9ce52cc8f4952ade04207d1f2080a1fb.png",
       "summary": "Summary unavailable."
     },
     {
