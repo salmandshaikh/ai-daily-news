@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T08:30:05.228848",
+  "updated": "2026-02-19T12:33:32.225224",
   "articles": [
     {
       "source": "RSS",
@@ -52,7 +52,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,25 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+      "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+      "published": "2026-02-16T17:57:46",
+      "image": "data/images/d85530cc2215cfe020625f4c0ceda17c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
+      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+      "published": "2026-02-19T02:32:00",
+      "image": "data/images/45b1e56454633cd979a3a7d4c2170c46.png",
       "summary": "Summary unavailable."
     },
     {
@@ -143,15 +161,6 @@
       "url": "https://tailscale.com/blog/peer-relays-ga",
       "published": "2026-02-18T16:46:12",
       "image": "https://cdn.sanity.io/images/w77i7m8x/production/ccbb854e716b6a58e62ccb0fd3eed23c2bf77599-2304x1187.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How AI is affecting productivity and jobs in Europe",
-      "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-      "published": "2026-02-19T00:22:45",
-      "image": "https://cepr.org/sites/default/files/styles/og_image/public/2026-02/AdobeStock_1772033845.jpeg?itok=jAPHpqwL,https://cepr.org/themes/nhsc-shared/nhsc_base/assets/img/default-social-share.png",
       "summary": "Summary unavailable."
     },
     {
@@ -169,7 +178,16 @@
       "title": "Show HN: A Lisp where each function call runs a Docker container",
       "url": "https://github.com/a11ce/docker-lisp",
       "published": "2026-02-19T04:19:20",
-      "image": "https://opengraph.githubassets.com/b4bd6b96298bea82c5c279069bb0a572bac619d7d9f39b97ba80c94063f9cefe/a11ce/docker-lisp",
+      "image": "https://opengraph.githubassets.com/0e7494de2529dca859ae4ed9d0e108d4eb7077600640ff0111234e4eefb9be45/a11ce/docker-lisp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What years of production-grade concurrency teaches us about building AI agents",
+      "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+      "published": "2026-02-18T22:37:35",
+      "image": "https://images.unsplash.com/photo-1730733310261-daa059b7c017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDkxfHx0ZWxlcGhvbmUlMjBzd2l0Y2h8ZW58MHx8fHwxNzcwNzkxNjk4fDA&ixlib=rb-4.1.0&q=80&w=2000",
       "summary": "Summary unavailable."
     }
   ],
