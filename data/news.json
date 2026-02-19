@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T12:33:32.225224",
+  "updated": "2026-02-19T16:38:23.840084",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -49,10 +49,19 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "published": "Thu, 19 Feb 2026 16:06:14 +0000",
+      "image": "data/images/eb96b83819227f37c4b62e31de352341.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -84,11 +93,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Project Genie: Experimenting with infinite, interactive worlds",
-      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
-      "published": "Thu, 29 Jan 2026 17:01:05 +0000",
-      "image": "data/images/89c637faf3e4cdd4fca4f81162c7dc12.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "\u300c\u30c7\u30fc\u30bf\u4e0d\u8db3\u300d\u306e\u58c1\u3092\u8d8a\u3048\u308b\uff1a\u5408\u6210\u30da\u30eb\u30bd\u30ca\u304c\u65e5\u672c\u306eAI\u958b\u767a\u3092\u52a0\u901f",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
+      "published": "Thu, 19 Feb 2026 15:32:38 GMT",
+      "image": "data/images/df9eec82858dca5a59f5c836ce1045c7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +106,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -107,15 +116,6 @@
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
       "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Nemotron 2 Nano 9B Japanese: \u65e5\u672c\u306e\u30bd\u30d6\u30ea\u30f3AI\u3092\u652f\u3048\u308b\u6700\u5148\u7aef\u5c0f\u898f\u6a21\u8a00\u8a9e\u30e2\u30c7\u30eb",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
-      "published": "Tue, 17 Feb 2026 23:28:52 GMT",
-      "image": "data/images/5298ef5c51682bebd4d9ed5560942012.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "url": "https://huggingface.co/blog/openenv-turing",
       "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/4b1b318f1d320520dab54e06f3c90bd8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -143,6 +143,42 @@
       "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
       "published": "2026-02-16T17:57:46",
       "image": "data/images/d85530cc2215cfe020625f4c0ceda17c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI made coding more enjoyable",
+      "url": "https://weberdominik.com/blog/ai-coding-enjoyable/",
+      "published": "2026-02-19T16:20:26",
+      "image": "https://weberdominik.com/social.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Against Theory-Motivated Experimentation",
+      "url": "https://journals.sagepub.com/doi/10.1177/26339137261421577",
+      "published": "2026-02-19T14:26:20",
+      "image": "data/images/9afbdf6be924602db71416294f56a86e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Large Language Models for Mortals: A Practical Guide for Analysts with Python",
+      "url": "https://crimede-coder.com/blogposts/2026/LLMsForMortals",
+      "published": "2026-02-15T13:12:50",
+      "image": "https://www.crimede-coder.com/images/LLM_CoverPage_Print.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Measuring AI agent autonomy in practice",
+      "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+      "published": "2026-02-19T14:14:14",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=olive",
       "summary": "Summary unavailable."
     },
     {
@@ -161,33 +197,6 @@
       "url": "https://tailscale.com/blog/peer-relays-ga",
       "published": "2026-02-18T16:46:12",
       "image": "https://cdn.sanity.io/images/w77i7m8x/production/ccbb854e716b6a58e62ccb0fd3eed23c2bf77599-2304x1187.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-      "published": "2026-02-18T18:04:13",
-      "image": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: A Lisp where each function call runs a Docker container",
-      "url": "https://github.com/a11ce/docker-lisp",
-      "published": "2026-02-19T04:19:20",
-      "image": "https://opengraph.githubassets.com/0e7494de2529dca859ae4ed9d0e108d4eb7077600640ff0111234e4eefb9be45/a11ce/docker-lisp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What years of production-grade concurrency teaches us about building AI agents",
-      "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
-      "published": "2026-02-18T22:37:35",
-      "image": "https://images.unsplash.com/photo-1730733310261-daa059b7c017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDkxfHx0ZWxlcGhvbmUlMjBzd2l0Y2h8ZW58MHx8fHwxNzcwNzkxNjk4fDA&ixlib=rb-4.1.0&q=80&w=2000",
       "summary": "Summary unavailable."
     }
   ],
