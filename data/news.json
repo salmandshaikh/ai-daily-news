@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T20:20:29.704720",
+  "updated": "2026-02-20T00:56:47.346954",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Beyond rate limits: scaling access to Codex and Sora",
-      "url": "https://openai.com/index/beyond-rate-limits",
+      "title": "Scaling social science research",
+      "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/35543131a9418a151cb5b0cc88944859.png",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
-      "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
-      "published": "2026-02-19T18:26:44",
-      "image": "https://i.guim.co.uk/img/media/480ce82d9b54f375b5d8f165c8debe568e413cd8/261_0_6535_5232/master/6535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1000d3b5e9f86c517c96200b0741094",
+      "title": "Single vaccine could protect against all coughs, colds and flus",
+      "url": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
+      "published": "2026-02-19T22:08:24",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/93b9/live/4a4f60e0-0dd4-11f1-9972-d3f265c101c6.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -157,28 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI is not a coworker, it's an exoskeleton",
+      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+      "published": "2026-02-19T19:55:11",
+      "image": "https://www.kasava.dev/og-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "We're no longer attracting top talent: the brain drain killing American science",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+      "published": "2026-02-19T20:56:23",
+      "image": "https://i.guim.co.uk/img/media/a76381905d61e851c20bdcc942c03a3d1c09fcae/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33732a6ad1c54f625689635de2dc298a",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Measuring AI agent autonomy in practice",
       "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
       "published": "2026-02-19T14:14:14",
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&backgroundColor=olive",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "CTO Says 93% of Developers Use AI, but Productivity Is Still 10%",
-      "url": "https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/",
-      "published": "2026-02-19T19:03:32",
-      "image": "https://shiftmag.dev/wp-content/uploads/2026/02/1.cartoonized.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Against Theory-Motivated Experimentation",
-      "url": "https://journals.sagepub.com/doi/10.1177/26339137261421577",
-      "published": "2026-02-19T14:26:20",
-      "image": "data/images/9afbdf6be924602db71416294f56a86e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,26 +193,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DOGE Bro's Grant Review Process Was Literally Just Asking ChatGPT 'Is This DEI?'",
-      "url": "https://www.techdirt.com/2026/02/19/doge-bros-grant-review-process-was-literally-just-asking-chatgpt-is-this-dei/",
-      "published": "2026-02-19T18:01:50",
-      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
-      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
-      "published": "2026-02-19T02:32:00",
-      "image": "data/images/45b1e56454633cd979a3a7d4c2170c46.png",
+      "title": "Level of Detail",
+      "url": "https://phinze.com/writing/level-of-detail",
+      "published": "2026-02-17T16:14:50",
+      "image": "data/images/940226716164aeae2d5659093950d581.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-19",
+    "date": "2026-02-20",
     "speakers": [
       "Alex",
       "Jordan"
