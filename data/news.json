@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T16:24:30.563048",
+  "updated": "2026-02-20T20:17:40.788476",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,25 @@
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "published": "2026-02-20T13:51:04",
-      "image": "https://opengraph.githubassets.com/c2ee95e782d7ebff367a8cce88d697250266b9e6ac0943953745c3c5937e2164/ggml-org/llama.cpp/discussions/19759",
+      "image": "https://opengraph.githubassets.com/f6b0e019bce42d4bd36fa7516c7a737393431f58bd0e502d868f39233a67a98a/ggml-org/llama.cpp/discussions/19759",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "published": "2026-02-20T18:03:19",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=clay",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Testing Super Mario Using a Behavior Model Autonomously",
+      "url": "https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/",
+      "published": "2026-02-20T19:04:55",
+      "image": "https://testflows.com/images/testing-super-mario-using-a-behavior-model-autonomously-part1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -152,15 +170,6 @@
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
       "published": "2026-02-20T10:32:52",
       "image": "https://taalas.com/h-content/themes/h-theme-child/media/blank-featured.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Web Components: The Framework-Free Renaissance",
-      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-      "published": "2026-02-20T08:45:57",
-      "image": "https://www.caimito.net/img/blog/web-components-the-framework-free-renaissance.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -193,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-      "published": "2026-02-20T12:04:35",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd58e764a-dfd3-4747-a1d5-684d26084849.jpg?source=next-barrier-page",
+      "title": "Web Components: The Framework-Free Renaissance",
+      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+      "published": "2026-02-20T08:45:57",
+      "image": "https://www.caimito.net/img/blog/web-components-the-framework-free-renaissance.jpg",
       "summary": "Summary unavailable."
     }
   ],
