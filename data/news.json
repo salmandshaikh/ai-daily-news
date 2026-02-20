@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T00:56:47.346954",
+  "updated": "2026-02-20T05:12:04.051637",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Single vaccine could protect against all coughs, colds and flus",
-      "url": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
-      "published": "2026-02-19T22:08:24",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/93b9/live/4a4f60e0-0dd4-11f1-9972-d3f265c101c6.jpg",
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "published": "2026-02-20T01:28:47",
+      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "published": "2026-02-20T03:05:08",
+      "image": "data/images/9c67cec3b34d701d4595a69696ba93c6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "published": "2026-02-20T04:15:58",
+      "image": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6996ae056c5e54d0c23d9553_Handoff%20CDML.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "url": "https://github.com/tmustier/pi-for-excel",
+      "published": "2026-02-20T02:20:06",
+      "image": "https://opengraph.githubassets.com/774749b682c639c1cab5361f38262cabb60591ac0e7cab7f2edb291629a6d5e9/tmustier/pi-for-excel",
       "summary": "Summary unavailable."
     },
     {
@@ -157,24 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "published": "2026-02-19T19:55:11",
-      "image": "https://www.kasava.dev/og-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We're no longer attracting top talent: the brain drain killing American science",
-      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-      "published": "2026-02-19T20:56:23",
-      "image": "https://i.guim.co.uk/img/media/a76381905d61e851c20bdcc942c03a3d1c09fcae/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33732a6ad1c54f625689635de2dc298a",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Measuring AI agent autonomy in practice",
       "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
       "published": "2026-02-19T14:14:14",
@@ -184,19 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI makes you boring",
-      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-      "published": "2026-02-19T18:12:16",
-      "image": "data/images/1641d51d263398c404966d08adbdf4a4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Level of Detail",
-      "url": "https://phinze.com/writing/level-of-detail",
-      "published": "2026-02-17T16:14:50",
-      "image": "data/images/940226716164aeae2d5659093950d581.png",
+      "title": "We're no longer attracting top talent: the brain drain killing American science",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+      "published": "2026-02-19T20:56:23",
+      "image": "https://i.guim.co.uk/img/media/a76381905d61e851c20bdcc942c03a3d1c09fcae/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33732a6ad1c54f625689635de2dc298a",
       "summary": "Summary unavailable."
     }
   ],
