@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T12:29:42.794795",
+  "updated": "2026-02-20T16:24:30.563048",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "Scaling social science research",
       "url": "https://openai.com/index/scaling-social-science-research",
       "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "url": "https://huggingface.co/blog/ggml-joins-hf",
+      "published": "Fri, 20 Feb 2026 00:00:00 GMT",
+      "image": "data/images/5a8114d87ae19cc412c9f3ada48b932d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
       "url": "https://huggingface.co/blog/unsloth-jobs",
       "published": "Fri, 20 Feb 2026 00:00:00 GMT",
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Custom Kernels for All from Codex and Claude",
-      "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-      "published": "Fri, 13 Feb 2026 00:00:00 GMT",
-      "image": "data/images/7f58487c944883f40405efe81e212949.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "published": "2026-02-20T13:51:04",
+      "image": "https://opengraph.githubassets.com/c2ee95e782d7ebff367a8cce88d697250266b9e6ac0943953745c3c5937e2164/ggml-org/llama.cpp/discussions/19759",
       "summary": "Summary unavailable."
     },
     {
@@ -148,15 +157,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "published": "2026-02-20T04:15:58",
-      "image": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6996ae056c5e54d0c23d9553_Handoff%20CDML.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Web Components: The Framework-Free Renaissance",
       "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
       "published": "2026-02-20T08:45:57",
@@ -166,10 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Defer available in gcc and clang",
-      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-      "published": "2026-02-16T05:27:35",
-      "image": "https://gustedt.wordpress.com/wp-content/uploads/2025/09/raven.png",
+      "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
+      "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+      "published": "2026-02-16T02:58:55",
+      "image": "https://cdn.japan-forward.com/wp-content/uploads/2021/02/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "published": "2026-02-20T04:15:58",
+      "image": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6996ae056c5e54d0c23d9553_Handoff%20CDML.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,19 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pi for Excel: AI sidebar add-in for Excel",
-      "url": "https://github.com/tmustier/pi-for-excel",
-      "published": "2026-02-20T02:20:06",
-      "image": "https://opengraph.githubassets.com/06bb584e0d6541e89d553769bd9a2bc8603eae8ffcd0ad71db3b1170a83b4444/tmustier/pi-for-excel",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
-      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-      "published": "2026-02-20T03:05:08",
-      "image": "data/images/9c67cec3b34d701d4595a69696ba93c6.png",
+      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+      "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+      "published": "2026-02-20T12:04:35",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd58e764a-dfd3-4747-a1d5-684d26084849.jpg?source=next-barrier-page",
       "summary": "Summary unavailable."
     }
   ],
