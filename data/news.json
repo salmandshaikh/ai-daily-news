@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T00:55:36.059448",
+  "updated": "2026-02-21T05:00:20.486902",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,16 @@
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "published": "2026-02-20T13:51:04",
-      "image": "https://opengraph.githubassets.com/53c364a5f38602ed50081f65e4a8d0b5c3cc90b7b646e10dcd48c763d4897324/ggml-org/llama.cpp/discussions/19759",
+      "image": "https://opengraph.githubassets.com/c8350f194081eeb077491b7a11693b1751402ab758c689a183d319fe4a75dfdb/ggml-org/llama.cpp/discussions/19759",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "url": "https://www.june.kim/cord",
+      "published": "2026-02-21T01:27:35",
+      "image": "https://www.june.kim/assets/default-icon.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,15 +166,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Uncovering insiders and alpha on Polymarket with AI",
-      "url": "https://twitter.com/peterjliu/status/2024901585806225723",
-      "published": "2026-02-20T18:11:02",
-      "image": "data/images/1ed113b0365529aed105972512ce66e6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The path to ubiquitous AI (17k tokens/sec)",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
       "published": "2026-02-20T10:32:52",
@@ -175,37 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "published": "2026-02-20T18:03:19",
+      "image": "data/images/b9284b320cc8f4308cdc08d66759f8f9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Building a model that visualizes strategic golf",
       "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
       "published": "2026-02-16T17:15:27",
       "image": "data/images/c631987ce374642acb03b30db82e1b8d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Making frontier cybersecurity capabilities available to defenders",
-      "url": "https://www.anthropic.com/news/claude-code-security",
-      "published": "2026-02-20T18:03:19",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=clay",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I hate AI side projects",
-      "url": "https://dylancastillo.co/posts/ai-side-projects.html",
-      "published": "2026-02-20T22:03:00",
-      "image": "https://dylancastillo.co/posts/images/social_media_card.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Phil Spencer is exiting Microsoft as AI executive takes over Xbox",
-      "url": "https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/",
-      "published": "2026-02-20T21:05:44",
-      "image": "data/images/c90a93fc340de221a75ccc13cf420207.png",
       "summary": "Summary unavailable."
     }
   ],
