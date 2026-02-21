@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T08:17:07.288337",
+  "updated": "2026-02-21T12:20:29.364580",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,34 +142,7 @@
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "published": "2026-02-20T13:51:04",
-      "image": "https://opengraph.githubassets.com/c8350f194081eeb077491b7a11693b1751402ab758c689a183d319fe4a75dfdb/ggml-org/llama.cpp/discussions/19759",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Meta Deployed AI and It Is Killing Our Agency",
-      "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
-      "published": "2026-02-21T04:29:40",
-      "image": "https://mojodojo.io/wp-content/uploads/2021/12/Thefastlanewithfacebook-1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Every company building your AI assistant is now an ad company",
-      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-      "published": "2026-02-20T18:55:15",
-      "image": "https://juno-labs.com/public/juno_logo.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cord: Coordinating Trees of AI Agents",
-      "url": "https://www.june.kim/cord",
-      "published": "2026-02-21T01:27:35",
-      "image": "https://www.june.kim/assets/default-icon.png",
+      "image": "https://opengraph.githubassets.com/2216534d876b4741f62b95f951d5be9e810e02ca54c5e68bc47e4dc67f1c8a39/ggml-org/llama.cpp/discussions/19759",
       "summary": "Summary unavailable."
     },
     {
@@ -184,28 +157,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Every company building your AI assistant is now an ad company",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "published": "2026-02-20T18:55:15",
+      "image": "https://juno-labs.com/public/juno_logo.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Large Language Model Reasoning Failures",
+      "url": "https://arxiv.org/abs/2602.06176",
+      "published": "2026-02-21T08:56:00",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "url": "https://www.june.kim/cord",
+      "published": "2026-02-21T01:27:35",
+      "image": "https://www.june.kim/assets/default-icon.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The path to ubiquitous AI (17k tokens/sec)",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
       "published": "2026-02-20T10:32:52",
       "image": "https://taalas.com/h-content/themes/h-theme-child/media/blank-featured.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Making frontier cybersecurity capabilities available to defenders",
-      "url": "https://www.anthropic.com/news/claude-code-security",
-      "published": "2026-02-20T18:03:19",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=clay",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Building a model that visualizes strategic golf",
-      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-      "published": "2026-02-16T17:15:27",
-      "image": "data/images/c631987ce374642acb03b30db82e1b8d.png",
       "summary": "Summary unavailable."
     }
   ],
