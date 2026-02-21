@@ -1,13 +1,22 @@
 {
-  "updated": "2026-02-20T20:17:40.788476",
+  "updated": "2026-02-21T00:55:36.059448",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our First Proof submissions",
+      "url": "https://openai.com/index/first-proof-submissions",
+      "published": "Fri, 20 Feb 2026 14:30:00 GMT",
+      "image": "data/images/d2ebfa453966c8a479825c168202c268.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -39,15 +48,6 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling social science research",
-      "url": "https://openai.com/index/scaling-social-science-research",
-      "published": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "image": "data/images/32dcaba19d4abfbdad116599d2193925.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Google DeepMind News",
       "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
       "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,25 +142,25 @@
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "published": "2026-02-20T13:51:04",
-      "image": "https://opengraph.githubassets.com/f6b0e019bce42d4bd36fa7516c7a737393431f58bd0e502d868f39233a67a98a/ggml-org/llama.cpp/discussions/19759",
+      "image": "https://opengraph.githubassets.com/53c364a5f38602ed50081f65e4a8d0b5c3cc90b7b646e10dcd48c763d4897324/ggml-org/llama.cpp/discussions/19759",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Making frontier cybersecurity capabilities available to defenders",
-      "url": "https://www.anthropic.com/news/claude-code-security",
-      "published": "2026-02-20T18:03:19",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=clay",
+      "title": "Every company building your AI assistant is now an ad company",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "published": "2026-02-20T18:55:15",
+      "image": "https://juno-labs.com/public/juno_logo.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Testing Super Mario Using a Behavior Model Autonomously",
-      "url": "https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/",
-      "published": "2026-02-20T19:04:55",
-      "image": "https://testflows.com/images/testing-super-mario-using-a-behavior-model-autonomously-part1.png",
+      "title": "Uncovering insiders and alpha on Polymarket with AI",
+      "url": "https://twitter.com/peterjliu/status/2024901585806225723",
+      "published": "2026-02-20T18:11:02",
+      "image": "data/images/1ed113b0365529aed105972512ce66e6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -175,44 +175,44 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
-      "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
-      "published": "2026-02-16T02:58:55",
-      "image": "https://cdn.japan-forward.com/wp-content/uploads/2021/02/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches.jpg",
+      "title": "Building a model that visualizes strategic golf",
+      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+      "published": "2026-02-16T17:15:27",
+      "image": "data/images/c631987ce374642acb03b30db82e1b8d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "published": "2026-02-20T04:15:58",
-      "image": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6996ae056c5e54d0c23d9553_Handoff%20CDML.png",
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "published": "2026-02-20T18:03:19",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=clay",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "published": "2026-02-19T19:55:11",
-      "image": "https://www.kasava.dev/og-image.jpg",
+      "title": "I hate AI side projects",
+      "url": "https://dylancastillo.co/posts/ai-side-projects.html",
+      "published": "2026-02-20T22:03:00",
+      "image": "https://dylancastillo.co/posts/images/social_media_card.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Web Components: The Framework-Free Renaissance",
-      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-      "published": "2026-02-20T08:45:57",
-      "image": "https://www.caimito.net/img/blog/web-components-the-framework-free-renaissance.jpg",
+      "title": "Phil Spencer is exiting Microsoft as AI executive takes over Xbox",
+      "url": "https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/",
+      "published": "2026-02-20T21:05:44",
+      "image": "data/images/c90a93fc340de221a75ccc13cf420207.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-20",
+    "date": "2026-02-21",
     "speakers": [
       "Alex",
       "Jordan"
