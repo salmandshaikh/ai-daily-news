@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T20:03:06.366944",
+  "updated": "2026-02-22T00:59:20.545112",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "url": "https://github.com/tnm/zclaw",
+      "published": "2026-02-21T12:37:52",
+      "image": "https://opengraph.githubassets.com/09ea8a700ef752a3ec3774a01d39a9d6a3a1b2ee9afdd0189a888133a79cc150/tnm/zclaw",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
       "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
       "published": "2026-02-21T18:09:24",
       "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/toyota-mirai-main.png?w=1600&h=900&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "published": "2026-02-21T14:32:16",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/20/news-p.v1.20260220.1686b9f4331c4661b835adf082563d1a_T1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,35 +175,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Uncovering insiders and alpha on Polymarket with AI",
+      "url": "https://twitter.com/peterjliu/status/2024901585806225723",
+      "published": "2026-02-20T18:11:02",
+      "image": "data/images/1ed113b0365529aed105972512ce66e6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI uBlock Blacklist",
       "url": "https://github.com/alvi-se/ai-ublock-blacklist",
       "published": "2026-02-21T08:10:49",
-      "image": "https://opengraph.githubassets.com/4b125dd9e2d7697015fa0ad40abf5fde994418ee18afcef1864756be293d6b5b/alvi-se/ai-ublock-blacklist",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How an inference provider can prove they're not serving a quantized model",
-      "url": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
-      "published": "2026-02-21T06:53:57",
-      "image": "https://tinfoil.sh/blog-images/2026-02-03-proving-model-identity.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "published": "2026-02-20T13:51:04",
-      "image": "https://opengraph.githubassets.com/e00cea67df3b50b96b685bc71ae4dd466a38002f7cbc56368eb4cd1dcf385d24/ggml-org/llama.cpp/discussions/19759",
+      "image": "https://opengraph.githubassets.com/6d720d040c1d85d8986190cdf512b4bbd786b0a39814b50c07eed9dafdae0dbd/alvi-se/ai-ublock-blacklist",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-21",
+    "date": "2026-02-22",
     "speakers": [
       "Alex",
       "Jordan"
