@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T00:59:20.545112",
+  "updated": "2026-02-22T05:11:47.677995",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,16 +142,7 @@
       "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "url": "https://github.com/tnm/zclaw",
       "published": "2026-02-21T12:37:52",
-      "image": "https://opengraph.githubassets.com/09ea8a700ef752a3ec3774a01d39a9d6a3a1b2ee9afdd0189a888133a79cc150/tnm/zclaw",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "published": "2026-02-21T18:09:24",
-      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/toyota-mirai-main.png?w=1600&h=900&fit=crop",
+      "image": "https://opengraph.githubassets.com/346fd211002744f7e488c475627ccabdb9e461c83a046f41fea3d0985ca379dc/tnm/zclaw",
       "summary": "Summary unavailable."
     },
     {
@@ -175,6 +166,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+      "published": "2026-02-21T18:09:24",
+      "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/10/toyota-mirai-main.png?w=1600&h=900&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Uncovering insiders and alpha on Polymarket with AI",
       "url": "https://twitter.com/peterjliu/status/2024901585806225723",
       "published": "2026-02-20T18:11:02",
@@ -187,7 +187,7 @@
       "title": "AI uBlock Blacklist",
       "url": "https://github.com/alvi-se/ai-ublock-blacklist",
       "published": "2026-02-21T08:10:49",
-      "image": "https://opengraph.githubassets.com/6d720d040c1d85d8986190cdf512b4bbd786b0a39814b50c07eed9dafdae0dbd/alvi-se/ai-ublock-blacklist",
+      "image": "https://opengraph.githubassets.com/346985058f8024e356dc2989b3e842873754182d6661e67598e154af71ca5e8b/alvi-se/ai-ublock-blacklist",
       "summary": "Summary unavailable."
     }
   ],
