@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-23T17:24:24.554766",
+  "updated": "2026-02-23T21:22:37.157219",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "published": "Mon, 23 Feb 2026 11:00:00 GMT",
+      "image": "data/images/f508826a07520b45693326048efc3536.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,15 +48,6 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing EVMbench",
-      "url": "https://openai.com/index/introducing-evmbench",
-      "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/5e0a3f6b49b71e6fd72ced0c5849619a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Google DeepMind News",
       "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
       "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AIs can generate near-verbatim copies of novels from training data",
-      "url": "https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/",
-      "published": "2026-02-23T15:43:57",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/library-shelves-1152x648-1768598730.jpg",
+      "title": "\"Car Wash\" test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
+      "published": "2026-02-23T20:16:08",
+      "image": "https://opper.ai/images/opper-og.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -152,15 +152,6 @@
       "url": "https://llm-timeline.com/",
       "published": "2026-02-23T09:07:44",
       "image": "https://llm-timeline.com/og-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pope tells priests to use their brains, not AI, to write homilies",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-      "published": "2026-02-23T07:33:57",
-      "image": "data/images/678f58873438223739800dbf6adfffeb.png",
       "summary": "Summary unavailable."
     }
   ],
