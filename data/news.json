@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-23T12:33:52.249110",
+  "updated": "2026-02-23T17:24:24.554766",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "published": "Mon, 23 Feb 2026 05:30:00 GMT",
+      "image": "data/images/c079ad002dd76d7aec7128c95ea354ae.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -16,7 +25,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,15 +48,6 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics",
-      "published": "Fri, 13 Feb 2026 11:00:00 GMT",
-      "image": "data/images/09c06651cdf6f25eb617f00d614434cf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Google DeepMind News",
       "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
       "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,43 +133,16 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pope tells priests to use their brains, not AI, to write homilies",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-      "published": "2026-02-23T07:33:57",
-      "image": "data/images/678f58873438223739800dbf6adfffeb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
-      "url": "https://bitmovin.com/careers/8023403002/",
-      "published": "2026-02-23T07:01:20",
-      "image": "data/images/721036a8f168865cdc125a4fdd78702f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-      "published": "2026-02-22T23:07:55",
-      "image": "https://d3qe71uytubmmx.cloudfront.net/original/2X/8/8bfe64fc593eb7baba8df149ebba4457c16ca1f9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Man accidentally gains control of 7k robot vacuums",
-      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-      "published": "2026-02-22T14:44:42",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/02/robot_army.jpg?quality=85&w=1200",
+      "title": "AIs can generate near-verbatim copies of novels from training data",
+      "url": "https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/",
+      "published": "2026-02-23T15:43:57",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/library-shelves-1152x648-1768598730.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,28 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How to train your program verifier",
-      "url": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
-      "published": "2026-02-18T21:10:09",
-      "image": "data/images/79c4a3c481cfc497a37f97f45ddfb27d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pinterest is drowning in a sea of AI slop and auto-moderation",
-      "url": "https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/",
-      "published": "2026-02-23T04:03:58",
-      "image": "https://images.unsplash.com/photo-1636044594149-6e2f289c3868?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fFBpbnRlcmVzdHxlbnwwfHx8fDE3NzEzNDAzNzJ8MA&ixlib=rb-4.1.0&q=80&w=2000",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Aqua: A CLI message tool for AI agents",
-      "url": "https://github.com/quailyquaily/aqua",
-      "published": "2026-02-23T02:07:27",
-      "image": "https://opengraph.githubassets.com/cc8efd3d7a618fe6f6583b094366c94dc104c9cacd2823f9db0a2049c7f670b8/quailyquaily/aqua",
+      "title": "Pope tells priests to use their brains, not AI, to write homilies",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+      "published": "2026-02-23T07:33:57",
+      "image": "data/images/678f58873438223739800dbf6adfffeb.png",
       "summary": "Summary unavailable."
     }
   ],
