@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T20:02:48.483576",
+  "updated": "2026-02-23T00:59:19.437022",
   "articles": [
     {
       "source": "RSS",
@@ -31,19 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics",
-      "published": "Fri, 13 Feb 2026 11:00:00 GMT",
-      "image": "data/images/09c06651cdf6f25eb617f00d614434cf.png",
+      "title": "Introducing EVMbench",
+      "url": "https://openai.com/index/introducing-evmbench",
+      "published": "Wed, 18 Feb 2026 00:00:00 GMT",
+      "image": "data/images/5e0a3f6b49b71e6fd72ced0c5849619a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-      "published": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "image": "data/images/5d285d32645504f95c09b31d4d9d5b7d.png",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics",
+      "published": "Fri, 13 Feb 2026 11:00:00 GMT",
+      "image": "data/images/09c06651cdf6f25eb617f00d614434cf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "NanoClaw Moved from Apple Containers to Docker",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "published": "2026-02-22T19:12:50",
-      "image": "data/images/21625415d7307c8216ad0a2bf2f89b65.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-      "url": "https://quesma.com/blog/introducing-binaryaudit/",
-      "published": "2026-02-22T14:50:44",
-      "image": "https://quesma.com/_astro/overall_ranking.CRL7hnOy.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
-      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "published": "2026-02-21T19:07:20",
-      "image": "data/images/98bd6dae7c199fb3d7729fa2d20e4736.png",
+      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+      "published": "2026-02-22T23:07:55",
+      "image": "https://d3qe71uytubmmx.cloudfront.net/original/2X/8/8bfe64fc593eb7baba8df149ebba4457c16ca1f9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -171,12 +153,30 @@
       "published": "2026-02-22T14:44:42",
       "image": "https://www.popsci.com/wp-content/uploads/2026/02/robot_army.jpg?quality=85&w=1200",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "NanoClaw moved from Apple Containers to Docker",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+      "published": "2026-02-22T19:12:50",
+      "image": "data/images/b0ddfcf36c43ec68be6c6ae515f854a4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Spain has blocked access to freedom.gov",
+      "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+      "published": "2026-02-22T20:17:12",
+      "image": "data/images/2931d84f23fe98d6d51a9bb7f6397680.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-22",
+    "date": "2026-02-23",
     "speakers": [
       "Alex",
       "Jordan"
