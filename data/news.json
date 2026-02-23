@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T05:21:10.459908",
+  "updated": "2026-02-23T08:34:55.938616",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -134,6 +134,24 @@
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
       "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pope tells priests to use their brains, not AI, to write homilies",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+      "published": "2026-02-23T07:33:57",
+      "image": "data/images/678f58873438223739800dbf6adfffeb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
+      "url": "https://bitmovin.com/careers/8023403002/",
+      "published": "2026-02-23T07:01:20",
+      "image": "data/images/721036a8f168865cdc125a4fdd78702f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,15 +175,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Aqua: A CLI message tool for AI agents",
-      "url": "https://github.com/quailyquaily/aqua",
-      "published": "2026-02-23T02:07:27",
-      "image": "https://opengraph.githubassets.com/6e0f6cadc61528b82b2ce1d26cdbdc375793ae034daf30bd656299b7ef384137/quailyquaily/aqua",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Man accidentally gains control of 7k robot vacuums",
       "url": "https://www.popsci.com/technology/robot-vacuum-army/",
       "published": "2026-02-22T14:44:42",
@@ -175,19 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Rhythms the Compendium: Life aboard an aircraft carrier (2021)",
-      "url": "https://thelexicans.wordpress.com/2020/04/05/38223/",
-      "published": "2026-02-21T20:16:40",
-      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "title": "Aqua: A CLI message tool for AI agents",
+      "url": "https://github.com/quailyquaily/aqua",
+      "published": "2026-02-23T02:07:27",
+      "image": "https://opengraph.githubassets.com/2744942b4f8669cfeb393add5f1f6c464e106f989f2f2ac7d9bf878df1db1f5d/quailyquaily/aqua",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "NanoClaw moved from Apple Containers to Docker",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "published": "2026-02-22T19:12:50",
-      "image": "data/images/b0ddfcf36c43ec68be6c6ae515f854a4.png",
+      "title": "Rhythms the Compendium: Life aboard an aircraft carrier (2021)",
+      "url": "https://thelexicans.wordpress.com/2020/04/05/38223/",
+      "published": "2026-02-21T20:16:40",
+      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
       "summary": "Summary unavailable."
     }
   ],
