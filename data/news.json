@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T21:22:37.157219",
+  "updated": "2026-02-24T00:57:20.453859",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "published": "Tue, 24 Feb 2026 00:00:21 GMT",
+      "image": "data/images/5f80129a524484f0e593678478766ff4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
       "url": "https://huggingface.co/blog/ggml-joins-hf",
       "published": "Fri, 20 Feb 2026 00:00:00 GMT",
@@ -112,19 +121,10 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "\u300c\u30c7\u30fc\u30bf\u4e0d\u8db3\u300d\u306e\u58c1\u3092\u8d8a\u3048\u308b\uff1a\u5408\u6210\u30da\u30eb\u30bd\u30ca\u304c\u65e5\u672c\u306eAI\u958b\u767a\u3092\u52a0\u901f",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
-      "published": "Thu, 19 Feb 2026 15:32:38 GMT",
-      "image": "data/images/df9eec82858dca5a59f5c836ce1045c7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,16 +133,43 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"Car Wash\" test with 53 models",
-      "url": "https://opper.ai/blog/car-wash-test",
-      "published": "2026-02-23T20:16:08",
-      "image": "https://opper.ai/images/opper-og.jpg",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "published": "2026-02-23T21:44:28",
+      "image": "data/images/bd544a31d1370b3855aefb2183e7aab5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+      "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+      "published": "2026-02-23T22:55:08",
+      "image": "https://gizmodo.com/app/uploads/2024/08/samaltman.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "published": "2026-02-23T22:11:34",
+      "image": "https://content.wolfram.com/sites/43/2026/02/FoundationTool-seo-v2a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I discovered a hidden tragedy tied to Russia's most famous painting",
+      "url": "https://www.theguardian.com/artanddesign/2026/feb/20/an-unknown-woman-how-i-discovered-a-hidden-tragedy-tied-to-russias-most-famous-painting",
+      "published": "2026-02-20T09:46:22",
+      "image": "https://i.guim.co.uk/img/media/3c15370991b59d041360b74420be6c62d69baa46/60_0_1929_1543/master/1929.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08f4faa9ca848cf05f452d3c353c8f06",
       "summary": "Summary unavailable."
     },
     {
@@ -158,7 +185,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-23",
+    "date": "2026-02-24",
     "speakers": [
       "Alex",
       "Jordan"
