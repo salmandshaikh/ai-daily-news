@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T05:17:20.917170",
+  "updated": "2026-02-24T08:32:47.716444",
   "articles": [
     {
       "source": "RSS",
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -134,6 +134,24 @@
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
       "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "published": "2026-02-24T05:47:23",
+      "image": "data/images/554f28936663cc474b3326a8bac035e1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
+      "url": "https://github.com/GreatScott/enveil",
+      "published": "2026-02-24T05:04:50",
+      "image": "https://opengraph.githubassets.com/120fc5acb87251ebc3545774728babd5e9c6ef668cb8617d95ae80ea6d31084c/GreatScott/enveil",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-      "published": "2026-02-23T21:44:28",
-      "image": "data/images/cff3742cb2018f37263d3c76a5a85147.png",
+      "title": "Ladybird adopts Rust, with help from AI",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "published": "2026-02-23T11:29:22",
+      "image": "https://ladybird.org/assets/img/plant.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ladybird adopts Rust, with help from AI",
-      "url": "https://ladybird.org/posts/adopting-rust/",
-      "published": "2026-02-23T11:29:22",
-      "image": "https://ladybird.org/assets/img/plant.webp",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "published": "2026-02-23T21:44:28",
+      "image": "data/images/cff3742cb2018f37263d3c76a5a85147.png",
       "summary": "Summary unavailable."
     },
     {
