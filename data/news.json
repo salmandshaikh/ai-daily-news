@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T12:34:04.900277",
+  "updated": "2026-02-24T16:52:53.785788",
   "articles": [
     {
       "source": "RSS",
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
-      "url": "https://github.com/GreatScott/enveil",
-      "published": "2026-02-24T05:04:50",
-      "image": "https://opengraph.githubassets.com/305ef0e89d98b05388b637ba41817dbc7a6644a2d9d66bbadb05916de997f4a0/GreatScott/enveil",
+      "title": "Software 3.1? \u2013 AI Functions",
+      "url": "https://blog.mikegchambers.com/posts/software-31-ai-functions/",
+      "published": "2026-02-24T15:58:08",
+      "image": "https://blog.mikegchambers.com/assets/images/ai-functions-2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-      "published": "2026-02-24T05:47:23",
-      "image": "data/images/554f28936663cc474b3326a8bac035e1.png",
+      "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+      "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+      "published": "2026-02-24T12:58:14",
+      "image": "data/images/fdf49e3a06bbdc5f9ad087c77a4a3697.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
+      "url": "https://github.com/GreatScott/enveil",
+      "published": "2026-02-24T05:04:50",
+      "image": "https://opengraph.githubassets.com/cf7afa91001c7a18dae90c1e4987e7c3bd5cfb1e94897f347c5278a611cb5733/GreatScott/enveil",
       "summary": "Summary unavailable."
     },
     {
@@ -175,6 +184,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "published": "2026-02-24T05:47:23",
+      "image": "data/images/554f28936663cc474b3326a8bac035e1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "\u201cCar Wash\u201d test with 53 models",
       "url": "https://opper.ai/blog/car-wash-test",
       "published": "2026-02-23T20:16:08",
@@ -184,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ladybird adopts Rust, with help from AI",
-      "url": "https://ladybird.org/posts/adopting-rust/",
-      "published": "2026-02-23T11:29:22",
-      "image": "https://ladybird.org/assets/img/plant.webp",
+      "title": "Kansai Airport has never lost a baggage in the 30 years since it opened",
+      "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
+      "published": "2026-02-24T16:40:47",
+      "image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2024/12/JW-Kix.jpg",
       "summary": "Summary unavailable."
     }
   ],
