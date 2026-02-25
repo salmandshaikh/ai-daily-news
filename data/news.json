@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T05:21:46.032530",
+  "updated": "2026-02-25T08:34:13.895588",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,13 +142,13 @@
       "title": "Show HN: Moonshine Open-Weights STT models \u2013 higher accuracy than WhisperLargev3",
       "url": "https://github.com/moonshine-ai/moonshine",
       "published": "2026-02-24T21:54:07",
-      "image": "https://opengraph.githubassets.com/016688b01018856cdc01f7c945689e9de8b610906f9c282edaffbe6a17afbb37/moonshine-ai/moonshine",
+      "image": "https://opengraph.githubassets.com/b5d1961a7a81f7bcc77a54fc7ec63765fb8000225c59694de6e084d8b76c4a27/moonshine-ai/moonshine",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
       "published": "2026-02-24T22:46:23",
       "image": "https://framerusercontent.com/assets/xqKJszO4tzsVEusCSL14t11EJZg.png",
@@ -157,10 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ed Zitron loses his mind annotating an AI doomer macro memo",
+      "url": "https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b",
+      "published": "2026-02-25T06:45:24",
+      "image": "https://www.dropbox.com/temp_thumb_from_token/c/1p1n0y1ip48ianok9dvbp?preserve_transparency=False&rlkey=qaar8ea6l5hh6jqls4x6g8q4b&secure_hash=&size=1200x1200&size_mode=4",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cell Service for the Fairly Paranoid",
+      "url": "https://www.cape.co/",
+      "published": "2026-02-24T22:37:54",
+      "image": "https://cdn.sanity.io/images/9u514z6s/development/608e15873d6f442b9a990c5839a4d37940cbd047-1600x900.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
       "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
       "published": "2026-02-24T12:58:14",
-      "image": "data/images/fdf49e3a06bbdc5f9ad087c77a4a3697.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -170,15 +188,6 @@
       "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
       "published": "2026-02-24T12:16:45",
       "image": "https://substackcdn.com/image/fetch/$s_!d2dB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F174f0566-d8ca-4cea-a4c7-360a4f016881_4000x3000.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-      "url": "https://vmfunc.re/blog/persona/",
-      "published": "2026-02-24T18:23:03",
-      "image": "data/images/75ec8b73abbf633692edeebd7902e6f5.png",
       "summary": "Summary unavailable."
     }
   ],
