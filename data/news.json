@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T16:56:28.435341",
+  "updated": "2026-02-25T20:23:59.965326",
   "articles": [
     {
       "source": "RSS",
@@ -133,52 +133,70 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Never Buy A .online Domain",
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "published": "2026-02-24T17:18:17",
+      "image": "data/images/58f4b609eb82050507a6472b740c1f34.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+      "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+      "published": "2026-02-25T13:07:36",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/02/24120956/SEI_286591792.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Never buy a .online domain",
       "url": "https://www.0xsid.com/blog/online-tld-is-pain",
       "published": "2026-02-25T13:31:17",
-      "image": "data/images/a112d0f72be611cb614f31fe8b71db2e.png",
+      "image": "data/images/29fccf4d8c8ccda51bbb763c242b9fcb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: A real-time strategy game that AI agents can play",
-      "url": "https://llmskirmish.com/",
-      "published": "2026-02-25T10:02:45",
-      "image": "https://llmskirmish.com/marketing/og-image.png",
+      "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+      "published": "2026-02-25T17:02:12",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/d681b1370ee5c0b4d24b781aa8bc8a11b2c1d375.png?1746931057",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: TeamOut (YC W22) \u2013 AI agent for planning company events",
+      "title": "Show HN: Linex \u2013 A daily challenge: placing pieces on a board that fights back",
+      "url": "https://www.playlinex.com/",
+      "published": "2026-02-24T23:33:58",
+      "image": "data/images/041a8bdfcfc50612151d87cb308072bb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: TeamOut (YC W22) \u2013 AI agent for planning company retreats",
       "url": "https://app.teamout.com/ai",
       "published": "2026-02-25T14:02:02",
-      "image": "data/images/d154d2af5a4014926debd432cac99939.png",
+      "image": "data/images/c50b041df40a06ed936fac3264be0cb7.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "published": "2026-02-24T22:46:23",
-      "image": "https://framerusercontent.com/assets/xqKJszO4tzsVEusCSL14t11EJZg.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Moonshine Open-Weights STT models \u2013 higher accuracy than WhisperLargev3",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "published": "2026-02-24T21:54:07",
-      "image": "https://opengraph.githubassets.com/f869350c2e88ec6a948bdc4643a2d4409bf8a385647e7dac40b45448f89682d5/moonshine-ai/moonshine",
+      "title": "LLM=True",
+      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "published": "2026-02-25T09:05:40",
+      "image": "https://blog.codemine.be/images/2026/be-quiet/agent_dogs.jpg",
       "summary": "Summary unavailable."
     }
   ],
