@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-24T20:22:38.835163",
+  "updated": "2026-02-25T01:03:15.446067",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Arvind KC appointed Chief People Officer",
+      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "published": "Tue, 24 Feb 2026 13:40:00 GMT",
+      "image": "data/images/e06d3292015f77fe4076d67c513de64b.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -34,16 +43,7 @@
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "published": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing OpenAI for India",
-      "url": "https://openai.com/index/openai-for-india",
-      "published": "Wed, 18 Feb 2026 21:00:00 GMT",
-      "image": "data/images/563b758e31b1fdcd1a6063bc35d91558.png",
+      "image": "data/images/b37df9dbc7fa62705b1738ceb30269fc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,7 +124,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,43 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Moonshine Open-Weights STT models \u2013 higher accuracy than WhisperLargev3",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "published": "2026-02-24T21:54:07",
+      "image": "https://opengraph.githubassets.com/04ca2608529b978522aa401775281a03169e72692f979e902d07352ca47ef66a/moonshine-ai/moonshine",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cell Service for the Fairly Paranoid",
+      "url": "https://www.cape.co/",
+      "published": "2026-02-24T22:37:54",
+      "image": "https://cdn.sanity.io/images/9u514z6s/development/608e15873d6f442b9a990c5839a4d37940cbd047-1600x900.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "published": "2026-02-24T22:46:23",
+      "image": "https://framerusercontent.com/assets/xqKJszO4tzsVEusCSL14t11EJZg.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How we rebuilt Next.js with AI in one week",
+      "url": "https://blog.cloudflare.com/vinext/",
+      "published": "2026-02-24T20:07:00",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/720QQcrdICiSJXrr9VoixA/4934fffd05d1ca10cc661238b381308e/BLOG-3194_OG.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,25 +178,16 @@
       "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
       "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
       "published": "2026-02-24T12:58:14",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/fdf49e3a06bbdc5f9ad087c77a4a3697.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
-      "url": "https://jobs.ashbyhq.com/verge-genomics",
-      "published": "2026-02-24T17:00:34",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-social/0687d0ed-8553-46a3-a85d-64683f7eefe8/43155f5b-2854-49cd-b56f-b4592a11eaf3/14441d4d-c073-4464-9437-88ed3c2ea9ec.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
-      "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
-      "published": "2026-02-24T16:40:47",
-      "image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2024/12/JW-Kix.jpg",
+      "title": "Fed's Cook says AI triggering big changes, sees possible unemployment rise",
+      "url": "https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/",
+      "published": "2026-02-24T23:34:26",
+      "image": "data/images/ef841f02b9e66e3f9c5d4df15c7e7cab.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,17 +211,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI resets spending expectations, from $1.4T to $600B",
-      "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
-      "published": "2026-02-24T18:22:31",
-      "image": "https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg?v=1771233114&w=1920&h=1080",
+      "title": "Dream Recorder AI \u2013 a portal to your subconscious",
+      "url": "https://dreamrecorder.ai/",
+      "published": "2026-02-24T22:09:57",
+      "image": "data/images/2d9534670527cb18bffa72042b2d922a.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-24",
+    "date": "2026-02-25",
     "speakers": [
       "Alex",
       "Jordan"
