@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T00:56:58.645319",
+  "updated": "2026-02-26T05:15:52.695635",
   "articles": [
     {
       "source": "RSS",
@@ -61,7 +61,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,43 @@
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
       "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How will OpenAI compete?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "published": "2026-02-25T22:29:25",
+      "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6993b59b8517240d2235240a/1771507646532/Frontier%2BLanguage%2BModel%2BIntelligence%2C%2BOver%2BTime%2B%2824%2BJan%2B%2726%29%2B-2.png.webp?format=1500w",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Pleasures and Pains of Coffee (1830)",
+      "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
+      "published": "2026-02-22T06:50:39",
+      "image": "data/images/ef4e0aacf6b5c539d9eeb73ea71e0ea4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Artist who \u201cpaints\u201d portraits on glass by hitting it with a hammer",
+      "url": "https://simonbergerart.com",
+      "published": "2026-02-22T16:25:48",
+      "image": "http://static1.squarespace.com/static/68484e264756030bdfc083dc/t/68581c52abf1dd1709471c2a/1750604882142/LogoSB-Schrift.png?format=1500w",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: ZSE \u2013 Open-source LLM inference engine with 3.9s cold starts",
+      "url": "https://github.com/Zyora-Dev/zse",
+      "published": "2026-02-26T01:15:25",
+      "image": "https://opengraph.githubassets.com/b12b26c5c6f7c1fc24d7804491ed19b95c0aa0af702a5c722c449d8a7b4b32d6/Zyora-Dev/zse",
       "summary": "Summary unavailable."
     },
     {
@@ -157,19 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
-      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
-      "published": "2026-02-25T17:02:12",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/d681b1370ee5c0b4d24b781aa8bc8a11b2c1d375.png?1746931057",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Never buy a .online domain",
-      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "published": "2026-02-25T13:31:17",
-      "image": "data/images/29fccf4d8c8ccda51bbb763c242b9fcb.png",
+      "title": "An autopsy of AI-generated 3D slop",
+      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+      "published": "2026-02-25T21:05:15",
+      "image": "https://aircada.com/og-default.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,6 +206,15 @@
       "url": "https://app.teamout.com/ai",
       "published": "2026-02-25T14:02:02",
       "image": "data/images/c50b041df40a06ed936fac3264be0cb7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+      "published": "2026-02-25T17:02:12",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/d681b1370ee5c0b4d24b781aa8bc8a11b2c1d375.png?1746931057",
       "summary": "Summary unavailable."
     }
   ],
