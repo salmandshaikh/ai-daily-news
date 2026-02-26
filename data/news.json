@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T08:32:41.677210",
+  "updated": "2026-02-26T12:34:06.292173",
   "articles": [
     {
       "source": "RSS",
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "url": "https://huggingface.co/blog/moe-transformers",
+      "published": "Thu, 26 Feb 2026 00:00:00 GMT",
+      "image": "data/images/f9ee7ff23ed2a90d5ef1eb7a87c14503.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
       "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
       "published": "Tue, 24 Feb 2026 00:00:21 GMT",
@@ -124,16 +133,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "One-Shot Any Web App with Gradio's gr.HTML",
-      "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-      "published": "Wed, 18 Feb 2026 00:00:00 GMT",
-      "image": "data/images/b142dc4f9f75b29066d338af3092036e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -143,15 +143,6 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
       "published": "2026-02-25T22:29:25",
       "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6993b59b8517240d2235240a/1771507646532/Frontier%2BLanguage%2BModel%2BIntelligence%2C%2BOver%2BTime%2B%2824%2BJan%2B%2726%29%2B-2.png.webp?format=1500w",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Pleasures and Pains of Coffee (1830)",
-      "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
-      "published": "2026-02-22T06:50:39",
-      "image": "data/images/ef4e0aacf6b5c539d9eeb73ea71e0ea4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,28 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: ZSE \u2013 Open-source LLM inference engine with 3.9s cold starts",
-      "url": "https://github.com/Zyora-Dev/zse",
-      "published": "2026-02-26T01:15:25",
-      "image": "https://opengraph.githubassets.com/af5f61f8bf0d5ffb33813c45ab32d6820a952800b3878205898a4824b53c3774/Zyora-Dev/zse",
+      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
+      "url": "https://arxiv.org/abs/2602.06811",
+      "published": "2026-02-22T14:15:09",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: TeamOut (YC W22) \u2013 AI agent for planning company retreats",
-      "url": "https://app.teamout.com/ai",
-      "published": "2026-02-25T14:02:02",
-      "image": "data/images/c50b041df40a06ed936fac3264be0cb7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Never buy a .online domain",
-      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "published": "2026-02-25T13:31:17",
-      "image": "data/images/29fccf4d8c8ccda51bbb763c242b9fcb.png",
+      "title": "An autopsy of AI-generated 3D slop",
+      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+      "published": "2026-02-25T21:05:15",
+      "image": "https://aircada.com/og-default.png",
       "summary": "Summary unavailable."
     }
   ],
