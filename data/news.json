@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-26T12:34:06.292173",
+  "updated": "2026-02-26T16:44:05.452725",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "url": "https://openai.com/index/figma-partnership",
+      "published": "Thu, 26 Feb 2026 06:00:00 GMT",
+      "image": "data/images/3b0f90a8c9db248803e0818b3b43d630.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,11 +48,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our First Proof submissions",
-      "url": "https://openai.com/index/first-proof-submissions",
-      "published": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "image": "data/images/d2ebfa453966c8a479825c168202c268.png",
+      "source_name": "Google DeepMind News",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "published": "Thu, 26 Feb 2026 16:01:50 +0000",
+      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +70,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -84,20 +93,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-      "published": "Mon, 09 Feb 2026 16:12:06 +0000",
-      "image": "data/images/da2c3327a3e80cc3606907e09af1bf6c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Hugging Face - Blog",
       "title": "Mixture of Experts (MoEs) in Transformers",
       "url": "https://huggingface.co/blog/moe-transformers",
       "published": "Thu, 26 Feb 2026 00:00:00 GMT",
-      "image": "data/images/f9ee7ff23ed2a90d5ef1eb7a87c14503.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,55 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "published": "2026-02-26T16:02:37",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_SS.width-1300.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "published": "2026-02-26T15:55:48",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why Developers Keep Choosing Claude over Every Other AI",
+      "url": "https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html",
+      "published": "2026-02-26T15:53:30",
+      "image": "https://cdn.bhusalmanish.com.np/Featured%20Image/Why%20Claude%20Wins.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How will OpenAI compete?",
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
       "published": "2026-02-25T22:29:25",
       "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6993b59b8517240d2235240a/1771507646532/Frontier%2BLanguage%2BModel%2BIntelligence%2C%2BOver%2BTime%2B%2824%2BJan%2B%2726%29%2B-2.png.webp?format=1500w",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "published": "2026-02-26T12:44:28",
+      "image": "https://www.scripps.edu/_files/images/news-and-events/large-release-images/2026/20260211-janda-molecule-920x500.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
+      "url": "https://arxiv.org/abs/2602.06811",
+      "published": "2026-02-22T14:15:09",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,28 +211,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The First Fully General Computer Action Model",
-      "url": "https://si.inc/posts/fdm1/",
-      "published": "2026-02-23T17:00:00",
-      "image": "https://si.inc/fdm1/action_mosaic.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
-      "url": "https://arxiv.org/abs/2602.06811",
-      "published": "2026-02-22T14:15:09",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An autopsy of AI-generated 3D slop",
-      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
-      "published": "2026-02-25T21:05:15",
-      "image": "https://aircada.com/og-default.png",
+      "title": "In 2025, Meta paid an effective federal tax rate of 3.5%",
+      "url": "https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i",
+      "published": "2026-02-26T15:14:20",
+      "image": "https://cdn.bsky.app/img/avatar/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihnchke5wec4i5y4i7kzngmr2sghedr74ubq2ca7fwcqjl7mrw5hq@jpeg",
       "summary": "Summary unavailable."
     }
   ],
