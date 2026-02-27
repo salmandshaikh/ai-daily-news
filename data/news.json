@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-27T16:26:47.279269",
+  "updated": "2026-02-27T20:17:47.816982",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/a896e32d522825190a060a7098b5d0c2.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -22,24 +40,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/continuing-microsoft-partnership",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/a896e32d522825190a060a7098b5d0c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
       "url": "https://openai.com/index/pacific-northwest-national-laboratory",
       "published": "Thu, 26 Feb 2026 10:00:00 GMT",
@@ -52,7 +52,7 @@
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,16 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Modeling cycles of grift with evolutionary game theory",
+      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+      "published": "2026-02-24T13:54:21",
+      "image": "data/images/d79b3a125108c8bdace338bad358e72f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,33 +157,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-      "published": "2026-02-27T15:14:42",
-      "image": "https://repository-images.githubusercontent.com/1146738089/83c0975f-09b4-4452-8c80-c5fee3521005",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Can you reverse engineer our neural network?",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "published": "2026-02-25T02:20:13",
-      "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
-      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-      "published": "2026-02-27T15:44:33",
-      "image": "https://i.guim.co.uk/img/media/3e8651062ef84e39193ac5df7c3ef7a576210509/588_0_3626_2901/master/3626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9a7e732746f9d1764c26e8a04dcdfa1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Get free Claude max 20x for open-source maintainers",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "published": "2026-02-27T09:08:58",
@@ -184,19 +166,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/",
-      "published": "2026-02-27T14:44:52",
-      "image": "data/images/4a371c9b8a740c384c69fca88807e082.png",
+      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+      "published": "2026-02-27T15:14:42",
+      "image": "https://repository-images.githubusercontent.com/1146738089/83c0975f-09b4-4452-8c80-c5fee3521005",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "published": "2026-02-26T15:55:48",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
+      "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
+      "published": "2026-02-27T17:41:30",
+      "image": "data/images/eae7f6876e21375e0a8b5736804d33d5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT Health fails to recognise medical emergencies \u2013\u00a0study",
+      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+      "published": "2026-02-27T15:44:33",
+      "image": "https://i.guim.co.uk/img/media/3e8651062ef84e39193ac5df7c3ef7a576210509/588_0_3626_2901/master/3626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9a7e732746f9d1764c26e8a04dcdfa1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Can you reverse engineer our neural network?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+      "published": "2026-02-25T02:20:13",
+      "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
       "summary": "Summary unavailable."
     }
   ],
