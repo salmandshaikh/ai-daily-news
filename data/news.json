@@ -1,6 +1,42 @@
 {
-  "updated": "2026-02-27T12:29:17.100524",
+  "updated": "2026-02-27T16:26:47.279269",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "url": "https://openai.com/index/amazon-partnership",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/05739126d23398e2c2d9ea3cb0041e31.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/0709c3b64f93633de5eab9de2e3b2b8d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/a896e32d522825190a060a7098b5d0c2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,42 +44,6 @@
       "url": "https://openai.com/index/pacific-northwest-national-laboratory",
       "published": "Thu, 26 Feb 2026 10:00:00 GMT",
       "image": "data/images/56da2ede60b3c9b1aeffc131dc8eaf3a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-      "url": "https://openai.com/index/figma-partnership",
-      "published": "Thu, 26 Feb 2026 06:00:00 GMT",
-      "image": "data/images/3b0f90a8c9db248803e0818b3b43d630.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Disrupting malicious uses of AI | February 2026",
-      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
-      "published": "Wed, 25 Feb 2026 00:00:00 GMT",
-      "image": "data/images/f4ce109dfe495f0408eacbecdbc78598.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Arvind KC appointed Chief People Officer",
-      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
-      "published": "Tue, 24 Feb 2026 13:40:00 GMT",
-      "image": "data/images/e06d3292015f77fe4076d67c513de64b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Why we no longer evaluate SWE-bench Verified",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-      "published": "Mon, 23 Feb 2026 11:00:00 GMT",
-      "image": "data/images/f508826a07520b45693326048efc3536.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "We gave terabytes of CI logs to an LLM",
+      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "published": "2026-02-27T15:41:13",
+      "image": "https://mendral.com/og?title=LLMs%20Are%20Good%20at%20SQL.%20We%20Gave%20Ours%20Terabytes%20of%20CI%20Logs.",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+      "published": "2026-02-27T15:14:42",
+      "image": "https://repository-images.githubusercontent.com/1146738089/83c0975f-09b4-4452-8c80-c5fee3521005",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Can you reverse engineer our neural network?",
       "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
       "published": "2026-02-25T02:20:13",
@@ -148,10 +166,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+      "published": "2026-02-27T15:44:33",
+      "image": "https://i.guim.co.uk/img/media/3e8651062ef84e39193ac5df7c3ef7a576210509/588_0_3626_2901/master/3626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9a7e732746f9d1764c26e8a04dcdfa1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "published": "2026-02-27T09:08:58",
+      "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/",
+      "published": "2026-02-27T14:44:52",
+      "image": "data/images/4a371c9b8a740c384c69fca88807e082.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "published": "2026-02-26T15:55:48",
-      "image": "data/images/4bfe0d8c5be1c9d2ad7337cfac362afc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
