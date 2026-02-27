@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T08:28:27.934092",
+  "updated": "2026-02-27T12:29:17.100524",
   "articles": [
     {
       "source": "RSS",
@@ -70,7 +70,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Can you reverse engineer our neural network?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+      "published": "2026-02-25T02:20:13",
+      "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "published": "2026-02-26T15:55:48",
       "image": "data/images/4bfe0d8c5be1c9d2ad7337cfac362afc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LiteLLM (YC W23): Founding Reliability Engineer \u2013 $200K-$270K and 0.5-1.0% equity",
-      "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
-      "published": "2026-02-27T01:18:18",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/d7ce0a49202038373852e1b840f81ae7a8d90a5c.png?1741382512",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Linex \u2013 A daily challenge: placing pieces on a board that fights back",
-      "url": "https://www.playlinex.com/",
-      "published": "2026-02-24T23:33:58",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
