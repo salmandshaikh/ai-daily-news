@@ -1,15 +1,6 @@
 {
-  "updated": "2026-02-27T20:17:47.816982",
+  "updated": "2026-02-28T00:50:48.735759",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,15 +8,6 @@
       "url": "https://openai.com/index/continuing-microsoft-partnership",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
       "image": "data/images/a896e32d522825190a060a7098b5d0c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/05739126d23398e2c2d9ea3cb0041e31.png",
       "summary": "Summary unavailable."
     },
     {
@@ -40,10 +22,28 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "published": "Thu, 26 Feb 2026 10:00:00 GMT",
-      "image": "data/images/56da2ede60b3c9b1aeffc131dc8eaf3a.png",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "url": "https://openai.com/index/amazon-partnership",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/05739126d23398e2c2d9ea3cb0041e31.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "An update on our mental health-related work",
+      "url": "https://openai.com/index/update-on-mental-health-related-work",
+      "published": "Fri, 27 Feb 2026 00:00:00 GMT",
+      "image": "data/images/18af4f7108b3b4d233784761338d1366.png",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,25 +133,34 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Modeling cycles of grift with evolutionary game theory",
-      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-      "published": "2026-02-24T13:54:21",
-      "image": "data/images/d79b3a125108c8bdace338bad358e72f.png",
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "published": "2026-02-27T22:31:18",
+      "image": "data/images/edca495454294a4f37d2028a46adafce.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We gave terabytes of CI logs to an LLM",
-      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-      "published": "2026-02-27T15:41:13",
-      "image": "https://mendral.com/og?title=LLMs%20Are%20Good%20at%20SQL.%20We%20Gave%20Ours%20Terabytes%20of%20CI%20Logs.",
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "published": "2026-02-27T14:56:05",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Chinese official\u2019s use of ChatGPT revealed an intimidation operation",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "published": "2026-02-27T15:52:27",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25217544785149.jpg?c=16x9&q=w_800,c_fill",
       "summary": "Summary unavailable."
     },
     {
@@ -166,28 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-      "published": "2026-02-27T15:14:42",
-      "image": "https://repository-images.githubusercontent.com/1146738089/83c0975f-09b4-4452-8c80-c5fee3521005",
+      "title": "We gave terabytes of CI logs to an LLM",
+      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "published": "2026-02-27T15:41:13",
+      "image": "https://mendral.com/og?title=LLMs%20Are%20Good%20at%20SQL.%20We%20Gave%20Ours%20Terabytes%20of%20CI%20Logs.",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
-      "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
-      "published": "2026-02-27T17:41:30",
-      "image": "data/images/eae7f6876e21375e0a8b5736804d33d5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ChatGPT Health fails to recognise medical emergencies \u2013\u00a0study",
-      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-      "published": "2026-02-27T15:44:33",
-      "image": "https://i.guim.co.uk/img/media/3e8651062ef84e39193ac5df7c3ef7a576210509/588_0_3626_2901/master/3626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9a7e732746f9d1764c26e8a04dcdfa1",
+      "title": "Modeling cycles of grift with evolutionary game theory",
+      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+      "published": "2026-02-24T13:54:21",
+      "image": "data/images/d79b3a125108c8bdace338bad358e72f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -198,12 +198,21 @@
       "published": "2026-02-25T02:20:13",
       "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "\"Just a little detail that wouldn't sell anything\"",
+      "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
+      "published": "2026-02-24T06:34:07",
+      "image": "https://unsung.aresluna.org/_media/just-a-little-detail-that-wouldnt-sell-anything/ogimage.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-27",
+    "date": "2026-02-28",
     "speakers": [
       "Alex",
       "Jordan"
