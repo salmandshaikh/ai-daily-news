@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T12:02:45.561566",
+  "updated": "2026-02-28T16:03:02.939512",
   "articles": [
     {
       "source": "RSS",
@@ -139,10 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI \u2013 How to delete your account",
-      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
-      "published": "2026-02-28T10:41:55",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Don't trust AI agents",
+      "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+      "published": "2026-02-28T12:39:32",
+      "image": "https://nanoclaw.dev/social-preview.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "published": "2026-02-28T13:46:20",
+      "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -157,15 +166,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI raises $110B on $730B pre-money valuation",
-      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "published": "2026-02-27T14:56:05",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "US and Israel launch strikes on Iran, as Trump says \u2018massive\u2019 campaign underway",
       "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
       "published": "2026-02-28T06:34:07",
@@ -175,37 +175,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A Chinese official\u2019s use of ChatGPT revealed an intimidation operation",
-      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
-      "published": "2026-02-27T15:52:27",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25217544785149.jpg?c=16x9&q=w_800,c_fill",
+      "title": "What AI coding costs you",
+      "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
+      "published": "2026-02-28T13:05:03",
+      "image": "data/images/8470eb32b49a1c80d056c41d1aab40a6.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Package Managers \u00e0 la Carte: a formal model of dependency resolution",
-      "url": "https://arxiv.org/abs/2602.18602",
-      "published": "2026-02-24T12:27:44",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "published": "2026-02-27T14:56:05",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can you reverse engineer our neural network?",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "published": "2026-02-25T02:20:13",
-      "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
+      "title": "OpenAI \u2013 How to delete your account",
+      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+      "published": "2026-02-28T10:41:55",
+      "image": "data/images/23d55249f8fb5729158645766b783860.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
-      "url": "https://www.unfudged.io/",
-      "published": "2026-02-26T21:30:19",
-      "image": "https://www.unfudged.io/assets/og-image.png",
+      "title": "Show HN: Reclaim Flowers \u2013 A 2D physics-based \"Digital Altar\" protocol",
+      "url": "https://github.com/voice-of-japan/Virtual-Protest-Protocol/blob/main/README.md",
+      "published": "2026-02-28T13:17:53",
+      "image": "https://opengraph.githubassets.com/0b34b46045d65f36336c956eecd5cc4dcaba90574e7926caeb4272d87be84a8f/voice-of-japan/Virtual-Protest-Protocol",
       "summary": "Summary unavailable."
     }
   ],
