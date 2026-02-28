@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T08:03:13.893531",
+  "updated": "2026-02-28T12:02:45.561566",
   "articles": [
     {
       "source": "RSS",
@@ -70,7 +70,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,16 +133,16 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How do I cancel my ChatGPT subscription?",
-      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
-      "published": "2026-02-28T05:55:01",
-      "image": "data/images/b33ce17273ec1284d33bd8023a758a61.png",
+      "title": "OpenAI \u2013 How to delete your account",
+      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+      "published": "2026-02-28T10:41:55",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Package Managers \u00e0 la Carte: a formal model of dependency resolution",
-      "url": "https://arxiv.org/abs/2602.18602",
-      "published": "2026-02-24T12:27:44",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "title": "US and Israel launch strikes on Iran, as Trump says \u2018massive\u2019 campaign underway",
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "published": "2026-02-28T06:34:07",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26059256811672.jpg?c=16x9&q=w_800,c_fill",
       "summary": "Summary unavailable."
     },
     {
@@ -184,10 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
-      "url": "https://www.unfudged.io/",
-      "published": "2026-02-26T21:30:19",
-      "image": "https://www.unfudged.io/assets/og-image.png",
+      "title": "Package Managers \u00e0 la Carte: a formal model of dependency resolution",
+      "url": "https://arxiv.org/abs/2602.18602",
+      "published": "2026-02-24T12:27:44",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -197,6 +197,15 @@
       "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
       "published": "2026-02-25T02:20:13",
       "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
+      "url": "https://www.unfudged.io/",
+      "published": "2026-02-26T21:30:19",
+      "image": "https://www.unfudged.io/assets/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
