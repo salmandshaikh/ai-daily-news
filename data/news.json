@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T04:46:42.850681",
+  "updated": "2026-02-28T08:03:13.893531",
   "articles": [
     {
       "source": "RSS",
@@ -133,6 +133,24 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How do I cancel my ChatGPT subscription?",
+      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "published": "2026-02-28T05:55:01",
+      "image": "data/images/b33ce17273ec1284d33bd8023a758a61.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "published": "2026-02-28T02:59:02",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -148,19 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-      "url": "https://twitter.com/sama/status/2027578652477821175",
-      "published": "2026-02-28T02:59:02",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-      "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
-      "published": "2026-02-28T03:23:16",
-      "image": "data/images/32d324657a36db733f84d33541a878aa.png",
+      "title": "Package Managers \u00e0 la Carte: a formal model of dependency resolution",
+      "url": "https://arxiv.org/abs/2602.18602",
+      "published": "2026-02-24T12:27:44",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -175,19 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-      "url": "https://twitter.com/secwar/status/2027507717469049070",
-      "published": "2026-02-27T22:31:18",
-      "image": "data/images/edca495454294a4f37d2028a46adafce.png",
+      "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
+      "url": "https://www.unfudged.io/",
+      "published": "2026-02-26T21:30:19",
+      "image": "https://www.unfudged.io/assets/og-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Get free Claude max 20x for open-source maintainers",
-      "url": "https://claude.com/contact-sales/claude-for-oss",
-      "published": "2026-02-27T09:08:58",
-      "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
+      "title": "Can you reverse engineer our neural network?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+      "published": "2026-02-25T02:20:13",
+      "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
       "summary": "Summary unavailable."
     }
   ],
