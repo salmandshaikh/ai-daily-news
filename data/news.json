@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T05:14:24.340490",
+  "updated": "2026-03-01T08:17:35.144192",
   "articles": [
     {
       "source": "RSS",
@@ -70,7 +70,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,7 @@
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
       "published": "2026-03-01T01:39:26",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/36053aa3724d11584d61c68a9e29966a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,6 +157,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "url": "https://modernaicourse.org",
+      "published": "2026-03-01T07:35:03",
+      "image": "data/images/6fab6f6abe8ef984e5d013339fe3826b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
       "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
       "published": "2026-02-28T20:20:00",
@@ -166,19 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Deterministic Programming with LLMs",
-      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-      "published": "2026-02-25T22:17:29",
-      "image": "data/images/a680c4c913e42becdca3b1164d29c617.png",
+      "title": "The Science of Detecting LLM-Generated Text",
+      "url": "https://dl.acm.org/doi/10.1145/3624725",
+      "published": "2026-03-01T02:09:41",
+      "image": "data/images/d35332750d22896ddb8ec6f7e4eac024.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
-      "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-      "published": "2026-03-01T01:24:54",
-      "image": "https://www.amd.com/content/dam/amd/en/images/products/desktops/4395050-ryzen-ai-max-pc.jpg",
+      "title": "Deterministic Programming with LLMs",
+      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "published": "2026-02-25T22:17:29",
+      "image": "data/images/a680c4c913e42becdca3b1164d29c617.png",
       "summary": "Summary unavailable."
     }
   ],
