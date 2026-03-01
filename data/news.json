@@ -1,6 +1,15 @@
 {
-  "updated": "2026-02-28T20:03:00.840621",
+  "updated": "2026-03-01T01:05:22.016394",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "published": "Sat, 28 Feb 2026 12:30:00 GMT",
+      "image": "data/images/b9e1605e630f7a5be7f7ec1331c76788.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,24 +17,6 @@
       "url": "https://openai.com/index/continuing-microsoft-partnership",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
       "image": "data/images/a896e32d522825190a060a7098b5d0c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/0709c3b64f93633de5eab9de2e3b2b8d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -40,10 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "An update on our mental health-related work",
-      "url": "https://openai.com/index/update-on-mental-health-related-work",
-      "published": "Fri, 27 Feb 2026 00:00:00 GMT",
-      "image": "data/images/18af4f7108b3b4d233784761338d1366.png",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
+      "image": "data/images/0709c3b64f93633de5eab9de2e3b2b8d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"Cancel ChatGPT\" movement goes mainstream after OpenAI closes deal with U.S. Dow",
-      "url": "https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens",
-      "published": "2026-02-28T19:03:47",
-      "image": "https://cdn.mos.cms.futurecdn.net/CrTAwpsjMduduUvZH7F3EP-2560-80.jpg",
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "published": "2026-02-28T21:24:16",
+      "image": "data/images/6e4fc4d67cadfc5b68530d79d9d4ae3c.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How Long Is the Coast of Britain? (1967)",
-      "url": "https://www.jstor.org/stable/1721427",
-      "published": "2026-02-24T23:14:16",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "published": "2026-02-28T20:20:00",
+      "image": "data/images/e8f3d35e004d2d753855faa93079c002.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI fires an employee for prediction market insider trading",
-      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-      "published": "2026-02-28T13:46:20",
-      "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
+      "title": "Deterministic Programming with LLMs",
+      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "published": "2026-02-25T22:17:29",
+      "image": "data/images/a680c4c913e42becdca3b1164d29c617.png",
       "summary": "Summary unavailable."
     },
     {
@@ -171,21 +171,12 @@
       "published": "2026-02-28T10:41:53",
       "image": "https://lucijagregov.com/wp-content/uploads/2026/02/image.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-      "url": "https://twitter.com/sama/status/2027578652477821175",
-      "published": "2026-02-28T02:59:02",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-02-28",
+    "date": "2026-03-01",
     "speakers": [
       "Alex",
       "Jordan"
