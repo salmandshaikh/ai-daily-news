@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T16:14:22.299025",
+  "updated": "2026-03-01T20:03:19.325010",
   "articles": [
     {
       "source": "RSS",
@@ -139,28 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-      "published": "2026-03-01T14:09:24",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "published": "2026-03-01T01:39:26",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "published": "2026-03-01T01:39:26",
-      "image": "data/images/36053aa3724d11584d61c68a9e29966a.png",
+      "title": "A new Polymarket account made over $500k betting on the U.S. strike against Iran",
+      "url": "https://twitter.com/cabsav456/status/2027937130995921119",
+      "published": "2026-03-01T19:22:47",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "url": "https://99helpers.com/tools/ad-supported-chat",
-      "published": "2026-03-01T11:49:01",
-      "image": "https://99helpers.com/images/main.jpg",
+      "title": "Python Type Checker Comparison: Empty Container Inference",
+      "url": "https://pyrefly.org/blog/container-inference-comparison/",
+      "published": "2026-02-25T13:45:02",
+      "image": "https://pyrefly.org/assets/images/empty-container-blog-cef98862cb6b53726eb97df7ee6f2d14.png",
       "summary": "Summary unavailable."
     },
     {
@@ -175,6 +175,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "published": "2026-03-01T11:49:01",
+      "image": "https://99helpers.com/images/main.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microgpt explained interactively",
+      "url": "https://growingswe.com/blog/microgpt",
+      "published": "2026-03-01T09:43:43",
+      "image": "https://growingswe.com/blog/microgpt/opengraph-image?16ed498263341a16",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "10-202: Introduction to Modern AI (CMU)",
       "url": "https://modernaicourse.org",
       "published": "2026-03-01T07:35:03",
@@ -184,19 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is making junior devs useless",
-      "url": "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/",
-      "published": "2026-03-01T13:49:21",
-      "image": "https://www.beabetterdev.com/wp-content/uploads/2026/03/thumbnail111.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pigeons and Planes Has a Website Again",
-      "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
-      "published": "2026-02-26T10:51:29",
-      "image": "https://cdn.sanity.io/images/pu3h3rl5/production/ce09cce65e4943de871e5fac555e2be007d8a84f-4000x2250.jpg?rect=0,80,4000,2090&w=1200&h=627&fit=crop&auto=format",
+      "title": "January in Servo: preloads, better forms, details styling, and more",
+      "url": "https://servo.org/blog/2026/02/28/january-in-servo/",
+      "published": "2026-03-01T17:31:29",
+      "image": "https://servo.org/svg/servo-color-positive.svg",
       "summary": "Summary unavailable."
     }
   ],
