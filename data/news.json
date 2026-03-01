@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T08:17:35.144192",
+  "updated": "2026-03-01T12:21:31.647912",
   "articles": [
     {
       "source": "RSS",
@@ -133,7 +133,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,16 +142,7 @@
       "title": "Microgpt",
       "url": "http://karpathy.github.io/2026/02/12/microgpt/",
       "published": "2026-03-01T01:39:26",
-      "image": "data/images/36053aa3724d11584d61c68a9e29966a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "published": "2026-02-28T21:24:16",
-      "image": "data/images/6e4fc4d67cadfc5b68530d79d9d4ae3c.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -166,6 +157,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "published": "2026-02-28T21:24:16",
+      "image": "data/images/6e4fc4d67cadfc5b68530d79d9d4ae3c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pigeons and Planes Has a Website Again",
+      "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+      "published": "2026-02-26T10:51:29",
+      "image": "https://cdn.sanity.io/images/pu3h3rl5/production/ce09cce65e4943de871e5fac555e2be007d8a84f-4000x2250.jpg?rect=0,80,4000,2090&w=1200&h=627&fit=crop&auto=format",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
       "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
       "published": "2026-02-28T20:20:00",
@@ -175,19 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Science of Detecting LLM-Generated Text",
+      "title": "The Science of Detecting LLM-Generated Text (2024)",
       "url": "https://dl.acm.org/doi/10.1145/3624725",
       "published": "2026-03-01T02:09:41",
-      "image": "data/images/d35332750d22896ddb8ec6f7e4eac024.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Deterministic Programming with LLMs",
-      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-      "published": "2026-02-25T22:17:29",
-      "image": "data/images/a680c4c913e42becdca3b1164d29c617.png",
+      "image": "data/images/696287fc07fa81b8faf8dddb6648e98b.png",
       "summary": "Summary unavailable."
     }
   ],
