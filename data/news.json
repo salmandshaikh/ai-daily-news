@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T01:05:22.016394",
+  "updated": "2026-03-01T05:14:24.340490",
   "articles": [
     {
       "source": "RSS",
@@ -70,7 +70,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "published": "2026-03-01T01:39:26",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
       "published": "2026-02-28T21:24:16",
@@ -166,10 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Future of AI",
-      "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
-      "published": "2026-02-28T10:41:53",
-      "image": "https://lucijagregov.com/wp-content/uploads/2026/02/image.png",
+      "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+      "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+      "published": "2026-03-01T01:24:54",
+      "image": "https://www.amd.com/content/dam/amd/en/images/products/desktops/4395050-ryzen-ai-max-pc.jpg",
       "summary": "Summary unavailable."
     }
   ],
