@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T12:21:31.647912",
+  "updated": "2026-03-01T16:14:22.299025",
   "articles": [
     {
       "source": "RSS",
@@ -139,19 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "published": "2026-03-01T01:39:26",
+      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+      "published": "2026-03-01T14:09:24",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "10-202: Introduction to Modern AI (CMU)",
-      "url": "https://modernaicourse.org",
-      "published": "2026-03-01T07:35:03",
-      "image": "data/images/6fab6f6abe8ef984e5d013339fe3826b.png",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "published": "2026-03-01T01:39:26",
+      "image": "data/images/36053aa3724d11584d61c68a9e29966a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "published": "2026-03-01T11:49:01",
+      "image": "https://99helpers.com/images/main.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -166,28 +175,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "url": "https://modernaicourse.org",
+      "published": "2026-03-01T07:35:03",
+      "image": "data/images/6fab6f6abe8ef984e5d013339fe3826b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is making junior devs useless",
+      "url": "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/",
+      "published": "2026-03-01T13:49:21",
+      "image": "https://www.beabetterdev.com/wp-content/uploads/2026/03/thumbnail111.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Pigeons and Planes Has a Website Again",
       "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
       "published": "2026-02-26T10:51:29",
       "image": "https://cdn.sanity.io/images/pu3h3rl5/production/ce09cce65e4943de871e5fac555e2be007d8a84f-4000x2250.jpg?rect=0,80,4000,2090&w=1200&h=627&fit=crop&auto=format",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "published": "2026-02-28T20:20:00",
-      "image": "data/images/e8f3d35e004d2d753855faa93079c002.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Science of Detecting LLM-Generated Text (2024)",
-      "url": "https://dl.acm.org/doi/10.1145/3624725",
-      "published": "2026-03-01T02:09:41",
-      "image": "data/images/696287fc07fa81b8faf8dddb6648e98b.png",
       "summary": "Summary unavailable."
     }
   ],
