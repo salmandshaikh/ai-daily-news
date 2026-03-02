@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T08:30:06.004906",
+  "updated": "2026-03-02T12:28:59.701564",
   "articles": [
     {
       "source": "RSS",
@@ -70,7 +70,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,16 @@
       "title": "If AI writes code, should the session be part of the commit?",
       "url": "https://github.com/mandel-macaque/memento",
       "published": "2026-03-02T00:27:52",
-      "image": "https://opengraph.githubassets.com/eb817ae286121dbdeb9dad07fcf513ed204dddc7306ebff4718a1350397d69c3/mandel-macaque/memento",
+      "image": "https://opengraph.githubassets.com/48d048306d7e74e6d0e9a7dedc6773d03b1b9182214704249e4913ade23b5a4f/mandel-macaque/memento",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
+      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
+      "published": "2026-02-27T15:28:57",
+      "image": "data/images/38804634b75d2cad04211d750c50246a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Evolving descriptive text of mental content from human brain activity",
-      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-      "published": "2026-03-02T05:39:36",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0n3kt76.jpg",
+      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "published": "2026-03-01T23:15:16",
+      "image": "https://opengraph.githubassets.com/ebca10fe497e2f26f555b701bb5a4fe1d5f33a4753d45c7a863fe5ecf35593a1/AlexsJones/llmfit",
       "summary": "Summary unavailable."
     },
     {
@@ -169,43 +178,16 @@
       "title": "Show HN: Timber \u2013 Ollama for classical ML models, 336x faster than Python",
       "url": "https://github.com/kossisoroyce/timber",
       "published": "2026-03-02T00:57:40",
-      "image": "https://opengraph.githubassets.com/41fe625dcd64892222678b8b0c9314df166d6eaf10bad78d2316222a21a2b7e0/kossisoroyce/timber",
+      "image": "https://opengraph.githubassets.com/e8d1a1c9dba782ebf4a8c80f79d0666522eebfaf142a132c8bb0d78266b8c323/kossisoroyce/timber",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "published": "2026-03-01T23:15:16",
-      "image": "https://opengraph.githubassets.com/fed1b261a34ad4f2c19421c9c8849721e823037053b9af2e3d72c0788451972d/AlexsJones/llmfit",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microgpt explained interactively",
-      "url": "https://growingswe.com/blog/microgpt",
-      "published": "2026-03-01T09:43:43",
-      "image": "https://growingswe.com/blog/microgpt/opengraph-image?16ed498263341a16",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "published": "2026-03-01T01:39:26",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Running Neural Amp Modeler on embedded hardware",
-      "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
-      "published": "2026-02-27T18:29:37",
-      "image": "https://cdn.sanity.io/images/cwdo0dfy/production/2b7a8625f4000b61e1ac1423229e085b9fcbd51c-1920x1106.png",
+      "title": "Evolving descriptive text of mental content from human brain activity",
+      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "published": "2026-03-02T05:39:36",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0n3kt76.jpg",
       "summary": "Summary unavailable."
     }
   ],
