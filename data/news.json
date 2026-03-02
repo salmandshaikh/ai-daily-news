@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T05:11:12.109650",
+  "updated": "2026-03-02T08:30:06.004906",
   "articles": [
     {
       "source": "RSS",
@@ -142,7 +142,7 @@
       "title": "If AI writes code, should the session be part of the commit?",
       "url": "https://github.com/mandel-macaque/memento",
       "published": "2026-03-02T00:27:52",
-      "image": "https://opengraph.githubassets.com/4f192208282ae51a3dc8ebbec294584b7dc0b533b87d3a0b2e7597b9e311d2ac/mandel-macaque/memento",
+      "image": "https://opengraph.githubassets.com/eb817ae286121dbdeb9dad07fcf513ed204dddc7306ebff4718a1350397d69c3/mandel-macaque/memento",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Evolving descriptive text of mental content from human brain activity",
+      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "published": "2026-03-02T05:39:36",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0n3kt76.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Timber \u2013 Ollama for classical ML models, 336x faster than Python",
       "url": "https://github.com/kossisoroyce/timber",
       "published": "2026-03-02T00:57:40",
-      "image": "https://opengraph.githubassets.com/ee499d91e3c579947b6aa21c9cdee402d787c11ebbf3b845a9022a41b1aedfce/kossisoroyce/timber",
+      "image": "https://opengraph.githubassets.com/41fe625dcd64892222678b8b0c9314df166d6eaf10bad78d2316222a21a2b7e0/kossisoroyce/timber",
       "summary": "Summary unavailable."
     },
     {
@@ -169,25 +178,7 @@
       "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
       "url": "https://github.com/AlexsJones/llmfit",
       "published": "2026-03-01T23:15:16",
-      "image": "https://opengraph.githubassets.com/57a55da0cc44b3a7343b0c007a90f1cf4a85896827049334a7e71b14f555b209/AlexsJones/llmfit",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Vibe Code your 3D Models",
-      "url": "https://github.com/ierror/synaps-cad",
-      "published": "2026-02-27T17:27:34",
-      "image": "https://opengraph.githubassets.com/f02eb9b945b4939acbbb5220b59c66d349bdf921f33a79ccaf0aec0163f474d8/ierror/synaps-cad",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Running Neural Amp Modeler on embedded hardware",
-      "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
-      "published": "2026-02-27T18:29:37",
-      "image": "https://cdn.sanity.io/images/cwdo0dfy/production/2b7a8625f4000b61e1ac1423229e085b9fcbd51c-1920x1106.png",
+      "image": "https://opengraph.githubassets.com/fed1b261a34ad4f2c19421c9c8849721e823037053b9af2e3d72c0788451972d/AlexsJones/llmfit",
       "summary": "Summary unavailable."
     },
     {
@@ -211,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Logira \u2013 eBPF runtime auditing for AI agent runs",
-      "url": "https://github.com/melonattacker/logira",
-      "published": "2026-03-01T23:25:01",
-      "image": "https://opengraph.githubassets.com/6ad878945620b62b9b3bd4d4a9aed085e3f840e8f8cffefaa06c374534576a5b/melonattacker/logira",
+      "title": "Running Neural Amp Modeler on embedded hardware",
+      "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
+      "published": "2026-02-27T18:29:37",
+      "image": "https://cdn.sanity.io/images/cwdo0dfy/production/2b7a8625f4000b61e1ac1423229e085b9fcbd51c-1920x1106.png",
       "summary": "Summary unavailable."
     }
   ],
