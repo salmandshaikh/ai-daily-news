@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T20:03:19.325010",
+  "updated": "2026-03-02T00:57:55.201430",
   "articles": [
     {
       "source": "RSS",
@@ -139,18 +139,27 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "published": "2026-03-01T01:39:26",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "published": "2026-03-01T22:13:58",
+      "image": "https://developer.chrome.com/static/blog/webmcp-epp/image/cover.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A new Polymarket account made over $500k betting on the U.S. strike against Iran",
-      "url": "https://twitter.com/cabsav456/status/2027937130995921119",
-      "published": "2026-03-01T19:22:47",
+      "title": "Microgpt explained interactively",
+      "url": "https://growingswe.com/blog/microgpt",
+      "published": "2026-03-01T09:43:43",
+      "image": "https://growingswe.com/blog/microgpt/opengraph-image?16ed498263341a16",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "published": "2026-03-01T01:39:26",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -166,10 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "published": "2026-02-28T21:24:16",
-      "image": "data/images/6e4fc4d67cadfc5b68530d79d9d4ae3c.png",
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "url": "https://modernaicourse.org",
+      "published": "2026-03-01T07:35:03",
+      "image": "data/images/6fab6f6abe8ef984e5d013339fe3826b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -180,39 +189,12 @@
       "published": "2026-03-01T11:49:01",
       "image": "https://99helpers.com/images/main.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microgpt explained interactively",
-      "url": "https://growingswe.com/blog/microgpt",
-      "published": "2026-03-01T09:43:43",
-      "image": "https://growingswe.com/blog/microgpt/opengraph-image?16ed498263341a16",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "10-202: Introduction to Modern AI (CMU)",
-      "url": "https://modernaicourse.org",
-      "published": "2026-03-01T07:35:03",
-      "image": "data/images/6fab6f6abe8ef984e5d013339fe3826b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "January in Servo: preloads, better forms, details styling, and more",
-      "url": "https://servo.org/blog/2026/02/28/january-in-servo/",
-      "published": "2026-03-01T17:31:29",
-      "image": "https://servo.org/svg/servo-color-positive.svg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-01",
+    "date": "2026-03-02",
     "speakers": [
       "Alex",
       "Jordan"
