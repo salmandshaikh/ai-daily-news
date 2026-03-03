@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T00:59:51.551060",
+  "updated": "2026-03-03T05:10:02.238383",
   "articles": [
     {
       "source": "RSS",
@@ -133,16 +133,16 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-      "published": "2026-03-02T14:54:58",
-      "image": "https://health.ucdavis.edu/media-resources/contenthub/health-news/2026/2/thumbnail/CuRe-thumbnail.jpg",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "published": "2026-03-03T01:12:30",
+      "image": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
-      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
-      "published": "2026-03-01T17:11:44",
-      "image": "data/images/2a22d0420014387641d12f5b6b6789cf.png",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "published": "2026-03-02T14:54:58",
+      "image": "https://health.ucdavis.edu/media-resources/contenthub/health-news/2026/2/thumbnail/CuRe-thumbnail.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -170,6 +170,24 @@
       "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
       "published": "2026-03-01T12:54:47",
       "image": "data/images/7d60e29a3a37883d57a5b046f0a31065.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+      "published": "2026-03-01T17:11:44",
+      "image": "data/images/2a22d0420014387641d12f5b6b6789cf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Elevated Errors in Claude.ai",
+      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+      "published": "2026-03-03T03:31:07",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     }
   ],
