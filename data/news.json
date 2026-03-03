@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-03T16:32:58.688673",
+  "updated": "2026-03-03T20:21:21.709087",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.3 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "published": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "image": "data/images/2e9aa5a35f440fffd6c755aede66685a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "url": "https://openai.com/index/gpt-5-3-instant",
+      "published": "Tue, 03 Mar 2026 10:00:00 GMT",
+      "image": "data/images/1ae38cccb6e6395019bddcfebd4a9f65.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,15 +26,6 @@
       "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
       "published": "Sat, 28 Feb 2026 12:30:00 GMT",
       "image": "data/images/b9e1605e630f7a5be7f7ec1331c76788.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/0709c3b64f93633de5eab9de2e3b2b8d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -31,19 +40,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/795a8b47efb4810a10dffe03f5d38b4e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "OpenAI and Amazon announce strategic partnership",
       "url": "https://openai.com/index/amazon-partnership",
       "published": "Fri, 27 Feb 2026 05:30:00 GMT",
       "image": "data/images/05739126d23398e2c2d9ea3cb0041e31.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "published": "Tue, 03 Mar 2026 16:35:55 +0000",
+      "image": "data/images/f042b0d98e8577f41c7975f5837161fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -84,11 +93,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-      "published": "Thu, 12 Feb 2026 16:15:09 +0000",
-      "image": "data/images/e63f3d560ddbf9c7ca1e352111fac611.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "PRX Part 3 \u2014 Training a Text-to-Image Model in 24h!",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+      "published": "Tue, 03 Mar 2026 16:50:49 GMT",
+      "image": "data/images/112ddd25556a1f1f699c7ffd974b5024.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,21 +137,39 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-      "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-      "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT\u20115.3 Instant",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "published": "2026-03-03T17:57:33",
+      "image": "data/images/832e9d69b5c1956943e3f8f74dbebf2e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "India's top court angry after junior judge cites fake AI-generated orders",
-      "url": "https://www.bbc.com/news/articles/c178zzw780xo",
-      "published": "2026-03-03T12:13:40",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab1c/live/e75859a0-16fd-11f1-801d-ed3cff6bf876.jpg",
+      "title": "MacBook Air with M5",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "published": "2026-03-03T14:04:56",
+      "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031721",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "TorchLean: Formalizing Neural Networks in Lean",
+      "url": "https://leandojo.org/torchlean.html",
+      "published": "2026-03-01T03:03:46",
+      "image": "data/images/92697cc1e4b95e131df979c88cddf12f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Explain Curl Commands",
+      "url": "https://github.com/akgitrepos/explain-my-curl",
+      "published": "2026-02-28T23:55:44",
+      "image": "https://opengraph.githubassets.com/586ef3f2c2dd42a8d3930d7c13995a7c8dc4d949731613eecdd7886fcb24c7f6/akgitrepos/explain-my-curl",
       "summary": "Summary unavailable."
     },
     {
@@ -152,33 +179,6 @@
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
       "published": "2026-03-02T22:32:35",
       "image": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&q=80&upscale=true&w=1200&s=d82dc447eb031914967ea232d0aab8207eab5ef0",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "published": "2026-03-03T01:12:30",
-      "image": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple introduces the new MacBook Air with M5",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "published": "2026-03-03T14:04:56",
-      "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031414",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why No AI Games?",
-      "url": "https://franklantz.substack.com/p/why-no-ai-games",
-      "published": "2026-03-03T15:53:37",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
