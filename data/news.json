@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T05:10:02.238383",
+  "updated": "2026-03-03T08:26:50.233764",
   "articles": [
     {
       "source": "RSS",
@@ -133,7 +133,16 @@
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "published": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "image": "data/images/ed765f9b97287a598b7509e439a2d403.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Meta\u2019s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "published": "2026-03-02T22:32:35",
+      "image": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&q=80&upscale=true&w=1200&s=d82dc447eb031914967ea232d0aab8207eab5ef0",
       "summary": "Summary unavailable."
     },
     {
@@ -143,6 +152,15 @@
       "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
       "published": "2026-03-03T01:12:30",
       "image": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Daily Driving GrapheneOS",
+      "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "published": "2026-03-03T05:18:24",
+      "image": "https://blog.matthewbrunelle.com/content/images/2026/03/Grapheneos_app_store.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Against Query Based Compilers",
-      "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
-      "published": "2026-03-01T12:54:47",
-      "image": "data/images/7d60e29a3a37883d57a5b046f0a31065.png",
+      "title": "Elevated Errors in Claude.ai",
+      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+      "published": "2026-03-03T03:31:07",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Elevated Errors in Claude.ai",
-      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
-      "published": "2026-03-03T03:31:07",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "title": "Against Query Based Compilers",
+      "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
+      "published": "2026-03-01T12:54:47",
+      "image": "data/images/7d60e29a3a37883d57a5b046f0a31065.png",
       "summary": "Summary unavailable."
     }
   ],
