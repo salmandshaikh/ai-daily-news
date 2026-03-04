@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T20:21:21.709087",
+  "updated": "2026-03-04T00:56:48.561301",
   "articles": [
     {
       "source": "RSS",
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Talos: Hardware accelerator for deep convolutional neural networks",
+      "url": "https://talos.wtf/",
+      "published": "2026-03-03T23:11:11",
+      "image": "data/images/9bba669cf83a0d58f20d236df08c5aee.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GPT\u20115.3 Instant",
       "url": "https://openai.com/index/gpt-5-3-instant/",
       "published": "2026-03-03T17:57:33",
@@ -148,10 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MacBook Air with M5",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "published": "2026-03-03T14:04:56",
-      "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031721",
+      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "published": "2026-03-03T23:34:05",
+      "image": "https://valkyrie.cdn.ifixit.com/media/2026/03/02154511/keyboard_3x2.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "When AI writes the software, who verifies it?",
+      "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+      "published": "2026-03-03T16:34:53",
+      "image": "data/images/c02088b6585cd70dc9458c65e1117547.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
+      "url": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
+      "published": "2026-03-04T00:10:38",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Explain Curl Commands",
-      "url": "https://github.com/akgitrepos/explain-my-curl",
-      "published": "2026-02-28T23:55:44",
-      "image": "https://opengraph.githubassets.com/586ef3f2c2dd42a8d3930d7c13995a7c8dc4d949731613eecdd7886fcb24c7f6/akgitrepos/explain-my-curl",
+      "title": "MacBook Air with M5",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "published": "2026-03-03T14:04:56",
+      "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031722",
       "summary": "Summary unavailable."
     },
     {
@@ -185,7 +212,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-03",
+    "date": "2026-03-04",
     "speakers": [
       "Alex",
       "Jordan"
