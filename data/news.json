@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T05:03:29.367737",
+  "updated": "2026-03-04T08:24:44.718853",
   "articles": [
     {
       "source": "RSS",
@@ -157,37 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Giving LLMs a personality is just good engineering",
+      "url": "https://www.seangoedecke.com/giving-llms-a-personality/",
+      "published": "2026-03-04T03:37:48",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GPT\u20115.3 Instant",
       "url": "https://openai.com/index/gpt-5-3-instant/",
       "published": "2026-03-03T17:57:33",
       "image": "data/images/832e9d69b5c1956943e3f8f74dbebf2e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-      "published": "2026-03-04T03:00:32",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "TorchLean: Formalizing Neural Networks in Lean",
-      "url": "https://leandojo.org/torchlean.html",
-      "published": "2026-03-01T03:03:46",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Lenovo\u2019s new ThinkPads score 10/10 for repairability",
-      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
-      "published": "2026-03-03T23:34:05",
-      "image": "https://valkyrie.cdn.ifixit.com/media/2026/03/02154511/keyboard_3x2.jpeg",
       "summary": "Summary unavailable."
     }
   ],
