@@ -1,13 +1,40 @@
 {
-  "updated": "2026-03-04T16:28:50.635643",
+  "updated": "2026-03-04T20:21:12.573738",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Extending single-minus amplitudes to gravitons",
+      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "published": "Wed, 04 Mar 2026 10:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "image": "data/images/4fad956943b6f72bf4f3891242f2b004.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "url": "https://openai.com/index/axios-allison-murphy",
+      "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "image": "data/images/bd76d932fcd9f981ce64b09d3db14fab.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
       "title": "GPT-5.3 Instant System Card",
       "url": "https://openai.com/index/gpt-5-3-instant-system-card",
       "published": "Tue, 03 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2e9aa5a35f440fffd6c755aede66685a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -17,33 +44,6 @@
       "url": "https://openai.com/index/gpt-5-3-instant",
       "published": "Tue, 03 Mar 2026 10:00:00 GMT",
       "image": "data/images/1ae38cccb6e6395019bddcfebd4a9f65.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "published": "Sat, 28 Feb 2026 12:30:00 GMT",
-      "image": "data/images/b9e1605e630f7a5be7f7ec1331c76788.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/continuing-microsoft-partnership",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/a896e32d522825190a060a7098b5d0c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
-      "published": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "image": "data/images/05739126d23398e2c2d9ea3cb0041e31.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bet on German Train Delays",
-      "url": "https://bahn.bet",
-      "published": "2026-03-04T09:42:20",
-      "image": "https://bahn.bet/opengraph-image?a6489045cd43d3a3",
+      "title": "Father claims Google's AI product fuelled son's delusional spiral",
+      "url": "https://www.bbc.com/news/articles/czx44p99457o",
+      "published": "2026-03-04T19:48:07",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/751c/live/5c2e63d0-17f0-11f1-b048-c9424b2cf5fd.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
-      "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
-      "published": "2026-03-04T12:54:04",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+      "url": "https://qlabs.sh/slowrun",
+      "published": "2026-03-04T17:56:04",
+      "image": "data/images/35aa20b3cb010eabce10551e4cb4e2fa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+      "url": "https://roboflow.com/careers",
+      "published": "2026-03-04T17:49:44",
+      "image": "https://cdn.prod.website-files.com/5f6bc60e665f54545a1e52a5/65847f25138ef2ac95147f85_rf-careers-shareimg.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+      "published": "2026-03-04T11:33:46",
+      "image": "https://regmedia.co.uk/2017/02/02/shutterstock_email_overload.jpg",
       "summary": "Summary unavailable."
     }
   ],
