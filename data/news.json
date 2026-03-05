@@ -1,6 +1,33 @@
 {
-  "updated": "2026-03-05T17:52:07.536332",
+  "updated": "2026-03-05T20:27:11.574211",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -16,34 +43,7 @@
       "title": "Extending single-minus amplitudes to gravitons",
       "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
       "published": "Wed, 04 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Axios uses AI to help deliver high-impact local journalism",
-      "url": "https://openai.com/index/axios-allison-murphy",
-      "published": "Wed, 04 Mar 2026 00:00:00 GMT",
-      "image": "data/images/bd76d932fcd9f981ce64b09d3db14fab.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-      "published": "Wed, 04 Mar 2026 00:00:00 GMT",
-      "image": "data/images/4fad956943b6f72bf4f3891242f2b004.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.3 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-      "published": "Tue, 03 Mar 2026 10:00:00 GMT",
-      "image": "data/images/2e9aa5a35f440fffd6c755aede66685a.png",
+      "image": "data/images/d747791fe8ef6f23c04a96c88584ac82.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "published": "2026-03-05T18:08:10",
+      "image": "data/images/5b6c99e4c6c823fdc627954b67266130.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hardware hotplug events on Linux, the gory details",
+      "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+      "published": "2026-03-02T09:26:04",
+      "image": "data/images/9167be66b4433b5ccdd933675d6479e6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "published": "2026-03-05T19:24:35",
+      "image": "data/images/824fb069a60a5a78bd1b0134100da542.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Datasets for Reconstructing Visual Perception from Brain Data",
       "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
       "published": "2026-03-05T16:26:29",
-      "image": "https://opengraph.githubassets.com/dc8263bdccf89cf43e5a58883c75db2b08316f17ae98d81d74074a3e26fb3575/seelikat/neuro-visual-reconstruction-dataset-index",
+      "image": "https://opengraph.githubassets.com/a541ffde54bb1f0148e192c604483bc25124cf2c63e33f4355d012a34dea8726/seelikat/neuro-visual-reconstruction-dataset-index",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A man who broke into jail",
+      "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
+      "published": "2026-03-03T23:09:21",
+      "image": "https://media.newyorker.com/photos/69a06f4a134d1e033041edb0/16:9/w_1280,c_limit/r48491.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Intelligence is a commodity. Context is the real AI Moat",
-      "url": "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity",
-      "published": "2026-03-01T09:04:19",
-      "image": "data/images/3f737d7c21140df8779a1a973508a799.png",
+      "title": "AI and the Ship of Theseus",
+      "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+      "published": "2026-03-05T15:49:45",
+      "image": "https://lucumr.pocoo.org/social/2026-03-05-theseus-social.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,33 +215,6 @@
       "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
       "published": "2026-03-02T11:51:57",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Man Who Broke into Jail",
-      "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
-      "published": "2026-03-03T23:09:21",
-      "image": "https://media.newyorker.com/photos/69a06f4a134d1e033041edb0/16:9/w_1280,c_limit/r48491.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Jails for NetBSD \u2013 Kernel Enforced Isolation and Native Resource Control",
-      "url": "https://netbsd-jails.petermann-digital.de/",
-      "published": "2026-03-05T07:23:40",
-      "image": "https://netbsd-jails.petermann-digital.de/images/cover-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The L in \"LLM\" Stands for Lying",
-      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-      "published": "2026-03-05T04:02:32",
-      "image": "https://acko.net/files/ai-llms/cover.jpg",
       "summary": "Summary unavailable."
     }
   ],
