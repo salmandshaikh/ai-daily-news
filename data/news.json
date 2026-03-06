@@ -1,22 +1,13 @@
 {
-  "updated": "2026-03-06T12:26:36.855867",
+  "updated": "2026-03-06T16:25:37.392423",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "published": "Fri, 06 Mar 2026 07:00:00 GMT",
+      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
       "summary": "Summary unavailable."
     },
     {
@@ -31,19 +22,28 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Ensuring AI use in education leads to opportunity",
-      "url": "https://openai.com/index/ai-education-opportunity",
-      "published": "Thu, 05 Mar 2026 09:00:00 GMT",
-      "image": "data/images/070f63223b496bc415705718a31efca2.png",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "The five AI value models driving business reinvention",
-      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "published": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "image": "data/images/434e684b7061fbb0e914c26c2bbd0f75.png",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "published": "Thu, 05 Mar 2026 09:00:00 GMT",
+      "image": "data/images/070f63223b496bc415705718a31efca2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,37 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "If AI has a bright future, why does AI think it doesn't?",
-      "url": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
-      "published": "2026-03-06T09:21:56",
-      "image": "data/images/38ed54593daade0e0c535b0f4bde58e0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
       "url": "https://406.fail/",
       "published": "2026-03-05T22:04:59",
       "image": "data/images/3d86a5dfd185b6b466c35d8e23cbebc9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hardware hotplug events on Linux, the gory details",
-      "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-      "published": "2026-03-02T09:26:04",
-      "image": "data/images/9167be66b4433b5ccdd933675d6479e6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI and the Ship of Theseus",
-      "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-      "published": "2026-03-05T15:49:45",
-      "image": "https://lucumr.pocoo.org/social/2026-03-05-theseus-social.png",
       "summary": "Summary unavailable."
     }
   ],
