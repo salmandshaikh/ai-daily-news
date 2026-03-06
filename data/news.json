@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T20:27:11.574211",
+  "updated": "2026-03-06T01:03:25.515055",
   "articles": [
     {
       "source": "RSS",
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Extending single-minus amplitudes to gravitons",
-      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
-      "published": "Wed, 04 Mar 2026 10:00:00 GMT",
-      "image": "data/images/d747791fe8ef6f23c04a96c88584ac82.png",
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "url": "https://openai.com/index/chatgpt-for-excel",
+      "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+      "image": "data/images/6aac785a6fff5602180096d7093d4a14.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+      "url": "https://charm.land/blog/v2/",
+      "published": "2026-03-05T23:26:52",
+      "image": "https://stuff.charm.sh/charm-share-2025.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "url": "https://406.fail/",
+      "published": "2026-03-05T22:04:59",
+      "image": "data/images/3d86a5dfd185b6b466c35d8e23cbebc9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Hardware hotplug events on Linux, the gory details",
       "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
       "published": "2026-03-02T09:26:04",
@@ -157,10 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
-      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
-      "published": "2026-03-05T19:24:35",
-      "image": "data/images/824fb069a60a5a78bd1b0134100da542.png",
+      "title": "Structured AI (YC F25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
+      "published": "2026-03-05T21:01:30",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/e403c14f8fddce28219fc4c383d7a3a2136a545a.png?1755294413",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+      "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+      "published": "2026-03-05T21:35:40",
+      "image": "https://www.404media.co/content/images/size/w1200/2026/03/Stop_Cop_City.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,7 +196,7 @@
       "title": "Datasets for Reconstructing Visual Perception from Brain Data",
       "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
       "published": "2026-03-05T16:26:29",
-      "image": "https://opengraph.githubassets.com/a541ffde54bb1f0148e192c604483bc25124cf2c63e33f4355d012a34dea8726/seelikat/neuro-visual-reconstruction-dataset-index",
+      "image": "https://opengraph.githubassets.com/34088791ca4f3719d0947d14bf2f3e082b12bb51a946eeba13a3de9615fecb9c/seelikat/neuro-visual-reconstruction-dataset-index",
       "summary": "Summary unavailable."
     },
     {
@@ -189,39 +216,12 @@
       "published": "2026-03-01T16:49:46",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/aircraft_ready_to_test_airbus_ultraair_laser_terminal/27121761-2-eng-GB/Aircraft_ready_to_test_Airbus_UltraAir_laser_terminal_pillars.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Relicensing with AI-Assisted Rewrite",
-      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-      "published": "2026-03-05T05:07:33",
-      "image": "data/images/9d024ec92476daacff226ecb215ba7eb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI and the Ship of Theseus",
-      "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-      "published": "2026-03-05T15:49:45",
-      "image": "https://lucumr.pocoo.org/social/2026-03-05-theseus-social.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AMD will bring its \u201cRyzen AI\u201d processors to standard desktop PCs for first time",
-      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
-      "published": "2026-03-02T11:51:57",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-1152x648.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-05",
+    "date": "2026-03-06",
     "speakers": [
       "Alex",
       "Jordan"
