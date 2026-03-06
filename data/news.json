@@ -1,6 +1,15 @@
 {
-  "updated": "2026-03-06T05:05:56.316164",
+  "updated": "2026-03-06T08:23:49.151331",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -22,15 +31,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Ensuring AI use in education leads to opportunity",
       "url": "https://openai.com/index/ai-education-opportunity",
       "published": "Thu, 05 Mar 2026 09:00:00 GMT",
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT for Excel and new financial data integrations",
-      "url": "https://openai.com/index/chatgpt-for-excel",
+      "title": "The five AI value models driving business reinvention",
+      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
       "published": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "image": "data/images/6aac785a6fff5602180096d7093d4a14.png",
+      "image": "data/images/434e684b7061fbb0e914c26c2bbd0f75.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,6 +157,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "TeX Live 2026 is available for download now",
+      "url": "https://www.tug.org/texlive/acquire.html",
+      "published": "2026-03-06T05:20:10",
+      "image": "data/images/881b5272ecd6e330b8738505b0f60e7f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
       "url": "https://406.fail/",
       "published": "2026-03-05T22:04:59",
@@ -175,28 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Code World Models for Parameter Control in Evolutionary Algorithms",
-      "url": "https://www.alphaxiv.org/abs/2602.22260",
-      "published": "2026-03-02T00:12:43",
-      "image": "/api/paper-twitter-image?title=Code+World+Models+for+Parameter+Control+in+Evolutionary+Algorithms&authors=Camilo+Chac%C3%B3n+Sartori%2C+Guillem+Rodr%C3%ADguez+Corominas",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Structured AI (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
-      "published": "2026-03-05T21:01:30",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/e403c14f8fddce28219fc4c383d7a3a2136a545a.png?1755294413",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "AI and the Ship of Theseus",
       "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
       "published": "2026-03-05T15:49:45",
       "image": "https://lucumr.pocoo.org/social/2026-03-05-theseus-social.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+      "published": "2026-03-01T16:49:46",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/aircraft_ready_to_test_airbus_ultraair_laser_terminal/27121761-2-eng-GB/Aircraft_ready_to_test_Airbus_UltraAir_laser_terminal_pillars.jpg",
       "summary": "Summary unavailable."
     },
     {
