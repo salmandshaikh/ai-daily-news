@@ -1,22 +1,31 @@
 {
-  "updated": "2026-03-06T16:25:37.392423",
+  "updated": "2026-03-06T20:19:22.568810",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "image": "data/images/7257f3a363dcea23cf4dee52ee13a89a.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -31,19 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Ensuring AI use in education leads to opportunity",
-      "url": "https://openai.com/index/ai-education-opportunity",
-      "published": "Thu, 05 Mar 2026 09:00:00 GMT",
-      "image": "data/images/070f63223b496bc415705718a31efca2.png",
+      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -89,6 +89,15 @@
       "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
       "published": "Tue, 17 Feb 2026 13:42:20 +0000",
       "image": "data/images/c2cf86c539c5a1083355f298d7085036.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
+      "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+      "published": "Fri, 06 Mar 2026 18:56:10 GMT",
+      "image": "data/images/317e6a24a02997cfa4685999a55680dc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,39 +137,39 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-      "published": "Tue, 24 Feb 2026 00:00:21 GMT",
-      "image": "data/images/5f80129a524484f0e593678478766ff4.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A tool that removes censorship from open-weight LLMs",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "published": "2026-03-06T14:27:55",
+      "image": "https://opengraph.githubassets.com/bb5235abe8ee2274cd57a6180d73987ee06052270b628acded6d8cb577736e4c/elder-plinius/OBLITERATUS",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "published": "2026-03-05T18:08:10",
-      "image": "data/images/5b6c99e4c6c823fdc627954b67266130.png",
+      "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
+      "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
+      "published": "2026-03-06T15:33:17",
+      "image": "data/images/00c5bba501b2ddf0c91e67eb6ebd2b79.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Labor market impacts of AI: A new measure and early evidence",
-      "url": "https://www.anthropic.com/research/labor-market-impacts",
-      "published": "2026-03-05T22:55:01",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+      "title": "Show HN: A trainable, modular electronic nose for industrial use",
+      "url": "https://sniphi.com/",
+      "published": "2026-03-03T16:34:26",
+      "image": "data/images/0d9603178606a73974de01f8cf2a7903.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "url": "https://406.fail/",
-      "published": "2026-03-05T22:04:59",
-      "image": "data/images/3d86a5dfd185b6b466c35d8e23cbebc9.png",
+      "title": "We might all be AI engineers now",
+      "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+      "published": "2026-03-06T09:13:30",
+      "image": "https://yasint.dev/og/yasintdev-primary-og.png",
       "summary": "Summary unavailable."
     }
   ],
