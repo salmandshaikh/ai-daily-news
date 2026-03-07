@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T12:20:16.705520",
+  "updated": "2026-03-07T16:14:09.848675",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LLM Doesn't Write Correct Code. It Writes Plausible Code",
+      "url": "https://twitter.com/KatanaLarp/status/2029928471632224486",
+      "published": "2026-03-07T14:38:29",
+      "image": "data/images/0def2b796ec17328f57a9ba3f7110cc4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Self-Portrait by Ernst Mach (1886)",
+      "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+      "published": "2026-03-05T23:48:26",
+      "image": "https://pdr-assets.b-cdn.net/collections/self-portrait-by-ernst-mach-1886/dieanalysederemp00mach_0035.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
       "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
       "published": "2026-03-07T09:18:40",
@@ -157,19 +175,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sarvam 105B, the first competitive Indian open source LLM",
-      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
-      "published": "2026-03-07T07:43:57",
-      "image": "https://assets.sarvam.ai/tr:f-auto/images/03117ysv/production/ef7fefef0603837a95a8ad4547cb5def4818dbe9-2016x1260.png?w=1200",
+      "title": "Migrating from Heroku to Magic Containers",
+      "url": "https://bunny.net/blog/migrating-from-heroku-to-magic-containers/",
+      "published": "2026-03-05T12:12:13",
+      "image": "https://bunny.net/blog/content/images/2026/03/Heroku-Magic-Containers-Migration.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Kula \u2013 Lightweight, self-contained Linux server monitoring tool",
-      "url": "https://github.com/c0m4r/kula",
-      "published": "2026-03-07T00:07:25",
-      "image": "https://repository-images.githubusercontent.com/1168811055/a3648662-b36d-4026-be6a-70c226479a74",
+      "title": "Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes",
+      "url": "https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/",
+      "published": "2026-03-03T18:12:06",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/8tCPjOHpBfYqBZUTxaAmLQG9_b0=/fit-in/1600x0/filters:focal(2048x1658:2049x1659)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/14/7c1497c5-644c-4b7e-a4e8-8e159861d747/1_seurat_seascape_at_port-en-bessin_normandy_1888_gift_of_the_w_averell_harriman_foundati.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -179,6 +197,15 @@
       "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
       "published": "2026-03-05T17:43:33",
       "image": "https://landedstar.com/blog/img/posts/app_brain_breaking_on_assembler.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sarvam 105B, the first competitive Indian open source LLM",
+      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+      "published": "2026-03-07T07:43:57",
+      "image": "https://assets.sarvam.ai/tr:f-auto/images/03117ysv/production/ef7fefef0603837a95a8ad4547cb5def4818dbe9-2016x1260.png?w=1200",
       "summary": "Summary unavailable."
     }
   ],
