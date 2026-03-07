@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T04:54:00.231439",
+  "updated": "2026-03-07T08:16:45.138876",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,15 +139,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can a wealthy family change the course of a deadly brain disease?",
-      "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-      "published": "2026-03-07T03:06:58",
-      "image": "data/images/6365d622a4bf15b92a471099f8a2f1d5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "LLMs work best when the user defines their acceptance criteria first",
       "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
       "published": "2026-03-07T01:17:57",
@@ -157,19 +148,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI and the Illegal War",
-      "url": "https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/",
-      "published": "2026-03-07T03:14:50",
-      "image": "https://assets.buttondown.email/images/c379713c-ad75-4096-9853-85dbe1bc83dd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: 1v1 coding game that LLMs struggle with",
-      "url": "https://yare.io",
-      "published": "2026-03-06T06:47:29",
-      "image": "data/images/bde6e2ea2dee8849696399da052d185c.png",
+      "title": "My application programmer instincts failed when debugging assembler",
+      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+      "published": "2026-03-05T17:43:33",
+      "image": "https://landedstar.com/blog/img/posts/app_brain_breaking_on_assembler.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,10 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: 1v1 coding game that LLMs struggle with",
+      "url": "https://yare.io",
+      "published": "2026-03-06T06:47:29",
+      "image": "data/images/bde6e2ea2dee8849696399da052d185c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A tool that removes censorship from open-weight LLMs",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "published": "2026-03-06T14:27:55",
-      "image": "https://opengraph.githubassets.com/38c7aca3092445fd637c2692a9520fe16d557e221e6ae8e0d3445e61ea7065e6/elder-plinius/OBLITERATUS",
+      "image": "https://opengraph.githubassets.com/ff52e5fa1e8a994dfceaf30b85aac37f81ff525f87842c2bf8bde4c1dd8139f5/elder-plinius/OBLITERATUS",
       "summary": "Summary unavailable."
     }
   ],
