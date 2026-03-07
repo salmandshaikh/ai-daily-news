@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T08:16:45.138876",
+  "updated": "2026-03-07T12:20:16.705520",
   "articles": [
     {
       "source": "RSS",
@@ -25,16 +25,7 @@
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
+      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,6 +35,15 @@
       "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
       "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "published": "2026-03-07T09:18:40",
+      "image": "https://torrentfreak.com/images/books-long.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "LLMs work best when the user defines their acceptance criteria first",
       "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
       "published": "2026-03-07T01:17:57",
@@ -148,10 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My application programmer instincts failed when debugging assembler",
-      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
-      "published": "2026-03-05T17:43:33",
-      "image": "https://landedstar.com/blog/img/posts/app_brain_breaking_on_assembler.png",
+      "title": "Sarvam 105B, the first competitive Indian open source LLM",
+      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+      "published": "2026-03-07T07:43:57",
+      "image": "https://assets.sarvam.ai/tr:f-auto/images/03117ysv/production/ef7fefef0603837a95a8ad4547cb5def4818dbe9-2016x1260.png?w=1200",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: 1v1 coding game that LLMs struggle with",
-      "url": "https://yare.io",
-      "published": "2026-03-06T06:47:29",
-      "image": "data/images/bde6e2ea2dee8849696399da052d185c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A tool that removes censorship from open-weight LLMs",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "published": "2026-03-06T14:27:55",
-      "image": "https://opengraph.githubassets.com/ff52e5fa1e8a994dfceaf30b85aac37f81ff525f87842c2bf8bde4c1dd8139f5/elder-plinius/OBLITERATUS",
+      "title": "My application programmer instincts failed when debugging assembler",
+      "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+      "published": "2026-03-05T17:43:33",
+      "image": "https://landedstar.com/blog/img/posts/app_brain_breaking_on_assembler.png",
       "summary": "Summary unavailable."
     }
   ],
