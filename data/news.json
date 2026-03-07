@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T20:19:22.568810",
+  "updated": "2026-03-07T00:54:42.188451",
   "articles": [
     {
       "source": "RSS",
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
       "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
       "published": "Fri, 06 Mar 2026 18:56:10 GMT",
-      "image": "data/images/317e6a24a02997cfa4685999a55680dc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,44 +139,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The worst acquisition in history, again",
+      "url": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
+      "published": "2026-03-06T21:07:43",
+      "image": "https://substackcdn.com/image/fetch/$s_!AP1G!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d892c3-49c7-489b-829c-20b7f5aa40be_1920x1080.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A tool that removes censorship from open-weight LLMs",
       "url": "https://github.com/elder-plinius/OBLITERATUS",
       "published": "2026-03-06T14:27:55",
-      "image": "https://opengraph.githubassets.com/bb5235abe8ee2274cd57a6180d73987ee06052270b628acded6d8cb577736e4c/elder-plinius/OBLITERATUS",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
-      "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
-      "published": "2026-03-06T15:33:17",
-      "image": "data/images/00c5bba501b2ddf0c91e67eb6ebd2b79.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: A trainable, modular electronic nose for industrial use",
-      "url": "https://sniphi.com/",
-      "published": "2026-03-03T16:34:26",
-      "image": "data/images/0d9603178606a73974de01f8cf2a7903.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We might all be AI engineers now",
-      "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-      "published": "2026-03-06T09:13:30",
-      "image": "https://yasint.dev/og/yasintdev-primary-og.png",
+      "image": "https://opengraph.githubassets.com/5ccba5c21e160c8367a662c7d1e33b5ef4e8ded8b65ffac3c342fc3ff970ba80/elder-plinius/OBLITERATUS",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-06",
+    "date": "2026-03-07",
     "speakers": [
       "Alex",
       "Jordan"
