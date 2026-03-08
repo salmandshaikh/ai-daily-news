@@ -1,15 +1,6 @@
 {
-  "updated": "2026-03-08T05:05:40.402783",
+  "updated": "2026-03-08T08:17:25.741186",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "image": "data/images/7257f3a363dcea23cf4dee52ee13a89a.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,6 +8,15 @@
       "url": "https://openai.com/index/codex-security-now-in-research-preview",
       "published": "Fri, 06 Mar 2026 10:00:00 GMT",
       "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "image": "data/images/7257f3a363dcea23cf4dee52ee13a89a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -31,19 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
+      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
+      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "They all said Hormuz closure would be brief. What if they were wrong?",
-      "url": "https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong",
-      "published": "2026-03-08T01:46:05",
-      "image": "https://www.lloydslist.com/-/media/lloyds-list/images/flags/2026-new-pictures/us-iran-chess-pieces-by-adobe.png?rev=b3c4116ee8d149c68018c5dd0a0d7feb",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "\"Warn about PyPy being unmaintained\"",
       "url": "https://github.com/astral-sh/uv/pull/17643",
       "published": "2026-03-08T01:35:21",
-      "image": "https://opengraph.githubassets.com/a7c3e32ce5c10a983fd362a0d6820b5b2ffddd24c0280dcca36daed2f90310be/astral-sh/uv/pull/17643",
+      "image": "https://opengraph.githubassets.com/9e5d2f3286ceb14ee4ac9b15c3bdc9405aef6b3aeaa7f7e602b9b2381119a994/astral-sh/uv/pull/17643",
       "summary": "Summary unavailable."
     },
     {
@@ -169,7 +160,7 @@
       "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published": "2026-03-07T20:22:45",
-      "image": "https://opengraph.githubassets.com/0b6da6640d438e7a03379b6f9f3b01a40087788bad16b499344c07c551b01976/karpathy/autoresearch",
+      "image": "https://opengraph.githubassets.com/c41bf820d811d802d28880c2ae5206ae9aab060cc2a9e8a2d7c2d44ad81d7d55/karpathy/autoresearch",
       "summary": "Summary unavailable."
     },
     {
