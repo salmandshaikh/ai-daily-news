@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T08:17:25.741186",
+  "updated": "2026-03-08T12:21:35.786942",
   "articles": [
     {
       "source": "RSS",
@@ -25,16 +25,7 @@
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
+      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,6 +35,15 @@
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
       "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "published": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"Warn about PyPy being unmaintained\"",
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+      "url": "https://arxiv.org/abs/2603.03823",
+      "published": "2026-03-08T08:11:50",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "published": "2026-03-04T15:42:49",
+      "image": "https://www.rijksmuseum.nl/assets/b90d19e5-efd0-4fca-b717-95be8c403a6f?w=1200&h=630&fx=2845&fy=5186&c=84f25f45c28f65f19b492626067bae8d243656de852829122cf4b1f50d7abee6",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Warn about PyPy being unmaintained",
       "url": "https://github.com/astral-sh/uv/pull/17643",
       "published": "2026-03-08T01:35:21",
-      "image": "https://opengraph.githubassets.com/9e5d2f3286ceb14ee4ac9b15c3bdc9405aef6b3aeaa7f7e602b9b2381119a994/astral-sh/uv/pull/17643",
+      "image": "https://opengraph.githubassets.com/f7c22ad55331a8ec82e35ec72c7ac2096fdf54c592e26d0f2c124d60857ef89c/astral-sh/uv/pull/17643",
       "summary": "Summary unavailable."
     },
     {
@@ -160,16 +178,7 @@
       "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
       "published": "2026-03-07T20:22:45",
-      "image": "https://opengraph.githubassets.com/c41bf820d811d802d28880c2ae5206ae9aab060cc2a9e8a2d7c2d44ad81d7d55/karpathy/autoresearch",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM Writing Tropes.md",
-      "url": "https://tropes.fyi/tropes-md",
-      "published": "2026-03-07T21:08:40",
-      "image": "data/images/46020199cb2ddeae1a5ef51aedd62e08.png",
+      "image": "https://opengraph.githubassets.com/436eec7a49acefc6405149453078cb6298018c1d3e51c14dcbd5d1f34d9aa68b/karpathy/autoresearch",
       "summary": "Summary unavailable."
     }
   ],
