@@ -1,15 +1,6 @@
 {
-  "updated": "2026-03-08T12:21:35.786942",
+  "updated": "2026-03-08T16:14:57.284441",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Codex Security: now in research preview",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -17,6 +8,15 @@
       "url": "https://openai.com/index/descript",
       "published": "Fri, 06 Mar 2026 10:00:00 GMT",
       "image": "data/images/7257f3a363dcea23cf4dee52ee13a89a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -31,19 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
+      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
+      "image": "data/images/357f017b49ed56760963bfd54663f5e3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Living Human Brain Cells Play Doom on a CL1",
+      "url": "https://corticallabs.com/doom.html",
+      "published": "2026-03-08T15:07:28",
+      "image": "https://corticallabs.com/images/c-share.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
       "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
       "published": "2026-03-04T15:42:49",
@@ -157,10 +166,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Some Words on WigglyPaint",
+      "url": "https://beyondloom.com/blog/onwigglypaint.html",
+      "published": "2026-03-07T01:21:47",
+      "image": "data/images/f210bf4fe3b3f374444a6e711f8c2397.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Warn about PyPy being unmaintained",
       "url": "https://github.com/astral-sh/uv/pull/17643",
       "published": "2026-03-08T01:35:21",
-      "image": "https://opengraph.githubassets.com/f7c22ad55331a8ec82e35ec72c7ac2096fdf54c592e26d0f2c124d60857ef89c/astral-sh/uv/pull/17643",
+      "image": "https://opengraph.githubassets.com/f94def5ac9d3823b07e51f8d30d1a3952d288af1948eaea65054c5d91b0c0b66/astral-sh/uv/pull/17643",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
+      "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
+      "published": "2026-03-08T15:37:32",
+      "image": "https://www.cio.com/wp-content/uploads/2026/01/4125103-0-94363300-1769794492-shutterstock_2641258125.jpg?quality=50&strip=all&w=1024",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+      "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+      "published": "2026-03-05T07:36:22",
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/Phi4-TWLIFB-1200x627-1.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,16 +205,7 @@
       "title": "A decade of Docker containers",
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
       "published": "2026-03-07T16:55:18",
-      "image": "data/images/e179e09dba62fe95738997bdd9fc6bd7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch",
-      "published": "2026-03-07T20:22:45",
-      "image": "https://opengraph.githubassets.com/436eec7a49acefc6405149453078cb6298018c1d3e51c14dcbd5d1f34d9aa68b/karpathy/autoresearch",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
