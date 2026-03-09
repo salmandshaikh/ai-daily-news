@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T08:35:55.215363",
+  "updated": "2026-03-09T12:31:40.719961",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,10 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The death of social media is the renaissance of RSS (2025)",
-      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-      "published": "2026-03-09T04:27:59",
-      "image": "data/images/828727c23028fff1a08a288c124f44b2.png",
+      "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+      "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+      "published": "2026-03-09T10:28:08",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I love email (2023)",
+      "url": "https://blog.xoria.org/email/",
+      "published": "2026-03-05T17:37:13",
+      "image": "data/images/7e862a1fb311485c251aaec88b5b40e3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -161,6 +170,24 @@
       "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
       "published": "2026-03-08T15:07:28",
       "image": "data/images/9768a1d98a24433c69f1c54b90f10575.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia backs AI data center startup Nscale as it hits $14.6B valuation",
+      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
+      "published": "2026-03-09T10:58:15",
+      "image": "https://image.cnbcfm.com/api/v1/image/108200081-1758127125364-nascale-49421.jpg?v=1758127204&w=1920&h=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The death of social media is the renaissance of RSS (2025)",
+      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+      "published": "2026-03-09T04:27:59",
+      "image": "data/images/828727c23028fff1a08a288c124f44b2.png",
       "summary": "Summary unavailable."
     }
   ],
