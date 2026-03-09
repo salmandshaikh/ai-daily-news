@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T20:02:41.397571",
+  "updated": "2026-03-09T00:58:26.288573",
   "articles": [
     {
       "source": "RSS",
@@ -144,48 +144,12 @@
       "published": "2026-03-08T15:07:28",
       "image": "data/images/9768a1d98a24433c69f1c54b90f10575.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM Writing Tropes.md",
-      "url": "https://tropes.fyi/tropes-md",
-      "published": "2026-03-07T21:08:40",
-      "image": "data/images/46020199cb2ddeae1a5ef51aedd62e08.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-      "published": "2026-03-04T15:42:49",
-      "image": "https://www.rijksmuseum.nl/assets/b90d19e5-efd0-4fca-b717-95be8c403a6f?w=1200&h=630&fx=2845&fy=5186&c=84f25f45c28f65f19b492626067bae8d243656de852829122cf4b1f50d7abee6",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-      "url": "https://arxiv.org/abs/2603.03823",
-      "published": "2026-03-08T08:11:50",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Claude struggles to cope with ChatGPT exodus",
-      "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
-      "published": "2026-03-08T17:14:53",
-      "image": "data/images/1356307f4c993b7c1de209574df74c4e.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-08",
+    "date": "2026-03-09",
     "speakers": [
       "Alex",
       "Jordan"
