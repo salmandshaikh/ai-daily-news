@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T05:15:32.877699",
+  "updated": "2026-03-09T08:35:55.215363",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6bd201a17633d2e59da865a97967ed25.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Death of Social Media Is the Renaissance of RSS",
+      "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+      "published": "2026-03-09T06:28:02",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The death of social media is the renaissance of RSS (2025)",
       "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
       "published": "2026-03-09T04:27:59",
-      "image": "data/images/cc508aeafb5567d8b3c96cf9b6b1a1dd.png",
+      "image": "data/images/828727c23028fff1a08a288c124f44b2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -152,15 +161,6 @@
       "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
       "published": "2026-03-08T15:07:28",
       "image": "data/images/9768a1d98a24433c69f1c54b90f10575.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
-      "url": "https://quesma.com/blog/chromatron-recompiled/",
-      "published": "2026-03-07T12:56:43",
-      "image": "https://quesma.com/_astro/chromatron_cursor_ghidra.CRYzmwKK.png",
       "summary": "Summary unavailable."
     }
   ],
