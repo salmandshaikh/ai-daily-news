@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T00:58:26.288573",
+  "updated": "2026-03-09T05:15:32.877699",
   "articles": [
     {
       "source": "RSS",
@@ -31,10 +31,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
+      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The Death of Social Media Is the Renaissance of RSS",
+      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+      "published": "2026-03-09T04:27:59",
+      "image": "data/images/cc508aeafb5567d8b3c96cf9b6b1a1dd.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Living human brain cells play DOOM on a CL1 [video]",
       "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
       "published": "2026-03-08T15:07:28",
       "image": "data/images/9768a1d98a24433c69f1c54b90f10575.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
+      "url": "https://quesma.com/blog/chromatron-recompiled/",
+      "published": "2026-03-07T12:56:43",
+      "image": "https://quesma.com/_astro/chromatron_cursor_ghidra.CRYzmwKK.png",
       "summary": "Summary unavailable."
     }
   ],
