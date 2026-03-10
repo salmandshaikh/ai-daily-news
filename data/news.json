@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T20:20:17.886580",
+  "updated": "2026-03-10T00:53:43.708826",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "OpenAI to acquire Promptfoo",
       "url": "https://openai.com/index/openai-to-acquire-promptfoo",
       "published": "Mon, 09 Mar 2026 10:00:00 GMT",
-      "image": "data/images/ea90eb31e97e2a7c539c15b80ca42641.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,42 +139,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-      "url": "https://fixfest.therestartproject.org/",
-      "published": "2026-03-09T17:34:27",
-      "image": "data/images/4f493445e9d21f445771f513d8cddef7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
-      "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
-      "published": "2026-03-09T16:41:54",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
-      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "published": "2026-03-09T06:28:02",
-      "image": "data/images/bde0723c478e4243b65e341086b10347.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Algebraic topology: knots links and braids",
-      "url": "https://aeb.win.tue.nl/at/algtop-5.html",
-      "published": "2026-03-09T14:28:43",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
       "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
       "published": "2026-03-09T15:12:53",
@@ -184,17 +148,35 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Grammarly is offering \u2018expert\u2019 AI reviews from famous dead and living writers",
-      "url": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
-      "published": "2026-03-05T09:04:16",
-      "image": "https://media.wired.com/photos/69a72224fed0d8b129f5a806/191:100/w_1280,c_limit/Grammarly-Making-LLMs-Based-on-Dead-Academics-Culture-1473977398.jpg",
+      "title": "The first airplane fatality",
+      "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+      "published": "2026-03-09T20:32:45",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-dtWAyvXNrD6gc_jWH3iwpbwmkv1ebPVlRUkknxhMmc2hbYtbqXhO6mSvgcdQ4XJp6QScQS6A5QhrN8AXLkYLzR6VJatHRW8Ti3iUie9Kxm9FfCppRdGCStbe2AxtKHJ7PZ_e9xTebPr4VWIV_E_BWBe-wnVahGKnrWpKEx1JN9yjpNwNWxlntgc1iQ/w600-h314-p-k-no-nu/thomas-selfridge-5.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+      "url": "https://fixfest.therestartproject.org/",
+      "published": "2026-03-09T17:34:27",
+      "image": "data/images/4f493445e9d21f445771f513d8cddef7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Iran's attacks on Amazon data centers in UAE, Bahrain signal a new kind of war",
+      "url": "https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/",
+      "published": "2026-03-10T00:11:48",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2263653941_e6749d-e1773072880410.jpg?resize=1200,600",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-09",
+    "date": "2026-03-10",
     "speakers": [
       "Alex",
       "Jordan"
