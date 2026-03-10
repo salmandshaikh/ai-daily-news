@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T12:31:04.087760",
+  "updated": "2026-03-10T16:44:25.871134",
   "articles": [
     {
       "source": "RSS",
@@ -8,15 +8,6 @@
       "url": "https://openai.com/index/openai-to-acquire-promptfoo",
       "published": "Mon, 09 Mar 2026 10:00:00 GMT",
       "image": "data/images/ea90eb31e97e2a7c539c15b80ca42641.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Codex Security: now in research preview",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -31,6 +22,15 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "url": "https://openai.com/index/balyasny-asset-management",
       "published": "Fri, 06 Mar 2026 07:00:00 GMT",
@@ -40,10 +40,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
       "published": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "image": "data/images/fd6e8699dd982bed9a520b1f7a3db3f0.png",
+      "image": "data/images/33d51bc2f7811b1e4b8c637e3cd83805.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "published": "Mon, 09 Mar 2026 13:52:36 +0000",
+      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,16 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Accelerating discovery in India through AI-powered science and education",
-      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
-      "published": "Tue, 17 Feb 2026 13:42:20 +0000",
-      "image": "data/images/c2cf86c539c5a1083355f298d7085036.png",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,37 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "published": "2026-03-10T08:54:53",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "published": "2026-03-10T14:53:13",
+      "image": "data/images/cd4c7ef9ebafaf54abfe15d288dbfa11.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Gervais Principle, or the Office According to \"The Office\"",
+      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+      "url": "https://dnhkng.github.io/posts/rys/",
+      "published": "2026-03-10T13:18:55",
+      "image": "data/images/151c3242677935f6b706f002e8a51df7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
       "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
       "published": "2026-03-07T11:28:37",
-      "image": "data/images/cea554c3db5b4e34035692eef2089012.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "TCXO Failure Analysis",
-      "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
-      "published": "2026-03-07T04:49:38",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "published": "2026-03-09T15:12:53",
-      "image": "data/images/9a571d4182f2eefa648f056454abdfa7.png",
+      "image": "data/images/c160523eb85c1a3eb73aa8518d5d6461.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,10 +175,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Learnings from paying artists royalties for AI-generated art",
-      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-      "published": "2026-03-10T02:24:52",
-      "image": "https://www.kapwing.com/blog/content/images/2026/03/A_brunette_woman_in_a_red_top_in_front_of_a_white_wall_1_V4-1.png",
+      "title": "A Million Pixels \u2013 a collaborative AI art canvas",
+      "url": "https://www.amillionpixels.ai/",
+      "published": "2026-03-10T11:05:33",
+      "image": "https://www.amillionpixels.ai/opengraph-image?d0d6991516f1a11a",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+      "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
+      "published": "2026-03-10T15:01:35",
+      "image": "data/images/1a9da5e843eee42794947f8ab3266745.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+      "url": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
+      "published": "2026-03-10T11:58:36",
+      "image": "data/images/f2c9ba23e53e5b1a2cbfb43619f93899.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "TCXO Failure Analysis",
+      "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+      "published": "2026-03-07T04:49:38",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+      "published": "2026-03-10T08:54:53",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
