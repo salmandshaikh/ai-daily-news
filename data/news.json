@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T20:21:23.657969",
+  "updated": "2026-03-11T00:55:10.769269",
   "articles": [
     {
       "source": "RSS",
@@ -151,7 +151,16 @@
       "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
       "url": "https://github.com/RunanywhereAI/rcli",
       "published": "2026-03-10T17:14:52",
-      "image": "https://opengraph.githubassets.com/8c8738193ba4c54295e2ab50c481b1f4618914a6d3df88e986f84c051fd882bc/RunanywhereAI/RCLI",
+      "image": "https://opengraph.githubassets.com/2cedea07a3c1446e477f777195939ff0d9f361f6a48b3b933c56b4adfc32cffb/RunanywhereAI/RCLI",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+      "published": "2026-03-10T22:33:48",
+      "image": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine/_jcr_content/cq:socialfeaturedimage.coreimg.jpeg/1772045355839/Pulendran-universal-vax-social.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,25 +178,7 @@
       "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
       "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
       "published": "2026-03-10T08:54:53",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Open Weights isn't Open Training",
-      "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
-      "published": "2026-03-09T23:37:08",
-      "image": "https://workshoplabs-site.vercel.app/blog/images/canyons.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
-      "url": "https://dnhkng.github.io/posts/rys/",
-      "published": "2026-03-10T13:18:55",
-      "image": "data/images/151c3242677935f6b706f002e8a51df7.png",
+      "image": "data/images/24d747d1eaf6de877c84aff638cb769c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -202,26 +193,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Surpassing vLLM with a Generated Inference Stack",
-      "url": "https://infinity.inc/case-studies/qwen3-optimization",
-      "published": "2026-03-10T15:12:52",
-      "image": "data/images/17f7d857230a3330a630c3fb0f33c571.png",
+      "title": "Networking with agents: Put them in the right conversations with Tailscale",
+      "url": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
+      "published": "2026-03-10T18:38:44",
+      "image": "https://blog.firetiger.com/content/images/size/w1200/2026/03/Generated-Image-March-10--2026---11_05AM.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Gervais Principle, or the Office According to \u201cThe Office\u201d (2009)",
-      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-      "published": "2026-03-07T11:28:37",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+      "url": "https://dnhkng.github.io/posts/rys/",
+      "published": "2026-03-10T13:18:55",
+      "image": "data/images/151c3242677935f6b706f002e8a51df7.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-10",
+    "date": "2026-03-11",
     "speakers": [
       "Alex",
       "Jordan"
