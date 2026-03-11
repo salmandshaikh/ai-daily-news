@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T08:27:02.089931",
+  "updated": "2026-03-11T12:30:56.868305",
   "articles": [
     {
       "source": "RSS",
@@ -25,16 +25,7 @@
       "title": "OpenAI to acquire Promptfoo",
       "url": "https://openai.com/index/openai-to-acquire-promptfoo",
       "published": "Mon, 09 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "image": "data/images/7257f3a363dcea23cf4dee52ee13a89a.png",
+      "image": "data/images/ea90eb31e97e2a7c539c15b80ca42641.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,6 +35,15 @@
       "url": "https://openai.com/index/codex-security-now-in-research-preview",
       "published": "Fri, 06 Mar 2026 10:00:00 GMT",
       "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
+      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "image": "data/images/7257f3a363dcea23cf4dee52ee13a89a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,7 @@
       "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
       "url": "https://github.com/gcv/julia-snail",
       "published": "2026-03-08T09:27:34",
-      "image": "https://opengraph.githubassets.com/62fbe62d5f29a23fc33989f50177e8fa967cfa5d26bb301c760573e7c4311675/gcv/julia-snail",
+      "image": "https://opengraph.githubassets.com/f0c837d88c1be77dc5e4013e907f18c8634dc6368d4e8d42f849396e99449f8a/gcv/julia-snail",
       "summary": "Summary unavailable."
     },
     {
@@ -157,19 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Writing my own text editor, and daily-driving it",
-      "url": "https://blog.jsbarretto.com/post/text-editor",
-      "published": "2026-03-11T02:04:22",
-      "image": "data/images/6479826d063eac32f4041f466484f051.png",
+      "title": "When the chain becomes the product: Seven years inside a token-funded venture",
+      "url": "https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/",
+      "published": "2026-03-08T08:37:02",
+      "image": "https://markmhendrickson.com/images/posts/when-the-chain-becomes-the-product-hero.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
-      "url": "https://github.com/RunanywhereAI/rcli",
-      "published": "2026-03-10T17:14:52",
-      "image": "https://opengraph.githubassets.com/932d0e07a87f7ff0ea7516febbdd11a9fcf1625497a09e9cb90dbc97e631fb61/RunanywhereAI/RCLI",
+      "title": "Writing my own text editor, and daily-driving it",
+      "url": "https://blog.jsbarretto.com/post/text-editor",
+      "published": "2026-03-11T02:04:22",
+      "image": "data/images/6479826d063eac32f4041f466484f051.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,10 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Surpassing vLLM with a Generated Inference Stack",
-      "url": "https://infinity.inc/case-studies/qwen3-optimization",
-      "published": "2026-03-10T15:12:52",
-      "image": "data/images/17f7d857230a3330a630c3fb0f33c571.png",
+      "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli",
+      "published": "2026-03-10T17:14:52",
+      "image": "https://opengraph.githubassets.com/b077365258255a1999895bb05138c7aaf8f8c0f25d8e2e7818a1fe3b1e5d3c18/RunanywhereAI/RCLI",
       "summary": "Summary unavailable."
     },
     {
@@ -206,6 +206,15 @@
       "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
       "published": "2026-03-08T01:20:05",
       "image": "data/images/0e5b42ad6c7b98de23dbdd0ae8c9be8c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Surpassing vLLM with a Generated Inference Stack",
+      "url": "https://infinity.inc/case-studies/qwen3-optimization",
+      "published": "2026-03-10T15:12:52",
+      "image": "data/images/17f7d857230a3330a630c3fb0f33c571.png",
       "summary": "Summary unavailable."
     }
   ],
