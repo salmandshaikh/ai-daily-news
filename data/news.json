@@ -1,6 +1,42 @@
 {
-  "updated": "2026-03-11T16:38:18.213167",
+  "updated": "2026-03-11T20:22:16.472352",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "url": "https://openai.com/index/rakuten",
+      "published": "Wed, 11 Mar 2026 13:00:00 GMT",
+      "image": "data/images/0edeae007b04eb13005a56e89652ed0f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Designing AI agents to resist prompt injection",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,42 +44,6 @@
       "url": "https://openai.com/index/instruction-hierarchy-challenge",
       "published": "Tue, 10 Mar 2026 11:00:00 GMT",
       "image": "data/images/c58ec1b97d5c75ab5899797a4d0fa6f3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "New ways to learn math and science in ChatGPT",
-      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-      "published": "Tue, 10 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI to acquire Promptfoo",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "published": "Mon, 09 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Codex Security: now in research preview",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cecbe698e79fbd98bd8e269b4929c1e2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
-      "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-      "image": "data/images/7257f3a363dcea23cf4dee52ee13a89a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
       "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
       "published": "Wed, 11 Mar 2026 15:50:15 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/00ecd65fe77aa8d106c130226eccb33f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,46 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published": "2026-03-11T19:29:29",
+      "image": "data/images/086a2f186851440efb9059569b6da343.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
       "url": "https://github.com/microsoft/BitNet",
       "published": "2026-03-11T12:27:15",
-      "image": "https://opengraph.githubassets.com/08334129bc68e1fc3bc0f4e8cd44301d6b95116f58a325b1dab4f3a18e441937/microsoft/BitNet",
+      "image": "https://opengraph.githubassets.com/1ecd7ba3d64faa7123a79c8e2087da5d5b45761f7f8c32a1ca040ec0a93ea23e/microsoft/BitNet",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Sentrial (YC W26) \u2013 Catch AI Agent Failures Before Your Users Do",
-      "url": "https://www.sentrial.com/",
-      "published": "2026-03-11T16:24:17",
-      "image": "data/images/7b1a98d348f592b487a68595a2887a33.png",
+      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+      "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+      "published": "2026-03-10T05:58:56",
+      "image": "https://assets.newatlas.com/dims4/default/99fb56b/2147483647/strip/true/crop/1024x538+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2F37%2Ffacdf5694b49bdbaec47d6bb9f29%2Fscreenshot-2025-12-16-at-2-17-29-pm.png&na.image_optimisation=0",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Faster asin() was hiding in plain sight",
-      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-      "published": "2026-03-11T14:35:53",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Agent Hacks McKinsey",
-      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-      "published": "2026-03-11T09:59:03",
-      "image": "https://codewall.ai/images/database-scale-og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
-      "url": "https://peppy.bot/",
-      "published": "2026-03-08T10:46:56",
-      "image": "https://peppy.bot/og-default.svg",
+      "title": "I Was Interviewed by an AI Bot for a Job",
+      "url": "https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "published": "2026-03-11T18:17:30",
+      "image": "http://schwarztech.net/schwarztech.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,37 +184,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-      "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
-      "published": "2026-03-11T13:52:01",
-      "image": "data/images/1de46908087ebe445ff23108a6f09ba2.png",
+      "title": "How we hacked McKinsey's AI platform",
+      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+      "published": "2026-03-11T09:59:03",
+      "image": "https://codewall.ai/images/database-scale-og.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Writing my own text editor, and daily-driving it",
-      "url": "https://blog.jsbarretto.com/post/text-editor",
-      "published": "2026-03-11T02:04:22",
-      "image": "data/images/6479826d063eac32f4041f466484f051.png",
+      "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
+      "url": "https://fuelingcuriosity.com/game.html",
+      "published": "2026-03-11T16:56:51",
+      "image": "data/images/a7e0235612992b13e7775dfe9cb8a2bd.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "published": "2026-03-10T08:46:53",
-      "image": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg",
+      "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
+      "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+      "published": "2026-03-11T12:57:41",
+      "image": "https://regmedia.co.uk/2020/02/12/swiss_shutterstock.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
-      "url": "https://github.com/gcv/julia-snail",
-      "published": "2026-03-08T09:27:34",
-      "image": "https://opengraph.githubassets.com/f6b1c1311dd3bdcf099523ec31b26eeb78236393d41bd51d895db53576bee731/gcv/julia-snail",
+      "title": "Launch HN: Sentrial (YC W26) \u2013 Catch AI agent failures before your users do",
+      "url": "https://www.sentrial.com/",
+      "published": "2026-03-11T16:24:17",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Faster asin() was hiding in plain sight",
+      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "published": "2026-03-11T14:35:53",
+      "image": "data/images/c750bbcbd1c00227acd17d20bfd67dd7.png",
       "summary": "Summary unavailable."
     }
   ],
