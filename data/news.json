@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T00:55:10.769269",
+  "updated": "2026-03-11T05:06:21.698618",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "New ways to learn math and science in ChatGPT",
       "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
       "published": "Tue, 10 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/54edd856846e439d5fea0183e27e830f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
+      "url": "https://github.com/gcv/julia-snail",
+      "published": "2026-03-08T09:27:34",
+      "image": "https://opengraph.githubassets.com/c0dc1ac5d701222783061f74e9a7c6491d1dfdfa6dc558dfd0e7b345efdc94bf/gcv/julia-snail",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "published": "2026-03-10T08:46:53",
@@ -148,19 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
-      "url": "https://github.com/RunanywhereAI/rcli",
-      "published": "2026-03-10T17:14:52",
-      "image": "https://opengraph.githubassets.com/2cedea07a3c1446e477f777195939ff0d9f361f6a48b3b933c56b4adfc32cffb/RunanywhereAI/RCLI",
+      "title": "Writing my own text editor, and daily-driving it",
+      "url": "https://blog.jsbarretto.com/post/text-editor",
+      "published": "2026-03-11T02:04:22",
+      "image": "data/images/6479826d063eac32f4041f466484f051.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Universal vaccine against respiratory infections and allergens",
-      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-      "published": "2026-03-10T22:33:48",
-      "image": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine/_jcr_content/cq:socialfeaturedimage.coreimg.jpeg/1772045355839/Pulendran-universal-vax-social.jpeg",
+      "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli",
+      "published": "2026-03-10T17:14:52",
+      "image": "https://opengraph.githubassets.com/1289468deb31fcfa0f43b41fe45f4b5f9212d36ea7e6c0cec93e149fd8f954b8/RunanywhereAI/RCLI",
       "summary": "Summary unavailable."
     },
     {
@@ -175,10 +184,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "published": "2026-03-10T08:54:53",
-      "image": "data/images/24d747d1eaf6de877c84aff638cb769c.png",
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+      "published": "2026-03-10T22:33:48",
+      "image": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine/_jcr_content/cq:socialfeaturedimage.coreimg.jpeg/1772045355839/Pulendran-universal-vax-social.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Roblox is minting teen millionaires",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
+      "published": "2026-03-08T01:20:05",
+      "image": "data/images/0e5b42ad6c7b98de23dbdd0ae8c9be8c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
+      "url": "https://dnhkng.github.io/posts/rys/",
+      "published": "2026-03-10T13:18:55",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -193,19 +220,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Networking with agents: Put them in the right conversations with Tailscale",
-      "url": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
-      "published": "2026-03-10T18:38:44",
-      "image": "https://blog.firetiger.com/content/images/size/w1200/2026/03/Generated-Image-March-10--2026---11_05AM.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
-      "url": "https://dnhkng.github.io/posts/rys/",
-      "published": "2026-03-10T13:18:55",
-      "image": "data/images/151c3242677935f6b706f002e8a51df7.png",
+      "title": "Open Weights isn't Open Training",
+      "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
+      "published": "2026-03-09T23:37:08",
+      "image": "https://workshoplabs-site.vercel.app/blog/images/canyons.png",
       "summary": "Summary unavailable."
     }
   ],
