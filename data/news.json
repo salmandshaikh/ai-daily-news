@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T00:51:40.100297",
+  "updated": "2026-03-12T05:10:53.630058",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,16 +88,16 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-      "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-      "published": "Wed, 11 Mar 2026 15:50:15 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+      "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+      "published": "Thu, 12 Mar 2026 03:53:34 GMT",
+      "image": "data/images/b8f68121bda5f09b140d74ca999d4d82.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "2026-03-12T03:29:28",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/03/handala-stryker.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published": "2026-03-11T19:29:29",
-      "image": "data/images/086a2f186851440efb9059569b6da343.png",
+      "image": "data/images/e719b3c21f39f8e59ea1b7eb7828d503.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,6 +166,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "url": "https://github.com/microsoft/BitNet",
+      "published": "2026-03-11T12:27:15",
+      "image": "https://opengraph.githubassets.com/4dedd36e7185f292f654e441cdce5f6c4f807237062f82e3ba63210709f3425f/microsoft/BitNet",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "CNN Explainer \u2013 Learn Convolutional Neural Network in Your Browser (2020)",
       "url": "https://poloclub.github.io/cnn-explainer/",
       "published": "2026-03-08T11:22:42",
@@ -166,37 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "url": "https://github.com/microsoft/BitNet",
-      "published": "2026-03-11T12:27:15",
-      "image": "https://opengraph.githubassets.com/1fb93a3bb9bdad9b9aec697d38d299b152f5f7f2bd44dc50dde7eabab7430ebb/microsoft/BitNet",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
       "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
       "published": "2026-03-10T05:58:56",
       "image": "https://assets.newatlas.com/dims4/default/99fb56b/2147483647/strip/true/crop/1024x538+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2F37%2Ffacdf5694b49bdbaec47d6bb9f29%2Fscreenshot-2025-12-16-at-2-17-29-pm.png&na.image_optimisation=0",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Preliminary data from a longitudinal AI impact study",
-      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-      "published": "2026-03-11T21:23:24",
-      "image": "https://substackcdn.com/image/fetch/$s_!F4Wk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7cd1c8d-f654-4c77-8c46-75bbd1dfa640_4000x2800.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Against vibes: When is a generative model useful",
-      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-      "published": "2026-03-10T19:59:39",
-      "image": "data/images/0094246430b66e958168eeb695085690.png",
       "summary": "Summary unavailable."
     },
     {
@@ -220,10 +211,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How we hacked McKinsey's AI platform",
-      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-      "published": "2026-03-11T09:59:03",
-      "image": "https://codewall.ai/images/database-scale-og.png",
+      "title": "Against vibes: When is a generative model useful",
+      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+      "published": "2026-03-10T19:59:39",
+      "image": "data/images/0094246430b66e958168eeb695085690.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Preliminary data from a longitudinal AI impact study",
+      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+      "published": "2026-03-11T21:23:24",
+      "image": "https://substackcdn.com/image/fetch/$s_!F4Wk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7cd1c8d-f654-4c77-8c46-75bbd1dfa640_4000x2800.png",
       "summary": "Summary unavailable."
     }
   ],
