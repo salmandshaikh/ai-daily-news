@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T05:10:53.630058",
+  "updated": "2026-03-12T08:28:46.546337",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "2026-03-12T03:29:28",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/03/handala-stryker.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "published": "2026-03-11T19:29:29",
-      "image": "data/images/e719b3c21f39f8e59ea1b7eb7828d503.png",
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "published": "2026-03-12T06:06:46",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -166,19 +157,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "url": "https://github.com/microsoft/BitNet",
-      "published": "2026-03-11T12:27:15",
-      "image": "https://opengraph.githubassets.com/4dedd36e7185f292f654e441cdce5f6c4f807237062f82e3ba63210709f3425f/microsoft/BitNet",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published": "2026-03-11T19:29:29",
+      "image": "data/images/e719b3c21f39f8e59ea1b7eb7828d503.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CNN Explainer \u2013 Learn Convolutional Neural Network in Your Browser (2020)",
-      "url": "https://poloclub.github.io/cnn-explainer/",
-      "published": "2026-03-08T11:22:42",
-      "image": "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png",
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "2026-03-12T03:29:28",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/03/handala-stryker.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "url": "https://github.com/microsoft/BitNet",
+      "published": "2026-03-11T12:27:15",
+      "image": "https://opengraph.githubassets.com/789ce376ac45c9160603dd1c163a381e14f5bb574e22c3fee7b5a8e28453ee77/microsoft/BitNet",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Faster asin() was hiding in plain sight",
+      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "published": "2026-03-11T14:35:53",
+      "image": "data/images/c750bbcbd1c00227acd17d20bfd67dd7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,37 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-      "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-      "published": "2026-03-11T21:06:06",
-      "image": "https://dims.apnews.com/dims4/default/d7953a7/2147483647/strip/true/crop/6263x4173+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Ff4%2F27b69d7e801eaf5094d31ea80a66%2Ff8acdd66bdac4f22af88c727ef6a9d61",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
-      "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
-      "published": "2026-03-11T12:57:41",
-      "image": "https://regmedia.co.uk/2020/02/12/swiss_shutterstock.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Against vibes: When is a generative model useful",
       "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
       "published": "2026-03-10T19:59:39",
       "image": "data/images/0094246430b66e958168eeb695085690.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Preliminary data from a longitudinal AI impact study",
-      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-      "published": "2026-03-11T21:23:24",
-      "image": "https://substackcdn.com/image/fetch/$s_!F4Wk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7cd1c8d-f654-4c77-8c46-75bbd1dfa640_4000x2800.png",
       "summary": "Summary unavailable."
     }
   ],
