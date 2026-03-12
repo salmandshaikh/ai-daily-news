@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T12:29:34.024797",
+  "updated": "2026-03-12T16:47:24.655085",
   "articles": [
     {
       "source": "RSS",
@@ -139,19 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Are LLMs not getting better?",
-      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "published": "2026-03-12T11:49:05",
-      "image": "data/images/e5fda3a70772ea535f5e7462ea3f2541.png",
+      "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
+      "url": "https://codespeak.dev/",
+      "published": "2026-03-12T14:22:43",
+      "image": "https://codespeak.dev/opengraph-image?85ad0ffb0f3838a8",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Returning to Rails in 2026",
-      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-      "published": "2026-03-12T06:06:46",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Atlassian CEO: AI doesn't replace people here, but we're firing them anyway",
+      "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html",
+      "published": "2026-03-12T15:36:53",
+      "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/4/4/2/0/9/shutterstock_1225785334-22b9792981850e08.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I was interviewed by an AI bot for a job",
-      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "published": "2026-03-11T18:17:30",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Artboard-1-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "published": "2026-03-12T06:06:46",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
+      "url": "https://github.com/obsessiondb/rudel",
+      "published": "2026-03-12T13:41:12",
+      "image": "https://opengraph.githubassets.com/b59d5a4e07daa4d164c9dcf590658c8d7ea70abd45689c4f3ab2ea82327a7fda/obsessiondb/rudel",
       "summary": "Summary unavailable."
     },
     {
@@ -184,19 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Faster asin() was hiding in plain sight",
-      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-      "published": "2026-03-11T14:35:53",
-      "image": "data/images/c750bbcbd1c00227acd17d20bfd67dd7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "BitNet: Inference framework for 1-bit LLMs",
-      "url": "https://github.com/microsoft/BitNet",
-      "published": "2026-03-11T12:27:15",
-      "image": "https://opengraph.githubassets.com/67f41c35698f66a1acab8882eadf3a1d84fc31159e04a91d889b2118086ebba7/microsoft/BitNet",
+      "title": "ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available",
+      "url": "https://www.arcanoae.com/arcaos-5-1-2-now-available/",
+      "published": "2026-03-12T13:27:19",
+      "image": "data/images/29faa34f6cdbc138353ae6b21882aa89.png",
       "summary": "Summary unavailable."
     }
   ],
