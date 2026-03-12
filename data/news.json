@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T08:28:46.546337",
+  "updated": "2026-03-12T12:29:34.024797",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Are LLMs not getting better?",
+      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+      "published": "2026-03-12T11:49:05",
+      "image": "data/images/e5fda3a70772ea535f5e7462ea3f2541.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Returning to Rails in 2026",
       "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
       "published": "2026-03-12T06:06:46",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reliable Software in the LLM Era",
+      "url": "https://quint-lang.org/posts/llm_era",
+      "published": "2026-03-12T08:19:46",
+      "image": "https://quint-lang.org/blog-covers/llm_era.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -166,24 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "2026-03-12T03:29:28",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/03/handala-stryker.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "url": "https://github.com/microsoft/BitNet",
-      "published": "2026-03-11T12:27:15",
-      "image": "https://opengraph.githubassets.com/789ce376ac45c9160603dd1c163a381e14f5bb574e22c3fee7b5a8e28453ee77/microsoft/BitNet",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Faster asin() was hiding in plain sight",
       "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
       "published": "2026-03-11T14:35:53",
@@ -193,19 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
-      "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-      "published": "2026-03-10T05:58:56",
-      "image": "https://assets.newatlas.com/dims4/default/99fb56b/2147483647/strip/true/crop/1024x538+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2F37%2Ffacdf5694b49bdbaec47d6bb9f29%2Fscreenshot-2025-12-16-at-2-17-29-pm.png&na.image_optimisation=0",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Against vibes: When is a generative model useful",
-      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-      "published": "2026-03-10T19:59:39",
-      "image": "data/images/0094246430b66e958168eeb695085690.png",
+      "title": "BitNet: Inference framework for 1-bit LLMs",
+      "url": "https://github.com/microsoft/BitNet",
+      "published": "2026-03-11T12:27:15",
+      "image": "https://opengraph.githubassets.com/67f41c35698f66a1acab8882eadf3a1d84fc31159e04a91d889b2118086ebba7/microsoft/BitNet",
       "summary": "Summary unavailable."
     }
   ],
