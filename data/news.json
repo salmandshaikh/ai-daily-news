@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T16:24:59.167831",
+  "updated": "2026-03-13T20:20:31.721917",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,16 +88,16 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
-      "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-      "published": "Fri, 13 Mar 2026 01:02:47 GMT",
-      "image": "data/images/1cacaa02fb24ab6af37905cca72dcc3d.png",
+      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever\u2019s Generalizable Agentic Retrieval Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+      "published": "Fri, 13 Mar 2026 20:00:00 GMT",
+      "image": "data/images/d18c2a767795c8fdb421d1946f32713a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,55 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "published": "2026-03-13T12:46:10",
+      "image": "https://canirun.ai/og/home.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
+      "url": "https://github.com/Compresr-ai/Context-Gateway",
+      "published": "2026-03-13T17:58:22",
+      "image": "https://opengraph.githubassets.com/c6f7a80d273aeed4ab7e425062331824a1b389bacf142472ef3adca2f0eb1278/Compresr-ai/Context-Gateway",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "published": "2026-03-13T12:31:09",
+      "image": "https://cdn.mos.cms.futurecdn.net/H2W39McUJD9PvHn7aRQM6d-1920-80.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+      "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+      "published": "2026-03-13T16:40:42",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede1da3-de7b-4380-b0e9-88229243b17b.jpg?source=next-barrier-page",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Launch HN: Captain (YC W26) \u2013 Automated RAG for Files",
       "url": "https://www.runcaptain.com/",
       "published": "2026-03-13T15:45:33",
       "image": "https://hn.runcaptain.com/opengraph.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "John Carmack about open source and anti-AI activists",
+      "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+      "published": "2026-03-13T17:51:34",
+      "image": "data/images/0e4aa88a59c198f4a54c165670ec554a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +202,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can I Run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "published": "2026-03-13T12:46:10",
-      "image": "https://canirun.ai/og/home.png",
+      "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
+      "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+      "published": "2026-03-13T16:13:30",
+      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "summary": "Summary unavailable."
     },
     {
@@ -175,10 +220,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "published": "2026-03-12T16:38:51",
-      "image": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline/_jcr_content/cq:socialfeaturedimage.coreimg.jpeg/1773245507576/Thaiss-gut-brain.jpeg",
+      "title": "Digg is gone again",
+      "url": "https://digg.com/",
+      "published": "2026-03-13T18:52:17",
+      "image": "http://localhost:3000/meta/digg-og.png",
       "summary": "Summary unavailable."
     }
   ],
