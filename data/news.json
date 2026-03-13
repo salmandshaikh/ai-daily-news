@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T20:22:01.300282",
+  "updated": "2026-03-13T00:57:44.095586",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,6 +148,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "url": "https://aminrj.com/posts/rag-document-poisoning/",
+      "published": "2026-03-12T13:40:36",
+      "image": "https://aminrj.com/assets/media/ai-security/document-poisoning-in-rag-systems.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "published": "2026-03-12T20:55:51",
+      "image": "https://cdn.forumcomm.com/dims4/default/ebb8316/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fce%2F45%2F16d552fb49c78f0fa3b370e2dd0f%2Fmattwebpics-still001.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: OneCLI \u2013 Vault for AI Agents in Rust",
       "url": "https://github.com/onecli/onecli",
       "published": "2026-03-12T16:41:06",
@@ -160,25 +178,16 @@
       "title": "Show HN: Axe \u2013\u00a0A 12MB binary that replaces your AI framework",
       "url": "https://github.com/jrswab/axe",
       "published": "2026-03-12T13:49:12",
-      "image": "https://opengraph.githubassets.com/24524d837c2034080b94f99b3d32bdda9397da83c13755454230588f052d897a/jrswab/axe",
+      "image": "https://opengraph.githubassets.com/d4482df672dbf8b761c01bebc8a03d5d1b3d6c7c3e7f372ec7894d1b72ffd055/jrswab/axe",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
-      "url": "https://codespeak.dev/",
-      "published": "2026-03-12T14:22:43",
-      "image": "https://codespeak.dev/opengraph-image?85ad0ffb0f3838a8",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
-      "url": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf",
-      "published": "2026-03-12T16:12:04",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Are LLM merge rates not getting better?",
+      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+      "published": "2026-03-12T11:49:05",
+      "image": "data/images/a2146294b40c6adfb105267510c58108.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,17 +202,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
-      "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
-      "published": "2026-03-12T17:07:16",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3655-1152x648.jpeg",
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "published": "2026-03-12T06:06:46",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-12",
+    "date": "2026-03-13",
     "speakers": [
       "Alex",
       "Jordan"
