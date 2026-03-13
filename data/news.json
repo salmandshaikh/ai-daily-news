@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T08:26:13.181497",
+  "updated": "2026-03-13T12:29:05.874491",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,7 +139,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reversing memory loss via gut-brain communication",
+      "title": "Okmain: How to pick an OK main colour of an image",
+      "url": "https://dgroshev.com/blog/okmain/",
+      "published": "2026-03-09T14:16:53",
+      "image": "data/images/89b4c451971ffd38796a972112b30f53.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
       "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
       "published": "2026-03-12T16:38:51",
       "image": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline/_jcr_content/cq:socialfeaturedimage.coreimg.jpeg/1773245507576/Thaiss-gut-brain.jpeg",
@@ -161,42 +170,6 @@
       "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
       "published": "2026-03-12T22:35:08",
       "image": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/lucian-Y4XF74XQhi0-unsplash-dithered.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "published": "2026-03-12T20:55:51",
-      "image": "https://cdn.forumcomm.com/dims4/default/ebb8316/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fce%2F45%2F16d552fb49c78f0fa3b370e2dd0f%2Fmattwebpics-still001.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Are LLM merge rates not getting better?",
-      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "published": "2026-03-12T11:49:05",
-      "image": "data/images/a2146294b40c6adfb105267510c58108.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Axe \u2013\u00a0A 12MB binary that replaces your AI framework",
-      "url": "https://github.com/jrswab/axe",
-      "published": "2026-03-12T13:49:12",
-      "image": "https://opengraph.githubassets.com/6cfd141beb494ee5e28c77cdc9742e94ad1ca3200bcf14d751289dc745087319/jrswab/axe",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: OneCLI \u2013 Vault for AI Agents in Rust",
-      "url": "https://github.com/onecli/onecli",
-      "published": "2026-03-12T16:41:06",
-      "image": "https://repository-images.githubusercontent.com/1175900220/ef74e755-ef2e-4166-8437-b1ad4830e2ff",
       "summary": "Summary unavailable."
     }
   ],
