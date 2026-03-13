@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T00:57:44.095586",
+  "updated": "2026-03-13T05:08:55.918285",
   "articles": [
     {
       "source": "RSS",
@@ -94,10 +94,10 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
-      "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
-      "published": "Thu, 12 Mar 2026 03:53:34 GMT",
-      "image": "data/images/b8f68121bda5f09b140d74ca999d4d82.png",
+      "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+      "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+      "published": "Fri, 13 Mar 2026 01:02:47 GMT",
+      "image": "data/images/1cacaa02fb24ab6af37905cca72dcc3d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,7 @@
       "title": "Reversing memory loss via gut-brain communication",
       "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
       "published": "2026-03-12T16:38:51",
-      "image": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline/_jcr_content/cq:socialfeaturedimage.coreimg.jpeg/1773245507576/Thaiss-gut-brain.jpeg",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Grief and the AI Split",
+      "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+      "published": "2026-03-12T22:35:08",
+      "image": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/lucian-Y4XF74XQhi0-unsplash-dithered.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
       "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
       "published": "2026-03-12T20:55:51",
       "image": "https://cdn.forumcomm.com/dims4/default/ebb8316/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fce%2F45%2F16d552fb49c78f0fa3b370e2dd0f%2Fmattwebpics-still001.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Are LLM merge rates not getting better?",
+      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+      "published": "2026-03-12T11:49:05",
+      "image": "data/images/a2146294b40c6adfb105267510c58108.png",
       "summary": "Summary unavailable."
     },
     {
@@ -178,16 +196,7 @@
       "title": "Show HN: Axe \u2013\u00a0A 12MB binary that replaces your AI framework",
       "url": "https://github.com/jrswab/axe",
       "published": "2026-03-12T13:49:12",
-      "image": "https://opengraph.githubassets.com/d4482df672dbf8b761c01bebc8a03d5d1b3d6c7c3e7f372ec7894d1b72ffd055/jrswab/axe",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Are LLM merge rates not getting better?",
-      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "published": "2026-03-12T11:49:05",
-      "image": "data/images/a2146294b40c6adfb105267510c58108.png",
+      "image": "https://opengraph.githubassets.com/19406be56154a853a62eeb1e6dac2b777863cac7e68fa2fb15723eefccd38166/jrswab/axe",
       "summary": "Summary unavailable."
     },
     {
@@ -197,15 +206,6 @@
       "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
       "published": "2026-03-10T06:02:27",
       "image": "https://www.systemverilog.io/assets/images/social/design/ddr4-initialization-and-calibration.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Returning to Rails in 2026",
-      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-      "published": "2026-03-12T06:06:46",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
