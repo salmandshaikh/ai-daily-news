@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T05:06:26.823560",
+  "updated": "2026-03-14T08:21:37.331624",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,16 +142,16 @@
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
       "published": "2026-03-13T17:19:01",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/87a95995e22c09fbd6b526b256569d14.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "published": "2026-03-13T12:46:10",
-      "image": "https://canirun.ai/og/home.png",
+      "title": "Emacs and Vim in the Age of AI",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "published": "2026-03-10T04:21:32",
+      "image": "https://batsov.com/assets/img/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Emacs and Vim in the Age of AI",
-      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "published": "2026-03-10T04:21:32",
-      "image": "https://batsov.com/assets/img/og-image.png",
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "published": "2026-03-13T12:46:10",
+      "image": "https://canirun.ai/og/home.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Digg is gone again",
+      "url": "https://digg.com/",
+      "published": "2026-03-13T18:52:17",
+      "image": "http://localhost:3000/meta/digg-og.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,15 +202,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
-      "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "published": "2026-03-13T17:58:22",
-      "image": "https://opengraph.githubassets.com/f3bc4845be33cba0baf6b723e8fb25cad9e2b59ad5f93d0c5aa3f3692cb63105/Compresr-ai/Context-Gateway",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
       "url": "https://www.getspine.ai/",
       "published": "2026-03-13T13:22:40",
@@ -211,19 +211,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
-      "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-      "published": "2026-03-13T16:13:30",
-      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
+      "url": "https://github.com/Compresr-ai/Context-Gateway",
+      "published": "2026-03-13T17:58:22",
+      "image": "https://opengraph.githubassets.com/b77298143b72b0f8716123c73c1ece99ca5d37bf9978671d457fbb13f6f4e44c/Compresr-ai/Context-Gateway",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "John Carmack about open source and anti-AI activists",
-      "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-      "published": "2026-03-13T17:51:34",
-      "image": "data/images/0e4aa88a59c198f4a54c165670ec554a.png",
+      "title": "The Wyden Siren Goes Off Again: We\u2019ll Be \u201cStunned\u201d By What the NSA Is Doing",
+      "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+      "published": "2026-03-13T16:13:30",
+      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "summary": "Summary unavailable."
     }
   ],
