@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T16:17:04.323095",
+  "updated": "2026-03-14T20:15:01.292481",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Claudetop \u2013 htop for Claude Code sessions (see your AI spend in real-time)",
+      "url": "https://github.com/liorwn/claudetop",
+      "published": "2026-03-14T19:26:24",
+      "image": "https://opengraph.githubassets.com/3491257edb73d011527e2fef9310f863c2f574565edd38d90ed44262491da5cb/liorwn/claudetop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: GitAgent \u2013 An open standard that turns any Git repo into an AI agent",
+      "url": "https://www.gitagent.sh/",
+      "published": "2026-03-14T13:41:25",
+      "image": "https://gitagent.sh/og-banner-2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
       "published": "2026-03-13T17:19:01",
@@ -148,28 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Ink \u2013 Deploy full-stack apps from AI agents via MCP or Skills",
-      "url": "https://ml.ink/",
-      "published": "2026-03-11T15:39:03",
-      "image": "https://ml.ink/og.jpg",
+      "title": "In Praise of Stupid Questions",
+      "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
+      "published": "2026-03-14T17:12:18",
+      "image": "https://mathenchant.wordpress.com/wp-content/uploads/2026/03/needles.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Digg is gone again",
-      "url": "https://digg.com/",
-      "published": "2026-03-13T18:52:17",
-      "image": "http://localhost:3000/meta/digg-og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "published": "2026-03-13T12:46:10",
-      "image": "https://canirun.ai/og/home.png",
+      "title": "Show HN: Zap Code \u2013 AI code generator that teaches kids real HTML/CSS/JS",
+      "url": "https://www.zapcode.dev",
+      "published": "2026-03-14T19:37:51",
+      "image": "https://www.zapcode.dev/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
