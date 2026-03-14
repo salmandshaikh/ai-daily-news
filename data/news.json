@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T00:56:34.378657",
+  "updated": "2026-03-14T05:06:26.823560",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,7 +142,7 @@
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
       "published": "2026-03-13T17:19:01",
-      "image": "data/images/87a95995e22c09fbd6b526b256569d14.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
-      "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-      "published": "2026-03-13T22:28:04",
-      "image": "https://haitiantimes.com/wp-content/uploads/2025/10/AP25277863727224-scaled.jpg",
+      "title": "Emacs and Vim in the Age of AI",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "published": "2026-03-10T04:21:32",
+      "image": "https://batsov.com/assets/img/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -193,19 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MetaGenesis Core \u2013 offline verification for computational claims",
-      "url": "https://www.metagenesis-core.dev/",
-      "published": "2026-03-11T13:37:24",
-      "image": "https://metagenesis-core.dev/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
       "url": "https://github.com/Compresr-ai/Context-Gateway",
       "published": "2026-03-13T17:58:22",
-      "image": "https://opengraph.githubassets.com/0c60532b0514f2575a224ff9e4fdbfe6b7a39c6544b3d114b267d4c976631709/Compresr-ai/Context-Gateway",
+      "image": "https://opengraph.githubassets.com/f3bc4845be33cba0baf6b723e8fb25cad9e2b59ad5f93d0c5aa3f3692cb63105/Compresr-ai/Context-Gateway",
       "summary": "Summary unavailable."
     },
     {
@@ -224,6 +215,15 @@
       "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
       "published": "2026-03-13T16:13:30",
       "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "John Carmack about open source and anti-AI activists",
+      "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+      "published": "2026-03-13T17:51:34",
+      "image": "data/images/0e4aa88a59c198f4a54c165670ec554a.png",
       "summary": "Summary unavailable."
     }
   ],
