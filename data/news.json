@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T20:20:31.721917",
+  "updated": "2026-03-14T00:56:34.378657",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "published": "2026-03-13T12:46:10",
-      "image": "https://canirun.ai/og/home.png",
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
+      "published": "2026-03-13T17:19:01",
+      "image": "data/images/87a95995e22c09fbd6b526b256569d14.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
-      "url": "https://github.com/Compresr-ai/Context-Gateway",
-      "published": "2026-03-13T17:58:22",
-      "image": "https://opengraph.githubassets.com/c6f7a80d273aeed4ab7e425062331824a1b389bacf142472ef3adca2f0eb1278/Compresr-ai/Context-Gateway",
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "published": "2026-03-13T12:46:10",
+      "image": "https://canirun.ai/og/home.png",
       "summary": "Summary unavailable."
     },
     {
@@ -166,6 +166,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
+      "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+      "published": "2026-03-13T22:28:04",
+      "image": "https://haitiantimes.com/wp-content/uploads/2025/10/AP25277863727224-scaled.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "New 'negative light' technology hides data transfers in plain sight",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+      "published": "2026-03-11T20:46:24",
+      "image": "https://www.unsw.edu.au/content/dam/images/unsw-wide/general/stock/2025-09-negativelighthiddendata/AdobeStock_740077611.cropimg.width=700.crop=landscape.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
       "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
       "published": "2026-03-13T16:40:42",
@@ -175,19 +193,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Captain (YC W26) \u2013 Automated RAG for Files",
-      "url": "https://www.runcaptain.com/",
-      "published": "2026-03-13T15:45:33",
-      "image": "https://hn.runcaptain.com/opengraph.jpg",
+      "title": "MetaGenesis Core \u2013 offline verification for computational claims",
+      "url": "https://www.metagenesis-core.dev/",
+      "published": "2026-03-11T13:37:24",
+      "image": "https://metagenesis-core.dev/og-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "John Carmack about open source and anti-AI activists",
-      "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-      "published": "2026-03-13T17:51:34",
-      "image": "data/images/0e4aa88a59c198f4a54c165670ec554a.png",
+      "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
+      "url": "https://github.com/Compresr-ai/Context-Gateway",
+      "published": "2026-03-13T17:58:22",
+      "image": "https://opengraph.githubassets.com/0c60532b0514f2575a224ff9e4fdbfe6b7a39c6544b3d114b267d4c976631709/Compresr-ai/Context-Gateway",
       "summary": "Summary unavailable."
     },
     {
@@ -207,30 +225,12 @@
       "published": "2026-03-13T16:13:30",
       "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Okmain: How to pick an OK main colour of an image",
-      "url": "https://dgroshev.com/blog/okmain/",
-      "published": "2026-03-09T14:16:53",
-      "image": "data/images/89b4c451971ffd38796a972112b30f53.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Digg is gone again",
-      "url": "https://digg.com/",
-      "published": "2026-03-13T18:52:17",
-      "image": "http://localhost:3000/meta/digg-og.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "speakers": [
       "Alex",
       "Jordan"
