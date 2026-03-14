@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T12:22:40.727524",
+  "updated": "2026-03-14T16:17:04.323095",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
       "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "published": "2026-03-13T12:31:09",
-      "image": "https://cdn.mos.cms.futurecdn.net/H2W39McUJD9PvHn7aRQM6d-1920-80.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
-      "published": "2026-03-13T12:46:10",
-      "image": "https://canirun.ai/og/home.png",
+      "title": "Show HN: Ink \u2013 Deploy full-stack apps from AI agents via MCP or Skills",
+      "url": "https://ml.ink/",
+      "published": "2026-03-11T15:39:03",
+      "image": "https://ml.ink/og.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -175,28 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Emacs and Vim in the Age of AI",
-      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "published": "2026-03-10T04:21:32",
-      "image": "https://batsov.com/assets/img/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "New 'negative light' technology hides data transfers in plain sight",
-      "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
-      "published": "2026-03-11T20:46:24",
-      "image": "https://www.unsw.edu.au/content/dam/images/unsw-wide/general/stock/2025-09-negativelighthiddendata/AdobeStock_740077611.cropimg.width=700.crop=landscape.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-      "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "published": "2026-03-13T16:40:42",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede1da3-de7b-4380-b0e9-88229243b17b.jpg?source=next-barrier-page",
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "published": "2026-03-13T12:46:10",
+      "image": "https://canirun.ai/og/home.png",
       "summary": "Summary unavailable."
     }
   ],
