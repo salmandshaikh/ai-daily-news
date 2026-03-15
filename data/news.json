@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T01:06:50.894344",
+  "updated": "2026-03-15T05:25:17.237057",
   "articles": [
     {
       "source": "RSS",
@@ -52,7 +52,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "published": "2026-03-15T00:51:55",
+      "image": "data/images/c1beabf860a6f497ba25a7d57da89528.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Airbus is preparing two uncrewed combat aircraft",
       "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
       "published": "2026-03-14T23:10:24",
@@ -151,25 +160,7 @@
       "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
       "url": "https://github.com/groverburger/grobpaint",
       "published": "2026-03-14T22:41:28",
-      "image": "https://opengraph.githubassets.com/e34c1794dc326b49eed277c2c0664a99af9a2a35d9803947b4767de29b0e304e/groverburger/grobpaint",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FCC chairman threatens TV broadcast licenses over news coverage",
-      "url": "https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/",
-      "published": "2026-03-15T00:08:22",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2262581675-e1773526123818.jpg?resize=1200,600",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: GitAgent \u2013 An open standard that turns any Git repo into an AI agent",
-      "url": "https://www.gitagent.sh/",
-      "published": "2026-03-14T13:41:25",
-      "image": "https://gitagent.sh/og-banner-2.png",
+      "image": "https://opengraph.githubassets.com/423c15884b245bf011b98ddd02aaf4153c6f181f3ad6bd185aa15cdc2c2812b9/groverburger/grobpaint",
       "summary": "Summary unavailable."
     },
     {
@@ -179,6 +170,15 @@
       "url": "https://claude.com/blog/1m-context-ga",
       "published": "2026-03-13T17:19:01",
       "image": "data/images/87a95995e22c09fbd6b526b256569d14.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "published": "2026-03-15T02:48:33",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6242/live/c74b5b30-1fcc-11f1-9c85-1d495aee893e.jpg",
       "summary": "Summary unavailable."
     }
   ],
