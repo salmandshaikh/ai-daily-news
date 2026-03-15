@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T20:15:01.292481",
+  "updated": "2026-03-15T01:06:50.894344",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
       "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claudetop \u2013 htop for Claude Code sessions (see your AI spend in real-time)",
-      "url": "https://github.com/liorwn/claudetop",
-      "published": "2026-03-14T19:26:24",
-      "image": "https://opengraph.githubassets.com/3491257edb73d011527e2fef9310f863c2f574565edd38d90ed44262491da5cb/liorwn/claudetop",
+      "title": "Airbus is preparing two uncrewed combat aircraft",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "published": "2026-03-14T23:10:24",
+      "image": "https://mediaassets.airbus.com/pm_38_875_875031-7uaky451wx-preview.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+      "url": "https://github.com/groverburger/grobpaint",
+      "published": "2026-03-14T22:41:28",
+      "image": "https://opengraph.githubassets.com/e34c1794dc326b49eed277c2c0664a99af9a2a35d9803947b4767de29b0e304e/groverburger/grobpaint",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "FCC chairman threatens TV broadcast licenses over news coverage",
+      "url": "https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/",
+      "published": "2026-03-15T00:08:22",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2262581675-e1773526123818.jpg?resize=1200,600",
       "summary": "Summary unavailable."
     },
     {
@@ -162,30 +180,12 @@
       "published": "2026-03-13T17:19:01",
       "image": "data/images/87a95995e22c09fbd6b526b256569d14.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "In Praise of Stupid Questions",
-      "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
-      "published": "2026-03-14T17:12:18",
-      "image": "https://mathenchant.wordpress.com/wp-content/uploads/2026/03/needles.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Zap Code \u2013 AI code generator that teaches kids real HTML/CSS/JS",
-      "url": "https://www.zapcode.dev",
-      "published": "2026-03-14T19:37:51",
-      "image": "https://www.zapcode.dev/og-image.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "speakers": [
       "Alex",
       "Jordan"
