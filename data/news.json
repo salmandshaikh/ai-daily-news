@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T16:18:25.461510",
+  "updated": "2026-03-15T20:15:11.973136",
   "articles": [
     {
       "source": "RSS",
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "published": "2026-03-15T16:01:09",
+      "image": "https://sebastianraschka.com/llm-architecture-gallery/images/hero/architecture-gallery-hero.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A Visual Introduction to Machine Learning (2015)",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
       "published": "2026-03-15T10:47:35",
@@ -151,34 +160,7 @@
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
       "published": "2026-03-15T10:15:47",
-      "image": "https://opengraph.githubassets.com/075f5262ce9f6ab1db511da57d071e52088644122f0d305de7693867b5db03ca/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "published": "2026-03-15T08:04:55",
-      "image": "https://www.charlespetzold.com/blog/2026/02/SpotifyDJ.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "published": "2026-03-15T02:48:33",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6242/live/c74b5b30-1fcc-11f1-9c85-1d495aee893e.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Reverse Engineering Apple's GPU Energy Model on the M4 Max",
-      "url": "https://www.youtube.com/watch?v=HKxIGgyeISM",
-      "published": "2026-03-15T16:11:35",
-      "image": "data/images/cf671a28d9e39dd8b26b139c73b51663.png",
+      "image": "https://opengraph.githubassets.com/2e2d39b173e45f8e788ea98b18055d718f1ebee8489bcedeb4b807364a3a5ee6/novatic14/MANPADS-System-Launcher-and-Rocket",
       "summary": "Summary unavailable."
     }
   ],
