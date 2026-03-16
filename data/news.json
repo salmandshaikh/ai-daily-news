@@ -1,6 +1,15 @@
 {
-  "updated": "2026-03-16T16:49:19.445391",
+  "updated": "2026-03-16T20:26:20.434016",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "published": "Mon, 16 Mar 2026 00:00:00 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -22,15 +31,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
-      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
       "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
@@ -40,10 +40,10 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Improving instruction hierarchy in frontier LLMs",
-      "url": "https://openai.com/index/instruction-hierarchy-challenge",
-      "published": "Tue, 10 Mar 2026 11:00:00 GMT",
-      "image": "data/images/c58ec1b97d5c75ab5899797a4d0fa6f3.png",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,73 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Hackerbrief \u2013 Top posts on Hacker News summarized daily",
-      "url": "https://hackerbrief.vercel.app/",
-      "published": "2026-03-16T13:01:48",
-      "image": "data/images/c956559e2a20ba2d6355ca86dfab9a14.png",
+      "title": "Language Model Teams as Distrbuted Systems",
+      "url": "https://arxiv.org/abs/2603.12229",
+      "published": "2026-03-16T17:19:13",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How I write software with LLMs",
-      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "published": "2026-03-16T01:24:09",
-      "image": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483",
+      "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
+      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+      "published": "2026-03-16T15:25:36",
+      "image": "https://images.ctfassets.net/d6o5ai4eeewt/57kHNdJ8Hmq3TZjExF9oPy/130624913e15827926b4ed32a3071f9d/Gemini_Generated_Image_zi6xqwzi6xqwzi6x.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "'Pok\u00e9mon Go' players unknowingly trained delivery robots with 30B images",
-      "url": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
-      "published": "2026-03-16T13:05:33",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/03/pokemon-go-whitehouse.png?w=1200",
+      "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
+      "url": "https://www.usechamber.io/",
+      "published": "2026-03-16T17:09:34",
+      "image": "https://usechamber.io/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+      "url": "https://www.kaizenautomation.com/careers",
+      "published": "2026-03-16T17:00:17",
+      "image": "data/images/2ae07769dd22286106f20f3809ed3d4d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+      "published": "2026-03-16T20:01:02",
+      "image": "https://iprsoftwaremedia.com/219/files/202603/69b83bf73d6332289074debc_vera-cpu-rack/vera-cpu-rack_dd1864d1-171f-410c-956d-0a24da3c4906-prv.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Starlink Mini as a failover",
+      "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+      "published": "2026-03-16T08:07:29",
+      "image": "https://static.jackpearce.co.uk/images/posts/2025/starlink-uk-install.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+      "url": "https://arxiv.org/abs/2511.04427",
+      "published": "2026-03-16T17:07:37",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AirPods Max 2",
+      "url": "https://www.apple.com/airpods-max/",
+      "published": "2026-03-16T13:22:03",
+      "image": "https://www.apple.com/v/airpods-max/k/images/meta/airpods-max_overview__c2mz40a3bugm_og.png?202603151155",
       "summary": "Summary unavailable."
     }
   ],
