@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T12:40:09.987675",
+  "updated": "2026-03-16T16:49:19.445391",
   "articles": [
     {
       "source": "RSS",
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Hackerbrief \u2013 Top posts on Hacker News summarized daily",
+      "url": "https://hackerbrief.vercel.app/",
+      "published": "2026-03-16T13:01:48",
+      "image": "data/images/c956559e2a20ba2d6355ca86dfab9a14.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
       "published": "2026-03-16T01:24:09",
@@ -148,28 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLM Architecture Gallery",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "published": "2026-03-15T16:01:09",
-      "image": "https://sebastianraschka.com/llm-architecture-gallery/images/hero/architecture-gallery-hero.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLMs can be exhausting",
-      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "published": "2026-03-15T20:56:21",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tomjohnell/tom-2.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "published": "2026-03-15T10:47:35",
-      "image": "https://r2d3.us/decision-trees-part-1-preview.png",
+      "title": "'Pok\u00e9mon Go' players unknowingly trained delivery robots with 30B images",
+      "url": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
+      "published": "2026-03-16T13:05:33",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/03/pokemon-go-whitehouse.png?w=1200",
       "summary": "Summary unavailable."
     }
   ],
