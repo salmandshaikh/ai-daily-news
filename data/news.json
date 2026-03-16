@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T05:46:16.413462",
+  "updated": "2026-03-16T08:44:00.419472",
   "articles": [
     {
       "source": "RSS",
@@ -22,19 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,15 +148,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs can be exhausting",
-      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "published": "2026-03-15T20:56:21",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tomjohnell/tom-2.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
       "published": "2026-03-15T16:01:09",
@@ -166,28 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LLMs can be exhausting",
+      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+      "published": "2026-03-15T20:56:21",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tomjohnell/tom-2.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
       "url": "https://github.com/jtsylve/spice-crypt",
       "published": "2026-03-15T07:11:32",
-      "image": "https://opengraph.githubassets.com/84f80cc88e18a0598abed0116e60a0e4d8c5a8d9f01dad504a51ace35d02ac1f/jtsylve/spice-crypt",
+      "image": "https://opengraph.githubassets.com/a26e42b8f2ce0415128ef1c9919e5c929ddebaf28afb393d446c9b76bd8a6654/jtsylve/spice-crypt",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Quillx is an open standard for disclosing AI involvement in software projects",
-      "url": "https://github.com/QAInsights/AIx",
-      "published": "2026-03-16T01:21:39",
-      "image": "https://opengraph.githubassets.com/627c69d263dad18c3b42c2d0bcc815d69d8d124858224eaa56d329926ddafff9/QAInsights/Quillx",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
-      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-      "published": "2026-03-16T00:22:48",
-      "image": "http://www.salk.edu/wp-content/uploads/2016/06/David-Schubert-458x305.jpg",
+      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "published": "2026-03-15T22:15:50",
+      "image": "data/images/7da51419082cc9c988ec48c9943aea76.png",
       "summary": "Summary unavailable."
     },
     {
@@ -202,10 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A Plain Anabaptist Story: The Hutterites",
-      "url": "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites",
-      "published": "2026-03-12T20:41:51",
-      "image": "data/images/2f255cd4c1baed1cb08659b27c029f8e.png",
+      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+      "published": "2026-03-16T00:22:48",
+      "image": "http://www.salk.edu/wp-content/uploads/2016/06/David-Schubert-458x305.jpg",
       "summary": "Summary unavailable."
     }
   ],
