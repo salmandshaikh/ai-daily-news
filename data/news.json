@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T12:38:33.380136",
+  "updated": "2026-03-17T16:52:48.862539",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,7 +34,7 @@
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
       "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,16 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "published": "Tue, 17 Mar 2026 16:37:55 GMT",
+      "image": "data/images/f9deb1921d2fd51d9fb90df07878245b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-      "published": "Mon, 09 Mar 2026 18:36:33 GMT",
-      "image": "data/images/fe4d58b8fa910588266c0ac0b6a9ad61.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
+      "url": "https://www.Bracketmadness.ai",
+      "published": "2026-03-17T12:56:24",
+      "image": "https://bracketmadness.ai/twitter-header.png",
       "summary": "Summary unavailable."
     },
     {
@@ -143,24 +152,6 @@
       "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
       "published": "2026-03-17T12:01:05",
       "image": "data/images/508c16d0cc9f15e7ca71b9f0bb9bf731.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Starlink Mini as a failover",
-      "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-      "published": "2026-03-16T08:07:29",
-      "image": "https://static.jackpearce.co.uk/images/posts/2025/starlink-uk-install.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AirPods Max 2",
-      "url": "https://www.apple.com/airpods-max/",
-      "published": "2026-03-16T13:22:03",
-      "image": "https://www.apple.com/v/airpods-max/k/images/meta/airpods-max_overview__c2mz40a3bugm_og.png?202603151155",
       "summary": "Summary unavailable."
     }
   ],
