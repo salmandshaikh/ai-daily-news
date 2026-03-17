@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T08:37:27.440527",
+  "updated": "2026-03-17T12:38:33.380136",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+      "published": "Tue, 17 Mar 2026 12:33:39 GMT",
+      "image": "data/images/67f8f2446a397532fd55d1373260dbc9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
       "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
       "published": "Mon, 16 Mar 2026 21:58:40 GMT",
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-      "url": "https://huggingface.co/blog/ulysses-sp",
-      "published": "Mon, 09 Mar 2026 00:00:00 GMT",
-      "image": "data/images/bf18fcb8107f4afd2d6efdaf4f1c3521.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "published": "2026-03-17T12:01:05",
+      "image": "data/images/508c16d0cc9f15e7ca71b9f0bb9bf731.png",
       "summary": "Summary unavailable."
     },
     {
@@ -152,24 +161,6 @@
       "url": "https://www.apple.com/airpods-max/",
       "published": "2026-03-16T13:22:03",
       "image": "https://www.apple.com/v/airpods-max/k/images/meta/airpods-max_overview__c2mz40a3bugm_og.png?202603151155",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "url": "https://arxiv.org/abs/2511.04427",
-      "published": "2026-03-16T17:07:37",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Language model teams as distributed systems",
-      "url": "https://arxiv.org/abs/2603.12229",
-      "published": "2026-03-16T17:19:13",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
