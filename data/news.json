@@ -1,6 +1,15 @@
 {
-  "updated": "2026-03-17T16:52:48.862539",
+  "updated": "2026-03-17T20:27:18.611860",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -31,15 +40,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
-      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "From model to agent: Equipping the Responses API with a computer environment",
       "url": "https://openai.com/index/equip-responses-api-computer-environment",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
@@ -52,7 +52,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "url": "https://www.Bracketmadness.ai",
-      "published": "2026-03-17T12:56:24",
-      "image": "https://bracketmadness.ai/twitter-header.png",
+      "title": "Toward automated verification of unreviewed AI-generated code",
+      "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
+      "published": "2026-03-16T10:52:33",
+      "image": "https://peterlavigne.com/images/og_image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -152,6 +152,15 @@
       "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
       "published": "2026-03-17T12:01:05",
       "image": "data/images/508c16d0cc9f15e7ca71b9f0bb9bf731.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
+      "url": "https://www.Bracketmadness.ai",
+      "published": "2026-03-17T12:56:24",
+      "image": "https://bracketmadness.ai/twitter-header.png",
       "summary": "Summary unavailable."
     }
   ],
