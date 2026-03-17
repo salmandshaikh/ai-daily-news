@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T20:26:20.434016",
+  "updated": "2026-03-17T00:58:35.690978",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,7 +34,7 @@
       "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
       "url": "https://openai.com/index/wayfair",
       "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/da9267eb972d5f4fa59773fc4b7d916e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,16 +88,16 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever\u2019s Generalizable Agentic Retrieval Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-      "published": "Fri, 13 Mar 2026 20:00:00 GMT",
-      "image": "data/images/d18c2a767795c8fdb421d1946f32713a.png",
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "published": "Mon, 16 Mar 2026 21:58:40 GMT",
+      "image": "data/images/d4611e695e4ea73f7be50ab473d2952c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,55 +148,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
-      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-      "published": "2026-03-16T15:25:36",
-      "image": "https://images.ctfassets.net/d6o5ai4eeewt/57kHNdJ8Hmq3TZjExF9oPy/130624913e15827926b4ed32a3071f9d/Gemini_Generated_Image_zi6xqwzi6xqwzi6x.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
-      "url": "https://www.usechamber.io/",
-      "published": "2026-03-16T17:09:34",
-      "image": "https://usechamber.io/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
-      "url": "https://www.kaizenautomation.com/careers",
-      "published": "2026-03-16T17:00:17",
-      "image": "data/images/2ae07769dd22286106f20f3809ed3d4d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-      "published": "2026-03-16T20:01:02",
-      "image": "https://iprsoftwaremedia.com/219/files/202603/69b83bf73d6332289074debc_vera-cpu-rack/vera-cpu-rack_dd1864d1-171f-410c-956d-0a24da3c4906-prv.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Starlink Mini as a failover",
       "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
       "published": "2026-03-16T08:07:29",
       "image": "https://static.jackpearce.co.uk/images/posts/2025/starlink-uk-install.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
-      "url": "https://arxiv.org/abs/2511.04427",
-      "published": "2026-03-16T17:07:37",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -207,12 +162,30 @@
       "published": "2026-03-16T13:22:03",
       "image": "https://www.apple.com/v/airpods-max/k/images/meta/airpods-max_overview__c2mz40a3bugm_og.png?202603151155",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
+      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+      "published": "2026-03-16T15:25:36",
+      "image": "https://images.ctfassets.net/d6o5ai4eeewt/57kHNdJ8Hmq3TZjExF9oPy/130624913e15827926b4ed32a3071f9d/Gemini_Generated_Image_zi6xqwzi6xqwzi6x.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+      "published": "2026-03-16T20:01:02",
+      "image": "https://iprsoftwaremedia.com/219/files/202603/69b83bf73d6332289074debc_vera-cpu-rack/vera-cpu-rack_dd1864d1-171f-410c-956d-0a24da3c4906-prv.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-16",
+    "date": "2026-03-17",
     "speakers": [
       "Alex",
       "Jordan"
