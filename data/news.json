@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T12:39:34.318506",
+  "updated": "2026-03-18T16:47:37.062225",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -25,7 +25,7 @@
       "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,16 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "published": "2026-03-18T15:30:07",
+      "image": "https://framerusercontent.com/images/DQ1xyTxgoIu8RdOdSoCABxXVtM.png?width=9004&height=4694",
       "summary": "Summary unavailable."
     },
     {
@@ -143,33 +152,6 @@
       "url": "https://mistral.ai/news/forge",
       "published": "2026-03-17T21:04:26",
       "image": "https://mistral.ai/img/mistral-cover.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
-      "url": "https://arxiv.org/abs/2603.15381",
-      "published": "2026-03-17T21:42:39",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "published": "2026-03-17T12:01:05",
-      "image": "data/images/508c16d0cc9f15e7ca71b9f0bb9bf731.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI Has New Focus (On the IPO)",
-      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-      "published": "2026-03-18T10:49:19",
-      "image": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?ixid=M3wxMzczOTd8MHwxfGFsbHx8fHx8fHx8fDE3MDA2NjQyNDF8&ixlib=rb-4.0.3&fm=jpg&q=85&fit=crop&w=2560&h=1441",
       "summary": "Summary unavailable."
     }
   ],
