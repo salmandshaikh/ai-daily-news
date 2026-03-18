@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T05:22:01.961640",
+  "updated": "2026-03-18T08:34:39.444924",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
       "summary": "Summary unavailable."
     },
     {
@@ -49,10 +49,19 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "published": "Tue, 17 Mar 2026 16:03:47 +0000",
+      "image": "data/images/0847c8739da729a05b45e3ce5863dc03.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -80,15 +89,6 @@
       "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
       "published": "Thu, 19 Feb 2026 16:06:14 +0000",
       "image": "data/images/eb96b83819227f37c4b62e31de352341.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "A new way to express yourself: Gemini can now create music",
-      "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-      "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
       "summary": "Summary unavailable."
     },
     {
