@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T01:02:57.117273",
+  "updated": "2026-03-18T05:22:01.961640",
   "articles": [
     {
       "source": "RSS",
@@ -16,7 +16,7 @@
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -25,7 +25,7 @@
       "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
       "summary": "Summary unavailable."
     },
     {
@@ -52,7 +52,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -61,7 +61,7 @@
       "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
       "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
       "published": "Tue, 03 Mar 2026 16:35:55 +0000",
-      "image": "data/images/f042b0d98e8577f41c7975f5837161fb.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "A new way to express yourself: Gemini can now create music",
       "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
       "published": "Wed, 18 Feb 2026 16:01:38 +0000",
-      "image": "data/images/7a17c01607303ce5e55eb4497b33954a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,7 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "published": "2026-03-17T12:01:05",
-      "image": "data/images/508c16d0cc9f15e7ca71b9f0bb9bf731.png",
+      "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "published": "2026-03-17T21:42:39",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
-      "url": "https://arxiv.org/abs/2603.15381",
-      "published": "2026-03-17T21:42:39",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "published": "2026-03-18T01:10:19",
+      "image": "data/images/ee62275a01afd664fe6c7d903a2bdb9f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "published": "2026-03-17T12:01:05",
+      "image": "data/images/508c16d0cc9f15e7ca71b9f0bb9bf731.png",
       "summary": "Summary unavailable."
     }
   ],
