@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T20:27:18.611860",
+  "updated": "2026-03-18T01:02:57.117273",
   "articles": [
     {
       "source": "RSS",
@@ -13,10 +13,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "published": "Tue, 17 Mar 2026 00:00:00 GMT",
+      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -39,20 +48,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
-      "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "image": "data/images/9d5f89f02dad5ce80adee2cca8e98315.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Google DeepMind News",
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+      "published": "Tue, 17 Mar 2026 23:17:07 GMT",
+      "image": "data/images/19bf6c30bb20b4313b451bd0a20eae33.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "State of Open Source on Hugging Face: Spring 2026",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "published": "Tue, 17 Mar 2026 16:37:55 GMT",
@@ -107,15 +116,6 @@
       "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
       "published": "Tue, 17 Mar 2026 12:33:39 GMT",
       "image": "data/images/67f8f2446a397532fd55d1373260dbc9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
-      "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
-      "published": "Mon, 16 Mar 2026 21:58:40 GMT",
-      "image": "data/images/d4611e695e4ea73f7be50ab473d2952c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Toward automated verification of unreviewed AI-generated code",
-      "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
-      "published": "2026-03-16T10:52:33",
-      "image": "https://peterlavigne.com/images/og_image.jpg",
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "published": "2026-03-17T21:04:26",
+      "image": "https://mistral.ai/img/mistral-cover.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,17 +157,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "url": "https://www.Bracketmadness.ai",
-      "published": "2026-03-17T12:56:24",
-      "image": "https://bracketmadness.ai/twitter-header.png",
+      "title": "Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "published": "2026-03-17T21:42:39",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "speakers": [
       "Alex",
       "Jordan"
