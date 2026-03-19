@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T20:24:08.859317",
+  "updated": "2026-03-19T01:01:52.061160",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+      "url": "https://github.com/alainnothere/llm-circuit-finder",
+      "published": "2026-03-18T21:31:12",
+      "image": "https://opengraph.githubassets.com/bc172ef970818fae1f1a211d1a1613e8439a2a436570323bd1afafa430555956/alainnothere/llm-circuit-finder",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The math that explains why bell curves are everywhere",
+      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+      "published": "2026-03-16T16:51:32",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Central-Limit-Theorem-cr.Irene-Perez-Social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Book: The Emerging Science of Machine Learning Benchmarks",
       "url": "https://mlbenchmarks.org/00-preface.html",
       "published": "2026-03-14T20:15:03",
@@ -148,35 +166,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI coding is gambling",
-      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
-      "published": "2026-03-18T17:22:02",
-      "image": "https://notes.visaint.space/static/og-image.png",
+      "title": "OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "published": "2026-03-18T10:49:19",
+      "image": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?ixid=M3wxMzczOTd8MHwxfGFsbHx8fHx8fHx8fDE3MDA2NjQyNDF8&ixlib=rb-4.0.3&fm=jpg&q=85&fit=crop&w=2560&h=1441",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
-      "published": "2026-03-18T15:30:07",
-      "image": "https://framerusercontent.com/images/DQ1xyTxgoIu8RdOdSoCABxXVtM.png?width=9004&height=4694",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
-      "published": "2026-03-18T16:17:44",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=sashiko_review",
+      "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
+      "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
+      "published": "2026-03-18T12:52:47",
+      "image": "data/images/2fef402c530fbfc3c01ad2740c98b04b.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-18",
+    "date": "2026-03-19",
     "speakers": [
       "Alex",
       "Jordan"
