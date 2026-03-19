@@ -1,6 +1,15 @@
 {
-  "updated": "2026-03-19T16:44:09.721593",
+  "updated": "2026-03-19T20:33:43.351566",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "published": "Thu, 19 Mar 2026 10:00:00 GMT",
+      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
       "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Why Codex Security Doesn\u2019t Include a SAST Report",
-      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-      "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-      "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Anthropic takes legal action against OpenCode",
+      "url": "https://github.com/anomalyco/opencode/pull/18186",
+      "published": "2026-03-19T19:37:26",
+      "image": "https://opengraph.githubassets.com/ad57c44154b4699247f4ddeedc1b36620a54895e89fd210eae01d32dd9c294fc/anomalyco/opencode/pull/18186",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
       "published": "2026-03-19T13:05:50",
@@ -151,52 +160,34 @@
       "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
       "published": "2026-03-19T15:56:06",
-      "image": "https://opengraph.githubassets.com/8c3d10e14bf3fd61c43955b70178ea414dc0baa4533deea9db82a625fe4694ff/KittenML/KittenTTS",
+      "image": "https://opengraph.githubassets.com/046be8364eeaa6f9dd4e85396dd6cd40f5d466e231e0de3df84c2db10948f0ac/KittenML/KittenTTS",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pretraining Language Models via Neural Cellular Automata",
-      "url": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
-      "published": "2026-03-15T15:23:26",
-      "image": "data/images/81a769db7f4cc1fdb954f8f346a09436.png",
+      "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+      "url": "https://qlabs.sh/10x",
+      "published": "2026-03-19T18:51:25",
+      "image": "data/images/d991a5d0ceea3f0f4b58c7b1e1267d9e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
-      "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html",
-      "published": "2026-03-19T12:13:00",
-      "image": "data/images/b4d31b5e17d55eea39bd6926df014b2f.png",
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "published": "2026-03-19T17:16:04",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/developer-identity-hero-1152x648.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-      "published": "2026-03-19T10:17:46",
-      "image": "data/images/87c9f75ff295b773ad03ed7a0fad75a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
-      "published": "2026-03-18T21:31:12",
-      "image": "https://opengraph.githubassets.com/f7a353c2fc8cbf793e199a2f438958a378a74847db975b2679ecb7ca19116375/alainnothere/llm-circuit-finder",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A sufficiently detailed spec is code",
-      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "published": "2026-03-19T02:23:17",
-      "image": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code/opengraph-image?133960dfd41055ac",
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "published": "2026-03-19T18:59:02",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "summary": "Summary unavailable."
     }
   ],
