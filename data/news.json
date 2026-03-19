@@ -1,13 +1,13 @@
 {
-  "updated": "2026-03-19T12:33:32.351149",
+  "updated": "2026-03-19T16:44:09.721593",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "title": "OpenAI to acquire Astral",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
+      "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "image": "data/images/8bab1b224635f93257a691361784c074.png",
       "summary": "Summary unavailable."
     },
     {
@@ -22,10 +22,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
       "summary": "Summary unavailable."
     },
     {
@@ -35,15 +44,6 @@
       "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
       "published": "Mon, 16 Mar 2026 00:00:00 GMT",
       "image": "data/images/2832b63781f28b4cffebe24a49930535.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "url": "https://openai.com/index/rakuten",
-      "published": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "image": "data/images/0edeae007b04eb13005a56e89652ed0f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,10 +94,10 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-      "published": "Tue, 17 Mar 2026 23:17:07 GMT",
-      "image": "data/images/19bf6c30bb20b4313b451bd0a20eae33.png",
+      "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+      "url": "https://huggingface.co/blog/nvidia/speed-bench",
+      "published": "Thu, 19 Mar 2026 14:04:54 GMT",
+      "image": "data/images/e3eed02b67490f49749eecfa0a70f87f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-      "published": "2026-03-19T10:17:46",
-      "image": "data/images/87c9f75ff295b773ad03ed7a0fad75a3.png",
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "published": "2026-03-19T13:05:50",
+      "image": "https://astral.sh/static/OpenGraph/Astral.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
-      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "published": "2026-03-19T09:51:56",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/Comp_-50.jpg?quality=75&strip=all&w=1200",
+      "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "published": "2026-03-19T15:56:06",
+      "image": "https://opengraph.githubassets.com/8c3d10e14bf3fd61c43955b70178ea414dc0baa4533deea9db82a625fe4694ff/KittenML/KittenTTS",
       "summary": "Summary unavailable."
     },
     {
@@ -166,10 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A sufficiently detailed spec is code",
-      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "published": "2026-03-19T02:23:17",
-      "image": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code/opengraph-image?133960dfd41055ac",
+      "title": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
+      "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html",
+      "published": "2026-03-19T12:13:00",
+      "image": "data/images/b4d31b5e17d55eea39bd6926df014b2f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+      "published": "2026-03-19T10:17:46",
+      "image": "data/images/87c9f75ff295b773ad03ed7a0fad75a3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -178,25 +187,16 @@
       "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
       "url": "https://github.com/alainnothere/llm-circuit-finder",
       "published": "2026-03-18T21:31:12",
-      "image": "https://opengraph.githubassets.com/c4e43af950ab6c8fe665423f677981b247999d215eb85103f9f0b99d8b1d4f17/alainnothere/llm-circuit-finder",
+      "image": "https://opengraph.githubassets.com/f7a353c2fc8cbf793e199a2f438958a378a74847db975b2679ecb7ca19116375/alainnothere/llm-circuit-finder",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The math that explains why bell curves are everywhere",
-      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-      "published": "2026-03-16T16:51:32",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/03/Central-Limit-Theorem-cr.Irene-Perez-Social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The strait of Hormuz blockade will strangle US defense industry",
-      "url": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs",
-      "published": "2026-03-19T12:26:13",
-      "image": "https://i.guim.co.uk/img/media/8580e0c4a659b2303d878ed68b0840f77274d67e/338_0_1730_1385/master/1730.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bec827ddd190d2fc98c7a8955fd02ae5",
+      "title": "A sufficiently detailed spec is code",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "published": "2026-03-19T02:23:17",
+      "image": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code/opengraph-image?133960dfd41055ac",
       "summary": "Summary unavailable."
     }
   ],
