@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T08:29:05.825472",
+  "updated": "2026-03-19T12:33:32.351149",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -133,7 +133,34 @@
       "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
       "url": "https://huggingface.co/blog/async-rl-training-landscape",
       "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/51dbcac13fd7fd2ce591b089691aa4e9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+      "published": "2026-03-19T10:17:46",
+      "image": "data/images/87c9f75ff295b773ad03ed7a0fad75a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "published": "2026-03-19T09:51:56",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/Comp_-50.jpg?quality=75&strip=all&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pretraining Language Models via Neural Cellular Automata",
+      "url": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
+      "published": "2026-03-15T15:23:26",
+      "image": "data/images/81a769db7f4cc1fdb954f8f346a09436.png",
       "summary": "Summary unavailable."
     },
     {
@@ -151,7 +178,7 @@
       "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
       "url": "https://github.com/alainnothere/llm-circuit-finder",
       "published": "2026-03-18T21:31:12",
-      "image": "https://opengraph.githubassets.com/49bc33b2e29995afccbca36dfaaa76742413117e90980848cffead24cf6919bf/alainnothere/llm-circuit-finder",
+      "image": "https://opengraph.githubassets.com/c4e43af950ab6c8fe665423f677981b247999d215eb85103f9f0b99d8b1d4f17/alainnothere/llm-circuit-finder",
       "summary": "Summary unavailable."
     },
     {
@@ -166,28 +193,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-      "url": "https://mlbenchmarks.org/00-preface.html",
-      "published": "2026-03-14T20:15:03",
-      "image": "data/images/60c55375bb5211503553c8d57401664b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What 81,000 people want from AI",
-      "url": "https://www.anthropic.com/features/81k-interviews",
-      "published": "2026-03-19T05:00:56",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/4f94dcd81c982c69811aafbd56cc07aec185bc19-2400x1260.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI Has New Focus (on the IPO)",
-      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-      "published": "2026-03-18T10:49:19",
-      "image": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?ixid=M3wxMzczOTd8MHwxfGFsbHx8fHx8fHx8fDE3MDA2NjQyNDF8&ixlib=rb-4.0.3&fm=jpg&q=85&fit=crop&w=2560&h=1441",
+      "title": "The strait of Hormuz blockade will strangle US defense industry",
+      "url": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs",
+      "published": "2026-03-19T12:26:13",
+      "image": "https://i.guim.co.uk/img/media/8580e0c4a659b2303d878ed68b0840f77274d67e/338_0_1730_1385/master/1730.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bec827ddd190d2fc98c7a8955fd02ae5",
       "summary": "Summary unavailable."
     }
   ],
