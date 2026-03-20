@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T05:11:27.647203",
+  "updated": "2026-03-20T08:27:31.833656",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -34,7 +34,7 @@
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,10 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "published": "2026-03-16T19:49:20",
+      "image": "data/images/4b54014564ae282cbfb293e95986464d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
       "published": "2026-03-19T15:56:06",
-      "image": "https://opengraph.githubassets.com/af6a2145ae1ad85e1ac5b9b617f1fdab2f865e760687026a1b73a44fb0671d7d/KittenML/KittenTTS",
+      "image": "https://opengraph.githubassets.com/3394a13ac19ec8ab46edcef18307671d0634620172805dd9934a11f5c4c527ec/KittenML/KittenTTS",
       "summary": "Summary unavailable."
     },
     {
@@ -175,19 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
-      "url": "https://esolang-bench.vercel.app/",
-      "published": "2026-03-19T21:01:03",
-      "image": "data/images/aeb23fd31828e145ff9685424cbfec17.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
       "url": "https://qlabs.sh/10x",
       "published": "2026-03-19T18:51:25",
-      "image": "data/images/d991a5d0ceea3f0f4b58c7b1e1267d9e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
