@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T16:29:20.860092",
+  "updated": "2026-03-20T20:19:29.586302",
   "articles": [
     {
       "source": "RSS",
@@ -61,7 +61,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,19 +94,19 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-      "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "published": "Fri, 20 Mar 2026 19:38:16 GMT",
+      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
-      "url": "https://huggingface.co/blog/nvidia/speed-bench",
-      "published": "Thu, 19 Mar 2026 14:04:54 GMT",
-      "image": "data/images/e3eed02b67490f49749eecfa0a70f87f.png",
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "published": "Fri, 20 Mar 2026 14:14:46 GMT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,7 +139,25 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "HP realizes that mandatory 15-minute support call wait times isn't good support",
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "published": "2026-03-20T13:01:56",
+      "image": "data/images/78c12fef7ba820fe59eb1ee4545e1549.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
+      "url": "https://www.mollywhite.net/micro/entry/202603172318",
+      "published": "2026-03-20T16:34:04",
+      "image": "https://www.mollywhite.net/assets/images/molly_illustration.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "HP trialed mandatory 15-minute support call wait times (2025)",
       "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
       "published": "2026-03-20T13:23:56",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1400844458-1152x648.jpg",
@@ -148,19 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "published": "2026-03-19T17:16:04",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/developer-identity-hero-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
-      "url": "https://github.com/KittenML/KittenTTS",
-      "published": "2026-03-19T15:56:06",
-      "image": "https://opengraph.githubassets.com/f7735a1889216a677a0c10eaa8496f523a036bba3c965085cacb3723068cae74/KittenML/KittenTTS",
+      "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
+      "url": "https://www.sharpai.org/benchmark/",
+      "published": "2026-03-20T16:41:42",
+      "image": "https://www.sharpai.org/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
