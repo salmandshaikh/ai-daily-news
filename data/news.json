@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T08:27:31.833656",
+  "updated": "2026-03-20T12:29:30.370782",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,7 +34,7 @@
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs",
+      "url": "https://thecoolingreport.com/intel.html",
+      "published": "2026-03-20T10:46:15",
+      "image": "https://thecoolingreport.com/og/default.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
       "published": "2026-03-19T17:16:04",
@@ -148,19 +157,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
-      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-      "published": "2026-03-16T19:49:20",
-      "image": "data/images/4b54014564ae282cbfb293e95986464d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
       "published": "2026-03-19T15:56:06",
-      "image": "https://opengraph.githubassets.com/3394a13ac19ec8ab46edcef18307671d0634620172805dd9934a11f5c4c527ec/KittenML/KittenTTS",
+      "image": "https://opengraph.githubassets.com/023be30e006cbfd2fe569276abc0630a13e07f5e0d434cbde30db138a3b1580d/KittenML/KittenTTS",
       "summary": "Summary unavailable."
     },
     {
@@ -179,15 +179,6 @@
       "url": "https://aicode.swerdlow.dev",
       "published": "2026-03-19T21:23:24",
       "image": "data/images/d788c4414211bebfb86ca984d0a4e6f1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
-      "url": "https://qlabs.sh/10x",
-      "published": "2026-03-19T18:51:25",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
