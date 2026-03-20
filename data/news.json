@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T00:59:01.410219",
+  "updated": "2026-03-20T05:11:27.647203",
   "articles": [
     {
       "source": "RSS",
@@ -34,7 +34,7 @@
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,15 +139,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Astral to Join OpenAI",
-      "url": "https://astral.sh/blog/openai",
-      "published": "2026-03-19T13:05:50",
-      "image": "https://astral.sh/static/OpenGraph/Astral.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
       "published": "2026-03-19T17:16:04",
@@ -160,16 +151,16 @@
       "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
       "published": "2026-03-19T15:56:06",
-      "image": "https://opengraph.githubassets.com/75886b2840fcaedcf768e03329bb65c191df2dce6cd2d186265b513f0e2a09ea/KittenML/KittenTTS",
+      "image": "https://opengraph.githubassets.com/af6a2145ae1ad85e1ac5b9b617f1fdab2f865e760687026a1b73a44fb0671d7d/KittenML/KittenTTS",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
-      "url": "https://esolang-bench.vercel.app/",
-      "published": "2026-03-19T21:01:03",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "published": "2026-03-19T13:05:50",
+      "image": "https://astral.sh/static/OpenGraph/Astral.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -179,6 +170,15 @@
       "url": "https://aicode.swerdlow.dev",
       "published": "2026-03-19T21:23:24",
       "image": "data/images/d788c4414211bebfb86ca984d0a4e6f1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+      "url": "https://esolang-bench.vercel.app/",
+      "published": "2026-03-19T21:01:03",
+      "image": "data/images/aeb23fd31828e145ff9685424cbfec17.png",
       "summary": "Summary unavailable."
     },
     {
