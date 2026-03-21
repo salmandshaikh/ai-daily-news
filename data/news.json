@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T20:19:29.586302",
+  "updated": "2026-03-21T00:55:13.154083",
   "articles": [
     {
       "source": "RSS",
@@ -106,7 +106,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenCode \u2013 The open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "published": "2026-03-20T21:03:52",
+      "image": "https://opencode.ai/social-share.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
       "published": "2026-03-20T13:01:56",
@@ -148,35 +157,35 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
-      "url": "https://www.mollywhite.net/micro/entry/202603172318",
-      "published": "2026-03-20T16:34:04",
-      "image": "https://www.mollywhite.net/assets/images/molly_illustration.png",
+      "title": "Why I'm Not Worried About Running Out of Work in the Age of AI",
+      "url": "https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/",
+      "published": "2026-03-20T23:33:48",
+      "image": "https://i0.wp.com/kellblog.com/wp-content/uploads/2026/03/work-in-ai.jpg?fit=1537%2C991&ssl=1",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "HP trialed mandatory 15-minute support call wait times (2025)",
-      "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
-      "published": "2026-03-20T13:23:56",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1400844458-1152x648.jpg",
+      "title": "Show HN: I made an email app inspired by Arc browser",
+      "url": "https://demo.define.app",
+      "published": "2026-03-20T18:06:20",
+      "image": "https://demo.define.app/define_og_media.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-      "url": "https://www.sharpai.org/benchmark/",
-      "published": "2026-03-20T16:41:42",
-      "image": "https://www.sharpai.org/og-image.png",
+      "title": "Show HN: Baltic shadow fleet tracker \u2013 live AIS, cable proximity alerts",
+      "url": "https://github.com/FormerLab/shadow-fleet-tracker-light",
+      "published": "2026-03-20T21:04:11",
+      "image": "https://opengraph.githubassets.com/02e73ec49df36fa816b32dc5ebbc25e71c3239325856a1787168151f428eff64/FormerLab/shadow-fleet-tracker-light",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-20",
+    "date": "2026-03-21",
     "speakers": [
       "Alex",
       "Jordan"
