@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T12:21:33.840419",
+  "updated": "2026-03-21T16:15:52.078393",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +148,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
-      "url": "https://blog.atuin.sh/atuin-v18-13/",
-      "published": "2026-03-21T10:35:20",
-      "image": "data/images/afb2b4cad36ee4a981be877e1572a310.png",
+      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+      "published": "2026-03-21T07:30:16",
+      "image": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "published": "2026-03-21T07:30:16",
-      "image": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg",
+      "title": "Major leap towards reanimation after death as mammal's brain preserved",
+      "url": "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/",
+      "published": "2026-03-21T14:22:48",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/20161544/SEI_290260180.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Team OS \u2013 Turn Claude Code into a Self-Managing AI Team",
+      "url": "https://github.com/CronusL-1141/AI-company",
+      "published": "2026-03-21T09:38:23",
+      "image": "https://opengraph.githubassets.com/1c74b4d67a5a97fdff02879b841bebea51e662fe2c860a2cff51609fee67a599/CronusL-1141/AI-company",
       "summary": "Summary unavailable."
     },
     {
@@ -175,10 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Ugliest Airplane: An Appreciation",
-      "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-      "published": "2026-03-18T16:52:58",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/4aC0kZOQDQLb4TyltO9IZMnQzgw=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/93/3a/933ad68e-af75-4c6d-8aea-b86cc1b55d5c/11j_dj2022_ugliestshowplane-gavinconroyac3q8790_live.jpg",
+      "title": "Just make it hard to fail",
+      "url": "https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail",
+      "published": "2026-03-21T13:38:11",
+      "image": "data/images/c2f04d43975b0892d1b0b3165edb96ae.png",
       "summary": "Summary unavailable."
     },
     {
@@ -187,7 +196,7 @@
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
       "published": "2026-03-20T13:01:56",
-      "image": "data/images/78c12fef7ba820fe59eb1ee4545e1549.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
