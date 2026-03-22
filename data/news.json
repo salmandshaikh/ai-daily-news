@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T16:16:15.880041",
+  "updated": "2026-03-22T20:13:58.174066",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
       "published": "2026-03-22T11:30:03",
-      "image": "https://opengraph.githubassets.com/793527ec93c8f46fc838b7a2f4d5bb091649a05c0e97fdef332831a4fda5be4d/danveloper/flash-moe",
+      "image": "https://opengraph.githubassets.com/75b37b0cdcba96fd0904b99904eae39a7d7c42fc8ca0f977f9ae0314e1cffde2/danveloper/flash-moe",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
-      "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
-      "published": "2026-03-22T12:23:04",
-      "image": "data/images/254631a48f63d023137d355f26e2854f.png",
+      "title": "Learnings from training a font recognition model from scratch",
+      "url": "https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch",
+      "published": "2026-03-17T20:16:14",
+      "image": "https://static.normalsoftware.com/mixfont-og-rlgnsi8j.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Turns out your coffee addiction may be doing your brain a favor",
-      "url": "https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
-      "published": "2026-03-22T12:52:58",
-      "image": "https://regmedia.co.uk/2016/11/17/coffee_photo_via_shutterstock.jpg",
+      "title": "A case against currying",
+      "url": "https://emi-h.com/articles/a-case-against-currying.html",
+      "published": "2026-03-22T13:03:55",
+      "image": "data/images/43bbc1600452e9bf220e9d5011ed324c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Revise \u2013 An AI Editor for Documents",
+      "url": "https://revise.io",
+      "published": "2026-03-22T13:28:45",
+      "image": "https://revise.io/og.png",
       "summary": "Summary unavailable."
     }
   ],
