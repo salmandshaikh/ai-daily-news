@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T08:20:49.854494",
+  "updated": "2026-03-22T12:22:34.168151",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -43,7 +43,7 @@
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,28 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "url": "https://github.com/danveloper/flash-moe",
+      "published": "2026-03-22T11:30:03",
+      "image": "https://opengraph.githubassets.com/f599a800a76b76a2830431e0eeb5a257105e2b76cc6864c399ebd035abdc1c7d/danveloper/flash-moe",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
       "url": "https://zenodo.org/records/18976656",
       "published": "2026-03-22T07:07:15",
-      "image": "data/images/abf57b67aad951e3bfaa077a4f3513ee.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trivy ecosystem supply chain briefly compromised",
-      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
-      "published": "2026-03-20T03:30:07",
-      "image": "https://opengraph.githubassets.com/f87543b71331dd5ba057136fd72d2703c7a66ceb5e49babd18b8131bcd356c65/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Training Center for Maneuvering on Manned Model Ships",
-      "url": "https://www.portrevel.com/",
-      "published": "2026-03-20T12:04:49",
-      "image": "data/images/f1aa314e5671ebc6bbdfb3e9ced6c51a.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -175,10 +166,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The paddle wheel aircraft carriers of Lake Michigan",
-      "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
-      "published": "2026-03-17T16:48:51",
-      "image": "https://signoregalilei.com/wp-content/uploads/2026/03/USS_Wolverine_IX-64_underway_in_Chicago_harbor_USA_22_August_1943-300x157.jpg",
+      "title": "Training Center for Maneuvering on Manned Model Ships",
+      "url": "https://www.portrevel.com/",
+      "published": "2026-03-20T12:04:49",
+      "image": "data/images/f1aa314e5671ebc6bbdfb3e9ced6c51a.png",
       "summary": "Summary unavailable."
     }
   ],
