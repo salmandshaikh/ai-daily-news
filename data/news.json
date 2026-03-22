@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T12:22:34.168151",
+  "updated": "2026-03-22T16:16:15.880041",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -43,7 +43,7 @@
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,34 +142,25 @@
       "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
       "url": "https://github.com/danveloper/flash-moe",
       "published": "2026-03-22T11:30:03",
-      "image": "https://opengraph.githubassets.com/f599a800a76b76a2830431e0eeb5a257105e2b76cc6864c399ebd035abdc1c7d/danveloper/flash-moe",
+      "image": "https://opengraph.githubassets.com/793527ec93c8f46fc838b7a2f4d5bb091649a05c0e97fdef332831a4fda5be4d/danveloper/flash-moe",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "url": "https://zenodo.org/records/18976656",
-      "published": "2026-03-22T07:07:15",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
+      "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
+      "published": "2026-03-22T12:23:04",
+      "image": "data/images/254631a48f63d023137d355f26e2854f.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-      "published": "2026-03-21T15:30:29",
-      "image": "data/images/4a7aa3bf88c3152f9403e55b665fe7af.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Training Center for Maneuvering on Manned Model Ships",
-      "url": "https://www.portrevel.com/",
-      "published": "2026-03-20T12:04:49",
-      "image": "data/images/f1aa314e5671ebc6bbdfb3e9ced6c51a.png",
+      "title": "Turns out your coffee addiction may be doing your brain a favor",
+      "url": "https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
+      "published": "2026-03-22T12:52:58",
+      "image": "https://regmedia.co.uk/2016/11/17/coffee_photo_via_shutterstock.jpg",
       "summary": "Summary unavailable."
     }
   ],
