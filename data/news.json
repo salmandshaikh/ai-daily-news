@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T01:01:43.037103",
+  "updated": "2026-03-22T05:15:27.568164",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -79,7 +79,7 @@
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,15 +148,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
-      "published": "2026-03-21T22:03:05",
-      "image": "https://darkounity.com/api/images/opentowrok.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Trivy ecosystem supply chain briefly compromised",
       "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
       "published": "2026-03-20T03:30:07",
@@ -184,10 +175,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",
-      "url": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
-      "published": "2026-03-21T19:55:23",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260321-hawaii-flooding-ww-1325-d20d67.jpg",
+      "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+      "published": "2026-03-21T22:03:05",
+      "image": "https://darkounity.com/api/images/opentowrok.webp",
       "summary": "Summary unavailable."
     }
   ],
