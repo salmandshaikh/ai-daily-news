@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T20:02:38.286128",
+  "updated": "2026-03-22T01:01:43.037103",
   "articles": [
     {
       "source": "RSS",
@@ -97,7 +97,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The seven hour explosion nobody could explain",
-      "url": "https://phys.org/news/2026-03-hour-explosion.html",
-      "published": "2026-03-17T11:14:23",
-      "image": "data/images/89ded5da2d7155e7921ed1424c04d3b0.png",
+      "title": "Tinybox \u2013 Offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "published": "2026-03-21T20:08:37",
+      "image": "data/images/0bf35657441a3a7fe75dd840a1791249.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenCode \u2013 Open source AI coding agent",
-      "url": "https://opencode.ai/",
-      "published": "2026-03-20T21:03:52",
-      "image": "https://opencode.ai/social-share.png",
+      "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+      "published": "2026-03-21T22:03:05",
+      "image": "https://darkounity.com/api/images/opentowrok.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Trivy ecosystem supply chain briefly compromised",
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "published": "2026-03-20T03:30:07",
+      "image": "https://opengraph.githubassets.com/0988760f7897540bf66fdee8f66ae98b523eebe201a9e4998076dd8e8aec9f14/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The paddle wheel aircraft carriers of Lake Michigan",
+      "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
+      "published": "2026-03-17T16:48:51",
+      "image": "https://signoregalilei.com/wp-content/uploads/2026/03/USS_Wolverine_IX-64_underway_in_Chicago_harbor_USA_22_August_1943-300x157.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -166,44 +184,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "published": "2026-03-21T07:30:16",
-      "image": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A pig's brain has been frozen with its cellular activity locked in place",
-      "url": "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/",
-      "published": "2026-03-21T14:22:48",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/03/20161544/SEI_290260180.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Senior European journalist suspended over AI-generated quotes",
-      "url": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
-      "published": "2026-03-21T14:50:13",
-      "image": "https://i.guim.co.uk/img/media/f53f8e674f5b3c1fccaf19b9b0a8e24f0987ae2f/101_0_1499_1199/master/1499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5adaa12d59579fdcda49ac7f11363bd9",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
-      "url": "https://blog.atuin.sh/atuin-v18-13/",
-      "published": "2026-03-21T10:35:20",
-      "image": "data/images/afb2b4cad36ee4a981be877e1572a310.png",
+      "title": "Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",
+      "url": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
+      "published": "2026-03-21T19:55:23",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260321-hawaii-flooding-ww-1325-d20d67.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "speakers": [
       "Alex",
       "Jordan"
