@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T16:43:12.751114",
+  "updated": "2026-03-23T20:27:06.764013",
   "articles": [
     {
       "source": "RSS",
@@ -148,10 +148,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GitHub appears to be struggling with measly three nines availability",
-      "url": "https://www.theregister.com/2026/02/10/github_outages/",
-      "published": "2026-03-23T10:39:39",
-      "image": "https://regmedia.co.uk/2022/02/15/outage_shutterstock.jpg",
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "published": "2026-03-22T09:45:14",
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/6afe7a11b9f6e0eaca499016e7760f5674917627-1024x1024.png?w=1000&q=95&fit=max&auto=format",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Risks \"Hypernormal\" Science",
+      "url": "https://www.asimov.press/p/ai-science",
+      "published": "2026-03-23T18:19:05",
+      "image": "https://substackcdn.com/image/fetch/$s_!DzmV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f54019-17ca-4c21-b886-cb112c763fde_2000x1260.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -170,6 +179,15 @@
       "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
       "published": "2026-03-19T19:42:35",
       "image": "data/images/33ac163c7be19d8a4aaea9dba005f38c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GitHub appears to be struggling with measly three nines availability",
+      "url": "https://www.theregister.com/2026/02/10/github_outages/",
+      "published": "2026-03-23T10:39:39",
+      "image": "https://regmedia.co.uk/2022/02/15/outage_shutterstock.jpg",
       "summary": "Summary unavailable."
     }
   ],
