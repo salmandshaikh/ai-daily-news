@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T20:13:58.174066",
+  "updated": "2026-03-23T01:03:15.030645",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
       "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/f56b50e863d0075cfc481cb0c2e594af.png",
       "summary": "Summary unavailable."
     },
     {
@@ -70,7 +70,7 @@
       "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
       "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
       "published": "Tue, 03 Mar 2026 16:35:55 +0000",
-      "image": "data/images/f042b0d98e8577f41c7975f5837161fb.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -97,7 +97,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,44 +139,62 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LLMs predict my coffee",
+      "url": "https://dynomight.net/coffee/",
+      "published": "2026-03-18T13:56:37",
+      "image": "https://dynomight.net/img/coffee/two_women_drinking_coffee.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "published": "2026-03-22T21:14:11",
+      "image": "data/images/419ac38ff12d37c2ce035be065b339b3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
       "published": "2026-03-22T11:30:03",
-      "image": "https://opengraph.githubassets.com/75b37b0cdcba96fd0904b99904eae39a7d7c42fc8ca0f977f9ae0314e1cffde2/danveloper/flash-moe",
+      "image": "https://opengraph.githubassets.com/3e0dab07847593ec0954f88202c0a5b5eede1e16d3b9b07cc041e5b602178540/danveloper/flash-moe",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Learnings from training a font recognition model from scratch",
-      "url": "https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch",
-      "published": "2026-03-17T20:16:14",
-      "image": "https://static.normalsoftware.com/mixfont-og-rlgnsi8j.webp",
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "published": "2026-03-21T20:58:01",
+      "image": "https://nesbitt.io/images/boxes.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A case against currying",
-      "url": "https://emi-h.com/articles/a-case-against-currying.html",
-      "published": "2026-03-22T13:03:55",
-      "image": "data/images/43bbc1600452e9bf220e9d5011ed324c.png",
+      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "published": "2026-03-19T04:56:25",
+      "image": "https://bay41.com/images/logo.ca48f6e7668ee9e8279e795154a62954cd552c8914b052146c59f531f31bca34.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Revise \u2013 An AI Editor for Documents",
-      "url": "https://revise.io",
-      "published": "2026-03-22T13:28:45",
-      "image": "https://revise.io/og.png",
+      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "published": "2026-03-22T18:18:01",
+      "image": "data/images/ab8927af7cdd741b4be2beedac7161c7.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-22",
+    "date": "2026-03-23",
     "speakers": [
       "Alex",
       "Jordan"
