@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T05:53:37.108132",
+  "updated": "2026-03-24T08:37:21.872145",
   "articles": [
     {
       "source": "RSS",
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "published": "2026-03-24T01:53:09",
-      "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
+      "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
+      "url": "https://proofshot.argil.io/",
+      "published": "2026-03-24T07:46:46",
+      "image": "data/images/c17f528c4ec228e05c3339838876b222.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "published": "2026-03-24T01:53:09",
+      "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
       "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
       "published": "2026-03-23T16:11:03",
       "image": "https://blog.mozilla.ai/content/images/size/w1200/2026/03/mozilla-ai-cq-stack-overflow-for-agents-blog-hero-image-1200x630.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pool spare GPU capacity to run LLMs at larger scale",
+      "url": "https://github.com/michaelneale/mesh-llm",
+      "published": "2026-03-24T05:57:00",
+      "image": "https://opengraph.githubassets.com/c21354921148e10361b961ab1d47602fb64aee9a242a5d5f83dc650ae340bcb6/michaelneale/mesh-llm",
       "summary": "Summary unavailable."
     },
     {
