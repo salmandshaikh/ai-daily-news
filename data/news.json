@@ -1,6 +1,24 @@
 {
-  "updated": "2026-03-24T12:39:38.058786",
+  "updated": "2026-03-24T16:47:44.964144",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -26,24 +44,6 @@
       "url": "https://openai.com/index/openai-to-acquire-astral",
       "published": "Thu, 19 Mar 2026 00:00:00 GMT",
       "image": "data/images/8bab1b224635f93257a691361784c074.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/32b25cc0ef0ea7d7631b41981705ef7e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,69 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "published": "2026-03-24T12:36:20",
+      "image": "https://opengraph.githubassets.com/92818d57c85fb9a9e3e08a4ac75f047823f61099fe5b5e7f33e4c14592deb8fe/BerriAI/litellm/issues/24512",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+      "url": "https://github.com/t8/hypura",
+      "published": "2026-03-24T16:02:22",
+      "image": "https://opengraph.githubassets.com/3eb0a415041a5e139b4f744ea1e1b1c346c6c7e4d3a9f0946e80e064a5e5ed79/t8/hypura",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+      "published": "2026-03-24T15:19:19",
+      "image": "https://i.guim.co.uk/img/media/949bea7c064fe803ca2163eeb445f1392d4d52eb/2407_951_5495_4395/master/5495.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d49abfc83b9c6f4bdfbe8449151695ce",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+      "published": "2026-03-24T12:14:56",
+      "image": "data/images/6b29a8516980503ba385c798282c68d4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
+      "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
+      "published": "2026-03-24T13:21:24",
+      "image": "data/images/b996fe95e93b79ac9b312d5a88a96adb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "So where are all the AI apps?",
+      "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+      "published": "2026-03-24T14:19:59",
+      "image": "https://www.answer.ai/posts/so-where-are-all-the-ai-apps/chart_04_releases_2x2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
+      "url": "https://dnhkng.github.io/posts/rys-ii/",
+      "published": "2026-03-24T10:33:54",
+      "image": "data/images/e4a4bc8d32f265c7c39445ba56d4ce00.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
       "published": "2026-03-23T14:30:10",
@@ -148,28 +211,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
-      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "published": "2026-03-23T16:11:03",
-      "image": "https://blog.mozilla.ai/content/images/size/w1200/2026/03/mozilla-ai-cq-stack-overflow-for-agents-blog-hero-image-1200x630.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "published": "2026-03-22T09:45:14",
-      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/6afe7a11b9f6e0eaca499016e7760f5674917627-1024x1024.png?w=1000&q=95&fit=max&auto=format",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I built an AI receptionist for a mechanic shop",
-      "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-      "published": "2026-03-23T10:32:33",
-      "image": "http://localhost:4321/screenshot.jpg",
+      "title": "The bridge to wealth is being pulled up with AI",
+      "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+      "published": "2026-03-24T14:39:20",
+      "image": "https://danielhomola.com/assets/images/forest.jpg",
       "summary": "Summary unavailable."
     }
   ],
