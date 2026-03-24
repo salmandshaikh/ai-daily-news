@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T00:56:20.191198",
+  "updated": "2026-03-24T05:53:37.108132",
   "articles": [
     {
       "source": "RSS",
@@ -31,19 +31,19 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
+      "image": "data/images/32b25cc0ef0ea7d7631b41981705ef7e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "image": "data/images/32b25cc0ef0ea7d7631b41981705ef7e.png",
+      "image": "data/images/cdc2060c1333e06b2ffbd82398068bef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,6 +94,15 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "published": "Tue, 24 Mar 2026 02:01:52 GMT",
+      "image": "data/images/31bc27add38cdc3f5fa73f858226ffad.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
@@ -128,12 +137,12 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Storage Buckets on the Hugging Face Hub",
-      "url": "https://huggingface.co/blog/storage-buckets",
-      "published": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "image": "data/images/8b1df4a70a260d5bf0dd7eef4f742b60.png",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "published": "2026-03-24T01:53:09",
+      "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,19 +157,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ju Ci: The Art of Repairing Porcelain",
-      "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
-      "published": "2026-03-21T15:07:29",
-      "image": "https://i0.wp.com/thesublimeblog.org/wp-content/uploads/2025/03/Poster-4.jpg?fit=532%2C570&ssl=1",
+      "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
+      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "published": "2026-03-23T16:11:03",
+      "image": "https://blog.mozilla.ai/content/images/size/w1200/2026/03/mozilla-ai-cq-stack-overflow-for-agents-blog-hero-image-1200x630.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
-      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "published": "2026-03-23T16:11:03",
-      "image": "https://blog.mozilla.ai/content/images/size/w1200/2026/03/mozilla-ai-cq-stack-overflow-for-agents-blog-hero-image-1200x630.png",
+      "title": "Ju Ci: The Art of Repairing Porcelain",
+      "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+      "published": "2026-03-21T15:07:29",
+      "image": "https://i0.wp.com/thesublimeblog.org/wp-content/uploads/2025/03/Poster-4.jpg?fit=532%2C570&ssl=1",
       "summary": "Summary unavailable."
     },
     {
@@ -175,28 +184,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Designing AI for Disruptive Science",
-      "url": "https://www.asimov.press/p/ai-science",
-      "published": "2026-03-23T18:19:05",
-      "image": "https://substackcdn.com/image/fetch/$s_!DzmV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f54019-17ca-4c21-b886-cb112c763fde_2000x1260.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "I built an AI receptionist for a mechanic shop",
       "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
       "published": "2026-03-23T10:32:33",
       "image": "http://localhost:4321/screenshot.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
-      "url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
-      "published": "2026-03-23T23:32:17",
-      "image": "https://i.guim.co.uk/img/media/a4fc80e643187b6b66f98b0e0f64193afdc28f1e/428_0_3331_2667/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c26cfb00b5ae54e23f23868406a7d5d6",
       "summary": "Summary unavailable."
     }
   ],
