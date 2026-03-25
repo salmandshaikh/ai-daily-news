@@ -1,13 +1,31 @@
 {
-  "updated": "2026-03-25T16:51:34.686134",
+  "updated": "2026-03-25T20:27:19.980776",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+      "image": "data/images/b68aa49f6852f88eca23b541847163d0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+      "image": "data/images/fa7f7e2e9aeba3c9a26dce914b99985b.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "published": "Tue, 24 Mar 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/fca4ef5f56ddf0eac547d158bb6296ff.png",
       "summary": "Summary unavailable."
     },
     {
@@ -26,24 +44,6 @@
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "published": "Mon, 23 Mar 2026 00:00:00 GMT",
-      "image": "data/images/8d17affe26665bfa2eef62b2e0a893a9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -88,7 +88,7 @@
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,19 +139,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Local LLM App by Ente",
-      "url": "https://ente.com/blog/ensu/",
-      "published": "2026-03-25T12:49:14",
-      "image": "https://ente.com/og-images/ensu.png",
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "published": "2026-03-25T19:14:42",
+      "image": "data/images/ad0f15b14442eae57848cc8734821714.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
       "published": "2026-03-22T14:28:06",
       "image": "https://rpastro.square.site/uploads/b/b26eba30-e7ea-11ee-8dc4-a9472e181ebe/IMG_0058.PNG",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ensu \u2013 Ente\u2019s Local LLM app",
+      "url": "https://ente.com/blog/ensu/",
+      "published": "2026-03-25T12:49:14",
+      "image": "https://ente.com/og-images/ensu.png",
       "summary": "Summary unavailable."
     },
     {
@@ -170,15 +179,6 @@
       "url": "https://flighty.com/airports",
       "published": "2026-03-25T00:29:45",
       "image": "https://flighty.com/airports/image/card-airport-details.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "published": "2026-03-24T12:06:29",
-      "image": "https://opengraph.githubassets.com/62fe978deee82451d4c520b523e5623ce01fbed49fb1b15ca2fefaffe61c411e/BerriAI/litellm/issues/24512",
       "summary": "Summary unavailable."
     },
     {
