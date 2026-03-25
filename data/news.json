@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T12:36:56.774740",
+  "updated": "2026-03-25T16:51:34.686134",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,16 @@
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "published": "Wed, 25 Mar 2026 16:01:39 +0000",
+      "image": "data/images/ae192aff197d4bc7ba5015cc25ac9223.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,16 +88,7 @@
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
       "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
-      "published": "Thu, 19 Feb 2026 16:06:14 +0000",
-      "image": "data/images/eb96b83819227f37c4b62e31de352341.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,24 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Local LLM App by Ente",
+      "url": "https://ente.com/blog/ensu/",
+      "published": "2026-03-25T12:49:14",
+      "image": "https://ente.com/og-images/ensu.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "published": "2026-03-22T14:28:06",
+      "image": "https://rpastro.square.site/uploads/b/b26eba30-e7ea-11ee-8dc4-a9472e181ebe/IMG_0058.PNG",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
       "published": "2026-03-25T05:00:54",
@@ -160,16 +178,16 @@
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
       "published": "2026-03-24T12:06:29",
-      "image": "https://opengraph.githubassets.com/82335f1dd0f4d33c4bf81dd1b8e37abdee469036dd2cdcde14f47645d9d9a247/BerriAI/litellm/issues/24512",
+      "image": "https://opengraph.githubassets.com/62fe978deee82451d4c520b523e5623ce01fbed49fb1b15ca2fefaffe61c411e/BerriAI/litellm/issues/24512",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-      "published": "2026-03-25T10:28:49",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0n8k8mz.jpg",
+      "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo",
+      "published": "2026-03-25T15:46:44",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f44/live/0c885cf0-283f-11f1-ac61-c943803d2ed3.jpg",
       "summary": "Summary unavailable."
     }
   ],
