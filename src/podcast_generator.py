@@ -6,9 +6,6 @@ from pathlib import Path
 import edge_tts
 from groq import Groq
 
-# Initialize Groq client
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-
 # Voice configuration for two speakers
 VOICE_ALEX = "en-US-GuyNeural"      # Male voice
 VOICE_JORDAN = "en-US-JennyNeural"  # Female voice
@@ -49,6 +46,10 @@ ALEX: [follow-up]
 Start with a brief intro and end with a sign-off. Make it sound natural and engaging!"""
 
     try:
+        groq_api_key = os.getenv("GROQ_API_KEY")
+        if not groq_api_key:
+            raise ValueError("GROQ_API_KEY not set")
+        client = Groq(api_key=groq_api_key)
         response = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[

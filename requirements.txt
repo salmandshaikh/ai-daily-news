@@ -1,7 +1,7 @@
 requests
 feedparser
 beautifulsoup4
-duckduckgo-search
+duckduckgo-search>=6.0,<7.0
 python-dotenv
 groq
 openai

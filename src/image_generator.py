@@ -27,18 +27,14 @@ def get_cache_path(article_title):
 def fetch_image_from_web(query):
     """Fetch an image URL using DuckDuckGo"""
     try:
-        with DDGS() as ddgs:
-            # Search for images
-            results = list(ddgs.images(
-                query,
-                max_results=1,
-                safesearch='on',
-                size='Medium',
-                type_image='photo'
-            ))
-            
-            if results and len(results) > 0:
-                return results[0]['image']
+        results = list(DDGS().images(
+            query,
+            max_results=1,
+            safesearch='on',
+            size='Medium',
+        ))
+        if results:
+            return results[0]['image']
     except Exception as e:
         print(f"Error fetching image for '{query}': {e}")
     return None
