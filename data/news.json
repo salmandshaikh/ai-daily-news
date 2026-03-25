@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T05:19:44.277061",
+  "updated": "2026-03-25T08:35:43.643176",
   "articles": [
     {
       "source": "RSS",
@@ -43,7 +43,7 @@
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,6 +139,15 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "published": "2026-03-25T05:00:54",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Flighty Airports",
       "url": "https://flighty.com/airports",
       "published": "2026-03-25T00:29:45",
@@ -151,16 +160,7 @@
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
       "published": "2026-03-24T12:06:29",
-      "image": "https://opengraph.githubassets.com/3cb1480ba5a32a9c84c980c6bc720ec247232dd0e3aa0e1167a7e8c9e18e1b04/BerriAI/litellm/issues/24512",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Intel Device Modeling Language for virtual platforms",
-      "url": "https://github.com/intel/device-modeling-language",
-      "published": "2026-03-21T08:35:51",
-      "image": "https://opengraph.githubassets.com/dd112084b1fae591890fbc7bc34c535a0eadd7ae38b3697ca3da6a59a41cccc0/intel/device-modeling-language",
+      "image": "https://opengraph.githubassets.com/5d925b37a85e3fa3524c085e116eab043f6ed9b7c42340ffac7829868aa41946/BerriAI/litellm/issues/24512",
       "summary": "Summary unavailable."
     },
     {
@@ -170,6 +170,15 @@
       "url": "https://www.emailmd.dev/",
       "published": "2026-03-24T16:26:00",
       "image": "data/images/25c88454154e2c594ae657c8264d622a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Intel Device Modeling Language for virtual platforms",
+      "url": "https://github.com/intel/device-modeling-language",
+      "published": "2026-03-21T08:35:51",
+      "image": "https://opengraph.githubassets.com/ad3deb2ea4ae4ddaa9531167ddf24daebd258a6c66f19e9fc76e122aa69ad135/intel/device-modeling-language",
       "summary": "Summary unavailable."
     },
     {
@@ -187,16 +196,7 @@
       "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
       "url": "https://github.com/t8/hypura",
       "published": "2026-03-24T16:02:22",
-      "image": "https://opengraph.githubassets.com/344e234c31de9447a7463708d49db33d8c85aa4293df2a837538fb16bb5a0006/t8/hypura",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: AI Roundtable \u2013 Let 200 models debate your question",
-      "url": "https://opper.ai/ai-roundtable/",
-      "published": "2026-03-24T19:15:27",
-      "image": "https://opper.ai/ai-roundtable/og-image.jpg",
+      "image": "https://opengraph.githubassets.com/5780fba17658ab4d021cf9b74c3132b5fb8b709467f91186ebff6819ee653ee1/t8/hypura",
       "summary": "Summary unavailable."
     }
   ],
