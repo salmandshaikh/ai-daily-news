@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T01:01:00.978678",
+  "updated": "2026-03-25T05:19:44.277061",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "published": "Tue, 24 Mar 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/fca4ef5f56ddf0eac547d158bb6296ff.png",
       "summary": "Summary unavailable."
     },
     {
@@ -106,7 +106,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -151,16 +151,16 @@
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
       "published": "2026-03-24T12:06:29",
-      "image": "https://opengraph.githubassets.com/8fd6e4896dbf6e4b07703e4f829d29a6f799258a428b029d3212b4469a776d62/BerriAI/litellm/issues/24512",
+      "image": "https://opengraph.githubassets.com/3cb1480ba5a32a9c84c980c6bc720ec247232dd0e3aa0e1167a7e8c9e18e1b04/BerriAI/litellm/issues/24512",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "published": "2026-03-24T18:34:52",
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-apps-through-wine.jpg?w=1600&h=900&fit=crop",
+      "title": "Intel Device Modeling Language for virtual platforms",
+      "url": "https://github.com/intel/device-modeling-language",
+      "published": "2026-03-21T08:35:51",
+      "image": "https://opengraph.githubassets.com/dd112084b1fae591890fbc7bc34c535a0eadd7ae38b3697ca3da6a59a41cccc0/intel/device-modeling-language",
       "summary": "Summary unavailable."
     },
     {
@@ -175,46 +175,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "published": "2026-03-24T18:34:52",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-apps-through-wine.jpg?w=1600&h=900&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
       "url": "https://github.com/t8/hypura",
       "published": "2026-03-24T16:02:22",
-      "image": "https://opengraph.githubassets.com/ff52855b1f7c9f935c047c31d5eef00466a74bd73ad0b006f0569581a8a44e57/t8/hypura",
+      "image": "https://opengraph.githubassets.com/344e234c31de9447a7463708d49db33d8c85aa4293df2a837538fb16bb5a0006/t8/hypura",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Is anybody else bored of talking about AI?",
-      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-      "published": "2026-03-24T20:31:08",
-      "image": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I ran a language model on a PS2",
-      "url": "https://github.com/xaskasdf/ps2-llm",
-      "published": "2026-03-21T19:27:57",
-      "image": "https://opengraph.githubassets.com/1ed82ea6e3afb95a1fa711a36ba8eda4dfa39db6fb51706182a95d6e0a9c18c6/xaskasdf/ps2-llm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "published": "2026-03-24T01:53:09",
-      "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GitHub is once again down",
-      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
-      "published": "2026-03-24T20:23:34",
-      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "title": "Show HN: AI Roundtable \u2013 Let 200 models debate your question",
+      "url": "https://opper.ai/ai-roundtable/",
+      "published": "2026-03-24T19:15:27",
+      "image": "https://opper.ai/ai-roundtable/og-image.jpg",
       "summary": "Summary unavailable."
     }
   ],
