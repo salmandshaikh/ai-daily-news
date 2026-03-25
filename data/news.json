@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T20:30:08.190273",
+  "updated": "2026-03-25T01:01:00.978678",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "published": "Tue, 24 Mar 2026 11:00:00 GMT",
-      "image": "data/images/fca4ef5f56ddf0eac547d158bb6296ff.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -43,7 +43,7 @@
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/e37208d7a972063b34e278453f2bcac7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "url": "https://github.com/t8/hypura",
-      "published": "2026-03-24T16:02:22",
-      "image": "https://opengraph.githubassets.com/46c66a3ffb04d2366d3a4aa40ecc2b7203eb79731e8965a0af66642b55e929c1/t8/hypura",
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "published": "2026-03-25T00:29:45",
+      "image": "https://flighty.com/airports/image/card-airport-details.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -151,7 +151,7 @@
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
       "published": "2026-03-24T12:06:29",
-      "image": "https://opengraph.githubassets.com/774b2eaec408b0d8b2d43e5f2ad702f320d44e968e344b9bac579d3d3725fa88/BerriAI/litellm/issues/24512",
+      "image": "https://opengraph.githubassets.com/8fd6e4896dbf6e4b07703e4f829d29a6f799258a428b029d3212b4469a776d62/BerriAI/litellm/issues/24512",
       "summary": "Summary unavailable."
     },
     {
@@ -175,26 +175,53 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-      "published": "2026-03-24T15:19:19",
-      "image": "https://i.guim.co.uk/img/media/949bea7c064fe803ca2163eeb445f1392d4d52eb/2407_951_5495_4395/master/5495.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d49abfc83b9c6f4bdfbe8449151695ce",
+      "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
+      "url": "https://github.com/t8/hypura",
+      "published": "2026-03-24T16:02:22",
+      "image": "https://opengraph.githubassets.com/ff52855b1f7c9f935c047c31d5eef00466a74bd73ad0b006f0569581a8a44e57/t8/hypura",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
-      "url": "https://github.com/AmElmo/proofshot",
-      "published": "2026-03-24T07:46:46",
-      "image": "https://opengraph.githubassets.com/411f2d083f7ddf4b64654301d2c65cef7a70a91cacd918692587514e6c1cc81f/AmElmo/proofshot",
+      "title": "Is anybody else bored of talking about AI?",
+      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "published": "2026-03-24T20:31:08",
+      "image": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I ran a language model on a PS2",
+      "url": "https://github.com/xaskasdf/ps2-llm",
+      "published": "2026-03-21T19:27:57",
+      "image": "https://opengraph.githubassets.com/1ed82ea6e3afb95a1fa711a36ba8eda4dfa39db6fb51706182a95d6e0a9c18c6/xaskasdf/ps2-llm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "published": "2026-03-24T01:53:09",
+      "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GitHub is once again down",
+      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+      "published": "2026-03-24T20:23:34",
+      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-24",
+    "date": "2026-03-25",
     "speakers": [
       "Alex",
       "Jordan"
