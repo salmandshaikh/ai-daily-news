@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T05:28:26.956719",
+  "updated": "2026-03-26T08:40:20.790138",
   "articles": [
     {
       "source": "RSS",
@@ -106,7 +106,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -115,7 +115,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -148,15 +148,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "url": "https://rpastro.square.site/s/stories/phm",
-      "published": "2026-03-22T14:28:06",
-      "image": "https://rpastro.square.site/uploads/b/b26eba30-e7ea-11ee-8dc4-a9472e181ebe/IMG_0058.PNG",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "False claims in a widely-cited paper",
       "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
       "published": "2026-03-26T00:46:31",
@@ -169,7 +160,7 @@
       "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
       "url": "https://github.com/lightfeed/extractor",
       "published": "2026-03-26T03:55:52",
-      "image": "https://opengraph.githubassets.com/bf27385a566b7b9af9c5319ee3461137596b855e4d97e5368627aea532059f09/lightfeed/extractor",
+      "image": "https://opengraph.githubassets.com/af1e7dd7683f8846480aa9a233395bdc7ed6d29fc59bb775b6d1915d3ef517d0/lightfeed/extractor",
       "summary": "Summary unavailable."
     },
     {
@@ -193,19 +184,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
-      "url": "https://github.com/jonwiggins/optio",
-      "published": "2026-03-25T17:10:21",
-      "image": "https://opengraph.githubassets.com/4084b11b2b1fafd2ec26eb1ab9081cd6938b16908c5ab27ca164616f62702443/jonwiggins/optio",
+      "title": "My astrophotography in the movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "published": "2026-03-22T14:28:06",
+      "image": "https://rpastro.square.site/uploads/b/b26eba30-e7ea-11ee-8dc4-a9472e181ebe/IMG_0058.PNG",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-      "published": "2026-03-25T10:28:49",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0n8k8mz.jpg",
+      "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "url": "https://github.com/jonwiggins/optio",
+      "published": "2026-03-25T17:10:21",
+      "image": "https://opengraph.githubassets.com/d6a7c399b22b26b28c4f0f15fca4becb9686e4f4f6bbf2491db03304e9d8ef27/jonwiggins/optio",
       "summary": "Summary unavailable."
     }
   ],
