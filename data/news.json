@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T12:43:21.286414",
+  "updated": "2026-03-26T16:51:11.885768",
   "articles": [
     {
       "source": "RSS",
@@ -25,7 +25,7 @@
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "published": "Tue, 24 Mar 2026 11:00:00 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/fca4ef5f56ddf0eac547d158bb6296ff.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,6 +44,24 @@
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "published": "Thu, 26 Mar 2026 15:23:35 +0000",
+      "image": "data/images/df65b3f08293eb01f5c9c2b9f0b32f7d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Protecting people from harmful manipulation",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "published": "Wed, 25 Mar 2026 16:46:20 +0000",
+      "image": "data/images/d58a8425997ec3e7853275783c6872e2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -75,24 +93,6 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-      "published": "Tue, 03 Mar 2026 16:35:55 +0000",
-      "image": "data/images/f042b0d98e8577f41c7975f5837161fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
-      "published": "Thu, 26 Feb 2026 16:01:50 +0000",
-      "image": "data/images/24cfda7772f5cd8fb02fccd378c702aa.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Hugging Face - Blog",
       "title": "A New Framework for Evaluating Voice Agents (EVA)",
       "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
@@ -115,7 +115,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "published": "2026-03-26T15:48:40",
+      "image": "https://futuresearch.ai/futuresearch-logo.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
       "published": "2026-03-24T06:53:30",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://img.andros.dev/k-SHogWXSvlNFGOQXG5zRnPtAyE=/600x0/filters:format(avif)/https://andros.dev/media/thumbnails/ia.png",
       "summary": "Summary unavailable."
     },
     {
@@ -157,37 +166,19 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-      "url": "https://github.com/lightfeed/extractor",
-      "published": "2026-03-26T03:55:52",
-      "image": "https://opengraph.githubassets.com/9407b2e7752af946406d0fb63e6aa3b82a4cd1e1738838745aeff5c56e1b05c7/lightfeed/extractor",
+      "title": "Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents",
+      "url": "https://github.com/salespeak-ai/buyer-eval-skill",
+      "published": "2026-03-26T16:00:47",
+      "image": "https://opengraph.githubassets.com/5b44748d22a4e9d8e6fd7ba603bb423a4390bca94424e88163d36f6e0ff5390e/salespeak-ai/buyer-eval-skill",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
-      "url": "https://github.com/jonwiggins/optio",
-      "published": "2026-03-25T17:10:21",
-      "image": "https://opengraph.githubassets.com/0c6a6efd03c504e9e4728cdac63aa0e95c4598286e60bdca26e270a5dc885545/jonwiggins/optio",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
-      "url": "https://www.metropolitanreview.org/p/the-last-contract",
-      "published": "2026-03-26T03:54:13",
-      "image": "https://substackcdn.com/image/fetch/$s_!74ob!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf0927e6-5e6d-4077-a60c-7eb246f2d110_1010x673.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "False claims in a widely-cited paper",
-      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-      "published": "2026-03-26T00:46:31",
-      "image": "data/images/d31a12f2d4851ddbb5bf1bee3156cbb7.png",
+      "title": "SpaceStarCarz KoolWheelz Paper Models",
+      "url": "https://davesdesigns.ca/dcc/html/spacestarcarz_.html",
+      "published": "2026-03-24T07:32:42",
+      "image": "data/images/a4365e8aa08975272a6079a7f88f9d50.png",
       "summary": "Summary unavailable."
     }
   ],
