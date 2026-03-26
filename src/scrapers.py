@@ -68,12 +68,22 @@ def get_rss_news(feed_urls):
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries[:5]: # Top 5 from each
+                # Include description/summary for better AI summarization context
+                description = entry.get('summary', entry.get('description', ''))
+                # Strip HTML tags from description if present
+                if description:
+                    try:
+                        soup = BeautifulSoup(description, 'html.parser')
+                        description = soup.get_text(separator=' ', strip=True)[:500]
+                    except Exception:
+                        description = description[:500]
                 news_items.append({
                     'source': 'RSS',
                     'source_name': feed.feed.get('title', urlparse(url).netloc),
                     'title': entry.title,
                     'url': entry.link,
                     'published': entry.get('published', datetime.datetime.now().isoformat()),
+                    'description': description,
                     'image': ""  # Let image_generator handle all images for consistency
                 })
         except Exception as e:
@@ -93,7 +103,7 @@ def get_hacker_news(limit=10):
             
             if not item or 'title' not in item or 'url' not in item:
                 continue
-                
+
             title_lower = item['title'].lower()
             if any(kw in title_lower for kw in ['ai', 'llm', 'gpt', 'machine learning', 'neural', 'model']):
                 news_items.append({
@@ -102,6 +112,7 @@ def get_hacker_news(limit=10):
                     'title': item['title'],
                     'url': item['url'],
                     'published': datetime.datetime.fromtimestamp(item.get('time', datetime.datetime.now().timestamp())).isoformat(),
+                    'description': '',
                     'image': extract_image(item['url'])
                 })
                 if len(news_items) >= limit:
@@ -110,7 +121,7 @@ def get_hacker_news(limit=10):
         print(f"Error fetching Hacker News: {e}")
     return news_items
 
-def get_reddit_news(subreddits=['LocalLLaMA', 'ArtificialInteligence', 'MachineLearning'], limit=5):
+def get_reddit_news(subreddits=['LocalLLaMA', 'ArtificialIntelligence', 'MachineLearning'], limit=5):
     news_items = []
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
     
@@ -134,12 +145,15 @@ def get_reddit_news(subreddits=['LocalLLaMA', 'ArtificialInteligence', 'MachineL
                 elif 'thumbnail' in post_data and post_data['thumbnail'].startswith('http'):
                     image = post_data['thumbnail']
                 
+                # Include selftext for posts with body content
+                description = post_data.get('selftext', '')[:500] if post_data.get('selftext') else ''
                 news_items.append({
                     'source': 'Reddit',
                     'source_name': f'r/{sub}',
                     'title': post_data['title'],
                     'url': f"https://www.reddit.com{post_data['permalink']}",
                     'published': datetime.datetime.fromtimestamp(post_data['created_utc']).isoformat(),
+                    'description': description,
                     'image': image
                 })
         except Exception as e:
@@ -152,12 +166,15 @@ def get_arxiv_papers(query='cat:cs.AI OR cat:cs.LG', limit=5):
         url = f'http://export.arxiv.org/api/query?search_query={query}&start=0&max_results={limit}&sortBy=submittedDate&sortOrder=descending'
         feed = feedparser.parse(url)
         for entry in feed.entries:
+            # arXiv entries include the abstract in entry.summary
+            description = entry.get('summary', '').replace('\n', ' ')[:500]
             news_items.append({
                 'source': 'arXiv',
                 'source_name': 'arXiv',
                 'title': entry.title.replace('\n', ' '),
                 'url': entry.link,
                 'published': entry.published,
+                'description': description,
                 'image': "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=450&fit=crop"  # Academic theme
             })
     except Exception as e:

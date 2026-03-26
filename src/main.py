@@ -46,11 +46,10 @@ def main():
             seen_urls.add(item['url'])
             unique_news.append(item)
             
-    print(f"Unique items: {len(unique_news)}. Processing up to 100 articles...")
-    
-    # Process more articles for a richer news feed
-    # Limit to 100 to balance comprehensiveness with API costs
-    articles_to_process = min(100, len(unique_news))
+    print(f"Unique items: {len(unique_news)}. Processing up to 30 articles...")
+
+    # Limit to 30 to avoid API rate limits and keep processing time reasonable
+    articles_to_process = min(30, len(unique_news))
     
     final_news = []
     for i, item in enumerate(unique_news[:articles_to_process]):
@@ -59,9 +58,13 @@ def main():
         try:
             # Ensure article has an image
             item = ensure_article_has_image(item)
-            
-            # Generate summary
-            content_context = f"Title: {item['title']}\nSource: {item['source']}"
+
+            # Generate summary using title + description for richer context
+            description = item.get('description', '')
+            if description:
+                content_context = f"Title: {item['title']}\nSource: {item['source_name'] or item['source']}\nDescription: {description}"
+            else:
+                content_context = f"Title: {item['title']}\nSource: {item['source_name'] or item['source']}"
             summary = summarize_content(content_context)
             item['summary'] = summary
             final_news.append(item)
