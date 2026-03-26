@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T20:27:19.980776",
+  "updated": "2026-03-26T01:06:01.528530",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -139,10 +139,10 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
-      "published": "2026-03-25T19:14:42",
-      "image": "data/images/ad0f15b14442eae57848cc8734821714.png",
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "published": "2026-03-25T21:11:57",
+      "image": "https://bugs.xdavidhu.me/assets/posts/2026-03-23-running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/card.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -157,10 +157,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "published": "2026-03-25T19:14:42",
+      "image": "data/images/ad0f15b14442eae57848cc8734821714.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Ensu \u2013 Ente\u2019s Local LLM app",
       "url": "https://ente.com/blog/ensu/",
       "published": "2026-03-25T12:49:14",
       "image": "https://ente.com/og-images/ensu.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+      "url": "https://lab.puga.com.br/cog/",
+      "published": "2026-03-25T23:29:13",
+      "image": "data/images/6f73cd10ba54325304789d7ea86a007d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "url": "https://github.com/jonwiggins/optio",
+      "published": "2026-03-25T17:10:21",
+      "image": "https://opengraph.githubassets.com/ce89cc77cc187f85c59eb3c254d4422c777e75fa9dec9d066661e79c6f3d7956/jonwiggins/optio",
       "summary": "Summary unavailable."
     },
     {
@@ -175,26 +202,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
-      "published": "2026-03-25T00:29:45",
-      "image": "https://flighty.com/airports/image/card-airport-details.jpg",
+      "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
+      "url": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
+      "published": "2026-03-25T20:58:43",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--c5SNbs78--/t_tohu-badge-facebook/v1762823835/4JY3TR9_nsq_episode_image_healthcare_v2_png?_a=BACCd2AD",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo",
-      "published": "2026-03-25T15:46:44",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f44/live/0c885cf0-283f-11f1-ac61-c943803d2ed3.jpg",
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "published": "2026-03-25T00:29:45",
+      "image": "https://flighty.com/airports/image/card-airport-details.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-25",
+    "date": "2026-03-26",
     "speakers": [
       "Alex",
       "Jordan"
