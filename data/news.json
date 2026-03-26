@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T16:51:11.885768",
+  "updated": "2026-03-26T18:20:02.965966",
   "articles": [
     {
       "source": "RSS",
@@ -7,6 +7,7 @@
       "title": "Inside our approach to the Model Spec",
       "url": "https://openai.com/index/our-approach-to-the-model-spec",
       "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+      "description": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
       "image": "data/images/b68aa49f6852f88eca23b541847163d0.png",
       "summary": "Summary unavailable."
     },
@@ -16,6 +17,7 @@
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+      "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
       "image": "data/images/fa7f7e2e9aeba3c9a26dce914b99985b.png",
       "summary": "Summary unavailable."
     },
@@ -25,6 +27,7 @@
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "published": "Tue, 24 Mar 2026 11:00:00 GMT",
+      "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
       "image": "data/images/fca4ef5f56ddf0eac547d158bb6296ff.png",
       "summary": "Summary unavailable."
     },
@@ -34,6 +37,7 @@
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
       "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
       "summary": "Summary unavailable."
     },
@@ -43,6 +47,7 @@
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
       "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
       "summary": "Summary unavailable."
     },
@@ -52,6 +57,7 @@
       "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
       "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
       "published": "Thu, 26 Mar 2026 15:23:35 +0000",
+      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
       "image": "data/images/df65b3f08293eb01f5c9c2b9f0b32f7d.png",
       "summary": "Summary unavailable."
     },
@@ -61,6 +67,7 @@
       "title": "Protecting people from harmful manipulation",
       "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
       "published": "Wed, 25 Mar 2026 16:46:20 +0000",
+      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
       "image": "data/images/d58a8425997ec3e7853275783c6872e2.png",
       "summary": "Summary unavailable."
     },
@@ -70,6 +77,7 @@
       "title": "Lyria 3 Pro: Create longer tracks in more",
       "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
       "published": "Wed, 25 Mar 2026 16:01:39 +0000",
+      "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces.",
       "image": "data/images/ae192aff197d4bc7ba5015cc25ac9223.png",
       "summary": "Summary unavailable."
     },
@@ -79,6 +87,7 @@
       "title": "Measuring progress toward AGI: A cognitive framework",
       "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
       "published": "Tue, 17 Mar 2026 16:03:47 +0000",
+      "description": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
       "image": "data/images/0847c8739da729a05b45e3ce5863dc03.png",
       "summary": "Summary unavailable."
     },
@@ -88,6 +97,7 @@
       "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
       "published": "Mon, 09 Mar 2026 13:52:36 +0000",
+      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
       "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
       "summary": "Summary unavailable."
     },
@@ -97,6 +107,7 @@
       "title": "A New Framework for Evaluating Voice Agents (EVA)",
       "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
       "published": "Tue, 24 Mar 2026 02:01:52 GMT",
+      "description": "",
       "image": "data/images/31bc27add38cdc3f5fa73f858226ffad.png",
       "summary": "Summary unavailable."
     },
@@ -106,6 +117,7 @@
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "published": "Fri, 20 Mar 2026 19:38:16 GMT",
+      "description": "",
       "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
       "summary": "Summary unavailable."
     },
@@ -115,6 +127,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
+      "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -124,6 +137,7 @@
       "title": "State of Open Source on Hugging Face: Spring 2026",
       "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
       "published": "Tue, 17 Mar 2026 16:37:55 GMT",
+      "description": "",
       "image": "data/images/f9deb1921d2fd51d9fb90df07878245b.png",
       "summary": "Summary unavailable."
     },
@@ -133,6 +147,7 @@
       "title": "Holotron-12B - High Throughput Computer Use Agent",
       "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
       "published": "Tue, 17 Mar 2026 12:33:39 GMT",
+      "description": "",
       "image": "data/images/67f8f2446a397532fd55d1373260dbc9.png",
       "summary": "Summary unavailable."
     },
@@ -142,7 +157,18 @@
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
       "published": "2026-03-26T15:48:40",
+      "description": "",
       "image": "https://futuresearch.ai/futuresearch-logo.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents",
+      "url": "https://github.com/salespeak-ai/buyer-eval-skill",
+      "published": "2026-03-26T16:00:47",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/318c2a0125d97721192e3cf47041024710774358a77f944f30a38332ad8387a2/salespeak-ai/buyer-eval-skill",
       "summary": "Summary unavailable."
     },
     {
@@ -151,6 +177,7 @@
       "title": "From zero to a RAG system: successes and failures",
       "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
       "published": "2026-03-24T06:53:30",
+      "description": "",
       "image": "https://img.andros.dev/k-SHogWXSvlNFGOQXG5zRnPtAyE=/600x0/filters:format(avif)/https://andros.dev/media/thumbnails/ia.png",
       "summary": "Summary unavailable."
     },
@@ -160,16 +187,8 @@
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
       "published": "2026-03-25T21:11:57",
+      "description": "",
       "image": "https://bugs.xdavidhu.me/assets/posts/2026-03-23-running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents",
-      "url": "https://github.com/salespeak-ai/buyer-eval-skill",
-      "published": "2026-03-26T16:00:47",
-      "image": "https://opengraph.githubassets.com/5b44748d22a4e9d8e6fd7ba603bb423a4390bca94424e88163d36f6e0ff5390e/salespeak-ai/buyer-eval-skill",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +197,18 @@
       "title": "SpaceStarCarz KoolWheelz Paper Models",
       "url": "https://davesdesigns.ca/dcc/html/spacestarcarz_.html",
       "published": "2026-03-24T07:32:42",
+      "description": "",
       "image": "data/images/a4365e8aa08975272a6079a7f88f9d50.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI users whose lives were wrecked by delusion",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
+      "published": "2026-03-26T13:32:23",
+      "description": "",
+      "image": "https://i.guim.co.uk/img/media/8eb5aa434f3105a9a037d70e4277fd3973137efe/449_0_7490_5992/master/7490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b44261d48dcb2b6c44c2a57894c340fe",
       "summary": "Summary unavailable."
     }
   ],
