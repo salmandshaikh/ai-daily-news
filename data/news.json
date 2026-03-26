@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T01:06:01.528530",
+  "updated": "2026-03-26T05:28:26.956719",
   "articles": [
     {
       "source": "RSS",
@@ -115,7 +115,7 @@
       "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
       "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
       "published": "Fri, 20 Mar 2026 14:14:46 GMT",
-      "image": "data/images/5098b8f6f05ee41f710f2528d6aadbd2.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -157,19 +157,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
-      "published": "2026-03-25T19:14:42",
-      "image": "data/images/ad0f15b14442eae57848cc8734821714.png",
+      "title": "False claims in a widely-cited paper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "published": "2026-03-26T00:46:31",
+      "image": "data/images/d31a12f2d4851ddbb5bf1bee3156cbb7.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ensu \u2013 Ente\u2019s Local LLM app",
-      "url": "https://ente.com/blog/ensu/",
-      "published": "2026-03-25T12:49:14",
-      "image": "https://ente.com/og-images/ensu.png",
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "url": "https://github.com/lightfeed/extractor",
+      "published": "2026-03-26T03:55:52",
+      "image": "https://opengraph.githubassets.com/bf27385a566b7b9af9c5319ee3461137596b855e4d97e5368627aea532059f09/lightfeed/extractor",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "published": "2026-03-25T19:14:42",
+      "image": "data/images/ad0f15b14442eae57848cc8734821714.png",
       "summary": "Summary unavailable."
     },
     {
@@ -187,34 +196,16 @@
       "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
       "url": "https://github.com/jonwiggins/optio",
       "published": "2026-03-25T17:10:21",
-      "image": "https://opengraph.githubassets.com/ce89cc77cc187f85c59eb3c254d4422c777e75fa9dec9d066661e79c6f3d7956/jonwiggins/optio",
+      "image": "https://opengraph.githubassets.com/4084b11b2b1fafd2ec26eb1ab9081cd6938b16908c5ab27ca164616f62702443/jonwiggins/optio",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "published": "2026-03-25T05:00:54",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
-      "url": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
-      "published": "2026-03-25T20:58:43",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--c5SNbs78--/t_tohu-badge-facebook/v1762823835/4JY3TR9_nsq_episode_image_healthcare_v2_png?_a=BACCd2AD",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
-      "published": "2026-03-25T00:29:45",
-      "image": "https://flighty.com/airports/image/card-airport-details.jpg",
+      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+      "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+      "published": "2026-03-25T10:28:49",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0n8k8mz.jpg",
       "summary": "Summary unavailable."
     }
   ],
