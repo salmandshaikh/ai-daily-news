@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T16:40:29.377776",
+  "updated": "2026-03-27T20:23:42.438633",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-      "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
       "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
       "summary": "Summary unavailable."
     },
     {
@@ -149,46 +149,6 @@
       "published": "Tue, 17 Mar 2026 12:33:39 GMT",
       "description": "",
       "image": "data/images/67f8f2446a397532fd55d1373260dbc9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "published": "2026-03-26T22:41:25",
-      "description": "",
-      "image": "data/images/ed18415699884d4c9c4267953a1ec25e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-      "published": "2026-03-26T22:36:41",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/644fc991ce69ff211edbeb95/69c41472d9654291b273f039_Blog%20Image%20Website-03-26%20We%20rewrote%20JSONata-%24400%2C%20and%20saved%20us%20%24300K%20(1)%20(1)%20(1).png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "published": "2026-03-25T21:11:57",
-      "description": "",
-      "image": "https://bugs.xdavidhu.me/assets/posts/2026-03-23-running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "published": "2026-03-26T15:48:40",
-      "description": "",
-      "image": "https://futuresearch.ai/futuresearch-logo.webp",
       "summary": "Summary unavailable."
     }
   ],
