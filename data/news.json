@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T12:34:17.206547",
+  "updated": "2026-03-27T16:40:29.377776",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
       "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Everything old is new again: memory optimization",
-      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
-      "published": "2026-03-23T18:22:33",
-      "description": "",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbppQPX3SbdskyBbtvbPBads2_KKTFR6pEGhVQpuLAFxtXUB_m56IeF1vZl1pDWIT_kNxGsqBixC1Xyt9m8SNg1I8QuJakm7PeKGC5EzbXQZA_U1kSy7nKkInnD12hkIIYImwS8GpJziJmuQhtmVag_3ojrWh7qoj5NvenpJukYrdYSxubN6E8hjChyphenhyphenvs/w1200-h630-p-k-no-nu/massif_python.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
       "published": "2026-03-26T22:41:25",
@@ -184,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "published": "2026-03-26T15:48:40",
-      "description": "",
-      "image": "https://futuresearch.ai/futuresearch-logo.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
       "published": "2026-03-25T21:11:57",
@@ -204,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Agent-to-agent pair programming",
-      "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-      "published": "2026-03-27T01:47:55",
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "published": "2026-03-26T15:48:40",
       "description": "",
-      "image": "https://og-image.axeldelafosse.now.sh/**Agent-to-agent%20pair%20programming**.png?theme=dark&md=1&fontSize=75px&widths=100&heights=100",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
-      "url": "https://www.trychroma.com/research/context-1",
-      "published": "2026-03-26T19:25:19",
-      "description": "",
-      "image": "https://www.trychroma.com/img/context_1/card.png",
+      "image": "https://futuresearch.ai/futuresearch-logo.webp",
       "summary": "Summary unavailable."
     }
   ],
