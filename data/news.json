@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T20:24:58.772731",
+  "updated": "2026-03-27T01:05:23.904873",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published": "Tue, 24 Mar 2026 09:00:00 GMT",
       "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
       "image": "data/images/a25852e2c3e1e81667adc3c4afee1c93.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "published": "2026-03-26T15:48:40",
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "published": "2026-03-26T22:41:25",
       "description": "",
-      "image": "https://futuresearch.ai/futuresearch-logo.webp",
+      "image": "data/images/ed18415699884d4c9c4267953a1ec25e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "From zero to a RAG system: successes and failures",
-      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "published": "2026-03-24T06:53:30",
+      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "published": "2026-03-26T23:33:53",
       "description": "",
-      "image": "https://img.andros.dev/k-SHogWXSvlNFGOQXG5zRnPtAyE=/600x0/filters:format(avif)/https://andros.dev/media/thumbnails/ia.png",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26057633664886-1.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "published": "2026-03-26T15:48:40",
+      "description": "",
+      "image": "https://futuresearch.ai/futuresearch-logo.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -184,18 +194,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
-      "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-      "published": "2026-03-26T17:51:42",
+      "title": "From zero to a RAG system: successes and failures",
+      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "published": "2026-03-24T06:53:30",
       "description": "",
-      "image": "data/images/88d943782a6d63e1599f03b998db324d.png",
+      "image": "https://img.andros.dev/k-SHogWXSvlNFGOQXG5zRnPtAyE=/600x0/filters:format(avif)/https://andros.dev/media/thumbnails/ia.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "speakers": [
       "Alex",
       "Jordan"
