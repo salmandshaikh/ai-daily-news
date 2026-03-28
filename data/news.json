@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T16:20:10.578869",
+  "updated": "2026-03-28T20:16:55.442587",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "published": "2026-03-28T14:08:33",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "published": "2026-03-28T18:38:59",
       "description": "",
-      "image": "data/images/4153accce891ac73153aa29f21e33e23.png",
+      "image": "data/images/32f401de2f6f17d8796147b8aa53f805.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "url": "https://grid.iamkate.com/",
-      "published": "2026-03-28T11:06:44",
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "published": "2026-03-28T14:08:33",
       "description": "",
-      "image": "https://grid.iamkate.com/banner.png",
+      "image": "data/images/0b0bd0c3eb3f9135c76e3afa5a6a9d13.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "published": "2026-03-28T08:06:19",
+      "description": "",
+      "image": "data/images/b1eb7dd789de04742edaf7f0006d360d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "published": "2026-03-28T08:06:19",
+      "title": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "published": "2026-03-28T18:42:08",
       "description": "",
-      "image": "data/images/45319efae91788d26687d1fc52bf47a3.png",
+      "image": "https://lzon.ca/img/og-image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -208,37 +218,7 @@
       "url": "https://github.com/dbrll/ATTN-11",
       "published": "2026-03-25T15:20:08",
       "description": "",
-      "image": "https://opengraph.githubassets.com/bdf71a8bc7665cf2f0c3cc199ce66aa8f9c9239bae80fd33f0c3d8a8e158459b/dbrll/ATTN-11",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
-      "url": "https://enlidea.com",
-      "published": "2026-03-28T14:49:30",
-      "description": "",
-      "image": "data/images/066a6c91828e8b4c6f4c9186ea855566.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Militarized snowflakes: The accidental beauty of Renaissance star forts",
-      "url": "https://bigthink.com/strange-maps/star-forts/",
-      "published": "2026-03-28T16:02:59",
-      "description": "",
-      "image": "https://bigthink.com/wp-content/uploads/2026/03/saarlouis.jpg?resize=1140,630",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Iran-linked hackers breach FBI director's personal email",
-      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-      "published": "2026-03-27T14:38:28",
-      "description": "",
-      "image": "data/images/ada41391c6538ef26551b574ed5c84ee.png",
+      "image": "https://opengraph.githubassets.com/756e85408790d5b98af15817c7b9147495590900dab3d625ee93a7ff5d329ace/dbrll/ATTN-11",
       "summary": "Summary unavailable."
     }
   ],
