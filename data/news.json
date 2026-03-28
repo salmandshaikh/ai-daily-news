@@ -1,6 +1,16 @@
 {
-  "updated": "2026-03-27T20:23:42.438633",
+  "updated": "2026-03-28T00:59:44.311240",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "published": "Fri, 27 Mar 2026 22:00:00 GMT",
+      "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,16 +39,6 @@
       "published": "Tue, 24 Mar 2026 11:00:00 GMT",
       "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
       "image": "data/images/fca4ef5f56ddf0eac547d158bb6296ff.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "image": "data/images/ac19af189946f0ceb55f71cdc2054d80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -150,12 +150,42 @@
       "description": "",
       "image": "data/images/67f8f2446a397532fd55d1373260dbc9.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "published": "2026-03-27T21:41:41",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-1024x648.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "21,864 Yugoslavian .yu domains",
+      "url": "https://jacobfilipp.com/yu/",
+      "published": "2026-03-25T22:20:47",
+      "description": "",
+      "image": "data/images/24c127ec25f2f01c5ac0b6c3e72f255a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Everything old is new again: memory optimization",
+      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+      "published": "2026-03-23T18:22:33",
+      "description": "",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbppQPX3SbdskyBbtvbPBads2_KKTFR6pEGhVQpuLAFxtXUB_m56IeF1vZl1pDWIT_kNxGsqBixC1Xyt9m8SNg1I8QuJakm7PeKGC5EzbXQZA_U1kSy7nKkInnD12hkIIYImwS8GpJziJmuQhtmVag_3ojrWh7qoj5NvenpJukYrdYSxubN6E8hjChyphenhyphenvs/w1200-h630-p-k-no-nu/massif_python.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-27",
+    "date": "2026-03-28",
     "speakers": [
       "Alex",
       "Jordan"
