@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T08:25:31.693798",
+  "updated": "2026-03-28T12:26:02.412471",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Liberate your OpenClaw",
+      "url": "https://huggingface.co/blog/liberate-your-openclaw",
+      "published": "Fri, 27 Mar 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/3adca01a920ec5dc7914c34a67508c87.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "A New Framework for Evaluating Voice Agents (EVA)",
       "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
       "published": "Tue, 24 Mar 2026 02:01:52 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Holotron-12B - High Throughput Computer Use Agent",
-      "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
-      "published": "Tue, 17 Mar 2026 12:33:39 GMT",
-      "description": "",
-      "image": "data/images/67f8f2446a397532fd55d1373260dbc9.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
@@ -159,6 +159,26 @@
       "published": "2026-03-28T08:06:19",
       "description": "",
       "image": "data/images/45319efae91788d26687d1fc52bf47a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+      "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+      "published": "2026-03-28T12:01:07",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/7c044effc7e9547a3d575da12a37c2685395fac0.png?1765932365",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
+      "url": "https://github.com/dbrll/ATTN-11",
+      "published": "2026-03-25T15:20:08",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9d44f788e842900025af1856252cea659d78af9cadfd73cf7a6858b2a6537ac1/dbrll/ATTN-11",
       "summary": "Summary unavailable."
     },
     {
