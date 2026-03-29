@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T01:09:10.391476",
+  "updated": "2026-03-29T05:31:28.211056",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "published": "2026-03-28T18:38:59",
+      "title": "OpenYak \u2013 An open-source Cowork that runs any model and owns your filesystem",
+      "url": "https://github.com/openyak/desktop",
+      "published": "2026-03-29T04:26:13",
       "description": "",
-      "image": "data/images/32f401de2f6f17d8796147b8aa53f805.png",
+      "image": "https://opengraph.githubassets.com/bec63f36ecc71e484a26db1ec8608971619bc6c165adafaaa39c878e8a6426a1/openyak/desktop",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +174,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "published": "2026-03-28T18:38:59",
+      "description": "",
+      "image": "data/images/32f401de2f6f17d8796147b8aa53f805.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The first 40 months of the AI era",
       "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
       "published": "2026-03-28T18:42:08",
@@ -184,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
-      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
-      "published": "2026-03-28T21:35:22",
+      "title": "Modeling what makes paper-folding puzzles hard",
+      "url": "https://www.dailyunfold.com/blog/spatial-difficulty",
+      "published": "2026-03-25T12:47:04",
       "description": "",
-      "image": "https://inpharmd-asset.s3.amazonaws.com/blog_images/inpharmd_logo_yellow.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Computer chip material inspired by the human brain could slash AI energy use",
-      "url": "https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use",
-      "published": "2026-03-28T23:04:14",
-      "description": "",
-      "image": "https://www.cam.ac.uk/sites/default/files/news/research/news/ad0638ca-8132-4030-822d-2796707fc62c.jpeg",
+      "image": "https://dailyunfold.com/og.png",
       "summary": "Summary unavailable."
     }
   ],
