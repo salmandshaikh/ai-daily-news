@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T08:26:45.238622",
+  "updated": "2026-03-29T12:27:08.650381",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "published": "2026-03-29T10:10:12",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/d773d834f452d47a73110260466461b407d420c12b5f8f19da8f26a4464a78ed/austin-weeks/miasma",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
       "published": "2026-03-28T14:08:33",
       "description": "",
       "image": "data/images/0b0bd0c3eb3f9135c76e3afa5a6a9d13.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Siclair Microvision (1977)",
+      "url": "https://r-type.org/articles/art-452.htm",
+      "published": "2026-03-26T17:33:25",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Public transit systems as data \u2013 lines, stations, railcars, and history",
+      "url": "https://publictransit.systems",
+      "published": "2026-03-29T07:38:58",
+      "description": "",
+      "image": "data/images/d2580b59c5d18947c6f5c70ad303fff3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,36 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenYak \u2013 An open-source Cowork that runs any model and owns your filesystem",
-      "url": "https://github.com/openyak/desktop",
-      "published": "2026-03-29T04:26:13",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/91e031485558740255e8606a6e8f29011fb7f4dd2c8ce86c66db08962a2648e6/openyak/desktop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The first 40 months of the AI era",
-      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
-      "published": "2026-03-28T18:42:08",
-      "description": "",
-      "image": "https://lzon.ca/img/og-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
-      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
-      "published": "2026-03-28T21:35:22",
-      "description": "",
-      "image": "https://inpharmd-asset.s3.amazonaws.com/blog_images/inpharmd_logo_yellow.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "What if AI doesn't need more RAM but better math?",
       "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
       "published": "2026-03-29T08:18:55",
@@ -214,11 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Modeling what makes paper-folding puzzles hard",
-      "url": "https://www.dailyunfold.com/blog/spatial-difficulty",
-      "published": "2026-03-25T12:47:04",
+      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
+      "url": "https://www.metropolitanreview.org/p/the-last-contract",
+      "published": "2026-03-26T03:54:13",
       "description": "",
-      "image": "https://dailyunfold.com/og.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!74ob!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf0927e6-5e6d-4077-a60c-7eb246f2d110_1010x673.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
+      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+      "published": "2026-03-28T21:35:22",
+      "description": "",
+      "image": "https://inpharmd-asset.s3.amazonaws.com/blog_images/inpharmd_logo_yellow.webp",
       "summary": "Summary unavailable."
     }
   ],
