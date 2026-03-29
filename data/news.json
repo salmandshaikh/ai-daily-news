@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T12:27:08.650381",
+  "updated": "2026-03-29T16:21:00.258016",
   "articles": [
     {
       "source": "RSS",
@@ -158,7 +158,27 @@
       "url": "https://github.com/austin-weeks/miasma",
       "published": "2026-03-29T10:10:12",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d773d834f452d47a73110260466461b407d420c12b5f8f19da8f26a4464a78ed/austin-weeks/miasma",
+      "image": "https://opengraph.githubassets.com/8b36040a456a3ab08248267582330b39613afce4e2968942fdaf1e1deaa8993c/austin-weeks/miasma",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "published": "2026-03-29T14:20:23",
+      "description": "",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22468012-112439-still.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Failure of the Thermodynamics of Computation(2010)",
+      "url": "https://sites.pitt.edu/~jdnorton/Goodies/Idealization/index.html",
+      "published": "2026-03-27T02:47:48",
+      "description": "",
+      "image": "data/images/a841e59fd0636eeeb41b439aa1438c2b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Public transit systems as data \u2013 lines, stations, railcars, and history",
-      "url": "https://publictransit.systems",
-      "published": "2026-03-29T07:38:58",
-      "description": "",
-      "image": "data/images/d2580b59c5d18947c6f5c70ad303fff3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "url": "https://twitter.com/BoWang87/status/2037648937453232504",
       "published": "2026-03-28T18:38:59",
@@ -204,31 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Public transit systems as data \u2013 lines, stations, railcars, and history",
+      "url": "https://publictransit.systems",
+      "published": "2026-03-29T07:38:58",
+      "description": "",
+      "image": "data/images/d2580b59c5d18947c6f5c70ad303fff3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "What if AI doesn't need more RAM but better math?",
       "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
       "published": "2026-03-29T08:18:55",
       "description": "",
       "image": "data/images/1d1b22fd6b49c1c39c5f608a5bb7a55b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
-      "url": "https://www.metropolitanreview.org/p/the-last-contract",
-      "published": "2026-03-26T03:54:13",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!74ob!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf0927e6-5e6d-4077-a60c-7eb246f2d110_1010x673.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
-      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
-      "published": "2026-03-28T21:35:22",
-      "description": "",
-      "image": "https://inpharmd-asset.s3.amazonaws.com/blog_images/inpharmd_logo_yellow.webp",
       "summary": "Summary unavailable."
     }
   ],
