@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T09:02:06.661459",
+  "updated": "2026-03-30T12:45:28.050299",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Mathematical methods and human thought in the age of AI",
+      "url": "https://arxiv.org/abs/2603.26524",
+      "published": "2026-03-30T11:05:37",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
       "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
       "published": "2026-03-29T20:21:05",
@@ -174,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Coding Agents Could Make Free Software Matter Again",
+      "title": "Coding agents could make free software matter again",
       "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
       "published": "2026-03-29T22:21:34",
       "description": "",
-      "image": "data/images/c215d43a324ddb622441e669332adbe7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I am definitely missing the pre-AI writing era",
-      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-      "published": "2026-03-30T07:03:18",
-      "description": "",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
+      "image": "data/images/4448631154afa622f13c770abb25cbf0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,16 +199,6 @@
       "published": "2026-03-29T20:00:02",
       "description": "",
       "image": "https://dims.apnews.com/dims4/default/149a411/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F04%2F68%2F72e00113c3530d36a250b0f72f4a%2Faeb496a9d767468cbb4d748f0e178233",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI and bots have officially taken over the internet",
-      "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-      "published": "2026-03-30T06:29:17",
-      "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108282949-1774456630971-gettyimages-2193072141-dsc03513.jpeg?v=1774456650&w=1920&h=1080",
       "summary": "Summary unavailable."
     }
   ],
