@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T20:18:33.548661",
+  "updated": "2026-03-30T01:08:56.244798",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Claude Code runs Git reset \u2013hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "published": "2026-03-29T22:15:06",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/68edcc23510798716c90a9de0f9137331044f68e81b21b5808e55a180543bbff/anthropics/claude-code/issues/40710",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "published": "2026-03-29T20:21:05",
+      "description": "",
+      "image": "data/images/1018219bc389f5302718ab115e659608.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Coding Agents Could Make Free Software Matter Again",
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "published": "2026-03-29T22:21:34",
+      "description": "",
+      "image": "data/images/c215d43a324ddb622441e669332adbe7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
       "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
       "published": "2026-03-29T20:00:02",
@@ -164,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-      "published": "2026-03-29T14:20:23",
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "published": "2026-03-29T10:10:12",
       "description": "",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22468012-112439-still.jpg?c=16x9&q=w_800,c_fill",
+      "image": "https://opengraph.githubassets.com/a0f794c376a04beb9439652b7a51669a46a52f3907689d5c0916adce088cab74/austin-weeks/miasma",
       "summary": "Summary unavailable."
     },
     {
@@ -184,28 +214,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "url": "https://github.com/austin-weeks/miasma",
-      "published": "2026-03-29T10:10:12",
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "published": "2026-03-29T14:20:23",
       "description": "",
-      "image": "https://opengraph.githubassets.com/7bfb72c5cf4c5363d1fcaa2236283aac33d5eedbb3ea4c0e545e7c5e6540340a/austin-weeks/miasma",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Netscape News Feed Straight Out of the Late 00s",
-      "url": "https://isp.netscape.com/",
-      "published": "2026-03-29T17:34:20",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22468012-112439-still.jpg?c=16x9&q=w_800,c_fill",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-29",
+    "date": "2026-03-30",
     "speakers": [
       "Alex",
       "Jordan"
