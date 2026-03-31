@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T12:44:34.430270",
+  "updated": "2026-03-31T16:45:25.489703",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "published": "Tue, 31 Mar 2026 15:10:41 GMT",
+      "description": "",
+      "image": "data/images/78734562c6df03a4702afee7bb45fbc9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "url": "https://huggingface.co/blog/trl-v1",
+      "published": "Tue, 31 Mar 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/5bf03aae56673ed2214017f64372257e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Liberate your OpenClaw",
       "url": "https://huggingface.co/blog/liberate-your-openclaw",
       "published": "Fri, 27 Mar 2026 00:00:00 GMT",
@@ -132,33 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-      "published": "Fri, 20 Mar 2026 14:14:46 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Italy blocks US use of Sicily air base for Middle East war",
+      "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
+      "published": "2026-03-31T15:39:45",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "published": "Tue, 17 Mar 2026 16:37:55 GMT",
-      "description": "",
-      "image": "data/images/f9deb1921d2fd51d9fb90df07878245b.png",
+      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/31/GettyImages-1394407486-scaled.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-      "published": "2026-03-31T10:02:34",
+      "title": "Microsoft: Copilot is for entertainment purposes only",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+      "published": "2026-03-31T14:25:37",
       "description": "",
-      "image": "https://ciphercue.com/img/og-card.png",
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1",
       "summary": "Summary unavailable."
     },
     {
@@ -168,17 +178,7 @@
       "url": "https://github.com/google-research/timesfm",
       "published": "2026-03-31T05:21:59",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b5cccbff48651ba27da4863ec2032cdc97818822b5d04be0dc23786582afddd0/google-research/timesfm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Clojure: The Documentary, official trailer [video]",
-      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-      "published": "2026-03-26T17:00:54",
-      "description": "",
-      "image": "data/images/d64cd05b9a0a7a6137787e0ed8161592.png",
+      "image": "https://opengraph.githubassets.com/78aaccdc912fa649d7e2cf5662c2f0015665906aa0d4d763339bdccf70ff2a7e/google-research/timesfm",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bird brains (2023)",
-      "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "published": "2026-03-30T13:14:27",
+      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+      "published": "2026-03-31T10:02:34",
       "description": "",
-      "image": "https://dhanishsemar.com/writing/bird-brains/opengraph-image?065a48ba6584b675",
+      "image": "https://ciphercue.com/img/og-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "published": "2026-03-26T17:00:54",
+      "description": "",
+      "image": "data/images/d64cd05b9a0a7a6137787e0ed8161592.png",
       "summary": "Summary unavailable."
     }
   ],
