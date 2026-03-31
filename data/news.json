@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T08:45:08.980943",
+  "updated": "2026-03-31T12:44:34.430270",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+      "published": "2026-03-31T10:02:34",
+      "description": "",
+      "image": "https://ciphercue.com/img/og-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Google's 200M-parameter time-series foundation model with 16k context",
       "url": "https://github.com/google-research/timesfm",
       "published": "2026-03-31T05:21:59",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4a85307a88a63c26e88d66e1ae433af961c9c653a3093fbbe0d778fd87fd1536/google-research/timesfm",
+      "image": "https://opengraph.githubassets.com/b5cccbff48651ba27da4863ec2032cdc97818822b5d04be0dc23786582afddd0/google-research/timesfm",
       "summary": "Summary unavailable."
     },
     {
@@ -184,42 +194,22 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Free AI Coding Skills for Rails",
-      "url": "https://www.railsreviews.com/skills",
-      "published": "2026-03-31T07:47:50",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
-      "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-      "published": "2026-03-31T02:26:15",
-      "description": "",
-      "image": "https://static.simonwillison.net/static/2026/chatterbox-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Bird brains (2023)",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
       "published": "2026-03-30T13:14:27",
       "description": "",
       "image": "https://dhanishsemar.com/writing/bird-brains/opengraph-image?065a48ba6584b675",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
-      "url": "https://github.com/virpo/pegboard",
-      "published": "2026-03-30T23:20:02",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/5db00e781a543b9de0ef534acaf93275fa5c4aec480348d10b8dacca5cc5b448/virpo/pegboard",
-      "summary": "Summary unavailable."
     }
-  ]
+  ],
+  "podcast": {
+    "file": "data/podcast/latest.mp3",
+    "duration": 13,
+    "date": "2026-03-31",
+    "speakers": [
+      "Alex",
+      "Jordan"
+    ],
+    "segments": 4
+  }
 }
