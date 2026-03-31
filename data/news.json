@@ -1,6 +1,16 @@
 {
-  "updated": "2026-03-31T16:45:25.489703",
+  "updated": "2026-03-31T20:31:29.515032",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "published": "Tue, 31 Mar 2026 13:00:00 GMT",
+      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "image": "data/images/8e5da7e6bb9fd84e0161436837d1590b.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 25 Mar 2026 00:00:00 GMT",
       "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
       "image": "data/images/fa7f7e2e9aeba3c9a26dce914b99985b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "published": "Tue, 24 Mar 2026 11:00:00 GMT",
-      "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-      "image": "data/images/fca4ef5f56ddf0eac547d158bb6296ff.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Italy blocks US use of Sicily air base for Middle East war",
-      "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
-      "published": "2026-03-31T15:39:45",
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+      "published": "2026-03-28T22:42:23",
       "description": "",
-      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/31/GettyImages-1394407486-scaled.jpg",
+      "image": "https://news.future-shock.ai/content/images/2026/03/weight-of-remembering.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Cerno \u2013 CAPTCHA that targets LLM reasoning, not human biology",
+      "url": "https://cerno.sh",
+      "published": "2026-03-31T19:22:58",
+      "description": "",
+      "image": "https://cerno.sh/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+      "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
+      "published": "2026-03-31T16:00:29",
+      "description": "",
+      "image": "data/images/7153761b286289aea64081f0f62ef31a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+      "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+      "published": "2026-03-31T19:46:43",
+      "description": "",
+      "image": "https://tech.stonecharioteer.com/images/posts/tailscale/exit-node-flow.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "url": "https://github.com/google-research/timesfm",
-      "published": "2026-03-31T05:21:59",
+      "title": "Show HN: PhAIL \u2013 Real-robot benchmark for AI models",
+      "url": "https://phail.ai",
+      "published": "2026-03-31T16:25:43",
       "description": "",
-      "image": "https://opengraph.githubassets.com/78aaccdc912fa649d7e2cf5662c2f0015665906aa0d4d763339bdccf70ff2a7e/google-research/timesfm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-      "published": "2026-03-31T07:01:15",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/beca0fa1a556486413fd1850c82f7bf74971dc25.png?1767663168",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-      "published": "2026-03-31T10:02:34",
-      "description": "",
-      "image": "https://ciphercue.com/img/og-card.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Clojure: The Documentary, official trailer [video]",
-      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-      "published": "2026-03-26T17:00:54",
-      "description": "",
-      "image": "data/images/d64cd05b9a0a7a6137787e0ed8161592.png",
+      "image": "data/images/2b3ff0a60cf65f2ab4cc3bd33c0804e4.png",
       "summary": "Summary unavailable."
     }
   ],
