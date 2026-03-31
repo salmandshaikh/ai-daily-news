@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T01:07:17.777464",
+  "updated": "2026-03-31T05:31:15.989238",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Semantic \u2013 Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
+      "url": "https://github.com/concensure/Semantic",
+      "published": "2026-03-31T03:50:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9c10e88782729e212f1bd76e1f3bafd24bb06ee6adde13f4bb22aef43585f11a/concensure/Semantic",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "published": "2026-03-26T17:00:54",
+      "description": "",
+      "image": "data/images/d64cd05b9a0a7a6137787e0ed8161592.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+      "url": "https://github.com/virpo/pegboard",
+      "published": "2026-03-30T23:20:02",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/062286a436dde35d6b6f4c5114209d08e6bd193578421f5e886138cfbe72bb4f/virpo/pegboard",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+      "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "published": "2026-03-31T02:26:15",
+      "description": "",
+      "image": "https://static.simonwillison.net/static/2026/chatterbox-card.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Bird brains (2023)",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
       "published": "2026-03-30T13:14:27",
@@ -164,71 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "R3 Bio pitched \u201cbrainless clones\u201d to serve the role of backup human bodies",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "published": "2026-03-30T11:02:14",
+      "description": "",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?resize=1200,600",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Will AI take my job",
+      "url": "https://aijobsreport.org/quiz",
+      "published": "2026-03-31T03:43:11",
+      "description": "",
+      "image": "data/images/2ed88dd8470cc5e01bdbabe9d0964cb8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Recover Apple Keychain",
       "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
       "published": "2026-03-30T17:21:49",
       "description": "",
       "image": "data/images/2e129afe0208fbc63439abc38eb49f05.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Coasts \u2013 Containerized Hosts for Agents",
-      "url": "https://github.com/coast-guard/coasts",
-      "published": "2026-03-30T15:17:51",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/a062bdbc133b457a807f9d12aecacf93c34a577d66d1b0ff2fe63af93c836c56/coast-guard/coasts",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I am definitely missing the pre-AI writing era",
-      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-      "published": "2026-03-30T07:03:18",
-      "description": "",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mathematical methods and human thought in the age of AI",
-      "url": "https://arxiv.org/abs/2603.26524",
-      "published": "2026-03-30T11:05:37",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
-      "published": "2026-03-30T15:32:37",
-      "description": "",
-      "image": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The ladder is missing rungs \u2013 Engineering Progression When AI Ate the Middle",
-      "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
-      "published": "2026-03-30T13:51:31",
-      "description": "",
-      "image": "https://negroniventurestudios.com/wp-content/uploads/2026/03/1773765939876-1024x683.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "published": "2026-03-30T07:34:04",
-      "description": "",
-      "image": "https://dani2442.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E",
       "summary": "Summary unavailable."
     }
   ],
