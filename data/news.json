@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T20:32:39.509384",
+  "updated": "2026-03-31T01:07:17.777464",
   "articles": [
     {
       "source": "RSS",
@@ -150,12 +150,92 @@
       "description": "",
       "image": "data/images/f9deb1921d2fd51d9fb90df07878245b.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bird brains (2023)",
+      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "published": "2026-03-30T13:14:27",
+      "description": "",
+      "image": "https://dhanishsemar.com/writing/bird-brains/opengraph-image?065a48ba6584b675",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Recover Apple Keychain",
+      "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+      "published": "2026-03-30T17:21:49",
+      "description": "",
+      "image": "data/images/2e129afe0208fbc63439abc38eb49f05.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Coasts \u2013 Containerized Hosts for Agents",
+      "url": "https://github.com/coast-guard/coasts",
+      "published": "2026-03-30T15:17:51",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/a062bdbc133b457a807f9d12aecacf93c34a577d66d1b0ff2fe63af93c836c56/coast-guard/coasts",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I am definitely missing the pre-AI writing era",
+      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+      "published": "2026-03-30T07:03:18",
+      "description": "",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mathematical methods and human thought in the age of AI",
+      "url": "https://arxiv.org/abs/2603.26524",
+      "published": "2026-03-30T11:05:37",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+      "published": "2026-03-30T15:32:37",
+      "description": "",
+      "image": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The ladder is missing rungs \u2013 Engineering Progression When AI Ate the Middle",
+      "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
+      "published": "2026-03-30T13:51:31",
+      "description": "",
+      "image": "https://negroniventurestudios.com/wp-content/uploads/2026/03/1773765939876-1024x683.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "published": "2026-03-30T07:34:04",
+      "description": "",
+      "image": "https://dani2442.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "speakers": [
       "Alex",
       "Jordan"
