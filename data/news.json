@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T05:50:38.142184",
+  "updated": "2026-04-01T08:52:21.812752",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Falcon Perception",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "published": "Wed, 01 Apr 2026 07:13:20 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
       "published": "Tue, 31 Mar 2026 15:10:41 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Build a Domain-Specific Embedding Model in Under a Day",
-      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-      "published": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "description": "",
-      "image": "data/images/a01a7430fd681327162cc114e55984d2.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
@@ -174,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
-      "url": "https://hypha.pub/back-to-freebsd-part-2",
-      "published": "2026-03-27T18:55:02",
-      "description": "",
-      "image": "data/images/127f06648e44e6f4f53d598d6413b9f9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
       "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
       "published": "2026-03-31T09:30:43",
@@ -194,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
-      "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
-      "published": "2026-03-31T19:46:43",
+      "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+      "url": "https://hypha.pub/back-to-freebsd-part-2",
+      "published": "2026-03-27T18:55:02",
       "description": "",
-      "image": "https://tech.stonecharioteer.com/images/posts/tailscale/exit-node-flow.png",
+      "image": "data/images/127f06648e44e6f4f53d598d6413b9f9.png",
       "summary": "Summary unavailable."
     },
     {
