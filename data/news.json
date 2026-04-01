@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T12:46:29.135548",
+  "updated": "2026-04-01T16:42:57.992146",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "url": "https://huggingface.co/blog/Hcompany/holo3",
+      "published": "Wed, 01 Apr 2026 16:36:15 GMT",
+      "description": "",
+      "image": "data/images/620dfff29ca9df2b931f77bf9c1b7811.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Falcon Perception",
       "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
       "published": "Wed, 01 Apr 2026 07:13:20 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "A New Framework for Evaluating Voice Agents (EVA)",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-      "published": "Tue, 24 Mar 2026 02:01:52 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "published": "2026-04-01T16:17:35",
       "description": "",
-      "image": "data/images/31bc27add38cdc3f5fa73f858226ffad.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Sycamore \u2013 next gen Rust web UI library using fine-grained reactivity",
+      "url": "https://sycamore.dev",
+      "published": "2026-04-01T12:30:18",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -164,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-      "published": "2026-03-31T09:30:43",
+      "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+      "published": "2026-04-01T15:55:30",
       "description": "",
-      "image": "https://responsiblestatecraft.org/media-library/image.jpg?id=65428245&width=1200&height=600&coordinates=0%2C71%2C0%2C54",
+      "image": "data/images/377b312ce556d81ea6fe35283b0b8e6a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "published": "2026-03-31T20:07:30",
+      "title": "AI has suddenly become more useful to open-source developers",
+      "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+      "published": "2026-04-01T14:07:50",
       "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080",
+      "image": "https://www.zdnet.com/a/img/resize/569218862b213a221f59e40e7dd1f6ecae1ede41/2026/03/31/91ab303b-bed2-472b-82e8-10f75bda7d3a/aicodescreenshot-2026-03-31-153221.jpg?auto=webp&fit=crop&height=675&width=1200",
       "summary": "Summary unavailable."
     }
   ],
