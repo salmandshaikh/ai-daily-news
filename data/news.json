@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-01T08:52:21.812752",
+  "updated": "2026-04-01T12:46:29.135548",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "published": "Wed, 01 Apr 2026 02:00:00 GMT",
+      "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "image": "data/images/88750c9ba9b9d2723dea144ae8b5d5fa.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 25 Mar 2026 10:00:00 GMT",
       "description": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
       "image": "data/images/b68aa49f6852f88eca23b541847163d0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "published": "Wed, 25 Mar 2026 00:00:00 GMT",
-      "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-      "image": "data/images/fa7f7e2e9aeba3c9a26dce914b99985b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "published": "2026-03-31T20:07:30",
-      "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
       "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
       "published": "2026-03-31T09:30:43",
@@ -184,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
-      "url": "https://hypha.pub/back-to-freebsd-part-2",
-      "published": "2026-03-27T18:55:02",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "published": "2026-03-31T20:07:30",
       "description": "",
-      "image": "data/images/127f06648e44e6f4f53d598d6413b9f9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "published": "2026-03-28T22:42:23",
-      "description": "",
-      "image": "https://news.future-shock.ai/content/images/2026/03/weight-of-remembering.jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080",
       "summary": "Summary unavailable."
     }
   ],
