@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T01:03:55.903749",
+  "updated": "2026-04-02T05:27:18.417355",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Email obfuscation: What works in 2026?",
+      "url": "https://spencermortensen.com/articles/email-obfuscation/",
+      "published": "2026-04-02T03:35:33",
+      "description": "",
+      "image": "data/images/1982a03c7dd3179330b2635662ef4c0b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "InspectMind AI (YC W24) Is Hiring",
       "url": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
       "published": "2026-04-01T21:00:06",
@@ -179,26 +189,6 @@
       "published": "2026-04-01T16:17:35",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-      "published": "2026-04-01T23:45:03",
-      "description": "",
-      "image": "data/images/f32436c98fb2aafbf203128c06242cd2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Windows 95 defenses against installers that overwrite a file with an older one",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
-      "published": "2026-03-29T17:38:43",
-      "description": "",
-      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
       "summary": "Summary unavailable."
     }
   ],
