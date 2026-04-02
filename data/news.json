@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T12:41:21.036091",
+  "updated": "2026-04-02T16:43:13.062197",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "published": "Thu, 02 Apr 2026 16:00:49 +0000",
+      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "image": "data/images/79376752aad6466cdeef91b9b0bd6cd5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
       "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
       "published": "Thu, 26 Mar 2026 15:23:35 +0000",
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "From games to biology and beyond: 10 years of AlphaGo\u2019s impact",
-      "url": "https://deepmind.google/blog/10-years-of-alphago/",
-      "published": "Mon, 09 Mar 2026 13:52:36 +0000",
-      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
-      "image": "data/images/2a2c4a62dff1d1f6b3a4d6281811faa7.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "published": "Thu, 02 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/b5926f8a140a903314ba91d4d03a8f9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Liberate your OpenClaw",
-      "url": "https://huggingface.co/blog/liberate-your-openclaw",
-      "published": "Fri, 27 Mar 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "published": "2026-04-02T16:10:54",
       "description": "",
-      "image": "data/images/3adca01a920ec5dc7914c34a67508c87.png",
+      "image": "https://lh3.googleusercontent.com/XtdGQ6B0XzfV1gByFCtGbxLthooBSyg6QZWJn4VuM4SpDduwdYqOPFWpxyMIv875LTG1zUt0Xm34B29PfjACwd6m8fLiQpFLkZnjR5bVmJnCDANx6g=w1200-h630-n-nu-rw",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A Founder Tried to Pitch \u2013 and Got a Restraining Order",
-      "url": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
-      "published": "2026-04-02T12:10:46",
+      "title": "The SpaceX IPO: retail investor notes",
+      "url": "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/",
+      "published": "2026-04-02T11:11:27",
       "description": "",
-      "image": "data/images/b5fddcdd04f76cf20ecc55e14bc83a4b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "published": "2026-04-01T04:14:41",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
+      "image": "data/images/24ee91c7df00e2e6784a24de915b75c8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,6 +199,26 @@
       "published": "2026-04-02T03:35:33",
       "description": "",
       "image": "data/images/1982a03c7dd3179330b2635662ef4c0b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "On the trail of ancient art, deep in the Sahara",
+      "url": "https://www.ft.com/content/524ed21e-5c35-489e-ae0b-90d40b4cf28a",
+      "published": "2026-03-31T14:44:33",
+      "description": "",
+      "image": "data/images/c22c8cbb69bf7eec4480e1ca4d5275a8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "published": "2026-04-01T04:14:41",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
       "summary": "Summary unavailable."
     }
   ],
