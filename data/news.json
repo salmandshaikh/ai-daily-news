@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T01:06:36.194729",
+  "updated": "2026-04-03T05:28:50.481021",
   "articles": [
     {
       "source": "RSS",
@@ -184,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "published": "2026-04-02T11:04:51",
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "published": "2026-04-03T00:00:19",
       "description": "",
-      "image": "data/images/3b8f9fc3921f0d6c4e196edbcc755d55.png",
+      "image": "https://opengraph.githubassets.com/4f44cead7777bebe90274def85e90af03204b11e9f53701447976d24a1049102/axios/axios/issues/10636",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Significant raise of reports",
-      "url": "https://lwn.net/Articles/1065620/",
-      "published": "2026-04-02T09:14:18",
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "published": "2026-04-02T11:04:51",
       "description": "",
-      "image": "data/images/05ff847a8fb57ee1059fc421b79a3fd3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Post Mortem: axios NPM supply chain compromise",
-      "url": "https://github.com/axios/axios/issues/10636",
-      "published": "2026-04-03T00:00:19",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f9983af7987b96b630ed6c8505ed46dbfa8dedbc69b26466c39c2859e754850b/axios/axios/issues/10636",
+      "image": "data/images/3b8f9fc3921f0d6c4e196edbcc755d55.png",
       "summary": "Summary unavailable."
     }
   ],
