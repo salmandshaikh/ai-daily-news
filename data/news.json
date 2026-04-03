@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T08:38:49.102592",
+  "updated": "2026-04-03T12:34:10.202770",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
+      "published": "2026-04-03T09:15:34",
+      "description": "",
+      "image": "data/images/39bbc8d50b2d8bfd97928c91856bed90.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
       "published": "2026-04-02T16:10:54",
@@ -184,31 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Intel Assured Supply Chain Product Brief",
+      "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
+      "published": "2026-03-30T13:00:09",
+      "description": "",
+      "image": "data/images/926561aefdefaed31257ef0f0f146f2e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+      "url": "https://github.com/oven-sh/bun/pull/28801",
+      "published": "2026-04-03T11:09:58",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4e53bc1406a50f556d5bfca78fab6b74b6887f5fe4ab22db5437dd21651d8d19/oven-sh/bun/pull/28801",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
       "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
       "published": "2026-04-02T17:29:03",
       "description": "",
       "image": "data/images/9bdf03d067c416ceaef631e0c606655b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI Acquires TBPN",
-      "url": "https://openai.com/index/openai-acquires-tbpn/",
-      "published": "2026-04-02T17:26:49",
-      "description": "",
-      "image": "data/images/f0012b36f0c56aa51a8bf25f13c0580b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "published": "2026-04-02T11:04:51",
-      "description": "",
-      "image": "data/images/3b8f9fc3921f0d6c4e196edbcc755d55.png",
       "summary": "Summary unavailable."
     }
   ],
