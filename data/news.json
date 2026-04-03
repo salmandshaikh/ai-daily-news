@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T12:34:10.202770",
+  "updated": "2026-04-03T16:35:42.644772",
   "articles": [
     {
       "source": "RSS",
@@ -158,37 +158,7 @@
       "url": "https://apfel.franzai.com",
       "published": "2026-04-03T09:15:34",
       "description": "",
-      "image": "data/images/39bbc8d50b2d8bfd97928c91856bed90.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google releases Gemma 4 open models",
-      "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "published": "2026-04-02T16:10:54",
-      "description": "",
-      "image": "https://lh3.googleusercontent.com/XtdGQ6B0XzfV1gByFCtGbxLthooBSyg6QZWJn4VuM4SpDduwdYqOPFWpxyMIv875LTG1zUt0Xm34B29PfjACwd6m8fLiQpFLkZnjR5bVmJnCDANx6g=w1200-h630-n-nu-rw",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The True Shape of Io's Steeple Mountain",
-      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "published": "2026-03-29T12:07:24",
-      "description": "",
-      "image": "http://static1.squarespace.com/static/67c1838a639d9936086b4b9d/67c9693e5ad1ae29d3fd1690/67eabf05f9944e01930571b2/1746537506686/Not-so-steeple_banner.jpeg?format=1500w",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tailscale's new macOS home",
-      "url": "https://tailscale.com/blog/macos-notch-escape",
-      "published": "2026-04-02T18:22:03",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/w77i7m8x/production/be2e4419f4669282a3b09ee31e6e32a9cc328d51-1576x886.png",
+      "image": "https://apfel.franzai.com/og.png",
       "summary": "Summary unavailable."
     },
     {
@@ -209,6 +179,36 @@
       "published": "2026-04-03T11:09:58",
       "description": "",
       "image": "https://opengraph.githubassets.com/4e53bc1406a50f556d5bfca78fab6b74b6887f5fe4ab22db5437dd21651d8d19/oven-sh/bun/pull/28801",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "published": "2026-04-02T18:22:03",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/w77i7m8x/production/be2e4419f4669282a3b09ee31e6e32a9cc328d51-1576x886.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "published": "2026-04-02T16:10:54",
+      "description": "",
+      "image": "https://lh3.googleusercontent.com/XtdGQ6B0XzfV1gByFCtGbxLthooBSyg6QZWJn4VuM4SpDduwdYqOPFWpxyMIv875LTG1zUt0Xm34B29PfjACwd6m8fLiQpFLkZnjR5bVmJnCDANx6g=w1200-h630-n-nu-rw",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The True Shape of Io's Steeple Mountain",
+      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+      "published": "2026-03-29T12:07:24",
+      "description": "",
+      "image": "http://static1.squarespace.com/static/67c1838a639d9936086b4b9d/67c9693e5ad1ae29d3fd1690/67eabf05f9944e01930571b2/1746537506686/Not-so-steeple_banner.jpeg?format=1500w",
       "summary": "Summary unavailable."
     },
     {
