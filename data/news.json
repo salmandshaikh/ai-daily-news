@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T16:35:42.644772",
+  "updated": "2026-04-03T20:21:56.993584",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "published": "2026-04-02T18:24:29",
+      "description": "",
+      "image": "https://www.mintlify.com/images/featured/how-we-built-a-virtual-filesystem-for-our-assistant.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
       "url": "https://apfel.franzai.com",
       "published": "2026-04-03T09:15:34",
@@ -164,31 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Intel Assured Supply Chain Product Brief",
-      "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
-      "published": "2026-03-30T13:00:09",
+      "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+      "url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+      "published": "2026-04-03T17:29:21",
       "description": "",
-      "image": "data/images/926561aefdefaed31257ef0f0f146f2e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
-      "url": "https://github.com/oven-sh/bun/pull/28801",
-      "published": "2026-04-03T11:09:58",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/4e53bc1406a50f556d5bfca78fab6b74b6887f5fe4ab22db5437dd21651d8d19/oven-sh/bun/pull/28801",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tailscale's new macOS home",
-      "url": "https://tailscale.com/blog/macos-notch-escape",
-      "published": "2026-04-02T18:22:03",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/w77i7m8x/production/be2e4419f4669282a3b09ee31e6e32a9cc328d51-1576x886.png",
+      "image": "https://anonhaven.com/media/news/2026/04/solana.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The True Shape of Io's Steeple Mountain",
-      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "published": "2026-03-29T12:07:24",
+      "title": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "published": "2026-04-02T18:22:03",
       "description": "",
-      "image": "http://static1.squarespace.com/static/67c1838a639d9936086b4b9d/67c9693e5ad1ae29d3fd1690/67eabf05f9944e01930571b2/1746537506686/Not-so-steeple_banner.jpeg?format=1500w",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "published": "2026-04-02T17:29:03",
-      "description": "",
-      "image": "data/images/9bdf03d067c416ceaef631e0c606655b.png",
+      "image": "https://cdn.sanity.io/images/w77i7m8x/production/be2e4419f4669282a3b09ee31e6e32a9cc328d51-1576x886.png",
       "summary": "Summary unavailable."
     }
   ],
