@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T16:31:51.601023",
+  "updated": "2026-04-04T20:16:51.192648",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
-      "url": "https://www.irregular.com/publications/vibe-password-generation",
-      "published": "2026-04-02T00:39:53",
+      "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "published": "2026-04-04T15:18:58",
       "description": "",
-      "image": "https://framerusercontent.com/images/fVNMWw3KT6LQJrjgPpUEKyOEY.png",
+      "image": "data/images/5377689971610cfc90ff78138efe4a65.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "published": "2026-04-04T06:30:25",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/1f6efd2520ecc6bc7b5bccd6f4bbcf79bb47dbc1-3764x2380.png",
       "summary": "Summary unavailable."
     },
     {
@@ -169,26 +179,6 @@
       "published": "2026-04-04T12:00:38",
       "description": "",
       "image": "https://bookface-images.s3.amazonaws.com/logos/bb1239ee67e01455546fe8a413724b572346e680.png?1745870357",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Run Linux containers on Android, no root required",
-      "url": "https://github.com/ExTV/Podroid",
-      "published": "2026-04-03T22:23:55",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/0983136025e7e453e77e56b4026b229d7f8e51c06c0ad0b6e94e1788501d4104/ExTV/Podroid",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "published": "2026-04-02T18:24:29",
-      "description": "",
-      "image": "https://www.mintlify.com/images/featured/how-we-built-a-virtual-filesystem-for-our-assistant.png",
       "summary": "Summary unavailable."
     }
   ],
