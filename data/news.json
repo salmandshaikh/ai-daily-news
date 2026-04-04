@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T05:17:16.519760",
+  "updated": "2026-04-04T08:26:53.911686",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
-      "url": "https://github.com/borski/travel-hacking-toolkit",
-      "published": "2026-04-04T02:26:42",
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "published": "2026-04-04T06:30:25",
       "description": "",
-      "image": "https://opengraph.githubassets.com/388eab8707fbe38e7f1bd56607cf88dc62660297023d822fee0a0e7c9ac34ffa/borski/travel-hacking-toolkit",
+      "image": "data/images/e13c47f7a1603c28a2f23891143c4a35.png",
       "summary": "Summary unavailable."
     },
     {
@@ -168,7 +168,17 @@
       "url": "https://github.com/ExTV/Podroid",
       "published": "2026-04-03T22:23:55",
       "description": "",
-      "image": "https://opengraph.githubassets.com/eb3bcdc877ae371134308d80e02ba7bbcd6dc367260d3834d80c77968e16da0c/ExTV/Podroid",
+      "image": "https://opengraph.githubassets.com/18a96b80a6a9990ee1c72f54319c967de9320efd575819f527c1448691f81bb0/ExTV/Podroid",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "published": "2026-04-03T00:00:19",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/bca0d4712245216423924edae77bde7696c67516aacee6d7b88818baa00325d2/axios/axios/issues/10636",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Post Mortem: axios NPM supply chain compromise",
-      "url": "https://github.com/axios/axios/issues/10636",
-      "published": "2026-04-03T00:00:19",
+      "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "published": "2026-04-04T02:26:42",
       "description": "",
-      "image": "https://opengraph.githubassets.com/12f508a174db23d1e2ef864c77c7acf2bc50b728e2c1ba5196f08828eca83853/axios/axios/issues/10636",
+      "image": "https://opengraph.githubassets.com/4e35db7093a1335649dccc30af3ebdb7c3e628692b31cb8df2ad36b63dc28a75/borski/travel-hacking-toolkit",
       "summary": "Summary unavailable."
     }
   ],
