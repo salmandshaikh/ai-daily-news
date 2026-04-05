@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T12:28:13.215223",
+  "updated": "2026-04-05T16:21:59.812808",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Costco sued for seeking refunds on tariffs customers paid",
-      "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
-      "published": "2026-03-31T16:55:16",
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "published": "2026-04-05T12:43:47",
       "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-855684128-1152x648.jpg",
+      "image": "data/images/0f633ab2a258e7d2afb93e2ef758bef0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "published": "2026-04-05T13:14:38",
+      "description": "",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/03/No-spam.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "published": "2026-04-05T15:18:01",
+      "description": "",
+      "image": "https://mattkeeter.com/blog/2026-04-05-tailcall/hero.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Japanese, French and Omani Vessels Cross Strait of Hormuz",
+      "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
+      "published": "2026-04-05T14:27:55",
+      "description": "",
+      "image": "https://media.japantoday.com/img/store/9d/23/87cfa867672745bf16135000de5e255b080b/tag-reuters/_w1700.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,16 +199,6 @@
       "published": "2026-04-04T16:57:45",
       "description": "",
       "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "published": "2026-04-04T15:18:58",
-      "description": "",
-      "image": "data/images/5377689971610cfc90ff78138efe4a65.png",
       "summary": "Summary unavailable."
     }
   ],
