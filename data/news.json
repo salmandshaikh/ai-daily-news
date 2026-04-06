@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-06T08:59:50.469012",
+  "updated": "2026-04-06T12:41:19.912138",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "published": "Mon, 06 Apr 2026 02:30:00 GMT",
+      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "image": "data/images/6f4b75bce0056f7a80c5598b2eafc455.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 31 Mar 2026 13:00:00 GMT",
       "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
       "image": "data/images/8e5da7e6bb9fd84e0161436837d1590b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "published": "Sun, 29 Mar 2026 22:15:00 GMT",
-      "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "image": "data/images/6d1da5e042faeddcfbd911ecfedac496.png",
       "summary": "Summary unavailable."
     },
     {
@@ -158,7 +158,7 @@
       "url": "https://github.com/arman-bd/guppylm",
       "published": "2026-04-06T00:20:12",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d281121fcd6c31f81b226668b3b4e896197ee31d9df2b0c3b99dbd8aace94e66/arman-bd/guppylm",
+      "image": "https://opengraph.githubassets.com/cac05c60e6e6d2487cc50238a1e4ad2ced8ecaa15552ca3a3234f300a2278d09/arman-bd/guppylm",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
-      "url": "https://github.com/kessler/gemma-gem",
-      "published": "2026-04-06T00:14:37",
+      "title": "The Intelligence Failure in Iran",
+      "url": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/",
+      "published": "2026-04-06T11:21:35",
       "description": "",
-      "image": "https://opengraph.githubassets.com/034a9e90b2fec285829dbf7f4bb91cba1aff309150d3b3d15cd3d268d1353471/kessler/gemma-gem",
+      "image": "https://cdn.theatlantic.com/thumbor/KbPUZPt6E5HidOhSLu1X1FfO8kk=/0x0:2876x1498/1200x625/media/img/mt/2026/04/2026_04_03_The_Real_Intelligence_Failure_in_Iran/original.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -188,17 +188,7 @@
       "url": "https://github.com/fikrikarim/parlor",
       "published": "2026-04-05T17:53:19",
       "description": "",
-      "image": "https://opengraph.githubassets.com/da81874b1fcfc501d81ed81996ed5b99a711603fdd85fe6563ada7dc8fc52ac5/fikrikarim/parlor",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Jobs Being Created by AI",
-      "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
-      "published": "2026-04-03T02:25:56",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://opengraph.githubassets.com/d1c412767a61e11699d0adb935f9abf870b56956e7b52c00be07411a4ec64e6a/fikrikarim/parlor",
       "summary": "Summary unavailable."
     },
     {
@@ -209,6 +199,16 @@
       "published": "2026-04-06T04:24:49",
       "description": "",
       "image": "data/images/39fc048d6cf90d96f2174d477358a615.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+      "url": "https://github.com/kessler/gemma-gem",
+      "published": "2026-04-06T00:14:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/83b75c3ac6f19157f264a385e833ed04150306f79f27b44afc2e9baec6a874df/kessler/gemma-gem",
       "summary": "Summary unavailable."
     },
     {
