@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-06T16:34:20.864415",
+  "updated": "2026-04-06T20:27:13.299936",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "published": "Mon, 06 Apr 2026 10:00:00 GMT",
+      "description": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+      "image": "data/images/993306999aba66b58573273d48d4baf0.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 01 Apr 2026 02:00:00 GMT",
       "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
       "image": "data/images/88750c9ba9b9d2723dea144ae8b5d5fa.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "published": "Tue, 31 Mar 2026 13:00:00 GMT",
-      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-      "image": "data/images/8e5da7e6bb9fd84e0161436837d1590b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -134,6 +134,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Any Custom Frontend with Gradio's Backend",
+      "url": "https://huggingface.co/blog/introducing-gradio-server",
+      "published": "Wed, 01 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/bbc9e7e042d1a49a1f626edbddb71d0d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
       "published": "Tue, 31 Mar 2026 15:10:41 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "url": "https://huggingface.co/blog/trl-v1",
-      "published": "Tue, 31 Mar 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+      "url": "https://www.freestyle.sh",
+      "published": "2026-04-06T16:32:11",
       "description": "",
-      "image": "data/images/5bf03aae56673ed2214017f64372257e.png",
+      "image": "https://www.freestyle.sh/opengraph-image?9d53e9a0deaf33f9",
       "summary": "Summary unavailable."
     },
     {
@@ -158,7 +168,7 @@
       "url": "https://github.com/arman-bd/guppylm",
       "published": "2026-04-06T00:20:12",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9747f2586ea4b68fb2cba2ecbb44a0ae1ad8fbc1b2abff1f62c44b95a1c902f8/arman-bd/guppylm",
+      "image": "https://opengraph.githubassets.com/55e440b1dc24a37dbfaea310687bc339fea5360e36fdcc1506dd7c45ebc293be/arman-bd/guppylm",
       "summary": "Summary unavailable."
     },
     {
@@ -174,51 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Singer Now Occupies Eleven Spots on iTunes Singles Chart",
-      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-      "published": "2026-04-06T15:57:07",
-      "description": "",
-      "image": "https://www.showbiz411.com/wp-content/uploads/2026/03/eddie-dalton.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
       "url": "https://github.com/fikrikarim/parlor",
       "published": "2026-04-05T17:53:19",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d2bda9522a0772423ef26017160211cc238038c501486faa90f39ced5f96f286/fikrikarim/parlor",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
-      "url": "https://drop.com/",
-      "published": "2026-04-06T04:24:49",
-      "description": "",
-      "image": "data/images/39fc048d6cf90d96f2174d477358a615.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "When Virality Is the Message: The New Age of AI Propaganda",
-      "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
-      "published": "2026-04-06T14:16:35",
-      "description": "",
-      "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt38107dcc19ba6ca6/69cec3636310290a2973bc63/AI_Propaganda_(1).jpg?branch=production&width=3840&quality=75&auto=webp&crop=16%3A9",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
-      "url": "https://github.com/kessler/gemma-gem",
-      "published": "2026-04-06T00:14:37",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b03238d2ae1f9f79c3ad1218e037e440b77ccbe0c764916ce0650e6a5c69f94c/kessler/gemma-gem",
+      "image": "https://opengraph.githubassets.com/b717a746fe8327d7df2e5dd66c2fd01eb22557afdce673c5d1752398cfe3e7aa/fikrikarim/parlor",
       "summary": "Summary unavailable."
     }
   ],
