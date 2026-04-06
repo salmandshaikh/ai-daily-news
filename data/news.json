@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T01:09:34.117442",
+  "updated": "2026-04-06T05:54:28.777540",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "published": "2026-04-05T12:43:47",
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "published": "2026-04-06T00:20:12",
       "description": "",
-      "image": "data/images/0f633ab2a258e7d2afb93e2ef758bef0.png",
+      "image": "https://opengraph.githubassets.com/fd9d8d85168276448cd1c60249d0066e0ba5512611f170af099db130cf5129c9/arman-bd/guppylm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "published": "2026-04-06T00:07:54",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "url": "https://github.com/fikrikarim/parlor",
+      "published": "2026-04-05T17:53:19",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/7868d823291655a6ee82ed1c3eb6fc6fc818b481cfa545d58263be9d0f8aaf33/fikrikarim/parlor",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+      "url": "https://github.com/kessler/gemma-gem",
+      "published": "2026-04-06T00:14:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/f0690ff2c2ea2fbc94a0fb38cad8a73e9233c2c5e6cb55e8af763acdba36100b/kessler/gemma-gem",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Endian wars and anti-portability: this again?",
+      "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+      "published": "2026-04-04T07:29:41",
+      "description": "",
+      "image": "data/images/afa26a621f1451a9542474e48d5c7acc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Mdarena \u2013 Benchmark your Claude.md against your own PRs",
-      "url": "https://github.com/HudsonGri/mdarena",
-      "published": "2026-04-05T23:35:59",
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "published": "2026-04-05T12:43:47",
       "description": "",
-      "image": "https://opengraph.githubassets.com/463e745e1925547506130481216f560b4d4b1d0283108bd730dee18392092915/HudsonGri/mdarena",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI's fall from grace as investors race to Anthropic",
-      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-      "published": "2026-04-05T23:33:01",
-      "description": "",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/b1761b5/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2F68%2Fc707de388c727fc161ff8d4189e8%2F1x-1.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "From birds to brains: My path to the fusiform face area (2024)",
-      "url": "https://www.kavliprize.org/nancy-kanwisher-autobiography",
-      "published": "2026-04-05T17:08:55",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/qpjzy3y9/production/cc0789339ceb1d3b4933e4bd6bd6096c7b3afd26-2352x996.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: TermHub \u2013 Open-source terminal control gateway built for AI Agents",
-      "url": "https://github.com/duo121/termhub",
-      "published": "2026-04-05T22:14:34",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/79aa3dceeabe375b85d5b7af5a36d4a58d62c75c0afba39c3ce142e464263907/duo121/termhub",
+      "image": "data/images/0f633ab2a258e7d2afb93e2ef758bef0.png",
       "summary": "Summary unavailable."
     }
   ],
