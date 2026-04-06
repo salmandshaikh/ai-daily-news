@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T20:18:33.823078",
+  "updated": "2026-04-06T01:09:34.117442",
   "articles": [
     {
       "source": "RSS",
@@ -174,18 +174,48 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Mdarena \u2013 Benchmark your Claude.md against your own PRs",
+      "url": "https://github.com/HudsonGri/mdarena",
+      "published": "2026-04-05T23:35:59",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/463e745e1925547506130481216f560b4d4b1d0283108bd730dee18392092915/HudsonGri/mdarena",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI's fall from grace as investors race to Anthropic",
+      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+      "published": "2026-04-05T23:33:01",
+      "description": "",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/b1761b5/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2F68%2Fc707de388c727fc161ff8d4189e8%2F1x-1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "From birds to brains: My path to the fusiform face area (2024)",
       "url": "https://www.kavliprize.org/nancy-kanwisher-autobiography",
       "published": "2026-04-05T17:08:55",
       "description": "",
       "image": "https://cdn.sanity.io/images/qpjzy3y9/production/cc0789339ceb1d3b4933e4bd6bd6096c7b3afd26-2352x996.jpg",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: TermHub \u2013 Open-source terminal control gateway built for AI Agents",
+      "url": "https://github.com/duo121/termhub",
+      "published": "2026-04-05T22:14:34",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/79aa3dceeabe375b85d5b7af5a36d4a58d62c75c0afba39c3ce142e464263907/duo121/termhub",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "speakers": [
       "Alex",
       "Jordan"
