@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T17:16:31.069468",
+  "updated": "2026-04-07T20:33:20.898669",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,71 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Blackholing My Email",
-      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-      "published": "2026-04-07T08:42:05",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "published": "2026-04-07T18:09:34",
       "description": "",
-      "image": "data/images/3da9749f7f1ef060950bea622e66c5db.png",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "An AI robot in my home",
-      "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-      "published": "2026-04-07T13:19:10",
+      "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+      "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+      "published": "2026-04-06T05:22:24",
       "description": "",
-      "image": "data/images/a239578d1edb63b0c044e46ca04d8558.png",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/G1N09dK0V7TdAbp9YbmOTT7FwRY=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/57/b857e0c7-ca4f-4125-8e59-aa66ff192cf3/city.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI may be making us think and write more alike",
-      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-      "published": "2026-04-07T11:29:02",
+      "title": "Taste in the age of AI and LLMs",
+      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "published": "2026-04-07T15:54:16",
       "description": "",
-      "image": "https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2026/03/llm-homogenous-thought-top.jpg",
+      "image": "https://rajnandan.com/ogs/taste-in-the-age-of-ai-and-llms/og-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI helps add 10k more photos to OldNYC",
+      "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+      "published": "2026-04-06T18:24:32",
+      "description": "",
+      "image": "data/images/6c4319c0672b5cc0a580c3787b519ed1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
+      "url": "https://netbsd-cells.petermann-digital.de/",
+      "published": "2026-04-07T19:54:06",
+      "description": "",
+      "image": "https://netbsd-cells.petermann-digital.de/images/cover-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Emotion Concepts and Their Function in a Large Language Model",
+      "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+      "published": "2026-04-04T09:52:55",
+      "description": "",
+      "image": "data/images/fc0162cfa2324a0802b26aee66d01417.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tailslayer: Library for reducing tail latency in RAM reads",
+      "url": "https://github.com/LaurieWired/tailslayer",
+      "published": "2026-04-07T19:16:10",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/1e7604ecca4c78f7950434bf83eeaffac109a4095c93c7af232c53a4ad6d8fe7/LaurieWired/tailslayer",
       "summary": "Summary unavailable."
     }
   ],
