@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T20:27:13.299936",
+  "updated": "2026-04-07T01:07:13.258254",
   "articles": [
     {
       "source": "RSS",
@@ -154,48 +154,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-      "url": "https://www.freestyle.sh",
-      "published": "2026-04-06T16:32:11",
+      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+      "url": "https://github.com/kitfunso/hippo-memory",
+      "published": "2026-04-06T21:49:34",
       "description": "",
-      "image": "https://www.freestyle.sh/opengraph-image?9d53e9a0deaf33f9",
+      "image": "https://opengraph.githubassets.com/2fe91c22f497d107a0f712cda89a89c015c158c36b7d359fc13e56030d13797e/kitfunso/hippo-memory",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "published": "2026-04-06T00:20:12",
+      "title": "AI singer now occupies eleven spots on iTunes singles chart",
+      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+      "published": "2026-04-06T15:57:07",
       "description": "",
-      "image": "https://opengraph.githubassets.com/55e440b1dc24a37dbfaea310687bc339fea5360e36fdcc1506dd7c45ebc293be/arman-bd/guppylm",
+      "image": "https://www.showbiz411.com/wp-content/uploads/2026/03/eddie-dalton.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "France pulls last gold held in US for $15B gain",
-      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-      "published": "2026-04-06T08:03:43",
+      "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
+      "url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "published": "2026-04-06T23:16:27",
       "description": "",
-      "image": "data/images/3c87f52e5b902521d6a8e7b0b7446be1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "url": "https://github.com/fikrikarim/parlor",
-      "published": "2026-04-05T17:53:19",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b717a746fe8327d7df2e5dd66c2fd01eb22557afdce673c5d1752398cfe3e7aa/fikrikarim/parlor",
+      "image": "data/images/472be88f4abe53d7feaf1a83ef925779.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-06",
+    "date": "2026-04-07",
     "speakers": [
       "Alex",
       "Jordan"
