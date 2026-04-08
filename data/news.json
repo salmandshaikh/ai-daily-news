@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T08:48:32.243049",
+  "updated": "2026-04-08T12:47:57.833015",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the Child Safety Blueprint",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "published": "Wed, 08 Apr 2026 05:00:00 GMT",
+      "description": "Discover OpenAI\u2019s Child Safety Blueprint\u2014a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "image": "data/images/d2e0aed13ffb9cb6956f159499c6547b.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 02 Apr 2026 10:00:00 GMT",
       "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
       "image": "data/images/d102c3cea89767359b7a6a7775324d80.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "published": "Wed, 01 Apr 2026 02:00:00 GMT",
-      "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-      "image": "data/images/88750c9ba9b9d2723dea144ae8b5d5fa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
-      "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
-      "published": "2026-04-08T06:01:00",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "url": "https://arxiv.org/abs/2604.05091",
+      "published": "2026-04-08T12:19:00",
       "description": "",
-      "image": "https://res.cloudinary.com/railway/image/upload/v1775567332/blog/Moving-OG_aclrsn.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,6 +179,16 @@
       "published": "2026-04-06T05:22:24",
       "description": "",
       "image": "https://th-thumbnailer.cdn-si-edu.com/G1N09dK0V7TdAbp9YbmOTT7FwRY=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/57/b857e0c7-ca4f-4125-8e59-aa66ff192cf3/city.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Struggle Against the Gods",
+      "url": "https://firstthings.com/struggle-against-the-gods/",
+      "published": "2026-04-08T09:41:56",
+      "description": "",
+      "image": "data/images/41bef9e37025bc33f4f9610ed8bba2ec.png",
       "summary": "Summary unavailable."
     }
   ],
