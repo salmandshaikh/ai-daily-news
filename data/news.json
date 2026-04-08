@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T16:49:55.344985",
+  "updated": "2026-04-08T20:30:11.200106",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I've been waiting over a month for Anthropic support to respond",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "published": "2026-04-08T17:44:25",
+      "description": "",
+      "image": "data/images/6a59e0032ae9fb9c25e9e7549208349e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
       "url": "https://arxiv.org/abs/2604.05091",
       "published": "2026-04-08T12:19:00",
@@ -164,21 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "published": "2026-04-07T18:09:34",
+      "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+      "url": "https://github.com/onesuper/tui-use",
+      "published": "2026-04-08T16:41:16",
       "description": "",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
+      "image": "https://opengraph.githubassets.com/454cbfce750e4a1cb6350ec1940ec504fc34994a77b13bbe8c9fbab2464e92ba/onesuper/tui-use",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: BAREmail \u0295\u00b7\u1d25\u00b7\u0294 \u2013 minimalist Gmail client for bad WiFi",
-      "url": "https://github.com/matt-virgo/baremail",
-      "published": "2026-04-08T14:44:23",
+      "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+      "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+      "published": "2026-04-08T06:01:00",
       "description": "",
-      "image": "https://opengraph.githubassets.com/c1166a93347fd9e1e993d4d22f031ab8c392e85861f50b473605499a4869c542/matt-virgo/baremail",
+      "image": "https://res.cloudinary.com/railway/image/upload/v1775567332/blog/Moving-OG_aclrsn.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "One item purchased, ten emails",
+      "url": "https://joshghent.com/online-shopping/",
+      "published": "2026-04-08T18:13:22",
+      "description": "",
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fjoshghent.com%2Fsocial%2Fonline-shopping%2F/opengraph/_1775668121117",
       "summary": "Summary unavailable."
     }
   ],
