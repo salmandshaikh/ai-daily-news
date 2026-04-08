@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T20:33:20.898669",
+  "updated": "2026-04-08T01:08:47.414479",
   "articles": [
     {
       "source": "RSS",
@@ -174,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Taste in the age of AI and LLMs",
-      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-      "published": "2026-04-07T15:54:16",
-      "description": "",
-      "image": "https://rajnandan.com/ogs/taste-in-the-age-of-ai-and-llms/og-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "AI helps add 10k more photos to OldNYC",
       "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
       "published": "2026-04-06T18:24:32",
@@ -194,38 +184,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
-      "url": "https://netbsd-cells.petermann-digital.de/",
-      "published": "2026-04-07T19:54:06",
+      "title": "Taste in the age of AI and LLMs",
+      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "published": "2026-04-07T15:54:16",
       "description": "",
-      "image": "https://netbsd-cells.petermann-digital.de/images/cover-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Emotion Concepts and Their Function in a Large Language Model",
-      "url": "https://transformer-circuits.pub/2026/emotions/index.html",
-      "published": "2026-04-04T09:52:55",
-      "description": "",
-      "image": "data/images/fc0162cfa2324a0802b26aee66d01417.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tailslayer: Library for reducing tail latency in RAM reads",
-      "url": "https://github.com/LaurieWired/tailslayer",
-      "published": "2026-04-07T19:16:10",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/1e7604ecca4c78f7950434bf83eeaffac109a4095c93c7af232c53a4ad6d8fe7/LaurieWired/tailslayer",
+      "image": "https://rajnandan.com/ogs/taste-in-the-age-of-ai-and-llms/og-image.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-07",
+    "date": "2026-04-08",
     "speakers": [
       "Alex",
       "Jordan"
