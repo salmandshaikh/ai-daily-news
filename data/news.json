@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T12:47:57.833015",
+  "updated": "2026-04-08T16:49:55.344985",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "ALTK\u2011Evolve: On\u2011the\u2011Job Learning for AI Agents",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "published": "Wed, 08 Apr 2026 14:27:42 GMT",
+      "description": "",
+      "image": "data/images/3aff70f178800ecbfeb4bb35f7e49d33.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "published": "Wed, 08 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/d328acc679ec4ed9e2d1a2d6a79e279e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
       "url": "https://huggingface.co/blog/gemma4",
       "published": "Thu, 02 Apr 2026 00:00:00 GMT",
@@ -132,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Any Custom Frontend with Gradio's Backend",
-      "url": "https://huggingface.co/blog/introducing-gradio-server",
-      "published": "Wed, 01 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "url": "https://arxiv.org/abs/2604.05091",
+      "published": "2026-04-08T12:19:00",
       "description": "",
-      "image": "data/images/bbc9e7e042d1a49a1f626edbddb71d0d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "published": "Tue, 31 Mar 2026 15:10:41 GMT",
-      "description": "",
-      "image": "data/images/78734562c6df03a4702afee7bb45fbc9.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,31 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "url": "https://arxiv.org/abs/2604.05091",
-      "published": "2026-04-08T12:19:00",
+      "title": "Show HN: BAREmail \u0295\u00b7\u1d25\u00b7\u0294 \u2013 minimalist Gmail client for bad WiFi",
+      "url": "https://github.com/matt-virgo/baremail",
+      "published": "2026-04-08T14:44:23",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A truck driver spent 20 years making a scale model of every building in NYC",
-      "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "published": "2026-04-06T05:22:24",
-      "description": "",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/G1N09dK0V7TdAbp9YbmOTT7FwRY=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/57/b857e0c7-ca4f-4125-8e59-aa66ff192cf3/city.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Struggle Against the Gods",
-      "url": "https://firstthings.com/struggle-against-the-gods/",
-      "published": "2026-04-08T09:41:56",
-      "description": "",
-      "image": "data/images/41bef9e37025bc33f4f9610ed8bba2ec.png",
+      "image": "https://opengraph.githubassets.com/c1166a93347fd9e1e993d4d22f031ab8c392e85861f50b473605499a4869c542/matt-virgo/baremail",
       "summary": "Summary unavailable."
     }
   ],
