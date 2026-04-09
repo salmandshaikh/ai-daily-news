@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-08T20:30:11.200106",
+  "updated": "2026-04-09T00:58:43.855357",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The next phase of enterprise AI",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "published": "Wed, 08 Apr 2026 14:00:00 GMT",
+      "description": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+      "image": "data/images/4969eac8e8261a96b759e9d035463746.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 02 Apr 2026 10:30:00 GMT",
       "description": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
       "image": "data/images/113388ccbcc381dc692b0409e3d1af5c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Codex now offers more flexible pricing for teams",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "published": "Thu, 02 Apr 2026 10:00:00 GMT",
-      "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-      "image": "data/images/d102c3cea89767359b7a6a7775324d80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I've been waiting over a month for Anthropic support to respond",
-      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "published": "2026-04-08T17:44:25",
+      "title": "John Deere to pay $99M in right-to-repair settlement",
+      "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+      "published": "2026-04-08T20:46:27",
       "description": "",
-      "image": "data/images/6a59e0032ae9fb9c25e9e7549208349e.png",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/04/John-Deere-Right-to-Repair-Hero-1.jpg?w=1200",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-      "url": "https://github.com/onesuper/tui-use",
-      "published": "2026-04-08T16:41:16",
+      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "published": "2026-04-08T17:44:25",
       "description": "",
-      "image": "https://opengraph.githubassets.com/454cbfce750e4a1cb6350ec1940ec504fc34994a77b13bbe8c9fbab2464e92ba/onesuper/tui-use",
+      "image": "data/images/97649d24e505ba468b09bcc83d26b460.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,22 +190,12 @@
       "description": "",
       "image": "https://res.cloudinary.com/railway/image/upload/v1775567332/blog/Moving-OG_aclrsn.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "One item purchased, ten emails",
-      "url": "https://joshghent.com/online-shopping/",
-      "published": "2026-04-08T18:13:22",
-      "description": "",
-      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fjoshghent.com%2Fsocial%2Fonline-shopping%2F/opengraph/_1775668121117",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-08",
+    "date": "2026-04-09",
     "speakers": [
       "Alex",
       "Jordan"
