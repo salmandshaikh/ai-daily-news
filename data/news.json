@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T05:43:57.451199",
+  "updated": "2026-04-09T08:57:22.054217",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Process Manager for Autonomous AI Agents",
+      "url": "https://botctl.dev/",
+      "published": "2026-04-09T06:00:55",
+      "description": "",
+      "image": "https://botctl.dev/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
       "url": "https://arxiv.org/abs/2604.05091",
       "published": "2026-04-08T12:19:00",
@@ -169,26 +179,6 @@
       "published": "2026-04-08T20:46:27",
       "description": "",
       "image": "https://www.thedrive.com/wp-content/uploads/2026/04/John-Deere-Right-to-Repair-Hero-1.jpg?w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
-      "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
-      "published": "2026-04-08T06:01:00",
-      "description": "",
-      "image": "https://res.cloudinary.com/railway/image/upload/v1775567332/blog/Moving-OG_aclrsn.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "published": "2026-04-08T17:44:25",
-      "description": "",
-      "image": "data/images/97649d24e505ba468b09bcc83d26b460.png",
       "summary": "Summary unavailable."
     }
   ],
