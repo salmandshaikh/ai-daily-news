@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-09T08:57:22.054217",
+  "updated": "2026-04-09T12:53:08.985788",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "description": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+      "image": "data/images/15a8885eed3d3842de315714bfb1b737.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Mon, 06 Apr 2026 02:30:00 GMT",
       "description": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "image": "data/images/6f4b75bce0056f7a80c5598b2eafc455.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI acquires TBPN",
-      "url": "https://openai.com/index/openai-acquires-tbpn",
-      "published": "Thu, 02 Apr 2026 10:30:00 GMT",
-      "description": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-      "image": "data/images/113388ccbcc381dc692b0409e3d1af5c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Process Manager for Autonomous AI Agents",
-      "url": "https://botctl.dev/",
-      "published": "2026-04-09T06:00:55",
+      "title": "Claude mixes up who said what and that's not OK",
+      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "published": "2026-04-09T09:25:28",
       "description": "",
-      "image": "https://botctl.dev/og-image.png",
+      "image": "data/images/b168de4f756ff91bb09df88c3d29a1be.png",
       "summary": "Summary unavailable."
     },
     {
@@ -169,16 +169,6 @@
       "published": "2026-04-08T12:19:00",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "John Deere to pay $99M in right-to-repair settlement",
-      "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-      "published": "2026-04-08T20:46:27",
-      "description": "",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/04/John-Deere-Right-to-Repair-Hero-1.jpg?w=1200",
       "summary": "Summary unavailable."
     }
   ],
