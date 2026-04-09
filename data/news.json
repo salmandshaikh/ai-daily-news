@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T16:55:58.556058",
+  "updated": "2026-04-09T20:38:48.065497",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "url": "https://huggingface.co/blog/waypoint-1-5",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "published": "Thu, 09 Apr 2026 00:00:00 GMT",
@@ -142,33 +152,63 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Holo3: Breaking the Computer Use Frontier",
-      "url": "https://huggingface.co/blog/Hcompany/holo3",
-      "published": "Wed, 01 Apr 2026 16:36:15 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Maine Is About to Become the First State to Ban Major New Data Centers",
+      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+      "published": "2026-04-09T19:48:25",
       "description": "",
-      "image": "data/images/620dfff29ca9df2b931f77bf9c1b7811.png",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/2a8e079e-10a6-4599-9e6e-ddb65aa7f05b_1920x1080.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot",
-      "url": "https://merylldindin.com/thoughts/company-brain/",
-      "published": "2026-04-08T03:35:21",
+      "title": "Netflix Prices Went Up Again \u2013 I Bought a DVD Player Instead",
+      "url": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
+      "published": "2026-04-09T20:17:50",
       "description": "",
-      "image": "https://cdn.merylldindin.com/thumbnails/company-brain-20260330T113044.webp",
+      "image": "https://aywren.com/2026/pic/dvdcollection.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude mixes up who said what",
-      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-      "published": "2026-04-09T09:25:28",
+      "title": "Bitmap fonts make computers feel like computers again",
+      "url": "https://korigamik.dev/blog/bitmap_fonts/",
+      "published": "2026-04-09T19:17:05",
       "description": "",
-      "image": "data/images/caf6685f7fb315bdcacfab378d14a917.png",
+      "image": "https://korigamik.dev/blog/bitmap_fonts/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
+      "url": "https://www.unfolder.app/",
+      "published": "2026-04-09T16:58:46",
+      "description": "",
+      "image": "https://unfolder.app/img/og_image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
+      "url": "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/",
+      "published": "2026-04-09T19:29:59",
+      "description": "",
+      "image": "https://regmedia.co.uk/2026/04/09/shutterstock_2719900129.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Discovering, detecting, and surgically removing Google's AI watermark",
+      "url": "https://github.com/aloshdenny/reverse-SynthID",
+      "published": "2026-04-09T20:10:25",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/e6a07bab1712720e7fe45ba9b07f97ea20724bd9322ed06fdb58ef9c5401c229/aloshdenny/reverse-SynthID",
       "summary": "Summary unavailable."
     }
   ],
