@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T12:53:08.985788",
+  "updated": "2026-04-09T16:55:58.556058",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/a80bf084b9ebc883d3ac5b04b63d1734.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "ALTK\u2011Evolve: On\u2011the\u2011Job Learning for AI Agents",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
       "published": "Wed, 08 Apr 2026 14:27:42 GMT",
@@ -142,33 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Falcon Perception",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "published": "Wed, 01 Apr 2026 07:13:20 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot",
+      "url": "https://merylldindin.com/thoughts/company-brain/",
+      "published": "2026-04-08T03:35:21",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://cdn.merylldindin.com/thumbnails/company-brain-20260330T113044.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude mixes up who said what and that's not OK",
+      "title": "Claude mixes up who said what",
       "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
       "published": "2026-04-09T09:25:28",
       "description": "",
-      "image": "data/images/b168de4f756ff91bb09df88c3d29a1be.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "url": "https://arxiv.org/abs/2604.05091",
-      "published": "2026-04-08T12:19:00",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "data/images/caf6685f7fb315bdcacfab378d14a917.png",
       "summary": "Summary unavailable."
     }
   ],
