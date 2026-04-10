@@ -1,16 +1,6 @@
 {
-  "updated": "2026-04-10T08:58:37.873129",
+  "updated": "2026-04-10T12:39:27.227484",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "url": "https://openai.com/index/cyberagent",
-      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
-      "description": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-      "image": "data/images/7ebbf9b94674e19f2d62d3529324eabd.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Thu, 09 Apr 2026 00:00:00 GMT",
       "description": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
       "image": "data/images/15a8885eed3d3842de315714bfb1b737.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "description": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "image": "data/images/7ebbf9b94674e19f2d62d3529324eabd.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Model-Based Testing for Dungeons & Dragons",
+      "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
+      "published": "2026-04-07T13:15:41",
+      "description": "",
+      "image": "https://www.loskutoff.com/static/blog/dnd-quint-combat/splash.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "We've raised $17M to build what comes after Git",
       "url": "https://blog.gitbutler.com/series-a",
       "published": "2026-04-10T01:52:58",
       "description": "",
       "image": "https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/17-series-a.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
+      "url": "https://github.com/marimo-team/marimo-pair",
+      "published": "2026-04-07T17:47:46",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/177dd4a7de8403c870007868a9e6066a6547ccc5e1bd0f859ed03a168c83e2e3/marimo-team/marimo-pair",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
-      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
-      "published": "2026-04-10T03:03:14",
-      "description": "",
-      "image": "https://images.ctfassets.net/00voh0j35590/5phcG1zgzyomp7JNqFGFbB/3cc5f181f6269910aeadd22147d4f254/RAFT_2.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "An AI robot in my home",
       "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
       "published": "2026-04-07T13:19:10",
@@ -204,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-      "url": "https://pvp-ai.russell-harper.com",
-      "published": "2026-04-08T12:56:58",
+      "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
+      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+      "published": "2026-04-10T03:03:14",
       "description": "",
-      "image": "data/images/31edde02ac384f0aaf508fcf0bf6c273.png",
+      "image": "https://images.ctfassets.net/00voh0j35590/5phcG1zgzyomp7JNqFGFbB/3cc5f181f6269910aeadd22147d4f254/RAFT_2.jpg",
       "summary": "Summary unavailable."
     }
   ],
