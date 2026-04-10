@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-09T20:38:48.065497",
+  "updated": "2026-04-10T01:09:11.608206",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "description": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "image": "data/images/7ebbf9b94674e19f2d62d3529324eabd.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Mon, 06 Apr 2026 10:00:00 GMT",
       "description": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
       "image": "data/images/993306999aba66b58573273d48d4baf0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "published": "Mon, 06 Apr 2026 02:30:00 GMT",
-      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "image": "data/images/6f4b75bce0056f7a80c5598b2eafc455.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Maine Is About to Become the First State to Ban Major New Data Centers",
-      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
-      "published": "2026-04-09T19:48:25",
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "url": "https://www.instantdb.com/essays/architecture",
+      "published": "2026-04-09T18:30:59",
       "description": "",
-      "image": "https://www.gadgetreview.com/wp-content/uploads/2a8e079e-10a6-4599-9e6e-ddb65aa7f05b_1920x1080.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Netflix Prices Went Up Again \u2013 I Bought a DVD Player Instead",
-      "url": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
-      "published": "2026-04-09T20:17:50",
-      "description": "",
-      "image": "https://aywren.com/2026/pic/dvdcollection.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bitmap fonts make computers feel like computers again",
-      "url": "https://korigamik.dev/blog/bitmap_fonts/",
-      "published": "2026-04-09T19:17:05",
-      "description": "",
-      "image": "https://korigamik.dev/blog/bitmap_fonts/og.png",
+      "image": "https://www.instantdb.com/img/essays/architecture.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -194,28 +174,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
-      "url": "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/",
-      "published": "2026-04-09T19:29:59",
+      "title": "The Training Example Lie Bracket",
+      "url": "https://pbement.com/posts/lie_brackets/",
+      "published": "2026-04-09T21:59:28",
       "description": "",
-      "image": "https://regmedia.co.uk/2026/04/09/shutterstock_2719900129.jpg",
+      "image": "data/images/24fe1289cb6fa236e988623e56198f11.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Discovering, detecting, and surgically removing Google's AI watermark",
-      "url": "https://github.com/aloshdenny/reverse-SynthID",
-      "published": "2026-04-09T20:10:25",
+      "title": "How the Trivy supply chain attack harvested credentials from secrets managers",
+      "url": "https://vaultproof.dev/blog/trivy-supply-chain-attack",
+      "published": "2026-04-09T22:10:53",
       "description": "",
-      "image": "https://opengraph.githubassets.com/e6a07bab1712720e7fe45ba9b07f97ea20724bd9322ed06fdb58ef9c5401c229/aloshdenny/reverse-SynthID",
+      "image": "https://vaultproof.dev/ogimage.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Maine is about to become the first state to ban major new data centers",
+      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+      "published": "2026-04-09T19:48:25",
+      "description": "",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/2a8e079e-10a6-4599-9e6e-ddb65aa7f05b_1920x1080.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-09",
+    "date": "2026-04-10",
     "speakers": [
       "Alex",
       "Jordan"
