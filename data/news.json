@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T05:52:39.071137",
+  "updated": "2026-04-10T08:58:37.873129",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
-      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
-      "published": "2026-04-10T03:03:14",
+      "title": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "published": "2026-04-10T01:52:58",
       "description": "",
-      "image": "https://images.ctfassets.net/00voh0j35590/5phcG1zgzyomp7JNqFGFbB/3cc5f181f6269910aeadd22147d4f254/RAFT_2.jpg",
+      "image": "https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/17-series-a.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-      "url": "https://pvp-ai.russell-harper.com",
-      "published": "2026-04-08T12:56:58",
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "url": "https://www.instantdb.com/essays/architecture",
+      "published": "2026-04-09T18:30:59",
       "description": "",
-      "image": "data/images/31edde02ac384f0aaf508fcf0bf6c273.png",
+      "image": "https://www.instantdb.com/img/essays/architecture.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
+      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+      "published": "2026-04-10T03:03:14",
+      "description": "",
+      "image": "https://images.ctfassets.net/00voh0j35590/5phcG1zgzyomp7JNqFGFbB/3cc5f181f6269910aeadd22147d4f254/RAFT_2.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -189,6 +199,16 @@
       "published": "2026-04-07T13:19:10",
       "description": "",
       "image": "data/images/a239578d1edb63b0c044e46ca04d8558.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
+      "url": "https://pvp-ai.russell-harper.com",
+      "published": "2026-04-08T12:56:58",
+      "description": "",
+      "image": "data/images/31edde02ac384f0aaf508fcf0bf6c273.png",
       "summary": "Summary unavailable."
     }
   ],
