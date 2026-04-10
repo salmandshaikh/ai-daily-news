@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T12:39:27.227484",
+  "updated": "2026-04-10T16:38:58.722079",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Model-Based Testing for Dungeons & Dragons",
-      "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
-      "published": "2026-04-07T13:15:41",
+      "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+      "url": "https://kerkour.com/rust-supply-chain-nightmare",
+      "published": "2026-04-10T14:42:04",
       "description": "",
-      "image": "https://www.loskutoff.com/static/blog/dnd-quint-combat/splash.png",
+      "image": "https://kerkour.com/icon-256.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
+      "url": "https://github.com/marimo-team/marimo-pair",
+      "published": "2026-04-07T17:47:46",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/04f4c9101ab50e31bbd8727b74795d31b91483af79fecec2c086b42250c6acd1/marimo-team/marimo-pair",
       "summary": "Summary unavailable."
     },
     {
@@ -174,51 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
-      "url": "https://github.com/marimo-team/marimo-pair",
-      "published": "2026-04-07T17:47:46",
+      "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+      "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+      "published": "2026-04-10T13:47:17",
       "description": "",
-      "image": "https://opengraph.githubassets.com/177dd4a7de8403c870007868a9e6066a6547ccc5e1bd0f859ed03a168c83e2e3/marimo-team/marimo-pair",
+      "image": "https://i.guim.co.uk/img/media/d604120aa55a5469d8bcd21deec7990e5ef3c52c/712_413_1896_1518/master/1896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=804ae4c79b6fb6260d4d923999cd9e0c",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
-      "url": "https://www.unfolder.app/",
-      "published": "2026-04-09T16:58:46",
+      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "published": "2026-04-10T13:08:43",
       "description": "",
-      "image": "https://unfolder.app/img/og_image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Instant 1.0, a backend for AI-coded apps",
-      "url": "https://www.instantdb.com/essays/architecture",
-      "published": "2026-04-09T18:30:59",
-      "description": "",
-      "image": "https://www.instantdb.com/img/essays/architecture.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An AI robot in my home",
-      "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-      "published": "2026-04-07T13:19:10",
-      "description": "",
-      "image": "data/images/a239578d1edb63b0c044e46ca04d8558.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
-      "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
-      "published": "2026-04-10T03:03:14",
-      "description": "",
-      "image": "https://images.ctfassets.net/00voh0j35590/5phcG1zgzyomp7JNqFGFbB/3cc5f181f6269910aeadd22147d4f254/RAFT_2.jpg",
+      "image": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
       "summary": "Summary unavailable."
     }
   ],
