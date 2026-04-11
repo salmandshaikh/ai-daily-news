@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T12:28:08.723395",
+  "updated": "2026-04-11T16:21:41.028682",
   "articles": [
     {
       "source": "RSS",
@@ -154,41 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "published": "2026-04-11T13:01:34",
+      "description": "",
+      "image": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI assistance when contributing to the Linux kernel",
       "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
       "published": "2026-04-10T18:35:21",
       "description": "",
-      "image": "https://opengraph.githubassets.com/835653109d45cfc109b3d7dffc00a945c72c101358adc0aa9de519beaf6fe5a4/torvalds/linux",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Italo Calvino: A traveller in a world of uncertainty",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-      "published": "2026-04-10T23:48:07",
-      "description": "",
-      "image": "data/images/c2c46cadc0332fe5666e59fcbb3e08e2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A New Way to Spray Paint Color",
-      "url": "https://spectrum.ieee.org/spray-paint-color-creator",
-      "published": "2026-04-09T14:10:22",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=65404484&width=1200&height=600&coordinates=0%2C481%2C0%2C481",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
-      "url": "https://twill.ai",
-      "published": "2026-04-10T16:22:13",
-      "description": "",
-      "image": "https://twill.ai/link-preview-card.png",
+      "image": "https://opengraph.githubassets.com/15a408d184c9a2c88397b47417195dbe377190aaab2937f01debaa7de8db05ac/torvalds/linux",
       "summary": "Summary unavailable."
     }
   ],
