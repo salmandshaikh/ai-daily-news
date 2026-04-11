@@ -1,34 +1,34 @@
 {
-  "updated": "2026-04-10T20:22:48.337042",
+  "updated": "2026-04-11T01:04:36.615038",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
+      "title": "Research with ChatGPT",
+      "url": "https://openai.com/academy/search-and-deep-research",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "image": "data/images/3a3f9ed79337a34f461ab2294f183a0d.png",
+      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "image": "data/images/23e3a2cd5d9f76dd76dbbe4dd0c85f9d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
+      "title": "Working with files in ChatGPT",
+      "url": "https://openai.com/academy/working-with-files",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "image": "data/images/eef2dc82dacc630972512189e4c227ef.png",
+      "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "image": "data/images/26c98dc009f1ed3876d5ce992221818e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Using skills",
-      "url": "https://openai.com/academy/skills",
+      "title": "Using custom GPTs",
+      "url": "https://openai.com/academy/custom-gpts",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-      "image": "data/images/2210ae81a012bdadda5de23cffd8208d.png",
+      "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "image": "data/images/8bfd50e306aa811a798ce8baac51da2b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Creating images with ChatGPT",
-      "url": "https://openai.com/academy/image-generation",
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "image": "data/images/32f3d2010c5ecbdcc1e08ba30fa8566c.png",
+      "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+      "image": "data/images/eef2dc82dacc630972512189e4c227ef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+      "published": "2026-04-10T23:48:07",
+      "description": "",
+      "image": "data/images/b9e279050415006e9029d60d90872bca.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "published": "2026-04-10T18:35:21",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/c81fa3355619cc35611775d1467755807ff17515808c34623f0f82b5d0b21f4f/torvalds/linux",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sam Altman's response to Molotov cocktail incident",
+      "url": "https://blog.samaltman.com/2279512",
+      "published": "2026-04-10T23:05:48",
+      "description": "",
+      "image": "https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3439526/q4Xtf4iMYA_SCrMc8hMfnF_k3UE/large_WhatsApp_Image_2026-02-28_at_15.26.14__4_.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
       "url": "https://twill.ai",
       "published": "2026-04-10T16:22:13",
@@ -164,28 +194,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "published": "2026-04-10T18:35:21",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+      "published": "2026-04-10T17:01:07",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8ad9f18a88958cc47c1ced55d6ae39dd570854e029ab0bd97d207b1dbb82f761/torvalds/linux",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
-      "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
-      "published": "2026-04-10T17:27:07",
-      "description": "",
-      "image": "https://torrentfreak.com/images/euphoria-scaled.jpg",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/85f165bf52e787a3301c4f5c5600c4e10c9f0063.png?1745436151",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-10",
+    "date": "2026-04-11",
     "speakers": [
       "Alex",
       "Jordan"
