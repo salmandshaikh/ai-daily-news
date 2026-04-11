@@ -1,44 +1,24 @@
 {
-  "updated": "2026-04-11T16:21:41.028682",
+  "updated": "2026-04-11T20:18:50.573152",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Using custom GPTs",
-      "url": "https://openai.com/academy/custom-gpts",
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-      "image": "data/images/8bfd50e306aa811a798ce8baac51da2b.png",
+      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "image": "data/images/4ee2a6c7bb7c40af94c5a15dbf7eb673.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "ChatGPT for customer success teams",
-      "url": "https://openai.com/academy/customer-success",
+      "title": "Using skills",
+      "url": "https://openai.com/academy/skills",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-      "image": "data/images/20759a3502f3bb5a29fb9768ebd5fbff.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-      "image": "data/images/6c6c44a71f19d5b639e2a55d3ae8149c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "image": "data/images/23e3a2cd5d9f76dd76dbbe4dd0c85f9d.png",
+      "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "image": "data/images/2210ae81a012bdadda5de23cffd8208d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -49,6 +29,26 @@
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
       "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
       "image": "data/images/7b0ab5ff19f54bb7a19cf208dd0d39f1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Writing with ChatGPT",
+      "url": "https://openai.com/academy/writing",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "image": "data/images/eb419c506d1b79be29dcf347a2011a5f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "ChatGPT for marketing teams",
+      "url": "https://openai.com/academy/marketing",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "image": "data/images/76a6f4f56d990e12e3b82617d1973bbb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "published": "2026-04-11T16:47:28",
+      "description": "",
+      "image": "https://aisle.com/api/media/file/freepik_create-this_2743478282-1200x630.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "published": "2026-04-11T19:15:56",
+      "description": "",
+      "image": "data/images/443f6348590c9a2d5c696585dbc8728f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
       "published": "2026-04-11T13:01:34",
@@ -168,7 +188,7 @@
       "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
       "published": "2026-04-10T18:35:21",
       "description": "",
-      "image": "https://opengraph.githubassets.com/15a408d184c9a2c88397b47417195dbe377190aaab2937f01debaa7de8db05ac/torvalds/linux",
+      "image": "data/images/c003b8541975d357b29295e76fbc88f4.png",
       "summary": "Summary unavailable."
     }
   ],
