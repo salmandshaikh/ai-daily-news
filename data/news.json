@@ -1,26 +1,6 @@
 {
-  "updated": "2026-04-11T01:04:36.615038",
+  "updated": "2026-04-11T05:21:37.544974",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "image": "data/images/23e3a2cd5d9f76dd76dbbe4dd0c85f9d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Working with files in ChatGPT",
-      "url": "https://openai.com/academy/working-with-files",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-      "image": "data/images/26c98dc009f1ed3876d5ce992221818e.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -34,21 +14,41 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
+      "title": "ChatGPT for customer success teams",
+      "url": "https://openai.com/academy/customer-success",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-      "image": "data/images/7b0ab5ff19f54bb7a19cf208dd0d39f1.png",
+      "description": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "image": "data/images/20759a3502f3bb5a29fb9768ebd5fbff.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "image": "data/images/eef2dc82dacc630972512189e4c227ef.png",
+      "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "image": "data/images/6c6c44a71f19d5b639e2a55d3ae8149c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Research with ChatGPT",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "image": "data/images/23e3a2cd5d9f76dd76dbbe4dd0c85f9d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "image": "data/images/7b0ab5ff19f54bb7a19cf208dd0d39f1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Italo Calvino: A Traveller in a World of Uncertainty",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-      "published": "2026-04-10T23:48:07",
+      "title": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "published": "2026-04-10T18:35:21",
       "description": "",
-      "image": "data/images/b9e279050415006e9029d60d90872bca.png",
+      "image": "https://opengraph.githubassets.com/5064f7a1c4946f9a6bf55bd5f1c97f7f7b3953de1bfc8651ad91809a0212033f/torvalds/linux",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "published": "2026-04-10T18:35:21",
+      "title": "Italo Calvino: A traveller in a world of uncertainty",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+      "published": "2026-04-10T23:48:07",
       "description": "",
-      "image": "https://opengraph.githubassets.com/c81fa3355619cc35611775d1467755807ff17515808c34623f0f82b5d0b21f4f/torvalds/linux",
+      "image": "data/images/c2c46cadc0332fe5666e59fcbb3e08e2.png",
       "summary": "Summary unavailable."
     },
     {
