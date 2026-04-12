@@ -1,54 +1,54 @@
 {
-  "updated": "2026-04-12T05:49:37.636588",
+  "updated": "2026-04-12T08:35:37.776037",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "image": "data/images/25072fe0b260597fca9fc8f88b2415a1.png",
+      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "image": "data/images/3a3f9ed79337a34f461ab2294f183a0d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Brainstorming with ChatGPT",
-      "url": "https://openai.com/academy/brainstorming",
+      "title": "ChatGPT for marketing teams",
+      "url": "https://openai.com/academy/marketing",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-      "image": "data/images/f0076c30f0d1540fe37c7b9b3b563487.png",
+      "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "image": "data/images/76a6f4f56d990e12e3b82617d1973bbb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Writing with ChatGPT",
-      "url": "https://openai.com/academy/writing",
+      "title": "Our response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-      "image": "data/images/eb419c506d1b79be29dcf347a2011a5f.png",
+      "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "image": "data/images/e5d31e53d5bcad8c662bc41adfd3b9ba.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
+      "title": "Using custom GPTs",
+      "url": "https://openai.com/academy/custom-gpts",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "image": "data/images/73482c07e67c1b883aa1ce67c79f88e0.png",
+      "description": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "image": "data/images/8bfd50e306aa811a798ce8baac51da2b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "image": "data/images/d568e855ac56a1b3c068e43ea2698a0d.png",
+      "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "image": "data/images/7b0ab5ff19f54bb7a19cf208dd0d39f1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Brainrot Industrial Complex",
-      "url": "https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex",
-      "published": "2026-04-12T04:31:13",
-      "description": "",
-      "image": "https://jshamsul.com/api/og?title=The%20Brainrot%20Industrial%20Complex&subtitle=You%20Are%20Not%20Distracted.%20You%20Are%20Being%20Processed.&cover=brainrot-industrial-complex.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "published": "2026-04-11T19:15:56",
@@ -204,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Midnight Captain \u2013 A midnight commander inspired file manager",
-      "url": "https://github.com/duguyue100/midnight-captain",
-      "published": "2026-04-11T23:37:43",
+      "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+      "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+      "published": "2026-04-11T23:30:40",
       "description": "",
-      "image": "https://opengraph.githubassets.com/e9001c5a7f2f214d50cb458ef6c038b06aac3b694825c6b7ae0d843a9c1ca80a/duguyue100/midnight-captain",
+      "image": "data/images/3b2b29722731906983225d9620f700fc.png",
       "summary": "Summary unavailable."
     }
   ],
