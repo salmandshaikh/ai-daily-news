@@ -1,34 +1,24 @@
 {
-  "updated": "2026-04-12T01:12:44.200250",
+  "updated": "2026-04-12T05:49:37.636588",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Healthcare",
-      "url": "https://openai.com/academy/healthcare",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "image": "data/images/4ee2a6c7bb7c40af94c5a15dbf7eb673.png",
+      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "image": "data/images/25072fe0b260597fca9fc8f88b2415a1.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Using skills",
-      "url": "https://openai.com/academy/skills",
+      "title": "Brainstorming with ChatGPT",
+      "url": "https://openai.com/academy/brainstorming",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-      "image": "data/images/2210ae81a012bdadda5de23cffd8208d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-      "image": "data/images/7b0ab5ff19f54bb7a19cf208dd0d39f1.png",
+      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "image": "data/images/f0076c30f0d1540fe37c7b9b3b563487.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "ChatGPT for marketing teams",
-      "url": "https://openai.com/academy/marketing",
+      "title": "ChatGPT for research",
+      "url": "https://openai.com/academy/research",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "image": "data/images/76a6f4f56d990e12e3b82617d1973bbb.png",
+      "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "image": "data/images/73482c07e67c1b883aa1ce67c79f88e0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "image": "data/images/d568e855ac56a1b3c068e43ea2698a0d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The Brainrot Industrial Complex",
+      "url": "https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex",
+      "published": "2026-04-12T04:31:13",
+      "description": "",
+      "image": "https://jshamsul.com/api/og?title=The%20Brainrot%20Industrial%20Complex&subtitle=You%20Are%20Not%20Distracted.%20You%20Are%20Being%20Processed.&cover=brainrot-industrial-complex.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "published": "2026-04-11T19:15:56",
@@ -174,11 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "How a dancer with ALS used brainwaves to perform live",
+      "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "published": "2026-04-12T02:09:13",
+      "description": "",
+      "image": "https://www.electronicspecifier.com/wp-content/uploads/2026/04/ALS.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
       "published": "2026-04-11T13:01:34",
       "description": "",
       "image": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Midnight Captain \u2013 A midnight commander inspired file manager",
+      "url": "https://github.com/duguyue100/midnight-captain",
+      "published": "2026-04-11T23:37:43",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/e9001c5a7f2f214d50cb458ef6c038b06aac3b694825c6b7ae0d843a9c1ca80a/duguyue100/midnight-captain",
       "summary": "Summary unavailable."
     }
   ],
