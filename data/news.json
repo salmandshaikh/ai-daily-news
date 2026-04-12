@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T20:18:50.573152",
+  "updated": "2026-04-12T01:12:44.200250",
   "articles": [
     {
       "source": "RSS",
@@ -180,22 +180,12 @@
       "description": "",
       "image": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "published": "2026-04-10T18:35:21",
-      "description": "",
-      "image": "data/images/c003b8541975d357b29295e76fbc88f4.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-11",
+    "date": "2026-04-12",
     "speakers": [
       "Alex",
       "Jordan"
