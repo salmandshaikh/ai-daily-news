@@ -1,14 +1,34 @@
 {
-  "updated": "2026-04-13T12:54:22.817727",
+  "updated": "2026-04-13T16:52:12.439353",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "published": "Mon, 13 Apr 2026 06:00:00 GMT",
+      "description": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "image": "data/images/d43fae8145f22faa71f48815f6140c92.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "ChatGPT for operations teams",
+      "url": "https://openai.com/academy/operations",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "image": "data/images/23e3a2cd5d9f76dd76dbbe4dd0c85f9d.png",
+      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "image": "data/images/d9558b9102d80f240c82dd81f58baad6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "image": "data/images/6c6c44a71f19d5b639e2a55d3ae8149c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
+      "title": "Brainstorming with ChatGPT",
+      "url": "https://openai.com/academy/brainstorming",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "image": "data/images/73482c07e67c1b883aa1ce67c79f88e0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Financial services",
-      "url": "https://openai.com/academy/financial-services",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-      "image": "data/images/ceba96d42abeac0a4d47b5b8985f0978.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "image": "data/images/d568e855ac56a1b3c068e43ea2698a0d.png",
+      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "image": "data/images/f0076c30f0d1540fe37c7b9b3b563487.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Servo is now available on crates.io",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "published": "2026-04-13T12:12:22",
+      "description": "",
+      "image": "https://servo.org/svg/servo-color-positive.svg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+      "published": "2026-04-13T13:23:50",
+      "description": "",
+      "image": "https://www.collabora.com/assets/images/blog/Collabora-MainlineVideoCapture-3588.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "url": "https://spectrum.ieee.org/mems-photonics",
+      "published": "2026-04-13T14:26:02",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65493240&width=1200&height=600&coordinates=0%2C541%2C0%2C84",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
       "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
       "published": "2026-04-13T12:05:35",
@@ -174,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
-      "published": "2026-04-13T08:13:40",
+      "title": "I ran Gemma 4 as a local model in Codex CLI",
+      "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
+      "published": "2026-04-12T20:43:08",
       "description": "",
-      "image": "data/images/8cf9382b9168ae3b1b0c7f1923d6a384.png",
+      "image": "data/images/67202dd887815b486340afdd33109bd0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,36 +219,6 @@
       "published": "2026-04-12T12:42:25",
       "description": "",
       "image": "https://blogfontawesome.wpcomstaging.com/wp-content/uploads/2026/03/email-frustration.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-      "published": "2026-04-13T02:53:10",
-      "description": "",
-      "image": "data/images/7421d97a1040c8552b82f7b6fdd653d7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "published": "2026-04-11T19:15:56",
-      "description": "",
-      "image": "data/images/71d31e8e5b7a768a66f1d3727ddf74a1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I ran Gemma 4 as a local model in Codex CLI",
-      "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
-      "published": "2026-04-12T20:43:08",
-      "description": "",
-      "image": "data/images/67202dd887815b486340afdd33109bd0.png",
       "summary": "Summary unavailable."
     }
   ],
