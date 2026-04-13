@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T20:21:21.225097",
+  "updated": "2026-04-13T01:15:01.767166",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "European AI. A playbook to own it. By Mistral",
-      "url": "https://europe.mistral.ai/",
-      "published": "2026-04-12T19:51:06",
-      "description": "",
-      "image": "https://europe.mistral.ai/images/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "I gave every train in New York an instrument",
       "url": "https://www.trainjazz.com/",
       "published": "2026-04-10T15:21:07",
@@ -174,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-      "url": "https://github.com/imbue-ai/bouncer",
-      "published": "2026-04-12T16:24:46",
+      "title": "Tech valuations are back to pre-AI boom levels",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+      "published": "2026-04-12T22:13:22",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2299d586490f8ee382a2ce65716f1eb5e8368f8d633a161d3d809a20c4caac27/imbue-ai/bouncer",
+      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,12 +180,22 @@
       "description": "",
       "image": "data/images/71d31e8e5b7a768a66f1d3727ddf74a1.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "European AI. A playbook to own it",
+      "url": "https://europe.mistral.ai/",
+      "published": "2026-04-12T19:51:06",
+      "description": "",
+      "image": "https://europe.mistral.ai/images/og.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-12",
+    "date": "2026-04-13",
     "speakers": [
       "Alex",
       "Jordan"
