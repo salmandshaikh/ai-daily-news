@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T12:53:22.421463",
+  "updated": "2026-04-14T17:58:46.925052",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "published": "Mon, 13 Apr 2026 15:52:13 +0000",
+      "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "image": "data/images/97193d22d3fb10e7612fc872f0107d93.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Gemma 4: Byte for byte, the most capable open models",
       "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
       "published": "Thu, 02 Apr 2026 16:00:49 +0000",
@@ -89,16 +99,6 @@
       "published": "Wed, 25 Mar 2026 16:01:39 +0000",
       "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces.",
       "image": "data/images/ae192aff197d4bc7ba5015cc25ac9223.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-      "published": "Tue, 17 Mar 2026 16:03:47 +0000",
-      "description": "We\u2019re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-      "image": "data/images/0847c8739da729a05b45e3ce5863dc03.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+      "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
+      "published": "2026-04-14T16:59:09",
+      "description": "",
+      "image": "https://bandaancha.eu/s/2voy/140/bloqueo-futbol-telefonica.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
+      "url": "https://kelet.ai/",
+      "published": "2026-04-14T16:16:51",
+      "description": "",
+      "image": "https://kelet.ai/og/homepage.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
+      "url": "https://github.com/kontext-dev/kontext-cli",
+      "published": "2026-04-14T13:26:53",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/7e797cc6c5bf32f657999152f75f1c5657b7869da64d487b987512baec70f85c/kontext-security/kontext-cli",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Introspective Diffusion Language Models",
       "url": "https://introspective-diffusion.github.io/",
       "published": "2026-04-14T07:57:33",
@@ -169,26 +199,6 @@
       "published": "2026-04-09T15:07:13",
       "description": "",
       "image": "https://thetypicalset.com/static/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
-      "url": "https://publicdomainreview.org/essay/the-great-majority/",
-      "published": "2026-04-10T22:23:03",
-      "description": "",
-      "image": "https://pdr-assets.b-cdn.net/essays/the-great-majority/graverobber-thumb.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
-      "url": "https://ndaybench.winfunc.com",
-      "published": "2026-04-13T21:54:03",
-      "description": "",
-      "image": "data/images/13ceef4e7f51c6b485be4b01a5b7632c.png",
       "summary": "Summary unavailable."
     }
   ],
