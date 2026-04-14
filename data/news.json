@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-14T17:58:46.925052",
+  "updated": "2026-04-14T20:40:55.856851",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "published": "Tue, 14 Apr 2026 00:00:00 GMT",
+      "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+      "image": "data/images/9f82150a306d8bedb0c3e4327e1a48ec.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Mon, 13 Apr 2026 06:00:00 GMT",
       "description": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "image": "data/images/d43fae8145f22faa71f48815f6140c92.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "image": "data/images/25072fe0b260597fca9fc8f88b2415a1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
+      "title": "ChatGPT for research",
+      "url": "https://openai.com/academy/research",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-      "image": "data/images/6c6c44a71f19d5b639e2a55d3ae8149c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ChatGPT for finance teams",
-      "url": "https://openai.com/academy/finance",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-      "image": "data/images/9c706a8f7e1dc9581f66d3c2dee291cc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Brainstorming with ChatGPT",
-      "url": "https://openai.com/academy/brainstorming",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-      "image": "data/images/f0076c30f0d1540fe37c7b9b3b563487.png",
+      "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "image": "data/images/73482c07e67c1b883aa1ce67c79f88e0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,21 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
-      "url": "https://kelet.ai/",
-      "published": "2026-04-14T16:16:51",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "published": "2026-04-14T17:09:43",
       "description": "",
-      "image": "https://kelet.ai/og/homepage.png",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
-      "url": "https://github.com/kontext-dev/kontext-cli",
-      "published": "2026-04-14T13:26:53",
+      "title": "ClawRun \u2013 Deploy and manage AI agents in seconds",
+      "url": "https://github.com/clawrun-sh/clawrun",
+      "published": "2026-04-14T19:12:09",
       "description": "",
-      "image": "https://opengraph.githubassets.com/7e797cc6c5bf32f657999152f75f1c5657b7869da64d487b987512baec70f85c/kontext-security/kontext-cli",
+      "image": "https://opengraph.githubassets.com/240cba8ecfeb830d28e0fd85322b84385522c8488a6237dea29e71607560bea6/clawrun-sh/clawrun",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents",
+      "url": "https://github.com/dropseed/plain",
+      "published": "2026-04-14T17:43:17",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/617269166/2711cb6a-6a5f-4df5-a40e-c4f442315afc",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
+      "url": "https://github.com/kontext-dev/kontext-cli",
+      "published": "2026-04-14T13:26:53",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/2d2588657b680a909b3c04ce750539ac92839dff00660acf1ddfc0c3f31a808f/kontext-security/kontext-cli",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The M\u00d7N problem of tool calling and open-source models",
       "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
       "published": "2026-04-09T15:07:13",
       "description": "",
       "image": "https://thetypicalset.com/static/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
+      "url": "https://kelet.ai/",
+      "published": "2026-04-14T16:16:51",
+      "description": "",
+      "image": "https://kelet.ai/og/homepage.png",
       "summary": "Summary unavailable."
     }
   ],
