@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T20:40:55.856851",
+  "updated": "2026-04-15T01:12:24.279302",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "image": "data/images/4ee2a6c7bb7c40af94c5a15dbf7eb673.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Getting started with ChatGPT",
       "url": "https://openai.com/academy/getting-started",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -34,21 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "ChatGPT for operations teams",
-      "url": "https://openai.com/academy/operations",
+      "title": "ChatGPT for marketing teams",
+      "url": "https://openai.com/academy/marketing",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-      "image": "data/images/d9558b9102d80f240c82dd81f58baad6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "image": "data/images/73482c07e67c1b883aa1ce67c79f88e0.png",
+      "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "image": "data/images/76a6f4f56d990e12e3b82617d1973bbb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
-      "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
-      "published": "2026-04-14T16:59:09",
-      "description": "",
-      "image": "https://bandaancha.eu/s/2voy/140/bloqueo-futbol-telefonica.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Turn your best AI prompts into one-click tools in Chrome",
       "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
       "published": "2026-04-14T17:09:43",
       "description": "",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ClawRun \u2013 Deploy and manage AI agents in seconds",
-      "url": "https://github.com/clawrun-sh/clawrun",
-      "published": "2026-04-14T19:12:09",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/240cba8ecfeb830d28e0fd85322b84385522c8488a6237dea29e71607560bea6/clawrun-sh/clawrun",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Introspective Diffusion Language Models",
-      "url": "https://introspective-diffusion.github.io/",
-      "published": "2026-04-14T07:57:33",
+      "title": "Troubleshooting Email Delivery to Microsoft Users",
+      "url": "https://rozumem.xyz/posts/14",
+      "published": "2026-04-12T12:40:34",
       "description": "",
-      "image": "data/images/442600e0bd0ed8e0b8d30bd90f76f72f.png",
+      "image": "data/images/32739718249d3ca9a9e92e18ad3da5ad.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
-      "url": "https://github.com/kontext-dev/kontext-cli",
-      "published": "2026-04-14T13:26:53",
+      "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
+      "url": "https://mrdns.com/",
+      "published": "2026-04-14T20:42:21",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2d2588657b680a909b3c04ce750539ac92839dff00660acf1ddfc0c3f31a808f/kontext-security/kontext-cli",
+      "image": "https://mrdns.com/assets/images/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Introspective Diffusion Language Models",
+      "url": "https://introspective-diffusion.github.io/",
+      "published": "2026-04-14T07:57:33",
+      "description": "",
+      "image": "data/images/442600e0bd0ed8e0b8d30bd90f76f72f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -220,22 +210,12 @@
       "description": "",
       "image": "https://thetypicalset.com/static/og-image.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
-      "url": "https://kelet.ai/",
-      "published": "2026-04-14T16:16:51",
-      "description": "",
-      "image": "https://kelet.ai/og/homepage.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-14",
+    "date": "2026-04-15",
     "speakers": [
       "Alex",
       "Jordan"
