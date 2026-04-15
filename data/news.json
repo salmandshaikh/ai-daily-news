@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T01:12:24.279302",
+  "updated": "2026-04-15T05:54:13.971024",
   "articles": [
     {
       "source": "RSS",
@@ -24,21 +24,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Healthcare",
-      "url": "https://openai.com/academy/healthcare",
+      "title": "ChatGPT for finance teams",
+      "url": "https://openai.com/academy/finance",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "image": "data/images/4ee2a6c7bb7c40af94c5a15dbf7eb673.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "image": "data/images/25072fe0b260597fca9fc8f88b2415a1.png",
+      "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "image": "data/images/9c706a8f7e1dc9581f66d3c2dee291cc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -49,6 +39,16 @@
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
       "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
       "image": "data/images/76a6f4f56d990e12e3b82617d1973bbb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "image": "data/images/25072fe0b260597fca9fc8f88b2415a1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
-      "url": "https://mrdns.com/",
-      "published": "2026-04-14T20:42:21",
-      "description": "",
-      "image": "https://mrdns.com/assets/images/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Introspective Diffusion Language Models",
       "url": "https://introspective-diffusion.github.io/",
       "published": "2026-04-14T07:57:33",
       "description": "",
       "image": "data/images/442600e0bd0ed8e0b8d30bd90f76f72f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The M\u00d7N problem of tool calling and open-source models",
-      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-      "published": "2026-04-09T15:07:13",
-      "description": "",
-      "image": "https://thetypicalset.com/static/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
