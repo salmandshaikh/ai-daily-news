@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T12:52:28.838917",
+  "updated": "2026-04-15T16:50:50.592339",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "published": "Wed, 15 Apr 2026 16:03:19 +0000",
+      "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "image": "data/images/c57a0e8fd1d5d347c03df106125e368a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
       "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
       "published": "Mon, 13 Apr 2026 15:52:13 +0000",
@@ -89,16 +99,6 @@
       "published": "Wed, 25 Mar 2026 16:46:20 +0000",
       "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
       "image": "data/images/d58a8425997ec3e7853275783c6872e2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Lyria 3 Pro: Create longer tracks in more",
-      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-      "published": "Wed, 25 Mar 2026 16:01:39 +0000",
-      "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We\u2019re also bringing Lyria to more Google products and surfaces.",
-      "image": "data/images/ae192aff197d4bc7ba5015cc25ac9223.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +164,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "published": "2026-04-14T17:09:43",
+      "title": "Pretty Fish: A better mermaid diagram editor",
+      "url": "https://pretty.fish/",
+      "published": "2026-04-09T19:32:20",
       "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
+      "image": "https://pretty.fish/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Elevated errors on Claude.ai, API, Claude Code",
+      "url": "https://claudestatus.com/",
+      "published": "2026-04-15T14:44:00",
+      "description": "",
+      "image": "https://claudestatus.com/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+      "url": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/",
+      "published": "2026-04-15T12:21:47",
+      "description": "",
+      "image": "https://content.presspage.com/uploads/1369/3c19652c-e1d6-4b8d-b8cf-f792bbba3da0/1920_gettyimages-1458045238.jpg?10000",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "published": "2026-04-15T13:47:40",
+      "description": "",
+      "image": "data/images/be92a1008c3549d4cf7aa0622469abfb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
+      "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+      "published": "2026-04-15T12:51:13",
+      "description": "",
+      "image": "data/images/872eb562d87243afdc7cbf42d80a2d04.png",
       "summary": "Summary unavailable."
     }
   ],
