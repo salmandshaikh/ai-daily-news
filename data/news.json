@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-15T16:50:50.592339",
+  "updated": "2026-04-15T20:36:21.248589",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "published": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,31 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "image": "data/images/d568e855ac56a1b3c068e43ea2698a0d.png",
+      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "image": "data/images/3a3f9ed79337a34f461ab2294f183a0d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
+      "title": "Brainstorming with ChatGPT",
+      "url": "https://openai.com/academy/brainstorming",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "image": "data/images/23e3a2cd5d9f76dd76dbbe4dd0c85f9d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "image": "data/images/eef2dc82dacc630972512189e4c227ef.png",
+      "description": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "image": "data/images/f0076c30f0d1540fe37c7b9b3b563487.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "published": "Wed, 15 Apr 2026 12:07:25 GMT",
+      "description": "",
+      "image": "data/images/fa7f9ae7ee7599e15c361bc3827f977b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Meet HoloTab by HCompany. Your AI browser companion.",
       "url": "https://huggingface.co/blog/Hcompany/holotab",
       "published": "Wed, 15 Apr 2026 09:25:20 GMT",
@@ -142,23 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "published": "Thu, 02 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+      "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+      "published": "2026-04-12T10:27:08",
       "description": "",
-      "image": "data/images/b5926f8a140a903314ba91d4d03a8f9f.png",
+      "image": "https://aalonso.dev/images/articles/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/cover.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "published": "2026-04-15T05:19:06",
+      "title": "AI-Assisted Cognition Endangers Human Development",
+      "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+      "published": "2026-04-15T18:16:50",
       "description": "",
-      "image": "data/images/64884144e6d8f5401400d0096722319c.png",
+      "image": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/AI-Skew-Symbol-image_hu16117916379108857816.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Adaptional (YC S25) Is Hiring Founding AI Engineers",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+      "published": "2026-04-15T17:00:56",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/bd5ae52f220536cd8542bf0bc9ba4e97b2b64da8.png?1758588692",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Jeeves \u2013 TUI for browsing and resuming AI agent sessions",
+      "url": "https://github.com/robinovitch61/jeeves",
+      "published": "2026-04-15T19:31:33",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/12dbce44511868603a360c0cf342904fc70dd733eab626deaf3ea15bd72b09f4/robinovitch61/jeeves",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
+      "url": "https://github.com/saffron-health/libretto",
+      "published": "2026-04-15T15:57:54",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4eead5af5b023b1b5485907b56a5458332e327d07658b10cd14df2f71dfbfdfa/saffron-health/libretto",
       "summary": "Summary unavailable."
     },
     {
@@ -169,46 +209,6 @@
       "published": "2026-04-09T19:32:20",
       "description": "",
       "image": "https://pretty.fish/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Elevated errors on Claude.ai, API, Claude Code",
-      "url": "https://claudestatus.com/",
-      "published": "2026-04-15T14:44:00",
-      "description": "",
-      "image": "https://claudestatus.com/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
-      "url": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/",
-      "published": "2026-04-15T12:21:47",
-      "description": "",
-      "image": "https://content.presspage.com/uploads/1369/3c19652c-e1d6-4b8d-b8cf-f792bbba3da0/1920_gettyimages-1458045238.jpg?10000",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-      "published": "2026-04-15T13:47:40",
-      "description": "",
-      "image": "data/images/be92a1008c3549d4cf7aa0622469abfb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-      "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
-      "published": "2026-04-15T12:51:13",
-      "description": "",
-      "image": "data/images/872eb562d87243afdc7cbf42d80a2d04.png",
       "summary": "Summary unavailable."
     }
   ],
