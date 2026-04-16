@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T12:57:08.688291",
+  "updated": "2026-04-16T17:01:45.822694",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "The PR you would have opened yourself",
+      "url": "https://huggingface.co/blog/transformers-to-mlx",
+      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/df058102baafd1f52c0e13f9acfeaf12.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
       "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
       "published": "Wed, 15 Apr 2026 12:07:25 GMT",
@@ -132,23 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cloudflare Email Service",
+      "url": "https://blog.cloudflare.com/email-for-agents/",
+      "published": "2026-04-16T13:21:53",
       "description": "",
-      "image": "data/images/a80bf084b9ebc883d3ac5b04b63d1734.png",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3RDH6grpXMz6DWEQmZgXj9/0dcfca0bf86c72e933d4fcb8b585b45c/OG_Share_2024-2025-2026__2_.png",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Safetensors is Joining the PyTorch Foundation",
-      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-      "published": "Wed, 08 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+      "url": "https://andonlabs.com/blog/andon-market-launch",
+      "published": "2026-04-16T15:13:13",
       "description": "",
-      "image": "data/images/d328acc679ec4ed9e2d1a2d6a79e279e.png",
+      "image": "https://andonlabs.com/og-image.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "published": "2026-04-16T13:17:37",
+      "description": "",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/PVjfiCXOYd00evo2s1kiQ/f79f1e2e122e16b77e3df43a3970ed72/OG_Share_2024-2025-2026__2_.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
+      "url": "https://github.com/SeanFDZ/macmind",
+      "published": "2026-04-16T13:16:29",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/a0f63d20334261fd978fb390b50a87b3c627b1f704b29faa8739c606f03ca011/SeanFDZ/macmind",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI cybersecurity is not proof of work",
+      "url": "https://antirez.com/news/163",
+      "published": "2026-04-16T10:48:00",
+      "description": "",
+      "image": "data/images/fc8c83d144e0bbba1550f72a98d8c7d1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -159,6 +209,26 @@
       "published": "2026-04-16T03:44:38",
       "description": "",
       "image": "data/images/4fcc2afbbe026ab9ff6caa37539b60a4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Laravel raised money and now injects ads directly into your agent",
+      "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+      "published": "2026-04-16T14:51:13",
+      "description": "",
+      "image": "https://techstackups.com/img/articles/laravel-ads-agents/cover.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Claude Opus 4.7 Model Card",
+      "url": "https://anthropic.com/claude-opus-4-7-system-card",
+      "published": "2026-04-16T14:32:24",
+      "description": "",
+      "image": "data/images/c353d880040514212ab45664a1d9fc82.png",
       "summary": "Summary unavailable."
     },
     {
