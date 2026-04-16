@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-16T09:08:07.658446",
+  "updated": "2026-04-16T12:57:08.688291",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "description": "Leading security firms and enterprises join OpenAI\u2019s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "image": "data/images/7248cfcc0d905092b163895b92b57bb3.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -34,21 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
       "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-      "image": "data/images/eef2dc82dacc630972512189e4c227ef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "image": "data/images/3a3f9ed79337a34f461ab2294f183a0d.png",
+      "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "image": "data/images/d568e855ac56a1b3c068e43ea2698a0d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-      "published": "2026-04-16T07:01:29",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/beca0fa1a556486413fd1850c82f7bf74971dc25.png?1767663168",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "ChatGPT for Excel",
       "url": "https://chatgpt.com/apps/spreadsheets/",
       "published": "2026-04-15T21:21:05",
@@ -184,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
-      "url": "https://github.com/saffron-health/libretto",
-      "published": "2026-04-15T15:57:54",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+      "published": "2026-04-16T07:01:29",
       "description": "",
-      "image": "https://opengraph.githubassets.com/0e6f632a4c011d474599972bdb4235b6ea7d0a34fcd8eb84233ab7a50068b0ca/saffron-health/libretto",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-      "published": "2026-04-15T13:47:40",
-      "description": "",
-      "image": "data/images/be92a1008c3549d4cf7aa0622469abfb.png",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/beca0fa1a556486413fd1850c82f7bf74971dc25.png?1767663168",
       "summary": "Summary unavailable."
     }
   ],
