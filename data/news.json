@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T01:16:17.064859",
+  "updated": "2026-04-16T05:54:50.140649",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Adaptional (YC S25) is hiring AI engineers",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
-      "published": "2026-04-15T17:00:56",
+      "title": "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
+      "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+      "published": "2026-04-16T05:05:44",
       "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/bd5ae52f220536cd8542bf0bc9ba4e97b2b64da8.png?1758588692",
+      "image": "https://www.chalkbeat.org/resizer/v2/OX2UR36NW5FGXENFU2UUAZIJUE.jpg?smart=true&auth=ce9984f90b77739ff24f28087dc64ee75f509dfbfa8392d06263b7090935550a&width=1200&height=630",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "url": "https://github.com/gastownhall/gastown/issues/3649",
-      "published": "2026-04-15T20:49:48",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "published": "2026-04-16T03:44:38",
       "description": "",
-      "image": "https://opengraph.githubassets.com/cfc3e51a4a52084ae141129f8814cfce6440b03b7740de53e6d2f3ea766c05b1/gastownhall/gastown/issues/3649",
+      "image": "data/images/4fcc2afbbe026ab9ff6caa37539b60a4.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
-      "url": "https://zenodo.org/records/19600206",
-      "published": "2026-04-15T23:42:06",
+      "title": "Airbnb discloses a billion-series Prometheus metrics pipeline",
+      "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "published": "2026-04-16T05:01:05",
       "description": "",
-      "image": "data/images/f7268a645860663c12ab2471c0f74040.png",
+      "image": "data/images/a38b413f02cd1392669d71a4aaf01445.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT for Excel",
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "published": "2026-04-15T21:21:05",
+      "description": "",
+      "image": "data/images/a33958d45b667ca65aeed5d8d750525b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "published": "2026-04-15T13:47:40",
+      "description": "",
+      "image": "data/images/be92a1008c3549d4cf7aa0622469abfb.png",
       "summary": "Summary unavailable."
     }
   ],
