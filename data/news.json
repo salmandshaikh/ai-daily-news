@@ -1,6 +1,26 @@
 {
-  "updated": "2026-04-16T17:01:45.822694",
+  "updated": "2026-04-16T20:37:03.404391",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Codex for (almost) everything",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "published": "Thu, 16 Apr 2026 10:00:00 GMT",
+      "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "published": "Thu, 16 Apr 2026 01:00:00 GMT",
+      "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 14 Apr 2026 00:00:00 GMT",
       "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
       "image": "data/images/9f82150a306d8bedb0c3e4327e1a48ec.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "published": "Mon, 13 Apr 2026 06:00:00 GMT",
-      "description": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-      "image": "data/images/d43fae8145f22faa71f48815f6140c92.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "description": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-      "image": "data/images/d568e855ac56a1b3c068e43ea2698a0d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cloudflare Email Service",
-      "url": "https://blog.cloudflare.com/email-for-agents/",
-      "published": "2026-04-16T13:21:53",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "published": "2026-04-16T13:17:37",
       "description": "",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3RDH6grpXMz6DWEQmZgXj9/0dcfca0bf86c72e933d4fcb8b585b45c/OG_Share_2024-2025-2026__2_.png",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/PVjfiCXOYd00evo2s1kiQ/f79f1e2e122e16b77e3df43a3970ed72/OG_Share_2024-2025-2026__2_.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
+      "url": "https://github.com/SeanFDZ/macmind",
+      "published": "2026-04-16T13:16:29",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/11045455398ada2f15ab4bdcc15ff2ee8d25dd47362bc0b90f26c05002b2111b/SeanFDZ/macmind",
       "summary": "Summary unavailable."
     },
     {
@@ -174,36 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "published": "2026-04-16T13:17:37",
-      "description": "",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/PVjfiCXOYd00evo2s1kiQ/f79f1e2e122e16b77e3df43a3970ed72/OG_Share_2024-2025-2026__2_.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
-      "url": "https://github.com/SeanFDZ/macmind",
-      "published": "2026-04-16T13:16:29",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/a0f63d20334261fd978fb390b50a87b3c627b1f704b29faa8739c606f03ca011/SeanFDZ/macmind",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI cybersecurity is not proof of work",
-      "url": "https://antirez.com/news/163",
-      "published": "2026-04-16T10:48:00",
-      "description": "",
-      "image": "data/images/fc8c83d144e0bbba1550f72a98d8c7d1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "url": "https://daedal.io/@thomzane/116410863009847575",
       "published": "2026-04-16T03:44:38",
@@ -214,21 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Laravel raised money and now injects ads directly into your agent",
-      "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-      "published": "2026-04-16T14:51:13",
+      "title": "Cloudflare Email Service",
+      "url": "https://blog.cloudflare.com/email-for-agents/",
+      "published": "2026-04-16T13:21:53",
       "description": "",
-      "image": "https://techstackups.com/img/articles/laravel-ads-agents/cover.png",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3RDH6grpXMz6DWEQmZgXj9/0dcfca0bf86c72e933d4fcb8b585b45c/OG_Share_2024-2025-2026__2_.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Opus 4.7 Model Card",
-      "url": "https://anthropic.com/claude-opus-4-7-system-card",
-      "published": "2026-04-16T14:32:24",
+      "title": "Japan implements language proficiency requirements for certain visa applicants",
+      "url": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
+      "published": "2026-04-16T16:53:32",
       "description": "",
-      "image": "data/images/c353d880040514212ab45664a1d9fc82.png",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/15/535029.jpg?v=3.1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI cybersecurity is not proof of work",
+      "url": "https://antirez.com/news/163",
+      "published": "2026-04-16T10:48:00",
+      "description": "",
+      "image": "data/images/fc8c83d144e0bbba1550f72a98d8c7d1.png",
       "summary": "Summary unavailable."
     },
     {
