@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T12:47:51.868929",
+  "updated": "2026-04-17T16:40:17.633670",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+      "published": "Fri, 17 Apr 2026 16:17:55 GMT",
+      "description": "",
+      "image": "data/images/746b81d857a5720e8bb0edc1d58830de.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
       "url": "https://huggingface.co/blog/ecom-rlve",
       "published": "Thu, 16 Apr 2026 00:00:00 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-      "url": "https://huggingface.co/blog/Hcompany/holotab",
-      "published": "Wed, 15 Apr 2026 09:25:20 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Scan your website to see how ready it is for AI agents",
+      "url": "https://isitagentready.com",
+      "published": "2026-04-17T13:55:25",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://isitagentready.com/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "url": "https://github.com/gainsec/autoprober",
-      "published": "2026-04-16T21:56:37",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/e7e8499adbdb4fb352eddda69a088ebfba94a4acb25d32f07fc7e1676bf87ec7/GainSec/AutoProber",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Substrate AI Is Hiring Harness Engineers",
       "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
       "published": "2026-04-17T02:53:16",
@@ -184,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "published": "2026-04-16T13:17:37",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
+      "published": "2026-04-16T21:56:37",
       "description": "",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/PVjfiCXOYd00evo2s1kiQ/f79f1e2e122e16b77e3df43a3970ed72/OG_Share_2024-2025-2026__2_.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The beginning of scarcity in AI",
-      "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
-      "published": "2026-04-16T20:49:35",
-      "description": "",
-      "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/mmvcntlshse7hk354pjo",
+      "image": "https://opengraph.githubassets.com/564f9123d81fb5a253b6027fdfa0653eba61257c1220fed7eef3fd44de77f85a/GainSec/AutoProber",
       "summary": "Summary unavailable."
     }
   ],
