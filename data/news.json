@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T20:33:10.234609",
+  "updated": "2026-04-18T01:07:07.755829",
   "articles": [
     {
       "source": "RSS",
@@ -154,28 +154,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
-      "url": "https://github.com/dacracot/Klondike3-Simulator",
-      "published": "2026-04-17T01:38:01",
+      "title": "A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "published": "2026-04-17T21:38:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/5be62a3ae4159dca03fc7944c7e8a7dc7f3de5affed177152e70e02b5cc99387/dacracot/Klondike3-Simulator",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
-      "url": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
-      "published": "2026-04-17T19:00:07",
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "published": "2026-04-15T13:47:58",
       "description": "",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "image": "http://static1.squarespace.com/static/562652dbe4b05bbfdc596fd7/t/69498e19a310233e798dfd42/1766428185819/Sweet+Spots.png?format=1500w",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
+      "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+      "published": "2026-04-17T22:53:18",
+      "description": "",
+      "image": "https://davidma.org/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "speakers": [
       "Alex",
       "Jordan"
