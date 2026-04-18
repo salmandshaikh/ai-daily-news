@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T16:25:24.287751",
+  "updated": "2026-04-18T20:22:45.991650",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Graphs That Explain the State of AI in 2026",
+      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "published": "2026-04-18T17:12:44",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65506010&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: AI Subroutines \u2013 Run automation scripts inside your browser tab",
+      "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+      "published": "2026-04-17T21:03:18",
+      "description": "",
+      "image": "https://www.rtrvr.ai/ai-subroutines.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
       "published": "2026-04-18T12:29:06",
@@ -164,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-      "published": "2026-04-15T13:47:58",
+      "title": "Rail: A self-hosting language that speaks TLS alone",
+      "url": "https://github.com/zemo-g/rail",
+      "published": "2026-04-18T17:09:34",
       "description": "",
-      "image": "http://static1.squarespace.com/static/562652dbe4b05bbfdc596fd7/t/69498e19a310233e798dfd42/1766428185819/Sweet+Spots.png?format=1500w",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A simplified model of Fil-C",
-      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-      "published": "2026-04-17T21:38:20",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://opengraph.githubassets.com/19c5c60bd02f3eb7b4ac0de0d4e8cf379cc0ac2a0deee717e2d002c6835622ca/zemo-g/rail",
       "summary": "Summary unavailable."
     }
   ],
