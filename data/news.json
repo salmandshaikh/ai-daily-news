@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-20T12:58:39.558892",
+  "updated": "2026-04-20T16:52:08.646248",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "published": "Mon, 20 Apr 2026 00:00:00 GMT",
+      "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "image": "data/images/dbc583f2c6ccbfe7071a35cee1bdb5df.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 15 Apr 2026 10:00:00 GMT",
       "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Trusted access for the next era of cyber defense",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "published": "Tue, 14 Apr 2026 00:00:00 GMT",
-      "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-      "image": "data/images/9f82150a306d8bedb0c3e4327e1a48ec.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "published": "2026-04-20T15:41:02",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Copy-of-2000x1000-EN-1240x600-1.jpg?resize=1200,581",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Atlassian Enables Default Data Collection to Train AI",
+      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "published": "2026-04-20T12:23:39",
+      "description": "",
+      "image": "data/images/c1e512a9c1f93c49f07bbacbe055c509.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
+      "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
+      "published": "2026-04-20T15:22:01",
+      "description": "",
+      "image": "https://blog.surfacedby.com/wp-content/uploads/2026/04/nginx-access-log.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Claude Token Counter, now with model comparisons",
       "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
       "published": "2026-04-20T00:56:40",
       "description": "",
       "image": "https://static.simonwillison.net/static/2026/claude-token-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Pascal's Wager for AI Doomers",
-      "url": "https://pluralistic.net/2026/04/16/pascals-wager/",
-      "published": "2026-04-20T11:42:17",
-      "description": "",
-      "image": "data/images/8814717a366cda47edd2a6ad5bd0cd1d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Swiss AI Initiative (2023)",
-      "url": "https://www.swiss-ai.org",
-      "published": "2026-04-19T22:58:35",
-      "description": "",
-      "image": "https://static.wixstatic.com/media/a4c5cd_db11f7a288834745a1c6bd2cb33c69d0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a4c5cd_db11f7a288834745a1c6bd2cb33c69d0%7Emv2.png",
       "summary": "Summary unavailable."
     }
   ],
