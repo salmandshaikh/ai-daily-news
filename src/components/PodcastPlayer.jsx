@@ -1,282 +1,141 @@
 import { useState, useRef, useEffect } from 'react'
-import { Play, Pause, Download, Volume2, SkipForward, SkipBack } from 'lucide-react'
+import { Play, Pause, SkipBack, SkipForward, Download, Mic } from 'lucide-react'
+
+const SPEEDS = [1, 1.25, 1.5, 2]
+
+const WAVE = [35,55,80,60,90,70,45,85,65,75,50,95,60,80,70,50,88,65,72,55,82,40,68,58,78,52,88,62,72,42]
+
+function fmt(s) {
+    if (!s || isNaN(s)) return '0:00'
+    const m = Math.floor(s / 60)
+    const sec = Math.floor(s % 60)
+    return `${m}:${sec.toString().padStart(2, '0')}`
+}
 
 function PodcastPlayer({ podcast }) {
-    const [isPlaying, setIsPlaying] = useState(false)
-    const [currentTime, setCurrentTime] = useState(0)
-    const [duration, setDuration] = useState(0)
-    const [playbackRate, setPlaybackRate] = useState(1)
     const audioRef = useRef(null)
+    const [playing, setPlaying]   = useState(false)
+    const [current, setCurrent]   = useState(0)
+    const [duration, setDuration] = useState(podcast?.duration || 0)
+    const [speedIdx, setSpeedIdx] = useState(0)
+
+    const src = podcast?.file ? `${podcast.file}?v=${podcast.date || ''}` : null
 
     useEffect(() => {
         const audio = audioRef.current
         if (!audio) return
-
-        const updateTime = () => setCurrentTime(audio.currentTime)
-        const updateDuration = () => setDuration(audio.duration)
-        const handleEnded = () => setIsPlaying(false)
-
-        audio.addEventListener('timeupdate', updateTime)
-        audio.addEventListener('loadedmetadata', updateDuration)
-        audio.addEventListener('ended', handleEnded)
-
+        const onTime = ()  => setCurrent(audio.currentTime)
+        const onMeta = ()  => setDuration(audio.duration)
+        const onEnd  = ()  => setPlaying(false)
+        audio.addEventListener('timeupdate',     onTime)
+        audio.addEventListener('loadedmetadata', onMeta)
+        audio.addEventListener('ended',          onEnd)
         return () => {
-            audio.removeEventListener('timeupdate', updateTime)
-            audio.removeEventListener('loadedmetadata', updateDuration)
-            audio.removeEventListener('ended', handleEnded)
+            audio.removeEventListener('timeupdate',     onTime)
+            audio.removeEventListener('loadedmetadata', onMeta)
+            audio.removeEventListener('ended',          onEnd)
         }
     }, [])
 
     const togglePlay = () => {
-        if (isPlaying) {
-            audioRef.current.pause()
-        } else {
-            audioRef.current.play()
-        }
-        setIsPlaying(!isPlaying)
+        const audio = audioRef.current
+        if (!audio) return
+        if (playing) { audio.pause(); setPlaying(false) }
+        else { audio.play().then(() => setPlaying(true)).catch(() => {}) }
     }
 
-    const handleSeek = (e) => {
-        const seekTime = (e.target.value / 100) * duration
-        audioRef.current.currentTime = seekTime
-        setCurrentTime(seekTime)
+    const seek = e => {
+        const audio = audioRef.current
+        if (!audio || !duration) return
+        const bar = e.currentTarget.getBoundingClientRect()
+        const ratio = Math.max(0, Math.min(1, (e.clientX - bar.left) / bar.width))
+        audio.currentTime = ratio * duration
     }
 
-    const skip = (seconds) => {
-        audioRef.current.currentTime += seconds
+    const skip = secs => {
+        const audio = audioRef.current
+        if (audio) audio.currentTime = Math.max(0, Math.min(duration, audio.currentTime + secs))
     }
 
-    const changePlaybackRate = () => {
-        const rates = [1, 1.25, 1.5, 2]
-        const currentIndex = rates.indexOf(playbackRate)
-        const nextRate = rates[(currentIndex + 1) % rates.length]
-        setPlaybackRate(nextRate)
-        audioRef.current.playbackRate = nextRate
+    const cycleSpeed = () => {
+        const audio = audioRef.current
+        const next = (speedIdx + 1) % SPEEDS.length
+        setSpeedIdx(next)
+        if (audio) audio.playbackRate = SPEEDS[next]
     }
 
-    const formatTime = (time) => {
-        if (isNaN(time)) return '0:00'
-        const minutes = Math.floor(time / 60)
-        const seconds = Math.floor(time % 60)
-        return `${minutes}:${seconds.toString().padStart(2, '0')}`
-    }
-
-    const progress = duration > 0 ? (currentTime / duration) * 100 : 0
+    const pct = duration > 0 ? (current / duration) * 100 : 0
 
     return (
-        <div style={{
-            background: 'var(--bg-card)',
-            backdropFilter: 'blur(12px)',
-            WebkitBackdropFilter: 'blur(12px)',
-            borderRadius: '16px',
-            padding: '24px',
-            marginBottom: '48px',
-            border: '1px solid var(--border)',
-            boxShadow: '0 8px 32px rgba(0, 0, 0, 0.1)',
-            transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)'
-        }}
-            onMouseEnter={(e) => {
-                e.currentTarget.style.borderColor = 'var(--accent)'
-                e.currentTarget.style.boxShadow = '0 12px 48px rgba(0, 0, 0, 0.15)'
-            }}
-            onMouseLeave={(e) => {
-                e.currentTarget.style.borderColor = 'var(--border)'
-                e.currentTarget.style.boxShadow = '0 8px 32px rgba(0, 0, 0, 0.1)'
-            }}
-        >
-            <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '20px' }}>
-                <div style={{
-                    width: '48px',
-                    height: '48px',
-                    borderRadius: '12px',
-                    background: 'linear-gradient(135deg, var(--accent), var(--accent-hover))',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    boxShadow: '0 4px 12px rgba(0,0,0,0.2)'
-                }}>
-                    <Volume2 size={24} color="white" />
+        <>
+            {src && <audio ref={audioRef} src={src} preload="metadata" />}
+
+            <div className="podcast-bar">
+                {/* Album art */}
+                <div className="pod-art">
+                    <Mic size={26} strokeWidth={1.5} />
                 </div>
 
-                <div style={{ flex: 1 }}>
-                    <div style={{
-                        display: 'inline-flex',
-                        alignItems: 'center',
-                        gap: '8px',
-                        marginBottom: '4px'
-                    }}>
-                        <span style={{
-                            fontSize: '11px',
-                            fontWeight: '700',
-                            textTransform: 'uppercase',
-                            color: 'var(--accent)',
-                            letterSpacing: '0.5px'
-                        }}>
-                            Daily Briefing
-                        </span>
-                        <span style={{
-                            fontSize: '11px',
-                            color: 'var(--text-secondary)'
-                        }}>• {podcast.date}</span>
+                {/* Info */}
+                <div className="pod-info">
+                    <div className="pod-show">AI Daily Podcast</div>
+                    <div className="pod-title">Today's AI Briefing</div>
+                    <div className="pod-sub">
+                        Alex &amp; Jordan &nbsp;·&nbsp; {podcast?.date || 'Today'}
                     </div>
-                    <h3 style={{ margin: 0, fontSize: '18px', fontWeight: 700, color: 'var(--text-primary)' }}>
-                        AI Daily News Podcast
-                    </h3>
                 </div>
-                <a
-                    href={podcast.file}
-                    download={`ai-news-${podcast.date}.mp3`}
-                    style={{
-                        padding: '8px 16px',
-                        border: '1px solid var(--border)',
-                        color: 'var(--text-primary)',
-                        borderRadius: '8px',
-                        textDecoration: 'none',
-                        display: 'flex',
-                        alignItems: 'center',
-                        gap: '8px',
-                        fontSize: '13px',
-                        fontWeight: 600,
-                        transition: 'all 0.2s',
-                        background: 'transparent'
-                    }}
-                    onMouseEnter={e => {
-                        e.currentTarget.style.backgroundColor = 'var(--bg-secondary)'
-                        e.currentTarget.style.borderColor = 'var(--text-secondary)'
-                    }}
-                    onMouseLeave={e => {
-                        e.currentTarget.style.backgroundColor = 'transparent'
-                        e.currentTarget.style.borderColor = 'var(--border)'
-                    }}
-                >
-                    <Download size={16} />
-                    <span className="hide-mobile">MP3</span>
-                </a>
-            </div>
 
-            <audio ref={audioRef} src={podcast.file} preload="metadata" />
-
-            {/* Progress Bar */}
-            <div style={{ marginBottom: '20px', padding: '0 4px' }}>
-                <div style={{
-                    position: 'relative',
-                    height: '6px',
-                    background: 'var(--bg-secondary)',
-                    borderRadius: '3px',
-                    overflow: 'hidden'
-                }}>
-                    <div style={{
-                        position: 'absolute',
-                        top: 0,
-                        left: 0,
-                        height: '100%',
-                        width: `${progress}%`,
-                        background: 'var(--accent)',
-                        borderRadius: '3px',
-                        transition: 'width 0.1s linear'
-                    }} />
-                    <input
-                        type="range"
-                        min="0"
-                        max="100"
-                        value={progress}
-                        onChange={handleSeek}
-                        style={{
-                            position: 'absolute',
-                            top: 0,
-                            left: 0,
-                            width: '100%',
-                            height: '100%',
-                            opacity: 0,
-                            cursor: 'pointer',
-                        }}
-                    />
+                {/* Controls */}
+                <div className="pod-controls">
+                    <button className="pod-btn" onClick={() => skip(-10)} title="Back 10s">
+                        <SkipBack size={17} />
+                    </button>
+                    <button className="pod-play-btn" onClick={togglePlay}>
+                        {playing
+                            ? <Pause size={18} fill="currentColor" />
+                            : <Play  size={18} fill="currentColor" style={{ marginLeft: 2 }} />
+                        }
+                    </button>
+                    <button className="pod-btn" onClick={() => skip(30)} title="Forward 30s">
+                        <SkipForward size={17} />
+                    </button>
                 </div>
-                <div style={{
-                    display: 'flex',
-                    justifyContent: 'space-between',
-                    fontSize: '12px',
-                    fontWeight: '500',
-                    color: 'var(--text-secondary)',
-                    marginTop: '8px'
-                }}>
-                    <span>{formatTime(currentTime)}</span>
-                    <span>{formatTime(duration)}</span>
+
+                {/* Progress / waveform */}
+                <div className="pod-progress">
+                    <div className="pod-waveform" onClick={seek}>
+                        {WAVE.map((h, i) => (
+                            <div
+                                key={i}
+                                className="pod-wave-bar"
+                                style={{
+                                    height: `${h}%`,
+                                    background: (i / WAVE.length) * 100 < pct
+                                        ? 'var(--red)'
+                                        : '#2e2e2e',
+                                }}
+                            />
+                        ))}
+                    </div>
+                    <div className="pod-times">
+                        <span>{fmt(current)}</span>
+                        <span>{fmt(duration)}</span>
+                    </div>
+                </div>
+
+                {/* Speed + download */}
+                <div className="pod-extra">
+                    <button className="pod-speed" onClick={cycleSpeed}>
+                        {SPEEDS[speedIdx]}×
+                    </button>
+                    {src && (
+                        <a href={src} download className="pod-dl-btn" title="Download episode">
+                            <Download size={14} />
+                        </a>
+                    )}
                 </div>
             </div>
-
-            {/* Controls */}
-            <div style={{
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                gap: '24px'
-            }}>
-                <button
-                    onClick={() => skip(-10)}
-                    style={{
-                        background: 'transparent',
-                        border: 'none',
-                        color: 'var(--text-secondary)',
-                        cursor: 'pointer',
-                        display: 'flex',
-                        flexDirection: 'column',
-                        alignItems: 'center',
-                        gap: '4px',
-                        fontSize: '10px',
-                        transition: 'color 0.2s'
-                    }}
-                    onMouseEnter={e => e.currentTarget.style.color = 'var(--text-primary)'}
-                    onMouseLeave={e => e.currentTarget.style.color = 'var(--text-secondary)'}
-                >
-                    <SkipBack size={24} />
-                    -10s
-                </button>
-
-                <button
-                    onClick={togglePlay}
-                    style={{
-                        background: 'var(--text-primary)',
-                        border: 'none',
-                        borderRadius: '50%',
-                        width: '64px',
-                        height: '64px',
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        cursor: 'pointer',
-                        color: 'var(--bg-primary)',
-                        transition: 'transform 0.2s cubic-bezier(0.4, 0, 0.2, 1)',
-                        boxShadow: '0 8px 24px rgba(0,0,0,0.15)'
-                    }}
-                    onMouseEnter={e => e.currentTarget.style.transform = 'scale(1.05)'}
-                    onMouseLeave={e => e.currentTarget.style.transform = 'scale(1)'}
-                >
-                    {isPlaying ? <Pause size={28} fill="currentColor" /> : <Play size={28} style={{ marginLeft: '4px' }} fill="currentColor" />}
-                </button>
-
-                <button
-                    onClick={() => skip(10)}
-                    style={{
-                        background: 'transparent',
-                        border: 'none',
-                        color: 'var(--text-secondary)',
-                        cursor: 'pointer',
-                        display: 'flex',
-                        flexDirection: 'column',
-                        alignItems: 'center',
-                        gap: '4px',
-                        fontSize: '10px',
-                        transition: 'color 0.2s'
-                    }}
-                    onMouseEnter={e => e.currentTarget.style.color = 'var(--text-primary)'}
-                    onMouseLeave={e => e.currentTarget.style.color = 'var(--text-secondary)'}
-                >
-                    <SkipForward size={24} />
-                    +10s
-                </button>
-            </div>
-        </div>
+        </>
     )
 }
 

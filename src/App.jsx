@@ -5,11 +5,10 @@ import NewsGrid from './components/NewsGrid'
 import PodcastPlayer from './components/PodcastPlayer'
 
 function App() {
-    const [theme, setTheme] = useState(() => {
-        return localStorage.getItem('theme') || 'light'
-    })
+    const [theme, setTheme] = useState(() => localStorage.getItem('theme') || 'light')
     const [newsData, setNewsData] = useState(null)
     const [loading, setLoading] = useState(true)
+    const [activeSection, setActiveSection] = useState('All')
 
     useEffect(() => {
         document.documentElement.setAttribute('data-theme', theme)
@@ -17,77 +16,74 @@ function App() {
     }, [theme])
 
     useEffect(() => {
-        // Fetch news data with cache busting
-        fetch(`data/news.json?t=${new Date().getTime()}`)
-            .then(response => response.json())
-            .then(data => {
-                setNewsData(data)
-                setLoading(false)
-            })
-            .catch(error => {
-                console.error('Error loading news:', error)
-                setLoading(false)
-            })
+        fetch(`data/news.json?t=${Date.now()}`)
+            .then(r => r.json())
+            .then(d => { setNewsData(d); setLoading(false) })
+            .catch(() => setLoading(false))
     }, [])
 
-    const toggleTheme = () => {
-        setTheme(prev => prev === 'light' ? 'dark' : 'light')
-    }
+    const toggleTheme = () => setTheme(p => p === 'light' ? 'dark' : 'light')
+
+    const articles = newsData?.articles || []
+    const hero = articles[0]
+    const rest = articles.slice(1)
 
     return (
         <div className="app">
-            <Header theme={theme} toggleTheme={toggleTheme} />
+            <Header
+                theme={theme}
+                toggleTheme={toggleTheme}
+                activeSection={activeSection}
+                setActiveSection={setActiveSection}
+            />
 
-            <main style={{ flex: 1, paddingTop: '80px', paddingBottom: '60px' }}>
+            <main>
                 <div className="container">
                     {loading ? (
-                        <div style={{ textAlign: 'center', padding: '60px 0' }}>
-                            <div className="skeleton" style={{ height: '400px', borderRadius: '16px', marginBottom: '24px' }}></div>
-                            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '24px' }}>
-                                {[1, 2, 3, 4, 5, 6].map(i => (
-                                    <div key={i} className="skeleton" style={{ height: '300px', borderRadius: '16px' }}></div>
+                        <div style={{ padding: '40px 0' }}>
+                            <div className="skeleton" style={{ height: 380, marginBottom: 24 }} />
+                            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3,1fr)', gap: 20 }}>
+                                {[...Array(6)].map((_, i) => (
+                                    <div key={i} className="skeleton" style={{ height: 220 }} />
                                 ))}
                             </div>
                         </div>
-                    ) : newsData && newsData.articles && newsData.articles.length > 0 ? (
+                    ) : hero ? (
                         <>
                             <div style={{
-                                fontSize: '14px',
-                                color: 'var(--text-secondary)',
-                                marginBottom: '32px',
-                                borderBottom: '1px solid var(--border)',
-                                paddingBottom: '12px'
+                                fontFamily: 'var(--sans)', fontSize: 10, color: 'var(--ink-3)',
+                                textTransform: 'uppercase', letterSpacing: '0.8px',
+                                padding: '8px 0', borderBottom: '1px solid var(--rule-light)'
                             }}>
-                                Last updated: {new Date(newsData.updated).toLocaleString()}
+                                Edition of {new Date(newsData.updated).toLocaleString('en-US', {
+                                    weekday: 'long', month: 'long', day: 'numeric',
+                                    year: 'numeric', hour: '2-digit', minute: '2-digit'
+                                })}
                             </div>
-
-                            <HeroArticle article={newsData.articles[0]} />
-
-                            {/* Podcast Player - Now below the headline */}
-                            {newsData.podcast && <PodcastPlayer podcast={newsData.podcast} />}
-
-                            <NewsGrid articles={newsData.articles.slice(1)} />
+                            <HeroArticle article={hero} />
+                            <NewsGrid articles={rest} />
                         </>
                     ) : (
-                        <div style={{ textAlign: 'center', padding: '60px 0', color: 'var(--text-secondary)' }}>
-                            No news articles available.
+                        <div style={{
+                            textAlign: 'center', padding: '80px 0',
+                            fontFamily: 'var(--serif)', fontSize: 20, color: 'var(--ink-3)'
+                        }}>
+                            No articles available at this time.
                         </div>
                     )}
                 </div>
             </main>
 
-            <footer style={{
-                backgroundColor: 'var(--bg-secondary)',
-                padding: '24px 0',
-                textAlign: 'center',
-                fontSize: '14px',
-                color: 'var(--text-secondary)',
-                borderTop: '1px solid var(--border)'
-            }}>
+            <footer className="site-footer">
                 <div className="container">
-                    © 2025 AI Daily News. Powered by Groq & OpenRouter.
+                    <div className="footer-logo">AI Daily News</div>
+                    <div className="footer-copy">
+                        © {new Date().getFullYear()} AI Daily News &nbsp;·&nbsp; Powered by Groq &amp; OpenRouter &nbsp;·&nbsp; Updated every 4 hours
+                    </div>
                 </div>
             </footer>
+
+            {newsData?.podcast && <PodcastPlayer podcast={newsData.podcast} />}
         </div>
     )
 }
