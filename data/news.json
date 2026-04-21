@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T20:33:47.391492",
+  "updated": "2026-04-21T01:13:14.805272",
   "articles": [
     {
       "source": "RSS",
@@ -104,11 +104,11 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-      "published": "Fri, 17 Apr 2026 16:17:55 GMT",
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+      "published": "Tue, 21 Apr 2026 00:40:10 GMT",
       "description": "",
-      "image": "data/images/746b81d857a5720e8bb0edc1d58830de.png",
+      "image": "data/images/d88fcb7629fb763c8d12e3416c9ef627.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "NASA had to train Apollo 11's astronauts to not use profanity",
-      "url": "https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/",
-      "published": "2026-04-20T19:47:10",
+      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "url": "https://prismml.com/news/ternary-bonsai",
+      "published": "2026-04-18T02:51:34",
       "description": "",
-      "image": "https://www.columbian.com/wp-content/themes/columbian3/static/img/og/default-2026-4.jpg",
+      "image": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/69cc089669ab0df26e921aac_prism-og-img%20(2).png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \u201cprompt relevance\u201d",
+      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "published": "2026-04-20T21:20:52",
+      "description": "",
+      "image": "https://static-www.adweek.com/wp-content/uploads/2025/05/open-ai-data-chatgpt-2025.jpg?w=600&h=315&crop=1",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Even 'uncensored' models can't say what they want",
+      "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+      "published": "2026-04-20T22:43:29",
+      "description": "",
+      "image": "https://morgin.ai/assets/covers/euphemismbench-flinch-profile.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Atlassian enables default data collection to train AI",
       "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
       "published": "2026-04-20T12:23:39",
@@ -184,18 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)",
-      "url": "https://dl.acm.org/doi/epdf/10.1145/2212877.2212896",
-      "published": "2026-04-17T13:20:31",
+      "title": "AI Resistance: some recent anti-AI stuff that\u2019s worth discussing",
+      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "published": "2026-04-20T20:19:13",
       "description": "",
-      "image": "data/images/46418803dbd83c85d0a5dc199d454773.png",
+      "image": "data/images/8460f3fa3ea31947167555d77f5eb732.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "speakers": [
       "Alex",
       "Jordan"
