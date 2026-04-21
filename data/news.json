@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T09:16:10.951384",
+  "updated": "2026-04-21T12:54:01.754540",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "QIMMA \u0642\u0650\u0645\u0651\u0629 \u26f0: A Quality-First Arabic LLM Leaderboard",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "published": "Tue, 21 Apr 2026 10:09:58 GMT",
+      "description": "",
+      "image": "data/images/e452b6672db0da97c67889bbcb74d8c8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
       "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
       "published": "Tue, 21 Apr 2026 00:40:10 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "published": "Wed, 15 Apr 2026 12:07:25 GMT",
-      "description": "",
-      "image": "data/images/fa7f9ae7ee7599e15c361bc3827f977b.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
@@ -159,6 +159,16 @@
       "published": "2026-04-21T03:43:03",
       "description": "",
       "image": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&w=1200&q=100",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+      "published": "2026-04-21T05:27:35",
+      "description": "",
+      "image": "data/images/af1615a8edeba81acda2b3f89b641e39.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "published": "2026-04-21T05:27:35",
+      "title": "How a subsea cable is repaired (2021)",
+      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "published": "2026-04-16T18:25:28",
       "description": "",
-      "image": "data/images/af1615a8edeba81acda2b3f89b641e39.png",
+      "image": "https://static.wixstatic.com/media/9d72ca_4ae3f2bdca234a79abf5be7172f88877~mv2.jpg/v1/fill/w_768,h_552,al_c,q_85/9d72ca_4ae3f2bdca234a79abf5be7172f88877~mv2.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How a subsea cable is repaired",
-      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
-      "published": "2026-04-16T18:25:28",
+      "title": "Air is full of DNA",
+      "url": "https://www.nature.com/articles/d41586-026-01099-2",
+      "published": "2026-04-18T21:38:46",
       "description": "",
-      "image": "https://static.wixstatic.com/media/9d72ca_4ae3f2bdca234a79abf5be7172f88877~mv2.jpg/v1/fill/w_768,h_552,al_c,q_85/9d72ca_4ae3f2bdca234a79abf5be7172f88877~mv2.jpg",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01099-2/d41586-026-01099-2_52265640.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -229,16 +239,6 @@
       "published": "2026-04-18T02:51:34",
       "description": "",
       "image": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/69cc089669ab0df26e921aac_prism-og-img%20(2).png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Air is full of DNA",
-      "url": "https://www.nature.com/articles/d41586-026-01099-2",
-      "published": "2026-04-18T21:38:46",
-      "description": "",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01099-2/d41586-026-01099-2_52265640.jpg",
       "summary": "Summary unavailable."
     }
   ],
