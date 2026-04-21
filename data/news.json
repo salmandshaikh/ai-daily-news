@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-21T12:54:01.754540",
+  "updated": "2026-04-21T16:47:01.065957",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "image": "data/images/a2f01ec5b3a1529e4a8cab2ea4e81eed.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 16 Apr 2026 00:00:00 GMT",
       "description": "Leading security firms and enterprises join OpenAI\u2019s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
       "image": "data/images/7248cfcc0d905092b163895b92b57bb3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "published": "Wed, 15 Apr 2026 10:00:00 GMT",
-      "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -124,6 +124,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/701af37f9866da85c952dd24a31179ff.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
       "url": "https://huggingface.co/blog/ecom-rlve",
       "published": "Thu, 16 Apr 2026 00:00:00 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "published": "2026-04-21T14:11:53",
       "description": "",
-      "image": "data/images/df058102baafd1f52c0e13f9acfeaf12.png",
+      "image": "https://opengraph.githubassets.com/2b2b5197736cc64379f1a84ebf021befd2ba5bef96f09bdbc91841d5db2bf2b8/ENTERPILOT/GoModel",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tindie store under \"scheduled maintenance\" for days",
+      "url": "https://www.tindie.com/",
+      "published": "2026-04-21T13:02:00",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -174,16 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "published": "2026-04-21T04:12:12",
-      "description": "",
-      "image": "data/images/3974f781407e707bbcdbf0b97d8e1e07.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The Beauty of Bonsai Styles",
       "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
       "published": "2026-04-21T04:31:30",
@@ -194,51 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How a subsea cable is repaired (2021)",
-      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
-      "published": "2026-04-16T18:25:28",
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "published": "2026-04-21T04:12:12",
       "description": "",
-      "image": "https://static.wixstatic.com/media/9d72ca_4ae3f2bdca234a79abf5be7172f88877~mv2.jpg/v1/fill/w_768,h_552,al_c,q_85/9d72ca_4ae3f2bdca234a79abf5be7172f88877~mv2.jpg",
+      "image": "data/images/3974f781407e707bbcdbf0b97d8e1e07.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
-      "url": "https://mediator.ai/",
-      "published": "2026-04-20T15:07:04",
+      "title": "Less human AI agents, please",
+      "url": "https://nial.se/blog/less-human-ai-agents-please/",
+      "published": "2026-04-21T06:58:08",
       "description": "",
-      "image": "https://mediator.ai/assets/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Types and Neural Networks",
-      "url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
-      "published": "2026-04-21T05:59:53",
-      "description": "",
-      "image": "data/images/0a569ba8cdbc91baf65ed8654ff92fd8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Air is full of DNA",
-      "url": "https://www.nature.com/articles/d41586-026-01099-2",
-      "published": "2026-04-18T21:38:46",
-      "description": "",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01099-2/d41586-026-01099-2_52265640.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "published": "2026-04-18T02:51:34",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/69cc089669ab0df26e921aac_prism-og-img%20(2).png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
