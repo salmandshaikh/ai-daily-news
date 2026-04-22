@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T20:38:57.182176",
+  "updated": "2026-04-22T01:11:51.412067",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "published": "2026-04-21T18:50:00",
+      "description": "",
+      "image": "data/images/08e6d0e2d5592642aa17f3a177ffbc29.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "published": "2026-04-21T15:29:16",
+      "description": "",
+      "image": "https://www.brex.com/api/proxy-image?url=https%3A%2F%2Fbrand.brex.com%2Ftransform%2Fd355afa8-98bc-4424-be0c-236bb6bf77ed%2FCrabTrap-landing-page-preview%3Fio%3Dtransform%3Afit%2Cwidth%3A1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "published": "2026-04-18T10:53:42",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "published": "2026-04-21T17:40:39",
+      "description": "",
+      "image": "data/images/72018d9a29de7c6b7967475447e0b922.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
       "url": "https://github.com/ENTERPILOT/GOModel/",
       "published": "2026-04-21T14:11:53",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4d5d1297ea6066adc650100bfb98d15efa141664632e33302c86924c08fb9428/ENTERPILOT/GoModel",
+      "image": "https://opengraph.githubassets.com/ffd5654a0dc4792b60c24ee14def4f7c22678dc1febb21ea4a9133358df43934/ENTERPILOT/GoModel",
       "summary": "Summary unavailable."
     },
     {
@@ -170,42 +210,12 @@
       "description": "",
       "image": "https://bookface-images.s3.amazonaws.com/logos/d681b1370ee5c0b4d24b781aa8bc8a11b2c1d375.png?1746931057",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
-      "published": "2026-04-21T03:43:03",
-      "description": "",
-      "image": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&w=1200&q=100",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
-      "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
-      "published": "2026-04-21T17:40:39",
-      "description": "",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31734,resizemode-75,msid-130422612/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
-      "url": "https://mediator.ai/",
-      "published": "2026-04-20T15:07:04",
-      "description": "",
-      "image": "https://mediator.ai/assets/og-image.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-21",
+    "date": "2026-04-22",
     "speakers": [
       "Alex",
       "Jordan"
