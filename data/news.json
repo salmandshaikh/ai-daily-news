@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T09:09:57.179752",
+  "updated": "2026-04-22T12:53:44.149909",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "published": "Tue, 21 Apr 2026 14:54:15 +0000",
+      "description": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "image": "data/images/2fffbf37b77dc07898da72bd58b8df77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
       "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
       "published": "Wed, 15 Apr 2026 16:03:19 +0000",
@@ -89,16 +99,6 @@
       "published": "Thu, 26 Mar 2026 15:23:35 +0000",
       "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
       "image": "data/images/df65b3f08293eb01f5c9c2b9f0b32f7d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Protecting people from harmful manipulation",
-      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-      "published": "Wed, 25 Mar 2026 16:46:20 +0000",
-      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
-      "image": "data/images/d58a8425997ec3e7853275783c6872e2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "url": "https://lwn.net/Articles/1068928/",
+      "published": "2026-04-22T11:48:07",
+      "description": "",
+      "image": "data/images/83221e208be7215026b744efb5810ebc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
+      "url": "https://arxiv.org/abs/2604.15039",
+      "published": "2026-04-19T05:58:16",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
       "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
       "published": "2026-04-21T17:40:39",
@@ -179,16 +199,6 @@
       "published": "2026-04-18T10:53:42",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "url": "https://www.brex.com/crabtrap",
-      "published": "2026-04-21T15:29:16",
-      "description": "",
-      "image": "https://www.brex.com/api/proxy-image?url=https%3A%2F%2Fbrand.brex.com%2Ftransform%2Fd355afa8-98bc-4424-be0c-236bb6bf77ed%2FCrabTrap-landing-page-preview%3Fio%3Dtransform%3Afit%2Cwidth%3A1200",
       "summary": "Summary unavailable."
     }
   ],
