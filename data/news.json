@@ -1,6 +1,26 @@
 {
-  "updated": "2026-04-22T12:53:44.149909",
+  "updated": "2026-04-22T16:48:02.614191",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "published": "Wed, 22 Apr 2026 00:00:00 GMT",
+      "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "image": "data/images/1fecb3e61338f860e5bd21791cb7cc10.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Thu, 16 Apr 2026 10:00:00 GMT",
       "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "published": "Thu, 16 Apr 2026 01:00:00 GMT",
-      "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "description": "Leading security firms and enterprises join OpenAI\u2019s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-      "image": "data/images/7248cfcc0d905092b163895b92b57bb3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,21 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "QIMMA \u0642\u0650\u0645\u0651\u0629 \u26f0: A Quality-First Arabic LLM Leaderboard",
-      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "published": "Tue, 21 Apr 2026 10:09:58 GMT",
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "url": "https://huggingface.co/blog/nvidia/gemma4",
+      "published": "Wed, 22 Apr 2026 15:40:50 GMT",
       "description": "",
-      "image": "data/images/e452b6672db0da97c67889bbcb74d8c8.png",
+      "image": "data/images/caa7ef5f94765567541a3b9a58e575d6.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-      "published": "Tue, 21 Apr 2026 00:40:10 GMT",
+      "title": "QIMMA \u0642\u0650\u0645\u0651\u0629 \u26f0: A Quality-First Arabic LLM Leaderboard",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "published": "Tue, 21 Apr 2026 10:09:58 GMT",
       "description": "",
-      "image": "data/images/d88fcb7629fb763c8d12e3416c9ef627.png",
+      "image": "data/images/e452b6672db0da97c67889bbcb74d8c8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "published": "2026-04-21T18:50:00",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "published": "2026-04-22T13:19:58",
       "description": "",
-      "image": "data/images/08e6d0e2d5592642aa17f3a177ffbc29.png",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kernel code removals driven by LLM-created security reports",
-      "url": "https://lwn.net/Articles/1068928/",
-      "published": "2026-04-22T11:48:07",
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "published": "2026-04-21T18:50:00",
       "description": "",
-      "image": "data/images/83221e208be7215026b744efb5810ebc.png",
+      "image": "data/images/08e6d0e2d5592642aa17f3a177ffbc29.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "published": "2026-04-21T17:40:39",
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "url": "https://lwn.net/Articles/1068928/",
+      "published": "2026-04-22T11:48:07",
       "description": "",
-      "image": "data/images/72018d9a29de7c6b7967475447e0b922.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-      "published": "2026-04-18T10:53:42",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/83221e208be7215026b744efb5810ebc.png",
       "summary": "Summary unavailable."
     }
   ],
