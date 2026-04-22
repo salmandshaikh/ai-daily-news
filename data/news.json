@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-22T16:48:02.614191",
+  "updated": "2026-04-22T20:41:52.846425",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "image": "data/images/de156ca8950cd74252ec3b1bc91d43e7.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Wed, 22 Apr 2026 10:00:00 GMT",
       "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
       "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "image": "data/images/b0113ab3337eb28d1860a082eb7f9718.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Tue, 21 Apr 2026 00:00:00 GMT",
       "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
       "image": "data/images/a2f01ec5b3a1529e4a8cab2ea4e81eed.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "published": "Mon, 20 Apr 2026 00:00:00 GMT",
-      "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-      "image": "data/images/dbc583f2c6ccbfe7071a35cee1bdb5df.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Codex for (almost) everything",
-      "url": "https://openai.com/index/codex-for-almost-everything",
-      "published": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "published": "2026-04-22T17:51:17",
+      "description": "",
+      "image": "data/images/9cdc16ca0a43b62bc4a4826d22945228.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
       "published": "2026-04-22T13:19:58",
@@ -164,31 +174,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "published": "2026-04-21T18:50:00",
+      "title": "Scores decline again for 13-year-old students in reading and mathematics",
+      "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+      "published": "2026-04-22T18:57:20",
       "description": "",
-      "image": "data/images/08e6d0e2d5592642aa17f3a177ffbc29.png",
+      "image": "data/images/ba504b42c2edf1ee494343990bb43b66.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
-      "url": "https://arxiv.org/abs/2604.15039",
-      "published": "2026-04-19T05:58:16",
+      "title": "Website streamed live directly from a model",
+      "url": "https://flipbook.page/",
+      "published": "2026-04-22T18:01:18",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://flipbook.page/flipbook-unfurl.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kernel code removals driven by LLM-created security reports",
-      "url": "https://lwn.net/Articles/1068928/",
-      "published": "2026-04-22T11:48:07",
+      "title": "Workspace Agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "published": "2026-04-22T17:47:07",
       "description": "",
-      "image": "data/images/83221e208be7215026b744efb5810ebc.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+      "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+      "published": "2026-04-22T20:24:05",
+      "description": "",
+      "image": "https://i.guim.co.uk/img/media/844ae3c2a684515b067c8a9af352eecc47ae062f/251_0_3640_2912/master/3640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3dabb21ed4edf7227de94971d29097d2",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Scoring Show HN submissions for AI design patterns",
+      "url": "https://www.adriankrebs.ch/blog/design-slop/",
+      "published": "2026-04-22T14:44:32",
+      "description": "",
+      "image": "https://adriankrebs.ch/_astro/og-default.B6BqwTMP.svg",
       "summary": "Summary unavailable."
     }
   ],
