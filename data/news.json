@@ -1,54 +1,54 @@
 {
-  "updated": "2026-04-23T17:06:48.532345",
+  "updated": "2026-04-23T20:42:17.614877",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Making ChatGPT better for clinicians",
-      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-      "published": "Wed, 22 Apr 2026 15:00:00 GMT",
-      "description": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
-      "image": "data/images/386e116cc0c4f21068d471906925fee7.png",
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-      "image": "data/images/b0113ab3337eb28d1860a082eb7f9718.png",
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "description": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "image": "data/images/f581c5ca3877fdd65df1feb7affab515.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
+      "title": "What is Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "image": "data/images/015c116ef3373700ef46cef816ba85fa.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "image": "data/images/de156ca8950cd74252ec3b1bc91d43e7.png",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "image": "data/images/193002765aa706a35e7baaffd06b4947.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "published": "Wed, 22 Apr 2026 00:00:00 GMT",
-      "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-      "image": "data/images/1fecb3e61338f860e5bd21791cb7cc10.png",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "image": "data/images/00bb844fad2b2557346619c04d426eca.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "published": "2026-04-23T18:01:39",
+      "description": "",
+      "image": "data/images/de392d99e073d932039aa08f1f59041b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "published": "2026-04-23T14:17:08",
       "description": "",
@@ -164,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
-      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "published": "2026-04-23T12:12:03",
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "published": "2026-04-23T16:55:13",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/cityscape-location-data.jpg?resize=1200,675",
+      "image": "https://blog.meshcore.io/assets/images/icon.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "published": "2026-04-23T12:12:03",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/cityscape-location-data.jpg?resize=1200,675",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
       "published": "2026-04-23T05:14:05",
       "description": "",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Website streamed live directly from a model",
-      "url": "https://flipbook.page/",
-      "published": "2026-04-22T18:01:18",
-      "description": "",
-      "image": "https://flipbook.page/flipbook-unfurl.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "published": "2026-04-22T17:51:17",
-      "description": "",
-      "image": "data/images/9cdc16ca0a43b62bc4a4826d22945228.png",
       "summary": "Summary unavailable."
     }
   ],
