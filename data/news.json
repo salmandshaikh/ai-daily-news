@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T01:17:10.034534",
+  "updated": "2026-04-23T05:59:08.187667",
   "articles": [
     {
       "source": "RSS",
@@ -14,21 +14,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Workspace agents",
       "url": "https://openai.com/academy/workspace-agents",
       "published": "Wed, 22 Apr 2026 10:00:00 GMT",
       "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
       "image": "data/images/de156ca8950cd74252ec3b1bc91d43e7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
-      "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
-      "published": "2026-04-22T20:24:05",
+      "title": "OpenAI's response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
+      "published": "2026-04-23T00:45:01",
       "description": "",
-      "image": "https://i.guim.co.uk/img/media/844ae3c2a684515b067c8a9af352eecc47ae062f/251_0_3640_2912/master/3640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3dabb21ed4edf7227de94971d29097d2",
+      "image": "data/images/98507eb5d2fb81d2d591a68d904feeb4.png",
       "summary": "Summary unavailable."
     },
     {
