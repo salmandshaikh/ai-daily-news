@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T09:16:48.078848",
+  "updated": "2026-04-23T12:53:57.425777",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ars Technica: Our newsroom AI policy",
+      "title": "Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
       "published": "2026-04-23T05:14:05",
       "description": "",
@@ -174,6 +174,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "published": "2026-04-23T08:10:09",
+      "description": "",
+      "image": "https://marketing.buttondown.com/og/generic?title=Email+could+have+been+X.400+times+better&subtitle=Matthew+Guay&date=April+17%2C+2026",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Website streamed live directly from a model",
       "url": "https://flipbook.page/",
       "published": "2026-04-22T18:01:18",
@@ -184,51 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Built a daily game where you sort historical events chronologically",
+      "url": "https://hisorty.app/",
+      "published": "2026-04-23T10:14:46",
+      "description": "",
+      "image": "https://hisorty.app/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
       "published": "2026-04-22T13:19:58",
       "description": "",
       "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Forgotten History of Hershey's Electric Railway (1916) in Cuba",
-      "url": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
-      "published": "2026-04-21T14:03:12",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-train-station-platform-with-people-on-it.jpg?id=65558856&width=1200&height=600&coordinates=0%2C88%2C0%2C32",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Scoring Show HN submissions for AI design patterns",
-      "url": "https://www.adriankrebs.ch/blog/design-slop/",
-      "published": "2026-04-22T14:44:32",
-      "description": "",
-      "image": "https://adriankrebs.ch/_astro/og-default.B6BqwTMP.svg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Workspace Agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-      "published": "2026-04-22T17:47:07",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI's response to the Axios developer tool compromise",
-      "url": "https://openai.com/index/axios-developer-tool-compromise/",
-      "published": "2026-04-23T00:45:01",
-      "description": "",
-      "image": "data/images/98507eb5d2fb81d2d591a68d904feeb4.png",
       "summary": "Summary unavailable."
     }
   ],
