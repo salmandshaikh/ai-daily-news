@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-22T20:41:52.846425",
+  "updated": "2026-04-23T01:17:10.034534",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "image": "data/images/de156ca8950cd74252ec3b1bc91d43e7.png",
+      "title": "Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "published": "Wed, 22 Apr 2026 15:00:00 GMT",
+      "description": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "image": "data/images/386e116cc0c4f21068d471906925fee7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -19,6 +19,16 @@
       "published": "Wed, 22 Apr 2026 10:00:00 GMT",
       "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
       "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "image": "data/images/de156ca8950cd74252ec3b1bc91d43e7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Wed, 22 Apr 2026 00:00:00 GMT",
       "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
       "image": "data/images/1fecb3e61338f860e5bd21791cb7cc10.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "image": "data/images/a2f01ec5b3a1529e4a8cab2ea4e81eed.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "published": "2026-04-22T17:51:17",
-      "description": "",
-      "image": "data/images/9cdc16ca0a43b62bc4a4826d22945228.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
       "published": "2026-04-22T13:19:58",
@@ -174,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Scores decline again for 13-year-old students in reading and mathematics",
-      "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
-      "published": "2026-04-22T18:57:20",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "published": "2026-04-22T17:51:17",
       "description": "",
-      "image": "data/images/ba504b42c2edf1ee494343990bb43b66.png",
+      "image": "data/images/9cdc16ca0a43b62bc4a4826d22945228.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,16 +179,6 @@
       "published": "2026-04-22T18:01:18",
       "description": "",
       "image": "https://flipbook.page/flipbook-unfurl.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Workspace Agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-      "published": "2026-04-22T17:47:07",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -220,12 +200,22 @@
       "description": "",
       "image": "https://adriankrebs.ch/_astro/og-default.B6BqwTMP.svg",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Workspace Agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "published": "2026-04-22T17:47:07",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-22",
+    "date": "2026-04-23",
     "speakers": [
       "Alex",
       "Jordan"
