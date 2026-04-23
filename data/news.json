@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T05:59:08.187667",
+  "updated": "2026-04-23T09:16:48.078848",
   "articles": [
     {
       "source": "RSS",
@@ -24,21 +24,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Introducing workspace agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "published": "Wed, 22 Apr 2026 10:00:00 GMT",
       "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
       "image": "data/images/b0113ab3337eb28d1860a082eb7f9718.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "image": "data/images/0b2aa464b311e3a7149dbb8691aafe23.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "published": "2026-04-22T13:19:58",
+      "title": "Ars Technica: Our newsroom AI policy",
+      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "published": "2026-04-23T05:14:05",
       "description": "",
-      "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI's response to the Axios developer tool compromise",
-      "url": "https://openai.com/index/axios-developer-tool-compromise/",
-      "published": "2026-04-23T00:45:01",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "published": "2026-04-22T13:19:58",
       "description": "",
-      "image": "data/images/98507eb5d2fb81d2d591a68d904feeb4.png",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Forgotten History of Hershey's Electric Railway (1916) in Cuba",
+      "url": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
+      "published": "2026-04-21T14:03:12",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-train-station-platform-with-people-on-it.jpg?id=65558856&width=1200&height=600&coordinates=0%2C88%2C0%2C32",
       "summary": "Summary unavailable."
     },
     {
@@ -209,6 +219,16 @@
       "published": "2026-04-22T17:47:07",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI's response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
+      "published": "2026-04-23T00:45:01",
+      "description": "",
+      "image": "data/images/98507eb5d2fb81d2d591a68d904feeb4.png",
       "summary": "Summary unavailable."
     }
   ],
