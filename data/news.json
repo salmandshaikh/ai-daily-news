@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T12:53:57.425777",
+  "updated": "2026-04-23T17:06:48.532345",
   "articles": [
     {
       "source": "RSS",
@@ -9,16 +9,6 @@
       "published": "Wed, 22 Apr 2026 15:00:00 GMT",
       "description": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
       "image": "data/images/386e116cc0c4f21068d471906925fee7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "image": "data/images/de156ca8950cd74252ec3b1bc91d43e7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +34,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "image": "data/images/de156ca8950cd74252ec3b1bc91d43e7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Introducing OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter",
       "published": "Wed, 22 Apr 2026 00:00:00 GMT",
       "description": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
       "image": "data/images/1fecb3e61338f860e5bd21791cb7cc10.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "published": "Wed, 22 Apr 2026 10:20:03 +0000",
+      "description": "",
+      "image": "data/images/80a0eaec06d55f4289a4b99afbdef15f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Thu, 02 Apr 2026 16:00:49 +0000",
       "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
       "image": "data/images/79376752aad6466cdeef91b9b0bd6cd5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-      "published": "Thu, 26 Mar 2026 15:23:35 +0000",
-      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
-      "image": "data/images/df65b3f08293eb01f5c9c2b9f0b32f7d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "published": "2026-04-23T14:17:08",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/65ef8dc5e66260e20fdf13cead82ebd41b705ee6-1018x666.png?w=1000&q=95&fit=max&auto=format",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "published": "2026-04-23T12:12:03",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/cityscape-location-data.jpg?resize=1200,675",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Renaissance gambling dispute spawned probability theory",
+      "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+      "published": "2026-04-21T12:59:59",
+      "description": "",
+      "image": "https://static.scientificamerican.com/dam/asset/eb2e8ed0-c13b-4c11-8a4c-afe23c1ed280/points-problem_graphic_leadImage.png?m=1776449332.201&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
       "published": "2026-04-23T05:14:05",
       "description": "",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "published": "2026-04-22T17:51:17",
-      "description": "",
-      "image": "data/images/9cdc16ca0a43b62bc4a4826d22945228.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "published": "2026-04-23T08:10:09",
-      "description": "",
-      "image": "https://marketing.buttondown.com/og/generic?title=Email+could+have+been+X.400+times+better&subtitle=Matthew+Guay&date=April+17%2C+2026",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Built a daily game where you sort historical events chronologically",
-      "url": "https://hisorty.app/",
-      "published": "2026-04-23T10:14:46",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "published": "2026-04-22T17:51:17",
       "description": "",
-      "image": "https://hisorty.app/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "published": "2026-04-22T13:19:58",
-      "description": "",
-      "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+      "image": "data/images/9cdc16ca0a43b62bc4a4826d22945228.png",
       "summary": "Summary unavailable."
     }
   ],
