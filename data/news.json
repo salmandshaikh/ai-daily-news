@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T09:21:10.264603",
+  "updated": "2026-04-24T12:51:40.525920",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "published": "Fri, 24 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "How to Use Transformers.js in a Chrome Extension",
       "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "published": "Thu, 23 Apr 2026 00:00:00 GMT",
@@ -142,23 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "url": "https://huggingface.co/blog/ecom-rlve",
-      "published": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+      "url": "https://www.bmj.com/content/393/bmj.s781",
+      "published": "2026-04-24T11:09:36",
       "description": "",
-      "image": "data/images/8835d255bae42d5316dcc9b7c9443fbe.png",
+      "image": "data/images/e4a4c3f2d8cf5d2c788d750ded48c37e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "published": "2026-04-23T18:01:39",
+      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "published": "2026-04-24T09:17:57",
       "description": "",
-      "image": "data/images/de392d99e073d932039aa08f1f59041b.png",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4940/live/f8c31140-3fb5-11f1-b61b-1d0ccf7b6022.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
+      "url": "https://ynarwal.github.io/how-llms-work/",
+      "published": "2026-04-24T06:48:53",
+      "description": "",
+      "image": "data/images/f776818a5664e5a7e64a56e475d2854d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "published": "2026-04-23T14:17:08",
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
-      "url": "https://ynarwal.github.io/how-llms-work/",
-      "published": "2026-04-24T06:48:53",
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "published": "2026-04-23T18:01:39",
       "description": "",
-      "image": "data/images/f776818a5664e5a7e64a56e475d2854d.png",
+      "image": "data/images/de392d99e073d932039aa08f1f59041b.png",
       "summary": "Summary unavailable."
     },
     {
