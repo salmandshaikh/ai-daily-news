@@ -1,16 +1,6 @@
 {
-  "updated": "2026-04-23T20:42:17.614877",
+  "updated": "2026-04-24T01:16:34.546997",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.5 System Card",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,11 +14,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "What is Codex?",
-      "url": "https://openai.com/academy/what-is-codex",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "image": "data/images/015c116ef3373700ef46cef816ba85fa.png",
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -39,6 +29,16 @@
       "published": "Thu, 23 Apr 2026 10:00:00 GMT",
       "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
       "image": "data/images/193002765aa706a35e7baaffd06b4947.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "image": "data/images/65f9ed8829d2d0caa4f9a01f29589b31.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,32 +190,12 @@
       "description": "",
       "image": "https://static.scientificamerican.com/dam/asset/eb2e8ed0-c13b-4c11-8a4c-afe23c1ed280/points-problem_graphic_leadImage.png?m=1776449332.201&w=1200",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
-      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "published": "2026-04-23T12:12:03",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/cityscape-location-data.jpg?resize=1200,675",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Our newsroom AI policy",
-      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "published": "2026-04-23T05:14:05",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "speakers": [
       "Alex",
       "Jordan"
