@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T12:51:40.525920",
+  "updated": "2026-04-24T16:43:36.666871",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
-      "url": "https://www.bmj.com/content/393/bmj.s781",
-      "published": "2026-04-24T11:09:36",
+      "title": "Different Language Models Learn Similar Number Representations",
+      "url": "https://arxiv.org/abs/2604.20817",
+      "published": "2026-04-24T14:34:23",
       "description": "",
-      "image": "data/images/e4a4c3f2d8cf5d2c788d750ded48c37e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
-      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-      "published": "2026-04-24T09:17:57",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4940/live/f8c31140-3fb5-11f1-b61b-1d0ccf7b6022.jpg",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
+      "url": "https://arxiv.org/abs/2604.18799",
+      "published": "2026-04-24T14:01:43",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "published": "2026-04-23T14:17:08",
@@ -214,6 +214,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Atomic \u2013 Local-first, AI-augmented personal knowledge base",
+      "url": "https://atomicapp.ai/",
+      "published": "2026-04-24T12:07:30",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
       "published": "2026-04-23T16:55:13",
@@ -224,11 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
-      "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
-      "published": "2026-04-24T04:48:54",
+      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "published": "2026-04-24T09:17:57",
       "description": "",
-      "image": "https://storage.ghost.io/c/bf/ed/bfede457-0ae4-45e9-ae8f-abe554fc15bb/content/images/size/w1200/2026/04/Gemini_Generated_Image_y0s1mry0s1mry0s1.png",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4940/live/f8c31140-3fb5-11f1-b61b-1d0ccf7b6022.jpg",
       "summary": "Summary unavailable."
     }
   ],
