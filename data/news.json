@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T16:28:14.922129",
+  "updated": "2026-04-25T20:25:43.279703",
   "articles": [
     {
       "source": "RSS",
@@ -164,21 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT 5.5 biosafety bounty",
-      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "published": "2026-04-25T14:17:31",
+      "title": "AI agents that argue with each other to improve decisions",
+      "url": "https://github.com/rockcat/HATS",
+      "published": "2026-04-25T18:30:12",
       "description": "",
-      "image": "data/images/b1cbe9a2dcaa6750e0f43af4dddef541.png",
+      "image": "https://opengraph.githubassets.com/a26d64ed2b15555396b07ddc6c5172bf1a369725b33f61a95fbd966045da52ef/rockcat/HATS",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Lambda Calculus Benchmark for AI",
-      "url": "https://victortaelin.github.io/lambench/",
-      "published": "2026-04-25T11:16:23",
+      "title": "Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "published": "2026-04-25T17:21:22",
       "description": "",
-      "image": "data/images/b819d039c4c6f448f9f3ea2519f3df21.png",
+      "image": "data/images/358180a39a851c336988a5a73e33ce7e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT\u20115.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "published": "2026-04-25T14:17:31",
+      "description": "",
+      "image": "data/images/22de4a3c7362f02bf7883d37e3f28b11.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,31 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Lambda Calculus Benchmark for AI",
+      "url": "https://victortaelin.github.io/lambench/",
+      "published": "2026-04-25T11:16:23",
+      "description": "",
+      "image": "data/images/b819d039c4c6f448f9f3ea2519f3df21.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The mail sent to a video game publisher",
       "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
       "published": "2026-04-21T14:39:04",
       "description": "",
       "image": "https://substackcdn.com/image/fetch/$s_!7whD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75a41406-0680-455b-9755-2cd0fdb9f459_4032x2319.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "url": "https://github.com/nex-crm/wuphf",
-      "published": "2026-04-25T08:53:53",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/a1eeb23db730d129a6bc7f1dfedb27192053d4d9beea4a7570a6a261bcd90099/nex-crm/wuphf",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "published": "2026-04-25T01:24:40",
-      "description": "",
-      "image": "https://stash.alash3al.com/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
