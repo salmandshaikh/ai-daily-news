@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T08:39:39.254256",
+  "updated": "2026-04-25T12:33:42.037479",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"Plain text has been around for decades and it's here to stay.\" \u2013 Unsung",
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "published": "2026-04-25T08:53:53",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/1b7f9e1d4fb7ccffde09e663ca0d70df5754cda74804f05b736fefa43446e03b/nex-crm/wuphf",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Plain text has been around for decades and it\u2019s here to stay",
       "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
       "published": "2026-04-25T01:03:09",
       "description": "",
@@ -174,21 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "published": "2026-04-23T08:10:09",
-      "description": "",
-      "image": "https://marketing.buttondown.com/og/generic?title=Email+could+have+been+X.400+times+better&subtitle=Matthew+Guay&date=April+17%2C+2026",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
       "url": "https://alash3al.github.io/stash?_v01",
       "published": "2026-04-25T01:24:40",
       "description": "",
       "image": "https://stash.alash3al.com/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Escrow Security for iCloud Keychain",
+      "url": "https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web",
+      "published": "2026-04-25T06:56:23",
+      "description": "",
+      "image": "data/images/252c4d029f7a91fa09dcbdb41aef845c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "published": "2026-04-23T08:10:09",
+      "description": "",
+      "image": "https://marketing.buttondown.com/og/generic?title=Email+could+have+been+X.400+times+better&subtitle=Matthew+Guay&date=April+17%2C+2026",
       "summary": "Summary unavailable."
     }
   ],
