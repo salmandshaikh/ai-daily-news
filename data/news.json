@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T20:34:07.604465",
+  "updated": "2026-04-25T01:10:00.613188",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "published": "2026-04-23T08:10:09",
+      "description": "",
+      "image": "https://marketing.buttondown.com/og/generic?title=Email+could+have+been+X.400+times+better&subtitle=Matthew+Guay&date=April+17%2C+2026",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "SFO Quiet Airport (2025)",
       "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
       "published": "2026-04-24T18:29:53",
@@ -174,31 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
+      "url": "https://github.com/browser-use/browser-harness",
+      "published": "2026-04-24T14:31:38",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/a489e86111480797b785d24d4219db7dfc0c2b13a580bb54b03582822fa29a4a/browser-use/browser-harness",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Different Language Models Learn Similar Number Representations",
       "url": "https://arxiv.org/abs/2604.20817",
       "published": "2026-04-24T14:34:23",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
-      "url": "https://github.com/browser-use/browser-harness",
-      "published": "2026-04-24T14:31:38",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/70a90667f3b22a0ee7a926037a3c69883de021e0f6d3bd87c5c36b4961887898/browser-use/browser-harness",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "published": "2026-04-23T21:56:15",
-      "description": "",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york.jpg?c=16x9&q=w_800,c_fill",
       "summary": "Summary unavailable."
     },
     {
@@ -210,42 +210,12 @@
       "description": "",
       "image": "data/images/99898dc9d23dd5ef59dccafa3d35cf0d.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
-      "url": "https://arxiv.org/abs/2604.18799",
-      "published": "2026-04-24T14:01:43",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "published": "2026-04-23T14:17:08",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/65ef8dc5e66260e20fdf13cead82ebd41b705ee6-1018x666.png?w=1000&q=95&fit=max&auto=format",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "published": "2026-04-23T18:01:39",
-      "description": "",
-      "image": "data/images/de392d99e073d932039aa08f1f59041b.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-24",
+    "date": "2026-04-25",
     "speakers": [
       "Alex",
       "Jordan"
