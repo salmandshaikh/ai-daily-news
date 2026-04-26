@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T20:25:43.279703",
+  "updated": "2026-04-26T01:18:20.537303",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "published": "2026-04-23T00:14:55",
+      "description": "",
+      "image": "data/images/4c713472b3afec7023eb525377740dc6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
       "published": "2026-04-22T13:46:23",
       "description": "",
       "image": "data/images/cf1452c8ee0da850e0878825b285197b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI agents that argue with each other to improve decisions",
-      "url": "https://github.com/rockcat/HATS",
-      "published": "2026-04-25T18:30:12",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/a26d64ed2b15555396b07ddc6c5172bf1a369725b33f61a95fbd966045da52ef/rockcat/HATS",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hokusai and Tesselations",
-      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
-      "published": "2026-04-25T17:21:22",
-      "description": "",
-      "image": "data/images/358180a39a851c336988a5a73e33ce7e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,42 +180,12 @@
       "description": "",
       "image": "data/images/22de4a3c7362f02bf7883d37e3f28b11.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Plain text has been around for decades and it\u2019s here to stay",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "published": "2026-04-25T01:03:09",
-      "description": "",
-      "image": "https://unsung.aresluna.org/_media/plain-text-has-been-around-for-decades-and-its-here-to-stay/ogimage.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Lambda Calculus Benchmark for AI",
-      "url": "https://victortaelin.github.io/lambench/",
-      "published": "2026-04-25T11:16:23",
-      "description": "",
-      "image": "data/images/b819d039c4c6f448f9f3ea2519f3df21.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The mail sent to a video game publisher",
-      "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-      "published": "2026-04-21T14:39:04",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!7whD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75a41406-0680-455b-9755-2cd0fdb9f459_4032x2319.jpeg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-25",
+    "date": "2026-04-26",
     "speakers": [
       "Alex",
       "Jordan"
