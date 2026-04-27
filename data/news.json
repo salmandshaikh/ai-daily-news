@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T17:14:10.250894",
+  "updated": "2026-04-27T20:47:09.263448",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,26 @@
       "published": "Mon, 27 Apr 2026 06:00:00 GMT",
       "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
       "image": "data/images/28e4e9faafa21d8565f6151a49c04649.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems\u2014boosting engineering output and reducing context switching.",
+      "image": "data/images/4944f7d5951dc67acb5f2f99e9d61aa4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "description": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth\u2014an in-depth customer story on real-world AI impact.",
+      "image": "data/images/453691ea92d934dbbd221247d82c004b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "description": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "image": "data/images/f581c5ca3877fdd65df1feb7affab515.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "GPT-5.5 System Card",
       "url": "https://openai.com/index/gpt-5-5-system-card",
       "published": "Thu, 23 Apr 2026 11:00:00 GMT",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Working with Codex",
-      "url": "https://openai.com/academy/working-with-codex",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "image": "data/images/3083a1a3d347668b32c1a630ef0ceb30.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "published": "2026-04-27T11:43:59",
+      "description": "",
+      "image": "https://image.cnbcfm.com/api/v1/image/108279325-1773812817915-gettyimages-2255015559-img_4584.jpeg?v=1773812854&w=1920&h=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
       "url": "https://app.oravys.com/blog/mercor-breach-2026",
       "published": "2026-04-27T09:57:10",
@@ -174,31 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
+      "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
+      "published": "2026-04-25T21:17:02",
+      "description": "",
+      "image": "https://pdr-assets.b-cdn.net/essays/magic-by-return-of-post/psychic-featured.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Pgbackrest is no longer being maintained",
       "url": "https://github.com/pgbackrest/pgbackrest",
       "published": "2026-04-27T10:56:34",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ebbebf683f3c6cb316a2d3d201d37632052ce5a13145c75fb7afa7b1f35f6fb2/pgbackrest/pgbackrest",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI should elevate your thinking, not replace it",
-      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "published": "2026-04-26T20:03:12",
-      "description": "",
-      "image": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/blog_social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Getting my daily news from a dot matrix printer 2024",
-      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-      "published": "2026-04-25T11:39:53",
-      "description": "",
-      "image": "https://aschmelyun.com/storage/images/meta/blog/getting-my-daily-news-from-a-dot-matrix-printer.jpg",
+      "image": "https://opengraph.githubassets.com/1e0da627f602784b907eaa63026f7b80569d13ff9ba31b187a3437832e3f8303/pgbackrest/pgbackrest",
       "summary": "Summary unavailable."
     }
   ],
