@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T06:21:07.703782",
+  "updated": "2026-04-27T10:02:20.718449",
   "articles": [
     {
       "source": "RSS",
@@ -9,16 +9,6 @@
       "published": "Sun, 26 Apr 2026 16:00:00 GMT",
       "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
       "image": "data/images/27e32bfa00fa6aa80db4d0b2e5f5910f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.5 System Card",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +24,41 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "image": "data/images/193002765aa706a35e7baaffd06b4947.png",
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
       "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "image": "data/images/9a6ae8a397c251c012241545ea1a037d.png",
+      "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "image": "data/images/00bb844fad2b2557346619c04d426eca.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "What is Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "image": "data/images/015c116ef3373700ef46cef816ba85fa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "published": "Mon, 27 Apr 2026 07:00:06 +0000",
+      "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "image": "data/images/5f86f4e4a7ed3d889994a18c6016ca03.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Mon, 13 Apr 2026 15:52:13 +0000",
       "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
       "image": "data/images/97193d22d3fb10e7612fc872f0107d93.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "published": "Thu, 02 Apr 2026 16:00:49 +0000",
-      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-      "image": "data/images/79376752aad6466cdeef91b9b0bd6cd5.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "published": "2026-04-26T20:03:12",
+      "description": "",
+      "image": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/blog_social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Three constraints before I build anything",
       "url": "https://jordanlord.co.uk/blog/3-constraints/",
       "published": "2026-04-25T18:41:03",
@@ -164,41 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI can cost more than human workers now",
-      "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
-      "published": "2026-04-27T05:28:39",
-      "description": "",
-      "image": "data/images/13b2dd068d83b14447c97d6c4eb93cf4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI should elevate your thinking, not replace it",
-      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "published": "2026-04-26T20:03:12",
-      "description": "",
-      "image": "data/images/f4f932f06cc2751448e834d4ca00cd32.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "An AI agent deleted our production database. The agent's confession is below",
       "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
       "published": "2026-04-26T16:27:29",
       "description": "",
       "image": "data/images/37bfb8786e7b64f467cc9e751066b623.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-      "published": "2026-04-27T00:34:30",
-      "description": "",
-      "image": "data/images/52557942ef7f18c1f5f7c6cc222ff59f.png",
       "summary": "Summary unavailable."
     }
   ],
