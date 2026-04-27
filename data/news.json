@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-27T10:02:20.718449",
+  "updated": "2026-04-27T13:11:29.080344",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "published": "Mon, 27 Apr 2026 06:00:00 GMT",
+      "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "image": "data/images/28e4e9faafa21d8565f6151a49c04649.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -34,21 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
       "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "image": "data/images/00bb844fad2b2557346619c04d426eca.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "What is Codex?",
-      "url": "https://openai.com/academy/what-is-codex",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "image": "data/images/015c116ef3373700ef46cef816ba85fa.png",
+      "description": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "image": "data/images/3083a1a3d347668b32c1a630ef0ceb30.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Pgbackrest is no longer being maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest",
+      "published": "2026-04-27T10:56:34",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/3b00e0ad8e3043e488867c8aab93e438e5ccb9cd41095b7573566de78e565859/pgbackrest/pgbackrest",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
       "published": "2026-04-26T20:03:12",
@@ -164,21 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "published": "2026-04-25T18:41:03",
+      "title": "Getting my daily news from a dot matrix printer 2024",
+      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
+      "published": "2026-04-25T11:39:53",
       "description": "",
-      "image": "data/images/93316ab9c8d3569b7f6fd544b2c0fc43.png",
+      "image": "https://aschmelyun.com/storage/images/meta/blog/getting-my-daily-news-from-a-dot-matrix-printer.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "published": "2026-04-26T16:27:29",
+      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+      "published": "2026-04-27T10:14:15",
       "description": "",
-      "image": "data/images/37bfb8786e7b64f467cc9e751066b623.png",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69c597be55948344bd3098ce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "published": "2026-04-25T18:41:03",
+      "description": "",
+      "image": "data/images/93316ab9c8d3569b7f6fd544b2c0fc43.png",
       "summary": "Summary unavailable."
     }
   ],
