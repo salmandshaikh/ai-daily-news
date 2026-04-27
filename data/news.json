@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-26T20:26:16.625326",
+  "updated": "2026-04-27T01:19:43.976722",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "description": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "image": "data/images/f581c5ca3877fdd65df1feb7affab515.png",
+      "title": "Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "published": "Sun, 26 Apr 2026 16:00:00 GMT",
+      "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "image": "data/images/27e32bfa00fa6aa80db4d0b2e5f5910f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,11 +24,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "image": "data/images/193002765aa706a35e7baaffd06b4947.png",
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "description": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "image": "data/images/f581c5ca3877fdd65df1feb7affab515.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
       "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "image": "data/images/00bb844fad2b2557346619c04d426eca.png",
+      "description": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "image": "data/images/9a6ae8a397c251c012241545ea1a037d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "published": "2026-04-26T16:57:56",
+      "title": "Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "published": "2026-04-25T18:41:03",
       "description": "",
-      "image": "https://anchor.host/wp-content/uploads/2026/04/godaddy-domain-handover.webp",
+      "image": "data/images/93316ab9c8d3569b7f6fd544b2c0fc43.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "published": "2026-04-27T00:34:30",
+      "description": "",
+      "image": "data/images/52557942ef7f18c1f5f7c6cc222ff59f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "published": "2026-04-26T20:03:12",
+      "description": "",
+      "image": "data/images/f4f932f06cc2751448e834d4ca00cd32.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "url": "https://github.com/sachitrafa/YourMemory",
+      "published": "2026-04-26T20:58:31",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9bf2456ce7f3c412eae524b42bd3e4666f73e6004a2522a983a4989bd58ca7a8/sachitrafa/YourMemory",
       "summary": "Summary unavailable."
     },
     {
@@ -170,62 +200,12 @@
       "description": "",
       "image": "data/images/37bfb8786e7b64f467cc9e751066b623.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
-      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "published": "2026-04-25T17:40:38",
-      "description": "",
-      "image": "data/images/0f5d18f7ffcd017fca2b49ce2387c215.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Plants can sense the sound of rain, a new study finds",
-      "url": "https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422",
-      "published": "2026-04-26T18:15:59",
-      "description": "",
-      "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-SeedSound-01-press.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "QNX on the Commodore 900 \u2013 Raiders of the lost hard drive [video]",
-      "url": "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/",
-      "published": "2026-04-26T12:55:53",
-      "description": "",
-      "image": "https://fosdem.org/2025/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GnuPG \u2013 post-quantum crypto landing in mainline",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "published": "2026-04-26T03:25:02",
-      "description": "",
-      "image": "data/images/04284244553e6c09a4746c3f48125dd4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
-      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-      "published": "2026-04-26T07:00:10",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/915fb21dc2d843d2a928dda2b272d60118669846.png?1684319250",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-26",
+    "date": "2026-04-27",
     "speakers": [
       "Alex",
       "Jordan"
