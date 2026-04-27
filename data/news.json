@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T01:19:43.976722",
+  "updated": "2026-04-27T06:21:07.703782",
   "articles": [
     {
       "source": "RSS",
@@ -34,11 +34,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Top 10 uses for Codex at work",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
       "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "image": "data/images/65f9ed8829d2d0caa4f9a01f29589b31.png",
+      "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "image": "data/images/193002765aa706a35e7baaffd06b4947.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-      "published": "2026-04-27T00:34:30",
+      "title": "AI can cost more than human workers now",
+      "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
+      "published": "2026-04-27T05:28:39",
       "description": "",
-      "image": "data/images/52557942ef7f18c1f5f7c6cc222ff59f.png",
+      "image": "data/images/13b2dd068d83b14447c97d6c4eb93cf4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: AI memory with biological decay (52% recall)",
-      "url": "https://github.com/sachitrafa/YourMemory",
-      "published": "2026-04-26T20:58:31",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/9bf2456ce7f3c412eae524b42bd3e4666f73e6004a2522a983a4989bd58ca7a8/sachitrafa/YourMemory",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "An AI agent deleted our production database. The agent's confession is below",
       "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
       "published": "2026-04-26T16:27:29",
       "description": "",
       "image": "data/images/37bfb8786e7b64f467cc9e751066b623.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "published": "2026-04-27T00:34:30",
+      "description": "",
+      "image": "data/images/52557942ef7f18c1f5f7c6cc222ff59f.png",
       "summary": "Summary unavailable."
     }
   ],
