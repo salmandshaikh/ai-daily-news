@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T13:11:29.080344",
+  "updated": "2026-04-27T17:14:10.250894",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/17d34d695b1ca92246db0dadf8438956.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "published": "Fri, 24 Apr 2026 00:00:00 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "url": "https://huggingface.co/blog/cybersecurity-openness",
-      "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "published": "2026-04-27T13:22:42",
       "description": "",
-      "image": "data/images/701af37f9866da85c952dd24a31179ff.png",
+      "image": "data/images/96dce731f798b575ef309b99a03ef423.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "published": "2026-04-27T09:57:10",
+      "description": "",
+      "image": "https://app.oravys.com/static/images/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -158,7 +178,7 @@
       "url": "https://github.com/pgbackrest/pgbackrest",
       "published": "2026-04-27T10:56:34",
       "description": "",
-      "image": "https://opengraph.githubassets.com/3b00e0ad8e3043e488867c8aab93e438e5ccb9cd41095b7573566de78e565859/pgbackrest/pgbackrest",
+      "image": "https://opengraph.githubassets.com/ebbebf683f3c6cb316a2d3d201d37632052ce5a13145c75fb7afa7b1f35f6fb2/pgbackrest/pgbackrest",
       "summary": "Summary unavailable."
     },
     {
@@ -179,26 +199,6 @@
       "published": "2026-04-25T11:39:53",
       "description": "",
       "image": "https://aschmelyun.com/storage/images/meta/blog/getting-my-daily-news-from-a-dot-matrix-printer.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
-      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-      "published": "2026-04-27T10:14:15",
-      "description": "",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69c597be55948344bd3098ce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "published": "2026-04-25T18:41:03",
-      "description": "",
-      "image": "data/images/93316ab9c8d3569b7f6fd544b2c0fc43.png",
       "summary": "Summary unavailable."
     }
   ],
