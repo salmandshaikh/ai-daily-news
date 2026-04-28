@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-28T13:22:17.768290",
+  "updated": "2026-04-28T17:27:12.620597",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "image": "data/images/d5acbf6041ce4a83da6d45c78c3572ef.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Mon, 27 Apr 2026 00:00:00 GMT",
       "description": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth\u2014an in-depth customer story on real-world AI impact.",
       "image": "data/images/453691ea92d934dbbd221247d82c004b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our principles",
-      "url": "https://openai.com/index/our-principles",
-      "published": "Sun, 26 Apr 2026 16:00:00 GMT",
-      "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "image": "data/images/27e32bfa00fa6aa80db4d0b2e5f5910f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,11 +104,11 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-      "published": "Tue, 28 Apr 2026 00:28:13 GMT",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "published": "Tue, 28 Apr 2026 15:58:57 GMT",
       "description": "",
-      "image": "data/images/44dc126324e24adf65d301d597d9b6aa.png",
+      "image": "data/images/518f3ad4409886baf10c8501fec51521.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "published": "2026-04-28T16:06:01",
+      "description": "",
+      "image": "https://aisle.com/api/media/file/OpenEMR%20-%20SOME%20post-1200x630.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "url": "https://github.com/localsend/localsend",
       "published": "2026-04-28T11:54:20",
@@ -168,7 +178,27 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "published": "2026-04-28T11:56:04",
       "description": "",
-      "image": "https://opengraph.githubassets.com/f8fb50c754320b4e91b619b3e1f0d0794ceba5f3d0bcbf0f27d847aafe31630a/microsoft/VibeVoice",
+      "image": "https://opengraph.githubassets.com/8e12ca9ce18e6412270fd6bc3a28e41b4a929ccf44a58955ef7d60e13877c761/microsoft/VibeVoice",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "published": "2026-04-28T15:49:22",
+      "description": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI's Economics Don't Make Sense",
+      "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+      "published": "2026-04-28T16:39:53",
+      "description": "",
+      "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "published": "2026-04-27T13:22:42",
+      "title": "After Spain's blackout, its shift to renewables and grid evolution power on",
+      "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
+      "published": "2026-04-28T15:55:55",
       "description": "",
-      "image": "data/images/96dce731f798b575ef309b99a03ef423.png",
+      "image": "https://i.guim.co.uk/img/media/49afeafad8a9b3553e33611124e6dc6b83ed688e/564_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7fd81906d62bfebe176977738cf752d",
       "summary": "Summary unavailable."
     },
     {
@@ -199,36 +229,6 @@
       "published": "2026-04-26T16:45:40",
       "description": "",
       "image": "data/images/e3862a8e9ad95c664201a2a83a2a53cf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "published": "2026-04-27T09:57:10",
-      "description": "",
-      "image": "https://app.oravys.com/static/images/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "url": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
-      "published": "2026-04-28T10:08:38",
-      "description": "",
-      "image": "https://www.theideasletter.org/wp-content/uploads/2026/04/20260416-underwood-secretaries-typewriters-3000-300x200.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An Update on GitHub Availability",
-      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-      "published": "2026-04-28T10:05:03",
-      "description": "",
-      "image": "https://github.blog/wp-content/uploads/2025/07/wallpaper-generic-blue.png",
       "summary": "Summary unavailable."
     }
   ],
