@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T10:04:20.030910",
+  "updated": "2026-04-28T13:22:17.768290",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "published": "2026-04-28T11:54:20",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "published": "2026-04-28T11:56:04",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/f8fb50c754320b4e91b619b3e1f0d0794ceba5f3d0bcbf0f27d847aafe31630a/microsoft/VibeVoice",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
       "published": "2026-04-27T21:55:48",
@@ -168,7 +188,17 @@
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
       "published": "2026-04-27T13:22:42",
       "description": "",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS24Aa.6dIE8/v1/1200x800.jpg",
+      "image": "data/images/96dce731f798b575ef309b99a03ef423.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The predictable failure of the QDay Prize",
+      "url": "https://algassert.com/post/2601",
+      "published": "2026-04-26T16:45:40",
+      "description": "",
+      "image": "data/images/e3862a8e9ad95c664201a2a83a2a53cf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "published": "2026-04-27T10:56:34",
+      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
+      "url": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
+      "published": "2026-04-28T10:08:38",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ee24df306cfaa9e23d289c80c1b3e507182599d8c5157161fbafbbfae3b4e12e/pgbackrest/pgbackrest",
+      "image": "https://www.theideasletter.org/wp-content/uploads/2026/04/20260416-underwood-secretaries-typewriters-3000-300x200.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "An Update on GitHub Availability",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "published": "2026-04-28T10:05:03",
+      "description": "",
+      "image": "https://github.blog/wp-content/uploads/2025/07/wallpaper-generic-blue.png",
       "summary": "Summary unavailable."
     }
   ],
