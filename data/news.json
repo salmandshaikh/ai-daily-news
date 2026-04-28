@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T17:27:12.620597",
+  "updated": "2026-04-28T20:56:27.187284",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "published": "2026-04-28T16:06:01",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "published": "2026-04-28T19:24:43",
       "description": "",
-      "image": "https://aisle.com/api/media/file/OpenEMR%20-%20SOME%20post-1200x630.jpg",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "published": "2026-04-28T18:01:21",
+      "description": "",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "title": "VibeVoice: Open-source frontier voice AI",
       "url": "https://github.com/microsoft/VibeVoice",
       "published": "2026-04-28T11:56:04",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8e12ca9ce18e6412270fd6bc3a28e41b4a929ccf44a58955ef7d60e13877c761/microsoft/VibeVoice",
+      "image": "https://opengraph.githubassets.com/820305a73dd3fefaa4eebda03844efcfa2bc52fa12689280886135e66e593a0b/microsoft/VibeVoice",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "published": "2026-04-28T15:49:22",
+      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "published": "2026-04-28T16:06:01",
       "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI's Economics Don't Make Sense",
-      "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-      "published": "2026-04-28T16:39:53",
-      "description": "",
-      "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+      "image": "https://aisle.com/api/media/file/OpenEMR%20-%20SOME%20post-1200x630.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -214,21 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "After Spain's blackout, its shift to renewables and grid evolution power on",
-      "url": "https://www.theguardian.com/world/2026/apr/28/blackout-spain-renewable-energy-grid-solar-wind",
-      "published": "2026-04-28T15:55:55",
+      "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+      "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+      "published": "2026-04-28T18:26:53",
       "description": "",
-      "image": "https://i.guim.co.uk/img/media/49afeafad8a9b3553e33611124e6dc6b83ed688e/564_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7fd81906d62bfebe176977738cf752d",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The predictable failure of the QDay Prize",
-      "url": "https://algassert.com/post/2601",
-      "published": "2026-04-26T16:45:40",
-      "description": "",
-      "image": "data/images/e3862a8e9ad95c664201a2a83a2a53cf.png",
+      "image": "https://cdn.sanity.io/images/oraw2u2c/production/ec6322df1a2861100ef5aa99f5013ce3ecff20ca-1920x1280.png?w=1200&h=630&fit=crop&auto=format",
       "summary": "Summary unavailable."
     }
   ],
