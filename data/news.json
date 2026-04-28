@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-27T20:47:09.263448",
+  "updated": "2026-04-28T01:26:19.187408",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "published": "Mon, 27 Apr 2026 14:00:00 GMT",
+      "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "image": "data/images/3d491f95704f12d72f936f98c8afc646.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Sun, 26 Apr 2026 16:00:00 GMT",
       "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
       "image": "data/images/27e32bfa00fa6aa80db4d0b2e5f5910f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.5 System Card",
-      "url": "https://openai.com/index/gpt-5-5-system-card",
-      "published": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "published": "Tue, 28 Apr 2026 00:28:13 GMT",
+      "description": "",
+      "image": "data/images/44dc126324e24adf65d301d597d9b6aa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "published": "Mon, 27 Apr 2026 00:00:00 GMT",
@@ -134,16 +144,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-      "url": "https://huggingface.co/blog/nvidia/gemma4",
-      "published": "Wed, 22 Apr 2026 15:40:50 GMT",
-      "description": "",
-      "image": "data/images/caa7ef5f94765567541a3b9a58e575d6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "QIMMA \u0642\u0650\u0645\u0651\u0629 \u26f0: A Quality-First Arabic LLM Leaderboard",
       "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "published": "Tue, 21 Apr 2026 10:09:58 GMT",
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-      "published": "2026-04-27T11:43:59",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "published": "2026-04-27T21:55:48",
       "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108279325-1773812817915-gettyimages-2255015559-img_4584.jpeg?v=1773812854&w=1920&h=1080",
+      "image": "data/images/f7dcfd752a7fa4762e7f15047fa86c83.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Generative AI Vegetarianism",
+      "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+      "published": "2026-04-28T00:07:39",
+      "description": "",
+      "image": "https://sboots.ca/img/2026/home-cookbook-shelf-2026-03.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
-      "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
-      "published": "2026-04-25T21:17:02",
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "published": "2026-04-27T11:43:59",
       "description": "",
-      "image": "https://pdr-assets.b-cdn.net/essays/magic-by-return-of-post/psychic-featured.jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108279325-1773812817915-gettyimages-2255015559-img_4584.jpeg?v=1773812854&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
@@ -198,14 +208,24 @@
       "url": "https://github.com/pgbackrest/pgbackrest",
       "published": "2026-04-27T10:56:34",
       "description": "",
-      "image": "https://opengraph.githubassets.com/1e0da627f602784b907eaa63026f7b80569d13ff9ba31b187a3437832e3f8303/pgbackrest/pgbackrest",
+      "image": "https://opengraph.githubassets.com/20d3405b143a10998cbe7f17a8f56b62ba1a91d08619e361333011fd1abb289d/pgbackrest/pgbackrest",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Magic by return of post: How mail order delivered the occult",
+      "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
+      "published": "2026-04-25T21:17:02",
+      "description": "",
+      "image": "https://pdr-assets.b-cdn.net/essays/magic-by-return-of-post/psychic-featured.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-27",
+    "date": "2026-04-28",
     "speakers": [
       "Alex",
       "Jordan"
