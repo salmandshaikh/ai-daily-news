@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T13:14:53.821021",
+  "updated": "2026-04-29T17:13:26.148141",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,36 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "published": "Wed, 29 Apr 2026 16:45:09 GMT",
+      "description": "",
+      "image": "data/images/4f9e7268edd52b8388ce0e69a21b6a53.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Granite 4.1 LLMs: How They\u2019re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "published": "Wed, 29 Apr 2026 15:01:48 GMT",
+      "description": "",
+      "image": "data/images/f76bc8557019da968ece68c470885d5a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "DeepInfra on Hugging Face Inference Providers \ud83d\udd25",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "published": "Wed, 29 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/e3d81ad3309efeef2096137350980a82.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "published": "Tue, 28 Apr 2026 15:58:57 GMT",
@@ -122,43 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "published": "Fri, 24 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why AI companies want you to be afraid of them",
+      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "published": "2026-04-29T15:26:01",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "published": "Thu, 23 Apr 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/d086582243815d19a3d8e08ae96a7034.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "QIMMA \u0642\u0650\u0645\u0651\u0629 \u26f0: A Quality-First Arabic LLM Leaderboard",
-      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "published": "Tue, 21 Apr 2026 10:09:58 GMT",
-      "description": "",
-      "image": "data/images/e452b6672db0da97c67889bbcb74d8c8.png",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0nh5hny.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-      "published": "2026-04-29T12:38:50",
+      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+      "published": "2026-04-29T15:13:44",
       "description": "",
-      "image": "data/images/f99283d4e5bcb36b21b29c966729e3f3.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!gNX3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d7bc6e6-ce29-42ec-a006-e56d38bedcd8_1600x800.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+      "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+      "published": "2026-04-29T16:01:51",
+      "description": "",
+      "image": "https://interfaze.ai/api/og?title=Introducing%20SOB%3A%20A%20Multi-Source%20Structured%20Output%20Benchmark%20for%20LLMs",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "published": "2026-04-29T12:43:12",
+      "description": "",
+      "image": "data/images/0d9c62cf2bc2a8faf74108626a26e532.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+      "published": "2026-04-29T15:11:12",
+      "description": "",
+      "image": "https://i.guim.co.uk/img/media/24c97e857c1d4fe8cd59ee7faf398aec7e503ec4/449_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d1556ffc195946535d4160f4d3b8c3c",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Withnail's Coat and I",
       "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
       "published": "2026-04-27T19:27:47",
       "description": "",
       "image": "data/images/b5639e757dd4e0ad6747c1605975a453.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "published": "2026-04-28T19:24:43",
-      "description": "",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "published": "2026-04-27T21:55:48",
-      "description": "",
-      "image": "data/images/f7dcfd752a7fa4762e7f15047fa86c83.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-      "published": "2026-04-27T13:54:47",
-      "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/NewNeuroplasticity-crMarkBelan_YaseminSaplakoglu-Social.jpg",
       "summary": "Summary unavailable."
     }
   ],
