@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-28T20:56:27.187284",
+  "updated": "2026-04-29T01:29:03.703057",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Mon, 27 Apr 2026 00:00:00 GMT",
       "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems\u2014boosting engineering output and reducing context switching.",
       "image": "data/images/4944f7d5951dc67acb5f2f99e9d61aa4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "description": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth\u2014an in-depth customer story on real-world AI impact.",
-      "image": "data/images/453691ea92d934dbbd221247d82c004b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "ChatGPT serves ads. Here's the full attribution loop",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "published": "2026-04-28T23:54:14",
+      "description": "",
+      "image": "data/images/3ad10c07d0fd6708a2ac1fee63185a0c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
       "published": "2026-04-28T19:24:43",
@@ -164,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude.ai unavailable and elevated errors on the API",
-      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-      "published": "2026-04-28T18:01:21",
+      "title": "We decreased our LLM costs with Opus",
+      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "published": "2026-04-29T00:57:12",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "image": "https://mendral.com/og?title=We%20Upgraded%20to%20a%20Frontier%20Model%20and%20Our%20Costs%20Went%20Down",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "published": "2026-04-27T13:54:47",
+      "description": "",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/NewNeuroplasticity-crMarkBelan_YaseminSaplakoglu-Social.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -188,17 +208,7 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "published": "2026-04-28T11:56:04",
       "description": "",
-      "image": "https://opengraph.githubassets.com/820305a73dd3fefaa4eebda03844efcfa2bc52fa12689280886135e66e593a0b/microsoft/VibeVoice",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "published": "2026-04-28T16:06:01",
-      "description": "",
-      "image": "https://aisle.com/api/media/file/OpenEMR%20-%20SOME%20post-1200x630.jpg",
+      "image": "https://opengraph.githubassets.com/d2ebfe9c1acf36c4787801d018f981e0392a811362c981384511c986f65b0e38/microsoft/VibeVoice",
       "summary": "Summary unavailable."
     },
     {
@@ -214,18 +224,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
-      "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-      "published": "2026-04-28T18:26:53",
+      "title": "An update on GitHub availability",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "published": "2026-04-28T10:05:03",
       "description": "",
-      "image": "https://cdn.sanity.io/images/oraw2u2c/production/ec6322df1a2861100ef5aa99f5013ce3ecff20ca-1920x1280.png?w=1200&h=630&fit=crop&auto=format",
+      "image": "https://github.blog/wp-content/uploads/2025/07/wallpaper-generic-blue.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "published": "2026-04-28T18:01:21",
+      "description": "",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-28",
+    "date": "2026-04-29",
     "speakers": [
       "Alex",
       "Jordan"
