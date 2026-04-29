@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-29T09:54:40.133168",
+  "updated": "2026-04-29T13:14:53.821021",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "image": "data/images/d5acbf6041ce4a83da6d45c78c3572ef.png",
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "published": "Wed, 29 Apr 2026 04:00:00 GMT",
+      "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "image": "data/images/c90935ff242c6d2d13b20fd2b8401859.png",
       "summary": "Summary unavailable."
     },
     {
@@ -19,6 +19,16 @@
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
       "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
       "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "image": "data/images/d5acbf6041ce4a83da6d45c78c3572ef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Mon, 27 Apr 2026 06:00:00 GMT",
       "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
       "image": "data/images/28e4e9faafa21d8565f6151a49c04649.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "An open-source spec for orchestration: Symphony",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems\u2014boosting engineering output and reducing context switching.",
-      "image": "data/images/4944f7d5951dc67acb5f2f99e9d61aa4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "published": "2026-04-29T12:38:50",
+      "description": "",
+      "image": "data/images/f99283d4e5bcb36b21b29c966729e3f3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "published": "2026-04-28T23:54:14",
@@ -184,16 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-      "published": "2026-04-27T13:54:47",
-      "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/NewNeuroplasticity-crMarkBelan_YaseminSaplakoglu-Social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
       "published": "2026-04-27T21:55:48",
@@ -204,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "published": "2026-04-28T11:54:20",
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "published": "2026-04-27T13:54:47",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/NewNeuroplasticity-crMarkBelan_YaseminSaplakoglu-Social.jpg",
       "summary": "Summary unavailable."
     }
   ],
