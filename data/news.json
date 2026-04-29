@@ -1,16 +1,6 @@
 {
-  "updated": "2026-04-29T01:29:03.703057",
+  "updated": "2026-04-29T06:15:57.064992",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
       "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
       "image": "data/images/d5acbf6041ce4a83da6d45c78c3572ef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT serves ads. Here's the full attribution loop",
+      "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "published": "2026-04-28T23:54:14",
       "description": "",
-      "image": "data/images/3ad10c07d0fd6708a2ac1fee63185a0c.png",
+      "image": "data/images/830eee84e8f7dba96d8ce9b63b8001bf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Withnail's Coat and I",
+      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+      "published": "2026-04-27T19:27:47",
+      "description": "",
+      "image": "data/images/b5639e757dd4e0ad6747c1605975a453.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,16 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We decreased our LLM costs with Opus",
-      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-      "published": "2026-04-29T00:57:12",
-      "description": "",
-      "image": "https://mendral.com/og?title=We%20Upgraded%20to%20a%20Frontier%20Model%20and%20Our%20Costs%20Went%20Down",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
       "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
       "published": "2026-04-27T13:54:47",
@@ -194,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "published": "2026-04-28T11:54:20",
+      "title": "We decreased our LLM costs with Opus",
+      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "published": "2026-04-29T00:57:12",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "VibeVoice: Open-source frontier voice AI",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "published": "2026-04-28T11:56:04",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/d2ebfe9c1acf36c4787801d018f981e0392a811362c981384511c986f65b0e38/microsoft/VibeVoice",
+      "image": "https://mendral.com/og?title=We%20Upgraded%20to%20a%20Frontier%20Model%20and%20Our%20Costs%20Went%20Down",
       "summary": "Summary unavailable."
     },
     {
@@ -224,6 +214,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "published": "2026-04-28T11:54:20",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "An update on GitHub availability",
       "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
       "published": "2026-04-28T10:05:03",
@@ -234,11 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude.ai unavailable and elevated errors on the API",
-      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-      "published": "2026-04-28T18:01:21",
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "published": "2026-04-28T11:56:04",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "image": "https://opengraph.githubassets.com/d681a16f3a7676e2c39e9c99ab41ef318d224eb0b03ad376a06795faf04a536a/microsoft/VibeVoice",
       "summary": "Summary unavailable."
     }
   ],
