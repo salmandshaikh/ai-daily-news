@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-30T01:27:51.335113",
+  "updated": "2026-04-30T06:21:31.375776",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "published": "Wed, 29 Apr 2026 20:00:00 GMT",
+      "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "image": "data/images/27432bbd918dfee6ba6ff95a974ef987.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "url": "https://openai.com/index/openai-on-aws",
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "published": "Mon, 27 Apr 2026 14:00:00 GMT",
-      "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "image": "data/images/3d491f95704f12d72f936f98c8afc646.png",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,47 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Copy Fail \u2013 CVE-2026-31431",
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "published": "2026-04-30T01:44:56",
+      "description": "",
+      "image": "data/images/cb97540f5e471e6b7dd9aee0d90aa1f4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "published": "2026-04-30T03:11:51",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/5c166c29aceab8167658d6c62456d8947bc29bf4cf308e23c7cfd0f540fda7eb/cauchy221/Alignment-Whack-a-Mole-Code",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "published": "2026-04-27T21:35:07",
+      "description": "",
+      "image": "data/images/bcfd9e2a588c24b0f1c850d109563eaa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "published": "2026-04-30T02:15:47",
+      "description": "",
+      "image": "data/images/79a5d66c82ad3ed7bcf011a5359e4caf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Copy Fail",
       "url": "https://copy.fail/",
       "published": "2026-04-29T18:13:53",
       "description": "",
@@ -164,21 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude.ai and API Unavailable",
-      "url": "https://status.claude.com/incidents/2gf1jpyty350",
-      "published": "2026-04-30T01:21:03",
+      "title": "Mike: open-source legal AI",
+      "url": "https://mikeoss.com/",
+      "published": "2026-04-30T00:56:23",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
-      "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-      "published": "2026-04-29T21:11:57",
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "published": "2026-04-30T01:01:55",
       "description": "",
-      "image": "data/images/5ee792b23fd1af8bbaa44f75a6d20cf1.png",
+      "image": "https://www.flyingmag.com/wp-content/uploads/sites/2/2026/04/IMG_2373-1024x768.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A grounded conceptual model for ownership types in Rust",
+      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+      "published": "2026-04-30T01:47:19",
+      "description": "",
+      "image": "data/images/3a4b283fb33a842d688523415432ab70.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,16 +239,6 @@
       "published": "2026-04-29T17:44:21",
       "description": "",
       "image": "https://framerusercontent.com/images/K641b5bIV4NurO80mFXTXCf3h0.png?width=1508&height=1113",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What can we gain by losing infinity?",
-      "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-      "published": "2026-04-29T15:16:17",
-      "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Anti-Infinity-cr-Kristina-Armitage-Social.jpg",
       "summary": "Summary unavailable."
     }
   ],
