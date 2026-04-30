@@ -1,6 +1,16 @@
 {
-  "updated": "2026-04-30T13:13:52.801735",
+  "updated": "2026-04-30T17:07:17.053148",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "published": "Thu, 30 Apr 2026 00:00:00 GMT",
+      "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -34,21 +44,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "url": "https://openai.com/index/openai-on-aws",
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
       "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
       "image": "data/images/d5acbf6041ce4a83da6d45c78c3572ef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "published": "Thu, 30 Apr 2026 12:14:15 +0000",
+      "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "image": "data/images/7ec1a05df6c655e1be81c722b3b55453.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Wed, 15 Apr 2026 16:03:19 +0000",
       "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
       "image": "data/images/c57a0e8fd1d5d347c03df106125e368a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-      "published": "Mon, 13 Apr 2026 15:52:13 +0000",
-      "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
-      "image": "data/images/97193d22d3fb10e7612fc872f0107d93.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "published": "2026-04-30T10:31:17",
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "published": "2026-04-30T15:31:40",
       "description": "",
-      "image": "https://firethering.com/wp-content/uploads/2026/04/Granite-4.1-IBMs-8B-Model-Is-Competing-With-Models-Four-Times-Its-Size.jpg",
+      "image": "data/images/2fa2f2676a1213cb989ee12054113607.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "published": "2026-04-27T21:35:07",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "published": "2026-04-30T16:09:26",
       "description": "",
-      "image": "data/images/bcfd9e2a588c24b0f1c850d109563eaa.png",
+      "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "published": "2026-04-30T10:31:17",
+      "description": "",
+      "image": "https://firethering.com/wp-content/uploads/2026/04/Granite-4.1-IBMs-8B-Model-Is-Competing-With-Models-Four-Times-Its-Size.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "published": "2026-04-29T18:13:53",
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "published": "2026-04-27T21:35:07",
       "description": "",
-      "image": "https://copy.fail/og.png",
+      "image": "data/images/bcfd9e2a588c24b0f1c850d109563eaa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What can we gain by losing infinity?",
+      "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+      "published": "2026-04-29T15:16:17",
+      "description": "",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Anti-Infinity-cr-Kristina-Armitage-Social.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -209,36 +229,6 @@
       "published": "2026-04-30T07:52:12",
       "description": "",
       "image": "https://datacenter.fm/_assets/social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "published": "2026-04-30T03:11:51",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/085d79c13d9a1bbb8d69a77e28a5c54f970e07c8457d78dbf75d3337f0b90d7d/cauchy221/Alignment-Whack-a-Mole-Code",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mike: open-source legal AI",
-      "url": "https://mikeoss.com/",
-      "published": "2026-04-30T00:56:23",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "published": "2026-04-30T01:01:55",
-      "description": "",
-      "image": "https://www.flyingmag.com/wp-content/uploads/sites/2/2026/04/IMG_2373-1024x768.jpeg",
       "summary": "Summary unavailable."
     }
   ],
