@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T06:21:31.375776",
+  "updated": "2026-04-30T09:56:08.246477",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "image": "data/images/d5acbf6041ce4a83da6d45c78c3572ef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Our commitment to community safety",
       "url": "https://openai.com/index/our-commitment-to-community-safety",
       "published": "Tue, 28 Apr 2026 00:00:00 GMT",
       "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
       "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "image": "data/images/d5acbf6041ce4a83da6d45c78c3572ef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,26 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "published": "2026-04-30T01:44:56",
-      "description": "",
-      "image": "data/images/cb97540f5e471e6b7dd9aee0d90aa1f4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "published": "2026-04-30T03:11:51",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/5c166c29aceab8167658d6c62456d8947bc29bf4cf308e23c7cfd0f540fda7eb/cauchy221/Alignment-Whack-a-Mole-Code",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Noctua releases official 3D CAD models for its cooling fans",
       "url": "https://www.noctua.at/en/3d-cad-models",
       "published": "2026-04-27T21:35:07",
@@ -184,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
       "published": "2026-04-30T02:15:47",
       "description": "",
-      "image": "data/images/79a5d66c82ad3ed7bcf011a5359e4caf.png",
+      "image": "data/images/98a535dd5b6efaf16842edcd8df699a7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "published": "2026-04-30T01:44:56",
+      "description": "",
+      "image": "data/images/cb97540f5e471e6b7dd9aee0d90aa1f4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "published": "2026-04-30T03:11:51",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/dc0ba95034053a27061c9182d8b9c92e91a2d59548273b89a630d020988b1b61/cauchy221/Alignment-Whack-a-Mole-Code",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Mike: open-source legal AI",
       "url": "https://mikeoss.com/",
       "published": "2026-04-30T00:56:23",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DataCenter.FM \u2013 background noise app featuring the sound of the AI bubble",
+      "url": "https://datacenter.fm/",
+      "published": "2026-04-30T07:52:12",
+      "description": "",
+      "image": "https://datacenter.fm/_assets/social.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -229,16 +239,6 @@
       "published": "2026-04-30T01:47:19",
       "description": "",
       "image": "data/images/3a4b283fb33a842d688523415432ab70.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "published": "2026-04-29T17:44:21",
-      "description": "",
-      "image": "https://framerusercontent.com/images/K641b5bIV4NurO80mFXTXCf3h0.png?width=1508&height=1113",
       "summary": "Summary unavailable."
     }
   ],
