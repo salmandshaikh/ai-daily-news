@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T20:47:03.979845",
+  "updated": "2026-05-01T01:30:37.694177",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "published": "2026-04-30T16:09:26",
+      "title": "CopyFail was not disclosed to distro developers?",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "published": "2026-04-30T16:43:47",
       "description": "",
-      "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
+      "image": "data/images/8fec744358a6b6c573b30f99f6348ff8.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CopyFail was not disclosed to Gentoo developer",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "published": "2026-04-30T16:43:47",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "published": "2026-04-30T16:09:26",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
       "summary": "Summary unavailable."
     },
     {
@@ -180,32 +180,12 @@
       "description": "",
       "image": "data/images/2fa2f2676a1213cb989ee12054113607.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Human Creativity Benchmark \u2013 Evaluating Generative AI in Creative Work",
-      "url": "https://contralabs.com/research/human-creativity-benchmark",
-      "published": "2026-04-30T18:33:03",
-      "description": "",
-      "image": "https://framerusercontent.com/assets/3VWbqj3oSlaixwW5FS0stUsdR7g.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "published": "2026-04-30T10:31:17",
-      "description": "",
-      "image": "https://firethering.com/wp-content/uploads/2026/04/Granite-4.1-IBMs-8B-Model-Is-Competing-With-Models-Four-Times-Its-Size.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "speakers": [
       "Alex",
       "Jordan"
