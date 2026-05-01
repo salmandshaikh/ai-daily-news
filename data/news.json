@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T12:47:54.177565",
+  "updated": "2026-05-01T16:42:29.356352",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "published": "2026-04-30T16:09:26",
+      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "published": "2026-05-01T16:08:53",
       "description": "",
-      "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "published": "2026-05-01T10:28:12",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+      "image": "https://www.briefs.co/wp-content/uploads/2026/04/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months.png",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +168,27 @@
       "url": "https://github.com/intel/auto-round",
       "published": "2026-05-01T09:10:02",
       "description": "",
-      "image": "https://opengraph.githubassets.com/fb35ec41fc038e01275bd20d031150d568582107cabe203ab98ec91165dda07d/intel/auto-round",
+      "image": "https://opengraph.githubassets.com/40d328980c3c1ec1118e8645bd900bd4349fbf7b90f0c5169e8fbfc312526d98/intel/auto-round",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+      "url": "https://github.com/leox255/loopsy",
+      "published": "2026-05-01T10:25:41",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4ca881c646b5da7f5f3c65b7b804c3bec034b9b1c1361eb3218585517199064f/leox255/loopsy",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "published": "2026-04-30T16:09:26",
+      "description": "",
+      "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
       "summary": "Summary unavailable."
     }
   ],
