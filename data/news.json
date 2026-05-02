@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T12:39:58.016242",
+  "updated": "2026-05-02T16:34:07.736981",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-      "published": "2026-05-02T08:54:27",
+      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "published": "2026-05-02T15:28:13",
       "description": "",
-      "image": "https://cdn.simplepdf.com/simple-pdf/assets/meta/form-copilot-welcome.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "url": "https://arxiv.org/abs/2406.11717",
+      "published": "2026-05-02T13:15:23",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Craig Venter of Human Genome Project Dies at 79",
+      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+      "published": "2026-05-02T12:08:51",
+      "description": "",
+      "image": "data/images/4797cd15184f1f9107cfda3a613c85f2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "published": "2026-04-29T22:56:10",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "published": "2026-05-02T08:54:27",
       "description": "",
-      "image": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/191:100/w_1280,c_limit/20260320-wired-eka-robotics-0429.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
-      "published": "2026-04-29T18:58:37",
-      "description": "",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71526-5/MediaObjects/41467_2026_71526_Fig1_HTML.png",
+      "image": "https://cdn.simplepdf.com/simple-pdf/assets/meta/form-copilot-welcome.png",
       "summary": "Summary unavailable."
     }
   ],
