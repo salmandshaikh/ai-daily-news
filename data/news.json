@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T20:28:57.208996",
+  "updated": "2026-05-03T01:24:51.871752",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "url": "https://hnup.date/hn-sota",
+      "published": "2026-05-02T21:25:05",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "When Dawkins met Claude \u2013 Could this AI be conscious?",
+      "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+      "published": "2026-05-01T08:36:19",
+      "description": "",
+      "image": "https://unherd.com/wp-content/uploads/2026/04/image-1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Voice-AI-for-Beginners \u2013 A curated learning path for developers",
+      "url": "https://github.com/mahimairaja/voiceai",
+      "published": "2026-05-02T22:03:15",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/1028684768/533409d7-094a-4e89-94e2-85b9730941d0",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Refusal in Language Models Is Mediated by a Single Direction",
       "url": "https://arxiv.org/abs/2406.11717",
       "published": "2026-05-02T13:15:23",
@@ -165,7 +195,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "speakers": [
       "Alex",
       "Jordan"
