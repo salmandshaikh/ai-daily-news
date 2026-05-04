@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-04T17:19:31.773257",
+  "updated": "2026-05-04T20:56:13.993063",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "published": "Mon, 04 May 2026 00:00:00 GMT",
+      "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "image": "data/images/3921990b80d4883c9e1bb7e9b7ccabb9.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 29 Apr 2026 04:00:00 GMT",
       "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
       "image": "data/images/c90935ff242c6d2d13b20fd2b8401859.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "description": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "image": "data/images/71508091229c69e08199ecd2fc6c7c9c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "published": "2026-05-04T19:42:47",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5LQivcsFcndtRl4EsbtnOC/c548a54b9bbe11c0b4d9de714f800b30/Voice_AI___SEO_card.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Let's Talk about LLMs",
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "published": "2026-05-04T17:29:39",
+      "description": "",
+      "image": "https://www.b-list.org/static/b-list/img/og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Sierra Raises $950M at $15B Valuation",
       "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
       "published": "2026-05-04T15:51:37",
@@ -179,16 +199,6 @@
       "published": "2026-05-02T05:00:12",
       "description": "",
       "image": "https://reiner.org/static/banner-medium.471c8add.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "published": "2026-05-03T23:36:11",
-      "description": "",
-      "image": "data/images/1895e7708db591db60f45d97a2585781.png",
       "summary": "Summary unavailable."
     }
   ],
