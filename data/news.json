@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T20:29:51.281141",
+  "updated": "2026-05-04T01:24:24.513110",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "published": "2026-05-03T23:36:11",
+      "description": "",
+      "image": "data/images/1895e7708db591db60f45d97a2585781.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
       "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
       "published": "2026-05-03T00:30:50",
       "description": "",
       "image": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLMs Are Not a Higher Level of Abstraction",
+      "url": "https://www.lelanthran.com/chap15/content.html",
+      "published": "2026-05-03T17:51:58",
+      "description": "",
+      "image": "data/images/9301c9d6a0c0d4554c616948a1d3fe12.png",
       "summary": "Summary unavailable."
     },
     {
@@ -170,32 +190,12 @@
       "description": "",
       "image": "https://www.scd31.com/img/electrolysis/rev3-done.webp",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Brain scans reveal 3 ADHD subtypes",
-      "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
-      "published": "2026-05-01T02:03:57",
-      "description": "",
-      "image": "data/images/200859c0ee9cda4ae01167094d9ceb0b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-      "published": "2026-04-30T22:35:36",
-      "description": "",
-      "image": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group/_jcr_content/cq:socialfeaturedimage.coreimg.jpeg/1777295241330/Menon-brain-scans.jpeg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-03",
+    "date": "2026-05-04",
     "speakers": [
       "Alex",
       "Jordan"
