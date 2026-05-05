@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-05T01:23:46.663787",
+  "updated": "2026-05-05T06:09:07.904021",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "published": "Mon, 04 May 2026 21:00:00 GMT",
+      "description": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "image": "data/images/fee0747d17a32a2de7ddd2a9bda47dde.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 29 Apr 2026 15:00:00 GMT",
       "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
       "image": "data/images/9c081595e802f9a85179a834450249f3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Cybersecurity in the Intelligence Age",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "published": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "image": "data/images/c90935ff242c6d2d13b20fd2b8401859.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "published": "2026-05-05T04:09:17",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/46ef6cece440abb4f462ee9e22417ca3efaf5993590031063c4c683c501a6e97/angelos-p/llm-from-scratch",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "published": "2026-05-05T03:43:08",
+      "description": "",
+      "image": "data/images/afe1977614fa3d41db4f1e6722dd60b6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "published": "2026-05-04T19:42:47",
@@ -164,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sierra Raises $950M at $15B Valuation",
-      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-      "published": "2026-05-04T15:51:37",
+      "title": "Y Combinator's Stake in OpenAI (0.6%)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "published": "2026-05-05T00:09:01",
       "description": "",
-      "image": "https://sierra.ai/-/cdn/image?src=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fca4jck6w%2Fproduction%2Fe6ba33e842c9c6b82954a73d3b9b464770b5e8c4-2400x1260.png&width=1200&quality=75",
+      "image": "https://daringfireball.net/graphics/df-wide-card.png",
       "summary": "Summary unavailable."
     }
   ],
