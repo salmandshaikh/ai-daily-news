@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-05T17:26:30.999500",
+  "updated": "2026-05-05T20:50:31.423949",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "description": "",
+      "image": "data/images/06556d125523ea4ded96672d82adbfcf.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Tue, 05 May 2026 10:00:00 GMT",
       "description": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
       "image": "data/images/1b6d4f6e1ebac9a31b48efa8230dd880.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "published": "Tue, 05 May 2026 00:00:00 GMT",
+      "description": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
+      "image": "data/images/353a8ee210aa3606a60b3a1e8e6818ee.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Mon, 04 May 2026 00:00:00 GMT",
       "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
       "image": "data/images/3921990b80d4883c9e1bb7e9b7ccabb9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing Advanced Account Security",
-      "url": "https://openai.com/index/advanced-account-security",
-      "published": "Thu, 30 Apr 2026 00:00:00 GMT",
-      "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from",
-      "published": "Wed, 29 Apr 2026 20:00:00 GMT",
-      "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-      "image": "data/images/27432bbd918dfee6ba6ff95a974ef987.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,16 +104,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "AI evals are becoming the new compute bottleneck",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "published": "Wed, 29 Apr 2026 16:45:09 GMT",
-      "description": "",
-      "image": "data/images/4f9e7268edd52b8388ce0e69a21b6a53.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "Granite 4.1 LLMs: How They\u2019re Built",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "published": "Wed, 29 Apr 2026 15:01:48 GMT",
@@ -152,6 +142,16 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "published": "Fri, 24 Apr 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Three Inverse Laws of AI",
@@ -159,46 +159,6 @@
       "published": "2026-05-05T15:27:18",
       "description": "",
       "image": "data/images/04c99b580c4956590f18c526f1544f27.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "published": "2026-04-30T13:21:43",
-      "description": "",
-      "image": "https://distr.sh/_astro/thumb.C3Sy6lvp_Z19EmG1.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Product Graveyard",
-      "url": "https://tooldirectory.ai/ai-graveyard",
-      "published": "2026-05-05T13:00:47",
-      "description": "",
-      "image": "data/images/dcaded74cb0c1f4fdc347ff9be8f9600.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "published": "2026-05-05T09:30:22",
-      "description": "",
-      "image": "https://storage.ghost.io/c/55/c6/55c640b8-7cdc-45a4-965d-3d691ea2071f/content/images/size/w1200/2026/05/monolith-leaking-tokens.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI didn't delete your database, you did",
-      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "published": "2026-05-05T14:07:50",
-      "description": "",
-      "image": "https://cdn.idiallo.com/images/assets/652/hero.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -214,21 +174,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "published": "2026-05-04T19:42:47",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2604.26752",
+      "published": "2026-05-05T17:52:31",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5LQivcsFcndtRl4EsbtnOC/c548a54b9bbe11c0b4d9de714f800b30/Voice_AI___SEO_card.png?w=1600&h=900&fit=fill",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "published": "2026-05-05T03:43:08",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "published": "2026-05-05T18:13:14",
       "description": "",
-      "image": "data/images/afe1977614fa3d41db4f1e6722dd60b6.png",
+      "image": "https://paletteinspiration.com/og-default.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "published": "2026-05-05T09:30:22",
+      "description": "",
+      "image": "https://storage.ghost.io/c/55/c6/55c640b8-7cdc-45a4-965d-3d691ea2071f/content/images/size/w1200/2026/05/monolith-leaking-tokens.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "published": "2026-04-30T13:21:43",
+      "description": "",
+      "image": "https://distr.sh/_astro/thumb.C3Sy6lvp_Z19EmG1.webp",
       "summary": "Summary unavailable."
     }
   ],
