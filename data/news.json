@@ -1,16 +1,6 @@
 {
-  "updated": "2026-05-06T10:06:45.516099",
+  "updated": "2026-05-06T13:22:38.584896",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "description": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "image": "data/images/1b6d4f6e1ebac9a31b48efa8230dd880.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,26 @@
       "published": "Tue, 05 May 2026 10:00:00 GMT",
       "description": "",
       "image": "data/images/06556d125523ea4ded96672d82adbfcf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "image": "data/images/0f95c9c18300848067c75f7893077f63.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "description": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "image": "data/images/1b6d4f6e1ebac9a31b48efa8230dd880.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Mon, 04 May 2026 21:00:00 GMT",
       "description": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
       "image": "data/images/fee0747d17a32a2de7ddd2a9bda47dde.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "published": "Mon, 04 May 2026 00:00:00 GMT",
-      "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-      "image": "data/images/3921990b80d4883c9e1bb7e9b7ccabb9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,21 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
-      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "published": "2026-05-05T20:16:35",
+      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "published": "2026-05-06T12:00:24",
       "description": "",
-      "image": "data/images/770ff6fbeb13c2ff79974530de7c0017.png",
+      "image": "data/images/3c868b83fe4c15605007fab18c55c35b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "published": "2026-05-06T01:38:44",
+      "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "published": "2026-05-05T20:16:35",
       "description": "",
-      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
+      "image": "data/images/770ff6fbeb13c2ff79974530de7c0017.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "published": "2026-05-03T15:28:48",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "published": "2026-05-06T01:38:44",
       "description": "",
-      "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
+      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -214,21 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "url": "https://paletteinspiration.com/",
-      "published": "2026-05-05T18:13:14",
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "published": "2026-05-03T15:28:48",
       "description": "",
-      "image": "https://paletteinspiration.com/og-default.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "published": "2026-05-05T17:52:31",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
       "summary": "Summary unavailable."
     }
   ],
