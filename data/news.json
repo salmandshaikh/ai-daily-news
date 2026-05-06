@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-06T13:22:38.584896",
+  "updated": "2026-05-06T17:19:09.082250",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "description": "",
-      "image": "data/images/06556d125523ea4ded96672d82adbfcf.png",
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "description": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "image": "data/images/b5ecbc06dbd14b1555ba3206771d74c6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -19,6 +19,16 @@
       "published": "Tue, 05 May 2026 10:00:00 GMT",
       "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
       "image": "data/images/0f95c9c18300848067c75f7893077f63.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "description": "",
+      "image": "data/images/06556d125523ea4ded96672d82adbfcf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Tue, 05 May 2026 00:00:00 GMT",
       "description": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
       "image": "data/images/353a8ee210aa3606a60b3a1e8e6818ee.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "published": "Mon, 04 May 2026 21:00:00 GMT",
-      "description": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "image": "data/images/fee0747d17a32a2de7ddd2a9bda47dde.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,41 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "url": "https://play.templatical.com",
+      "published": "2026-05-06T16:20:00",
+      "description": "",
+      "image": "https://play.templatical.com/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Tools",
       "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
       "published": "2026-05-06T12:00:24",
       "description": "",
-      "image": "data/images/3c868b83fe4c15605007fab18c55c35b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
-      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "published": "2026-05-05T20:16:35",
-      "description": "",
-      "image": "data/images/770ff6fbeb13c2ff79974530de7c0017.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "published": "2026-05-05T15:27:18",
-      "description": "",
-      "image": "data/images/04c99b580c4956590f18c526f1544f27.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "published": "2026-05-06T01:38:44",
-      "description": "",
-      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
+      "image": "data/images/b98202e1fe043727ff201bd9f0dfc614.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "published": "2026-05-03T15:28:48",
+      "title": "Show HN: Adam \u2013 An embeddable cross-platform AI agent library",
+      "url": "https://github.com/sqliteai/adam",
+      "published": "2026-05-06T12:56:29",
       "description": "",
-      "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
+      "image": "https://opengraph.githubassets.com/3320f0f7b94b70590948f45c7ff68e2dbd29187a70f49ddecc902370d00fe5af/sqliteai/adam",
       "summary": "Summary unavailable."
     }
   ],
