@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T01:22:48.349673",
+  "updated": "2026-05-06T06:24:23.010694",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "published": "2026-05-06T03:10:33",
+      "description": "",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "published": "2026-05-06T01:38:44",
+      "description": "",
+      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
       "published": "2026-05-05T15:27:18",
       "description": "",
       "image": "data/images/04c99b580c4956590f18c526f1544f27.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "published": "2026-05-03T15:28:48",
+      "description": "",
+      "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "published": "2026-05-05T17:52:31",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Past Ferrari Models, 1947\u20132023",
-      "url": "https://www.ferrari.com/en-US/auto/past-model",
-      "published": "2026-05-03T18:09:34",
-      "description": "",
-      "image": "https://cdn.ferrari.com/cms/network/media/img/resize/5defad3d7aa1855022678aad-ferrari-dino-246-1960-thumb?width=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
       "published": "2026-05-05T07:34:55",
       "description": "",
       "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "published": "2026-05-05T09:30:22",
-      "description": "",
-      "image": "https://storage.ghost.io/c/55/c6/55c640b8-7cdc-45a4-965d-3d691ea2071f/content/images/size/w1200/2026/05/monolith-leaking-tokens.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -224,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
-      "published": "2026-05-05T22:43:47",
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "published": "2026-05-05T09:30:22",
       "description": "",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/05/Copilot-for-gaming.jpg",
+      "image": "https://storage.ghost.io/c/55/c6/55c640b8-7cdc-45a4-965d-3d691ea2071f/content/images/size/w1200/2026/05/monolith-leaking-tokens.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2604.26752",
+      "published": "2026-05-05T17:52:31",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
