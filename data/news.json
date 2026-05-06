@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-06T17:19:09.082250",
+  "updated": "2026-05-06T21:01:31.421400",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "description": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "image": "data/images/88f567f851817370b260bcf1ee41c4e3.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +19,6 @@
       "published": "Wed, 06 May 2026 00:00:00 GMT",
       "description": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
       "image": "data/images/b5ecbc06dbd14b1555ba3206771d74c6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "image": "data/images/0f95c9c18300848067c75f7893077f63.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "published": "Tue, 05 May 2026 00:00:00 GMT",
-      "description": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
-      "image": "data/images/353a8ee210aa3606a60b3a1e8e6818ee.png",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "published": "Tue, 05 May 2026 10:00:00 GMT",
+      "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "image": "data/images/0f95c9c18300848067c75f7893077f63.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "published": "Wed, 06 May 2026 19:06:55 GMT",
+      "description": "",
+      "image": "data/images/e1e682a743029e7d31b2c91e931825a6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
       "published": "Wed, 06 May 2026 00:00:00 GMT",
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "published": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/17d34d695b1ca92246db0dadf8438956.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "published": "2026-05-06T03:10:33",
+      "title": "Learning the Integral of a Diffusion Model",
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "published": "2026-05-06T18:46:27",
       "description": "",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
+      "image": "https://sander.ai/images/map.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Tools",
+      "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
       "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
       "published": "2026-05-06T12:00:24",
       "description": "",
-      "image": "data/images/b98202e1fe043727ff201bd9f0dfc614.png",
+      "image": "data/images/4eac1605301d40f49eee7520d22e54e0.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "published": "2026-05-05T07:34:55",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "published": "2026-05-06T03:10:33",
       "description": "",
-      "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Adam \u2013 An embeddable cross-platform AI agent library",
-      "url": "https://github.com/sqliteai/adam",
-      "published": "2026-05-06T12:56:29",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/3320f0f7b94b70590948f45c7ff68e2dbd29187a70f49ddecc902370d00fe5af/sqliteai/adam",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
       "summary": "Summary unavailable."
     }
   ],
