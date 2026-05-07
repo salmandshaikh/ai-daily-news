@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T13:23:00.493496",
+  "updated": "2026-05-07T17:29:37.448580",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,26 @@
       "published": "Thu, 07 May 2026 11:00:00 GMT",
       "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
       "image": "data/images/09a8c34e08190f3074d2520cf8909be8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "published": "Thu, 07 May 2026 10:00:00 GMT",
+      "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "image": "data/images/f2b5ab0046fc8c2b8ad4d7f62b707fa3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "image": "data/images/6766c48fc8a10ea668c8266088142f7a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -33,22 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How frontier enterprises are building an AI advantage",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "image": "data/images/b5ecbc06dbd14b1555ba3206771d74c6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "image": "data/images/6766c48fc8a10ea668c8266088142f7a.png",
+      "source_name": "Google DeepMind News",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "published": "Wed, 06 May 2026 10:43:49 +0000",
+      "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Tue, 21 Apr 2026 14:54:15 +0000",
       "description": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
       "image": "data/images/2fffbf37b77dc07898da72bd58b8df77.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "published": "Wed, 15 Apr 2026 16:03:19 +0000",
-      "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-      "image": "data/images/c57a0e8fd1d5d347c03df106125e368a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "published": "2026-05-07T15:56:33",
+      "description": "",
+      "image": "data/images/fd1eef07bdf9767a22f13f2627e43c84.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
       "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
       "published": "2026-05-07T12:01:13",
@@ -164,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "published": "2026-05-07T03:46:15",
+      "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "published": "2026-05-07T15:23:23",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/JHeDsYJt8RPWBecMPr5u28-2560-80.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "published": "2026-05-07T07:15:11",
+      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+      "url": "https://arxiv.org/abs/2605.03546",
+      "published": "2026-05-07T03:46:15",
       "description": "",
-      "image": "https://unsloth.ai/cgi/image/how_to_make_llm_faster_U2z2dRaYlhanzK1QvFDPI.png?format=raw",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
