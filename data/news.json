@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-07T10:12:19.139274",
+  "updated": "2026-05-07T13:23:00.493496",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "published": "Thu, 07 May 2026 11:00:00 GMT",
+      "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "image": "data/images/09a8c34e08190f3074d2520cf8909be8.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +19,6 @@
       "published": "Wed, 06 May 2026 00:00:00 GMT",
       "description": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "image": "data/images/88f567f851817370b260bcf1ee41c4e3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How frontier enterprises are building an AI advantage",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "image": "data/images/b5ecbc06dbd14b1555ba3206771d74c6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "image": "data/images/6766c48fc8a10ea668c8266088142f7a.png",
+      "description": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "image": "data/images/b5ecbc06dbd14b1555ba3206771d74c6.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "image": "data/images/0f95c9c18300848067c75f7893077f63.png",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "image": "data/images/6766c48fc8a10ea668c8266088142f7a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+      "published": "2026-05-07T12:01:13",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/0fe38684749dcb015a0cf53fc953444d330e5ff7.png?1699312985",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
       "url": "https://arxiv.org/abs/2605.03546",
       "published": "2026-05-07T03:46:15",
@@ -169,26 +179,6 @@
       "published": "2026-05-07T07:15:11",
       "description": "",
       "image": "https://unsloth.ai/cgi/image/how_to_make_llm_faster_U2z2dRaYlhanzK1QvFDPI.png?format=raw",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-      "published": "2026-05-07T08:56:51",
-      "description": "",
-      "image": "data/images/cca45427ad2d849b79fa85a0f33fcd4a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Learning the Integral of a Diffusion Model",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "published": "2026-05-06T18:46:27",
-      "description": "",
-      "image": "https://sander.ai/images/map.jpg",
       "summary": "Summary unavailable."
     }
   ],
