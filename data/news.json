@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T06:29:16.533674",
+  "updated": "2026-05-07T10:12:19.139274",
   "articles": [
     {
       "source": "RSS",
@@ -9,26 +9,6 @@
       "published": "Wed, 06 May 2026 00:00:00 GMT",
       "description": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "image": "data/images/88f567f851817370b260bcf1ee41c4e3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "image": "data/images/6766c48fc8a10ea668c8266088142f7a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +24,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "published": "Wed, 06 May 2026 00:00:00 GMT",
+      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "image": "data/images/6766c48fc8a10ea668c8266088142f7a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
       "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "description": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "image": "data/images/1b6d4f6e1ebac9a31b48efa8230dd880.png",
+      "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "image": "data/images/0f95c9c18300848067c75f7893077f63.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,21 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Learning the Integral of a Diffusion Model",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "published": "2026-05-06T18:46:27",
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "published": "2026-05-07T07:15:11",
       "description": "",
-      "image": "https://sander.ai/images/map.jpg",
+      "image": "https://unsloth.ai/cgi/image/how_to_make_llm_faster_U2z2dRaYlhanzK1QvFDPI.png?format=raw",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "url": "https://play.templatical.com",
-      "published": "2026-05-06T16:20:00",
+      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+      "published": "2026-05-07T08:56:51",
       "description": "",
-      "image": "https://play.templatical.com/og-image.png",
+      "image": "data/images/cca45427ad2d849b79fa85a0f33fcd4a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Learning the Integral of a Diffusion Model",
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "published": "2026-05-06T18:46:27",
+      "description": "",
+      "image": "https://sander.ai/images/map.jpg",
       "summary": "Summary unavailable."
     }
   ],
