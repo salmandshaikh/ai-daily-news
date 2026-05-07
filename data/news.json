@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T17:29:37.448580",
+  "updated": "2026-05-07T20:55:01.537712",
   "articles": [
     {
       "source": "RSS",
@@ -24,31 +24,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60\u201390 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "image": "data/images/6766c48fc8a10ea668c8266088142f7a.png",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "Meet the ChatGPT Futures Class of 2026\u201426 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-      "image": "data/images/88f567f851817370b260bcf1ee41c4e3.png",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "image": "data/images/c1a2091c190741e89d46e9111b579b78.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "description": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "image": "data/images/ec8c762d7df60c05536506e4fde2bbb6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "published": "2026-05-07T15:23:23",
+      "description": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/JHeDsYJt8RPWBecMPr5u28-2560-80.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
       "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
       "published": "2026-05-07T12:01:13",
@@ -174,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "published": "2026-05-07T15:23:23",
+      "title": "ProgramBench: Can language models rebuild programs from scratch?",
+      "url": "https://arxiv.org/abs/2605.03546",
+      "published": "2026-05-07T03:46:15",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/JHeDsYJt8RPWBecMPr5u28-2560-80.jpg",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "published": "2026-05-07T03:46:15",
+      "title": "Show HN: Stage CLI \u2013 An easier way of reading your AI generated changes locally",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "published": "2026-05-07T15:38:36",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://opengraph.githubassets.com/3c20af7d9f2917fb5c27306d8c1213ec9ceaa9074cd6aa5b0c5fdca29dbe93df/ReviewStage/stage-cli",
       "summary": "Summary unavailable."
     }
   ],
