@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-08T17:00:09.857622",
+  "updated": "2026-05-08T20:45:05.541426",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "published": "Fri, 08 May 2026 12:30:00 GMT",
+      "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "image": "data/images/3432d6f96ad50f0a133925279432e8ef.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 07 May 2026 00:00:00 GMT",
       "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-      "image": "data/images/c1a2091c190741e89d46e9111b579b78.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,21 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "url": "https://huggingface.co/blog/allenai/emo",
-      "published": "Fri, 08 May 2026 16:03:50 GMT",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "published": "Fri, 08 May 2026 17:41:05 GMT",
       "description": "",
-      "image": "data/images/6cd9c0dad4a51119e43a332debfe3453.png",
+      "image": "data/images/312539050b5316d2f94eb52f8a32dfcd.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm \u2014 No CUDA Required",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
-      "published": "Fri, 08 May 2026 07:54:18 GMT",
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "url": "https://huggingface.co/blog/allenai/emo",
+      "published": "Fri, 08 May 2026 16:03:50 GMT",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/6cd9c0dad4a51119e43a332debfe3453.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Git for AI Agents",
-      "url": "https://github.com/regent-vcs/re_gent",
-      "published": "2026-05-08T14:15:36",
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "published": "2026-05-08T17:55:08",
       "description": "",
-      "image": "https://opengraph.githubassets.com/32cd52b263141604ecc9d96c64a2103c94d53e67d45f90f237f23f25c99acdc5/regent-vcs/re_gent",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-      "published": "2026-05-08T13:22:33",
-      "description": "",
-      "image": "data/images/d70605e96eae9e7c3b54d5732ed43a5f.png",
+      "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "published": "2026-05-08T07:04:24",
+      "title": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "published": "2026-05-08T14:15:36",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://opengraph.githubassets.com/5c1726f5bf75186922a4e363215ba031a5d59cf3afb81ea711d7fefd787bc60a/regent-vcs/re_gent",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "published": "2026-05-08T01:02:28",
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "published": "2026-05-08T13:22:33",
       "description": "",
-      "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
+      "image": "data/images/d70605e96eae9e7c3b54d5732ed43a5f.png",
       "summary": "Summary unavailable."
     }
   ],
