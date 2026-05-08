@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T09:04:41.396081",
+  "updated": "2026-05-08T13:04:06.718573",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Introducing Trusted Contact in ChatGPT",
       "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
       "published": "Thu, 07 May 2026 00:00:00 GMT",
       "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
       "image": "data/images/c1a2091c190741e89d46e9111b579b78.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -168,7 +168,17 @@
       "url": "https://github.com/graemeg/blaise",
       "published": "2026-05-08T04:44:02",
       "description": "",
-      "image": "https://opengraph.githubassets.com/be3b0412357cd10508d8f18648e48d686a715eda7748c4f6861f8b554f6dc361/graemeg/blaise",
+      "image": "https://opengraph.githubassets.com/2b8302620576768af4ef9fe204f6d974e75fded7133243555ca32e7485d1ab40/graemeg/blaise",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "published": "2026-05-08T01:02:28",
+      "description": "",
+      "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
       "summary": "Summary unavailable."
     },
     {
@@ -189,16 +199,6 @@
       "published": "2026-05-07T19:38:36",
       "description": "",
       "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/AI.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "published": "2026-05-08T01:02:28",
-      "description": "",
-      "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
       "summary": "Summary unavailable."
     }
   ],
