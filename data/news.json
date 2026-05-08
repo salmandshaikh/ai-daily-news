@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T05:50:41.824070",
+  "updated": "2026-05-08T09:04:41.396081",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-      "image": "data/images/c1a2091c190741e89d46e9111b579b78.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Testing ads in ChatGPT",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "published": "Thu, 07 May 2026 00:00:00 GMT",
       "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "image": "data/images/c1a2091c190741e89d46e9111b579b78.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm \u2014 No CUDA Required",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+      "published": "Fri, 08 May 2026 07:54:18 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "published": "Wed, 06 May 2026 19:06:55 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "published": "Tue, 28 Apr 2026 15:58:57 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ClojureScript Gets Async/Await",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "published": "2026-05-08T07:04:24",
       "description": "",
-      "image": "data/images/518f3ad4409886baf10c8501fec51521.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "url": "https://github.com/graemeg/blaise",
+      "published": "2026-05-08T04:44:02",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/be3b0412357cd10508d8f18648e48d686a715eda7748c4f6861f8b554f6dc361/graemeg/blaise",
       "summary": "Summary unavailable."
     },
     {
@@ -164,26 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "url": "https://github.com/graemeg/blaise",
-      "published": "2026-05-08T04:44:02",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b9dc1afcdf5877bdf1d1e71ca482621d47e837abdeb7d9196a29c1715074f4d3/graemeg/blaise",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Komai: a fine Matrix chat app you can get to love",
-      "url": "https://etke.cc/blog/introducing-komai",
-      "published": "2026-05-08T00:10:44",
-      "description": "",
-      "image": "https://etke.cc/img/komai/main-view.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
       "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
       "published": "2026-05-07T19:38:36",
@@ -194,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "published": "2026-05-07T15:56:33",
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "published": "2026-05-08T01:02:28",
       "description": "",
-      "image": "data/images/fd1eef07bdf9767a22f13f2627e43c84.png",
+      "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
       "summary": "Summary unavailable."
     }
   ],
