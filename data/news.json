@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-07T20:55:01.537712",
+  "updated": "2026-05-08T01:30:20.268096",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "published": "Thu, 07 May 2026 13:00:00 GMT",
+      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "image": "data/images/b43d580e5ec3e94e921d45a8466e08d6.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Introducing Trusted Contact in ChatGPT",
       "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
       "published": "Thu, 07 May 2026 00:00:00 GMT",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "OpenAI\u2019s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "image": "data/images/ec8c762d7df60c05536506e4fde2bbb6.png",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "Thu, 07 May 2026 00:00:00 GMT",
+      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Researchers discover advanced language processing in the unconscious human brain",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "published": "2026-05-07T23:06:44",
+      "description": "",
+      "image": "https://www.bcm.edu/sites/default/files/2024-07/brain-ocd.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "published": "2026-05-07T18:46:25",
+      "description": "",
+      "image": "https://rmoff.net/images/2026/05/IMG_6442.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "published": "2026-05-07T19:38:36",
+      "description": "",
+      "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/AI.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
       "published": "2026-05-07T15:56:33",
@@ -164,48 +194,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "published": "2026-05-07T15:23:23",
+      "title": "Hackers deface school login pages after claiming another Instructure hack",
+      "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+      "published": "2026-05-07T22:14:49",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/JHeDsYJt8RPWBecMPr5u28-2560-80.jpg",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
-      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
-      "published": "2026-05-07T12:01:13",
+      "title": "Tools in the Grass: Raising the next generation of crafts person",
+      "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+      "published": "2026-05-05T19:24:59",
       "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/0fe38684749dcb015a0cf53fc953444d330e5ff7.png?1699312985",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ProgramBench: Can language models rebuild programs from scratch?",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "published": "2026-05-07T03:46:15",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Stage CLI \u2013 An easier way of reading your AI generated changes locally",
-      "url": "https://github.com/ReviewStage/stage-cli",
-      "published": "2026-05-07T15:38:36",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/3c20af7d9f2917fb5c27306d8c1213ec9ceaa9074cd6aa5b0c5fdca29dbe93df/ReviewStage/stage-cli",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/03/18104335/ae8459ce-c536-4cdb-9be0-2147c861dc79_2016x1512.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "speakers": [
       "Alex",
       "Jordan"
