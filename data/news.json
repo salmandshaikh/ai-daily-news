@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T20:45:05.541426",
+  "updated": "2026-05-09T01:27:30.593806",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "published": "2026-05-07T17:11:59",
+      "description": "",
+      "image": "https://moq.dev/blog/webrtc-is-the-problem/rtt.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "published": "2026-05-08T17:55:08",
       "description": "",
@@ -164,38 +174,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Canvas online again as ShinyHunters threatens to leak schools\u2019 data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "published": "2026-05-07T22:22:21",
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "published": "2026-05-08T16:21:56",
       "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image": "data/images/c9176d488a14d659e398e76b20d7d9c0.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Git for AI Agents",
-      "url": "https://github.com/regent-vcs/re_gent",
-      "published": "2026-05-08T14:15:36",
+      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+      "published": "2026-05-08T23:37:55",
       "description": "",
-      "image": "https://opengraph.githubassets.com/5c1726f5bf75186922a4e363215ba031a5d59cf3afb81ea711d7fefd787bc60a/regent-vcs/re_gent",
+      "image": "data/images/481359868c7028b8e13cb1979064ac33.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-      "published": "2026-05-08T13:22:33",
+      "title": "All means are fair except solving the problem",
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "published": "2026-05-06T15:52:25",
       "description": "",
-      "image": "data/images/d70605e96eae9e7c3b54d5732ed43a5f.png",
+      "image": "data/images/ebf4be6b69d5f866b7563534db80f303.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-08",
+    "date": "2026-05-09",
     "speakers": [
       "Alex",
       "Jordan"
