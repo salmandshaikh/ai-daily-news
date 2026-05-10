@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T06:28:29.035530",
+  "updated": "2026-05-10T09:19:00.577711",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs corrupt your documents when you delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "published": "2026-05-09T08:44:34",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "published": "2026-05-09T02:41:42",
@@ -174,21 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meta's embrace of AI is making its employees miserable",
-      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "published": "2026-05-09T18:33:36",
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "published": "2026-05-09T08:44:34",
       "description": "",
-      "image": "data/images/614013d35d901181ed6c74e1ad4637de.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI\u2019s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "published": "2026-05-07T17:11:59",
-      "description": "",
-      "image": "https://moq.dev/blog/webrtc-is-the-problem/rtt.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
