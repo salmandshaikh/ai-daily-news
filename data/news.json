@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T17:48:37.613090",
+  "updated": "2026-05-11T21:08:08.592150",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "published": "2026-05-10T17:05:05",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "published": "2026-05-11T17:53:08",
       "description": "",
-      "image": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "url": "https://bild.ai/jobs",
-      "published": "2026-05-11T17:43:12",
-      "description": "",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/435bca2f-31b4-401a-8f43-1d2f1f2f95f4/8ce49a52-60c8-41a1-9140-92b9fdf9e614/c67014ba-e124-404e-893b-7f049bc5e253.png",
+      "image": "https://stemcell.ucla.edu/sites/default/files/images/synapses_mid-ai-carmichael-stroke-brain-2025.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
-      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "published": "2026-05-08T16:34:45",
-      "description": "",
-      "image": "https://duarteocarmo.com/images/101/cover.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
       "published": "2026-05-11T16:22:31",
@@ -204,11 +184,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "published": "2026-05-10T23:09:10",
+      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+      "published": "2026-05-11T18:12:38",
       "description": "",
-      "image": "https://jola.dev/images/og-image-2b7872671fc7c11e464dac899d8d3068.png?vsn=d",
+      "image": "data/images/e4c4c4c2cf6a1187c0711e473d03be50.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "published": "2026-05-10T17:05:05",
+      "description": "",
+      "image": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "published": "2026-05-08T16:34:45",
+      "description": "",
+      "image": "https://duarteocarmo.com/images/101/cover.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://bild.ai/jobs",
+      "published": "2026-05-11T17:43:12",
+      "description": "",
+      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/435bca2f-31b4-401a-8f43-1d2f1f2f95f4/8ce49a52-60c8-41a1-9140-92b9fdf9e614/c67014ba-e124-404e-893b-7f049bc5e253.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "If AI Writes Your Code, Why Use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "published": "2026-05-11T20:45:55",
+      "description": "",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*xhqxJyee2OyVxUmQF35RBw.png",
       "summary": "Summary unavailable."
     },
     {
@@ -224,31 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "published": "2026-05-10T23:39:55",
-      "description": "",
-      "image": "data/images/7005dafffa5babb729d8abb0a097e8ee.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "published": "2026-05-10T17:19:28",
       "description": "",
       "image": "data/images/a98bc52c0c9751cb7c0129a11279e7a2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-      "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-      "published": "2026-05-11T15:53:23",
-      "description": "",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/ucf.png",
       "summary": "Summary unavailable."
     }
   ],
