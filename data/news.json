@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T20:35:52.726772",
+  "updated": "2026-05-11T01:47:26.480930",
   "articles": [
     {
       "source": "RSS",
@@ -164,28 +164,78 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "published": "2026-05-10T23:09:10",
+      "description": "",
+      "image": "https://jola.dev/images/og-image-2b7872671fc7c11e464dac899d8d3068.png?vsn=d",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+      "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+      "published": "2026-05-11T00:10:34",
+      "description": "",
+      "image": "data/images/7dbec6f622244f491de78fdf274ebf1e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "published": "2026-05-10T23:36:48",
+      "description": "",
+      "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Productivity Fails",
+      "url": "https://blog.sshh.io/p/how-ai-productivity-fails",
+      "published": "2026-05-10T23:43:07",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!F1Q9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd8c1d4-c603-4b83-8ac1-bf4a3188d7cf_1536x1024.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "You Need AI That Reduces Maintenance Costs",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "published": "2026-05-10T23:39:55",
+      "description": "",
+      "image": "data/images/a650ce42365742ff3d7a3dd465433be4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "published": "2026-05-10T21:16:58",
+      "description": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Task Paralysis and AI",
       "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
       "published": "2026-05-10T06:20:50",
       "description": "",
       "image": "data/images/dd36d51badeebb488f33fba209ac260e.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Spain has become one of Europe\u2019s cheapest power markets",
-      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
-      "published": "2026-05-10T16:31:51",
-      "description": "",
-      "image": "data/images/ff5b500f879c26402f646e6dc54d2a4e.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-10",
+    "date": "2026-05-11",
     "speakers": [
       "Alex",
       "Jordan"
