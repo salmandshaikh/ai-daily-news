@@ -1,16 +1,6 @@
 {
-  "updated": "2026-05-11T06:57:44.530376",
+  "updated": "2026-05-11T10:51:22.523709",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "Mon, 11 May 2026 10:00:00 GMT",
-      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "image": "data/images/3eec5c2c0d3c263c037afaa0fbd2ac86.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Mon, 11 May 2026 10:00:00 GMT",
       "description": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
       "image": "data/images/cdf1d76880d2a82f0b290bcaecf185bb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "image": "data/images/3eec5c2c0d3c263c037afaa0fbd2ac86.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,7 +164,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
       "published": "2026-05-11T02:43:34",
       "description": "",
@@ -194,31 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-      "published": "2026-05-10T21:16:58",
-      "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "published": "2026-05-10T23:36:48",
-      "description": "",
-      "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Task Paralysis and AI",
       "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
       "published": "2026-05-10T06:20:50",
       "description": "",
       "image": "data/images/dd36d51badeebb488f33fba209ac260e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "published": "2026-05-10T21:16:58",
+      "description": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg",
       "summary": "Summary unavailable."
     }
   ],
