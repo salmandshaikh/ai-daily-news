@@ -1,6 +1,26 @@
 {
-  "updated": "2026-05-11T01:47:26.480930",
+  "updated": "2026-05-11T06:57:44.530376",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "image": "data/images/3eec5c2c0d3c263c037afaa0fbd2ac86.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "description": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "image": "data/images/cdf1d76880d2a82f0b290bcaecf185bb.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Thu, 07 May 2026 11:00:00 GMT",
       "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
       "image": "data/images/09a8c34e08190f3074d2520cf8909be8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "published": "Thu, 07 May 2026 10:00:00 GMT",
-      "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "image": "data/images/f2b5ab0046fc8c2b8ad4d7f62b707fa3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Thu, 07 May 2026 00:00:00 GMT",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "published": "2026-05-11T02:43:34",
+      "description": "",
+      "image": "https://cdn8.openculture.com/2024/10/03224124/The-Greatest-Shot-in-Television-1024x576.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Running local models on an M4 with 24GB memory",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
       "published": "2026-05-10T23:09:10",
@@ -174,41 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
-      "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
-      "published": "2026-05-11T00:10:34",
-      "description": "",
-      "image": "data/images/7dbec6f622244f491de78fdf274ebf1e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "published": "2026-05-10T23:36:48",
-      "description": "",
-      "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Productivity Fails",
-      "url": "https://blog.sshh.io/p/how-ai-productivity-fails",
-      "published": "2026-05-10T23:43:07",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!F1Q9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd8c1d4-c603-4b83-8ac1-bf4a3188d7cf_1536x1024.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "You Need AI That Reduces Maintenance Costs",
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
       "published": "2026-05-10T23:39:55",
       "description": "",
-      "image": "data/images/a650ce42365742ff3d7a3dd465433be4.png",
+      "image": "data/images/7005dafffa5babb729d8abb0a097e8ee.png",
       "summary": "Summary unavailable."
     },
     {
@@ -219,6 +199,16 @@
       "published": "2026-05-10T21:16:58",
       "description": "",
       "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "published": "2026-05-10T23:36:48",
+      "description": "",
+      "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg",
       "summary": "Summary unavailable."
     },
     {
