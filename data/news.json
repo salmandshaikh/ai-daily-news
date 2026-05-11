@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-11T10:51:22.523709",
+  "updated": "2026-05-11T17:48:37.613090",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published": "Mon, 11 May 2026 10:00:00 GMT",
+      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "image": "data/images/3eec5c2c0d3c263c037afaa0fbd2ac86.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -14,11 +24,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published": "Mon, 11 May 2026 10:00:00 GMT",
-      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "image": "data/images/3eec5c2c0d3c263c037afaa0fbd2ac86.png",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "published": "Mon, 11 May 2026 06:00:00 GMT",
+      "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "image": "data/images/73e202ea12c84d48db72d55408d1751e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Thu, 07 May 2026 13:00:00 GMT",
       "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
       "image": "data/images/b43d580e5ec3e94e921d45a8466e08d6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "published": "Thu, 07 May 2026 11:00:00 GMT",
-      "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "image": "data/images/09a8c34e08190f3074d2520cf8909be8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,16 +104,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "published": "Sun, 10 May 2026 18:44:11 GMT",
-      "description": "",
-      "image": "data/images/c5901d7a11455e4bee8c9fa49a840087.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "url": "https://huggingface.co/blog/allenai/emo",
       "published": "Fri, 08 May 2026 16:03:50 GMT",
@@ -152,23 +142,63 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "published": "2026-05-10T17:19:28",
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "DeepInfra on Hugging Face Inference Providers \ud83d\udd25",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "published": "Wed, 29 Apr 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/a98bc52c0c9751cb7c0129a11279e7a2.png",
+      "image": "data/images/e3d81ad3309efeef2096137350980a82.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "published": "2026-05-11T02:43:34",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "published": "2026-05-10T17:05:05",
       "description": "",
-      "image": "https://cdn8.openculture.com/2024/10/03224124/The-Greatest-Shot-in-Television-1024x576.jpg",
+      "image": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://bild.ai/jobs",
+      "published": "2026-05-11T17:43:12",
+      "description": "",
+      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/435bca2f-31b4-401a-8f43-1d2f1f2f95f4/8ce49a52-60c8-41a1-9140-92b9fdf9e614/c67014ba-e124-404e-893b-7f049bc5e253.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "published": "2026-05-11T07:26:54",
+      "description": "",
+      "image": "https://forum-uploads.privacyguidesusercontent.com/original/3X/9/8/9831576af17cf56f7f57776620c4da4b4af14b7c.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "published": "2026-05-08T16:34:45",
+      "description": "",
+      "image": "https://duarteocarmo.com/images/101/cover.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "published": "2026-05-11T16:22:31",
+      "description": "",
+      "image": "https://interfaze.ai/api/og?title=Interfaze%3A%20A%20new%20model%20architecture%20built%20for%20high%20accuracy%20at%20scale",
       "summary": "Summary unavailable."
     },
     {
@@ -184,6 +214,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "published": "2026-05-11T02:43:34",
+      "description": "",
+      "image": "https://cdn8.openculture.com/2024/10/03224124/The-Greatest-Shot-in-Television-1024x576.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
       "published": "2026-05-10T23:39:55",
@@ -194,21 +234,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Task Paralysis and AI",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "published": "2026-05-10T06:20:50",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "published": "2026-05-10T17:19:28",
       "description": "",
-      "image": "data/images/dd36d51badeebb488f33fba209ac260e.png",
+      "image": "data/images/a98bc52c0c9751cb7c0129a11279e7a2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-      "published": "2026-05-10T21:16:58",
+      "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+      "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+      "published": "2026-05-11T15:53:23",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/ucf.png",
       "summary": "Summary unavailable."
     }
   ],
