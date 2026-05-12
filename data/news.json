@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T01:29:26.500188",
+  "updated": "2026-05-12T06:31:37.764267",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "published": "2026-05-11T21:08:25",
       "description": "",
       "image": "https://tanstack.com/assets/og-C0HGjoLl.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "published": "2026-05-11T17:53:08",
-      "description": "",
-      "image": "https://stemcell.ucla.edu/sites/default/files/images/synapses_mid-ai-carmichael-stroke-brain-2025.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "published": "2026-05-11T21:04:10",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "published": "2026-05-11T17:53:08",
       "description": "",
-      "image": "https://martin.sh/content/images/size/w1200/2022/11/blog_share@3x-1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "published": "2026-05-11T07:26:54",
-      "description": "",
-      "image": "https://forum-uploads.privacyguidesusercontent.com/original/3X/9/8/9831576af17cf56f7f57776620c4da4b4af14b7c.jpeg",
+      "image": "https://stemcell.ucla.edu/sites/default/files/images/synapses_mid-ai-carmichael-stroke-brain-2025.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -208,7 +188,17 @@
       "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
       "published": "2026-05-11T13:20:14",
       "description": "",
-      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11dc-cyber2-fqhz/11dc-cyber2-fqhz-facebookJumbo.jpg",
+      "image": "data/images/4a788ecd4ede1ae6d70152385fefbaf8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "published": "2026-05-11T21:04:10",
+      "description": "",
+      "image": "https://martin.sh/content/images/size/w1200/2022/11/blog_share@3x-1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -224,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "published": "2026-05-10T17:05:05",
+      "title": "Supercomputer networking to accelerate large scale AI training",
+      "url": "https://openai.com/index/mrc-supercomputer-networking/",
+      "published": "2026-05-12T04:46:14",
       "description": "",
-      "image": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/NSCNpuBUrt6RGqH5vxTT5/424808cad42085d2f79adcb86566ae04/SEO.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -244,11 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
-      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "published": "2026-05-08T16:34:45",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "published": "2026-05-10T17:05:05",
       "description": "",
-      "image": "https://duarteocarmo.com/images/101/cover.webp",
+      "image": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
       "summary": "Summary unavailable."
     }
   ],
