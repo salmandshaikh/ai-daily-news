@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-11T21:08:08.592150",
+  "updated": "2026-05-12T01:29:26.500188",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "published": "Mon, 11 May 2026 15:00:00 GMT",
+      "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "image": "data/images/41d49cb7e54124048c5355e432a63a87.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Fri, 08 May 2026 12:30:00 GMT",
       "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
       "image": "data/images/3432d6f96ad50f0a133925279432e8ef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "published": "Thu, 07 May 2026 13:00:00 GMT",
-      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "image": "data/images/b43d580e5ec3e94e921d45a8466e08d6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "published": "Mon, 11 May 2026 23:18:26 GMT",
+      "description": "",
+      "image": "data/images/b6d7d5b088e5ec0558154dcd23d29c40.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
       "url": "https://huggingface.co/blog/allenai/emo",
       "published": "Fri, 08 May 2026 16:03:50 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "DeepInfra on Hugging Face Inference Providers \ud83d\udd25",
-      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "published": "Wed, 29 Apr 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "published": "2026-05-11T21:08:25",
       "description": "",
-      "image": "data/images/e3d81ad3309efeef2096137350980a82.png",
+      "image": "https://tanstack.com/assets/og-C0HGjoLl.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +174,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "published": "2026-05-11T20:45:55",
+      "description": "",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*xhqxJyee2OyVxUmQF35RBw.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "published": "2026-05-11T21:04:10",
+      "description": "",
+      "image": "https://martin.sh/content/images/size/w1200/2022/11/blog_share@3x-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
       "published": "2026-05-11T07:26:54",
@@ -174,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "published": "2026-05-11T16:22:31",
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "published": "2026-05-11T13:20:14",
       "description": "",
-      "image": "https://interfaze.ai/api/og?title=Interfaze%3A%20A%20new%20model%20architecture%20built%20for%20high%20accuracy%20at%20scale",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/11dc-cyber2-fqhz/11dc-cyber2-fqhz-facebookJumbo.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "published": "2026-05-11T18:12:38",
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "published": "2026-05-11T20:53:37",
       "description": "",
-      "image": "data/images/e4c4c4c2cf6a1187c0711e473d03be50.png",
+      "image": "https://thinkingmachines.ai/blog/interaction-models/thumbnails/HERO_THUMB.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,58 +234,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "published": "2026-05-11T16:22:31",
+      "description": "",
+      "image": "https://interfaze.ai/api/og?title=Interfaze%3A%20A%20new%20model%20architecture%20built%20for%20high%20accuracy%20at%20scale",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
       "published": "2026-05-08T16:34:45",
       "description": "",
       "image": "https://duarteocarmo.com/images/101/cover.webp",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "url": "https://bild.ai/jobs",
-      "published": "2026-05-11T17:43:12",
-      "description": "",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/435bca2f-31b4-401a-8f43-1d2f1f2f95f4/8ce49a52-60c8-41a1-9140-92b9fdf9e614/c67014ba-e124-404e-893b-7f049bc5e253.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "If AI Writes Your Code, Why Use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "published": "2026-05-11T20:45:55",
-      "description": "",
-      "image": "https://miro.medium.com/v2/resize:fit:1200/1*xhqxJyee2OyVxUmQF35RBw.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "published": "2026-05-11T02:43:34",
-      "description": "",
-      "image": "https://cdn8.openculture.com/2024/10/03224124/The-Greatest-Shot-in-Television-1024x576.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "published": "2026-05-10T17:19:28",
-      "description": "",
-      "image": "data/images/a98bc52c0c9751cb7c0129a11279e7a2.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-11",
+    "date": "2026-05-12",
     "speakers": [
       "Alex",
       "Jordan"
