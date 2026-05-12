@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T13:54:12.354630",
+  "updated": "2026-05-12T17:52:22.391456",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "published": "2026-05-12T15:08:40",
+      "description": "",
+      "image": "data/images/55b087a715d11693c056af2423f3d2a8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "published": "2026-05-12T15:45:20",
+      "description": "",
+      "image": "data/images/8cd3012e9eb7610d35fced3d8131be20.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "published": "2026-05-11T21:08:25",
       "description": "",
       "image": "https://tanstack.com/assets/og-C0HGjoLl.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "published": "2026-05-12T17:10:22",
+      "description": "",
+      "image": "https://www.hypercubic.ai/assets/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,31 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "published": "2026-05-11T13:20:14",
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "published": "2026-05-12T16:29:21",
       "description": "",
-      "image": "data/images/4a788ecd4ede1ae6d70152385fefbaf8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "published": "2026-05-11T21:04:10",
-      "description": "",
-      "image": "https://martin.sh/content/images/size/w1200/2022/11/blog_share@3x-1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Interaction Models",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "published": "2026-05-11T20:53:37",
-      "description": "",
-      "image": "https://thinkingmachines.ai/blog/interaction-models/thumbnails/HERO_THUMB.jpg",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-amazon-warehouse-1152x648.jpg",
       "summary": "Summary unavailable."
     }
   ],
