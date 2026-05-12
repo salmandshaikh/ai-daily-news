@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T10:20:13.401295",
+  "updated": "2026-05-12T13:54:12.354630",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+      "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+      "published": "2026-05-12T12:00:46",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/939d1d64cb270f90353202411868b201eba71d4d.png?1604781539",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "published": "2026-05-11T20:45:55",
@@ -209,36 +219,6 @@
       "published": "2026-05-11T20:53:37",
       "description": "",
       "image": "https://thinkingmachines.ai/blog/interaction-models/thumbnails/HERO_THUMB.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Words Fail (2020)",
-      "url": "https://carcinisation.com/2020/06/26/words-fail/",
-      "published": "2026-05-08T14:45:04",
-      "description": "",
-      "image": "https://carcinisation.com/wp-content/uploads/2017/08/cropped-crab.jpg?w=200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "published": "2026-05-11T16:22:31",
-      "description": "",
-      "image": "https://interfaze.ai/api/og?title=Interfaze%3A%20A%20new%20model%20architecture%20built%20for%20high%20accuracy%20at%20scale",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "published": "2026-05-10T17:05:05",
-      "description": "",
-      "image": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
       "summary": "Summary unavailable."
     }
   ],
