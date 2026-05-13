@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T01:48:00.800523",
+  "updated": "2026-05-13T06:46:32.662464",
   "articles": [
     {
       "source": "RSS",
@@ -158,7 +158,7 @@
       "url": "https://github.com/cactus-compute/needle",
       "published": "2026-05-12T18:03:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4d723d9eb3f786f4d5a631b9e33a0871ad527944d81dbc02fa08967e6875b41b/cactus-compute/needle",
+      "image": "https://opengraph.githubassets.com/d925f5901052076cbc9999ae301a03305a3e5acda84a0059517b4f6e2ff3c9a3/cactus-compute/needle",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
-      "published": "2026-05-11T20:38:40",
-      "description": "",
-      "image": "data/images/0ade4aed824d43d15ad02736abd81922.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
       "published": "2026-05-12T17:40:13",
       "description": "",
       "image": "https://lh3.googleusercontent.com/6ktOlNMbk7CGwt_Oyi8aCEfeSX1B2DJUnrMF5X9bmzo0MdX9AHqW3iCCGo4RUFX2_8eN_4U3Sam_3tnc8Q0uLK6dMmcC3j5aiAyFMe9AhwYaYF59KA=w1200-h630-n-nu-rw",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
-      "url": "https://voker.ai",
-      "published": "2026-05-12T15:45:20",
-      "description": "",
-      "image": "data/images/8cd3012e9eb7610d35fced3d8131be20.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
-      "url": "https://github.com/statewright/statewright",
-      "published": "2026-05-12T14:24:55",
+      "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "published": "2026-05-12T15:45:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/40063ec8cf1eb52eb5221900f5bcc6eb358ac40bbf60913668810dc0bb1d62e9/statewright/statewright",
+      "image": "data/images/8cd3012e9eb7610d35fced3d8131be20.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "published": "2026-05-11T20:38:40",
+      "description": "",
+      "image": "data/images/0ade4aed824d43d15ad02736abd81922.png",
       "summary": "Summary unavailable."
     }
   ],
