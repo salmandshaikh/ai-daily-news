@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-13T17:54:10.280996",
+  "updated": "2026-05-13T21:14:13.542465",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "published": "Wed, 13 May 2026 11:00:00 GMT",
+      "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "image": "data/images/3389b0d4188ed2dd6146b168b3ff76db.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,26 +19,6 @@
       "published": "Tue, 12 May 2026 15:00:00 GMT",
       "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "image": "data/images/f7ff49e3b14af672d7712021e32d15dd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "image": "data/images/3035e49637ded8db38bee75dbf5aa87f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "image": "data/images/f4cdaa89e5de03d5f3fe5986fd641654.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "published": "Mon, 11 May 2026 15:00:00 GMT",
-      "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "image": "data/images/41d49cb7e54124048c5355e432a63a87.png",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "image": "data/images/f4cdaa89e5de03d5f3fe5986fd641654.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "image": "data/images/3035e49637ded8db38bee75dbf5aa87f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Setting up a free *.city.state.us locality domain",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "published": "2026-05-13T14:45:18",
       "description": "",
       "image": "https://fredchan.org/assets/images/crow_solid.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
+      "url": "https://bitplane.net/log/2026/05/rars/",
+      "published": "2026-05-13T19:59:35",
+      "description": "",
+      "image": "data/images/68e5c35f275ef6bf2faf9419024e8029.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Making the news available at no cost is a victory",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "published": "2026-05-13T19:14:47",
+      "description": "",
+      "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FMFWKNROUFZCPDOTHJBTDE5VQAE.jpg?auth=0b197fa085388446f12129fbd4cecd789bfcdb0a95226ce20c1361d0a33d79b2&width=1200",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Haiku",
-      "url": "https://www.haiku-os.org",
-      "published": "2026-05-13T16:22:10",
-      "description": "",
-      "image": "https://www.haiku-os.org/images/haiku_600x315.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
       "published": "2026-05-12T18:03:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ea26ebfd202a2a9d36905b167b1b7e64a8e8b625807c435162f17ce3d645123c/cactus-compute/needle",
+      "image": "https://opengraph.githubassets.com/526d46075350c0efd614a1755860d753f49dcb1cf35e18644c538df8e216d4a7/cactus-compute/needle",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nailing jelly to a wall: is it possible? (2005)",
-      "url": "https://greem.co.uk/otherbits/jelly.html",
-      "published": "2026-05-09T16:50:51",
+      "title": "Meta won't let you block its AI account on Threads",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "published": "2026-05-13T20:22:21",
       "description": "",
-      "image": "data/images/1596cf428aeeb8911215b6df75270195.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "published": "2026-05-12T15:08:40",
-      "description": "",
-      "image": "https://nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise/opengraph-image?df4180d0534b7939",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "summary": "Summary unavailable."
     }
   ],
