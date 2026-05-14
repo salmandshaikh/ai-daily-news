@@ -1,6 +1,26 @@
 {
-  "updated": "2026-05-14T17:31:23.154635",
+  "updated": "2026-05-14T21:02:08.221139",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "published": "Thu, 14 May 2026 13:00:00 GMT",
+      "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "image": "data/images/66a5cdcee0d7d55030abdbdb617f87df.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "published": "Thu, 14 May 2026 00:00:00 GMT",
+      "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "image": "data/images/ea520293e345adc81d8c49edfc4d75f4.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 12 May 2026 15:00:00 GMT",
       "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "image": "data/images/f7ff49e3b14af672d7712021e32d15dd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "image": "data/images/f4cdaa89e5de03d5f3fe5986fd641654.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "image": "data/images/3fafcf6a2af61d6ac08b6a6b61daf463.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context \u2014 Best Sub-100M Retrieval Quality",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "published": "Thu, 14 May 2026 18:55:01 GMT",
+      "description": "",
+      "image": "data/images/ff053a24b7ba6d1f4acc8287ca698226.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Unlocking asynchronicity in continuous batching",
       "url": "https://huggingface.co/blog/continuous_async",
       "published": "Thu, 14 May 2026 00:00:00 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "published": "Wed, 06 May 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
@@ -164,21 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-      "published": "2026-05-14T14:49:48",
+      "title": "The AI Zombification of Universities",
+      "url": "https://www.thenewcritic.com/p/the-great-zombification",
+      "published": "2026-05-14T18:37:08",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/3jd3yz7VBpd9cM9AFR5C8A-2000-80.jpg",
+      "image": "https://substackcdn.com/image/fetch/$s_!6aMR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbba99be4-4e77-4c82-954f-50128e629d56_3866x2833.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
-      "url": "https://www.workatastartup.com/companies/terranox-ai",
-      "published": "2026-05-14T17:01:16",
+      "title": "You Don't Align an AI, You Align with It",
+      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "published": "2026-05-14T18:19:13",
       "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/3d3d9dd523f3239ccd9b34dab1057b3f047664fa.PNG?1768970656",
+      "image": "data/images/f91e2c4776b758c908a1e434d1d2e5ee.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is making me dumb",
+      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "published": "2026-05-14T18:19:28",
+      "description": "",
+      "image": "https://jpain.io/static/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,46 +199,6 @@
       "published": "2026-05-13T19:22:14",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-      "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
-      "published": "2026-05-14T13:17:57",
-      "description": "",
-      "image": "data/images/dcf9e5d6d35126c8c58ec68904e166c4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-      "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
-      "published": "2026-05-14T12:27:29",
-      "description": "",
-      "image": "data/images/08601cbd8df98017c6d03f015a9a0042.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "published": "2026-05-13T14:45:18",
-      "description": "",
-      "image": "https://fredchan.org/assets/images/crow_solid.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
-      "published": "2026-05-14T16:57:12",
-      "description": "",
-      "image": "data/images/802ae598d9d949ce152f530360016117.png",
       "summary": "Summary unavailable."
     }
   ],
