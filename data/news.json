@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T10:04:39.802365",
+  "updated": "2026-05-14T13:21:50.109618",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "image": "data/images/3035e49637ded8db38bee75dbf5aa87f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
       "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "image": "data/images/f4cdaa89e5de03d5f3fe5986fd641654.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "image": "data/images/3035e49637ded8db38bee75dbf5aa87f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Arena AI Model ELO History",
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
-      "published": "2026-05-14T03:19:05",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "published": "2026-05-12T18:03:11",
       "description": "",
-      "image": "data/images/fd604e4cfcd216318b1cf0396b409733.png",
+      "image": "https://opengraph.githubassets.com/001481f56a9468c3248d90f37fe8c7d85a9a7e84f055661a862e32943c950fb0/cactus-compute/needle",
       "summary": "Summary unavailable."
     },
     {
@@ -179,16 +179,6 @@
       "published": "2026-05-13T13:53:53",
       "description": "",
       "image": "data/images/b38fcc60a60094ec1c4991c9058ff694.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "published": "2026-05-12T18:03:11",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/3745e12c554a9786dafe631cd7c85ee53e5d57231125bd056e168175c1ea4f15/cactus-compute/needle",
       "summary": "Summary unavailable."
     }
   ],
