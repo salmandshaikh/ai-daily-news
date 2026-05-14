@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T01:50:38.179622",
+  "updated": "2026-05-14T06:40:29.244282",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Wed, 13 May 2026 11:00:00 GMT",
       "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "image": "data/images/3389b0d4188ed2dd6146b168b3ff76db.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "published": "Wed, 13 May 2026 00:00:00 GMT",
+      "description": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "image": "data/images/29172e4600e19c85827a3f11be1d5ae8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Tue, 12 May 2026 00:00:00 GMT",
       "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
       "image": "data/images/3fafcf6a2af61d6ac08b6a6b61daf463.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "image": "data/images/3035e49637ded8db38bee75dbf5aa87f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Other Half of AI Safety",
-      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "published": "2026-05-14T00:27:20",
+      "title": "Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "published": "2026-05-14T03:19:05",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!OqTc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe489daa-6478-4628-96e2-8c0894af3810_1672x941.png",
+      "image": "data/images/fd604e4cfcd216318b1cf0396b409733.png",
       "summary": "Summary unavailable."
     },
     {
@@ -188,37 +188,17 @@
       "url": "https://github.com/cactus-compute/needle",
       "published": "2026-05-12T18:03:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/88877fa836bfbba991a51b750aa0fd7c609a6bf264882287d7ce2c9aec094048/cactus-compute/needle",
+      "image": "https://opengraph.githubassets.com/2db3aee287d43f81b1a64bb04aa7ef286bd7dd298e6fb629411e97dbd2e362f0/cactus-compute/needle",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meta won't let you block its AI account on Threads",
-      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "published": "2026-05-13T20:22:21",
+      "title": "The other half of AI safety",
+      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+      "published": "2026-05-14T00:27:20",
       "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "published": "2026-05-13T21:24:14",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Making the news available at no cost is a victory",
-      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
-      "published": "2026-05-13T19:14:47",
-      "description": "",
-      "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FMFWKNROUFZCPDOTHJBTDE5VQAE.jpg?auth=0b197fa085388446f12129fbd4cecd789bfcdb0a95226ce20c1361d0a33d79b2&width=1200",
+      "image": "https://substackcdn.com/image/fetch/$s_!OqTc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe489daa-6478-4628-96e2-8c0894af3810_1672x941.png",
       "summary": "Summary unavailable."
     }
   ],
