@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T21:14:13.542465",
+  "updated": "2026-05-14T01:50:38.179622",
   "articles": [
     {
       "source": "RSS",
@@ -24,21 +24,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "image": "data/images/3fafcf6a2af61d6ac08b6a6b61daf463.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
       "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "image": "data/images/f4cdaa89e5de03d5f3fe5986fd641654.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "image": "data/images/3fafcf6a2af61d6ac08b6a6b61daf463.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The Other Half of AI Safety",
+      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+      "published": "2026-05-14T00:27:20",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!OqTc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe489daa-6478-4628-96e2-8c0894af3810_1672x941.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "published": "2026-05-13T14:45:18",
       "description": "",
       "image": "https://fredchan.org/assets/images/crow_solid.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
-      "url": "https://bitplane.net/log/2026/05/rars/",
-      "published": "2026-05-13T19:59:35",
-      "description": "",
-      "image": "data/images/68e5c35f275ef6bf2faf9419024e8029.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Making the news available at no cost is a victory",
-      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
-      "published": "2026-05-13T19:14:47",
-      "description": "",
-      "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FMFWKNROUFZCPDOTHJBTDE5VQAE.jpg?auth=0b197fa085388446f12129fbd4cecd789bfcdb0a95226ce20c1361d0a33d79b2&width=1200",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "published": "2026-05-11T01:05:59",
-      "description": "",
-      "image": "https://www.sciencedaily.com/images/1920/ultra-stainless-steel.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
       "published": "2026-05-12T18:03:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/526d46075350c0efd614a1755860d753f49dcb1cf35e18644c538df8e216d4a7/cactus-compute/needle",
+      "image": "https://opengraph.githubassets.com/88877fa836bfbba991a51b750aa0fd7c609a6bf264882287d7ce2c9aec094048/cactus-compute/needle",
       "summary": "Summary unavailable."
     },
     {
@@ -220,12 +200,32 @@
       "description": "",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "published": "2026-05-13T21:24:14",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Making the news available at no cost is a victory",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "published": "2026-05-13T19:14:47",
+      "description": "",
+      "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FMFWKNROUFZCPDOTHJBTDE5VQAE.jpg?auth=0b197fa085388446f12129fbd4cecd789bfcdb0a95226ce20c1361d0a33d79b2&width=1200",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-13",
+    "date": "2026-05-14",
     "speakers": [
       "Alex",
       "Jordan"
