@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T06:40:29.244282",
+  "updated": "2026-05-14T10:04:39.802365",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "image": "data/images/f4cdaa89e5de03d5f3fe5986fd641654.png",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "image": "data/images/3035e49637ded8db38bee75dbf5aa87f.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "published": "Tue, 12 May 2026 00:00:00 GMT",
-      "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "image": "data/images/3fafcf6a2af61d6ac08b6a6b61daf463.png",
+      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "image": "data/images/f4cdaa89e5de03d5f3fe5986fd641654.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Arena AI Model ELO History",
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
-      "published": "2026-05-14T03:19:05",
-      "description": "",
-      "image": "data/images/fd604e4cfcd216318b1cf0396b409733.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "published": "2026-05-13T14:45:18",
       "description": "",
       "image": "https://fredchan.org/assets/images/crow_solid.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "published": "2026-05-14T03:19:05",
+      "description": "",
+      "image": "data/images/fd604e4cfcd216318b1cf0396b409733.png",
       "summary": "Summary unavailable."
     },
     {
@@ -188,17 +188,7 @@
       "url": "https://github.com/cactus-compute/needle",
       "published": "2026-05-12T18:03:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2db3aee287d43f81b1a64bb04aa7ef286bd7dd298e6fb629411e97dbd2e362f0/cactus-compute/needle",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The other half of AI safety",
-      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "published": "2026-05-14T00:27:20",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!OqTc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe489daa-6478-4628-96e2-8c0894af3810_1672x941.png",
+      "image": "https://opengraph.githubassets.com/3745e12c554a9786dafe631cd7c85ee53e5d57231125bd056e168175c1ea4f15/cactus-compute/needle",
       "summary": "Summary unavailable."
     }
   ],
