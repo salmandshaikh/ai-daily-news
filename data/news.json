@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T21:02:08.221139",
+  "updated": "2026-05-15T01:47:52.158658",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "published": "2026-05-14T20:06:14",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "published": "2026-05-14T15:47:31",
@@ -164,48 +174,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The AI Zombification of Universities",
-      "url": "https://www.thenewcritic.com/p/the-great-zombification",
-      "published": "2026-05-14T18:37:08",
+      "title": "Have a Coherent AI Policy",
+      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "published": "2026-05-14T23:24:45",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!6aMR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbba99be4-4e77-4c82-954f-50128e629d56_3866x2833.jpeg",
+      "image": "data/images/912b429173aadd96dc23f63dfd8f08f0.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "You Don't Align an AI, You Align with It",
-      "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-      "published": "2026-05-14T18:19:13",
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "published": "2026-05-14T22:37:40",
       "description": "",
-      "image": "data/images/f91e2c4776b758c908a1e434d1d2e5ee.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI is making me dumb",
-      "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "published": "2026-05-14T18:19:28",
-      "description": "",
-      "image": "https://jpain.io/static/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
-      "url": "https://arxiv.org/abs/2510.03154",
-      "published": "2026-05-13T19:22:14",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://image.theregister.com/5240796.jpg?imageId=5240796&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "speakers": [
       "Alex",
       "Jordan"
