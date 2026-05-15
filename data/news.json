@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T06:54:49.699313",
+  "updated": "2026-05-15T10:11:08.733931",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "url": "https://writing.antonleicht.me/p/cut-off",
-      "published": "2026-05-15T01:08:04",
+      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "published": "2026-05-15T04:48:23",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!m84U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae51e8c7-2e50-4488-ba26-cab93af39986_1280x925.jpeg",
+      "image": "https://opengraph.githubassets.com/d19ffd40282c0b7bd02cbf598e7ed99f5427c332c977a659b70e944a596de683/GlycemicGPT/GlycemicGPT",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "RelaxAI \u2013 UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+      "url": "https://relax.ai/docs",
+      "published": "2026-05-15T09:27:26",
+      "description": "",
+      "image": "data/images/9870e3a48b9d13f375c7b7fa1945c999.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLM Policy for Rust Compiler",
-      "url": "https://github.com/rust-lang/rust-forge/pull/1040",
-      "published": "2026-05-14T23:37:21",
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "published": "2026-05-15T01:08:04",
       "description": "",
-      "image": "https://opengraph.githubassets.com/dff7aea90ee9483f3656a476ac7702b7d04c66a75f45abe6023cc69e03950a27/rust-lang/rust-forge/pull/1040",
+      "image": "https://substackcdn.com/image/fetch/$s_!m84U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae51e8c7-2e50-4488-ba26-cab93af39986_1280x925.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-      "published": "2026-05-14T22:37:40",
+      "title": "LLM Policy for Rust Compiler",
+      "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+      "published": "2026-05-14T23:37:21",
       "description": "",
-      "image": "https://image.theregister.com/5240796.jpg?imageId=5240796&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "image": "https://opengraph.githubassets.com/8c2942d0f70489c7b1d491e202fee2390d0b4cb270ad6b0c3df67e5188ea8b2f/rust-lang/rust-forge/pull/1040",
       "summary": "Summary unavailable."
     }
   ],
