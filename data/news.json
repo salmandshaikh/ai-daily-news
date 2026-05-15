@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-15T01:47:52.158658",
+  "updated": "2026-05-15T06:54:49.699313",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "published": "Thu, 14 May 2026 20:30:00 GMT",
+      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "image": "data/images/062ed5ed4f76b5feb89463717f5497b8.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 13 May 2026 00:00:00 GMT",
       "description": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
       "image": "data/images/29172e4600e19c85827a3f11be1d5ae8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How finance teams use Codex",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "published": "Tue, 12 May 2026 15:00:00 GMT",
-      "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "image": "data/images/f7ff49e3b14af672d7712021e32d15dd.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "published": "2026-05-14T20:06:14",
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "published": "2026-05-15T01:08:04",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&h=900&fit=fill",
+      "image": "https://substackcdn.com/image/fetch/$s_!m84U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae51e8c7-2e50-4488-ba26-cab93af39986_1280x925.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "published": "2026-05-15T03:56:14",
+      "description": "",
+      "image": "https://www.tristandc.com/images/vcops-2026-05-09-tandem-225.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Have a Coherent AI Policy",
-      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-      "published": "2026-05-14T23:24:45",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "published": "2026-05-14T20:06:14",
       "description": "",
-      "image": "data/images/912b429173aadd96dc23f63dfd8f08f0.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLM Policy for Rust Compiler",
+      "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+      "published": "2026-05-14T23:37:21",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/dff7aea90ee9483f3656a476ac7702b7d04c66a75f45abe6023cc69e03950a27/rust-lang/rust-forge/pull/1040",
       "summary": "Summary unavailable."
     },
     {
