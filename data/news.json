@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T17:18:44.004711",
+  "updated": "2026-05-15T20:46:56.302301",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
-      "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-      "published": "2026-05-15T16:38:50",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "published": "2026-05-15T13:39:54",
@@ -184,41 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-      "published": "2026-05-15T13:28:55",
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "published": "2026-05-15T16:51:25",
       "description": "",
-      "image": "data/images/17a4d989eeb12dd7b47ab1898ca5e69e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "published": "2026-05-15T03:56:14",
-      "description": "",
-      "image": "https://www.tristandc.com/images/vcops-2026-05-09-tandem-225.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "published": "2026-05-14T15:47:31",
-      "description": "",
-      "image": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/macos-egpu.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "published": "2026-05-14T20:06:14",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&h=900&fit=fill",
+      "image": "https://opengraph.githubassets.com/427fba4dc723eabcde82665aa205921beeaffd509535e7282d79d15d57f53d59/oven-sh/bun/issues/30719",
       "summary": "Summary unavailable."
     }
   ],
