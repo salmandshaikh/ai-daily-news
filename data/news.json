@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T20:46:56.302301",
+  "updated": "2026-05-16T01:28:21.480994",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "image": "data/images/f1469c519726e490dc72ea0203546181.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Thu, 14 May 2026 00:00:00 GMT",
       "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
       "image": "data/images/ea520293e345adc81d8c49edfc4d75f4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "published": "Wed, 13 May 2026 11:00:00 GMT",
-      "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-      "image": "data/images/3389b0d4188ed2dd6146b168b3ff76db.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "published": "2026-05-15T20:26:47",
+      "description": "",
+      "image": "data/images/17fa8ba9cd51d40090cc2ef2cf3c9e3c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "published": "2026-05-15T23:37:32",
+      "description": "",
+      "image": "https://dynomight.net/img/p2p-meth/meth4.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "published": "2026-05-15T13:39:54",
@@ -170,22 +190,12 @@
       "description": "",
       "image": "https://ppo.gradexp.xyz/og-image.png?v=7105f23",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-      "url": "https://github.com/oven-sh/bun/issues/30719",
-      "published": "2026-05-15T16:51:25",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/427fba4dc723eabcde82665aa205921beeaffd509535e7282d79d15d57f53d59/oven-sh/bun/issues/30719",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-15",
+    "date": "2026-05-16",
     "speakers": [
       "Alex",
       "Jordan"
