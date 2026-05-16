@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T12:50:59.679600",
+  "updated": "2026-05-16T16:42:04.915604",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "published": "2026-05-16T12:06:21",
+      "description": "",
+      "image": "data/images/bf141e26c9bf21bca2b8ff12e057e22b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "published": "2026-05-16T09:14:26",
+      "description": "",
+      "image": "data/images/a3bdc3123c0b4d4c3654c8ddca658b37.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
       "url": "https://arxiv.org/abs/2605.12357",
       "published": "2026-05-16T09:30:06",
@@ -164,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "published": "2026-05-16T07:01:55",
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "published": "2026-05-16T12:49:07",
       "description": "",
-      "image": "data/images/a9575b481bc31e2bf37d93367356e3c2.png",
+      "image": "https://georgemandis.s3-us-west-1.amazonaws.com/preview.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-      "url": "https://twitter.com/steipete/status/2055346265869721905",
-      "published": "2026-05-16T11:34:04",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "published": "2026-05-16T14:58:16",
       "description": "",
-      "image": "data/images/6875cd835c1a10af4979d9772475bdda.png",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The main thing about P2P meth is that there's so much of it (2021)",
-      "url": "https://dynomight.net/p2p-meth/",
-      "published": "2026-05-15T23:37:32",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "published": "2026-05-16T07:01:55",
       "description": "",
-      "image": "https://dynomight.net/img/p2p-meth/meth4.jpg",
+      "image": "data/images/a9575b481bc31e2bf37d93367356e3c2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -219,6 +239,16 @@
       "published": "2026-05-15T13:39:54",
       "description": "",
       "image": "https://projectzero.google/images/preview_image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "published": "2026-05-15T23:37:32",
+      "description": "",
+      "image": "https://dynomight.net/img/p2p-meth/meth4.jpg",
       "summary": "Summary unavailable."
     }
   ],
