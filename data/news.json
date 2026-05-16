@@ -1,14 +1,34 @@
 {
-  "updated": "2026-05-16T06:14:37.111961",
+  "updated": "2026-05-16T09:18:21.918541",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
+      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "image": "data/images/025a60579b2aac4f78a0203f5cc0972f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "image": "data/images/130fc51ae780e234bd5f9671eee4c426.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "published": "Thu, 14 May 2026 20:30:00 GMT",
-      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "image": "data/images/062ed5ed4f76b5feb89463717f5497b8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "published": "Thu, 14 May 2026 13:00:00 GMT",
-      "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "image": "data/images/66a5cdcee0d7d55030abdbdb617f87df.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "published": "Thu, 14 May 2026 00:00:00 GMT",
-      "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "image": "data/images/ea520293e345adc81d8c49edfc4d75f4.png",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "published": "2026-05-16T07:01:55",
+      "description": "",
+      "image": "data/images/a9575b481bc31e2bf37d93367356e3c2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "published": "2026-05-15T20:26:47",
@@ -184,11 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Gaining control of every projector and camera on campus",
+      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "published": "2026-05-14T02:37:22",
+      "description": "",
+      "image": "data/images/35fec0f069d0672998260af51d61a885.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Watch a neural net learn to play Snake",
       "url": "https://ppo.gradexp.xyz/",
       "published": "2026-05-14T15:35:14",
       "description": "",
       "image": "https://ppo.gradexp.xyz/og-image.png?v=7105f23",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "published": "2026-05-15T16:51:25",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/ff2819bed839029ef8cf054607694ae8579985115fb7ffb751e928d1a3ab1468/oven-sh/bun/issues/30719",
       "summary": "Summary unavailable."
     }
   ],
