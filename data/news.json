@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T20:36:25.652806",
+  "updated": "2026-05-17T01:45:22.847137",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "published": "2026-05-16T20:14:06",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
       "published": "2026-05-16T12:06:21",
@@ -184,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "published": "2026-05-16T09:30:06",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "published": "2026-05-16T20:14:06",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -204,31 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Japan runs out of robot wolves in fight against bears",
-      "url": "https://www.popsci.com/environment/japan-robot-wolf-army/",
-      "published": "2026-05-16T19:10:38",
+      "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "published": "2026-05-16T09:30:06",
       "description": "",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/05/Robot-Wolf-Farmer.jpg?quality=85&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "published": "2026-05-16T14:58:16",
-      "description": "",
-      "image": "https://www.seangoedecke.com/og-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
-      "published": "2026-05-16T12:49:07",
-      "description": "",
-      "image": "https://georgemandis.s3-us-west-1.amazonaws.com/preview.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -240,12 +210,22 @@
       "description": "",
       "image": "data/images/17fa8ba9cd51d40090cc2ef2cf3c9e3c.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "published": "2026-05-16T14:58:16",
+      "description": "",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "speakers": [
       "Alex",
       "Jordan"
