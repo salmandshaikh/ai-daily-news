@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-18T14:48:37.965830",
+  "updated": "2026-05-18T17:51:51.701899",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "published": "Mon, 18 May 2026 10:00:00 GMT",
+      "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "image": "data/images/495a9444520de5b516b2f37fcd598c88.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,31 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "How data science teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "image": "data/images/130fc51ae780e234bd5f9671eee4c426.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "image": "data/images/025a60579b2aac4f78a0203f5cc0972f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "published": "Mon, 18 May 2026 16:00:21 GMT",
+      "description": "",
+      "image": "data/images/86775f79ab5762ab4acf8509b0e4586a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "published": "Mon, 18 May 2026 15:12:46 GMT",
+      "description": "",
+      "image": "data/images/bff90cfbc2262f4809a984a688f48c90.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "The Open Agent Leaderboard",
       "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
       "published": "Mon, 18 May 2026 14:12:58 GMT",
@@ -132,23 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "published": "Mon, 11 May 2026 23:18:26 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic Acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "published": "2026-05-18T17:01:21",
       "description": "",
-      "image": "data/images/b6d7d5b088e5ec0558154dcd23d29c40.png",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "url": "https://huggingface.co/blog/allenai/emo",
-      "published": "Fri, 08 May 2026 16:03:50 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "published": "2026-05-18T15:24:19",
       "description": "",
-      "image": "data/images/6cd9c0dad4a51119e43a332debfe3453.png",
+      "image": "https://archestra.ai/blog/2026-04-07-only-responsible-ai.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "published": "2026-05-18T17:25:54",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "published": "2026-05-18T11:51:05",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66745304&width=1200&height=600&coordinates=0%2C114%2C0%2C136",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "published": "2026-05-18T17:38:22",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "published": "2026-05-18T12:49:28",
+      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+      "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
+      "published": "2026-05-18T13:26:34",
       "description": "",
-      "image": "data/images/0a19d6802715f1a6b97b782f8c7e9330.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
-      "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
-      "published": "2026-05-18T10:43:56",
-      "description": "",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-16T111530.760.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "published": "2026-05-17T23:10:09",
-      "description": "",
-      "image": "data/images/351b6bd951737073d460536fa93fcdf7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "published": "2026-05-17T21:45:30",
-      "description": "",
-      "image": "https://idahonews.com/resources/media2/16x9/922/1320/100x1/90/c2f82f89-feb1-4f16-a22d-5b2789a14048-Crash1.jpg",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/cdc-gsRi9cWCIB0-unsplash.jpg",
       "summary": "Summary unavailable."
     }
   ],
