@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T11:35:15.154499",
+  "updated": "2026-05-18T14:48:37.965830",
   "articles": [
     {
       "source": "RSS",
@@ -9,26 +9,6 @@
       "published": "Sat, 16 May 2026 00:00:00 GMT",
       "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "image": "data/images/3f2c1a73f1bedfdab1559b4eff714c3d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "image": "data/images/130fc51ae780e234bd5f9671eee4c426.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +24,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "image": "data/images/130fc51ae780e234bd5f9671eee4c426.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "How sales teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "image": "data/images/025a60579b2aac4f78a0203f5cc0972f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "published": "Mon, 18 May 2026 14:12:58 GMT",
+      "description": "",
+      "image": "data/images/4ae098e349983127f2b8f0fe89d8c28d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context \u2014 Best Sub-100M Retrieval Quality",
       "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
       "published": "Thu, 14 May 2026 18:55:01 GMT",
@@ -142,13 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "published": "Wed, 06 May 2026 19:06:55 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "'We mould trees to grow into the shape of chairs'",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+      "published": "2026-05-18T13:01:18",
       "description": "",
-      "image": "data/images/e1e682a743029e7d31b2c91e931825a6.png",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69ee/live/22052400-52b0-11f1-8b8c-6d33e1d5abb6.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Linux security mailing list 'almost unmanageable'",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "published": "2026-05-18T12:20:50",
+      "description": "",
+      "image": "https://image.theregister.com/234872.jpg?imageId=234872&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+      "published": "2026-05-18T12:49:54",
+      "description": "",
+      "image": "https://image.theregister.com/2940761.jpg?imageId=2940761&x=0&y=7.2&cropw=100&croph=85.61&panox=0&panoy=7.2&panow=100&panoh=85.61&width=1200&height=683",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "published": "2026-05-18T12:49:28",
+      "description": "",
+      "image": "data/images/0a19d6802715f1a6b97b782f8c7e9330.png",
       "summary": "Summary unavailable."
     },
     {
@@ -159,16 +199,6 @@
       "published": "2026-05-18T10:43:56",
       "description": "",
       "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-16T111530.760.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
-      "published": "2026-05-18T09:12:10",
-      "description": "",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779059495883_wnn_vca_commencment_speakers_booed_260517_S3_1920x1080-i60agb.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -189,36 +219,6 @@
       "published": "2026-05-17T21:45:30",
       "description": "",
       "image": "https://idahonews.com/resources/media2/16x9/922/1320/100x1/90/c2f82f89-feb1-4f16-a22d-5b2789a14048-Crash1.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Prolog Basics Explained with Pok\u00e9mon",
-      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "published": "2026-05-15T11:02:14",
-      "description": "",
-      "image": "data/images/855efbf0c86c4acc1ed5fd28e20957ba.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "published": "2026-05-17T12:13:45",
-      "description": "",
-      "image": "https://frederickvanbrabant.com/images/posts/2026-05-15%20I%20don%27t%20think%20AI%20will%20make%20your%20processes%20go%20faster/header.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
-      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
-      "published": "2026-05-17T12:03:04",
-      "description": "",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0nl9sxf.jpg",
       "summary": "Summary unavailable."
     }
   ],
