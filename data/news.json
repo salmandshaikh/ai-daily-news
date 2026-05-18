@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T17:51:51.701899",
+  "updated": "2026-05-18T20:59:55.934531",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
+      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "image": "data/images/130fc51ae780e234bd5f9671eee4c426.png",
+      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "image": "data/images/025a60579b2aac4f78a0203f5cc0972f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Anthropic Acquires Stainless",
+      "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "published": "2026-05-18T17:01:21",
       "description": "",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
+      "image": "data/images/a9c483391e1bd8a943300b05d41cc67d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-      "published": "2026-05-18T17:25:54",
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "published": "2026-05-18T18:12:18",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-      "published": "2026-05-18T11:51:05",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66745304&width=1200&height=600&coordinates=0%2C114%2C0%2C136",
+      "image": "https://andonlabs.com/andon-fm-blog-og.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -204,41 +194,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "'We mould trees to grow into the shape of chairs'",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-      "published": "2026-05-18T13:01:18",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "published": "2026-05-18T18:43:30",
       "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69ee/live/22052400-52b0-11f1-8b8c-6d33e1d5abb6.jpg",
+      "image": "https://framerusercontent.com/assets/GPKKJtRqRixwhpxo2YN6XJpsSE.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Linux security mailing list 'almost unmanageable'",
-      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-      "published": "2026-05-18T12:20:50",
+      "title": "No More JetBrains Products for Me",
+      "url": "https://matthewkosarek.xyz/posts/jetbrains/",
+      "published": "2026-05-18T20:30:58",
       "description": "",
-      "image": "https://image.theregister.com/234872.jpg?imageId=234872&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "image": "data/images/83efe6aa8b4717c4bc1d8a8b64462dbf.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-      "published": "2026-05-18T12:49:54",
+      "title": "Haiku OS runs on M1 Macs now",
+      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "published": "2026-05-18T18:30:55",
       "description": "",
-      "image": "https://image.theregister.com/2940761.jpg?imageId=2940761&x=0&y=7.2&cropw=100&croph=85.61&panox=0&panoy=7.2&panow=100&panoh=85.61&width=1200&height=683",
+      "image": "https://discuss.haiku-os.org/uploads/default/optimized/2X/5/5345a61737d0cd39d8490fc19d2efc4be47d4c95_2_1024x822.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-      "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
-      "published": "2026-05-18T13:26:34",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "published": "2026-05-18T17:25:54",
       "description": "",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/cdc-gsRi9cWCIB0-unsplash.jpg",
+      "image": "data/images/0819529c3b95e52f3344e77a2b56a5b0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "published": "2026-05-18T11:51:05",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66745304&width=1200&height=600&coordinates=0%2C114%2C0%2C136",
       "summary": "Summary unavailable."
     }
   ],
