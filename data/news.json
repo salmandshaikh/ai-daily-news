@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T07:52:55.141530",
+  "updated": "2026-05-18T11:35:15.154499",
   "articles": [
     {
       "source": "RSS",
@@ -14,21 +14,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "image": "data/images/f1469c519726e490dc72ea0203546181.png",
+      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "image": "data/images/f1469c519726e490dc72ea0203546181.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "image": "data/images/025a60579b2aac4f78a0203f5cc0972f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+      "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+      "published": "2026-05-18T10:43:56",
+      "description": "",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/05/newimagesize-2026-05-16T111530.760.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+      "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+      "published": "2026-05-18T09:12:10",
+      "description": "",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779059495883_wnn_vca_commencment_speakers_booed_260517_S3_1920x1080-i60agb.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
       "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
       "published": "2026-05-17T23:10:09",
@@ -199,16 +219,6 @@
       "published": "2026-05-17T12:03:04",
       "description": "",
       "image": "https://ychef.files.bbci.co.uk/624x351/p0nl9sxf.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The History of ThinkPad: From IBM\u2019s Bento Box to Lenovo\u2019s AI Workstations",
-      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-      "published": "2026-05-17T21:56:40",
-      "description": "",
-      "image": "https://www.jdhodges.com/wp-content/uploads/2026/05/thinkpad-trackpoint-macro-x220-jd-2011-1200x795.webp",
       "summary": "Summary unavailable."
     }
   ],
