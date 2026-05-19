@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T10:52:07.387551",
+  "updated": "2026-05-19T14:25:28.733430",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "published": "Tue, 19 May 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/fdf7e14b2b2a109d96745937043aeaa8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
       "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
       "published": "Mon, 18 May 2026 16:00:21 GMT",
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "published": "Thu, 14 May 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/302c8f6b44d01c9ef740a773aabe2dca.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "published": "2026-05-19T01:30:42",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "published": "2026-05-19T05:04:49",
       "description": "",
-      "image": "https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg",
+      "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We let AIs run radio stations",
-      "url": "https://andonlabs.com/blog/andon-fm",
-      "published": "2026-05-18T18:12:18",
+      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "published": "2026-05-17T15:52:21",
       "description": "",
-      "image": "https://andonlabs.com/andon-fm-blog-og.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "published": "2026-05-19T05:04:49",
-      "description": "",
-      "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519",
+      "image": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/robot-square.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,41 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "published": "2026-05-18T12:49:28",
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "published": "2026-05-19T01:30:42",
       "description": "",
-      "image": "data/images/0a19d6802715f1a6b97b782f8c7e9330.png",
+      "image": "https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "published": "2026-05-18T17:38:22",
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "published": "2026-05-18T18:12:18",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "url": "https://arxiv.org/abs/2601.10160",
-      "published": "2026-05-18T21:29:13",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Agora-1: The Multi-Agent World Model",
-      "url": "https://odyssey.ml/introducing-agora-1",
-      "published": "2026-05-18T18:43:30",
-      "description": "",
-      "image": "https://framerusercontent.com/assets/GPKKJtRqRixwhpxo2YN6XJpsSE.jpeg",
+      "image": "https://andonlabs.com/andon-fm-blog-og.webp",
       "summary": "Summary unavailable."
     }
   ],
