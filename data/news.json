@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T17:55:22.892964",
+  "updated": "2026-05-19T21:09:54.162815",
   "articles": [
     {
       "source": "RSS",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "image": "data/images/130fc51ae780e234bd5f9671eee4c426.png",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "image": "data/images/f1469c519726e490dc72ea0203546181.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "published": "Tue, 19 May 2026 18:38:09 GMT",
+      "description": "",
+      "image": "data/images/b68928e7bc1073d6388bdf0735cc753d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
       "published": "Tue, 19 May 2026 00:00:00 GMT",
@@ -142,23 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context \u2014 Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "published": "Thu, 14 May 2026 18:55:01 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "published": "2026-05-19T19:34:30",
       "description": "",
-      "image": "data/images/ff053a24b7ba6d1f4acc8287ca698226.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "published": "2026-05-19T19:14:12",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/68dc360c3b01aa9613087f04/6a0b5c38f624fb94a50f6696_News%206%20(1).png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "published": "2026-05-19T12:23:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/06923ebe940a502b060a19248709133fea9088e5b5057659fb28636512b6f6ab/antoinezambelli/forge",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
       "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
       "published": "2026-05-19T15:27:53",
       "description": "",
       "image": "https://www.gentoo.org/assets/img/og-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Growing Neural Cellular Automata",
+      "url": "https://distill.pub/2020/growing-ca/",
+      "published": "2026-05-17T19:21:09",
+      "description": "",
+      "image": "https://distill.pub/2020/growing-ca/thumbnail.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -189,26 +229,6 @@
       "published": "2026-05-19T05:04:49",
       "description": "",
       "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "published": "2026-05-18T17:01:21",
-      "description": "",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Graduates are booing pep talks on AI at college commencements",
-      "url": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac",
-      "published": "2026-05-19T17:42:11",
-      "description": "",
-      "image": "https://dims.apnews.com/dims4/default/0989291/2147483647/strip/true/crop/2385x1589+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F98%2F30fd6fdf1430ef7548c828c5c46b%2Faa55c6f6d8fc4d5fbbcabd4b8481b851",
       "summary": "Summary unavailable."
     }
   ],
