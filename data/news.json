@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T20:59:55.934531",
+  "updated": "2026-05-19T01:54:37.771152",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "published": "2026-05-18T23:18:10",
+      "description": "",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/06/2026-05-06-udienza-generale/1778056864955.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "published": "2026-05-18T17:01:21",
       "description": "",
-      "image": "data/images/a9c483391e1bd8a943300b05d41cc67d.png",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "No More JetBrains Products for Me",
-      "url": "https://matthewkosarek.xyz/posts/jetbrains/",
-      "published": "2026-05-18T20:30:58",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "published": "2026-05-18T17:25:54",
       "description": "",
-      "image": "data/images/83efe6aa8b4717c4bc1d8a8b64462dbf.png",
+      "image": "data/images/0819529c3b95e52f3344e77a2b56a5b0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "published": "2026-05-18T21:29:13",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -219,16 +239,6 @@
       "published": "2026-05-18T18:30:55",
       "description": "",
       "image": "https://discuss.haiku-os.org/uploads/default/optimized/2X/5/5345a61737d0cd39d8490fc19d2efc4be47d4c95_2_1024x822.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-      "published": "2026-05-18T17:25:54",
-      "description": "",
-      "image": "data/images/0819529c3b95e52f3344e77a2b56a5b0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -245,7 +255,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-18",
+    "date": "2026-05-19",
     "speakers": [
       "Alex",
       "Jordan"
