@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T07:34:39.835464",
+  "updated": "2026-05-19T10:52:07.387551",
   "articles": [
     {
       "source": "RSS",
@@ -24,21 +24,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "image": "data/images/f1469c519726e490dc72ea0203546181.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
+      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -49,6 +39,16 @@
       "published": "Fri, 15 May 2026 00:00:00 GMT",
       "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "image": "data/images/025a60579b2aac4f78a0203f5cc0972f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "published": "Fri, 15 May 2026 00:00:00 GMT",
+      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
       "summary": "Summary unavailable."
     },
     {
@@ -168,17 +168,7 @@
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "published": "2026-05-18T17:01:21",
       "description": "",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "published": "2026-05-18T15:24:19",
-      "description": "",
-      "image": "https://archestra.ai/blog/2026-04-07-only-responsible-ai.webp",
+      "image": "data/images/a9c483391e1bd8a943300b05d41cc67d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,6 +179,26 @@
       "published": "2026-05-18T18:12:18",
       "description": "",
       "image": "https://andonlabs.com/andon-fm-blog-og.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "published": "2026-05-19T05:04:49",
+      "description": "",
+      "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Energy return in running shoes explained (2025)",
+      "url": "https://runrepeat.com/guides/energy-return-in-running-shoes",
+      "published": "2026-05-17T19:12:15",
+      "description": "",
+      "image": "https://cdn.runrepeat.com/storage/gallery/post_primary/29039/energy-return-hero-23697088-720.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -214,16 +224,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "published": "2026-05-19T05:04:49",
-      "description": "",
-      "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
       "url": "https://arxiv.org/abs/2601.10160",
       "published": "2026-05-18T21:29:13",
@@ -234,11 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMCap \u2013 A proxy that hard-stops LLM API calls when you hit a dollar cap",
-      "url": "https://www.llmcap.io/",
-      "published": "2026-05-19T03:56:57",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "published": "2026-05-18T18:43:30",
       "description": "",
-      "image": "data/images/f5b2d151b3c3d615e3c00bf31872455a.png",
+      "image": "https://framerusercontent.com/assets/GPKKJtRqRixwhpxo2YN6XJpsSE.jpeg",
       "summary": "Summary unavailable."
     }
   ],
