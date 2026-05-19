@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-19T14:25:28.733430",
+  "updated": "2026-05-19T17:55:22.892964",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "published": "Tue, 19 May 2026 10:45:00 GMT",
+      "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "image": "data/images/e4500e305e5bbe259fed16848d772e48.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "image": "data/images/b734719575a7023f2a7285157432cf1f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "How sales teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
@@ -44,61 +44,61 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "image": "data/images/aa57f2313ee16bd97a7f123b548cf109.png",
+      "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "image": "data/images/130fc51ae780e234bd5f9671eee4c426.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "published": "Wed, 06 May 2026 10:43:49 +0000",
-      "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "published": "Mon, 18 May 2026 18:21:39 +0000",
+      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "image": "data/images/1a14d769c0c8b5a1e0cc1dc596599b7d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "published": "Sun, 17 May 2026 19:53:18 +0000",
+      "description": "We\u2019re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "image": "data/images/e19d4e9df1335cad8f0db335961571a9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing Gemini Omni",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "published": "Sun, 17 May 2026 19:50:57 +0000",
+      "description": "",
+      "image": "data/images/ab68c479ff3d02a13d838340affc16a1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing Google Antigravity 2.0",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "published": "Sun, 17 May 2026 19:43:45 +0000",
+      "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "published": "Thu, 30 Apr 2026 12:14:15 +0000",
-      "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-      "image": "data/images/7ec1a05df6c655e1be81c722b3b55453.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Announcing our partnership with the Republic of Korea",
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "published": "Mon, 27 Apr 2026 07:00:06 +0000",
-      "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-      "image": "data/images/5f86f4e4a7ed3d889994a18c6016ca03.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-      "url": "https://deepmind.google/blog/decoupled-diloco/",
-      "published": "Wed, 22 Apr 2026 10:20:03 +0000",
-      "description": "",
-      "image": "data/images/80a0eaec06d55f4289a4b99afbdef15f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Partnering with industry leaders to accelerate AI transformation",
-      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-      "published": "Tue, 21 Apr 2026 14:54:15 +0000",
-      "description": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-      "image": "data/images/2fffbf37b77dc07898da72bd58b8df77.png",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "published": "Sun, 17 May 2026 13:50:34 +0000",
+      "description": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "image": "data/images/e45454ff9b699824655f3fe81a97389a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "published": "2026-05-19T05:04:49",
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "published": "2026-05-19T15:27:53",
       "description": "",
-      "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "published": "2026-05-18T17:01:21",
-      "description": "",
-      "image": "data/images/a9c483391e1bd8a943300b05d41cc67d.png",
+      "image": "https://www.gentoo.org/assets/img/og-image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Energy return in running shoes explained (2025)",
-      "url": "https://runrepeat.com/guides/energy-return-in-running-shoes",
-      "published": "2026-05-17T19:12:15",
-      "description": "",
-      "image": "https://cdn.runrepeat.com/storage/gallery/post_primary/29039/energy-return-hero-23697088-720.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The last six months in LLMs in five minutes",
       "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
       "published": "2026-05-19T01:30:42",
@@ -204,11 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We let AIs run radio stations",
-      "url": "https://andonlabs.com/blog/andon-fm",
-      "published": "2026-05-18T18:12:18",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "published": "2026-05-19T05:04:49",
       "description": "",
-      "image": "https://andonlabs.com/andon-fm-blog-og.webp",
+      "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "published": "2026-05-18T17:01:21",
+      "description": "",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Graduates are booing pep talks on AI at college commencements",
+      "url": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac",
+      "published": "2026-05-19T17:42:11",
+      "description": "",
+      "image": "https://dims.apnews.com/dims4/default/0989291/2147483647/strip/true/crop/2385x1589+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F98%2F30fd6fdf1430ef7548c828c5c46b%2Faa55c6f6d8fc4d5fbbcabd4b8481b851",
       "summary": "Summary unavailable."
     }
   ],
