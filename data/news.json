@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-20T01:54:38.686273",
+  "updated": "2026-05-20T07:34:01.255646",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published": "Tue, 19 May 2026 20:30:00 GMT",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "image": "data/images/83644cdc625a279c2056f05e94032826.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,16 +39,6 @@
       "published": "Sat, 16 May 2026 00:00:00 GMT",
       "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "image": "data/images/3f2c1a73f1bedfdab1559b4eff714c3d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "Fri, 15 May 2026 00:00:00 GMT",
-      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "image": "data/images/025a60579b2aac4f78a0203f5cc0972f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -158,7 +158,27 @@
       "url": "https://status.railway.com/?date=20260519",
       "published": "2026-05-20T00:23:54",
       "description": "",
-      "image": "data/images/5f90593c175926df9d7328cb05fa3911.png",
+      "image": "https://status.railway.com/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "published": "2026-05-19T22:30:31",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9741525fd925538c7303009c576b0488b49ddffb2d60c09c0bb8f165bf769612/wiltodelta/remove-ai-watermarks",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "published": "2026-05-19T12:23:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/6638d3ec6b2a961ba9cb5edf13d1353c6c079471e2443b28a0189864c5033809/antoinezambelli/forge",
       "summary": "Summary unavailable."
     },
     {
@@ -169,26 +189,6 @@
       "published": "2026-05-19T19:34:30",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
-      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "published": "2026-05-19T22:30:31",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/992f5ce39cfc4cbe27d940104e924de2983683f808afbf1fe2f55d04d486c275/wiltodelta/remove-ai-watermarks",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "published": "2026-05-19T12:23:07",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/86a445a78a9170ea7f11fc3748a013dd773d1f983cf7f0f2edb29cf53e9fcffb/antoinezambelli/forge",
       "summary": "Summary unavailable."
     },
     {
@@ -209,36 +209,6 @@
       "published": "2026-05-17T19:21:09",
       "description": "",
       "image": "https://distill.pub/2020/growing-ca/thumbnail.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
-      "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
-      "published": "2026-05-17T15:22:10",
-      "description": "",
-      "image": "https://leonardo-boquillon.com/apple-touch-icon.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "published": "2026-05-19T15:27:53",
-      "description": "",
-      "image": "https://www.gentoo.org/assets/img/og-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-      "published": "2026-05-17T15:52:21",
-      "description": "",
-      "image": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/robot-square.jpg",
       "summary": "Summary unavailable."
     }
   ],
