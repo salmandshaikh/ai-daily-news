@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T10:40:06.256207",
+  "updated": "2026-05-20T14:26:48.059876",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-      "published": "2026-05-20T10:04:28",
+      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "published": "2026-05-20T10:57:09",
       "description": "",
-      "image": "data/images/1a00ab220387fdb85f980c9634e49e2d.png",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0nm547y.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "College students drown out AI-praising commencement speeches with boos",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+      "published": "2026-05-20T11:51:32",
+      "description": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/5BYVzY95Q8VmJLdbtdLfob-1024-80.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
+      "url": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
+      "published": "2026-05-20T12:30:58",
+      "description": "",
+      "image": "https://torrentfreak.com/images/books-long.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "published": "2026-05-19T12:23:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/c77fbe5729526332361df7e9750ed0f265c735427b80f99ce9b499724add915d/antoinezambelli/forge",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "published": "2026-05-19T12:23:07",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/341c66fe3583c6dd1a91d78c00781456bfaf2b4e50d83b842c4e7e3caca718e9/antoinezambelli/forge",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Remove-AI-Watermarks \u2013 CLI and library for removing AI watermarks from images",
       "url": "https://github.com/wiltodelta/remove-ai-watermarks",
       "published": "2026-05-19T22:30:31",
       "description": "",
-      "image": "https://opengraph.githubassets.com/038c0e65f81b1ad6e68f2e6a26c7bd6bf748a60dceb6030309a83786c353471e/wiltodelta/remove-ai-watermarks",
+      "image": "https://opengraph.githubassets.com/9879e45a44a2ff71b6daf13b804a24e61f85b051ac9f86505b6b4c59a8cac215/wiltodelta/remove-ai-watermarks",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
-      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-      "published": "2026-05-20T00:23:54",
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "published": "2026-05-20T10:04:28",
       "description": "",
-      "image": "https://res.cloudinary.com/railway/image/upload/v1734405679/incident-hero_ri6qfy.png",
+      "image": "data/images/1a00ab220387fdb85f980c9634e49e2d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -229,16 +249,6 @@
       "published": "2026-05-19T17:25:33",
       "description": "",
       "image": "https://source.inblog.dev/featured_image/2026-05-19T06:29:34.548Z-8cff6d16-1d2b-4c8b-9ea2-d3486d1ecadb",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Growing Neural Cellular Automata",
-      "url": "https://distill.pub/2020/growing-ca/",
-      "published": "2026-05-17T19:21:09",
-      "description": "",
-      "image": "https://distill.pub/2020/growing-ca/thumbnail.jpg",
       "summary": "Summary unavailable."
     }
   ],
