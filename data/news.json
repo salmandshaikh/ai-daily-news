@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T14:26:48.059876",
+  "updated": "2026-05-20T18:08:48.993153",
   "articles": [
     {
       "source": "RSS",
@@ -104,11 +104,11 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "published": "Tue, 19 May 2026 18:38:09 GMT",
       "description": "",
-      "image": "data/images/b68928e7bc1073d6388bdf0735cc753d.png",
+      "image": "data/images/1a14a06074d177b3c1baf69b25c1ebf0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,21 +164,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "College students drown out AI-praising commencement speeches with boos",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
-      "published": "2026-05-20T11:51:32",
+      "title": "Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement",
+      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+      "published": "2026-05-20T14:30:47",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/5BYVzY95Q8VmJLdbtdLfob-1024-80.jpg",
+      "image": "https://www.fire.org/sites/default/files/styles/1200x630/public/2026/05/FIRE%20plaintiff%20Larry%20Bushart%20and%20his%20wife%20Leanne_VictoryPR.jpg?h=d1cb525d&itok=u6AmVTV6",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
-      "url": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
-      "published": "2026-05-20T12:30:58",
+      "title": "Testing distributed systems with AI agents",
+      "url": "https://github.com/shenli/distributed-system-testing",
+      "published": "2026-05-20T14:40:42",
       "description": "",
-      "image": "https://torrentfreak.com/images/books-long.png",
+      "image": "https://opengraph.githubassets.com/cb1526044e6bb33e288bdacd88d92c09536683153ce86799b3a74adf02041e89/shenli/distributed-system-testing",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Formal Verification Gates for AI Coding Loops",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "published": "2026-05-20T15:25:45",
+      "description": "",
+      "image": "data/images/d2b0b05aff4d0feafb39abe9adb879f5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Lance \u2013 image/video generation and understanding in one model",
+      "url": "https://github.com/bytedance/Lance",
+      "published": "2026-05-20T15:45:32",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/190f82291882f03a7aaaf96519bd6e35ed59dd6e6a4ca8ddc121f2d71ac4451e/bytedance/Lance",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Smartmedia Card Spec Opened, available free (2000)",
+      "url": "https://www.edn.com/smartmedia-card-interface-spec-opened-available-for-free/#google_vignette",
+      "published": "2026-05-17T19:22:42",
+      "description": "",
+      "image": "data/images/68aeac62c8fa1ea845806de455b4a99a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -188,7 +218,7 @@
       "url": "https://github.com/antoinezambelli/forge",
       "published": "2026-05-19T12:23:07",
       "description": "",
-      "image": "https://opengraph.githubassets.com/c77fbe5729526332361df7e9750ed0f265c735427b80f99ce9b499724add915d/antoinezambelli/forge",
+      "image": "https://opengraph.githubassets.com/89c071c73748efe5f96333ded0ade92818a193b0803e61ce91d287b5cc92fd01/antoinezambelli/forge",
       "summary": "Summary unavailable."
     },
     {
@@ -199,56 +229,6 @@
       "published": "2026-05-20T05:43:51",
       "description": "",
       "image": "https://news.infomaniak.com/wp-content/uploads/2026/05/infomaniak-foundation-banner.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Remove-AI-Watermarks \u2013 CLI and library for removing AI watermarks from images",
-      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "published": "2026-05-19T22:30:31",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/9879e45a44a2ff71b6daf13b804a24e61f85b051ac9f86505b6b4c59a8cac215/wiltodelta/remove-ai-watermarks",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mistral AI acquires Emmi AI",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "published": "2026-05-19T19:14:12",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/68dc360c3b01aa9613087f04/6a0b5c38f624fb94a50f6696_News%206%20(1).png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "published": "2026-05-19T19:34:30",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-      "published": "2026-05-20T10:04:28",
-      "description": "",
-      "image": "data/images/1a00ab220387fdb85f980c9634e49e2d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "CopyFail: From Pod to Host",
-      "url": "https://xint.io/blog/copy-fail-pod-to-host",
-      "published": "2026-05-19T17:25:33",
-      "description": "",
-      "image": "https://source.inblog.dev/featured_image/2026-05-19T06:29:34.548Z-8cff6d16-1d2b-4c8b-9ea2-d3486d1ecadb",
       "summary": "Summary unavailable."
     }
   ],
