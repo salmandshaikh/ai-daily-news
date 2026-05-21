@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T21:28:36.048340",
+  "updated": "2026-05-21T01:53:11.776491",
   "articles": [
     {
       "source": "RSS",
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-      "published": "2026-05-20T19:38:25",
-      "description": "",
-      "image": "data/images/a64dd4bc6dc84fde6e16dde22a586b34.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
       "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
       "published": "2026-05-20T17:48:52",
@@ -194,11 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "published": "2026-05-21T00:36:01",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
       "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
       "published": "2026-05-20T21:11:55",
       "description": "",
-      "image": "data/images/4e2cded8c1ca4266d67aee9c5004097d.png",
+      "image": "https://intdev-global.s3.us-west-2.amazonaws.com/public/internet-dev/e5748d60-a03a-489f-9f56-bc6b1c8166cc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+      "published": "2026-05-20T19:38:25",
+      "description": "",
+      "image": "data/images/a64dd4bc6dc84fde6e16dde22a586b34.png",
       "summary": "Summary unavailable."
     },
     {
@@ -210,32 +220,12 @@
       "description": "",
       "image": "data/images/d2b0b05aff4d0feafb39abe9adb879f5.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Testing distributed systems with AI agents",
-      "url": "https://github.com/shenli/distributed-system-testing",
-      "published": "2026-05-20T14:40:42",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b140284509ae694f976aa2ae98b3e8f8bb10e0200db94b8dc6f40c38868bce98/shenli/distributed-system-testing",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "published": "2026-05-20T14:30:47",
-      "description": "",
-      "image": "https://www.fire.org/sites/default/files/styles/1200x630/public/2026/05/FIRE%20plaintiff%20Larry%20Bushart%20and%20his%20wife%20Leanne_VictoryPR.jpg?h=d1cb525d&itok=u6AmVTV6",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "speakers": [
       "Alex",
       "Jordan"
