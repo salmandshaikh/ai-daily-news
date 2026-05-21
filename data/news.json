@@ -1,24 +1,14 @@
 {
-  "updated": "2026-05-21T14:32:45.104696",
+  "updated": "2026-05-21T17:49:35.082014",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "image": "data/images/157ece4fdbaf22bdb4a15c9e75aa96e1.png",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "published": "Thu, 21 May 2026 12:00:00 GMT",
+      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "image": "data/images/6862d00623eacbb4d6bb92e435d202b1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +24,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "published": "Tue, 19 May 2026 20:30:00 GMT",
-      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "image": "data/images/83644cdc625a279c2056f05e94032826.png",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "image": "data/images/157ece4fdbaf22bdb4a15c9e75aa96e1.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "published": "Tue, 19 May 2026 10:45:00 GMT",
-      "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-      "image": "data/images/e4500e305e5bbe259fed16848d772e48.png",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published": "Tue, 19 May 2026 20:30:00 GMT",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "image": "data/images/83644cdc625a279c2056f05e94032826.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "published": "2026-05-21T13:38:12",
+      "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "published": "2026-05-21T16:23:11",
       "description": "",
-      "image": "https://axelk.ee/static/og-image.png",
+      "image": "https://valhovey.github.io/gaia-mary/featured.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google officially announces that ads will be included in AI Mode search results",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "published": "2026-05-21T09:49:46",
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "published": "2026-05-21T13:38:12",
       "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GML_Search_social.width-1300.png",
+      "image": "https://axelk.ee/static/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Stop throwing AI-generated walls of text into conversations",
+      "url": "https://noslopgrenade.com/",
+      "published": "2026-05-21T09:31:15",
+      "description": "",
+      "image": "https://noslopgrenade.com/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,26 +199,6 @@
       "published": "2026-05-20T19:05:30",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/6WJOhxvdNpC5hDvpiSAqE0/8a11ba6abdabb6a5a674de733cfa710d/SEO-Polynomial-Construction-16x9.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hating AI Is Good",
-      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-      "published": "2026-05-21T13:36:06",
-      "description": "",
-      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/12f64063-69e4-4540-8f25-5c0464768cdc/Screenshot_2026-05-20_at_4.36.54_PM.png?t=1779311494",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fender escalates legal campaign against S-style guitars",
-      "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
-      "published": "2026-05-19T05:28:30",
-      "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/is96NiZo4w5euoMCDi3T7j-2000-80.jpg",
       "summary": "Summary unavailable."
     }
   ],
