@@ -1,16 +1,6 @@
 {
-  "updated": "2026-05-21T01:53:11.776491",
+  "updated": "2026-05-21T07:39:26.916421",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Wed, 20 May 2026 00:00:00 GMT",
       "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "image": "data/images/157ece4fdbaf22bdb4a15c9e75aa96e1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI to confidentially file for IPO as soon as Friday",
+      "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+      "published": "2026-05-21T02:24:35",
+      "description": "",
+      "image": "https://image.cnbcfm.com/api/v1/image/108276787-1773253292188-gettyimages-2265445220-BLACKROCK_INFRASTRUCTURE_SUMMIT.jpeg?v=1779296174&w=1920&h=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "published": "2026-05-21T00:36:01",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
       "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
       "published": "2026-05-20T17:48:52",
@@ -184,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Intuit to lay off over 3k employees to refocus on AI",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "published": "2026-05-21T00:36:01",
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "published": "2026-05-20T10:04:28",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-      "published": "2026-05-20T21:11:55",
-      "description": "",
-      "image": "https://intdev-global.s3.us-west-2.amazonaws.com/public/internet-dev/e5748d60-a03a-489f-9f56-bc6b1c8166cc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-      "published": "2026-05-20T19:38:25",
-      "description": "",
-      "image": "data/images/a64dd4bc6dc84fde6e16dde22a586b34.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Formal Verification Gates for AI Coding Loops",
-      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-      "published": "2026-05-20T15:25:45",
-      "description": "",
-      "image": "data/images/d2b0b05aff4d0feafb39abe9adb879f5.png",
+      "image": "data/images/1a00ab220387fdb85f980c9634e49e2d.png",
       "summary": "Summary unavailable."
     }
   ],
