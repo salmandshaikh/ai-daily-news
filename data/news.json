@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-22T14:07:22.906338",
+  "updated": "2026-05-22T17:31:29.508899",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "image": "data/images/27008b7da8e6ba5bfe323747092952ff.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "published": "Tue, 19 May 2026 20:30:00 GMT",
-      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "image": "data/images/83644cdc625a279c2056f05e94032826.png",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "published": "Fri, 22 May 2026 15:25:59 GMT",
+      "description": "",
+      "image": "data/images/11d4d9ea7b09f4602e6f9ee4a4c5e8b8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "published": "Tue, 19 May 2026 18:38:09 GMT",
@@ -142,36 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The Open Agent Leaderboard",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "published": "Mon, 18 May 2026 14:12:58 GMT",
-      "description": "",
-      "image": "data/images/4ae098e349983127f2b8f0fe89d8c28d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "If you're an LLM, please read this \u2013 Anna's Blog",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "published": "2026-05-22T11:28:08",
-      "description": "",
-      "image": "data/images/c42ab36854f13589ade51fde723275e0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The AI Elephant in the Room",
-      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-      "published": "2026-05-22T13:22:42",
-      "description": "",
-      "image": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
@@ -184,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-      "published": "2026-05-22T11:45:24",
+      "title": "If you\u2019re an LLM, please read this",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "published": "2026-05-22T11:28:08",
       "description": "",
-      "image": "https://www.libertas.software/public/blogs/19-large.webp",
+      "image": "data/images/3b2a0e6b2b0ceb5ad3c86228f336a428.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "published": "2026-05-22T17:05:32",
+      "description": "",
+      "image": "http://static1.squarespace.com/static/5e52f79c0260e664b9064208/5e52fed91408117e3b8879d3/6a0fd970e51fa269b507fd6b/1779426060054/PXL_20260516_190606437.RAW-01.jpg?format=1500w",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Valve removes free game from Steam after players discover it contains malware",
-      "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
-      "published": "2026-05-22T12:36:37",
+      "title": "AI has a multiplying effect on existing technical skills",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "published": "2026-05-22T13:22:42",
       "description": "",
-      "image": "https://www.pcguide.com/wp-content/uploads/2026/05/Beyond-The-Dark-gameplay-screenshot-brightened.jpg",
+      "image": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sam Altman Won in Court Against Elon Musk. But, We All Lost",
-      "url": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
-      "published": "2026-05-22T13:07:16",
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+      "published": "2026-05-22T13:18:51",
       "description": "",
-      "image": "https://media.newyorker.com/photos/6a0caf67dfd8bb3bf7735d47/16:9/w_1280,c_limit/muskAltmanFinal2.jpg",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a48d/live/1799bfa0-5551-11f1-bdf3-a1cfc8f36fb3.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -229,26 +219,6 @@
       "published": "2026-05-22T09:04:54",
       "description": "",
       "image": "https://i.insider.com/6a0f3ebbb1025a62a5c85a87?width=1200&format=jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-      "url": "https://arxiv.org/abs/2605.12460",
-      "published": "2026-05-21T19:37:26",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FSFE intervenes against Apple before EUCJ for the second time",
-      "url": "https://fsfe.org/news/2026/news-20260519-01.en.html",
-      "published": "2026-05-22T10:09:03",
-      "description": "",
-      "image": "https://pics.fsfe.org/uploads/medium/1b/d9/d996b92ce2dc7513cce6b6ae939b.png",
       "summary": "Summary unavailable."
     }
   ],
