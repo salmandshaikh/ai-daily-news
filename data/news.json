@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T17:31:29.508899",
+  "updated": "2026-05-22T21:02:46.505853",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "image": "data/images/157ece4fdbaf22bdb4a15c9e75aa96e1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
       "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "published": "Wed, 20 May 2026 00:00:00 GMT",
+      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "image": "data/images/157ece4fdbaf22bdb4a15c9e75aa96e1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "published": "2026-05-22T20:26:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/36c7da8d25d9acc9c9b6ec261534b43530974cbb668b62e094843386f8d3aeb0/anomalyco/models.dev",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "published": "2026-05-22T17:05:32",
+      "description": "",
+      "image": "http://static1.squarespace.com/static/5e52f79c0260e664b9064208/5e52fed91408117e3b8879d3/6a0fd970e51fa269b507fd6b/1779426060054/PXL_20260516_190606437.RAW-01.jpg?format=1500w",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "published": "2026-05-22T10:38:26",
       "description": "",
       "image": "https://modelrift.com/og/blog/openscad-llm-benchmark.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "published": "2026-05-22T16:54:31",
+      "description": "",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "1940 Air Terminal Museum Begins Liquidation",
-      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "published": "2026-05-22T17:05:32",
+      "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.22001",
+      "published": "2026-05-22T18:46:07",
       "description": "",
-      "image": "http://static1.squarespace.com/static/5e52f79c0260e664b9064208/5e52fed91408117e3b8879d3/6a0fd970e51fa269b507fd6b/1779426060054/PXL_20260516_190606437.RAW-01.jpg?format=1500w",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,26 +229,6 @@
       "published": "2026-05-22T13:22:42",
       "description": "",
       "image": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
-      "published": "2026-05-22T13:18:51",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a48d/live/1799bfa0-5551-11f1-bdf3-a1cfc8f36fb3.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "published": "2026-05-22T09:04:54",
-      "description": "",
-      "image": "https://i.insider.com/6a0f3ebbb1025a62a5c85a87?width=1200&format=jpeg",
       "summary": "Summary unavailable."
     }
   ],
