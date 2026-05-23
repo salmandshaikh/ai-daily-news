@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T21:02:46.505853",
+  "updated": "2026-05-23T01:45:47.718315",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Fri, 22 May 2026 00:00:00 GMT",
       "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "image": "data/images/27008b7da8e6ba5bfe323747092952ff.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "published": "Fri, 22 May 2026 00:00:00 GMT",
+      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "image": "data/images/157ece4fdbaf22bdb4a15c9e75aa96e1.png",
+      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "published": "Sat, 23 May 2026 00:02:03 GMT",
+      "description": "",
+      "image": "data/images/2a167451753cff85f21f0021fb63465d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
       "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
       "published": "Fri, 22 May 2026 15:25:59 GMT",
@@ -134,16 +144,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "published": "Mon, 18 May 2026 16:00:21 GMT",
-      "description": "",
-      "image": "data/images/86775f79ab5762ab4acf8509b0e4586a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
       "published": "Mon, 18 May 2026 15:12:46 GMT",
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "url": "https://github.com/anomalyco/models.dev",
-      "published": "2026-05-22T20:26:07",
+      "title": "CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "published": "2026-05-22T16:54:31",
       "description": "",
-      "image": "https://opengraph.githubassets.com/36c7da8d25d9acc9c9b6ec261534b43530974cbb668b62e094843386f8d3aeb0/anomalyco/models.dev",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "1940 Air Terminal Museum Begins Liquidation",
-      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "published": "2026-05-22T17:05:32",
+      "title": "I\u2019m writing again",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "published": "2026-05-22T14:36:27",
       "description": "",
-      "image": "http://static1.squarespace.com/static/5e52f79c0260e664b9064208/5e52fed91408117e3b8879d3/6a0fd970e51fa269b507fd6b/1779426060054/PXL_20260516_190606437.RAW-01.jpg?format=1500w",
+      "image": "data/images/2e16b936ff1abcb767913a711163c862.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "published": "2026-05-22T16:54:31",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "published": "2026-05-22T17:05:32",
       "description": "",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png",
+      "image": "http://static1.squarespace.com/static/5e52f79c0260e664b9064208/5e52fed91408117e3b8879d3/6a0fd970e51fa269b507fd6b/1779426060054/PXL_20260516_190606437.RAW-01.jpg?format=1500w",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "published": "2026-05-22T20:26:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/1d029f1249699152fc39957c4479292b476463b0293095bf8fb6c8a02182d8ed/anomalyco/models.dev",
       "summary": "Summary unavailable."
     },
     {
@@ -204,16 +214,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-      "url": "https://arxiv.org/abs/2605.22001",
-      "published": "2026-05-22T18:46:07",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
       "published": "2026-05-21T16:23:11",
@@ -224,18 +224,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI has a multiplying effect on existing technical skills",
-      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-      "published": "2026-05-22T13:22:42",
+      "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.22001",
+      "published": "2026-05-22T18:46:07",
       "description": "",
-      "image": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-22",
+    "date": "2026-05-23",
     "speakers": [
       "Alex",
       "Jordan"
