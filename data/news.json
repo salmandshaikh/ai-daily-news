@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T14:26:14.940366",
+  "updated": "2026-05-25T17:27:24.253776",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "published": "Mon, 25 May 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/94eff77e5024eaf0b30866964208f21a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
       "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
       "published": "Sat, 23 May 2026 00:02:03 GMT",
@@ -142,26 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "published": "Mon, 18 May 2026 15:12:46 GMT",
-      "description": "",
-      "image": "data/images/bff90cfbc2262f4809a984a688f48c90.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
-      "published": "2026-05-25T13:17:58",
-      "description": "",
-      "image": "http://religionnews.com/wp-content/uploads/2026/05/webRNS-Leo-Encyclical2.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -169,16 +159,6 @@
       "published": "2026-05-25T13:56:39",
       "description": "",
       "image": "https://krebsonsecurity.com/wp-content/uploads/2026/05/the-hosting-outage.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI errno(2) values",
-      "url": "https://www.netmeister.org/blog/ai-errno.html",
-      "published": "2026-05-22T14:56:57",
-      "description": "",
-      "image": "data/images/0fcf9c47fc0f66baf96f68a48af644d5.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Notes about reading messages with the Python email packages",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
-      "published": "2026-05-20T08:13:53",
+      "title": "AI errno(2) values",
+      "url": "https://www.netmeister.org/blog/ai-errno.html",
+      "published": "2026-05-22T14:56:57",
       "description": "",
-      "image": "data/images/8caabe270f42999df9b75f64bd7cce7c.png",
+      "image": "data/images/0fcf9c47fc0f66baf96f68a48af644d5.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
-      "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
-      "published": "2026-05-25T13:12:40",
+      "title": "Notes about reading messages with the Python email packages",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+      "published": "2026-05-20T08:13:53",
       "description": "",
-      "image": "https://variety.com/wp-content/uploads/2026/05/Pope-Leo.jpg?w=1000&h=563&crop=1",
+      "image": "data/images/8caabe270f42999df9b75f64bd7cce7c.png",
       "summary": "Summary unavailable."
     }
   ],
