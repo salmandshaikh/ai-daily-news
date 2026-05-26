@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T14:29:25.867067",
+  "updated": "2026-05-26T18:15:05.379229",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GitHub Actions down again today",
-      "url": "https://www.githubstatus.com/?today",
-      "published": "2026-05-26T11:42:58",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "published": "2026-05-26T13:08:13",
       "description": "",
-      "image": "data/images/868e59c23a24518286fb79137b986284.png",
+      "image": "data/images/1cc25b212ee74790434229cd8cb569e3.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "published": "2026-05-26T12:08:33",
+      "title": "Language Models Need Sleep",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "published": "2026-05-26T15:36:24",
       "description": "",
-      "image": "data/images/b444f5400a6b9ef35f77fa0079acfc84.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,51 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "published": "2026-05-26T12:08:33",
+      "description": "",
+      "image": "data/images/4e8c5b0008da90392cf99693d73174bb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Use boring languages with LLMs",
+      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "published": "2026-05-22T15:10:22",
+      "description": "",
+      "image": "https://jry.io/writing/use-boring-languages-with-llms/python_environment_2x.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
       "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
       "published": "2026-05-26T11:46:10",
       "description": "",
-      "image": "https://vllm.ai/og?title=EAGLE%203.1%3A%20Advancing%20Speculative%20Decoding%20Through%20Collaboration%20Between%20the%20EAGLE%20Team%2C%20vLLM%2C%20and%20TorchSpec&authors=EAGLE%20Team%2C%20vLLM%20Team%2C%20and%20TorchSpec%20Team&date=2026-05-26&path=/blog",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A successful Japanese trial of a ramjet engine designed for Mach\u20115 aircraft",
-      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "published": "2026-05-25T19:43:45",
-      "description": "",
-      "image": "https://www.bgr.com/img/gallery/japans-new-hypersonic-engine-could-make-2-hour-flights-to-the-us-a-reality/l-intro-1779312403.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "published": "2026-05-26T13:08:13",
-      "description": "",
-      "image": "data/images/1cc25b212ee74790434229cd8cb569e3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Uber president says AI spending is getting 'harder to justify'",
-      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "published": "2026-05-26T10:01:39",
-      "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "published": "2026-05-25T19:37:57",
-      "description": "",
-      "image": "https://image.blocksandfiles.com/5244912.jpg?imageId=5244912&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "image": "data/images/5eed9b1a2fb00f838bb6bef7c227bbc8.png",
       "summary": "Summary unavailable."
     }
   ],
