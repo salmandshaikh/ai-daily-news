@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T18:15:05.379229",
+  "updated": "2026-05-26T21:24:46.330572",
   "articles": [
     {
       "source": "RSS",
@@ -164,26 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Language Models Need Sleep",
-      "url": "https://arxiv.org/abs/2605.26099",
-      "published": "2026-05-26T15:36:24",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "published": "2026-05-25T23:16:59",
-      "description": "",
-      "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
       "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
       "published": "2026-05-26T12:08:33",
@@ -204,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-      "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-      "published": "2026-05-26T11:46:10",
+      "title": "A sleep-like consolidation mechanism for LLMs",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "published": "2026-05-26T15:36:24",
       "description": "",
-      "image": "data/images/5eed9b1a2fb00f838bb6bef7c227bbc8.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AltTab.app makes free features paid, drops old releases",
+      "url": "https://github.com/lwouis/alt-tab-macos/discussions/5533",
+      "published": "2026-05-26T18:01:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/85c727425ca3dbd4376896638bf107f73dd04b811e4a044495dc9b3fa9fec979/lwouis/alt-tab-macos/discussions/5533",
       "summary": "Summary unavailable."
     }
   ],
