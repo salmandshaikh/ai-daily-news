@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T14:47:41.234826",
+  "updated": "2026-05-27T18:16:25.509412",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Wed, 27 May 2026 07:00:00 GMT",
       "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "image": "data/images/aa2c1a9028ecc8f45a4e3e2a684b268c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "published": "Wed, 27 May 2026 00:00:00 GMT",
+      "description": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "image": "data/images/63c419db036379e5bfa420fc51b50be7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Fri, 22 May 2026 00:00:00 GMT",
       "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "published": "Thu, 21 May 2026 12:00:00 GMT",
-      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "image": "data/images/6862d00623eacbb4d6bb92e435d202b1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks \u2014 by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "published": "Wed, 27 May 2026 17:20:29 GMT",
+      "description": "",
+      "image": "data/images/aab333eef68c9f2a3b6b5a634995380e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "published": "Wed, 27 May 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
       "url": "https://huggingface.co/blog/delta-weight-sync",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
@@ -132,23 +152,73 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "published": "Fri, 22 May 2026 15:25:59 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "published": "2026-05-27T16:28:41",
       "description": "",
-      "image": "data/images/11d4d9ea7b09f4602e6f9ee4a4c5e8b8.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "published": "Tue, 19 May 2026 18:38:09 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "published": "2026-05-27T16:39:13",
       "description": "",
-      "image": "data/images/1a14a06074d177b3c1baf69b25c1ebf0.png",
+      "image": "data/images/09912f7d71f2e0d1084a1ee95e082682.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "published": "2026-05-27T15:20:47",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "published": "2026-05-27T17:42:24",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Training our own AI models",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "published": "2026-05-27T16:08:42",
+      "description": "",
+      "image": "https://d36j3rcgc2qfsv.cloudfront.net/blogtraining-ai-models.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "url": "https://tinycld.org/",
+      "published": "2026-05-27T14:36:41",
+      "description": "",
+      "image": "data/images/f9bee440d255b02812ade1cc6eea2fe4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "In-Browser Container Builds",
+      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+      "published": "2026-05-25T13:00:27",
+      "description": "",
+      "image": "https://ochagavia.nl/images/headshot.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,16 +239,6 @@
       "published": "2026-05-27T05:13:39",
       "description": "",
       "image": "https://arps18.github.io/images/profile.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "published": "2026-05-26T13:08:13",
-      "description": "",
-      "image": "data/images/1cc25b212ee74790434229cd8cb569e3.png",
       "summary": "Summary unavailable."
     }
   ],
