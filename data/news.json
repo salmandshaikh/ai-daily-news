@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T07:53:45.419305",
+  "updated": "2026-05-27T11:25:30.798301",
   "articles": [
     {
       "source": "RSS",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "image": "data/images/157ece4fdbaf22bdb4a15c9e75aa96e1.png",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Structural Barriers to AI Lawyers",
-      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
-      "published": "2026-05-21T20:51:36",
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "published": "2026-05-27T10:43:25",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!vVZh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4eba9bf-4653-476d-b814-a732a6a3a1a1_1376x768.jpeg",
+      "image": "data/images/eb39cc1142c54bb8aad968f6403e92cd.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Prompt Politeness Affects LLM Accuracy",
-      "url": "https://arxiv.org/abs/2510.04950",
-      "published": "2026-05-26T07:43:22",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "published": "2026-05-27T05:13:39",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://arps18.github.io/images/profile.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "url": "https://github.com/craigmccaskill/posthorn",
+      "published": "2026-05-27T04:26:26",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/b6108d805ffd882a72f6f16fb0a676b0defa44ab6399c34d7b92c2848df0399a/craigmccaskill/posthorn",
       "summary": "Summary unavailable."
     },
     {
@@ -179,16 +189,6 @@
       "published": "2026-05-26T13:08:13",
       "description": "",
       "image": "data/images/1cc25b212ee74790434229cd8cb569e3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
-      "url": "https://github.com/craigmccaskill/posthorn",
-      "published": "2026-05-27T04:26:26",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/e2299c3d35cb971961ab2b3ba799f83e5f8e3c105a24616ea4610b9b8694d1b8/craigmccaskill/posthorn",
       "summary": "Summary unavailable."
     }
   ],
