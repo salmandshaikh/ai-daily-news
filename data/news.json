@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-27T11:25:30.798301",
+  "updated": "2026-05-27T14:47:41.234826",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "image": "data/images/aa2c1a9028ecc8f45a4e3e2a684b268c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 21 May 2026 12:00:00 GMT",
       "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "image": "data/images/6862d00623eacbb4d6bb92e435d202b1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "published": "Wed, 20 May 2026 00:00:00 GMT",
-      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "image": "data/images/da9ca275023cad3eb8110f2bbcd11808.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "published": "Wed, 27 May 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
       "url": "https://huggingface.co/blog/agent-glossary",
       "published": "Mon, 25 May 2026 00:00:00 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "published": "Tue, 19 May 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/fdf7e14b2b2a109d96745937043aeaa8.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "I'm Tired of Talking to AI",
@@ -169,16 +169,6 @@
       "published": "2026-05-27T05:13:39",
       "description": "",
       "image": "https://arps18.github.io/images/profile.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
-      "url": "https://github.com/craigmccaskill/posthorn",
-      "published": "2026-05-27T04:26:26",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b6108d805ffd882a72f6f16fb0a676b0defa44ab6399c34d7b92c2848df0399a/craigmccaskill/posthorn",
       "summary": "Summary unavailable."
     },
     {
