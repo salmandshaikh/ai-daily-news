@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T18:28:52.925414",
+  "updated": "2026-05-28T21:48:35.680581",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "published": "2026-05-28T19:02:18",
+      "description": "",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
       "published": "2026-05-28T13:02:00",
       "description": "",
       "image": "https://llmgame.scalex.dev/continuegame.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "published": "2026-05-28T19:43:14",
+      "description": "",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220-e1779827097282.jpg?resize=1200,600",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Using Tailscale with an OrbStack VM on macOS",
+      "url": "https://github.com/highpost/tailscale-macos-vm",
+      "published": "2026-05-25T22:10:08",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/58b7156991570e9962992ea6dd7b2d498f3cdf0c6c728506197900eb0384642c/highpost/tailscale-macos-vm",
       "summary": "Summary unavailable."
     },
     {
@@ -174,61 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Using Tailscale with an OrbStack VM on macOS",
-      "url": "https://github.com/highpost/tailscale-macos-vm",
-      "published": "2026-05-25T22:10:08",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/28cedad3c5fc3e7cda092382b0bb230d86020f0c86b697b38c11909101703f87/highpost/tailscale-macos-vm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "published": "2026-05-27T20:37:42",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "url": "https://www.anthropic.com/news/series-h",
       "published": "2026-05-28T18:09:44",
       "description": "",
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Disagreement among frontier LLMs on real-world fact-checks",
-      "url": "https://lenz.io/research/llm-disagreement",
-      "published": "2026-05-28T12:20:19",
-      "description": "",
-      "image": "https://lenz.io/research/llm-disagreement/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?",
-      "url": "https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html",
-      "published": "2026-05-27T18:56:32",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-      "published": "2026-05-28T02:21:11",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/6ea1efbf58f1c1eae4593616358a4e2b429d9e98.png?1779774551",
       "summary": "Summary unavailable."
     }
   ],
