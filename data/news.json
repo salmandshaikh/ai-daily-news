@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-27T21:31:41.146011",
+  "updated": "2026-05-28T01:30:27.769207",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "published": "Wed, 27 May 2026 11:00:00 GMT",
+      "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "image": "data/images/63af037363b4107a5ec6a256c3d93754.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +19,6 @@
       "published": "Wed, 27 May 2026 07:00:00 GMT",
       "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "image": "data/images/aa2c1a9028ecc8f45a4e3e2a684b268c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "published": "Wed, 27 May 2026 00:00:00 GMT",
-      "description": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "image": "data/images/63c419db036379e5bfa420fc51b50be7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "published": "Mon, 25 May 2026 00:00:00 GMT",
-      "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "image": "data/images/9b4ac53720735a5b6ba3f05de56553be.png",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "published": "Wed, 27 May 2026 00:00:00 GMT",
+      "description": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "image": "data/images/63c419db036379e5bfa420fc51b50be7.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "published": "Fri, 22 May 2026 00:00:00 GMT",
-      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "published": "Mon, 25 May 2026 00:00:00 GMT",
+      "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "image": "data/images/9b4ac53720735a5b6ba3f05de56553be.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "published": "2026-05-27T16:28:41",
-      "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Rust (and Slint) on a Jailbroken Kindle",
       "url": "https://sverre.me/blog/rust-on-kindle/",
       "published": "2026-05-27T19:51:47",
@@ -194,51 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "url": "https://arxiv.org/abs/2605.21779",
-      "published": "2026-05-27T17:42:24",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "published": "2026-05-27T16:28:41",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "In-Browser Container Builds",
-      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-      "published": "2026-05-25T13:00:27",
-      "description": "",
-      "image": "https://ochagavia.nl/images/headshot.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "published": "2026-05-27T15:20:47",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Training our own AI models",
-      "url": "https://posthog.com/blog/training-ai-models",
-      "published": "2026-05-27T16:08:42",
-      "description": "",
-      "image": "https://d36j3rcgc2qfsv.cloudfront.net/blogtraining-ai-models.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
-      "url": "https://tinycld.org/",
-      "published": "2026-05-27T14:36:41",
-      "description": "",
-      "image": "data/images/f9bee440d255b02812ade1cc6eea2fe4.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -250,12 +200,22 @@
       "description": "",
       "image": "https://arps18.github.io/images/profile.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "published": "2026-05-27T15:20:47",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "speakers": [
       "Alex",
       "Jordan"
