@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-28T14:58:57.038051",
+  "updated": "2026-05-28T18:28:52.925414",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "published": "Thu, 28 May 2026 00:00:00 GMT",
+      "description": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "published": "Wed, 27 May 2026 00:00:00 GMT",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "image": "data/images/38c5d50b8b49e21fc170728a2a8106f3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Election information and safeguards in 2026",
       "url": "https://openai.com/index/election-safeguards-2026",
       "published": "Wed, 27 May 2026 00:00:00 GMT",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "published": "Mon, 25 May 2026 00:00:00 GMT",
-      "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "image": "data/images/9b4ac53720735a5b6ba3f05de56553be.png",
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "published": "Wed, 27 May 2026 00:00:00 GMT",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "image": "data/images/38c5d50b8b49e21fc170728a2a8106f3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "url": "https://lenz.io/research/llm-disagreement",
-      "published": "2026-05-28T12:20:19",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "published": "2026-05-28T13:02:00",
       "description": "",
-      "image": "https://lenz.io/research/llm-disagreement/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How long until AI automates all cognitive labor?",
-      "url": "https://futuresearch.ai/blog/agi-timeline-tracker/",
-      "published": "2026-05-28T14:21:35",
-      "description": "",
-      "image": "https://futuresearch.ai/futuresearch-logo.webp",
+      "image": "https://llmgame.scalex.dev/continuegame.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +174,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "published": "2026-05-28T10:56:55",
+      "title": "Using Tailscale with an OrbStack VM on macOS",
+      "url": "https://github.com/highpost/tailscale-macos-vm",
+      "published": "2026-05-25T22:10:08",
       "description": "",
-      "image": "https://itsfoss.com/content/images/2026/05/amd-vivado-licensing-change-banner.png",
+      "image": "https://opengraph.githubassets.com/28cedad3c5fc3e7cda092382b0bb230d86020f0c86b697b38c11909101703f87/highpost/tailscale-macos-vm",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "published": "2026-05-27T16:39:13",
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "published": "2026-05-27T20:37:42",
       "description": "",
-      "image": "data/images/09912f7d71f2e0d1084a1ee95e082682.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "published": "2026-05-28T06:40:31",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "published": "2026-05-28T18:09:44",
       "description": "",
-      "image": "https://iisc.ac.in/wp-content/uploads/2018/03/IISc-logo.jpg",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Disagreement among frontier LLMs on real-world fact-checks",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "published": "2026-05-28T12:20:19",
+      "description": "",
+      "image": "https://lenz.io/research/llm-disagreement/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?",
+      "url": "https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html",
+      "published": "2026-05-27T18:56:32",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -219,36 +229,6 @@
       "published": "2026-05-28T02:21:11",
       "description": "",
       "image": "https://bookface-images.s3.amazonaws.com/logos/6ea1efbf58f1c1eae4593616358a4e2b429d9e98.png?1779774551",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
-      "published": "2026-05-27T19:51:47",
-      "description": "",
-      "image": "data/images/1ec689cba8ca28b63729fe35cdce652a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "published": "2026-05-27T16:28:41",
-      "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "url": "https://arxiv.org/abs/2510.04950",
-      "published": "2026-05-26T07:43:22",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
