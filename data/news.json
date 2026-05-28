@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T07:46:03.361475",
+  "updated": "2026-05-28T11:27:11.507592",
   "articles": [
     {
       "source": "RSS",
@@ -184,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
-      "url": "https://almartis.xyz/gpu-free-datacenter.html",
-      "published": "2026-05-25T17:28:03",
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "published": "2026-05-28T10:56:55",
       "description": "",
-      "image": "data/images/00063421d646182c4d3e62dc80a6d3c0.png",
+      "image": "https://itsfoss.com/content/images/2026/05/amd-vivado-licensing-change-banner.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "published": "2026-05-28T10:39:32",
+      "description": "",
+      "image": "data/images/a1e7a7e49411ac357465853fcca2c10b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,21 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-      "published": "2026-05-28T02:21:11",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/6ea1efbf58f1c1eae4593616358a4e2b429d9e98.png?1779774551",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
       "url": "https://arxiv.org/abs/2510.04950",
       "published": "2026-05-26T07:43:22",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+      "published": "2026-05-28T02:21:11",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/6ea1efbf58f1c1eae4593616358a4e2b429d9e98.png?1779774551",
       "summary": "Summary unavailable."
     }
   ],
