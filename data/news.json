@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T18:25:45.877643",
+  "updated": "2026-05-29T21:31:12.948979",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Fri, 29 May 2026 12:00:00 GMT",
       "description": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "image": "data/images/5b74bdf4e9012a022539de5809b28356.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "image": "data/images/c2e6caabf03ecb5c9f72d43213affbda.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Thu, 28 May 2026 12:00:00 GMT",
       "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "image": "data/images/58ed740487311e2fe49d96524b70c867.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "published": "Thu, 28 May 2026 00:00:00 GMT",
-      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "image": "data/images/a7c45a4e2908a24ee2838bb91f1a3e0f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "published": "2026-05-29T19:16:32",
+      "description": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=0,1.3015853110533,100,97.396829377893",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "published": "2026-05-29T19:38:27",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/0515f502777b9b718269d25c64462c3821819cb4f6da826794af20ac5aa3cdf7/jmaczan/tiny-vllm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "published": "2026-05-29T16:19:54",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/67cb8aa6e9184b6e44813189/6a17874a7db7a603d7eb3627_lfm2_5_8b_a1b_benchmarks.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "published": "2026-05-29T11:09:32",
+      "description": "",
+      "image": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "CAPTCHAs can still detect AI agents",
       "url": "https://research.roundtable.ai/captchas-detect-ai/",
       "published": "2026-05-29T15:57:37",
@@ -174,21 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "published": "2026-05-29T17:46:27",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "We should be more tired than the model",
       "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
       "published": "2026-05-29T12:12:16",
       "description": "",
       "image": "https://vickiboykis.com/images/logo.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "published": "2026-05-29T17:46:27",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675",
       "summary": "Summary unavailable."
     },
     {
@@ -209,16 +249,6 @@
       "published": "2026-05-29T09:47:23",
       "description": "",
       "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Orchestrating AI code review at scale",
-      "url": "https://blog.cloudflare.com/ai-code-review/",
-      "published": "2026-05-26T07:06:28",
-      "description": "",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
       "summary": "Summary unavailable."
     }
   ],
