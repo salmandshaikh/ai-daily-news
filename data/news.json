@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T01:52:43.934420",
+  "updated": "2026-05-29T07:43:45.426168",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "published": "Thu, 28 May 2026 00:00:00 GMT",
+      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "image": "data/images/a7c45a4e2908a24ee2838bb91f1a3e0f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "url": "https://openai.com/index/cisco",
       "published": "Wed, 27 May 2026 11:00:00 GMT",
@@ -39,16 +49,6 @@
       "published": "Wed, 27 May 2026 07:00:00 GMT",
       "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "image": "data/images/aa2c1a9028ecc8f45a4e3e2a684b268c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "published": "Wed, 27 May 2026 00:00:00 GMT",
-      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "image": "data/images/38c5d50b8b49e21fc170728a2a8106f3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "published": "2026-05-28T23:42:47",
-      "description": "",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
       "published": "2026-05-28T13:02:00",
       "description": "",
       "image": "https://llmgame.scalex.dev/continuegame.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "published": "2026-05-29T00:09:35",
+      "description": "",
+      "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "published": "2026-05-28T23:42:47",
+      "description": "",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG",
       "summary": "Summary unavailable."
     },
     {
@@ -188,17 +198,7 @@
       "url": "https://www.anthropic.com/news/series-h",
       "published": "2026-05-28T18:09:44",
       "description": "",
-      "image": "data/images/c36049b08cb47a61e2f1cec08da0d069.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "published": "2026-05-29T00:09:35",
-      "description": "",
-      "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
       "summary": "Summary unavailable."
     }
   ],
