@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-29T07:43:45.426168",
+  "updated": "2026-05-29T11:01:09.354388",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "published": "Fri, 29 May 2026 03:00:00 GMT",
+      "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "image": "data/images/6e89854049a0b23034164f92bb24a74c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 27 May 2026 11:00:00 GMT",
       "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "image": "data/images/63af037363b4107a5ec6a256c3d93754.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "image": "data/images/aa2c1a9028ecc8f45a4e3e2a684b268c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks \u2014 by Artificial Analysis and IBM",
       "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
       "published": "Wed, 27 May 2026 17:20:29 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "published": "Sat, 23 May 2026 00:02:03 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "published": "2026-05-29T09:47:23",
       "description": "",
-      "image": "data/images/2a167451753cff85f21f0021fb63465d.png",
+      "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Orchestrating AI code review at scale",
+      "url": "https://blog.cloudflare.com/ai-code-review/",
+      "published": "2026-05-26T07:06:28",
+      "description": "",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,41 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "published": "2026-05-29T00:09:35",
-      "description": "",
-      "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
       "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
       "published": "2026-05-28T23:42:47",
       "description": "",
       "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "published": "2026-05-28T19:02:18",
-      "description": "",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "published": "2026-05-28T18:09:44",
-      "description": "",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
       "summary": "Summary unavailable."
     }
   ],
