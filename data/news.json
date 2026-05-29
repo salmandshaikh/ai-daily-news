@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-29T14:31:23.836057",
+  "updated": "2026-05-29T18:25:45.877643",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "description": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "image": "data/images/5b74bdf4e9012a022539de5809b28356.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Fri, 29 May 2026 03:00:00 GMT",
       "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "image": "data/images/6e89854049a0b23034164f92bb24a74c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI\u2019s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "published": "Thu, 28 May 2026 00:00:00 GMT",
-      "description": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "MUFG aims to become AI-native with OpenAI",
       "url": "https://openai.com/index/mufg",
       "published": "Thu, 28 May 2026 00:00:00 GMT",
       "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "image": "data/images/a7c45a4e2908a24ee2838bb91f1a3e0f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "published": "Wed, 27 May 2026 11:00:00 GMT",
-      "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "image": "data/images/63af037363b4107a5ec6a256c3d93754.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,51 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-      "url": "https://github.com/scanaislop/aislop",
-      "published": "2026-05-29T13:37:38",
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "published": "2026-05-29T16:22:01",
       "description": "",
-      "image": "https://opengraph.githubassets.com/1d8426e6bf9dcc709b5959ca61cf6dc619ea2e696c2faa347fcba673b78eaa84/scanaislop/aislop",
+      "image": "https://koenvangilst.nl/og?title=Notes%20from%20the%20AI%20Now%20Summit%20by%20Mistral&description=A%20few%20days%20in%20Paris%20for%20the%20Mistral%20AI%20Now%20Summit%3A%20open%20models%2C%20on-prem%20deployment%2C%20agentic%20harnesses%2C%20and%20why%20Mistral%20wants%20to%20be%20the%20European%20full-stack%20AI%20partner.&type=blog",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Please Use AI",
-      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
-      "published": "2026-05-29T13:50:25",
+      "title": "CAPTCHAs can still detect AI agents",
+      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "published": "2026-05-29T15:57:37",
       "description": "",
-      "image": "data/images/d6d9455c68ec97e0c979b6cc06257b5d.png",
+      "image": "https://research.roundtable.ai/images/model-performance.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Is This Sustainable?",
-      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-      "published": "2026-05-29T10:14:43",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "published": "2026-05-29T17:46:27",
       "description": "",
-      "image": "data/images/64f2a98093ffb51138c331328c24a1f6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Orchestrating AI code review at scale",
-      "url": "https://blog.cloudflare.com/ai-code-review/",
-      "published": "2026-05-26T07:06:28",
-      "description": "",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "published": "2026-05-29T09:47:23",
-      "description": "",
-      "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675",
       "summary": "Summary unavailable."
     },
     {
@@ -214,31 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
-      "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
-      "published": "2026-05-27T07:49:56",
+      "title": "Expertise in the age of AI",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "published": "2026-05-29T13:35:13",
       "description": "",
-      "image": "https://www.tensorzero.com/tensorzero-1200x630.png?1773958245",
+      "image": "data/images/3988c17f864717f2b6902d875f7a73bd.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Is AI causing a repeat of Front end's Lost Decade?",
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "published": "2026-05-29T11:09:32",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "published": "2026-05-29T09:47:23",
       "description": "",
-      "image": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png",
+      "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "published": "2026-05-28T13:02:00",
+      "title": "Orchestrating AI code review at scale",
+      "url": "https://blog.cloudflare.com/ai-code-review/",
+      "published": "2026-05-26T07:06:28",
       "description": "",
-      "image": "https://llmgame.scalex.dev/continuegame.png",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
       "summary": "Summary unavailable."
     }
   ],
