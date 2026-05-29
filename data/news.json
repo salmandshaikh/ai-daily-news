@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T11:01:09.354388",
+  "updated": "2026-05-29T14:31:23.836057",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "published": "2026-05-29T09:47:23",
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "url": "https://github.com/scanaislop/aislop",
+      "published": "2026-05-29T13:37:38",
       "description": "",
-      "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
+      "image": "https://opengraph.githubassets.com/1d8426e6bf9dcc709b5959ca61cf6dc619ea2e696c2faa347fcba673b78eaa84/scanaislop/aislop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "published": "2026-05-29T13:50:25",
+      "description": "",
+      "image": "data/images/d6d9455c68ec97e0c979b6cc06257b5d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Is This Sustainable?",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "published": "2026-05-29T10:14:43",
+      "description": "",
+      "image": "data/images/64f2a98093ffb51138c331328c24a1f6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +194,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "published": "2026-05-28T13:02:00",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "published": "2026-05-29T09:47:23",
       "description": "",
-      "image": "https://llmgame.scalex.dev/continuegame.png",
+      "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "published": "2026-05-28T23:42:47",
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "published": "2026-05-29T12:12:16",
       "description": "",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG",
+      "image": "https://vickiboykis.com/images/logo.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+      "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+      "published": "2026-05-27T07:49:56",
+      "description": "",
+      "image": "https://www.tensorzero.com/tensorzero-1200x630.png?1773958245",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "published": "2026-05-29T11:09:32",
+      "description": "",
+      "image": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "published": "2026-05-28T13:02:00",
+      "description": "",
+      "image": "https://llmgame.scalex.dev/continuegame.png",
       "summary": "Summary unavailable."
     }
   ],
