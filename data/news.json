@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-28T21:48:35.680581",
+  "updated": "2026-05-29T01:52:43.934420",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "published": "Thu, 28 May 2026 12:00:00 GMT",
+      "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "image": "data/images/58ed740487311e2fe49d96524b70c867.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,16 +39,6 @@
       "published": "Wed, 27 May 2026 07:00:00 GMT",
       "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "image": "data/images/aa2c1a9028ecc8f45a4e3e2a684b268c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "published": "Wed, 27 May 2026 00:00:00 GMT",
-      "description": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "image": "data/images/63c419db036379e5bfa420fc51b50be7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "published": "2026-05-28T19:02:18",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "published": "2026-05-28T23:42:47",
       "description": "",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-      "published": "2026-05-28T19:43:14",
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "published": "2026-05-28T19:02:18",
       "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220-e1779827097282.jpg?resize=1200,600",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Using Tailscale with an OrbStack VM on macOS",
-      "url": "https://github.com/highpost/tailscale-macos-vm",
-      "published": "2026-05-25T22:10:08",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/58b7156991570e9962992ea6dd7b2d498f3cdf0c6c728506197900eb0384642c/highpost/tailscale-macos-vm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "published": "2026-05-27T20:00:51",
-      "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -208,14 +188,24 @@
       "url": "https://www.anthropic.com/news/series-h",
       "published": "2026-05-28T18:09:44",
       "description": "",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
+      "image": "data/images/c36049b08cb47a61e2f1cec08da0d069.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "published": "2026-05-29T00:09:35",
+      "description": "",
+      "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "speakers": [
       "Alex",
       "Jordan"
