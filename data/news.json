@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T21:31:12.948979",
+  "updated": "2026-05-30T01:47:55.205255",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "published": "2026-05-29T16:22:01",
       "description": "",
@@ -178,7 +178,7 @@
       "url": "https://github.com/jmaczan/tiny-vllm",
       "published": "2026-05-29T19:38:27",
       "description": "",
-      "image": "https://opengraph.githubassets.com/0515f502777b9b718269d25c64462c3821819cb4f6da826794af20ac5aa3cdf7/jmaczan/tiny-vllm",
+      "image": "https://opengraph.githubassets.com/b1ec94334d066b2cd1a54f89070f942d1a33c95bf8222bc7f2306b23b77121e5/jmaczan/tiny-vllm",
       "summary": "Summary unavailable."
     },
     {
@@ -204,6 +204,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "published": "2026-05-29T00:09:35",
+      "description": "",
+      "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What Did the Hudson River School Painters See?",
+      "url": "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html",
+      "published": "2026-05-27T16:42:04",
+      "description": "",
+      "image": "data/images/aba1d81c761bb1f4582c4d4938d0aaae.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "CAPTCHAs can still detect AI agents",
       "url": "https://research.roundtable.ai/captchas-detect-ai/",
       "published": "2026-05-29T15:57:37",
@@ -220,42 +240,12 @@
       "description": "",
       "image": "https://vickiboykis.com/images/logo.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "published": "2026-05-29T17:46:27",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Expertise in the age of AI",
-      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-      "published": "2026-05-29T13:35:13",
-      "description": "",
-      "image": "data/images/3988c17f864717f2b6902d875f7a73bd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "published": "2026-05-29T09:47:23",
-      "description": "",
-      "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-05-29",
+    "date": "2026-05-30",
     "speakers": [
       "Alex",
       "Jordan"
