@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T06:39:18.463272",
+  "updated": "2026-05-30T09:48:07.087089",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Algebraic Effects for the Rest of Us",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "published": "2026-05-26T17:38:51",
+      "description": "",
+      "image": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/opengraph-image?5b0b970dfd19bb8c",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "published": "2026-05-29T16:22:01",
@@ -174,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "published": "2026-05-29T19:38:27",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/57ef778bf85c417fc1a0a755147a3b69a061913c58bf9cadf36fad581b78aef3/jmaczan/tiny-vllm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
       "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
       "published": "2026-05-29T16:19:54",
       "description": "",
       "image": "https://cdn.prod.website-files.com/67cb8aa6e9184b6e44813189/6a17874a7db7a603d7eb3627_lfm2_5_8b_a1b_benchmarks.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "published": "2026-05-29T19:38:27",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/bb9a24449dfdc1757e4a4dcfc046d7f2f778d0d0d8933ac43857af92002b3a3e/jmaczan/tiny-vllm",
       "summary": "Summary unavailable."
     },
     {
@@ -209,16 +219,6 @@
       "published": "2026-05-29T00:09:35",
       "description": "",
       "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We should be more tired than the model",
-      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "published": "2026-05-29T12:12:16",
-      "description": "",
-      "image": "https://vickiboykis.com/images/logo.png",
       "summary": "Summary unavailable."
     }
   ],
