@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T01:58:34.450251",
+  "updated": "2026-05-31T07:37:24.200894",
   "articles": [
     {
       "source": "RSS",
@@ -164,41 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "published": "2026-05-28T09:42:40",
+      "description": "",
+      "image": "data/images/dc2b065b6aa1809a06485520625e7c2c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenRouter raises $113M Series B",
       "url": "https://openrouter.ai/announcements/series-b",
       "published": "2026-05-30T17:27:28",
       "description": "",
       "image": "https://openrouter.ai/dynamic-og?title=OpenRouter+Raises+%24113M+Series+B&description=OpenRouter+has+raised+a+%24113M+Series+B+led+by+CapitalG%2C+with+participation+from+NVentures%2C+ServiceNow+Ventures%2C+MongoDB+Ventures%2C+Snowflake+Ventures%2C+Databricks",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "url": "https://arxiv.org/abs/2605.29135",
-      "published": "2026-05-30T21:05:40",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "published": "2026-05-26T22:15:28",
-      "description": "",
-      "image": "data/images/f7676a29daececb85a388127756fc2fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Open Envelope \u2013 an open schema for defining AI agent teams",
-      "url": "https://openenvelope.org/docs/schema/",
-      "published": "2026-05-28T20:30:20",
-      "description": "",
-      "image": "https://openenvelope.org/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
