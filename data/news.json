@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T02:07:39.562483",
+  "updated": "2026-06-01T09:08:02.041163",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "published": "Mon, 01 Jun 2026 04:44:55 GMT",
+      "description": "",
+      "image": "data/images/9604eea3beda0940341f400db25269ba.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
       "url": "https://huggingface.co/blog/torch-profiler",
       "published": "Fri, 29 May 2026 00:00:00 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "published": "Mon, 25 May 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "published": "2026-06-01T04:08:02",
       "description": "",
-      "image": "data/images/94eff77e5024eaf0b30866964208f21a.png",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Rubin-and-Snowy-Cerro-Pachon-cr-NSF-DOE-Rubin-Observatory-NOIRLab-SLAC-AURA-A.-Pizarro-D-Social.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "published": "2026-05-31T16:19:34",
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "published": "2026-05-31T20:35:38",
       "description": "",
-      "image": "http://thesciverse.org/wp-content/uploads/2026/05/Scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-Alzheimers-cognitive-decline-by-30.webp",
+      "image": "https://framerusercontent.com/images/eJKU8yDyAKTNNHfYvQqWDm5e25s.png?width=6679&height=4516",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Speed of Prototyping in the Age of AI",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "published": "2026-05-31T16:37:34",
-      "description": "",
-      "image": "https://darylcecile.net/og?slug=speed-of-prototyping-age-of-ai",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "What if remote working, not AI, is to blame for weak junior hiring?",
       "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
       "published": "2026-05-29T17:50:11",
@@ -204,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Odysseus \u2013 self-hosted AI workspace",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "published": "2026-05-31T15:50:34",
+      "title": "Dune's Butlerian Jihad and the Future of AI",
+      "url": "https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai",
+      "published": "2026-06-01T07:31:15",
       "description": "",
-      "image": "https://opengraph.githubassets.com/794043917ccce7196b33e3bd8568cbb01a752ba3ebc166b8db3f0e112c9734f9/pewdiepie-archdaemon/odysseus",
+      "image": "https://technology.inquirer.net/files/2026/06/Frank-Herbert-X-post-screenshot.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The History of \"Prisencolinensinainciusol\"",
-      "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
-      "published": "2026-05-31T19:14:23",
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "published": "2026-05-31T16:37:34",
       "description": "",
-      "image": "https://dirkdeklein.net/wp-content/uploads/2025/02/gibber.png",
+      "image": "https://darylcecile.net/og?slug=speed-of-prototyping-age-of-ai",
       "summary": "Summary unavailable."
     }
   ],
