@@ -1,6 +1,26 @@
 {
-  "updated": "2026-06-01T17:08:32.805136",
+  "updated": "2026-06-01T22:28:12.455993",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "published": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "image": "data/images/2b75ff6c9c01bb35f0729dba55f79309.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Fri, 29 May 2026 03:00:00 GMT",
       "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "image": "data/images/6e89854049a0b23034164f92bb24a74c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "published": "Fri, 29 May 2026 00:00:00 GMT",
-      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "published": "Thu, 28 May 2026 12:00:00 GMT",
-      "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "image": "data/images/58ed740487311e2fe49d96524b70c867.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "published": "2026-06-01T16:33:59",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "published": "2026-06-01T16:41:49",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ad54d4235c0e938f0dcc58ff27e13db3e938f690fca1d5f842d879f6ce8f4c4a/stanford-cs336/assignment1-basics",
+      "image": "https://opengraph.githubassets.com/70a62645041d35e956b455d709322a48f01e873c8caf88e63446cf7c704ef9cb/stanford-cs336/assignment1-basics",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +174,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "published": "2026-06-01T16:02:04",
+      "description": "",
+      "image": "data/images/114fbe3ac4bd3164ab298f7a9264254e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GitHub and the crime against software",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "published": "2026-06-01T18:54:55",
+      "description": "",
+      "image": "https://www.eblog.fly.dev/tt_tt.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
       "published": "2026-06-01T14:16:41",
       "description": "",
       "image": "https://torrentfreak.com/images/tpbraidfeat.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Handmade Hawaiian Islands Map",
+      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+      "published": "2026-05-30T13:02:56",
+      "description": "",
+      "image": "https://www.notesfromtheroad.com/files/hawaiian-islands-map.jpg",
       "summary": "Summary unavailable."
     }
   ],
