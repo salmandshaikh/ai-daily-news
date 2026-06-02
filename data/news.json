@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T02:08:37.121547",
+  "updated": "2026-06-02T08:17:56.335916",
   "articles": [
     {
       "source": "RSS",
@@ -102,56 +102,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "published": "Mon, 01 Jun 2026 15:45:17 GMT",
-      "description": "",
-      "image": "data/images/9c7ae1039d93aad732f5e3d28bdb981b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "published": "Mon, 01 Jun 2026 13:51:18 GMT",
-      "description": "",
-      "image": "data/images/72e7aaed91723be02dbe2777343c502c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "published": "Mon, 01 Jun 2026 04:44:55 GMT",
-      "description": "",
-      "image": "data/images/9604eea3beda0940341f400db25269ba.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "published": "Fri, 29 May 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "published": "Wed, 27 May 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
@@ -159,6 +109,16 @@
       "published": "2026-06-01T23:45:46",
       "description": "",
       "image": "data/images/0ddea74eb5ad97bf30c456e98cc75269.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Chipotlai Max",
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
+      "published": "2026-06-01T23:06:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/3753f92fa4d90705eb250413462a0ac8100128c632798b923ec597bc2e124336/cyberpapiii/chipotlai-max",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +134,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "published": "2026-06-01T23:06:35",
+      "title": "How is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "published": "2026-06-02T01:05:29",
       "description": "",
-      "image": "https://opengraph.githubassets.com/412c149f54e3022413a6d628f6facbc065b7151bf7c9e65fed26991c962f3a4e/cyberpapiii/chipotlai-max",
+      "image": "https://substackcdn.com/image/fetch/$s_!-5t_!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fzachbe.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2073874919%26version%3D9",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "published": "2026-06-02T04:05:23",
+      "description": "",
+      "image": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/bonsai-trees.gif",
       "summary": "Summary unavailable."
     },
     {
@@ -188,7 +158,7 @@
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "published": "2026-06-01T16:41:49",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8e67a457891a75ac8af4aa12ddd2a209679e48f0134241436faa408949bd42c1/stanford-cs336/assignment1-basics",
+      "image": "https://opengraph.githubassets.com/b85bd19931eb1dc9dcc803fefacef4041a7f096fac78f0108713791a2bfb7747/stanford-cs336/assignment1-basics",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How the hell is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "published": "2026-06-02T01:05:29",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!-5t_!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fzachbe.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2073874919%26version%3D9",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
       "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
       "published": "2026-06-01T20:55:15",
       "description": "",
       "image": "data/images/c1de457f28ad7be5f6f6bb1134da666f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "published": "2026-06-01T16:02:04",
+      "description": "",
+      "image": "data/images/114fbe3ac4bd3164ab298f7a9264254e.png",
       "summary": "Summary unavailable."
     }
   ],
