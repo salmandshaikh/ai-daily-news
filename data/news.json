@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T15:49:42.004625",
+  "updated": "2026-06-02T19:34:26.084282",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Tue, 02 Jun 2026 12:00:00 GMT",
       "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "image": "data/images/4593145b649a0e0785a94ab46a878166.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "published": "Tue, 02 Jun 2026 09:00:00 GMT",
+      "description": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "image": "data/images/5bad27849712abb7a66a27063eb131db.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Mon, 01 Jun 2026 17:00:00 GMT",
       "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company\u2019s behalf.",
       "image": "data/images/a0e48aab46da9778c66ad9254b2ce2c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
-      "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Microsoft's MAI-Code-1-Flash Scores 51% SWE-Bench Pro with Just 5B Active Params",
+      "url": "https://microsoft.ai/models/mai-code-1-flash/",
+      "published": "2026-06-02T18:47:07",
+      "description": "",
+      "image": "https://microsoft.ai/wp-content/uploads/2026/05/code-social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
       "url": "https://blog.adafruit.com/",
       "published": "2026-06-02T10:00:56",
@@ -164,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "published": "2026-06-01T23:45:46",
+      "title": "Three Ways to Get Paid (2018)",
+      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "published": "2026-06-02T17:09:04",
       "description": "",
-      "image": "data/images/0ddea74eb5ad97bf30c456e98cc75269.png",
+      "image": "https://jasonzweig.com/wp-content/uploads/2018/07/ForSale2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: RePlaya \u2013 self-hosted browser session replay with live tailing",
+      "url": "https://github.com/s2-streamstore/replaya",
+      "published": "2026-06-02T17:40:15",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/812418f4795f18be1920dd54cfb028fa65ca6094583bcca2a529dfbdc7fbed9c/s2-streamstore/replaya",
       "summary": "Summary unavailable."
     },
     {
@@ -184,51 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "published": "2026-06-01T23:06:35",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "published": "2026-06-01T23:45:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/a03b812279453c26b14a309a4be57b845cb9db5d5fda4bb6aa903adc7d254653/cyberpapiii/chipotlai-max",
+      "image": "data/images/0ddea74eb5ad97bf30c456e98cc75269.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "published": "2026-06-01T21:50:02",
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "published": "2026-06-02T16:40:16",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
-      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "published": "2026-06-02T04:05:23",
-      "description": "",
-      "image": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/bonsai-trees.gif",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "published": "2026-06-01T14:10:32",
-      "description": "",
-      "image": "https://cs336.stanford.edu/assets/images/stanford-nlp-logo-new.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "published": "2026-06-01T16:41:49",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/8e93ef321d82c014f5f35ffd4cc85d8c78c33bff4bf2feca51c4234929c71524/stanford-cs336/assignment1-basics",
+      "image": "data/images/c99be29ea1d46ee2c9bb826554fd340a.png",
       "summary": "Summary unavailable."
     }
   ],
