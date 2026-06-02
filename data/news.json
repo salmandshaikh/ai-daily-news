@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-02T08:17:56.335916",
+  "updated": "2026-06-02T15:49:42.004625",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+      "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "image": "data/images/4593145b649a0e0785a94ab46a878166.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "description": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "published": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "image": "data/images/c1a1de1ffc5b323249fed11d745619ef.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,36 +49,6 @@
       "published": "Mon, 01 Jun 2026 12:00:00 GMT",
       "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "published": "Mon, 01 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "image": "data/images/2b75ff6c9c01bb35f0729dba55f79309.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "published": "Fri, 29 May 2026 12:00:00 GMT",
-      "description": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "image": "data/images/5b74bdf4e9012a022539de5809b28356.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "published": "Fri, 29 May 2026 12:00:00 GMT",
-      "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "image": "data/images/c2e6caabf03ecb5c9f72d43213affbda.png",
       "summary": "Summary unavailable."
     },
     {
@@ -102,6 +102,66 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "published": "Tue, 02 Jun 2026 14:13:23 GMT",
+      "description": "",
+      "image": "data/images/5c9fd265716117415c9cf00f3d022e56.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "published": "Mon, 01 Jun 2026 15:45:17 GMT",
+      "description": "",
+      "image": "data/images/9c7ae1039d93aad732f5e3d28bdb981b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "published": "Mon, 01 Jun 2026 13:51:18 GMT",
+      "description": "",
+      "image": "data/images/72e7aaed91723be02dbe2777343c502c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "published": "Mon, 01 Jun 2026 04:44:55 GMT",
+      "description": "",
+      "image": "data/images/9604eea3beda0940341f400db25269ba.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "published": "Fri, 29 May 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "published": "2026-06-02T10:00:56",
+      "description": "",
+      "image": "https://cdn-blog.adafruit.com/uploads/2026/06/ptlimor.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
@@ -114,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+      "published": "2026-06-02T12:01:04",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/876e548b9ee8e5740c35f5d6ddf2ce32d924edc7.png?1604424519",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Chipotlai Max",
       "url": "https://github.com/cyberpapiii/chipotlai-max",
       "published": "2026-06-01T23:06:35",
       "description": "",
-      "image": "https://opengraph.githubassets.com/3753f92fa4d90705eb250413462a0ac8100128c632798b923ec597bc2e124336/cyberpapiii/chipotlai-max",
+      "image": "https://opengraph.githubassets.com/a03b812279453c26b14a309a4be57b845cb9db5d5fda4bb6aa903adc7d254653/cyberpapiii/chipotlai-max",
       "summary": "Summary unavailable."
     },
     {
@@ -134,31 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "published": "2026-06-02T01:05:29",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!-5t_!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fzachbe.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2073874919%26version%3D9",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
       "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
       "published": "2026-06-02T04:05:23",
       "description": "",
       "image": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/bonsai-trees.gif",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "published": "2026-06-01T16:41:49",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b85bd19931eb1dc9dcc803fefacef4041a7f096fac78f0108713791a2bfb7747/stanford-cs336/assignment1-basics",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "published": "2026-06-01T20:55:15",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "published": "2026-06-01T16:41:49",
       "description": "",
-      "image": "data/images/c1de457f28ad7be5f6f6bb1134da666f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "published": "2026-06-01T16:02:04",
-      "description": "",
-      "image": "data/images/114fbe3ac4bd3164ab298f7a9264254e.png",
+      "image": "https://opengraph.githubassets.com/8e93ef321d82c014f5f35ffd4cc85d8c78c33bff4bf2feca51c4234929c71524/stanford-cs336/assignment1-basics",
       "summary": "Summary unavailable."
     }
   ],
