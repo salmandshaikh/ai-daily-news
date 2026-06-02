@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-01T22:28:12.455993",
+  "updated": "2026-06-02T02:08:37.121547",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "published": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company\u2019s behalf.",
+      "image": "data/images/a0e48aab46da9778c66ad9254b2ce2c2.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Fri, 29 May 2026 12:00:00 GMT",
       "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "image": "data/images/c2e6caabf03ecb5c9f72d43213affbda.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "published": "Fri, 29 May 2026 03:00:00 GMT",
-      "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "image": "data/images/6e89854049a0b23034164f92bb24a74c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "published": "2026-06-01T23:45:46",
+      "description": "",
+      "image": "data/images/0ddea74eb5ad97bf30c456e98cc75269.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "published": "2026-06-01T21:50:02",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Chipotlai Max",
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
+      "published": "2026-06-01T23:06:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/412c149f54e3022413a6d628f6facbc065b7151bf7c9e65fed26991c962f3a4e/cyberpapiii/chipotlai-max",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "published": "2026-06-01T16:41:49",
       "description": "",
-      "image": "https://opengraph.githubassets.com/70a62645041d35e956b455d709322a48f01e873c8caf88e63446cf7c704ef9cb/stanford-cs336/assignment1-basics",
+      "image": "https://opengraph.githubassets.com/8e67a457891a75ac8af4aa12ddd2a209679e48f0134241436faa408949bd42c1/stanford-cs336/assignment1-basics",
       "summary": "Summary unavailable."
     },
     {
@@ -174,48 +204,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "published": "2026-06-01T16:02:04",
+      "title": "How the hell is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "published": "2026-06-02T01:05:29",
       "description": "",
-      "image": "data/images/114fbe3ac4bd3164ab298f7a9264254e.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!-5t_!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fzachbe.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2073874919%26version%3D9",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GitHub and the crime against software",
-      "url": "https://eblog.fly.dev/githubbad.html",
-      "published": "2026-06-01T18:54:55",
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "published": "2026-06-01T20:55:15",
       "description": "",
-      "image": "https://www.eblog.fly.dev/tt_tt.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "published": "2026-06-01T14:16:41",
-      "description": "",
-      "image": "https://torrentfreak.com/images/tpbraidfeat.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Handmade Hawaiian Islands Map",
-      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
-      "published": "2026-05-30T13:02:56",
-      "description": "",
-      "image": "https://www.notesfromtheroad.com/files/hawaiian-islands-map.jpg",
+      "image": "data/images/c1de457f28ad7be5f6f6bb1134da666f.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-01",
+    "date": "2026-06-02",
     "speakers": [
       "Alex",
       "Jordan"
