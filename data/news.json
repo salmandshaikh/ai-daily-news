@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T19:34:26.084282",
+  "updated": "2026-06-02T22:15:59.341909",
   "articles": [
     {
       "source": "RSS",
@@ -154,17 +154,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft's MAI-Code-1-Flash Scores 51% SWE-Bench Pro with Just 5B Active Params",
-      "url": "https://microsoft.ai/models/mai-code-1-flash/",
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "published": "2026-06-02T18:47:07",
       "description": "",
-      "image": "https://microsoft.ai/wp-content/uploads/2026/05/code-social.jpg",
+      "image": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "published": "2026-06-02T19:27:40",
+      "description": "",
+      "image": "https://moddedbear.com/images/share.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Open Repair Data Standard \u2013 Open Repair Alliance",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "published": "2026-06-02T19:37:10",
+      "description": "",
+      "image": "https://openrepair.org/wp-content/uploads/2025/01/ords-data-collected.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "url": "https://blog.adafruit.com/",
       "published": "2026-06-02T10:00:56",
       "description": "",
@@ -174,21 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Three Ways to Get Paid (2018)",
-      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-      "published": "2026-06-02T17:09:04",
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "published": "2026-06-02T16:40:16",
       "description": "",
-      "image": "https://jasonzweig.com/wp-content/uploads/2018/07/ForSale2.png",
+      "image": "data/images/c99be29ea1d46ee2c9bb826554fd340a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: RePlaya \u2013 self-hosted browser session replay with live tailing",
-      "url": "https://github.com/s2-streamstore/replaya",
-      "published": "2026-06-02T17:40:15",
+      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+      "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+      "published": "2026-06-02T18:19:27",
       "description": "",
-      "image": "https://opengraph.githubassets.com/812418f4795f18be1920dd54cfb028fa65ca6094583bcca2a529dfbdc7fbed9c/s2-streamstore/replaya",
+      "image": "https://www.computerworld.com/wp-content/uploads/2026/06/4180103-0-48500700-1780424164-shutterstock_1536940715.jpg?quality=50&strip=all&w=1024",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MAI-Thinking-1",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "published": "2026-06-02T18:39:34",
+      "description": "",
+      "image": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "published": "2026-06-01T23:45:46",
+      "title": "Show HN: RePlaya \u2013 self-hosted browser session replay with live tailing",
+      "url": "https://github.com/s2-streamstore/replaya",
+      "published": "2026-06-02T17:40:15",
       "description": "",
-      "image": "data/images/0ddea74eb5ad97bf30c456e98cc75269.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "published": "2026-06-02T16:40:16",
-      "description": "",
-      "image": "data/images/c99be29ea1d46ee2c9bb826554fd340a.png",
+      "image": "https://opengraph.githubassets.com/597667ab15aa83efaec16764ecee70fababaf9f6a5ea474c4d5b4d07d979fa4d/s2-streamstore/replaya",
       "summary": "Summary unavailable."
     }
   ],
