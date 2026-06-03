@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T02:16:53.928763",
+  "updated": "2026-06-03T08:45:39.051028",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-      "published": "2026-06-02T23:55:04",
+      "title": "AI Engineers aren't safe from being replaced by AI",
+      "url": "https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html",
+      "published": "2026-06-03T07:27:20",
       "description": "",
-      "image": "https://www.axa.com/base/images/default_social_image.jpg",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "published": "2026-06-03T06:04:36",
+      "description": "",
+      "image": "data/images/e0bd67e1816d6b6609171f1a02e9e8ab.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Open Repair Data Standard \u2013 Open Repair Alliance",
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "published": "2026-06-02T19:37:10",
+      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "published": "2026-05-31T13:11:02",
       "description": "",
-      "image": "https://openrepair.org/wp-content/uploads/2025/01/ords-data-collected.png",
+      "image": "https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66835784&width=1200&height=600&coordinates=0%2C0%2C0%2C100",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs are not the black box you were promised",
-      "url": "https://www.jay.ai/blog/llms-are-not-a-black-box",
-      "published": "2026-06-02T23:27:30",
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "published": "2026-06-03T03:47:21",
       "description": "",
-      "image": "https://jay.ai/blog/images/llms-are-not-a-black-box/header.png",
+      "image": "https://www.utoronto.ca/sites/default/files/2026-06/0521NicolasPapernot019-crop.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Open Repair Data Standard",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "published": "2026-06-02T19:37:10",
+      "description": "",
+      "image": "https://openrepair.org/wp-content/uploads/2025/01/ords-data-collected.png",
       "summary": "Summary unavailable."
     },
     {
