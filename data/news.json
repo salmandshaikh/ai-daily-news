@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T08:45:39.051028",
+  "updated": "2026-06-03T16:08:32.538843",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Direct Preference Optimization Beyond\u00a0Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "published": "Wed, 03 Jun 2026 12:55:11 GMT",
+      "description": "",
+      "image": "data/images/8c2bf7dd7cdf7268c0e98730f32d6697.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "published": "Wed, 03 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/ffab8d04e808d581dea4c64d2031a670.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Holo3.1: Fast & Local Computer Use Agents",
       "url": "https://huggingface.co/blog/Hcompany/holo31",
       "published": "Tue, 02 Jun 2026 14:13:23 GMT",
@@ -132,26 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "published": "Mon, 01 Jun 2026 04:44:55 GMT",
-      "description": "",
-      "image": "data/images/9604eea3beda0940341f400db25269ba.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "published": "Fri, 29 May 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "MAI-Code-1-Flash",
@@ -169,36 +169,6 @@
       "published": "2026-06-02T23:43:12",
       "description": "",
       "image": "https://law.stanford.edu/wp-content/uploads/2026/02/GettyImages-2224544837-1200x630.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Engineers aren't safe from being replaced by AI",
-      "url": "https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html",
-      "published": "2026-06-03T07:27:20",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
-      "published": "2026-06-03T06:04:36",
-      "description": "",
-      "image": "data/images/e0bd67e1816d6b6609171f1a02e9e8ab.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "published": "2026-06-02T19:27:40",
-      "description": "",
-      "image": "https://moddedbear.com/images/share.png",
       "summary": "Summary unavailable."
     },
     {
@@ -224,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Open Repair Data Standard",
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "published": "2026-06-02T19:37:10",
+      "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "published": "2026-06-03T12:43:43",
       "description": "",
-      "image": "https://openrepair.org/wp-content/uploads/2025/01/ords-data-collected.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "published": "2026-06-02T16:40:16",
-      "description": "",
-      "image": "data/images/c99be29ea1d46ee2c9bb826554fd340a.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k-2560-80.jpg",
       "summary": "Summary unavailable."
     }
   ],
