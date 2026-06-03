@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T22:15:59.341909",
+  "updated": "2026-06-03T02:16:53.928763",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "published": "2026-06-02T23:43:12",
+      "description": "",
+      "image": "https://law.stanford.edu/wp-content/uploads/2026/02/GettyImages-2224544837-1200x630.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "More than 6 out of 10 people turn to AI for psychological support",
+      "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+      "published": "2026-06-02T23:55:04",
+      "description": "",
+      "image": "https://www.axa.com/base/images/default_social_image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Gmail thinks I'm stupid, so I left",
       "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
       "published": "2026-06-02T19:27:40",
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "url": "https://blog.adafruit.com/",
-      "published": "2026-06-02T10:00:56",
+      "title": "LLMs are not the black box you were promised",
+      "url": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+      "published": "2026-06-02T23:27:30",
       "description": "",
-      "image": "https://cdn-blog.adafruit.com/uploads/2026/06/ptlimor.jpeg",
+      "image": "https://jay.ai/blog/images/llms-are-not-a-black-box/header.png",
       "summary": "Summary unavailable."
     },
     {
@@ -200,52 +220,12 @@
       "description": "",
       "image": "data/images/c99be29ea1d46ee2c9bb826554fd340a.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-      "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
-      "published": "2026-06-02T18:19:27",
-      "description": "",
-      "image": "https://www.computerworld.com/wp-content/uploads/2026/06/4180103-0-48500700-1780424164-shutterstock_1536940715.jpg?quality=50&strip=all&w=1024",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MAI-Thinking-1",
-      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-      "published": "2026-06-02T18:39:34",
-      "description": "",
-      "image": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
-      "published": "2026-06-02T12:01:04",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/876e548b9ee8e5740c35f5d6ddf2ce32d924edc7.png?1604424519",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: RePlaya \u2013 self-hosted browser session replay with live tailing",
-      "url": "https://github.com/s2-streamstore/replaya",
-      "published": "2026-06-02T17:40:15",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/597667ab15aa83efaec16764ecee70fababaf9f6a5ea474c4d5b4d07d979fa4d/s2-streamstore/replaya",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "speakers": [
       "Alex",
       "Jordan"
