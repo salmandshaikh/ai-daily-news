@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-04T08:10:50.384261",
+  "updated": "2026-06-04T14:25:01.479352",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "image": "data/images/b837ea53d06a264545f3081e79aaeebb.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "image": "data/images/77e51c607ecde2e376a99837ed07dfc2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "OpenAI public policy agenda",
       "url": "https://openai.com/index/public-policy-agenda",
       "published": "Wed, 03 Jun 2026 10:00:00 GMT",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-      "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "image": "data/images/4593145b649a0e0785a94ab46a878166.png",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "image": "data/images/77e51c607ecde2e376a99837ed07dfc2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "published": "Thu, 04 Jun 2026 12:59:35 GMT",
+      "description": "",
+      "image": "data/images/144697da9ec3980a98fb26d45a5b19b0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "published": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "description": "",
+      "image": "data/images/9c66a1963badc55c411a0962f2c0613e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Direct Preference Optimization Beyond\u00a0Chatbots",
       "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
       "published": "Wed, 03 Jun 2026 12:55:11 GMT",
@@ -132,33 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "published": "Mon, 01 Jun 2026 15:45:17 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "published": "2026-06-04T08:45:36",
       "description": "",
-      "image": "data/images/9c7ae1039d93aad732f5e3d28bdb981b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "published": "Mon, 01 Jun 2026 13:51:18 GMT",
-      "description": "",
-      "image": "data/images/72e7aaed91723be02dbe2777343c502c.png",
+      "image": "data/images/d81a7d802f0397dddfefec4c026c1fb9.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "published": "2026-06-04T00:18:02",
+      "title": "U.S. Army Corps of Engineers Bay Model",
+      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+      "published": "2026-06-02T17:50:00",
       "description": "",
-      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/USCAE_Bay_Model_-_San_Francisco_Bay_Detail.jpg/1280px-USCAE_Bay_Model_-_San_Francisco_Bay_Detail.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+      "published": "2026-06-04T12:00:29",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/f1c7ee9ad553c23f1656a09f18ee65bb300a536c.png?1655126158",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "published": "2026-06-03T16:04:42",
+      "description": "",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "published": "2026-06-03T16:04:42",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "published": "2026-06-04T00:18:02",
       "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Prela \u2013 Purely Algebraic Relation Combinators",
+      "url": "https://github.com/remysucre/prela",
+      "published": "2026-06-01T13:26:01",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/0e26ab1f0ff4541b54f6e6996d604c80f5483d620870d9a5b2125e60a5811f58/remysucre/prela",
       "summary": "Summary unavailable."
     },
     {
@@ -199,16 +239,6 @@
       "published": "2026-06-03T12:25:14",
       "description": "",
       "image": "data/images/2122e56f8525aea2e04b2b33fea9637f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-      "published": "2026-06-03T10:05:48",
-      "description": "",
-      "image": "data/images/c53b41e9ee06e6a29f5b0929f3a724ab.png",
       "summary": "Summary unavailable."
     }
   ],
