@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T02:14:08.252005",
+  "updated": "2026-06-04T08:10:50.384261",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "published": "2026-06-04T00:18:02",
+      "description": "",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
       "published": "2026-06-04T00:56:32",
@@ -199,16 +209,6 @@
       "published": "2026-06-03T10:05:48",
       "description": "",
       "image": "data/images/c53b41e9ee06e6a29f5b0929f3a724ab.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "published": "2026-06-03T20:32:10",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/5befd67b38994f4b663a2dcbce341bcd6265aadefa2ff4563466d1168f9fd9de/zaydmulani09/mnemo",
       "summary": "Summary unavailable."
     }
   ],
