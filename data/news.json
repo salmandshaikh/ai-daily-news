@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T18:06:37.012458",
+  "updated": "2026-06-04T21:21:09.994922",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Biodefense in the Intelligence Age",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "description": "An action plan for AI-powered biological resilience",
+      "image": "data/images/06552dbe520ed8b2906b949291f68f42.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "published": "Wed, 03 Jun 2026 13:15:00 GMT",
@@ -39,16 +49,6 @@
       "published": "Wed, 03 Jun 2026 12:00:00 GMT",
       "description": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "image": "data/images/77e51c607ecde2e376a99837ed07dfc2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,11 +104,11 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
-      "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
-      "published": "Thu, 04 Jun 2026 12:59:35 GMT",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "published": "Thu, 04 Jun 2026 18:57:45 GMT",
       "description": "",
-      "image": "data/images/144697da9ec3980a98fb26d45a5b19b0.png",
+      "image": "data/images/e72bf57d7d0857abd99b3a3ef9f58237.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "url": "https://github.com/huawei-csl/KVarN",
-      "published": "2026-06-04T15:18:00",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "published": "2026-06-04T20:11:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/839a295c660b8f281d65bce026cfebfad96ba93dbc738f16b44fec940c1cce8b/huawei-csl/KVarN",
+      "image": "https://opengraph.githubassets.com/0c0ee5649eb35fb51ad56b585ca8c918bbc595474d059cd8b98f8a560094b352/anthropics/defending-code-reference-harness",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "published": "2026-06-04T15:18:00",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/87426dca104a156f974e9a41bb263b3ed2ff083dc7b5105f8ac22032a45a5e84/huawei-csl/KVarN",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Samurai City",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "published": "2026-06-02T04:32:19",
+      "description": "",
+      "image": "https://worksinprogress.co/wip-image/uploads/2026/06/Samurai-city-i24-share-card-.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "published": "2026-06-04T00:18:02",
+      "description": "",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "U.S. Army Corps of Engineers Bay Model",
       "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
       "published": "2026-06-02T17:50:00",
       "description": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/USCAE_Bay_Model_-_San_Francisco_Bay_Detail.jpg/1280px-USCAE_Bay_Model_-_San_Francisco_Bay_Detail.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI, Ashby Engineering, and the future",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "published": "2026-06-04T14:48:44",
+      "description": "",
+      "image": "https://a-us.storyblok.com/f/1017310/2398x1256/3c1f9b9162/ai-ashby-engineering-and-the-future.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,51 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Prela \u2013 Purely Algebraic Relation Combinators",
-      "url": "https://github.com/remysucre/prela",
-      "published": "2026-06-01T13:26:01",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b1d7ba13e84258cca2647da8fce14eb44edf2fb2166b20548c61f0b70f782498/remysucre/prela",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
       "published": "2026-06-04T00:56:32",
       "description": "",
       "image": "https://kasra.blog/favicon-512.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "published": "2026-06-04T00:27:52",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/82d2262129af025d98a46411fbd42ee970a95cb4-2400x1260.heif",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "published": "2026-06-03T12:25:14",
-      "description": "",
-      "image": "data/images/2122e56f8525aea2e04b2b33fea9637f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "published": "2026-06-04T08:45:36",
-      "description": "",
-      "image": "data/images/d81a7d802f0397dddfefec4c026c1fb9.png",
       "summary": "Summary unavailable."
     }
   ],
