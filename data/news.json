@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T01:59:04.103988",
+  "updated": "2026-06-05T07:58:24.226874",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "published": "2026-06-05T05:46:06",
+      "description": "",
+      "image": "https://passo.uno/uploads/finetuned.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "published": "2026-06-04T20:11:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2f2c2b8780de930501d73c1106c6e62c61f1826a7e70bfc761543db9798041dd/anthropics/defending-code-reference-harness",
+      "image": "https://opengraph.githubassets.com/b85da60efdd7f3d03df0e45447db574fb78dec85eb3f7ecdd990e31a6af017de/anthropics/defending-code-reference-harness",
       "summary": "Summary unavailable."
     },
     {
@@ -168,7 +178,37 @@
       "url": "https://github.com/alibaba/open-code-review",
       "published": "2026-06-05T00:04:29",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4082666c09b634ccfcb8df91fd8d068cc2b61a83fe2ea3822f32cc68097b4352/alibaba/open-code-review",
+      "image": "https://opengraph.githubassets.com/e674a1e60802dd854787fb84ac8ee9dadaf628dd82d2b155124cbbad1200df9c/alibaba/open-code-review",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Go Experiments Explained",
+      "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+      "published": "2026-06-01T08:39:31",
+      "description": "",
+      "image": "https://www.alexedwards.net/cmd/static/img/cards/go-experiments-explained.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Magenta RealTime 2: Open and Local Live Music Models",
+      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "published": "2026-06-05T04:09:53",
+      "description": "",
+      "image": "https://magenta.withgoogle.com/assets/magenta_realtime_2/jam.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Samurai City",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "published": "2026-06-02T04:32:19",
+      "description": "",
+      "image": "https://worksinprogress.co/wip-image/uploads/2026/06/Samurai-city-i24-share-card-.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -188,47 +228,17 @@
       "url": "https://github.com/huawei-csl/KVarN",
       "published": "2026-06-04T15:18:00",
       "description": "",
-      "image": "https://opengraph.githubassets.com/72801ac5450634606331b579a9466a54917a887f38eada85c4fd2e3568e3a3e4/huawei-csl/KVarN",
+      "image": "https://opengraph.githubassets.com/f9429e0c6d9d645b77e64ecd2c994675c8a59f4694c6635a6b01a65e1fd62fa9/huawei-csl/KVarN",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Samurai City",
-      "url": "https://worksinprogress.co/issue/samurai-city/",
-      "published": "2026-06-02T04:32:19",
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "published": "2026-06-04T23:45:56",
       "description": "",
-      "image": "https://worksinprogress.co/wip-image/uploads/2026/06/Samurai-city-i24-share-card-.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-      "url": "https://arxiv.org/abs/2604.24881",
-      "published": "2026-06-04T23:01:40",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "U.S. Army Corps of Engineers Bay Model",
-      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-      "published": "2026-06-02T17:50:00",
-      "description": "",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/USCAE_Bay_Model_-_San_Francisco_Bay_Detail.jpg/1280px-USCAE_Bay_Model_-_San_Francisco_Bay_Detail.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI, Ashby Engineering, and the future",
-      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-      "published": "2026-06-04T14:48:44",
-      "description": "",
-      "image": "https://a-us.storyblok.com/f/1017310/2398x1256/3c1f9b9162/ai-ashby-engineering-and-the-future.png",
+      "image": "https://forum-uploads.privacyguidesusercontent.com/optimized/3X/4/9/497dff4ad1357d00ceb7403851af5b8a7d4b22da_2_774x1024.webp",
       "summary": "Summary unavailable."
     }
   ],
