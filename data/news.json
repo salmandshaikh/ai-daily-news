@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T21:21:09.994922",
+  "updated": "2026-06-05T01:59:04.103988",
   "articles": [
     {
       "source": "RSS",
@@ -158,7 +158,17 @@
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "published": "2026-06-04T20:11:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/0c0ee5649eb35fb51ad56b585ca8c918bbc595474d059cd8b98f8a560094b352/anthropics/defending-code-reference-harness",
+      "image": "https://opengraph.githubassets.com/2f2c2b8780de930501d73c1106c6e62c61f1826a7e70bfc761543db9798041dd/anthropics/defending-code-reference-harness",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "published": "2026-06-05T00:04:29",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4082666c09b634ccfcb8df91fd8d068cc2b61a83fe2ea3822f32cc68097b4352/alibaba/open-code-review",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +188,7 @@
       "url": "https://github.com/huawei-csl/KVarN",
       "published": "2026-06-04T15:18:00",
       "description": "",
-      "image": "https://opengraph.githubassets.com/87426dca104a156f974e9a41bb263b3ed2ff083dc7b5105f8ac22032a45a5e84/huawei-csl/KVarN",
+      "image": "https://opengraph.githubassets.com/72801ac5450634606331b579a9466a54917a887f38eada85c4fd2e3568e3a3e4/huawei-csl/KVarN",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "published": "2026-06-04T00:18:02",
+      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2604.24881",
+      "published": "2026-06-04T23:01:40",
       "description": "",
-      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -220,42 +230,12 @@
       "description": "",
       "image": "https://a-us.storyblok.com/f/1017310/2398x1256/3c1f9b9162/ai-ashby-engineering-and-the-future.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "3D-printed book turns its own G-code into raised lettering",
-      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-      "published": "2026-06-02T14:15:15",
-      "description": "",
-      "image": "https://www.designboom.com/twitterimages/uploads/2026/05/darius-ou-manual-3D-printed-book-designboom-FB.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "published": "2026-06-03T16:04:42",
-      "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "published": "2026-06-04T00:56:32",
-      "description": "",
-      "image": "https://kasra.blog/favicon-512.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-04",
+    "date": "2026-06-05",
     "speakers": [
       "Alex",
       "Jordan"
