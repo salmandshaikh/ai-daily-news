@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T11:18:51.336188",
+  "updated": "2026-06-05T14:15:35.864566",
   "articles": [
     {
       "source": "RSS",
@@ -168,7 +168,17 @@
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "published": "2026-06-04T20:11:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/0c7017ca1b6625040d6709b478828a9282c8014086d2efd6a3a1fb1b20c156ee/anthropics/defending-code-reference-harness",
+      "image": "https://opengraph.githubassets.com/ae4d2188f0416d50796e5c2925ee2c5865f9e8fd27f6a1a5d68b715ab9ddb459/anthropics/defending-code-reference-harness",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "published": "2026-06-05T09:10:42",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4a45aa36b6fa4a18b09d5ab6d8134fa68f02cd1690e66d74410d2910eee862c4/zdk/lowfat",
       "summary": "Summary unavailable."
     },
     {
@@ -178,37 +188,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "published": "2026-06-05T00:04:29",
       "description": "",
-      "image": "https://opengraph.githubassets.com/42d6cda70a0e5069fc64f02de01793fc799f8ed29efc2a29c4002efbb3ba9702/alibaba/open-code-review",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Go Experiments Explained",
-      "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-      "published": "2026-06-01T08:39:31",
-      "description": "",
-      "image": "https://www.alexedwards.net/cmd/static/img/cards/go-experiments-explained.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Magenta RealTime 2: Open and Local Live Music Models",
-      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-      "published": "2026-06-05T04:09:53",
-      "description": "",
-      "image": "https://magenta.withgoogle.com/assets/magenta_realtime_2/jam.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Samurai City",
-      "url": "https://worksinprogress.co/issue/samurai-city/",
-      "published": "2026-06-02T04:32:19",
-      "description": "",
-      "image": "https://worksinprogress.co/wip-image/uploads/2026/06/Samurai-city-i24-share-card-.jpg",
+      "image": "https://opengraph.githubassets.com/8dea0736f50aea5d3bd412e4eb3c69a5ecd84a3587103574022d23dd587a1fef/alibaba/open-code-review",
       "summary": "Summary unavailable."
     }
   ],
