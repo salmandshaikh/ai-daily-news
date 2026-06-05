@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T17:44:21.989142",
+  "updated": "2026-06-05T21:14:13.722195",
   "articles": [
     {
       "source": "RSS",
@@ -102,59 +102,9 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "published": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "description": "",
-      "image": "data/images/e72bf57d7d0857abd99b3a3ef9f58237.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "published": "Thu, 04 Jun 2026 12:24:58 GMT",
-      "description": "",
-      "image": "data/images/9c66a1963badc55c411a0962f2c0613e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/c45ebd7068dd7f5d7ca680f7a78a9e3c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Direct Preference Optimization Beyond\u00a0Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "published": "Wed, 03 Jun 2026 12:55:11 GMT",
-      "description": "",
-      "image": "data/images/8c2bf7dd7cdf7268c0e98730f32d6697.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "published": "Wed, 03 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/ffab8d04e808d581dea4c64d2031a670.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "published": "2026-06-05T15:00:31",
       "description": "",
@@ -174,21 +124,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "published": "2026-06-05T05:46:06",
+      "title": "Hacker News, Sans AI",
+      "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+      "published": "2026-06-05T20:38:40",
       "description": "",
-      "image": "https://passo.uno/uploads/finetuned.png",
+      "image": "data/images/4c7df50660df25e0f5e593dce2d97628.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "published": "2026-06-04T20:11:20",
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "published": "2026-06-05T20:06:36",
       "description": "",
-      "image": "https://opengraph.githubassets.com/74f7fe16a6e98d4cd0f9720852072635d0187f704406d1e2ee5a8e543221d5c9/anthropics/defending-code-reference-harness",
+      "image": "https://image.cnbcfm.com/api/v1/image/108089110-1737388354894-gettyimages-2194353996-AFP_36UV3WH.jpeg?v=1737388378&w=1920&h=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Inside FAISS: Billion-Scale Similarity Search",
+      "url": "https://fremaconsulting.ch/blog/faiss",
+      "published": "2026-06-04T13:54:28",
+      "description": "",
+      "image": "https://fremaconsulting.ch/faiss-schemas/FAISS_OG_card_v2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "published": "2026-06-05T09:10:42",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/fd64cdb082feebb693954c7647539a9df854ec750589793ac45ee43bf4de1100/zdk/lowfat",
       "summary": "Summary unavailable."
     }
   ],
