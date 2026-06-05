@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T14:15:35.864566",
+  "updated": "2026-06-05T17:44:21.989142",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "published": "2026-06-05T15:00:31",
+      "description": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de4c/live/1c088020-60f1-11f1-89a3-d1f559421220.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "published": "2026-06-05T16:18:48",
+      "description": "",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Visual_Blog.width-1300.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Fine-tuning an LLM to write docs like it's 1995",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
       "published": "2026-06-05T05:46:06",
@@ -168,27 +188,7 @@
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "published": "2026-06-04T20:11:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ae4d2188f0416d50796e5c2925ee2c5865f9e8fd27f6a1a5d68b715ab9ddb459/anthropics/defending-code-reference-harness",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "url": "https://github.com/zdk/lowfat",
-      "published": "2026-06-05T09:10:42",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/4a45aa36b6fa4a18b09d5ab6d8134fa68f02cd1690e66d74410d2910eee862c4/zdk/lowfat",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "published": "2026-06-05T00:04:29",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/8dea0736f50aea5d3bd412e4eb3c69a5ecd84a3587103574022d23dd587a1fef/alibaba/open-code-review",
+      "image": "https://opengraph.githubassets.com/74f7fe16a6e98d4cd0f9720852072635d0187f704406d1e2ee5a8e543221d5c9/anthropics/defending-code-reference-harness",
       "summary": "Summary unavailable."
     }
   ],
