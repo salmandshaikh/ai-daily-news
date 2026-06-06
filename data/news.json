@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T21:14:13.722195",
+  "updated": "2026-06-06T01:50:23.243430",
   "articles": [
     {
       "source": "RSS",
@@ -102,6 +102,66 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "published": "Fri, 05 Jun 2026 22:18:46 GMT",
+      "description": "",
+      "image": "data/images/0158331b4d4bd777cbb1f1eda9427474.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "published": "Thu, 04 Jun 2026 18:57:45 GMT",
+      "description": "",
+      "image": "data/images/e72bf57d7d0857abd99b3a3ef9f58237.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "published": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "description": "",
+      "image": "data/images/9c66a1963badc55c411a0962f2c0613e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/c45ebd7068dd7f5d7ca680f7a78a9e3c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Direct Preference Optimization Beyond\u00a0Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "published": "Wed, 03 Jun 2026 12:55:11 GMT",
+      "description": "",
+      "image": "data/images/8c2bf7dd7cdf7268c0e98730f32d6697.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "published": "2026-06-06T00:33:26",
+      "description": "",
+      "image": "https://salvagedcircuitry.com/img/sigma-45mm/med/20240228_145227c.JPG",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
@@ -124,26 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Hacker News, Sans AI",
-      "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-      "published": "2026-06-05T20:38:40",
-      "description": "",
-      "image": "data/images/4c7df50660df25e0f5e593dce2d97628.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-      "published": "2026-06-05T20:06:36",
-      "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108089110-1737388354894-gettyimages-2194353996-AFP_36UV3WH.jpeg?v=1737388378&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Inside FAISS: Billion-Scale Similarity Search",
       "url": "https://fremaconsulting.ch/blog/faiss",
       "published": "2026-06-04T13:54:28",
@@ -154,18 +194,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "South Korean forums will need to scan every images with AI censorship tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "published": "2026-06-04T23:45:56",
+      "description": "",
+      "image": "https://forum-uploads.privacyguidesusercontent.com/optimized/3X/4/9/497dff4ad1357d00ceb7403851af5b8a7d4b22da_2_774x1024.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
       "url": "https://github.com/zdk/lowfat",
       "published": "2026-06-05T09:10:42",
       "description": "",
-      "image": "https://opengraph.githubassets.com/fd64cdb082feebb693954c7647539a9df854ec750589793ac45ee43bf4de1100/zdk/lowfat",
+      "image": "https://opengraph.githubassets.com/c0a3f2c616111c7348d0453859b85bdfa7456d32e002d5167a57e85521714fc1/zdk/lowfat",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-05",
+    "date": "2026-06-06",
     "speakers": [
       "Alex",
       "Jordan"
