@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:51:34.506324",
+  "updated": "2026-06-06T13:00:59.224211",
   "articles": [
     {
       "source": "RSS",
@@ -102,53 +102,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "published": "Fri, 05 Jun 2026 22:18:46 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "published": "2026-06-06T09:17:49",
       "description": "",
-      "image": "data/images/0158331b4d4bd777cbb1f1eda9427474.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "published": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "description": "",
-      "image": "data/images/e72bf57d7d0857abd99b3a3ef9f58237.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "published": "Thu, 04 Jun 2026 12:24:58 GMT",
-      "description": "",
-      "image": "data/images/9c66a1963badc55c411a0962f2c0613e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/c45ebd7068dd7f5d7ca680f7a78a9e3c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Direct Preference Optimization Beyond\u00a0Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "published": "Wed, 03 Jun 2026 12:55:11 GMT",
-      "description": "",
-      "image": "data/images/8c2bf7dd7cdf7268c0e98730f32d6697.png",
+      "image": "https://blog.includesecurity.com/wp-content/uploads/2026/05/proxynet.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +124,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "published": "2026-06-06T04:38:36",
+      "description": "",
+      "image": "data/images/9915caa7eab9ff0514f3e46734147428.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
       "published": "2026-06-06T00:33:26",
@@ -174,11 +144,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "published": "2026-06-06T04:38:36",
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "published": "2026-06-06T12:00:56",
       "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/bb1239ee67e01455546fe8a413724b572346e680.png?1745870357",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The back cover of C++: The Language raises questions not answered by front cover",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "published": "2026-06-06T03:23:47",
-      "description": "",
-      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
       "published": "2026-06-05T16:18:48",
       "description": "",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Visual_Blog.width-1300.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "published": "2026-06-06T03:23:47",
+      "description": "",
+      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
       "summary": "Summary unavailable."
     }
   ],
