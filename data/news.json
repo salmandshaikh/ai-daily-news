@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T16:56:17.845800",
+  "updated": "2026-06-06T20:52:20.629545",
   "articles": [
     {
       "source": "RSS",
@@ -104,11 +104,11 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Job Searcher",
-      "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
-      "published": "Sat, 06 Jun 2026 15:36:51 GMT",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "published": "Sat, 06 Jun 2026 19:02:33 GMT",
       "description": "",
-      "image": "data/images/b4b0c2f111417697ccfb1eccf4e534c5.png",
+      "image": "data/images/a250b3e9db58f26fca5e1a3c9c33a8a2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "published": "2026-06-06T18:35:27",
+      "description": "",
+      "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "published": "2026-06-03T20:15:13",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "published": "2026-06-06T18:21:06",
+      "description": "",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-trump-netanyahu-vsb-1755-912832.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,26 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "published": "2026-06-06T13:40:22",
-      "description": "",
-      "image": "data/images/3bf5acaae58e0c5970fe9f9f34ffd723.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "published": "2026-06-06T00:33:26",
-      "description": "",
-      "image": "https://salvagedcircuitry.com/img/sigma-45mm/med/20240228_145227c.JPG",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
       "published": "2026-06-06T12:00:56",
@@ -224,21 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "published": "2026-06-05T15:00:31",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "published": "2026-06-06T00:33:26",
       "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de4c/live/1c088020-60f1-11f1-89a3-d1f559421220.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "published": "2026-06-05T16:18:48",
-      "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Visual_Blog.width-1300.png",
+      "image": "https://salvagedcircuitry.com/img/sigma-45mm/med/20240228_145227c.JPG",
       "summary": "Summary unavailable."
     }
   ],
