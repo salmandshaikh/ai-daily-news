@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T07:45:43.640315",
+  "updated": "2026-06-07T10:19:30.539004",
   "articles": [
     {
       "source": "RSS",
@@ -104,11 +104,11 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "published": "Sat, 06 Jun 2026 19:02:33 GMT",
+      "title": "Her \u00b7 \u0939\u0947\u0930 \u2014 a detective for your Claude Code sessions",
+      "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "published": "Sun, 07 Jun 2026 10:13:41 GMT",
       "description": "",
-      "image": "data/images/a250b3e9db58f26fca5e1a3c9c33a8a2.png",
+      "image": "data/images/ad41ddead4d61f99bf4fb27c33270725.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Human-Like Neural Nets by Catapulting",
-      "url": "https://gwern.net/llm-catapult",
-      "published": "2026-06-06T23:45:36",
-      "description": "",
-      "image": "https://gwern.net/doc/reinforcement-learning/model-free/2008-12-07-rogerjohansson-geneticprogrammingevolutionofmonalisa-figure1-2x2subset-scalingoptimization3oomsshowsimprovementinrenderingmonalisawith50semitransparentpolygons.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
       "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
       "published": "2026-06-05T10:19:39",
@@ -214,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: TakoVM \u2013 Isolated model and tool execution used by enterprises",
-      "url": "https://github.com/las7/TakoVM",
-      "published": "2026-06-07T02:42:24",
+      "title": "Human-Like Neural Nets by Catapulting",
+      "url": "https://gwern.net/llm-catapult",
+      "published": "2026-06-06T23:45:36",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8273ecaea8ffa1747be9f298a092e8f5b617cfb16cbf7de931364649d3b0b957/las7/TakoVM",
+      "image": "https://gwern.net/doc/reinforcement-learning/model-free/2008-12-07-rogerjohansson-geneticprogrammingevolutionofmonalisa-figure1-2x2subset-scalingoptimization3oomsshowsimprovementinrenderingmonalisawith50semitransparentpolygons.png",
       "summary": "Summary unavailable."
     }
   ],
