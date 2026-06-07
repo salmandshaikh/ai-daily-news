@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T02:03:41.666099",
+  "updated": "2026-06-07T07:45:43.640315",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "published": "2026-06-06T18:35:27",
-      "description": "",
-      "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Public Domain Image Archive",
       "url": "https://pdimagearchive.org/",
       "published": "2026-06-07T00:22:51",
@@ -174,11 +164,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: DomainTasker \u2013 avoid losing domains and surprise renewals",
-      "url": "https://domaintasker.com/",
-      "published": "2026-06-07T00:50:13",
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "published": "2026-06-04T03:12:05",
       "description": "",
-      "image": "https://domaintasker.com/img/social-image.jpg",
+      "image": "https://biohub.org/wp-content/uploads/sites/32/2026/05/esm-world-model-protein-biology-social-share.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Human-Like Neural Nets by Catapulting",
+      "url": "https://gwern.net/llm-catapult",
+      "published": "2026-06-06T23:45:36",
+      "description": "",
+      "image": "https://gwern.net/doc/reinforcement-learning/model-free/2008-12-07-rogerjohansson-geneticprogrammingevolutionofmonalisa-figure1-2x2subset-scalingoptimization3oomsshowsimprovementinrenderingmonalisawith50semitransparentpolygons.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
+      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+      "published": "2026-06-05T10:19:39",
+      "description": "",
+      "image": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/assets/repo-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "published": "2026-06-06T18:35:27",
+      "description": "",
+      "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -194,41 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "published": "2026-06-06T18:21:06",
+      "title": "Show HN: TakoVM \u2013 Isolated model and tool execution used by enterprises",
+      "url": "https://github.com/las7/TakoVM",
+      "published": "2026-06-07T02:42:24",
       "description": "",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-trump-netanyahu-vsb-1755-912832.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.00414",
-      "published": "2026-06-06T12:59:59",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-      "published": "2026-06-06T12:00:56",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/bb1239ee67e01455546fe8a413724b572346e680.png?1745870357",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "published": "2026-06-03T20:15:13",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://opengraph.githubassets.com/8273ecaea8ffa1747be9f298a092e8f5b617cfb16cbf7de931364649d3b0b957/las7/TakoVM",
       "summary": "Summary unavailable."
     }
   ],
