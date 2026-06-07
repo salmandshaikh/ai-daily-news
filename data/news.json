@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T17:01:37.015895",
+  "updated": "2026-06-07T20:57:33.060085",
   "articles": [
     {
       "source": "RSS",
@@ -102,13 +102,63 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published": "Sun, 07 Jun 2026 19:44:27 GMT",
+      "description": "",
+      "image": "data/images/f83666a09e28508f1b3af2dfff64a0dc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "published": "Thu, 04 Jun 2026 18:57:45 GMT",
+      "description": "",
+      "image": "data/images/e72bf57d7d0857abd99b3a3ef9f58237.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "published": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "description": "",
+      "image": "data/images/9c66a1963badc55c411a0962f2c0613e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/c45ebd7068dd7f5d7ca680f7a78a9e3c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Direct Preference Optimization Beyond\u00a0Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "published": "Wed, 03 Jun 2026 12:55:11 GMT",
+      "description": "",
+      "image": "data/images/8c2bf7dd7cdf7268c0e98730f32d6697.png",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "published": "2026-06-07T12:49:29",
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "published": "2026-06-07T17:22:28",
       "description": "",
-      "image": "https://i.ibb.co/SDdRz6RG/pawel-czerwinski-G6ez-Kt1-XOs-unsplash-1.jpg",
+      "image": "https://opengraph.githubassets.com/8241a71b96a422765f9d9ad1bcb30500c77877846b55014bc7beb9ee343beb28/yukiyokotani/office-open-xml-viewer",
       "summary": "Summary unavailable."
     },
     {
@@ -118,7 +168,7 @@
       "url": "https://github.com/devenjarvis/lathe",
       "published": "2026-06-07T11:16:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ab35743f70121b77c07de8f6e15f3c3e024bd5f339e7295aab33aa79cabd42e8/devenjarvis/lathe",
+      "image": "https://opengraph.githubassets.com/8bf5065c30b0896c13f7022e57152090a1d9443f73d6c6c1c80dc0b067fcd225/devenjarvis/lathe",
       "summary": "Summary unavailable."
     },
     {
@@ -129,36 +179,6 @@
       "published": "2026-06-07T00:22:51",
       "description": "",
       "image": "https://images.pdimagearchive.org/pdia/main-opengraph.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Biohub releases a world model of protein biology",
-      "url": "https://biohub.org/news/world-model-of-protein-biology/",
-      "published": "2026-06-04T03:12:05",
-      "description": "",
-      "image": "https://biohub.org/wp-content/uploads/sites/32/2026/05/esm-world-model-protein-biology-social-share.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Efficient and Training-Free Single-Image Diffusion Models",
-      "url": "https://arxiv.org/abs/2606.04299",
-      "published": "2026-06-07T09:43:45",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
-      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-      "published": "2026-06-05T10:19:39",
-      "description": "",
-      "image": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/assets/repo-card.png",
       "summary": "Summary unavailable."
     }
   ],
