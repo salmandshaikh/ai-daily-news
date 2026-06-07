@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T20:52:20.629545",
+  "updated": "2026-06-07T02:03:41.666099",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "published": "2026-06-03T20:15:13",
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "published": "2026-06-07T00:22:51",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://images.pdimagearchive.org/pdia/main-opengraph.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: DomainTasker \u2013 avoid losing domains and surprise renewals",
+      "url": "https://domaintasker.com/",
+      "published": "2026-06-07T00:50:13",
+      "description": "",
+      "image": "https://domaintasker.com/img/social-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "published": "2026-06-05T20:06:36",
+      "description": "",
+      "image": "https://image.cnbcfm.com/api/v1/image/108089110-1737388354894-gettyimages-2194353996-AFP_36UV3WH.jpeg?v=1737388378&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Police in England and Wales told to halt AI use in court statements",
-      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-      "published": "2026-06-06T15:35:49",
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "published": "2026-06-06T12:59:59",
       "description": "",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1d1d19a-9408-4021-be8d-b71030760ab6.jpg?source=next-barrier-page",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "published": "2026-06-06T04:38:36",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,28 +224,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.00414",
-      "published": "2026-06-06T12:59:59",
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "published": "2026-06-03T20:15:13",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "published": "2026-06-06T00:33:26",
-      "description": "",
-      "image": "https://salvagedcircuitry.com/img/sigma-45mm/med/20240228_145227c.JPG",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "speakers": [
       "Alex",
       "Jordan"
