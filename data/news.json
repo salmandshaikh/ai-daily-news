@@ -1,6 +1,26 @@
 {
-  "updated": "2026-06-08T18:16:53.990311",
+  "updated": "2026-06-08T21:31:18.493193",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "published": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "description": "OpenAI recently submitted a confidential S-1 to the SEC and has not decided on timing.",
+      "image": "data/images/4d411e6e69b2fd0d082db768b14fe03f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "published": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "description": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "image": "data/images/3950035458a2a7bba949de24f68dceae.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Thu, 04 Jun 2026 09:00:00 GMT",
       "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
       "image": "data/images/6b9104a1b80254b75a29cfd3f32051c7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Biodefense in the Intelligence Age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "description": "An action plan for AI-powered biological resilience",
-      "image": "data/images/06552dbe520ed8b2906b949291f68f42.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "published": "Wed, 03 Jun 2026 13:15:00 GMT",
-      "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "published": "2026-06-08T19:14:47",
+      "description": "",
+      "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "published": "2026-06-08T18:17:53",
+      "description": "",
+      "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606071957",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
       "published": "2026-06-08T15:27:33",
@@ -174,31 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Is Slowing Down",
+      "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, anti-AI, and written in Rust",
+      "url": "https://gitdot.io/",
+      "published": "2026-06-08T16:52:11",
+      "description": "",
+      "image": "data/images/65594bbaedc2a66c740e79bb4426a07b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "published": "2026-06-08T18:47:38",
+      "description": "",
+      "image": "https://docs.developer.apple.com/tutorials/developer-og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is slowing down",
       "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
       "published": "2026-06-08T15:46:37",
       "description": "",
       "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "published": "2026-06-04T14:20:59",
-      "description": "",
-      "image": "https://unsung.aresluna.org/_media/good-type-against-all-odds/ogimage.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
-      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
-      "published": "2026-06-08T09:52:03",
-      "description": "",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/human-in-the-loop/pawel-czerwinski-mv3apn9e7su-unsplash-1.webp",
       "summary": "Summary unavailable."
     }
   ],
