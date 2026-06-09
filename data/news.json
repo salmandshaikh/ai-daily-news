@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T14:12:48.367170",
+  "updated": "2026-06-09T17:49:56.453257",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "published": "Tue, 09 Jun 2026 15:16:25 +0000",
+      "description": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "image": "data/images/87a2f4d128d11fd16a7b4cada6e54b61.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
       "published": "Tue, 09 Jun 2026 14:10:19 +0000",
@@ -89,16 +99,6 @@
       "published": "Thu, 21 May 2026 19:46:42 +0000",
       "description": "",
       "image": "data/images/3c6f2df3390e2a183555f808ecd1896c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "published": "Mon, 18 May 2026 18:21:39 +0000",
-      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-      "image": "data/images/1a14d769c0c8b5a1e0cc1dc596599b7d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,66 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "url": "https://arxiv.org/abs/2603.24647",
+      "published": "2026-06-09T15:01:15",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "published": "2026-06-09T15:59:41",
+      "description": "",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/06/oppen-2.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: GentleOS \u2013 A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+      "url": "https://github.com/luke8086/gentleos32",
+      "published": "2026-06-07T15:45:50",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/ae149aad8e5af770bf1075611fe64db35f0c75cc813fca5f26fea71daced5076/luke8086/gentleos32",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+      "url": "https://arxiv.org/abs/2604.19773",
+      "published": "2026-06-09T14:04:54",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Where is the AI jobs crisis?",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+      "published": "2026-06-09T17:29:17",
+      "description": "",
+      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Painting the Internet: A Different Kind of Warhol Worm [pdf]",
+      "url": "https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf",
+      "published": "2026-06-08T02:05:44",
+      "description": "",
+      "image": "data/images/379da3a0b7ddcbcfb44f49f50ec376d9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Cleaning up after AI rockstar developers",
       "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
       "published": "2026-06-09T09:10:10",
@@ -174,51 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "published": "2026-06-08T19:14:47",
+      "title": "SAT-Physical Thermodynamic Framework: treating constraints as a thermal system",
+      "url": "https://github.com/alikamp/SAT_HARDNESS_P-NP",
+      "published": "2026-06-06T01:49:18",
       "description": "",
-      "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "published": "2026-06-08T15:13:43",
-      "description": "",
-      "image": "https://martinalderson.com/img/og/xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "published": "2026-06-08T18:17:53",
-      "description": "",
-      "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "published": "2026-06-08T15:27:33",
-      "description": "",
-      "image": "data/images/11f64aaaddf355e7bce27da8d6e04036.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "published": "2026-06-08T18:47:38",
-      "description": "",
-      "image": "https://docs.developer.apple.com/tutorials/developer-og.jpg",
+      "image": "data/images/ae4922e049741042c796ec1eafaf2763.png",
       "summary": "Summary unavailable."
     }
   ],
