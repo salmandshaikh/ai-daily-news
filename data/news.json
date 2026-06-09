@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T10:50:19.084750",
+  "updated": "2026-06-09T14:12:48.367170",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,36 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "published": "Tue, 09 Jun 2026 14:10:19 +0000",
+      "description": "",
+      "image": "data/images/f609fc954bcd9f119e5737cca9660afc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Powering the future of robotics in Europe",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "published": "Tue, 09 Jun 2026 14:02:33 +0000",
+      "description": "",
+      "image": "data/images/c951a94a9fc8255c0f6692148dc1a7ef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "published": "Mon, 08 Jun 2026 13:04:59 +0000",
+      "description": "Results from a randomized controlled trial show the potential of Gemini\u2019s Guided Learning feature to boost engagement and accelerate learning.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "We\u2019re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
       "published": "Thu, 21 May 2026 19:46:42 +0000",
@@ -73,42 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "published": "Sun, 17 May 2026 19:53:18 +0000",
-      "description": "We\u2019re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
-      "image": "data/images/e19d4e9df1335cad8f0db335961571a9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Gemini Omni",
-      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
-      "published": "Sun, 17 May 2026 19:50:57 +0000",
-      "description": "",
-      "image": "data/images/ab68c479ff3d02a13d838340affc16a1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Google Antigravity 2.0",
-      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-      "published": "Sun, 17 May 2026 19:43:45 +0000",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
-      "url": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
-      "published": "Tue, 09 Jun 2026 09:04:58 GMT",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "published": "Tue, 09 Jun 2026 10:46:19 GMT",
       "description": "",
-      "image": "data/images/8db05781d22cb8c0a742fa13d4944941.png",
+      "image": "data/images/e638fb1511763fd8e44d0c206c47bb96.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "published": "2026-06-09T09:10:10",
+      "description": "",
+      "image": "https://www.codingwithjesse.com/images/2026-06-08-rockstar-developers.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "published": "2026-06-08T19:14:47",
@@ -174,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "published": "2026-06-08T18:17:53",
-      "description": "",
-      "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "published": "2026-06-08T15:13:43",
       "description": "",
       "image": "https://martinalderson.com/img/og/xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "published": "2026-06-08T18:17:53",
+      "description": "",
+      "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607",
       "summary": "Summary unavailable."
     },
     {
