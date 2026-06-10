@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T21:27:13.197479",
+  "updated": "2026-06-10T01:57:11.809831",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,26 @@
       "published": "Tue, 09 Jun 2026 12:00:00 GMT",
       "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "image": "data/images/af2b7160ad68a8c7ecd003cdefaffbf2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "published": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "image": "data/images/bcfe0de283faceaa2f1106c4cc5af313.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "published": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "image": "data/images/6f4b75bce0056f7a80c5598b2eafc455.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Mon, 08 Jun 2026 01:30:00 GMT",
       "description": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
       "image": "data/images/3950035458a2a7bba949de24f68dceae.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI launches the Economic Research Exchange to study AI\u2019s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "image": "data/images/881449ace45a8a8350b073b1157917a6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "image": "data/images/b837ea53d06a264545f3081e79aaeebb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "published": "2026-06-10T00:29:01",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
       "url": "https://aarushgupta.io/posts/kan-fpga/",
       "published": "2026-06-09T19:21:45",
@@ -164,17 +174,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "published": "2026-06-09T07:33:16",
+      "title": "Lies we tell ourselves about email addresses",
+      "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+      "published": "2026-06-08T14:24:57",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/Microsoft-e1658216731934.jpg?resize=1200,675",
+      "image": "data/images/4d242a3f8adc43319b28586450dbb7eb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "title": "CEOs who think AI replaces their employees are just bad CEOs",
       "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
       "published": "2026-06-09T18:45:59",
       "description": "",
@@ -184,68 +194,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Where is the AI jobs crisis?",
-      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
-      "published": "2026-06-09T17:29:17",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "published": "2026-06-10T01:44:13",
       "description": "",
-      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/ai_overviews_hammer_law.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-      "url": "https://arxiv.org/abs/2603.24647",
-      "published": "2026-06-09T15:01:15",
+      "title": "Show HN: Nucleus \u2013 A security-hardened, Nix-native container runtime",
+      "url": "https://github.com/sig-id/nucleus",
+      "published": "2026-06-09T23:03:40",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: GentleOS \u2013 A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
-      "url": "https://github.com/luke8086/gentleos32",
-      "published": "2026-06-07T15:45:50",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/bcf43c479b94ee34a16ef57595b0dae41e6dfb3bd4c0d22074b9f7a5e1e9e825/luke8086/gentleos32",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Blaise v0.10.0: Native Back End, Threads and Incremental Compilation",
-      "url": "https://github.com/graemeg/blaise/discussions/82",
-      "published": "2026-06-08T12:55:01",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/29ede63c59426c43c35c53cf6fc38bf9d792e86ec340a2d8bc3a549d213e42f5/graemeg/blaise/discussions/82",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
-      "url": "https://arxiv.org/abs/2604.19773",
-      "published": "2026-06-09T14:04:54",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-2: Too Dangerous To Release (2019)",
-      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-      "published": "2026-06-09T18:21:43",
-      "description": "",
-      "image": "data/images/01a983044e3603b4b7bb2e732b56af58.png",
+      "image": "https://opengraph.githubassets.com/be83b332543c59e8493b799eef5b99468a7b45a8ca53c0c6d658cf1220487f5b/sig-id/nucleus",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "speakers": [
       "Alex",
       "Jordan"
