@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-11T15:25:31.525238",
+  "updated": "2026-06-11T18:39:29.181472",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "image": "data/images/f0bf166c859124c6aa3d8e49c08e77f0.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,31 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "image": "data/images/57225e7fcd857a6f3fb537aea4522467.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "published": "Wed, 10 Jun 2026 20:00:00 GMT",
       "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "image": "data/images/b21befd85d89ff88d4ae2cc2d6bd9be2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "published": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
-      "image": "data/images/71bfc2ea6f1c3bc59cce4051ffe8ac03.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://openai.com/index/lseg",
-      "published": "Wed, 10 Jun 2026 00:00:00 GMT",
-      "description": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "image": "data/images/892b63ecde579b23ed36511acb7402bb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,51 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-      "published": "2026-06-11T13:26:59",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "published": "2026-06-11T12:05:02",
       "description": "",
-      "image": "https://i.insider.com/6a2a9528457accd9f7cea838?width=1200&format=jpeg",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "published": "2026-06-11T00:10:08",
+      "title": "How Terry Tao became an evangelist for AI in math",
+      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+      "published": "2026-06-08T15:30:09",
       "description": "",
-      "image": "data/images/fdf1b105386322572ad4824d43d8595c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "published": "2026-06-10T16:42:00",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-      "published": "2026-06-09T14:29:34",
-      "description": "",
-      "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "published": "2026-06-11T07:51:17",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg",
       "summary": "Summary unavailable."
     }
   ],
