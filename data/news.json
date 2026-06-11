@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-11T08:26:23.690353",
+  "updated": "2026-06-11T15:25:31.525238",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
-      "image": "data/images/02ee31426227662dc2f7fe45a44ca844.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
+      "image": "data/images/02ee31426227662dc2f7fe45a44ca844.png",
       "summary": "Summary unavailable."
     },
     {
@@ -64,6 +64,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published": "Wed, 10 Jun 2026 10:21:19 +0000",
+      "description": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "image": "data/images/39c3430e4c5020d8d121a3efbbd97fc6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
       "published": "Tue, 09 Jun 2026 15:16:25 +0000",
@@ -93,11 +103,11 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "published": "Mon, 08 Jun 2026 13:04:59 +0000",
-      "description": "Results from a randomized controlled trial show the potential of Gemini\u2019s Guided Learning feature to boost engagement and accelerate learning.",
+      "source_name": "Hugging Face - Blog",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/2dcfd3a2f7e9d6e60e454010cb6d631e.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
@@ -159,6 +159,16 @@
       "published": "2026-06-11T06:42:06",
       "description": "",
       "image": "https://dronexl.co/wp-content/uploads/2026/06/Pokemon-Go-Scans-Quietly-Trained-the-Navigation-Tech-Now-Headed-Into-Military-Drones.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "published": "2026-06-11T13:26:59",
+      "description": "",
+      "image": "https://i.insider.com/6a2a9528457accd9f7cea838?width=1200&format=jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Klondike Solitaire game for curses in 5k of C",
-      "url": "https://nanochess.org/klondike_in_c.html",
-      "published": "2026-06-08T19:08:12",
+      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+      "published": "2026-06-09T14:29:34",
       "description": "",
-      "image": "data/images/39aa3bba8ce13570f4f0d0235430fc52.png",
+      "image": "https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "L'Affaire Siloxane",
-      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
-      "published": "2026-06-09T05:21:39",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "published": "2026-06-11T07:51:17",
       "description": "",
-      "image": "data/images/c058f22f6d252ad4a8113640c3c79e27.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Road to the WASM Component Model 1.0",
-      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
-      "published": "2026-06-08T17:12:44",
-      "description": "",
-      "image": "https://bytecodealliance.org/images/avatar.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "url": "https://burr.apache.org/",
-      "published": "2026-06-10T15:01:06",
-      "description": "",
-      "image": "data/images/0cfce548f20f41e968c8944911978c6a.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
       "summary": "Summary unavailable."
     }
   ],
