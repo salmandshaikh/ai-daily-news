@@ -1,6 +1,26 @@
 {
-  "updated": "2026-06-10T21:49:24.224122",
+  "updated": "2026-06-11T02:08:44.544595",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
+      "image": "data/images/02ee31426227662dc2f7fe45a44ca844.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "published": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "image": "data/images/b21befd85d89ff88d4ae2cc2d6bd9be2.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 09 Jun 2026 12:00:00 GMT",
       "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "image": "data/images/af2b7160ad68a8c7ecd003cdefaffbf2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "published": "Tue, 09 Jun 2026 10:00:00 GMT",
-      "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "image": "data/images/bcfe0de283faceaa2f1106c4cc5af313.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "published": "Tue, 09 Jun 2026 00:00:00 GMT",
-      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "image": "data/images/6f4b75bce0056f7a80c5598b2eafc455.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "L'Affaire Siloxane",
-      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
-      "published": "2026-06-09T05:21:39",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "published": "2026-06-11T00:10:08",
       "description": "",
-      "image": "data/images/c058f22f6d252ad4a8113640c3c79e27.png",
+      "image": "data/images/fdf1b105386322572ad4824d43d8595c.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Anthropic's Model Naming, Extrapolated",
-      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-      "published": "2026-06-10T18:45:20",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "published": "2026-06-10T16:42:00",
       "description": "",
-      "image": "data/images/3f920d07306f42c37d60d6727412e8ce.png",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Klondike Solitaire game for curses in 5k of C",
+      "url": "https://nanochess.org/klondike_in_c.html",
+      "published": "2026-06-08T19:08:12",
+      "description": "",
+      "image": "https://nanochess.org/img/klondike_c_2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "L'Affaire Siloxane",
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+      "published": "2026-06-09T05:21:39",
+      "description": "",
+      "image": "data/images/c058f22f6d252ad4a8113640c3c79e27.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,32 +210,12 @@
       "description": "",
       "image": "data/images/37bc340047603521bdc9b53fbb3c2f1c.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A \u20ac0.01 bank transfer could compromise a banking AI agent",
-      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-      "published": "2026-06-10T13:39:11",
-      "description": "",
-      "image": "https://blue41.com/opengraph.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
-      "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
-      "published": "2026-06-08T16:23:16",
-      "description": "",
-      "image": "https://i.guim.co.uk/img/media/db4296279f4240844d21f55c68453a548aa10595/638_152_3151_2521/master/3151.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b018652e3853e6ad21dbd8571b1b9ab",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "speakers": [
       "Alex",
       "Jordan"
