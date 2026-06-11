@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T02:08:44.544595",
+  "updated": "2026-06-11T08:26:23.690353",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
       "image": "data/images/02ee31426227662dc2f7fe45a44ca844.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Wed, 10 Jun 2026 00:00:00 GMT",
       "description": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "image": "data/images/892b63ecde579b23ed36511acb7402bb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
-      "published": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "image": "data/images/af2b7160ad68a8c7ecd003cdefaffbf2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "published": "2026-06-11T06:42:06",
+      "description": "",
+      "image": "https://dronexl.co/wp-content/uploads/2026/06/Pokemon-Go-Scans-Quietly-Trained-the-Navigation-Tech-Now-Headed-Into-Military-Drones.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI agent runs amok in Fedora and elsewhere",
       "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "published": "2026-06-11T00:10:08",
@@ -178,7 +188,7 @@
       "url": "https://nanochess.org/klondike_in_c.html",
       "published": "2026-06-08T19:08:12",
       "description": "",
-      "image": "https://nanochess.org/img/klondike_c_2.png",
+      "image": "data/images/39aa3bba8ce13570f4f0d0235430fc52.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "url": "https://burr.apache.org/",
-      "published": "2026-06-10T15:01:06",
+      "title": "The Road to the WASM Component Model 1.0",
+      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
+      "published": "2026-06-08T17:12:44",
       "description": "",
-      "image": "data/images/0cfce548f20f41e968c8944911978c6a.png",
+      "image": "https://bytecodealliance.org/images/avatar.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
-      "url": "https://jivx.com/eki",
-      "published": "2026-06-10T12:11:28",
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "published": "2026-06-10T15:01:06",
       "description": "",
-      "image": "data/images/37bc340047603521bdc9b53fbb3c2f1c.png",
+      "image": "data/images/0cfce548f20f41e968c8944911978c6a.png",
       "summary": "Summary unavailable."
     }
   ],
