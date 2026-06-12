@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-12T02:04:50.931004",
+  "updated": "2026-06-12T08:14:21.738328",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "image": "data/images/57225e7fcd857a6f3fb537aea4522467.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +19,6 @@
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "image": "data/images/f0bf166c859124c6aa3d8e49c08e77f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,11 +34,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "image": "data/images/57225e7fcd857a6f3fb537aea4522467.png",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "published": "2026-06-12T04:42:53",
+      "description": "",
+      "image": "https://lantian.pub/apple-touch-icon.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+      "published": "2026-06-12T05:53:19",
+      "description": "",
+      "image": "https://www.korte.co/wp-content/uploads/2023/10/pexels-tima-miroshnichenko-6266684-1024x683.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "published": "2026-06-11T12:05:02",
@@ -184,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Making a vintage LLM from scratch",
-      "url": "https://crlf.link/log/entries/260525-1/",
-      "published": "2026-06-11T08:38:00",
+      "title": "How Terry Tao became an evangelist for AI in math",
+      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+      "published": "2026-06-08T15:30:09",
       "description": "",
-      "image": "data/images/1db8917becd65f03ec349526aa4209af.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How a new DSL may survive in the era of LLMs",
-      "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-      "published": "2026-06-11T14:35:41",
-      "description": "",
-      "image": "data/images/0398dc14a8391c64f49e21d54afba568.png",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -209,16 +219,6 @@
       "published": "2026-06-11T21:12:47",
       "description": "",
       "image": "http://www.briandouglas.ie/images/og_index.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MTG Bench: Testing how well LLMs can play Magic",
-      "url": "https://mtgautodeck.com/articles/mtg-bench/",
-      "published": "2026-06-11T16:01:01",
-      "description": "",
-      "image": "data/images/8fa5b576e79d0e861142cc86837d1159.png",
       "summary": "Summary unavailable."
     }
   ],
