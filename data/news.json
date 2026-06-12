@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T21:53:31.716312",
+  "updated": "2026-06-12T02:04:50.931004",
   "articles": [
     {
       "source": "RSS",
@@ -154,38 +154,78 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Shall we play a game? \u2013 LLMs use tactical nukes in 95% of simulations",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "published": "2026-06-11T19:54:54",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "published": "2026-06-11T12:05:02",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!3TAh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24302f16-6ee6-4b02-b46e-bfeb0d56efbf_1024x608.png",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ear Training Practice Exercises",
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "published": "2026-06-11T22:59:22",
+      "description": "",
+      "image": "https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ear Training Practice",
       "url": "https://tonedear.com/",
       "published": "2026-06-08T16:38:07",
       "description": "",
-      "image": "data/images/09c61b7bb7570a85f982ce528757766f.png",
+      "image": "data/images/af5476f5083a3714a4e5047070612105.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "published": "2026-06-11T06:42:06",
+      "title": "Making a vintage LLM from scratch",
+      "url": "https://crlf.link/log/entries/260525-1/",
+      "published": "2026-06-11T08:38:00",
       "description": "",
-      "image": "https://dronexl.co/wp-content/uploads/2026/06/Pokemon-Go-Scans-Quietly-Trained-the-Navigation-Tech-Now-Headed-Into-Military-Drones.jpg",
+      "image": "data/images/1db8917becd65f03ec349526aa4209af.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How a new DSL may survive in the era of LLMs",
+      "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+      "published": "2026-06-11T14:35:41",
+      "description": "",
+      "image": "data/images/0398dc14a8391c64f49e21d54afba568.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tailwind and slop apps",
+      "url": "https://briandouglas.ie/llm-tailwind-template/",
+      "published": "2026-06-11T21:12:47",
+      "description": "",
+      "image": "http://www.briandouglas.ie/images/og_index.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MTG Bench: Testing how well LLMs can play Magic",
+      "url": "https://mtgautodeck.com/articles/mtg-bench/",
+      "published": "2026-06-11T16:01:01",
+      "description": "",
+      "image": "data/images/8fa5b576e79d0e861142cc86837d1159.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-11",
+    "date": "2026-06-12",
     "speakers": [
       "Alex",
       "Jordan"
