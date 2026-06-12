@@ -1,14 +1,24 @@
 {
-  "updated": "2026-06-12T08:14:21.738328",
+  "updated": "2026-06-12T14:27:23.196943",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "published": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "image": "data/images/3d51c03855ff49832d0c9c3caeba0bbe.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "image": "data/images/57225e7fcd857a6f3fb537aea4522467.png",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "published": "Wed, 10 Jun 2026 20:00:00 GMT",
-      "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "image": "data/images/b21befd85d89ff88d4ae2cc2d6bd9be2.png",
+      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "image": "data/images/57225e7fcd857a6f3fb537aea4522467.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
-      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
-      "published": "2026-06-12T05:53:19",
+      "title": "The Future of Email",
+      "url": "https://www.fastmail.com/blog/the-future-of-email/",
+      "published": "2026-06-12T10:38:31",
       "description": "",
-      "image": "https://www.korte.co/wp-content/uploads/2023/10/pexels-tima-miroshnichenko-6266684-1024x683.jpg",
+      "image": "https://www.fastmail.com/assets/images/the-future-of-email-2026-zmB4xdznzP-1200.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "published": "2026-06-12T10:42:50",
+      "description": "",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K2.7-Code.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "published": "2026-06-12T11:11:42",
+      "description": "",
+      "image": "data/images/fd0a3d334bf5d7b9e41039e07978330f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A jacket that harvests drinking water from the air",
-      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-      "published": "2026-06-11T22:59:22",
+      "title": "Making a vintage LLM from scratch",
+      "url": "https://crlf.link/log/entries/260525-1/",
+      "published": "2026-06-11T08:38:00",
       "description": "",
-      "image": "https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg",
+      "image": "data/images/1db8917becd65f03ec349526aa4209af.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,26 +219,6 @@
       "published": "2026-06-08T16:38:07",
       "description": "",
       "image": "data/images/af5476f5083a3714a4e5047070612105.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How Terry Tao became an evangelist for AI in math",
-      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "published": "2026-06-08T15:30:09",
-      "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tailwind and slop apps",
-      "url": "https://briandouglas.ie/llm-tailwind-template/",
-      "published": "2026-06-11T21:12:47",
-      "description": "",
-      "image": "http://www.briandouglas.ie/images/og_index.png",
       "summary": "Summary unavailable."
     }
   ],
