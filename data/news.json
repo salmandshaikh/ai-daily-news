@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-12T14:27:23.196943",
+  "updated": "2026-06-12T17:56:49.939906",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "published": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "image": "data/images/391c74df6bc8ab729dc93aef6611fa88.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +19,6 @@
       "published": "Fri, 12 Jun 2026 00:00:00 GMT",
       "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "image": "data/images/3d51c03855ff49832d0c9c3caeba0bbe.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
-      "image": "data/images/02ee31426227662dc2f7fe45a44ca844.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "image": "data/images/57225e7fcd857a6f3fb537aea4522467.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "published": "Fri, 12 Jun 2026 15:56:10 GMT",
+      "description": "",
+      "image": "data/images/793d1698b09c46659f0876c5609a42b1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
       "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "published": "2026-06-12T14:48:38",
       "description": "",
-      "image": "data/images/2dcfd3a2f7e9d6e60e454010cb6d631e.png",
+      "image": "data/images/34afe6fdaae7728739e4d8c2910b2444.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
+      "url": "https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN",
+      "published": "2026-06-12T17:00:40",
+      "description": "",
+      "image": "https://apply.gauntletai.com/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Future of Email",
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
-      "published": "2026-06-12T10:38:31",
+      "title": "There Is Life Before Main in Rust",
+      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+      "published": "2026-06-11T17:32:35",
       "description": "",
-      "image": "https://www.fastmail.com/assets/images/the-future-of-email-2026-zmB4xdznzP-1200.png",
+      "image": "data/images/d2f3332c5a0f11a2dbc80414cf686527.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "published": "2026-06-12T11:11:42",
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "published": "2026-06-11T22:59:22",
       "description": "",
-      "image": "data/images/fd0a3d334bf5d7b9e41039e07978330f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "published": "2026-06-11T12:05:02",
-      "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Making a vintage LLM from scratch",
-      "url": "https://crlf.link/log/entries/260525-1/",
-      "published": "2026-06-11T08:38:00",
-      "description": "",
-      "image": "data/images/1db8917becd65f03ec349526aa4209af.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ear Training Practice",
-      "url": "https://tonedear.com/",
-      "published": "2026-06-08T16:38:07",
-      "description": "",
-      "image": "data/images/af5476f5083a3714a4e5047070612105.png",
+      "image": "https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg",
       "summary": "Summary unavailable."
     }
   ],
