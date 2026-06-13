@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T01:57:50.391532",
+  "updated": "2026-06-13T07:38:33.761752",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "published": "2026-06-13T05:44:46",
+      "description": "",
+      "image": "https://koenvangilst.nl/og/claude-fable-shepherds-dog.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "published": "2026-06-13T02:14:24",
+      "description": "",
+      "image": "https://opensourceaimustwin.com/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Putt.day a daily mini golf game",
       "url": "https://putt.day/",
       "published": "2026-06-12T22:56:06",
@@ -164,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "published": "2026-06-12T20:39:36",
+      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "url": "https://tectonic-typesetting.github.io/en-US/",
+      "published": "2026-06-09T21:00:39",
       "description": "",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83a75134-cd80-4b47-9cf8-299260f9e4e8.jpg?source=next-barrier-page",
+      "image": "data/images/802b79048512f9eb98c069809ac81260.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"Don't You Just Upload It to ChatGPT?\"",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "published": "2026-06-12T17:52:46",
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "published": "2026-06-12T20:39:36",
       "description": "",
-      "image": "https://correresmidestino.com/wp-content/uploads/2026/06/1000014905-rotated-e1781079040455.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "There Is Life Before Main in Rust",
-      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-      "published": "2026-06-11T17:32:35",
-      "description": "",
-      "image": "data/images/d2f3332c5a0f11a2dbc80414cf686527.png",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83a75134-cd80-4b47-9cf8-299260f9e4e8.jpg?source=next-barrier-page",
       "summary": "Summary unavailable."
     }
   ],
