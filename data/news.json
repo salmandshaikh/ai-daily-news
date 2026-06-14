@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T20:59:13.356381",
+  "updated": "2026-06-14T02:07:14.272301",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "published": "2026-06-13T19:54:55",
+      "description": "",
+      "image": "data/images/f3e37461945dd16fb246695169adaec2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ancient genome duplications laid the foundations of complex brains",
+      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+      "published": "2026-06-13T22:54:37",
+      "description": "",
+      "image": "data/images/dde732e3088bf5af7781e076b2604a7f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "published": "2026-06-14T01:23:45",
+      "description": "",
+      "image": "https://media.wired.com/photos/6a2c555e0473de232b255ae6/191:100/w_1280,c_limit/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI coding at home without going broke",
       "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
       "published": "2026-06-13T16:45:03",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "State Attorneys General Are Investigating OpenAI",
+      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "published": "2026-06-13T23:52:19",
+      "description": "",
+      "image": "data/images/171692d4b8f019fb5e5a11a481f382c6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -180,42 +220,12 @@
       "description": "",
       "image": "https://repository-images.githubusercontent.com/829640443/56e9b8da-eabc-4dff-bac7-73d459e7880d",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
-      "url": "https://github.com/Paca-AI/paca",
-      "published": "2026-06-13T09:44:25",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/ee853a8e18c9e3197036c833883b800cac45b68d72aef81f086e42e6160f3a26/Paca-AI/paca",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "published": "2026-06-13T19:54:55",
-      "description": "",
-      "image": "data/images/f3e37461945dd16fb246695169adaec2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PwC Report: AI Making Medical Bills Higher",
-      "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
-      "published": "2026-06-13T17:39:14",
-      "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-1313653697-e1781288687366.jpg?resize=1200,600",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-13",
+    "date": "2026-06-14",
     "speakers": [
       "Alex",
       "Jordan"
