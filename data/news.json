@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T16:47:32.740418",
+  "updated": "2026-06-15T22:08:20.160970",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "published": "2026-06-15T16:15:53",
+      "description": "",
+      "image": "https://tinywind.io/opengraph-image?ca63dcafdaa67b1f",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
       "published": "2026-06-15T15:09:40",
@@ -164,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "published": "2026-06-15T13:20:13",
+      "title": "Show HN: Vet turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "published": "2026-06-15T17:56:00",
       "description": "",
-      "image": "https://crankgpt.com/Images/og.jpg",
+      "image": "data/images/eb901e1912bb62fd364f5cf7708d075f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
+      "url": "https://fata.dev",
+      "published": "2026-06-11T11:57:03",
+      "description": "",
+      "image": "data/images/eec630ad76fe9944115867b707cf7152.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "url": "https://github.com/themartiano/luz",
-      "published": "2026-06-15T09:34:10",
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "published": "2026-06-15T13:20:13",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/417039378/c5b0c07d-22b2-4957-b7f9-45485a4f4106",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "published": "2026-06-14T15:37:31",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/565c2892ee817f246d4f6c1fe50cfd763cba4f3e175f85f8261a02f4a1f5fb94/nex-agi/Nex-N2/issues/4",
+      "image": "https://crankgpt.com/Images/og.jpg",
       "summary": "Summary unavailable."
     }
   ],
