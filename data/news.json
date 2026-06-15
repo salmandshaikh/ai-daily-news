@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-14T20:56:32.692257",
+  "updated": "2026-06-15T02:11:28.289596",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "published": "Sun, 14 Jun 2026 17:00:00 GMT",
+      "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "image": "data/images/457a6623a2fad3c58fbbefd9694678c4.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,21 +34,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
-      "image": "data/images/02ee31426227662dc2f7fe45a44ca844.png",
+      "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "image": "data/images/f0bf166c859124c6aa3d8e49c08e77f0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -158,7 +158,17 @@
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "published": "2026-06-14T15:37:31",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b556ce95d0fb7a5bfe2ba86a85632eeefb07011ca701fce378bfb9e9f7b2cae5/nex-agi/Nex-N2/issues/4",
+      "image": "https://opengraph.githubassets.com/d472508b7e82064a7344f369c98eb8e182b69aeee8809826d52e8399ab2e87b2/nex-agi/Nex-N2/issues/4",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is code \u2013 and can't be prompted into being smarter",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "published": "2026-06-14T20:17:54",
+      "description": "",
+      "image": "https://image.theregister.com/227602.jpg?imageId=227602&x=0&y=11.03&cropw=100&croph=88.97&panox=0&panoy=11.03&panow=100&panoh=88.97&width=1200&height=683",
       "summary": "Summary unavailable."
     },
     {
@@ -174,18 +184,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
-      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
-      "published": "2026-06-14T14:38:37",
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "published": "2026-06-15T01:07:37",
       "description": "",
-      "image": "https://pbs.twimg.com/media/HKss_sHacAANNO5.jpg:large",
+      "image": "https://res.cloudinary.com/drkckcqqr/image/upload/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/v1781449650/psycouk-news/h2uvptbfvdnjkf46txv2.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "speakers": [
       "Alex",
       "Jordan"
