@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T09:49:14.163688",
+  "updated": "2026-06-15T16:47:32.740418",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
       "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "image": "data/images/57225e7fcd857a6f3fb537aea4522467.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein\u2019s theory of general relativity.",
+      "image": "data/images/02ee31426227662dc2f7fe45a44ca844.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "published": "2026-06-15T15:09:40",
+      "description": "",
+      "image": "https://rsgm.dev/_astro/ai-pr-1.PYIiaDRf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "published": "2026-06-15T13:20:13",
+      "description": "",
+      "image": "https://crankgpt.com/Images/og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Apple Foundation Models",
       "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
       "published": "2026-06-15T04:55:34",
@@ -164,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "published": "2026-06-14T15:37:31",
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "url": "https://github.com/themartiano/luz",
+      "published": "2026-06-15T09:34:10",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d472508b7e82064a7344f369c98eb8e182b69aeee8809826d52e8399ab2e87b2/nex-agi/Nex-N2/issues/4",
+      "image": "https://repository-images.githubusercontent.com/417039378/c5b0c07d-22b2-4957-b7f9-45485a4f4106",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-      "published": "2026-06-11T00:25:05",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "published": "2026-06-14T15:37:31",
       "description": "",
-      "image": "https://i0.wp.com/www.markhorrell.com/wp-content/uploads/PICT0277.jpg?fit=1200%2C900&ssl=1",
+      "image": "https://opengraph.githubassets.com/565c2892ee817f246d4f6c1fe50cfd763cba4f3e175f85f8261a02f4a1f5fb94/nex-agi/Nex-N2/issues/4",
       "summary": "Summary unavailable."
     }
   ],
