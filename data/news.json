@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T02:11:28.289596",
+  "updated": "2026-06-15T09:49:14.163688",
   "articles": [
     {
       "source": "RSS",
@@ -34,11 +34,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "image": "data/images/f0bf166c859124c6aa3d8e49c08e77f0.png",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "image": "data/images/296b42f601b073d81b6b1ca924076b9f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,16 +124,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "published": "Tue, 09 Jun 2026 15:56:23 GMT",
-      "description": "",
-      "image": "data/images/647934c9e6dc1c4899ded481fc9ac13e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
       "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "published": "Tue, 09 Jun 2026 10:46:19 GMT",
@@ -152,6 +142,26 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "published": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/2dcfd3a2f7e9d6e60e454010cb6d631e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "published": "2026-06-15T04:55:34",
+      "description": "",
+      "image": "https://platform.claude.com/docs/og?locale=en&path=cli-sdks-libraries/libraries/apple-foundation-models",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
@@ -164,31 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is code \u2013 and can't be prompted into being smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "published": "2026-06-14T20:17:54",
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "published": "2026-06-11T00:25:05",
       "description": "",
-      "image": "https://image.theregister.com/227602.jpg?imageId=227602&x=0&y=11.03&cropw=100&croph=88.97&panox=0&panoy=11.03&panow=100&panoh=88.97&width=1200&height=683",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Not everyone is using AI for everything",
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "published": "2026-06-14T14:44:29",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!n_r-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F957dc207-33f4-4e66-a821-66f340c9a623_1424x1404.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The hallucinogenic mushroom that contains no known psychedelic",
-      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
-      "published": "2026-06-15T01:07:37",
-      "description": "",
-      "image": "https://res.cloudinary.com/drkckcqqr/image/upload/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/v1781449650/psycouk-news/h2uvptbfvdnjkf46txv2.png",
+      "image": "https://i0.wp.com/www.markhorrell.com/wp-content/uploads/PICT0277.jpg?fit=1200%2C900&ssl=1",
       "summary": "Summary unavailable."
     }
   ],
