@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T22:08:20.160970",
+  "updated": "2026-06-16T02:15:24.495471",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "published": "2026-06-15T21:57:10",
+      "description": "",
+      "image": "data/images/94369ae8baeeb6f870dfda8873057171.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
       "published": "2026-06-15T15:09:40",
@@ -174,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Vet turned founder, AI lawn diagnosis",
-      "url": "https://grassdx.com/",
-      "published": "2026-06-15T17:56:00",
+      "title": "Cohere's First Model for Developers",
+      "url": "https://cohere.com/blog/north-mini-code",
+      "published": "2026-06-11T13:15:45",
       "description": "",
-      "image": "data/images/eb901e1912bb62fd364f5cf7708d075f.png",
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/824d32875c1faf5d7048cb18d83e006e46c9b869-3840x2160.png?rect=0,72,3840,2016&w=1200&h=630",
       "summary": "Summary unavailable."
     },
     {
@@ -194,28 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "published": "2026-06-15T04:55:34",
+      "title": "Show HN: Vet turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "published": "2026-06-15T17:56:00",
       "description": "",
-      "image": "https://platform.claude.com/docs/og?locale=en&path=cli-sdks-libraries/libraries/apple-foundation-models",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "published": "2026-06-15T13:20:13",
-      "description": "",
-      "image": "https://crankgpt.com/Images/og.jpg",
+      "image": "data/images/eb901e1912bb62fd364f5cf7708d075f.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-15",
+    "date": "2026-06-16",
     "speakers": [
       "Alex",
       "Jordan"
