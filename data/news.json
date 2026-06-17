@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:38:48.688745",
+  "updated": "2026-06-17T21:49:59.634143",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Wed, 17 Jun 2026 10:00:00 GMT",
       "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "image": "data/images/7d14c2cd277be709feec8f432b3b4d6f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "published": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "image": "data/images/128c682a28b6fdd574bb6fb8055d918e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Fri, 12 Jun 2026 10:00:00 GMT",
       "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "image": "data/images/391c74df6bc8ab729dc93aef6611fa88.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "published": "Fri, 12 Jun 2026 00:00:00 GMT",
-      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "image": "data/images/3d51c03855ff49832d0c9c3caeba0bbe.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,26 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "published": "2026-06-17T17:07:32",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "published": "2026-06-17T16:14:04",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/e95938e70e815b7d33584e2d86aec1d28f939de0ed6107e6ce60f36a9d02380e/Adam-CAD/CADAM",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
       "published": "2026-06-17T09:12:00",
@@ -184,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "published": "2026-06-17T12:11:27",
+      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "published": "2026-06-17T16:14:04",
       "description": "",
-      "image": "https://wpvip.com/wp-content/uploads/sites/3/2026/06/FOW-REPORT_f53628.jpg",
+      "image": "https://opengraph.githubassets.com/b149fc2d0b986e9dd1be4493dc71c7b1e48a14d80e1ed701daaf0cde12362cc0/Adam-CAD/CADAM",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Competitive Moat That AI Can't Replicate",
+      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "published": "2026-06-17T17:14:21",
+      "description": "",
+      "image": "https://ghostinthedata.info/images/author/chris-hillman.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,17 +194,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "TREX: An AI code reviewer that runs your code",
-      "url": "https://www.greptile.com/blog/trex-code-execution",
-      "published": "2026-06-17T15:29:01",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "published": "2026-06-17T21:31:35",
       "description": "",
-      "image": "https://greptile.com/opengraph/greptile-blog.png",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction/",
       "published": "2026-06-17T17:34:20",
       "description": "",
@@ -229,16 +219,6 @@
       "published": "2026-06-17T14:20:44",
       "description": "",
       "image": "data/images/bfbeba7032b6ba7dd779ce0bc96a2f35.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Competitive Moat That AI Can't Replicate",
-      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-      "published": "2026-06-17T17:14:21",
-      "description": "",
-      "image": "https://ghostinthedata.info/images/author/chris-hillman.png",
       "summary": "Summary unavailable."
     },
     {
