@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:49:59.634143",
+  "updated": "2026-06-18T02:09:07.744987",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "published": "2026-06-17T09:12:00",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "published": "2026-06-17T21:31:35",
       "description": "",
-      "image": "https://cdn.sanity.io/images/6vfeftx9/articles/204f6bd201e215286fd69d162a84dfdf4a24d197-768x768.webp?w=1200&auto=format",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -168,7 +168,7 @@
       "url": "https://github.com/Adam-CAD/CADAM",
       "published": "2026-06-17T16:14:04",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b149fc2d0b986e9dd1be4493dc71c7b1e48a14d80e1ed701daaf0cde12362cc0/Adam-CAD/CADAM",
+      "image": "https://opengraph.githubassets.com/6dfec0b7d5f86e1c83da328fd37368b3e0225ead7ec744fde9c4eedc258ab8e6/Adam-CAD/CADAM",
       "summary": "Summary unavailable."
     },
     {
@@ -184,58 +184,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "published": "2026-06-17T09:12:00",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/6vfeftx9/articles/204f6bd201e215286fd69d162a84dfdf4a24d197-768x768.webp?w=1200&auto=format",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
       "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
       "published": "2026-06-17T17:00:02",
       "description": "",
       "image": "https://bookface-images.s3.amazonaws.com/logos/d681b1370ee5c0b4d24b781aa8bc8a11b2c1d375.png?1746931057",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "published": "2026-06-17T21:31:35",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-      "published": "2026-06-17T17:34:20",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/4NBFdbusKgYSDZQu73MAR9/2f84206eba72f43384d4bb005b97f8c3/molecule-one-SEO-Card.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "published": "2026-06-17T14:20:44",
-      "description": "",
-      "image": "data/images/bfbeba7032b6ba7dd779ce0bc96a2f35.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The founder's playbook: Building an AI-native startup",
-      "url": "https://claude.com/blog/the-founders-playbook",
-      "published": "2026-06-17T07:04:42",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a05fd71dd4c122271bc7916_og_the-founders-playbook%20(2).jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "speakers": [
       "Alex",
       "Jordan"
