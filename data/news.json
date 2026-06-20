@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T20:58:49.969052",
+  "updated": "2026-06-20T01:58:12.528501",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-      "published": "2026-06-19T20:03:16",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "published": "2026-06-19T16:03:15",
       "description": "",
-      "image": "https://static.the-independent.com/2026/06/19/16/16/Sam-Altman.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "image": "data/images/9c273594996420ec90a9931efc1445a2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Aikido Code Audit",
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "published": "2026-06-19T23:54:54",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a314e9d380e584d32a2d7d1_OG_How-Intel-Works_16x9.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "published": "2026-06-19T17:34:28",
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "published": "2026-06-16T22:23:04",
       "description": "",
-      "image": "https://www.eff.org/files/banner_library/intermediary-4.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "'We created a monster': companies rein in AI usage as costs strain budgets",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "published": "2026-06-19T19:57:18",
-      "description": "",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd6a743d-6c72-47ea-b390-86662a74bfed.jpg?source=next-barrier-page",
+      "image": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2017/07/movable2.jpg?fit=257%2C257&ssl=1",
       "summary": "Summary unavailable."
     },
     {
@@ -210,42 +210,12 @@
       "description": "",
       "image": "https://substackcdn.com/image/fetch/$s_!gBx6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6477dc42-dd38-4b92-8fa0-e4e6ab7f2bc1_1918x820.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The AirPods Effect",
-      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "published": "2026-06-18T23:08:35",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1695112956255-8878a4443236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxhaXJwb2RzJTIwd29tYW4lMjBidXN8ZW58MHx8fHwxNzc5MjcwNzA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
-      "url": "https://www.modeloop.app/",
-      "published": "2026-06-15T16:51:34",
-      "description": "",
-      "image": "https://www.modeloop.app/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "published": "2026-06-17T14:03:58",
-      "description": "",
-      "image": "https://arun.is/_astro/social.CKZ2mAfd.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "speakers": [
       "Alex",
       "Jordan"
