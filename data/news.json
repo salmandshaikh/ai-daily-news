@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:14:58.177965",
+  "updated": "2026-06-21T21:01:25.593296",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Has Broken Hiring",
-      "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-      "published": "2026-06-21T16:14:54",
+      "title": "JSON-LD Explained for Personal Websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "published": "2026-06-21T18:51:47",
       "description": "",
-      "image": "https://hbr.org/resources/images/article_assets/2026/05/Jun26_05_116781636.jpg",
+      "image": "https://hawksley.dev/og/blog/json-ld-explained-for-personal-websites.png",
       "summary": "Summary unavailable."
     },
     {
@@ -168,27 +168,17 @@
       "url": "https://github.com/mysk-research/loupe",
       "published": "2026-06-20T12:08:23",
       "description": "",
-      "image": "https://opengraph.githubassets.com/f09424e6993f6f7173a07ce4809109762c56e5fadd4c1fa3bebc3c99d475dafb/mysk-research/loupe",
+      "image": "https://opengraph.githubassets.com/feec47fbc74b9d74b7553db602afff9b7903839ecc71e66c725f3a46efa97879/mysk-research/loupe",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The case against geometric algebra (2024)",
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "published": "2026-06-21T11:06:55",
+      "title": "Cocktail Optimization, an Integer Programming Problem",
+      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
+      "published": "2026-06-19T11:59:56",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Two Qwen3 models on one DGX Spark: the residency math",
-      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
-      "published": "2026-06-18T16:29:52",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!wZwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e38eb27-f62d-407f-a4a0-26b740272793_1024x559.png",
+      "image": "https://bunkum.us/assets/snapshots/2026-06-18-cocktail-ingredients-milp/cell-3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,6 +189,36 @@
       "published": "2026-06-20T22:22:52",
       "description": "",
       "image": "data/images/898de97f254e36731d0ed89280a90204.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Burnout is real for open source maintainers",
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "published": "2026-06-21T16:56:18",
+      "description": "",
+      "image": "https://images.prismic.io/openjsf/acRGrpGXnQHGY-L1_BlogPostImagesOpenJS-2-.png?auto=format,compress",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The brain was not designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "published": "2026-06-21T04:02:08",
+      "description": "",
+      "image": "https://www.sciencedaily.com/images/1920/serious-woman-upset-by-bad-news-on-smartphone.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+      "published": "2026-06-18T16:29:52",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!wZwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e38eb27-f62d-407f-a4a0-26b740272793_1024x559.png",
       "summary": "Summary unavailable."
     }
   ],
