@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T08:19:35.341427",
+  "updated": "2026-06-21T13:29:07.942862",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The case against geometric algebra (2024)",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "published": "2026-06-21T11:06:55",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+      "published": "2026-06-21T12:44:13",
+      "description": "",
+      "image": "data/images/db4abc511e4f87d1055ce176e2320f36.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
       "published": "2026-06-20T12:08:23",
       "description": "",
-      "image": "https://opengraph.githubassets.com/fc5f8716359612889fde3eb4d6dcc2860adafeb38d2ee68778d326f9fe20414f/mysk-research/loupe",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "published": "2026-06-21T04:28:39",
-      "description": "",
-      "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The 100k Whys of AI",
-      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "published": "2026-06-21T05:45:21",
-      "description": "",
-      "image": "data/images/79568622fc5f64c45d1ba2915b2cc2cc.png",
+      "image": "https://opengraph.githubassets.com/b9fb5044c959e0d2b97c774c5d80064513f90dc29edceac77d13ebf34d29caac/mysk-research/loupe",
       "summary": "Summary unavailable."
     },
     {
@@ -194,31 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Public Service Announcement: Don't Say You Use AI for Writing",
-      "url": "https://www.satisfice.com/blog/archives/488148",
-      "published": "2026-06-21T04:50:46",
+      "title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+      "published": "2026-06-18T16:29:52",
       "description": "",
-      "image": "data/images/0710ebebae080f229398e6725c2d2690.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!wZwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e38eb27-f62d-407f-a4a0-26b740272793_1024x559.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "When I reject AI code even if it works",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "published": "2026-06-21T00:58:13",
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "published": "2026-06-21T04:28:39",
       "description": "",
-      "image": "https://vinibrasil.com/og/when-i-reject-ai-code-even-if-it-works.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Your brain was never designed for this much bad news",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "published": "2026-06-21T04:02:08",
-      "description": "",
-      "image": "https://www.sciencedaily.com/images/1920/serious-woman-upset-by-bad-news-on-smartphone.webp",
+      "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
       "summary": "Summary unavailable."
     },
     {
