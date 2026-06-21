@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T21:00:18.796684",
+  "updated": "2026-06-21T02:10:15.503661",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "UK Home Office launches \u00a375M 'PoliceAI' to capitalise on artificial intelligence",
-      "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
-      "published": "2026-06-20T20:41:06",
+      "title": "When I reject AI code even if it works",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "published": "2026-06-21T00:58:13",
       "description": "",
-      "image": "https://www.publictechnology.net/wp-content/uploads/2024/09/police-4566193-scaled.jpg",
+      "image": "https://vinibrasil.com/og/when-i-reject-ai-code-even-if-it-works.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "url": "https://www.argusred.com/cli",
-      "published": "2026-06-20T13:49:03",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "published": "2026-06-20T22:22:52",
       "description": "",
-      "image": "https://www.argusred.com/og.png",
+      "image": "data/images/898de97f254e36731d0ed89280a90204.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "published": "2026-06-20T12:08:23",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/16dba9d134c95002df664c9f80069cc50e8566e46baf1175c5d351acf657ec3c/mysk-research/loupe",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+      "published": "2026-06-16T12:31:02",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66905363&width=1200&height=600&coordinates=0%2C811%2C0%2C439",
       "summary": "Summary unavailable."
     },
     {
@@ -180,32 +200,12 @@
       "description": "",
       "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/60PB1NmcYFywT5TDlwDR0v/a9e72c980e108702e00b57343ea1ccb2/OG_Share_2024-2025-2026__39_.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
-      "url": "https://bootimus.com",
-      "published": "2026-06-20T10:55:18",
-      "description": "",
-      "image": "data/images/bb79157d0b0ec33698f77c88e049fdb3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "published": "2026-06-19T16:11:25",
-      "description": "",
-      "image": "data/images/43e65442ed4856f6e38c7c0cdbe8f877.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "speakers": [
       "Alex",
       "Jordan"
