@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T09:36:04.420999",
+  "updated": "2026-06-22T16:21:32.134983",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "published": "Mon, 22 Jun 2026 13:18:56 GMT",
+      "description": "",
+      "image": "data/images/7d60f4908dfa83cd40aa075a039d5b93.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "published": "Thu, 18 Jun 2026 18:13:13 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "published": "Wed, 17 Jun 2026 10:18:05 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "published": "2026-06-22T13:53:02",
       "description": "",
-      "image": "data/images/163b51b97bb5b43268dbb69bc35cd310.png",
+      "image": "data/images/bf2da5d53e7c48103c95cbbd4dac5555.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+      "url": "https://github.com/0xroylee/ponytrail",
+      "published": "2026-06-22T14:54:59",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/e4dd62326055110af5b0be085510fd332b6bd74046c1f8261d4332cf080aea04/0xroylee/ponytrail",
       "summary": "Summary unavailable."
     },
     {
@@ -179,36 +199,6 @@
       "published": "2026-06-21T20:56:01",
       "description": "",
       "image": "data/images/444dde287217f7ff207fdda3c86a002b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "published": "2026-06-21T22:55:23",
-      "description": "",
-      "image": "https://www.teachmecoolstuff.com/img/tor.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "published": "2026-06-21T18:51:47",
-      "description": "",
-      "image": "https://hawksley.dev/og/blog/json-ld-explained-for-personal-websites.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Danish privacy activist Lars Andersen raided by police",
-      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-      "published": "2026-06-22T04:50:26",
-      "description": "",
-      "image": "https://pbs.twimg.com/media/HLPBAG5W4AA0KEb.jpg:large",
       "summary": "Summary unavailable."
     }
   ],
