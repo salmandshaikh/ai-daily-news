@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-21T21:01:25.593296",
+  "updated": "2026-06-22T02:13:55.221759",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "published": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 17 Jun 2026 10:00:00 GMT",
       "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "image": "data/images/7d14c2cd277be709feec8f432b3b4d6f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "published": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "image": "data/images/128c682a28b6fdd574bb6fb8055d918e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "JSON-LD Explained for Personal Websites",
+      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "published": "2026-06-21T21:29:43",
+      "description": "",
+      "image": "data/images/a307209ed35553d5433fda65014297d9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "JSON-LD explained for personal websites",
       "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
       "published": "2026-06-21T18:51:47",
       "description": "",
@@ -164,68 +174,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "published": "2026-06-20T12:08:23",
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "published": "2026-06-21T20:56:01",
       "description": "",
-      "image": "https://opengraph.githubassets.com/feec47fbc74b9d74b7553db602afff9b7903839ecc71e66c725f3a46efa97879/mysk-research/loupe",
+      "image": "data/images/444dde287217f7ff207fdda3c86a002b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cocktail Optimization, an Integer Programming Problem",
-      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
-      "published": "2026-06-19T11:59:56",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "published": "2026-06-21T22:55:23",
       "description": "",
-      "image": "https://bunkum.us/assets/snapshots/2026-06-18-cocktail-ingredients-milp/cell-3.png",
+      "image": "https://www.teachmecoolstuff.com/img/tor.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "published": "2026-06-20T22:22:52",
+      "title": "Petition against Meta's employee training data collection for ML models",
+      "url": "https://mcipetition.com/",
+      "published": "2026-06-21T23:34:07",
       "description": "",
-      "image": "data/images/898de97f254e36731d0ed89280a90204.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Burnout is real for open source maintainers",
-      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "published": "2026-06-21T16:56:18",
-      "description": "",
-      "image": "https://images.prismic.io/openjsf/acRGrpGXnQHGY-L1_BlogPostImagesOpenJS-2-.png?auto=format,compress",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The brain was not designed for this much bad news",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "published": "2026-06-21T04:02:08",
-      "description": "",
-      "image": "https://www.sciencedaily.com/images/1920/serious-woman-upset-by-bad-news-on-smartphone.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Two Qwen3 models on one DGX Spark: the residency math",
-      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
-      "published": "2026-06-18T16:29:52",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!wZwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e38eb27-f62d-407f-a4a0-26b740272793_1024x559.png",
+      "image": "data/images/c37f13d98ebf3afe5f13ce2f6a41a6e5.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-21",
+    "date": "2026-06-22",
     "speakers": [
       "Alex",
       "Jordan"
