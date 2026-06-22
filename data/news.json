@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-22T16:21:32.134983",
+  "updated": "2026-06-22T21:54:05.289401",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "image": "data/images/360b4664a05d531c2e385b2aecf53b24.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "image": "data/images/74f60f2d393bf8de2bf40ed0b763b5d7.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,36 +49,6 @@
       "published": "Thu, 18 Jun 2026 17:00:00 GMT",
       "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "image": "data/images/591e10f42c10eda438b61035fa3a389d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "published": "Thu, 18 Jun 2026 11:00:00 GMT",
-      "description": "Learn how GPT-5.5 Instant improves ChatGPT\u2019s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "image": "data/images/821f2d4cf63d890d6d63c9a0fddebedf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "published": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "image": "data/images/88eb9314a4ce48f14f8a4e63f21b211f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "published": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "image": "data/images/7d14c2cd277be709feec8f432b3b4d6f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,41 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
-      "url": "https://github.com/0xroylee/ponytrail",
-      "published": "2026-06-22T14:54:59",
+      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "published": "2026-06-22T20:48:30",
       "description": "",
-      "image": "https://opengraph.githubassets.com/e4dd62326055110af5b0be085510fd332b6bd74046c1f8261d4332cf080aea04/0xroylee/ponytrail",
+      "image": "https://cdn.sanity.io/images/b9pzoci3/production/2adc1982dab065cba0b11ab1021585c8aafb239a-1000x1000.jpg?w=1200&h=630&fit=max",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "published": "2026-06-21T21:29:43",
+      "title": "Blogger defeats photographer's copyright claim",
+      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "published": "2026-06-22T17:06:10",
       "description": "",
-      "image": "data/images/a307209ed35553d5433fda65014297d9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "published": "2026-06-19T15:54:23",
-      "description": "",
-      "image": "data/images/652f2a1f83f3394cdb9fe91162be8495.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "published": "2026-06-21T20:56:01",
-      "description": "",
-      "image": "data/images/444dde287217f7ff207fdda3c86a002b.png",
+      "image": "https://blog.ericgoldman.org/wp-content/uploads/2026/06/elaine-join-the-club.jpg",
       "summary": "Summary unavailable."
     }
   ],
