@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-23T01:52:56.601510",
+  "updated": "2026-06-23T07:36:42.521762",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "image": "data/images/360b4664a05d531c2e385b2aecf53b24.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Mon, 22 Jun 2026 10:00:00 GMT",
       "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "image": "data/images/360b4664a05d531c2e385b2aecf53b24.png",
       "summary": "Summary unavailable."
     },
     {
@@ -114,6 +114,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "published": "Thu, 18 Jun 2026 18:13:13 GMT",
@@ -142,13 +152,63 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "published": "Wed, 17 Jun 2026 15:26:44 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The new HTTP QUERY method explained",
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
+      "published": "2026-06-23T06:05:37",
       "description": "",
-      "image": "data/images/8ce208cc567d2c91d05eecc94242b5c2.png",
+      "image": "https://kreya.app/thumbnails/default.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "published": "2026-06-23T02:01:25",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "published": "2026-06-21T01:12:21",
+      "description": "",
+      "image": "data/images/d9ae7f3fb60fb24ca6cd6afb9e51364c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "published": "2026-06-23T01:15:05",
+      "description": "",
+      "image": "data/images/ac96dccfa8b396c985f5b4f5884c41e4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "published": "2026-06-23T01:36:08",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6cfZttLA6PlFuCVypDeSh/5a3deeb70010cdf58dd7b78547850092/SEO_Card__4_.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "url": "https://arxiv.org/abs/2606.03748",
+      "published": "2026-06-23T02:28:00",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
