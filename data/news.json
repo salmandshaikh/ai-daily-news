@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T10:52:02.986929",
+  "updated": "2026-06-23T14:13:22.607639",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "published": "Tue, 23 Jun 2026 12:51:55 GMT",
+      "description": "",
+      "image": "data/images/832efc393a7870b3a8265f90fc543a1c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
       "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
       "published": "Tue, 23 Jun 2026 00:00:00 GMT",
@@ -142,36 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/2362101d74f264e6c66668d34b5527a0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "published": "2026-06-23T06:05:37",
-      "description": "",
-      "image": "https://kreya.app/thumbnails/default.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-      "published": "2026-06-21T01:12:21",
-      "description": "",
-      "image": "data/images/d9ae7f3fb60fb24ca6cd6afb9e51364c.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
@@ -194,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "published": "2026-06-23T01:36:08",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6cfZttLA6PlFuCVypDeSh/5a3deeb70010cdf58dd7b78547850092/SEO_Card__4_.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Neural Particle Automata",
       "url": "https://selforg-npa.github.io/",
       "published": "2026-06-23T08:31:48",
@@ -214,41 +184,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Shumai \u2013 open-source Frame.io alternative for creative work",
+      "url": "https://github.com/shumaiOne/shumai",
+      "published": "2026-06-23T10:02:54",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/8face8e903f1ccdee8de0977f0f63bade6cd8a9bffdc573b10e2504d60acbb9a/shumaiOne/shumai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple is going to raise device prices, but when?",
+      "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+      "published": "2026-06-23T10:54:56",
+      "description": "",
+      "image": "https://daringfireball.net/graphics/df-wide-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "published": "2026-06-23T01:36:08",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6cfZttLA6PlFuCVypDeSh/5a3deeb70010cdf58dd7b78547850092/SEO_Card__4_.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The new HTTP QUERY method explained",
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
+      "published": "2026-06-23T06:05:37",
+      "description": "",
+      "image": "https://kreya.app/thumbnails/default.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
       "url": "https://hustvl.github.io/Moebius/",
       "published": "2026-06-22T13:53:02",
       "description": "",
       "image": "data/images/bf2da5d53e7c48103c95cbbd4dac5555.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "url": "https://arxiv.org/abs/2606.03748",
-      "published": "2026-06-23T02:28:00",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "published": "2026-06-22T19:06:48",
-      "description": "",
-      "image": "https://i.cbc.ca/ais/4d6542bd-2c48-422d-8c55-7951b56230a5,1782148011502/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C4544%2C2556%29%3BResize%3D620",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Built a Nuke and Still Lost",
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "published": "2026-06-23T08:16:45",
-      "description": "",
-      "image": "https://lwilko.com/blog/i-gave-an-ai-a-civilization/opengraph-image?e9f77e0c8e60ce42",
       "summary": "Summary unavailable."
     }
   ],
