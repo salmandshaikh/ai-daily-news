@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-23T17:44:03.259220",
+  "updated": "2026-06-23T21:21:55.065087",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "published": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "image": "data/images/1d2fcb706eafb08d1c6ccc3ee3d43e87.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Mon, 22 Jun 2026 10:00:00 GMT",
       "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
-      "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "image": "data/images/74f60f2d393bf8de2bf40ed0b763b5d7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,6 +124,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/56c6c2d3b6f778bbec382135ce0af97b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
       "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
       "published": "Mon, 22 Jun 2026 13:18:56 GMT",
@@ -142,23 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "published": "Thu, 18 Jun 2026 18:13:13 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Don't verify email addresses by sending spam to them",
+      "url": "https://milek7.pl/mailverifyspam/",
+      "published": "2026-06-23T20:23:49",
       "description": "",
-      "image": "data/images/5a1f09bd43005899d517a6565d85f4ed.png",
+      "image": "data/images/2ce0393939c870fa407c78aca359304f.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Elevated error rate across multiple models",
-      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "published": "2026-06-23T14:19:47",
+      "title": "FUTO Swipe \u2013 A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "published": "2026-06-23T17:50:22",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "image": "data/images/5ec5f3e3cb8e7f9796dbaf7559b22593.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "published": "2026-06-23T18:56:19",
+      "description": "",
+      "image": "https://hai.stanford.edu/assets/images/hiring-bias.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: The Cascade Graph \u2013 An interactive map of AI and energy constraints",
+      "url": "https://atomprophet.io/tools/cascade/",
+      "published": "2026-06-23T15:22:41",
+      "description": "",
+      "image": "https://atomprophet.io/images/hero.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
-      "published": "2026-06-23T02:01:25",
+      "title": "Elevated error rate across multiple models",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "published": "2026-06-23T14:19:47",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Neural Particle Automata",
-      "url": "https://selforg-npa.github.io/",
-      "published": "2026-06-23T08:31:48",
-      "description": "",
-      "image": "https://selforg-npa.github.io/data/images/teaser.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "published": "2026-06-23T15:11:17",
-      "description": "",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuTLj-6oHxAz8yvEo1928xM8bxW3K58OrmxbvNnesyd-o37-lY8Pw6fPFmMupStauhJB8xXh6l7FY-rVHwwPqKyBFsI-WLbaXLSytoAuk6FTRcf02DIWUo7ib3FpP5yc0AKOH6XxmNL9gcIr4H8_K5oxDlhU-_voTtMPgbPY-u2OfM4TuEFG5ukArx99S9/w1200-h630-p-k-no-nu/200B-Question.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "published": "2026-06-23T01:15:05",
-      "description": "",
-      "image": "data/images/ac96dccfa8b396c985f5b4f5884c41e4.png",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     }
   ],
