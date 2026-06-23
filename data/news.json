@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-22T21:54:05.289401",
+  "updated": "2026-06-23T01:52:56.601510",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Mon, 22 Jun 2026 10:00:00 GMT",
       "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "image": "data/images/360b4664a05d531c2e385b2aecf53b24.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,28 +164,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
-      "published": "2026-06-22T20:48:30",
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "published": "2026-06-22T19:06:48",
       "description": "",
-      "image": "https://cdn.sanity.io/images/b9pzoci3/production/2adc1982dab065cba0b11ab1021585c8aafb239a-1000x1000.jpg?w=1200&h=630&fit=max",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Blogger defeats photographer's copyright claim",
-      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
-      "published": "2026-06-22T17:06:10",
-      "description": "",
-      "image": "https://blog.ericgoldman.org/wp-content/uploads/2026/06/elaine-join-the-club.jpg",
+      "image": "https://i.cbc.ca/ais/4d6542bd-2c48-422d-8c55-7951b56230a5,1782148011502/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C4544%2C2556%29%3BResize%3D620",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "speakers": [
       "Alex",
       "Jordan"
