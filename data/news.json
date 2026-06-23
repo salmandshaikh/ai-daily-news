@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-23T07:36:42.521762",
+  "updated": "2026-06-23T10:52:02.986929",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "image": "data/images/8cac81e77c319d783adbeaee69e59adf.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Sun, 21 Jun 2026 23:00:00 GMT",
       "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "published": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "image": "data/images/591e10f42c10eda438b61035fa3a389d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/7788b4a97fc84172be6843f63e7b863a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
       "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
       "published": "Mon, 22 Jun 2026 13:18:56 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "published": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/be6e861799d01939e14db66a0673d866.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "The new HTTP QUERY method explained",
@@ -164,21 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
-      "published": "2026-06-23T02:01:25",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Polymarket has flooded social media with deceptive videos by paid creators",
       "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
       "published": "2026-06-21T01:12:21",
       "description": "",
       "image": "data/images/d9ae7f3fb60fb24ca6cd6afb9e51364c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "published": "2026-06-23T02:01:25",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "url": "https://arxiv.org/abs/2606.03748",
-      "published": "2026-06-23T02:28:00",
+      "title": "Show HN: Neural Particle Automata",
+      "url": "https://selforg-npa.github.io/",
+      "published": "2026-06-23T08:31:48",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://selforg-npa.github.io/data/images/teaser.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -224,11 +224,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "url": "https://arxiv.org/abs/2606.03748",
+      "published": "2026-06-23T02:28:00",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
       "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
       "published": "2026-06-22T19:06:48",
       "description": "",
       "image": "https://i.cbc.ca/ais/4d6542bd-2c48-422d-8c55-7951b56230a5,1782148011502/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C4544%2C2556%29%3BResize%3D620",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Built a Nuke and Still Lost",
+      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "published": "2026-06-23T08:16:45",
+      "description": "",
+      "image": "https://lwilko.com/blog/i-gave-an-ai-a-civilization/opengraph-image?e9f77e0c8e60ce42",
       "summary": "Summary unavailable."
     }
   ],
