@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-24T10:38:35.876730",
+  "updated": "2026-06-24T13:57:38.652676",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "published": "Wed, 24 Jun 2026 06:00:00 GMT",
+      "description": "OpenAI and Broadcom introduce Jalape\u00f1o, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "image": "data/images/2290ce06225887546ab344042ef0d21d.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,16 +39,6 @@
       "published": "Tue, 23 Jun 2026 00:00:00 GMT",
       "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "image": "data/images/8cac81e77c319d783adbeaee69e59adf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Minimus container images are now free",
+      "url": "https://images.minimus.io/",
+      "published": "2026-06-24T11:52:12",
+      "description": "",
+      "image": "data/images/2454213c71dc9a914aebd04079c018f1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "published": "2026-06-24T11:21:32",
+      "description": "",
+      "image": "https://haystack.deepset.ai/images/haystack-ogimage.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "published": "2026-06-24T12:23:59",
+      "description": "",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2206159992-e1782250620624.jpg?resize=1200,600",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "FUTO Swipe \u2013 A new swipe typing model",
       "url": "https://swipe.futo.tech/",
       "published": "2026-06-23T17:50:22",
@@ -164,31 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why eval startups fail (2025)",
-      "url": "https://thomasliao.com/eval-startups",
-      "published": "2026-06-22T23:20:53",
-      "description": "",
-      "image": "data/images/7078c63bc447117452cb8ff44f99c8e4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Qwen-AgentWorld: Language World Models for General Agents",
       "url": "https://arxiv.org/abs/2606.24597",
       "published": "2026-06-24T02:21:47",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How to burst the AI bubble: Strike at its roots",
-      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-      "published": "2026-06-24T09:57:10",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory3-1152x648-1782115421.jpg",
       "summary": "Summary unavailable."
     }
   ],
