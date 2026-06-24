@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:57:38.652676",
+  "updated": "2026-06-24T17:46:20.200002",
   "articles": [
     {
       "source": "RSS",
@@ -44,11 +44,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
       "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "image": "data/images/360b4664a05d531c2e385b2aecf53b24.png",
+      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "published": "Wed, 24 Jun 2026 16:30:01 +0000",
+      "description": "",
+      "image": "data/images/7344c7086cec2b2bd270c49377a12bf6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "published": "Tue, 09 Jun 2026 15:16:25 +0000",
-      "description": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "image": "data/images/87a2f4d128d11fd16a7b4cada6e54b61.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "published": "Wed, 24 Jun 2026 16:00:13 GMT",
+      "description": "",
+      "image": "data/images/400560664952e8c1e5fbe17d74cad467.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "published": "Wed, 24 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -132,33 +152,63 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "published": "Mon, 22 Jun 2026 13:18:56 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "published": "2026-06-24T14:41:41",
       "description": "",
-      "image": "data/images/7d60f4908dfa83cd40aa075a039d5b93.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "url": "https://huggingface.co/blog/local-models-pr-triage",
-      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Minimus container images are now free",
-      "url": "https://images.minimus.io/",
-      "published": "2026-06-24T11:52:12",
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "published": "2026-06-24T14:50:22",
       "description": "",
-      "image": "data/images/2454213c71dc9a914aebd04079c018f1.png",
+      "image": "https://techstrong.ai/wp-content/uploads/2026/06/open_source_ai_global_connectivity_770x330.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "CAPTCHAs have failed for 20 years",
+      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+      "published": "2026-06-24T16:02:32",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/yd6zslid/production/cd3a1c87bc3f777a2a15455ef582259e571d2432-856x579.png?rect=0,67,856,447&w=1200&h=627&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "published": "2026-06-24T14:32:12",
+      "description": "",
+      "image": "https://greptile.com/opengraph/greptile-blog.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "published": "2026-06-23T15:31:21",
+      "description": "",
+      "image": "https://s.krea.ai/blog-posts/krea-2-technical-report/agent/1782227962641-krea2-hero-new.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "published": "2026-06-24T15:37:18",
+      "description": "",
+      "image": "https://image.theregister.com/225000.jpg?imageId=225000&x=0&y=28.33&cropw=100&croph=71.67&panox=0&panoy=28.33&panow=100&panoh=71.67&width=1200&height=683",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +224,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "published": "2026-06-24T12:23:59",
+      "title": "Show HN: peerd \u2013 AI agent harness that runs entirely in your browser",
+      "url": "https://github.com/NotASithLord/peerd",
+      "published": "2026-06-23T15:05:00",
       "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2206159992-e1782250620624.jpg?resize=1200,600",
+      "image": "https://opengraph.githubassets.com/4b4c8e1717430e1ab7b25f0f4dcda33dc46d9cbd4c50ae3862e1d9433c184b8d/NotASithLord/peerd",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "FUTO Swipe \u2013 A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "published": "2026-06-23T17:50:22",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "published": "2026-06-24T13:14:39",
       "description": "",
-      "image": "data/images/5ec5f3e3cb8e7f9796dbaf7559b22593.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "published": "2026-06-24T02:21:47",
+      "title": "Minimus container images are now free",
+      "url": "https://images.minimus.io/",
+      "published": "2026-06-24T11:52:12",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "data/images/2454213c71dc9a914aebd04079c018f1.png",
       "summary": "Summary unavailable."
     }
   ],
