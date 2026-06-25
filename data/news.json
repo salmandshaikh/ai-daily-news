@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T13:54:44.627948",
+  "updated": "2026-06-25T17:59:53.564916",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "published": "Thu, 25 Jun 2026 16:11:42 GMT",
+      "description": "",
+      "image": "data/images/c8dae2e083790c52d94e348624351a35.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
       "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "published": "Wed, 24 Jun 2026 16:00:13 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "published": "2026-06-25T13:02:56",
       "description": "",
-      "image": "data/images/56c6c2d3b6f778bbec382135ce0af97b.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "published": "2026-06-25T17:00:00",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/3a2b88c2def0636ed6e5742652d1ae0ab9e0f271.png?1747153565",
       "summary": "Summary unavailable."
     },
     {
@@ -164,51 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "published": "2026-06-24T17:47:00",
+      "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "published": "2026-06-23T23:21:35",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+      "image": "https://opengraph.githubassets.com/c49d1acdeee17cffacea103082b4bf81b112be506755d7cc6ee0917297ba5265/decrazyo/anes",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "published": "2026-06-25T07:02:37",
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "published": "2026-06-25T13:08:31",
       "description": "",
-      "image": "data/images/3b4c24ede5d28113368a687a3034b7eb.png",
+      "image": "https://trakkr.ai/og-bias.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "published": "2026-06-24T14:41:41",
+      "title": "Ford AI hiccups push carmaker to rehire \u2018gray beard\u2019 inspectors",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "published": "2026-06-25T14:58:50",
       "description": "",
-      "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "published": "2026-06-24T14:32:12",
-      "description": "",
-      "image": "https://greptile.com/opengraph/greptile-blog.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "url": "https://markdy.com",
-      "published": "2026-06-23T15:00:02",
-      "description": "",
-      "image": "https://markdy.com/og-image.png",
+      "image": "data/images/65e667e9b4da529e506c5480d9cdcf91.png",
       "summary": "Summary unavailable."
     }
   ],
