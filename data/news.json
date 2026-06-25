@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-25T07:31:34.896857",
+  "updated": "2026-06-25T10:32:25.211433",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "published": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "image": "data/images/d12e0d293b44715696e258a4758d5db3.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 23 Jun 2026 00:00:00 GMT",
       "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "image": "data/images/8cac81e77c319d783adbeaee69e59adf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "image": "data/images/afa066fcbbb245a716f604140123f0cf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "url": "https://markdy.com",
-      "published": "2026-06-23T15:00:02",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "published": "2026-06-25T07:02:37",
       "description": "",
-      "image": "https://markdy.com/og-image.png",
+      "image": "data/images/3b4c24ede5d28113368a687a3034b7eb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Unbearable Cheapness of Open Weight Models",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "published": "2026-06-25T02:51:29",
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "url": "https://markdy.com",
+      "published": "2026-06-23T15:00:02",
       "description": "",
-      "image": "data/images/4ced4011ac2d13838efee55e517761fc.png",
+      "image": "https://markdy.com/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,6 +214,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+      "published": "2026-06-25T08:07:54",
+      "description": "",
+      "image": "data/images/74cafff9aa400751965f6e9028d1d52c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Brain Frog \u2013 Can you be random enough for 11 lines of JavaScript?",
       "url": "https://brainfrog.lol",
       "published": "2026-06-19T12:57:53",
@@ -229,6 +239,16 @@
       "published": "2026-06-23T15:31:21",
       "description": "",
       "image": "https://s.krea.ai/blog-posts/krea-2-technical-report/agent/1782227962641-krea2-hero-new.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Unbearable Cheapness of Open Weight Models",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "published": "2026-06-25T02:51:29",
+      "description": "",
+      "image": "data/images/4ced4011ac2d13838efee55e517761fc.png",
       "summary": "Summary unavailable."
     }
   ],
