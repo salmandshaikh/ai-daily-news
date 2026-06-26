@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-26T13:53:45.012595",
+  "updated": "2026-06-26T17:27:23.661063",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "published": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 23 Jun 2026 17:00:00 GMT",
       "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "image": "data/images/96fb11979984e0f358a5b49955b1af24.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "published": "Tue, 23 Jun 2026 00:00:00 GMT",
-      "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "image": "data/images/8cac81e77c319d783adbeaee69e59adf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -102,6 +102,96 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "published": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/d422f2dc520532e70c8580beb83e323e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "published": "Thu, 25 Jun 2026 16:11:42 GMT",
+      "description": "",
+      "image": "data/images/c8dae2e083790c52d94e348624351a35.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "published": "Wed, 24 Jun 2026 16:00:13 GMT",
+      "description": "",
+      "image": "data/images/400560664952e8c1e5fbe17d74cad467.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "published": "Wed, 24 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "published": "Tue, 23 Jun 2026 12:51:55 GMT",
+      "description": "",
+      "image": "data/images/832efc393a7870b3a8265f90fc543a1c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "published": "2026-06-26T17:06:55",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "published": "2026-06-26T16:40:11",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/35a39753c67ec210ce4e7d4ec327122a990927cccd8d21f79410149da457108e/workweave/router",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ultrasound imaging of the brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "published": "2026-06-26T11:51:11",
+      "description": "",
+      "image": "data/images/d83bef954d69ee2a9bbc3b840698cf6e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "published": "2026-06-26T17:00:43",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/37f702dd855e82c1592e6a2f877ffb12d23539c2.png?1754614441",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "What happened after 2k people tried to hack my AI assistant",
@@ -118,27 +208,7 @@
       "url": "https://github.com/inkeep/open-knowledge",
       "published": "2026-06-25T16:04:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/5edf94149ff567ba9a4559f0ab39f336f2ba2506a50e929df889f2a26c0922dc/inkeep/open-knowledge",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "published": "2026-06-25T13:02:56",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Doing a masters while working in Spain",
-      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-      "published": "2026-06-22T07:44:03",
-      "description": "",
-      "image": "data/images/df27f0a779978e7f2c991f21cb1ddff3.png",
+      "image": "https://opengraph.githubassets.com/58e11cb1396e81dc691a804b04733fdb5a7e72063c89d0d39d1914793a40705c/inkeep/open-knowledge",
       "summary": "Summary unavailable."
     }
   ],
