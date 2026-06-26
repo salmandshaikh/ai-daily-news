@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T17:27:23.661063",
+  "updated": "2026-06-26T21:11:45.122944",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "published": "2026-06-26T18:23:14",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
       "url": "https://github.com/workweave/router",
       "published": "2026-06-26T16:40:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/35a39753c67ec210ce4e7d4ec327122a990927cccd8d21f79410149da457108e/workweave/router",
+      "image": "https://opengraph.githubassets.com/64d64a50d584ea116b5059ae631c0a9df21deb48fccbd4eccd838d0e0d76fd6a/workweave/router",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Liva AI (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-      "published": "2026-06-26T17:00:43",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/37f702dd855e82c1592e6a2f877ffb12d23539c2.png?1754614441",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "What happened after 2k people tried to hack my AI assistant",
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "published": "2026-06-26T02:29:23",
       "description": "",
       "image": "data/images/3eb03b67a320349732f805eb906a049f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "published": "2026-06-25T16:04:46",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/58e11cb1396e81dc691a804b04733fdb5a7e72063c89d0d39d1914793a40705c/inkeep/open-knowledge",
       "summary": "Summary unavailable."
     }
   ],
