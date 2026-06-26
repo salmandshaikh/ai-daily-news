@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T10:41:07.361052",
+  "updated": "2026-06-26T13:53:45.012595",
   "articles": [
     {
       "source": "RSS",
@@ -102,56 +102,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "published": "Fri, 26 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/d422f2dc520532e70c8580beb83e323e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Which tokens does a hybrid model predict better?",
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "published": "Thu, 25 Jun 2026 16:11:42 GMT",
-      "description": "",
-      "image": "data/images/c8dae2e083790c52d94e348624351a35.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "published": "Wed, 24 Jun 2026 16:00:13 GMT",
-      "description": "",
-      "image": "data/images/400560664952e8c1e5fbe17d74cad467.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "published": "Wed, 24 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "published": "Tue, 23 Jun 2026 12:51:55 GMT",
-      "description": "",
-      "image": "data/images/832efc393a7870b3a8265f90fc543a1c.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "What happened after 2k people tried to hack my AI assistant",
@@ -164,21 +114,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Doing a masters while working in Spain",
-      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-      "published": "2026-06-22T07:44:03",
-      "description": "",
-      "image": "data/images/df27f0a779978e7f2c991f21cb1ddff3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
       "published": "2026-06-25T16:04:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/7c985e6e2dff2c90f9d1d8814f688e1244ffb5fd2d7088da168cdfd6c4959abe/inkeep/open-knowledge",
+      "image": "https://opengraph.githubassets.com/5edf94149ff567ba9a4559f0ab39f336f2ba2506a50e929df889f2a26c0922dc/inkeep/open-knowledge",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +134,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "published": "2026-06-25T17:38:44",
+      "title": "Doing a masters while working in Spain",
+      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+      "published": "2026-06-22T07:44:03",
       "description": "",
-      "image": "data/images/ec482359601b2315f2f96cab5a754e8f.png",
+      "image": "data/images/df27f0a779978e7f2c991f21cb1ddff3.png",
       "summary": "Summary unavailable."
     }
   ],
