@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:20:27.115099",
+  "updated": "2026-06-26T01:57:08.005128",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "published": "2026-06-25T17:38:44",
+      "description": "",
+      "image": "data/images/ec482359601b2315f2f96cab5a754e8f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
       "published": "2026-06-25T16:04:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/57967277f45ad951b7d26e1a414ea738f71b743a32bf5a4e0b6b46797f62b40f/inkeep/open-knowledge",
+      "image": "https://opengraph.githubassets.com/fcca6dadbc6bb30463c606b5fa3944d6f48936cc3a09103e239085380b02fdcb/inkeep/open-knowledge",
       "summary": "Summary unavailable."
     },
     {
@@ -174,16 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The annotated PyTorch training loop",
-      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-      "published": "2026-06-22T23:44:59",
-      "description": "",
-      "image": "https://idlemachines.co.uk/api/og/essay?title=The%20annotated%20PyTorch%20training%20loop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Besimple AI (YC P25) Is Hiring",
       "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
       "published": "2026-06-25T17:00:00",
@@ -194,28 +194,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
-      "url": "https://github.com/decrazyo/anes",
-      "published": "2026-06-23T23:21:35",
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "published": "2026-06-22T23:44:59",
       "description": "",
-      "image": "https://opengraph.githubassets.com/5edaa36f7adf4a7c5b306816a20419c6a20ddc72a80f3d152f6cc536798960d0/decrazyo/anes",
+      "image": "https://idlemachines.co.uk/api/og/essay?title=The%20annotated%20PyTorch%20training%20loop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Political bias in AI: Where the AI models stand",
-      "url": "https://trakkr.ai/bias",
-      "published": "2026-06-25T13:08:31",
+      "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "published": "2026-06-23T23:21:35",
       "description": "",
-      "image": "https://trakkr.ai/og-bias.png",
+      "image": "https://opengraph.githubassets.com/23d87e26358d45fc8bff22fbd2bd5497806f263159563b5a5d560c33e8324acf/decrazyo/anes",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "speakers": [
       "Alex",
       "Jordan"
