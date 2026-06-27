@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:02:30.607633",
+  "updated": "2026-06-27T16:53:24.571657",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "published": "2026-06-27T09:18:52",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4b81c9b40ee3cc10c2233dcf1c2dd9d5f7693ae5542296c7243fcb48f0b3ccaa/deepseek-ai/DeepSpec",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "published": "2026-06-26T17:06:55",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "published": "2026-06-24T18:42:12",
+      "description": "",
+      "image": "data/images/ed9e9b91115242db6342c7e08479e88d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "published": "2026-06-26T22:48:28",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "published": "2026-06-27T16:31:58",
       "description": "",
-      "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&w=1200&h=630&q=75&auto=format",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "published": "2026-06-26T22:36:51",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67007978&width=1200&height=600&coordinates=0%2C0%2C0%2C250",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,41 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "published": "2026-06-26T18:23:14",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The gap between open weights LLMs and closed source LLMs",
       "url": "https://blog.doubleword.ai/frontier-os-llm",
       "published": "2026-06-26T21:14:47",
       "description": "",
       "image": "data/images/8bf6d96c996216f4b481a70548ec0e1c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "published": "2026-06-26T11:51:11",
-      "description": "",
-      "image": "data/images/d83bef954d69ee2a9bbc3b840698cf6e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "published": "2026-06-27T00:43:39",
-      "description": "",
-      "image": "data/images/23dcfc55fc31be83e49ccb9ad0b0e59a.png",
       "summary": "Summary unavailable."
     }
   ],
