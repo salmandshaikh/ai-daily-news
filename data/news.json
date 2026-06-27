@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T06:45:51.673790",
+  "updated": "2026-06-27T09:54:39.609800",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "published": "2026-06-27T00:43:39",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "published": "2026-06-26T22:36:51",
       "description": "",
-      "image": "data/images/23dcfc55fc31be83e49ccb9ad0b0e59a.png",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67007978&width=1200&height=600&coordinates=0%2C0%2C0%2C250",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "published": "2026-06-26T22:36:51",
+      "title": "Show HN: Hacker News on a train station-style flip board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "published": "2026-06-27T00:43:39",
       "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67007978&width=1200&height=600&coordinates=0%2C0%2C0%2C250",
+      "image": "data/images/23dcfc55fc31be83e49ccb9ad0b0e59a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,16 +214,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "published": "2026-06-26T21:14:47",
-      "description": "",
-      "image": "data/images/8bf6d96c996216f4b481a70548ec0e1c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Ultrasound imaging of the brain",
       "url": "https://alephneuro.com/blog/ultrasound-brain",
       "published": "2026-06-26T11:51:11",
@@ -234,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "published": "2026-06-26T21:14:47",
+      "description": "",
+      "image": "data/images/8bf6d96c996216f4b481a70548ec0e1c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
       "url": "https://github.com/workweave/router",
       "published": "2026-06-26T16:40:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/cdce09efa3a1455f8ea7ae73362818d488df1382801fc0d26e918b9536baa0b7/workweave/router",
+      "image": "https://opengraph.githubassets.com/fefe8882401b5d2421bc90618c2601a0d924ef2217abc3918b505c7a0c3b02fb/workweave/router",
       "summary": "Summary unavailable."
     }
   ],
