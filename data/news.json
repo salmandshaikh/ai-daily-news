@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T16:53:24.571657",
+  "updated": "2026-06-27T20:46:48.254834",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "published": "2026-06-27T09:18:52",
+      "title": "AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "published": "2026-06-24T14:02:16",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4b81c9b40ee3cc10c2233dcf1c2dd9d5f7693ae5542296c7243fcb48f0b3ccaa/deepseek-ai/DeepSpec",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "published": "2026-06-26T17:06:55",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "published": "2026-06-27T09:18:52",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&h=900&fit=fill",
+      "image": "https://opengraph.githubassets.com/8a7385c13189c8d93f00b97e5998ad737ec121f71c6235a2178f5ff871bb6447/deepseek-ai/DeepSpec",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "published": "2026-06-27T13:10:21",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
       "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
       "published": "2026-06-23T14:28:20",
       "description": "",
       "image": "https://blog.mrcroxx.com/images/og-image.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Doctors suspected man had brain cancer. He had worms",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "published": "2026-06-27T16:31:58",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-      "published": "2026-06-27T02:41:53",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "published": "2026-06-26T21:14:47",
-      "description": "",
-      "image": "data/images/8bf6d96c996216f4b481a70548ec0e1c.png",
       "summary": "Summary unavailable."
     }
   ],
