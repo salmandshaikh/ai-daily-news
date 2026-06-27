@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:11:45.122944",
+  "updated": "2026-06-27T01:50:29.967215",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "published": "2026-06-26T21:14:47",
+      "description": "",
+      "image": "data/images/8bf6d96c996216f4b481a70548ec0e1c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "published": "2026-06-26T22:36:51",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67007978&width=1200&height=600&coordinates=0%2C0%2C0%2C250",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
       "url": "https://github.com/workweave/router",
       "published": "2026-06-26T16:40:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/64d64a50d584ea116b5059ae631c0a9df21deb48fccbd4eccd838d0e0d76fd6a/workweave/router",
+      "image": "https://opengraph.githubassets.com/c3b0472e0016c4e3554b8d8948eea1f04c4e695b884f10fc851f1940c57f89eb/workweave/router",
       "summary": "Summary unavailable."
     },
     {
@@ -190,22 +210,12 @@
       "description": "",
       "image": "data/images/d83bef954d69ee2a9bbc3b840698cf6e.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "published": "2026-06-26T02:29:23",
-      "description": "",
-      "image": "data/images/3eb03b67a320349732f805eb906a049f.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-26",
+    "date": "2026-06-27",
     "speakers": [
       "Alex",
       "Jordan"
