@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T09:54:39.609800",
+  "updated": "2026-06-27T13:02:30.607633",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+      "published": "2026-06-23T14:28:20",
+      "description": "",
+      "image": "https://blog.mrcroxx.com/images/og-image.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
       "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "published": "2026-06-26T22:48:28",
@@ -184,26 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "published": "2026-06-26T18:23:14",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "published": "2026-06-27T00:43:39",
-      "description": "",
-      "image": "data/images/23dcfc55fc31be83e49ccb9ad0b0e59a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Anatomy of a Failed (Nation-State?) Attack",
       "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
       "published": "2026-06-27T02:41:53",
@@ -214,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "published": "2026-06-26T11:51:11",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "published": "2026-06-26T18:23:14",
       "description": "",
-      "image": "data/images/d83bef954d69ee2a9bbc3b840698cf6e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -234,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "published": "2026-06-26T16:40:11",
+      "title": "Ultrasound imaging of the brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "published": "2026-06-26T11:51:11",
       "description": "",
-      "image": "https://opengraph.githubassets.com/fefe8882401b5d2421bc90618c2601a0d924ef2217abc3918b505c7a0c3b02fb/workweave/router",
+      "image": "data/images/d83bef954d69ee2a9bbc3b840698cf6e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Hacker News on a train station-style flip board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "published": "2026-06-27T00:43:39",
+      "description": "",
+      "image": "data/images/23dcfc55fc31be83e49ccb9ad0b0e59a.png",
       "summary": "Summary unavailable."
     }
   ],
