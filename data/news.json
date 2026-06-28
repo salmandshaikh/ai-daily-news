@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T10:18:28.868786",
+  "updated": "2026-06-28T13:06:58.188288",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "published": "2026-06-28T12:27:33",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/eb6eaf7d4028ea024171759a9f016eafa52d89840c3d40660be2d1d74b98731a/openai/codex/issues/2847",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
       "url": "https://github.com/itsthelore/wayfinder-router",
       "published": "2026-06-28T04:31:18",
@@ -174,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI learns the \u201cdark art\u201d of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "published": "2026-06-24T14:02:16",
+      "title": "The origins of the school system aimed to produce independent, critical thinkers",
+      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+      "published": "2026-06-28T12:55:36",
       "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
+      "image": "https://i.cbc.ca/ais/1.7174467,1713545866000/full/max/0/default.jpg?im=Crop%2Crect%3D%286%2C0%2C1174%2C660%29%3BResize%3D620",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The best response to AI slop and online noise is from Robin Williams",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
-      "published": "2026-06-28T01:28:10",
+      "title": "AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "published": "2026-06-24T14:02:16",
       "description": "",
-      "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "published": "2026-06-27T09:18:52",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "published": "2026-06-28T01:28:10",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b776a4125cb0b8838414c4cb6a1ab633e7d66db44485975613ad286c05a7cd6d/deepseek-ai/DeepSpec",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "published": "2026-06-27T13:10:21",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w",
       "summary": "Summary unavailable."
     }
   ],
