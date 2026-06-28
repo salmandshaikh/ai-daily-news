@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T02:00:39.927822",
+  "updated": "2026-06-28T07:42:30.945555",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI learns the \u201cdark art\u201d of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "published": "2026-06-24T14:02:16",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "published": "2026-06-28T04:31:18",
       "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
+      "image": "https://repository-images.githubusercontent.com/1271892689/88c43e02-cd49-45ba-9926-2f82880b57a0",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "published": "2026-06-28T03:09:13",
+      "description": "",
+      "image": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/07/22/12/ford-uk-factory.jpg?width=1200&height=800&crop=1200:800",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "published": "2026-06-23T17:40:01",
+      "description": "",
+      "image": "https://thedailyeconomy.org/wp-content/uploads/2026/06/Shutterstock_2616179413.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,6 +189,26 @@
       "published": "2026-06-27T13:10:21",
       "description": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "published": "2026-06-24T14:02:16",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "published": "2026-06-28T01:28:10",
+      "description": "",
+      "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w",
       "summary": "Summary unavailable."
     },
     {
@@ -188,27 +228,7 @@
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "published": "2026-06-27T09:18:52",
       "description": "",
-      "image": "https://opengraph.githubassets.com/09675ea646cd988a372acc5370cf92a0038e16118d5d5febbe9987c4569b1901/deepseek-ai/DeepSpec",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What Ozempic does to the gut-brain axis",
-      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
-      "published": "2026-06-27T21:34:06",
-      "description": "",
-      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-06/shutterstock_2284966451.jpg?h=99361e79&itok=GqJ4weXl",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Response to AI slop is from Robin Williams",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
-      "published": "2026-06-28T01:28:10",
-      "description": "",
-      "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w",
+      "image": "https://opengraph.githubassets.com/f05cd9463cf1ccd848af1e3170d70ada30fd9bf6aea052a2857637fe1b3b426f/deepseek-ai/DeepSpec",
       "summary": "Summary unavailable."
     }
   ],
