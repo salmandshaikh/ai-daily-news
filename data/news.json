@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-28T20:48:57.843868",
+  "updated": "2026-06-29T02:01:55.463740",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "published": "Sun, 28 Jun 2026 17:00:00 GMT",
+      "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 23 Jun 2026 13:00:00 GMT",
       "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "image": "data/images/1d2fcb706eafb08d1c6ccc3ee3d43e87.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "published": "Tue, 23 Jun 2026 17:00:00 GMT",
-      "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "image": "data/images/96fb11979984e0f358a5b49955b1af24.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Librepods: AirPods liberated from Apple's ecosystem",
+      "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+      "url": "https://www.phantafield.com/whitepaper",
+      "published": "2026-06-29T01:23:38",
+      "description": "",
+      "image": "data/images/ec565009381fa4683dcbeb5104e3030b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "published": "2026-06-28T16:41:12",
+      "description": "",
+      "image": "https://imagenes.elpais.com/resizer/v2/J6ITLVPHQNHI3BHNR3FPIX5URE.jpg?auth=29cc39cd3e10fbe5a5266dd40100f1d61e4fe145ccd2e4ab13b6a6bd0b67f1dd&width=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "published": "2026-06-28T22:32:04",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Librepods: AirPods liberated",
       "url": "https://github.com/librepods-org/librepods",
       "published": "2026-06-28T18:48:53",
       "description": "",
@@ -164,31 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ford rehires 'gray beard' engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "published": "2026-06-28T19:35:57",
+      "title": "Better Images of AI",
+      "url": "https://betterimagesofai.org/",
+      "published": "2026-06-28T23:50:58",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: NanoEuler \u2013 GPT-2 scale model in pure C/CUDA from scratch",
-      "url": "https://github.com/JustVugg/nanoeuler",
-      "published": "2026-06-28T19:38:14",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/bb22a7182b2108b8efa94d4bf1db908d72b20ea776fd81f5f874ac861a9efd23/JustVugg/nanoeuler",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-      "published": "2026-06-28T18:59:53",
-      "description": "",
-      "image": "https://archive.org/services/img/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "image": "data/images/6a5956b4f114c1f67e5f72aa4d6c41cd.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "published": "2026-06-28T12:27:33",
+      "title": "Model Training as Code",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "published": "2026-06-25T13:54:06",
       "description": "",
-      "image": "https://opengraph.githubassets.com/7b7bb2af7fcb510bee57e8ba3bb86fd185111dcca5f1636175d10a942fdce5c3/openai/codex/issues/2847",
+      "image": "https://aleph-alpha.com/_astro/00-cover-model-training-as-code.oaKwGkcy.png",
       "summary": "Summary unavailable."
     },
     {
@@ -224,18 +234,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Appaca \u2013 AI Workspace for Operators",
-      "url": "https://www.appaca.ai/",
-      "published": "2026-06-26T04:54:29",
+      "title": "Show HN: NanoEuler \u2013 GPT-2 scale model in pure C/CUDA from scratch",
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "published": "2026-06-28T19:38:14",
       "description": "",
-      "image": "https://www.appaca.ai/og.png",
+      "image": "https://opengraph.githubassets.com/385f659fba42798eb96530cddae5c1f45154b17ef92ab812aadf840e2fe6f05b/JustVugg/nanoeuler",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "published": "2026-06-28T12:27:33",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/7b7bb2af7fcb510bee57e8ba3bb86fd185111dcca5f1636175d10a942fdce5c3/openai/codex/issues/2847",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "speakers": [
       "Alex",
       "Jordan"
