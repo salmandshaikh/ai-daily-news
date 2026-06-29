@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:02:31.540337",
+  "updated": "2026-06-29T21:15:45.796706",
   "articles": [
     {
       "source": "RSS",
@@ -104,21 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "published": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "published": "Mon, 29 Jun 2026 18:02:48 GMT",
       "description": "",
-      "image": "data/images/d422f2dc520532e70c8580beb83e323e.png",
+      "image": "data/images/f73ab7a45b4c8265be91f338dd0677c1.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Which tokens does a hybrid model predict better?",
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "published": "Thu, 25 Jun 2026 16:11:42 GMT",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "published": "Fri, 26 Jun 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/c8dae2e083790c52d94e348624351a35.png",
+      "image": "data/images/d422f2dc520532e70c8580beb83e323e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "published": "2026-06-29T01:44:40",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!S-dx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab22a57-acb5-4fe4-929f-132059bcb466_1800x900.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tidal AI Policy",
-      "url": "https://tidal.com/ai-policy",
-      "published": "2026-06-29T13:09:03",
-      "description": "",
-      "image": "data/images/92ed05936e0fc2311e6a9066aab75966.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "published": "2026-06-29T17:16:17",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b2329de5f3626c5a85a1f2a2f7f3660f7aaddd55cca8987502f440b4e6875c9b/deepreinforce-ai/Ornith-1",
+      "image": "https://opengraph.githubassets.com/0a71303798e40fa10dafeb3d34a51d8f25980296169540d27ca236ad2fa4dc89/deepreinforce-ai/Ornith-1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "published": "2026-06-29T19:49:28",
+      "description": "",
+      "image": "data/images/12192686c6d551e2d06bd832f0ea52c5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "published": "2026-06-29T18:03:26",
+      "description": "",
+      "image": "https://vllm.ai/blog-assets/figures/2026-06-29-micro-agent-frontier-models/looper-micro-agents.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ACL 1.0: A source-available commercial license for the AI era",
+      "url": "https://www.auditablelicense.org/",
+      "published": "2026-06-28T09:45:58",
+      "description": "",
+      "image": "https://auditablelicense.org/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,6 +199,16 @@
       "published": "2026-06-29T10:45:51",
       "description": "",
       "image": "data/images/20d46b63e26ec3c5b802e23dcfd35e37.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "published": "2026-06-29T13:09:03",
+      "description": "",
+      "image": "data/images/92ed05936e0fc2311e6a9066aab75966.png",
       "summary": "Summary unavailable."
     }
   ],
