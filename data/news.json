@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:45:12.226069",
+  "updated": "2026-06-30T21:21:31.453366",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "published": "Tue, 30 Jun 2026 18:32:50 GMT",
+      "description": "",
+      "image": "data/images/f0f21c6495ca47b6ba70ba2cdd117141.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Why Specialization Is Inevitable",
       "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
       "published": "Tue, 30 Jun 2026 14:39:11 GMT",
@@ -139,46 +149,6 @@
       "published": "Fri, 26 Jun 2026 00:00:00 GMT",
       "description": "",
       "image": "data/images/d422f2dc520532e70c8580beb83e323e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "published": "Wed, 24 Jun 2026 16:00:13 GMT",
-      "description": "",
-      "image": "data/images/400560664952e8c1e5fbe17d74cad467.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "published": "2026-06-29T19:49:28",
-      "description": "",
-      "image": "data/images/12192686c6d551e2d06bd832f0ea52c5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-      "published": "2026-06-28T18:59:53",
-      "description": "",
-      "image": "https://archive.org/services/img/colby1968-computer-aided-language-development-in-non-speaking-children",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "published": "2026-06-30T00:30:11",
-      "description": "",
-      "image": "https://s3plus.meituan.net/aigc-media-resources/longcat/big-cat-logo.png",
       "summary": "Summary unavailable."
     }
   ],
