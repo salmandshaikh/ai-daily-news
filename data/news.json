@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-30T13:32:27.417008",
+  "updated": "2026-06-30T17:45:12.226069",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "published": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "image": "data/images/a264f5c5b90a30d5a70706364287907e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "image": "data/images/8a1de3981271bdb50aa04c87352720a1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "image": "data/images/606cf39901618adc203364588bb467fa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/214d779fd4b13e2968e7c8009704e5ff.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -13,42 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "published": "Sun, 28 Jun 2026 17:00:00 GMT",
-      "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "published": "Fri, 26 Jun 2026 10:00:00 GMT",
-      "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "published": "Thu, 25 Jun 2026 02:00:00 GMT",
-      "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "image": "data/images/d12e0d293b44715696e258a4758d5db3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "published": "Wed, 24 Jun 2026 06:00:00 GMT",
-      "description": "OpenAI and Broadcom introduce Jalape\u00f1o, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "image": "data/images/2290ce06225887546ab344042ef0d21d.png",
+      "source_name": "Google DeepMind News",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "published": "Tue, 30 Jun 2026 16:02:40 +0000",
+      "description": "",
+      "image": "data/images/0a5ee9900b87e21c608078fb29f1c21b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "published": "Wed, 10 Jun 2026 10:21:19 +0000",
-      "description": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-      "image": "data/images/39c3430e4c5020d8d121a3efbbd97fc6.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "published": "Tue, 30 Jun 2026 14:39:11 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "published": "Wed, 24 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": ".self: A new top-level domain designed to support self-hosting",
@@ -164,31 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "published": "2026-06-28T18:59:53",
+      "description": "",
+      "image": "https://archive.org/services/img/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
       "published": "2026-06-30T00:30:11",
       "description": "",
       "image": "https://s3plus.meituan.net/aigc-media-resources/longcat/big-cat-logo.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "published": "2026-06-29T17:16:17",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/cd1ae7c1742b521746f885debf7b7fb33fd673c92cf35a953d8e95e530a563b5/deepreinforce-ai/Ornith-1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "url": "https://arxiv.org/abs/2606.22283",
-      "published": "2026-06-27T23:30:14",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
