@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T01:56:04.784581",
+  "updated": "2026-06-30T07:40:37.834835",
   "articles": [
     {
       "source": "RSS",
@@ -168,7 +168,7 @@
       "url": "https://longcat.chat/blog/longcat-2.0/",
       "published": "2026-06-30T00:30:11",
       "description": "",
-      "image": "data/images/6e57d57597fdf655b47199b5724d39fa.png",
+      "image": "https://s3plus.meituan.net/aigc-media-resources/longcat/big-cat-logo.png",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "published": "2026-06-29T17:16:17",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9b5f95617c1e5a4b8de7490d3724a7f4eb31a1f0176fc876b66cb8f5cfe6ccf1/deepreinforce-ai/Ornith-1",
+      "image": "https://opengraph.githubassets.com/91adc2b9ce167bca1900367c85a406a3ef3fef998763253d1379d503658d40ce/deepreinforce-ai/Ornith-1",
       "summary": "Summary unavailable."
     },
     {
@@ -194,41 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Open Memory Protocol \u2013 One Memory Store for Claude, ChatGPT, Curso",
-      "url": "https://github.com/SMJAI/open-memory-protocol",
-      "published": "2026-06-30T00:05:33",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/3e74ec9e141849983488146ab2e85364042a3fc5288d219179241f10bc9d79d9/SMJAI/open-memory-protocol",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Working With AI: A concrete example",
       "url": "https://htmx.org/essays/working-with-ai/",
       "published": "2026-06-29T14:53:41",
       "description": "",
       "image": "data/images/a92d87cceb5cb36a2db338278dc61cd6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "published": "2026-06-29T18:03:26",
-      "description": "",
-      "image": "https://vllm.ai/blog-assets/figures/2026-06-29-micro-agent-frontier-models/looper-micro-agents.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "published": "2026-06-28T17:58:04",
-      "description": "",
-      "image": "https://deep-reinforce.com/ornith/assets/cover.png",
       "summary": "Summary unavailable."
     }
   ],
