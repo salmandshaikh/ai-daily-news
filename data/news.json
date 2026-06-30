@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:15:45.796706",
+  "updated": "2026-06-30T01:56:04.784581",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "published": "2026-06-29T17:16:17",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/0a71303798e40fa10dafeb3d34a51d8f25980296169540d27ca236ad2fa4dc89/deepreinforce-ai/Ornith-1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "published": "2026-06-29T19:49:28",
       "description": "",
       "image": "data/images/12192686c6d551e2d06bd832f0ea52c5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "published": "2026-06-30T00:30:11",
+      "description": "",
+      "image": "data/images/6e57d57597fdf655b47199b5724d39fa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "published": "2026-06-29T17:16:17",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9b5f95617c1e5a4b8de7490d3724a7f4eb31a1f0176fc876b66cb8f5cfe6ccf1/deepreinforce-ai/Ornith-1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "url": "https://arxiv.org/abs/2606.22283",
+      "published": "2026-06-27T23:30:14",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Open Memory Protocol \u2013 One Memory Store for Claude, ChatGPT, Curso",
+      "url": "https://github.com/SMJAI/open-memory-protocol",
+      "published": "2026-06-30T00:05:33",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/3e74ec9e141849983488146ab2e85364042a3fc5288d219179241f10bc9d79d9/SMJAI/open-memory-protocol",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Working With AI: A concrete example",
+      "url": "https://htmx.org/essays/working-with-ai/",
+      "published": "2026-06-29T14:53:41",
+      "description": "",
+      "image": "data/images/a92d87cceb5cb36a2db338278dc61cd6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,38 +224,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ACL 1.0: A source-available commercial license for the AI era",
-      "url": "https://www.auditablelicense.org/",
-      "published": "2026-06-28T09:45:58",
+      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+      "url": "https://deep-reinforce.com/ornith_1_0.html",
+      "published": "2026-06-28T17:58:04",
       "description": "",
-      "image": "https://auditablelicense.org/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
-      "url": "https://det.social/@lostgen/116820546568940358",
-      "published": "2026-06-29T10:45:51",
-      "description": "",
-      "image": "data/images/20d46b63e26ec3c5b802e23dcfd35e37.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tidal AI Policy",
-      "url": "https://tidal.com/ai-policy",
-      "published": "2026-06-29T13:09:03",
-      "description": "",
-      "image": "data/images/92ed05936e0fc2311e6a9066aab75966.png",
+      "image": "https://deep-reinforce.com/ornith/assets/cover.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "speakers": [
       "Alex",
       "Jordan"
