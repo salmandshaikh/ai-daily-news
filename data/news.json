@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T10:46:50.200245",
+  "updated": "2026-06-30T13:32:27.417008",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/5cef7cf07e07e7164eea3ef9128fdab7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "DiScoFormer: One transformer for density and score, across distributions",
       "url": "https://huggingface.co/blog/allenai/discoformer",
       "published": "Mon, 29 Jun 2026 18:02:48 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "published": "Tue, 23 Jun 2026 12:51:55 GMT",
-      "description": "",
-      "image": "data/images/832efc393a7870b3a8265f90fc543a1c.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": ".self: A new top-level domain designed to support self-hosting",
@@ -178,7 +178,7 @@
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "published": "2026-06-29T17:16:17",
       "description": "",
-      "image": "https://opengraph.githubassets.com/0ab4eff44e57679c6e65e0182f3d7f4f56637d6bac0d1ef17cc304810c2aa0cb/deepreinforce-ai/Ornith-1",
+      "image": "https://opengraph.githubassets.com/cd1ae7c1742b521746f885debf7b7fb33fd673c92cf35a953d8e95e530a563b5/deepreinforce-ai/Ornith-1",
       "summary": "Summary unavailable."
     },
     {
