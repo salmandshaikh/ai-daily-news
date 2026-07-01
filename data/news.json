@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T13:59:56.225816",
+  "updated": "2026-07-01T17:45:13.613224",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/06ca1a5cf227ef173c2f1c34eeb75b4a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "published": "Tue, 30 Jun 2026 18:32:50 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "published": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "published": "2026-07-01T14:26:07",
       "description": "",
-      "image": "data/images/d422f2dc520532e70c8580beb83e323e.png",
+      "image": "https://media.reclaimthenet.org/2026/06/uS2Yrsa3uRef.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -164,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "published": "2026-07-01T07:43:22",
+      "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+      "published": "2026-07-01T10:19:45",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "published": "2026-07-01T05:13:22",
-      "description": "",
-      "image": "data/images/addb319d719d9f1fd98711dc112102b2.png",
+      "image": "https://easyoptouts.com/og-logo.png",
       "summary": "Summary unavailable."
     }
   ],
