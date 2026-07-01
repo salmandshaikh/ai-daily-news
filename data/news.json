@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T02:01:10.773113",
+  "updated": "2026-07-01T08:00:56.771620",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "published": "2026-07-01T05:13:22",
+      "description": "",
+      "image": "data/images/addb319d719d9f1fd98711dc112102b2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "From brain waves to words: a new path to communication without surgery",
       "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "published": "2026-06-30T21:29:13",
       "description": "",
       "image": "data/images/5d42ea39203231593a515afd20285248.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Deriving SVD without even aiming at it",
-      "url": "https://stillthinking.net/posts/connections-in-math-svd/",
-      "published": "2026-06-28T14:21:17",
-      "description": "",
-      "image": "data/images/49cd94dccdc0c4d0e0e8b1a72b102fc8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "TabFM: A zero-shot foundation model for tabular data",
-      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-      "published": "2026-06-30T22:08:38",
-      "description": "",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
       "summary": "Summary unavailable."
     }
   ],
