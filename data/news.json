@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T13:23:28.488564",
+  "updated": "2026-07-02T17:23:49.904887",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-      "published": "2026-07-02T12:40:36",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "published": "2026-07-02T13:43:41",
       "description": "",
-      "image": "https://www.niemanlab.org/images/the-editorial-alabama-newspapers-700x414.png",
+      "image": "data/images/a60a0894b179a817fa13a4b25d99f953.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "published": "2026-07-02T12:10:24",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Mail Memories \u2013 A desktop app to rescue photos from Gmail",
+      "url": "https://mailmemories.com",
+      "published": "2026-07-02T14:16:57",
+      "description": "",
+      "image": "https://mailmemories.com/assets/images/screen-mac.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "url": "https://github.com/rafal-qa/slopo",
+      "published": "2026-07-02T14:19:24",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/12c0762ce9fd4d64e44004de82bcd376d4f458f6daf38a5e9167a089bb7bbd3e/rafal-qa/slopo",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "published": "2026-07-02T13:25:25",
+      "description": "",
+      "image": "data/images/19408d2b86f8432cff9938efcb67bd3c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "url": "https://arxiv.org/abs/2607.01232",
-      "published": "2026-07-02T12:10:24",
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "published": "2026-07-02T11:41:27",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "data/images/5c35e8b0e1795ce8831234f4877ae9fa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "published": "2026-07-02T15:02:26",
+      "description": "",
+      "image": "https://imagedelivery.net/qIvImu8MgTZD-kGvW-i83w/production.gdh/b4f0dccd-d76f-4a2c-8132-24ae18004b72/w=1200,h=630,fit=cover,q=80",
       "summary": "Summary unavailable."
     }
   ],
