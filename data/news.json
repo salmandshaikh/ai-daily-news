@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T06:58:18.770732",
+  "updated": "2026-07-02T10:25:39.567513",
   "articles": [
     {
       "source": "RSS",
@@ -161,5 +161,15 @@
       "image": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
       "summary": "Summary unavailable."
     }
-  ]
+  ],
+  "podcast": {
+    "file": "data/podcast/latest.mp3",
+    "duration": 13,
+    "date": "2026-07-02",
+    "speakers": [
+      "Alex",
+      "Jordan"
+    ],
+    "segments": 4
+  }
 }
