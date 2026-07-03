@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:26:17.501664",
+  "updated": "2026-07-03T17:08:12.377370",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "published": "Fri, 03 Jul 2026 14:25:43 +0000",
+      "description": "",
+      "image": "data/images/caf30cdcaa24bdfeac33e0eb088b56d2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "published": "Tue, 30 Jun 2026 16:02:40 +0000",
@@ -89,16 +99,6 @@
       "published": "Tue, 16 Jun 2026 15:46:31 +0000",
       "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "image": "data/images/3689a13e4f998fabb93e4285a3192cd6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "published": "Wed, 10 Jun 2026 16:24:11 +0000",
-      "description": "",
-      "image": "data/images/deb1f6cae7ba55c9a553473b67d894bb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Please Stop the AI Confidence Theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "published": "2026-07-03T12:51:17",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "published": "2026-07-03T15:03:43",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!__9h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F442d1ae1-821a-46cd-bccb-066fc8104e9a_664x377.png",
+      "image": "https://opengraph.githubassets.com/2fef2f8a57c5bf238d675743e257f5807b18fa884b85fc498de15189eaf59ee2/jamesob/local-llm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+      "published": "2026-06-30T14:00:51",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/h6kk644c/production/43bc2890714a2b29552aa8c17893de1762763617-720x378.jpg?w=1200&h=630",
       "summary": "Summary unavailable."
     },
     {
@@ -169,26 +179,6 @@
       "published": "2026-06-27T23:36:25",
       "description": "",
       "image": "data/images/28b39814da6c9db776246d8aac7b3d74.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The short leash AI coding method for beating Fable",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "published": "2026-07-02T19:11:57",
-      "description": "",
-      "image": "data/images/4b3d0aafec4094e0e4bc226d98594c51.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-      "published": "2026-06-25T01:11:53",
-      "description": "",
-      "image": "https://petapixel.com/assets/uploads/2026/06/nikon-z6-iii-no-wireless.jpg",
       "summary": "Summary unavailable."
     }
   ],
