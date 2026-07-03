@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:49:04.879824",
+  "updated": "2026-07-03T01:25:06.415514",
   "articles": [
     {
       "source": "RSS",
@@ -154,98 +154,68 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Vulkan is now available on NetBSD",
-      "url": "https://github.com/segaboy/vulkan-netbsd",
-      "published": "2026-07-02T18:36:09",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "published": "2026-06-27T23:36:25",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4f1460e6b0eaff3085cab50acf765ac0d43afae6ff0e5dd1812fb414da5b78f1/segaboy/vulkan-netbsd",
+      "image": "data/images/28b39814da6c9db776246d8aac7b3d74.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "published": "2026-07-02T15:02:26",
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "published": "2026-07-03T00:01:26",
       "description": "",
-      "image": "https://imagedelivery.net/qIvImu8MgTZD-kGvW-i83w/production.gdh/b4f0dccd-d76f-4a2c-8132-24ae18004b72/w=1200,h=630,fit=cover,q=80",
+      "image": "data/images/0b91710b0996231e630423f745217c8b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "published": "2026-07-02T13:43:41",
+      "title": "\"An AI Job Apocalypse?\" \u2013 Goldman Sachs Report [pdf]",
+      "url": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
+      "published": "2026-07-03T00:18:11",
       "description": "",
-      "image": "data/images/a60a0894b179a817fa13a4b25d99f953.png",
+      "image": "data/images/7936d84d88b6176d2f7710eba37d0583.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "No LLM Code in Dependencies",
-      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-      "published": "2026-07-02T14:17:23",
+      "title": "Claude-real-video \uff0d any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "published": "2026-07-02T19:10:12",
       "description": "",
-      "image": "data/images/02cc9e904daebcccbbc2daa159b4656e.png",
+      "image": "https://opengraph.githubassets.com/b7f3749939590b38fb4ec24020cfa00f0ef5d95a50a86ed86aa8123ed6539a6d/HUANGCHIHHUNGLeo/claude-real-video",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "published": "2026-07-02T04:32:41",
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "published": "2026-07-02T19:11:57",
       "description": "",
-      "image": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
+      "image": "data/images/4b3d0aafec4094e0e4bc226d98594c51.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "url": "https://github.com/rafal-qa/slopo",
-      "published": "2026-07-02T14:19:24",
+      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "published": "2026-06-25T01:11:53",
       "description": "",
-      "image": "https://opengraph.githubassets.com/0225171c758b8ae3d6536b7857f432eb8b64f5c704c67cc5516307752867a12d/rafal-qa/slopo",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "url": "https://arxiv.org/abs/2607.01232",
-      "published": "2026-07-02T12:10:24",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "published": "2026-07-02T13:25:25",
-      "description": "",
-      "image": "data/images/19408d2b86f8432cff9938efcb67bd3c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The primary purpose of code review is to find code that will be hard to maintain",
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "published": "2026-07-02T11:41:27",
-      "description": "",
-      "image": "data/images/5c35e8b0e1795ce8831234f4877ae9fa.png",
+      "image": "https://petapixel.com/assets/uploads/2026/06/nikon-z6-iii-no-wireless.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-02",
+    "date": "2026-07-03",
     "speakers": [
       "Alex",
       "Jordan"
