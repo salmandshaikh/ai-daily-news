@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T17:08:12.377370",
+  "updated": "2026-07-03T20:50:22.468344",
   "articles": [
     {
       "source": "RSS",
@@ -158,13 +158,23 @@
       "url": "https://github.com/jamesob/local-llm",
       "published": "2026-07-03T15:03:43",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2fef2f8a57c5bf238d675743e257f5807b18fa884b85fc498de15189eaf59ee2/jamesob/local-llm",
+      "image": "https://opengraph.githubassets.com/126a1336ece04144a9d9d7a841b80d2958603c91ceed4239ccb1b0914085b6fc/jamesob/local-llm",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "title": "Instead of banning AI, I made a classroom contract with my students",
+      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+      "published": "2026-07-03T14:28:33",
+      "description": "",
+      "image": "data/images/4332842a83686a2d9631c3a4dcd31214.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
       "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
       "published": "2026-06-30T14:00:51",
       "description": "",
@@ -174,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "published": "2026-06-27T23:36:25",
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "published": "2026-07-03T15:50:49",
       "description": "",
-      "image": "data/images/28b39814da6c9db776246d8aac7b3d74.png",
+      "image": "https://opengraph.githubassets.com/2147b201cb50c62cb27b5fe99546a91c0945e9ec24ebec0e70cd4e6519a91305/teamchong/pxpipe",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+      "url": "https://github.com/clidey/deptrust",
+      "published": "2026-07-01T20:51:47",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/3ff58aa278975187c4008f500da660c73d8d5f120f5a48c946b2068d1063e4e3/clidey/deptrust",
       "summary": "Summary unavailable."
     }
   ],
