@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T16:47:27.165481",
+  "updated": "2026-07-04T20:41:07.200849",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Plein Air",
+      "url": "https://art.joonas.wtf/",
+      "published": "2026-07-04T16:55:29",
+      "description": "",
+      "image": "data/images/6f1b83b62b8a55abc96491de3c6aadee.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
       "published": "2026-07-01T12:48:56",
@@ -164,41 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+      "published": "2026-07-01T21:10:16",
+      "description": "",
+      "image": "data/images/50f7c2970ca17227d372547e0386269b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The bottleneck might be the air in the room",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
       "published": "2026-07-04T06:32:28",
       "description": "",
       "image": "data/images/eaa45f2f186baa2eafaf67d6cdad79e6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "published": "2026-07-03T15:03:43",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/cc532c6c6fe1466adad4a26f364a8c7efb5970547c285d9e02555bfbfd888cab/jamesob/local-llm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
-      "published": "2026-07-04T00:57:44",
-      "description": "",
-      "image": "data/images/07b5dc410f0d06ea3c79de8689e77cad.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
-      "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
-      "published": "2026-07-04T11:39:01",
-      "description": "",
-      "image": "data/images/d9345f64edeb469ae3b7224eec7c01be.png",
       "summary": "Summary unavailable."
     }
   ],
