@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T01:24:52.304786",
+  "updated": "2026-07-04T06:38:53.096532",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "published": "2026-07-04T00:35:49",
-      "description": "",
-      "image": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
       "url": "https://mrbruh.com/msicenter/",
       "published": "2026-07-04T00:57:44",
@@ -174,21 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "published": "2026-07-03T22:56:17",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "published": "2026-07-03T15:03:43",
       "description": "",
-      "image": "data/images/799ce1b1df3a877fa350d1b03b4590cf.png",
+      "image": "https://opengraph.githubassets.com/ecfcf6f2077a6054dfe14cfd7828fcc5a05ed96e2b91be4ee5f13dad1452729f/jamesob/local-llm",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "published": "2026-07-03T15:03:43",
+      "title": "Soatok's Informal Guide to Threat Models",
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "published": "2026-07-04T00:35:49",
       "description": "",
-      "image": "https://opengraph.githubassets.com/47875b4ef594b86b3ec2c683110c0f119133fbec151cd32c6a71101368bdfdca/jamesob/local-llm",
+      "image": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1",
       "summary": "Summary unavailable."
     },
     {
@@ -199,16 +189,6 @@
       "published": "2026-07-03T20:38:26",
       "description": "",
       "image": "https://citizenlab.ca/wp-content/uploads/2026/07/olive-oil-report-web.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-      "published": "2026-07-03T22:35:47",
-      "description": "",
-      "image": "data/images/8c854570b73900c488a71a99f327daef.png",
       "summary": "Summary unavailable."
     }
   ],
