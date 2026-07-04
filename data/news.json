@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T06:38:53.096532",
+  "updated": "2026-07-04T09:57:22.863961",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "published": "2026-07-04T06:32:28",
+      "description": "",
+      "image": "data/images/eaa45f2f186baa2eafaf67d6cdad79e6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "published": "2026-07-01T12:48:56",
+      "description": "",
+      "image": "https://www.databricks.com/sites/default/files/2026-06/Frame-1-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
       "url": "https://mrbruh.com/msicenter/",
       "published": "2026-07-04T00:57:44",
@@ -168,7 +188,7 @@
       "url": "https://github.com/jamesob/local-llm",
       "published": "2026-07-03T15:03:43",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ecfcf6f2077a6054dfe14cfd7828fcc5a05ed96e2b91be4ee5f13dad1452729f/jamesob/local-llm",
+      "image": "https://opengraph.githubassets.com/5bd515160f48d720b4fcfe152fbc307825c15e3eda5a4176a7ff529488c5ab9a/jamesob/local-llm",
       "summary": "Summary unavailable."
     },
     {
@@ -179,6 +199,16 @@
       "published": "2026-07-04T00:35:49",
       "description": "",
       "image": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "url": "https://github.com/adam-s/car-diagnosis",
+      "published": "2026-07-01T16:57:20",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/0760968f2255e1657f3d6049fe9526b87d48812e34bae68da49b9650ac292c97/adam-s/car-diagnosis",
       "summary": "Summary unavailable."
     },
     {
