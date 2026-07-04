@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T12:53:00.710907",
+  "updated": "2026-07-04T16:47:27.165481",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "published": "2026-07-01T12:48:56",
+      "description": "",
+      "image": "https://www.databricks.com/sites/default/files/2026-06/Frame-1-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The bottleneck might be the air in the room",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
       "published": "2026-07-04T06:32:28",
@@ -164,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "published": "2026-07-01T13:22:19",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "published": "2026-07-03T15:03:43",
       "description": "",
-      "image": "https://i.cbc.ca/ais/129c27ac-3942-4151-95c0-e711f39899db,1782761000702/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C104%2C2000%2C1125%29%3BResize%3D620",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "published": "2026-07-01T12:48:56",
-      "description": "",
-      "image": "https://www.databricks.com/sites/default/files/2026-06/Frame-1-1.png",
+      "image": "https://opengraph.githubassets.com/cc532c6c6fe1466adad4a26f364a8c7efb5970547c285d9e02555bfbfd888cab/jamesob/local-llm",
       "summary": "Summary unavailable."
     },
     {
@@ -194,41 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "published": "2026-07-03T15:03:43",
+      "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
+      "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
+      "published": "2026-07-04T11:39:01",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2a19de46fc571d7330d9d80c4599711726c2e5f36421abb6515f372441c36556/jamesob/local-llm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ship traces journey Spanish Armada sailors made in 1588",
-      "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
-      "published": "2026-06-30T21:45:22",
-      "description": "",
-      "image": "https://www.irishtimes.com/resizer/v2/WGPQB5LSQZHL5INPHF6SKOWD4E.JPG?smart=true&auth=6ec3c0bc45b26af1dbbddceefbc8c96f87cea7fefe07c3293a3bd24d732655ec&width=1200&height=630",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "published": "2026-07-04T00:35:49",
-      "description": "",
-      "image": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-      "url": "https://github.com/adam-s/car-diagnosis",
-      "published": "2026-07-01T16:57:20",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f6e26fb8de626832ba38868d81673a4686a7f2d242237a3c626a9beae81e1714/adam-s/car-diagnosis",
+      "image": "data/images/d9345f64edeb469ae3b7224eec7c01be.png",
       "summary": "Summary unavailable."
     }
   ],
