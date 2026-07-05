@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:51:39.062393",
+  "updated": "2026-07-05T20:44:22.430740",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "published": "2026-07-05T18:47:43",
+      "description": "",
+      "image": "data/images/abf9eac92a73cd2797acd13456830951.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "published": "2026-07-03T03:13:53",
+      "description": "",
+      "image": "data/images/a22b0262d3397695533606efba04fa82.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Airplane Boneyards List and Map",
       "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
       "published": "2026-07-04T15:53:08",
@@ -164,11 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
-      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
-      "published": "2026-07-05T14:49:42",
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+      "published": "2026-07-05T15:00:21",
       "description": "",
-      "image": "https://images.euronews.com/articles/stories/09/82/37/90/1200x675_cmsv2_08ddd015-4096-5f19-be21-c19a1ae3fb19-9823790.jpg",
+      "image": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "published": "2026-07-01T20:51:52",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/2a1b2857c18586b7949185b153780f1c08270df2129ee5adbd831c8078b7dd5f/langchain-ai/openwiki",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A sociotechnical threat model for AI-driven smart home devices",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "published": "2026-07-05T17:05:57",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,16 +219,6 @@
       "published": "2026-07-05T15:49:18",
       "description": "",
       "image": "https://www.designboom.com/twitterimages/uploads/2026/01/autonomous-flying-umbrella-follows-users-i-build-stuff-designboom-fb.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
-      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
-      "published": "2026-07-05T15:00:21",
-      "description": "",
-      "image": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec.png",
       "summary": "Summary unavailable."
     }
   ],
