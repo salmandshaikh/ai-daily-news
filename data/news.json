@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T20:41:07.200849",
+  "updated": "2026-07-05T01:30:22.797927",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Plein Air",
-      "url": "https://art.joonas.wtf/",
-      "published": "2026-07-04T16:55:29",
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "published": "2026-07-04T23:41:10",
       "description": "",
-      "image": "data/images/6f1b83b62b8a55abc96491de3c6aadee.png",
+      "image": "https://stories.tamu.edu/wp-content/uploads/2026/04/20250709_HSC_Dr_Shetty_LM_0453-2025x1350.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "published": "2026-07-01T12:48:56",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "published": "2026-07-04T21:51:09",
       "description": "",
-      "image": "https://www.databricks.com/sites/default/files/2026-06/Frame-1-1.png",
+      "image": "https://opengraph.githubassets.com/42b6888dbd6fdb0dbb1ee3ba7ecb2a74fa2fb928fe65eeaeebd8c36336ca9a7e/openai/codex/issues/30364",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "published": "2026-07-04T20:16:22",
+      "description": "",
+      "image": "https://lucumr.pocoo.org/social/2026-07-04-better-models-worse-tools-social.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+      "published": "2026-07-04T21:35:30",
+      "description": "",
+      "image": "data/images/d362689107e6caea0fc0d2964764113d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "published": "2026-07-04T20:38:39",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "published": "2026-07-04T23:25:53",
+      "description": "",
+      "image": "https://ridgetext.com/blog/mapbox-llm-composition/fire-perimeter-trail.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -180,22 +220,12 @@
       "description": "",
       "image": "data/images/50f7c2970ca17227d372547e0386269b.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "published": "2026-07-04T06:32:28",
-      "description": "",
-      "image": "data/images/eaa45f2f186baa2eafaf67d6cdad79e6.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "speakers": [
       "Alex",
       "Jordan"
