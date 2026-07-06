@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T01:31:37.826932",
+  "updated": "2026-07-06T08:08:17.680099",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "\ud83e\udd17 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/757b48ab35d6dcc4f097a7a0251a5205.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "published": "Wed, 01 Jul 2026 00:00:00 GMT",
@@ -142,23 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "published": "Mon, 29 Jun 2026 18:02:48 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "When AI Costs More Than the Engineer",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "published": "2026-07-06T07:05:25",
       "description": "",
-      "image": "data/images/f73ab7a45b4c8265be91f338dd0677c1.png",
+      "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/q_auto/f_auto/w_auto/v1782758517/odtjqwtlphmuix5rxxi1.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "published": "2026-07-06T00:04:48",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "published": "2026-07-06T01:04:03",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1713345248737-2698000f143d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMnx8YWl8ZW58MHx8fHwxNzgxNjIwMjk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image": "https://pbs.twimg.com/profile_images/1953339828738899968/WWQlU2RT_200x200.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "published": "2026-07-05T23:03:55",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Generate parametric, manufacturable 3D models in seconds",
+      "url": "https://kyrall.com/",
+      "published": "2026-07-06T07:04:33",
+      "description": "",
+      "image": "data/images/9c7cb3ca5fdc036f1c296aea7a71cbbc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "published": "2026-07-02T20:38:06",
+      "description": "",
+      "image": "data/images/a61c1fe53ab03eaed478173aedf94ac9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Visualize Model Spikiness in 3D",
+      "url": "https://www.modelmap.tech/",
+      "published": "2026-07-02T19:57:43",
+      "description": "",
+      "image": "data/images/1db37163ca208f4d721007d1ae375055.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
       "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
       "published": "2026-07-05T19:22:51",
       "description": "",
       "image": "https://media.nbcchicago.com/2019/09/DELTA-1.jpg?quality=85&strip=all&resize=1200%2C675",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "published": "2026-07-02T20:38:06",
-      "description": "",
-      "image": "data/images/a61c1fe53ab03eaed478173aedf94ac9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The AI Compass Quiz",
-      "url": "https://bambamramfan.github.io/ai-compass/",
-      "published": "2026-07-05T22:36:44",
-      "description": "",
-      "image": "data/images/89d9d95d2458a95b990089c69d278685.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Osint tool that finds exposed files on domains",
-      "url": "https://search.cerast-intelligence.com/",
-      "published": "2026-07-05T20:24:37",
-      "description": "",
-      "image": "data/images/33d635ac1b9f1ba6d953e2a79d575538.png",
       "summary": "Summary unavailable."
     }
   ],
