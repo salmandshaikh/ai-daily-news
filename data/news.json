@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T20:44:22.430740",
+  "updated": "2026-07-06T01:31:37.826932",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "published": "2026-07-06T00:04:48",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1713345248737-2698000f143d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMnx8YWl8ZW58MHx8fHwxNzgxNjIwMjk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
       "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
       "published": "2026-07-05T18:47:43",
@@ -174,58 +184,48 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Airplane Boneyards List and Map",
-      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-      "published": "2026-07-04T15:53:08",
+      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+      "published": "2026-07-05T19:22:51",
       "description": "",
-      "image": "https://www.airplaneboneyards.com/images/og/airplane-boneyard-list-map.jpg",
+      "image": "https://media.nbcchicago.com/2019/09/DELTA-1.jpg?quality=85&strip=all&resize=1200%2C675",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
-      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
-      "published": "2026-07-05T15:00:21",
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "published": "2026-07-02T20:38:06",
       "description": "",
-      "image": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec.png",
+      "image": "data/images/a61c1fe53ab03eaed478173aedf94ac9.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "published": "2026-07-01T20:51:52",
+      "title": "The AI Compass Quiz",
+      "url": "https://bambamramfan.github.io/ai-compass/",
+      "published": "2026-07-05T22:36:44",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2a1b2857c18586b7949185b153780f1c08270df2129ee5adbd831c8078b7dd5f/langchain-ai/openwiki",
+      "image": "data/images/89d9d95d2458a95b990089c69d278685.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A sociotechnical threat model for AI-driven smart home devices",
-      "url": "https://arxiv.org/abs/2602.09239",
-      "published": "2026-07-05T17:05:57",
+      "title": "Show HN: Osint tool that finds exposed files on domains",
+      "url": "https://search.cerast-intelligence.com/",
+      "published": "2026-07-05T20:24:37",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
-      "published": "2026-07-05T15:49:18",
-      "description": "",
-      "image": "https://www.designboom.com/twitterimages/uploads/2026/01/autonomous-flying-umbrella-follows-users-i-build-stuff-designboom-fb.jpg",
+      "image": "data/images/33d635ac1b9f1ba6d953e2a79d575538.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-05",
+    "date": "2026-07-06",
     "speakers": [
       "Alex",
       "Jordan"
