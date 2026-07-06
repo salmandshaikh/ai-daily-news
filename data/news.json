@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T08:08:17.680099",
+  "updated": "2026-07-06T14:48:55.203463",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/fe037fb7299b5c1f06173086af33deb2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "\ud83e\udd17 Kernels: Major Updates",
       "url": "https://huggingface.co/blog/revamped-kernels",
       "published": "Mon, 06 Jul 2026 00:00:00 GMT",
@@ -142,23 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "published": "2026-07-06T09:38:36",
       "description": "",
-      "image": "data/images/5cef7cf07e07e7164eea3ef9128fdab7.png",
+      "image": "data/images/6751c0e17b58a5079dab86933a69da7b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "When AI Costs More Than the Engineer",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-      "published": "2026-07-06T07:05:25",
+      "title": "Real time map of France's rail network",
+      "url": "https://carto.tchoo.net/",
+      "published": "2026-07-06T13:20:56",
       "description": "",
-      "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/q_auto/f_auto/w_auto/v1782758517/odtjqwtlphmuix5rxxi1.png",
+      "image": "data/images/61504bcc196224841f6913fcab175d3e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Scan your AI agents for dangerous capabilities",
+      "url": "https://github.com/makerchecker/MakerChecker",
+      "published": "2026-07-06T13:17:27",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/cb73128b1d44f949466af60f51a4c79ca58a21b977dc7914fb65e68134399744/makerchecker/MakerChecker",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +194,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "C programmers commit fresh crimes against readability",
+      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+      "published": "2026-07-06T11:44:39",
+      "description": "",
+      "image": "https://image.theregister.com/5266043.jpg?imageId=5266043&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
       "url": "https://arxiv.org/abs/2605.20049",
       "published": "2026-07-05T23:03:55",
@@ -184,61 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Generate parametric, manufacturable 3D models in seconds",
-      "url": "https://kyrall.com/",
-      "published": "2026-07-06T07:04:33",
-      "description": "",
-      "image": "data/images/9c7cb3ca5fdc036f1c296aea7a71cbbc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Zuckerberg says AI agent development going slower than expected",
       "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
       "published": "2026-07-02T20:38:06",
       "description": "",
       "image": "data/images/a61c1fe53ab03eaed478173aedf94ac9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "published": "2026-07-05T18:47:43",
-      "description": "",
-      "image": "data/images/abf9eac92a73cd2797acd13456830951.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "published": "2026-07-03T03:13:53",
-      "description": "",
-      "image": "data/images/a22b0262d3397695533606efba04fa82.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Visualize Model Spikiness in 3D",
-      "url": "https://www.modelmap.tech/",
-      "published": "2026-07-02T19:57:43",
-      "description": "",
-      "image": "data/images/1db37163ca208f4d721007d1ae375055.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
-      "published": "2026-07-05T19:22:51",
-      "description": "",
-      "image": "https://media.nbcchicago.com/2019/09/DELTA-1.jpg?quality=85&strip=all&resize=1200%2C675",
       "summary": "Summary unavailable."
     }
   ],
