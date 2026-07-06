@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T14:48:55.203463",
+  "updated": "2026-07-06T18:02:37.028611",
   "articles": [
     {
       "source": "RSS",
@@ -114,6 +114,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "published": "Mon, 06 Jul 2026 15:30:55 GMT",
+      "description": "",
+      "image": "data/images/9a6622f1a3bebd826b387832f26da0c1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "\ud83e\udd17 Kernels: Major Updates",
       "url": "https://huggingface.co/blog/revamped-kernels",
       "published": "Mon, 06 Jul 2026 00:00:00 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Why Specialization Is Inevitable",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "published": "Tue, 30 Jun 2026 14:39:11 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "published": "2026-07-06T15:01:18",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://storage.ghost.io/c/68/2d/682dc4d0-6daf-426a-b3d4-9f443976d0d8/content/images/2026/07/2026-06---AMD-Ryzen-AI-Halo-1-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "published": "2026-07-06T15:53:24",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,61 +184,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Real time map of France's rail network",
-      "url": "https://carto.tchoo.net/",
-      "published": "2026-07-06T13:20:56",
+      "title": "Show HN: Pulpie \u2013 Models for Cleaning the Web",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "published": "2026-07-06T16:04:27",
       "description": "",
-      "image": "data/images/61504bcc196224841f6913fcab175d3e.png",
+      "image": "https://usefeyn.com/blog/pulpie/pulpie-cover.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Scan your AI agents for dangerous capabilities",
-      "url": "https://github.com/makerchecker/MakerChecker",
-      "published": "2026-07-06T13:17:27",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "published": "2026-07-06T16:47:44",
       "description": "",
-      "image": "https://opengraph.githubassets.com/cb73128b1d44f949466af60f51a4c79ca58a21b977dc7914fb65e68134399744/makerchecker/MakerChecker",
+      "image": "https://opengraph.githubassets.com/86ae2b6bf17238cd454cfcca0a62f2c59fa588b517dccbf6f7bb0915165091fe/iOfficeAI/OfficeCLI",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "published": "2026-07-06T01:04:03",
+      "title": "The AI Superforecasters Are Here",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "published": "2026-07-06T15:45:11",
       "description": "",
-      "image": "https://pbs.twimg.com/profile_images/1953339828738899968/WWQlU2RT_200x200.jpg",
+      "image": "https://substackcdn.com/image/fetch/$s_!unI_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08546702-36cb-41d6-8047-6927a0e7c737_1024x1024.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "C programmers commit fresh crimes against readability",
-      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-      "published": "2026-07-06T11:44:39",
+      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+      "published": "2026-07-06T17:16:41",
       "description": "",
-      "image": "https://image.theregister.com/5266043.jpg?imageId=5266043&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-      "url": "https://arxiv.org/abs/2605.20049",
-      "published": "2026-07-05T23:03:55",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "published": "2026-07-02T20:38:06",
-      "description": "",
-      "image": "data/images/a61c1fe53ab03eaed478173aedf94ac9.png",
+      "image": "data/images/3179271a31cd92ce25387bd92ba880a3.png",
       "summary": "Summary unavailable."
     }
   ],
