@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-07T17:49:14.421348",
+  "updated": "2026-07-07T21:13:09.462444",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "description": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "image": "data/images/fb2b0f0179dc253fd813219ef19b5249.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Tue, 30 Jun 2026 09:00:00 GMT",
       "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "image": "data/images/a264f5c5b90a30d5a70706364287907e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/214d779fd4b13e2968e7c8009704e5ff.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
       "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "image": "data/images/8a1de3981271bdb50aa04c87352720a1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/214d779fd4b13e2968e7c8009704e5ff.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "image": "data/images/046bdce69dbd0d68f640f61ab78c6381.png",
       "summary": "Summary unavailable."
     },
     {
@@ -114,6 +114,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/664d0591742a2aeb6257e689bc6c5870.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
       "url": "https://huggingface.co/blog/lerobot-release-v060",
       "published": "Tue, 07 Jul 2026 00:00:00 GMT",
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "published": "Wed, 01 Jul 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/06ca1a5cf227ef173c2f1c34eeb75b4a.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GitHub Freno: cooperative, highly available throttler service",
-      "url": "https://github.com/github/freno",
-      "published": "2026-07-06T02:06:55",
+      "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "published": "2026-07-07T20:50:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/e1211f106796e0d3b8471a883663098352fa936fc94b70c2847cbc0737eb4e6f/github/freno",
+      "image": "data/images/5df201ba1dcdd6ee3a3410140edc8484.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sites that block AI training crawlers mostly ignore the answer time bots",
-      "url": "https://sitedex.dev/insights/robots-txt-2023-war-memorial",
-      "published": "2026-07-07T15:52:48",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "published": "2026-07-07T18:36:35",
       "description": "",
-      "image": "https://sitedex.dev/insights/answer-era/og.png",
+      "image": "data/images/7bfc2b5116fd373ef3da22f1b81d50d1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "published": "2026-07-07T18:44:29",
+      "description": "",
+      "image": "img/dashboard.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "C++ Details of Asymmetric Fences",
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "published": "2026-07-03T17:25:15",
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "published": "2026-07-07T10:42:59",
       "description": "",
-      "image": "data/images/c296bd540ba72f72a57fa46483fb4a87.png",
+      "image": "https://static.dw.com/image/72153420_6.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GitHub Freno: cooperative, highly available throttler service",
+      "url": "https://github.com/github/freno",
+      "published": "2026-07-06T02:06:55",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/15444c7b7e380b63117bc8cf6bd6f3cccb308db2cab9af9bb240ca42e92c1076/github/freno",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Halo \u2013 open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "published": "2026-07-07T14:07:08",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/1266640182/a23f636f-9190-47a8-aeda-3c55172ee7df",
       "summary": "Summary unavailable."
     }
   ],
