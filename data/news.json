@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T01:31:59.359727",
+  "updated": "2026-07-07T07:26:19.685100",
   "articles": [
     {
       "source": "RSS",
@@ -14,11 +14,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/214d779fd4b13e2968e7c8009704e5ff.png",
+      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "image": "data/images/606cf39901618adc203364588bb467fa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,11 +34,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "image": "data/images/606cf39901618adc203364588bb467fa.png",
+      "description": "",
+      "image": "data/images/214d779fd4b13e2968e7c8009704e5ff.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,51 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "published": "2026-07-06T23:06:31",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "GLM 5.2 and the coming AI margin collapse",
       "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "published": "2026-07-06T20:14:55",
       "description": "",
       "image": "https://martinalderson.com/img/og/glm-5-2-and-the-coming-ai-margin-collapse-part-1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "NSA and IETF: Fairness",
-      "url": "https://blog.cr.yp.to/20260706-fairness.html",
-      "published": "2026-07-06T23:33:54",
-      "description": "",
-      "image": "data/images/dcfe2866457d8748ce9512ef15185539.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "published": "2026-07-06T17:44:08",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/fbdc967f9f3d88566f25b21cce7ef523b3fabbbb-1280x720.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "published": "2026-07-06T15:01:18",
-      "description": "",
-      "image": "https://storage.ghost.io/c/68/2d/682dc4d0-6daf-426a-b3d4-9f443976d0d8/content/images/2026/07/2026-06---AMD-Ryzen-AI-Halo-1-1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,31 +174,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "published": "2026-07-06T23:06:31",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "published": "2026-07-06T17:44:08",
+      "description": "",
+      "image": "data/images/ca6e5448008186d93c484a585b1cf10b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "published": "2026-07-06T15:01:18",
+      "description": "",
+      "image": "https://storage.ghost.io/c/68/2d/682dc4d0-6daf-426a-b3d4-9f443976d0d8/content/images/2026/07/2026-06---AMD-Ryzen-AI-Halo-1-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "published": "2026-07-06T16:47:44",
       "description": "",
-      "image": "https://opengraph.githubassets.com/dd7eb5241ccf0aa574f4ae566df2265b7c1371de13736fb950cf8004214f8a19/iOfficeAI/OfficeCLI",
+      "image": "https://opengraph.githubassets.com/2936b39e21d020a9fa442723b52944a5cee51286d2159545203fa4c9dbbaf975/iOfficeAI/OfficeCLI",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I created a free tool that pairs your Nasic and past performance to win contract",
-      "url": "https://www.fedfinder.net/",
-      "published": "2026-07-07T01:00:14",
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "published": "2026-07-06T15:53:24",
       "description": "",
-      "image": "https://www.fedfinder.net/logo.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-      "published": "2026-07-06T21:09:23",
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "published": "2026-07-06T23:33:54",
       "description": "",
-      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "image": "data/images/dcfe2866457d8748ce9512ef15185539.png",
       "summary": "Summary unavailable."
     }
   ],
