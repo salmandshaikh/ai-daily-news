@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T10:42:53.089467",
+  "updated": "2026-07-07T13:59:00.028406",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "C++ Details of Asymmetric Fences",
+      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+      "published": "2026-07-03T17:25:15",
+      "description": "",
+      "image": "data/images/c296bd540ba72f72a57fa46483fb4a87.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "published": "2026-07-06T23:59:54",
@@ -188,7 +198,7 @@
       "url": "https://www.anthropic.com/research/global-workspace",
       "published": "2026-07-06T17:44:08",
       "description": "",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/fbdc967f9f3d88566f25b21cce7ef523b3fabbbb-1280x720.jpg",
+      "image": "data/images/ca6e5448008186d93c484a585b1cf10b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -209,36 +219,6 @@
       "published": "2026-07-06T15:01:18",
       "description": "",
       "image": "https://storage.ghost.io/c/68/2d/682dc4d0-6daf-426a-b3d4-9f443976d0d8/content/images/2026/07/2026-06---AMD-Ryzen-AI-Halo-1-1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "published": "2026-07-06T16:47:44",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/bf834edd3443568673217ced58f857e625b94be8475f89a2fe41c738172cdd7f/iOfficeAI/OfficeCLI",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "published": "2026-07-06T15:53:24",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "NSA and IETF: Fairness",
-      "url": "https://blog.cr.yp.to/20260706-fairness.html",
-      "published": "2026-07-06T23:33:54",
-      "description": "",
-      "image": "data/images/dcfe2866457d8748ce9512ef15185539.png",
       "summary": "Summary unavailable."
     }
   ],
