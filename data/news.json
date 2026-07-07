@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T21:17:55.251174",
+  "updated": "2026-07-07T01:31:59.359727",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "published": "2026-07-06T23:06:31",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "published": "2026-07-06T20:14:55",
+      "description": "",
+      "image": "https://martinalderson.com/img/og/glm-5-2-and-the-coming-ai-margin-collapse-part-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "published": "2026-07-06T23:33:54",
+      "description": "",
+      "image": "data/images/dcfe2866457d8748ce9512ef15185539.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A global workspace in language models",
       "url": "https://www.anthropic.com/research/global-workspace",
       "published": "2026-07-06T17:44:08",
@@ -174,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "published": "2026-07-06T15:53:24",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "published": "2026-07-06T23:59:54",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67101133&width=1200&height=600&coordinates=0%2C889%2C0%2C361",
       "summary": "Summary unavailable."
     },
     {
@@ -188,34 +218,34 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "published": "2026-07-06T16:47:44",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9cfded6c853a3fc5dbec921615cc7c04a94115ae03931eafd5e4c9ec04e032fd/iOfficeAI/OfficeCLI",
+      "image": "https://opengraph.githubassets.com/dd7eb5241ccf0aa574f4ae566df2265b7c1371de13736fb950cf8004214f8a19/iOfficeAI/OfficeCLI",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Real-time map of Great Britain's rail network",
-      "url": "https://www.map.signalbox.io",
-      "published": "2026-07-06T09:38:36",
+      "title": "I created a free tool that pairs your Nasic and past performance to win contract",
+      "url": "https://www.fedfinder.net/",
+      "published": "2026-07-07T01:00:14",
       "description": "",
-      "image": "data/images/6751c0e17b58a5079dab86933a69da7b.png",
+      "image": "https://www.fedfinder.net/logo.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Pulpie \u2013 Models for Cleaning the Web",
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-      "published": "2026-07-06T16:04:27",
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "published": "2026-07-06T21:09:23",
       "description": "",
-      "image": "https://usefeyn.com/blog/pulpie/pulpie-cover.png",
+      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-06",
+    "date": "2026-07-07",
     "speakers": [
       "Alex",
       "Jordan"
