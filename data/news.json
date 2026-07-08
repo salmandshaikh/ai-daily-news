@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-08T17:15:31.258815",
+  "updated": "2026-07-08T20:52:47.423242",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "published": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "description": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "image": "data/images/04dbd8b14af1b9c97736c7308d70c0c5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "description": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "image": "data/images/61bb24f8531d3b8256ed21059e5e7e06.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 07 Jul 2026 00:00:00 GMT",
       "description": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "image": "data/images/fb2b0f0179dc253fd813219ef19b5249.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "image": "data/images/a7c45a4e2908a24ee2838bb91f1a3e0f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "published": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "image": "data/images/a264f5c5b90a30d5a70706364287907e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "published": "Wed, 08 Jul 2026 17:16:05 GMT",
+      "description": "",
+      "image": "data/images/3dd1cc8f26609fd04cbdb92d1a7cef39.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Native-speed vLLM transformers modeling backend",
       "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
       "published": "Wed, 08 Jul 2026 00:00:00 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "published": "2026-07-08T16:19:36",
       "description": "",
-      "image": "data/images/fe037fb7299b5c1f06173086af33deb2.png",
+      "image": "https://cognition.com/images/swe-1-7/swe-1-7-og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fable is not a useful model",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "published": "2026-07-08T20:41:33",
+      "description": "",
+      "image": "https://combine-lab.github.io/icons/share-thumbnail.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "published": "2026-07-08T16:19:36",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "published": "2026-07-08T17:46:12",
       "description": "",
-      "image": "https://cognition.com/images/swe-1-7/swe-1-7-og.png",
+      "image": "data/images/6e080549d426af97eab83fd4ff5d3b9b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,6 +214,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+      "url": "https://danluu.com/ai-coding/#llm-variance",
+      "published": "2026-07-08T20:21:45",
+      "description": "",
+      "image": "data/images/f1f750cb645d0807cf92ba7b366a502f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Follow London Trains in 3D",
       "url": "https://ride.nexttrain.london/",
       "published": "2026-07-04T16:11:06",
@@ -214,31 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Kastor \u2013 Terraform-style specs for AI agents",
-      "url": "https://github.com/weirdGuy/kastor",
-      "published": "2026-07-08T15:25:09",
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "published": "2026-07-08T20:09:03",
       "description": "",
-      "image": "https://opengraph.githubassets.com/7ddb8dbdfd02dc5f826a574d15a817cbad2ddc91eead062acb06ec103d046808/weirdGuy/kastor",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "published": "2026-07-07T14:23:15",
-      "description": "",
-      "image": "data/images/9670d3e5bd1bd7174bd5bed04bf9a539.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "published": "2026-07-08T00:08:51",
-      "description": "",
-      "image": "data/images/29213c44f85d301dead1c58f785e931f.png",
+      "image": "https://opengraph.githubassets.com/be2a9e121bc84e0f63bf3c2d3f2a93a6c16b6717414a7046b6256b2f3f3c0efd/animesh-94/Onboard-CLI",
       "summary": "Summary unavailable."
     }
   ],
