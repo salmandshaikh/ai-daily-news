@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-08T13:21:00.486208",
+  "updated": "2026-07-08T17:15:31.258815",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Helping K\u201312 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "published": "Wed, 08 Jul 2026 10:00:00 GMT",
+      "description": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K\u201312 educators build practical AI skills for the classroom.",
+      "image": "data/images/46c73d1b4619e3c4edd7ba9492443a1e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "description": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "image": "data/images/cfddd03286f71d8ee5cf69a1623f603f.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 30 Jun 2026 09:00:00 GMT",
       "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "image": "data/images/a264f5c5b90a30d5a70706364287907e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "image": "data/images/606cf39901618adc203364588bb467fa.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "image": "data/images/8a1de3981271bdb50aa04c87352720a1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/2efde1f6def64bbe76be8f83b5ef006a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
       "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "published": "Tue, 07 Jul 2026 21:15:33 GMT",
@@ -142,13 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "published": "Mon, 06 Jul 2026 15:30:55 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "published": "2026-07-08T14:09:17",
       "description": "",
-      "image": "data/images/9a6622f1a3bebd826b387832f26da0c1.png",
+      "image": "https://mistral.ai/cms-media/api/media/file/Robostral-navigate.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "published": "2026-07-08T16:19:36",
+      "description": "",
+      "image": "https://cognition.com/images/swe-1-7/swe-1-7-og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT\u2011Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "published": "2026-07-08T17:03:19",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +194,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Follow London Trains in 3D",
+      "url": "https://ride.nexttrain.london/",
+      "published": "2026-07-04T16:11:06",
+      "description": "",
+      "image": "data/images/3b9500a4f36d39dbb72766dd66da7222.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
       "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
       "published": "2026-07-03T21:46:07",
@@ -174,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "published": "2026-07-08T00:08:51",
+      "title": "Show HN: Kastor \u2013 Terraform-style specs for AI agents",
+      "url": "https://github.com/weirdGuy/kastor",
+      "published": "2026-07-08T15:25:09",
       "description": "",
-      "image": "data/images/29213c44f85d301dead1c58f785e931f.png",
+      "image": "https://opengraph.githubassets.com/7ddb8dbdfd02dc5f826a574d15a817cbad2ddc91eead062acb06ec103d046808/weirdGuy/kastor",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
-      "published": "2026-07-07T18:44:29",
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "published": "2026-07-08T00:08:51",
       "description": "",
-      "image": "img/dashboard.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "IEEE Rolls Out Large Language Models Training Course",
-      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-      "published": "2026-07-01T05:41:22",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/a-middle-aged-black-man-taking-a-virtual-coding-class-in-his-home-office.jpg?id=66951841&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "image": "data/images/29213c44f85d301dead1c58f785e931f.png",
       "summary": "Summary unavailable."
     }
   ],
