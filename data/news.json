@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T21:13:09.462444",
+  "updated": "2026-07-08T01:16:22.245343",
   "articles": [
     {
       "source": "RSS",
@@ -14,21 +14,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "published": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "image": "data/images/a264f5c5b90a30d5a70706364287907e.png",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "image": "data/images/a7c45a4e2908a24ee2838bb91f1a3e0f.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/214d779fd4b13e2968e7c8009704e5ff.png",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "published": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "image": "data/images/a264f5c5b90a30d5a70706364287907e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "published": "Tue, 07 Jul 2026 21:15:33 GMT",
+      "description": "",
+      "image": "data/images/ef66ea2fd806f63f04d77deda1165d88.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Hugging Face Models on Foundry Managed Compute",
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "published": "Tue, 07 Jul 2026 15:20:06 GMT",
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "\ud83e\udd17 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "published": "Mon, 06 Jul 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/757b48ab35d6dcc4f097a7a0251a5205.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "published": "2026-07-07T20:50:46",
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "published": "2026-07-07T20:35:42",
       "description": "",
-      "image": "data/images/5df201ba1dcdd6ee3a3410140edc8484.png",
+      "image": "data/images/2677a7f72ca9922da37d1c01eb295b58.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,16 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "published": "2026-07-07T18:36:35",
-      "description": "",
-      "image": "data/images/7bfc2b5116fd373ef3da22f1b81d50d1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Davit, a Apple Containers UI",
       "url": "https://davit.app",
       "published": "2026-07-07T18:44:29",
@@ -194,11 +184,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Automating AI Away",
-      "url": "https://replicated.live/blog/away",
-      "published": "2026-07-07T15:11:08",
+      "title": "First Principles of Model Routing",
+      "url": "https://try.works/first-principles-of-model-routing",
+      "published": "2026-07-03T05:36:12",
       "description": "",
-      "image": "data/images/b15e2da9e9413b28cfc1b7b2ae0f34a4.png",
+      "image": "https://freight.cargo.site/w/880/i/O2895858887703891688252537528840/Screenshot-2026-04-19-065003.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "IEEE Rolls Out Large Language Models Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "published": "2026-07-01T05:41:22",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/a-middle-aged-black-man-taking-a-virtual-coding-class-in-his-home-office.jpg?id=66951841&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "published": "2026-07-07T18:36:35",
+      "description": "",
+      "image": "data/images/7bfc2b5116fd373ef3da22f1b81d50d1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Honey, We Bought an AI Story",
+      "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
+      "published": "2026-07-08T00:01:18",
+      "description": "",
+      "image": "http://static1.squarespace.com/static/66a641379c880e1571665d31/t/6a4d086bd6827d540de10806/1783433323216/Untitled+-+02+July+2026+at+21.24.06-4.png?format=1500w",
       "summary": "Summary unavailable."
     },
     {
@@ -214,28 +234,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GitHub Freno: cooperative, highly available throttler service",
-      "url": "https://github.com/github/freno",
-      "published": "2026-07-06T02:06:55",
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "published": "2026-07-07T15:11:08",
       "description": "",
-      "image": "https://opengraph.githubassets.com/15444c7b7e380b63117bc8cf6bd6f3cccb308db2cab9af9bb240ca42e92c1076/github/freno",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Halo \u2013 open-source, tamper-evident runtime evidence for AI agents",
-      "url": "https://github.com/bkuan001/halo-record",
-      "published": "2026-07-07T14:07:08",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1266640182/a23f636f-9190-47a8-aeda-3c55172ee7df",
+      "image": "data/images/b15e2da9e9413b28cfc1b7b2ae0f34a4.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "speakers": [
       "Alex",
       "Jordan"
