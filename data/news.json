@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T01:24:09.202222",
+  "updated": "2026-07-09T07:27:18.137730",
   "articles": [
     {
       "source": "RSS",
@@ -164,21 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "published": "2026-07-08T23:27:14",
+      "title": "AI changes the economics of software rewrites",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "published": "2026-07-09T05:46:50",
       "description": "",
-      "image": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off/opengraph-image-yqks0s?3313ef8f7f360358",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "published": "2026-07-08T14:09:17",
-      "description": "",
-      "image": "https://mistral.ai/cms-media/api/media/file/Robostral-navigate.jpg",
+      "image": "data/images/aa56dcba59325dfa25da589b23be06cc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Frugon \u2013 Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "published": "2026-07-07T12:20:54",
+      "title": "3D Airplane tracker on Mercator map",
+      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+      "published": "2026-07-04T21:53:09",
       "description": "",
-      "image": "https://opengraph.githubassets.com/30c7e05857974bd22b1a1db63b7bf9b2fc3023c820d46f01a6c4ec2da66c122b/Rodiun/frugon",
+      "image": "https://repository-images.githubusercontent.com/1267693131/fb9c945a-694e-4c3a-8bd8-0ba844886c9f",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I think I have LLM burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "published": "2026-07-09T01:56:28",
+      "description": "",
+      "image": "data/images/551dc3444baa99e85f9e138dee6c0cff.png",
       "summary": "Summary unavailable."
     }
   ],
