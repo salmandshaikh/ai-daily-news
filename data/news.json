@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:38:54.698482",
+  "updated": "2026-07-10T20:58:44.254275",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
       "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
       "published": "2026-07-10T16:37:52",
       "description": "",
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "url": "https://www.fadingmaize.com",
-      "published": "2026-07-09T19:49:37",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "published": "2026-07-10T18:29:19",
       "description": "",
-      "image": "https://www.fadingmaize.com/images/fading-maize-og.jpg",
+      "image": "data/images/7a089cec98d2ebe63525b02015acfdbe.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "published": "2026-07-10T18:49:26",
+      "description": "",
+      "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/AwmrFUJUl1Miu5dNMpFBx8P372K3/social-images/social-1783516958074-CASP_Social_Logos_White.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -194,31 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "published": "2026-07-06T14:59:21",
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "published": "2026-07-09T19:49:37",
       "description": "",
-      "image": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "published": "2026-07-09T17:04:14",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "published": "2026-07-10T07:39:11",
-      "description": "",
-      "image": "data/images/f6d9d6c3fd6c6d7195f11d22e0af5e33.png",
+      "image": "https://www.fadingmaize.com/images/fading-maize-og.jpg",
       "summary": "Summary unavailable."
     }
   ],
