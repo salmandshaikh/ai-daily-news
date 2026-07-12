@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T20:36:06.181543",
+  "updated": "2026-07-12T01:16:29.833127",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Modern decor may be straining people's brains",
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "published": "2026-07-11T16:28:48",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "published": "2026-07-11T22:38:57",
       "description": "",
-      "image": "https://studyfinds.com/wp-content/uploads/2026/07/Modern-office-scaled.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-      "published": "2026-07-10T22:04:45",
-      "description": "",
-      "image": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/metadata.jpg",
+      "image": "https://www.iroh.computer/api/og?title=Blog&subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
       "summary": "Summary unavailable."
     },
     {
@@ -184,38 +174,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reverse centaurs are the answer to the AI paradox",
-      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-      "published": "2026-07-11T17:23:52",
+      "title": "Show HN: Sqlsure \u2013 deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "published": "2026-07-11T20:03:42",
       "description": "",
-      "image": "data/images/6b6c4c1f7030ec4dd25c5563df921868.png",
+      "image": "https://opengraph.githubassets.com/21fe085dfbf0aee4cf856e002619ff269f1beff17b8a47c50e274aaccade39eb/sqlsure/sqlsure",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Taiwan's Lost 8-Bit Computer [video]",
-      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
-      "published": "2026-07-08T14:15:16",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "published": "2026-07-11T22:28:48",
       "description": "",
-      "image": "data/images/34ea9de6a2ba60ad95a867659ab8a66f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "published": "2026-07-10T20:47:09",
-      "description": "",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&ixlib=rb-4.1.0&q=80&w=2000",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "speakers": [
       "Alex",
       "Jordan"
