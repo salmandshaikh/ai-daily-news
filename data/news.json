@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T01:18:40.315077",
+  "updated": "2026-07-13T06:42:56.062860",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "published": "2026-07-12T01:09:50",
+      "description": "",
+      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
       "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
       "published": "2026-07-12T18:04:41",
       "description": "",
       "image": "data/images/da55bcfb6fee11f753aa943582248bc2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "published": "2026-07-12T17:47:07",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!PChk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F568f9825-5d39-466d-919c-45f7811bf475_1536x2048.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -199,26 +219,6 @@
       "published": "2026-07-12T18:31:56",
       "description": "",
       "image": "data/images/d90a4767f9da6e883646805247e2e82d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "published": "2026-07-12T17:47:07",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!PChk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F568f9825-5d39-466d-919c-45f7811bf475_1536x2048.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "published": "2026-07-12T18:41:15",
-      "description": "",
-      "image": "data/images/9a859eaf0d9d4d926406748c6b6618ec.png",
       "summary": "Summary unavailable."
     }
   ],
