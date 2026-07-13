@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T20:33:30.149713",
+  "updated": "2026-07-13T01:18:40.315077",
   "articles": [
     {
       "source": "RSS",
@@ -154,41 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can We Understand How Large Language Models Reason?",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "published": "2026-07-12T18:04:41",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "published": "2026-07-12T17:13:07",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "published": "2026-07-12T18:31:56",
-      "description": "",
-      "image": "data/images/d90a4767f9da6e883646805247e2e82d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "published": "2026-07-12T18:41:15",
-      "description": "",
-      "image": "data/images/9a859eaf0d9d4d926406748c6b6618ec.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "published": "2026-07-12T17:47:07",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!PChk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F568f9825-5d39-466d-919c-45f7811bf475_1536x2048.jpeg",
+      "image": "https://storage.googleapis.com/ployai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/fcebce5c-colorful-hero-opus-vs-gpt.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,48 +174,58 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "published": "2026-07-12T17:13:07",
+      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "published": "2026-07-12T18:04:41",
       "description": "",
-      "image": "https://storage.googleapis.com/ployai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/fcebce5c-colorful-hero-opus-vs-gpt.png",
+      "image": "data/images/da55bcfb6fee11f753aa943582248bc2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Terrifying moment Grandpa is launched eight feet in the air by charging bison",
-      "url": "https://www.dailymail.com/news/article-15971065/Grandpa-launched-eight-feet-air-bison-Yellowstone.html",
-      "published": "2026-07-12T19:50:10",
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "url": "https://nanduruganesh.github.io/flash-msa/",
+      "published": "2026-07-12T20:46:43",
       "description": "",
-      "image": "https://i.dailymail.com/1s/2026/07/12/18/109971193-0-image-a-15_1783877052523.jpg",
+      "image": "https://nanduruganesh.github.io/flash-msa/plot.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "published": "2026-07-12T01:09:50",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "published": "2026-07-12T18:31:56",
       "description": "",
-      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "image": "data/images/d90a4767f9da6e883646805247e2e82d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "published": "2026-07-12T13:26:13",
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "published": "2026-07-12T17:47:07",
       "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62826557&width=1200&height=600&coordinates=0%2C1189%2C0%2C61",
+      "image": "https://substackcdn.com/image/fetch/$s_!PChk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F568f9825-5d39-466d-919c-45f7811bf475_1536x2048.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "published": "2026-07-12T18:41:15",
+      "description": "",
+      "image": "data/images/9a859eaf0d9d4d926406748c6b6618ec.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "speakers": [
       "Alex",
       "Jordan"
