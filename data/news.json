@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-14T16:59:35.646693",
+  "updated": "2026-07-14T20:47:51.765288",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "published": "Tue, 14 Jul 2026 10:00:00 GMT",
+      "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Fri, 10 Jul 2026 00:00:00 GMT",
       "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "image": "data/images/25072fe0b260597fca9fc8f88b2415a1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "published": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "image": "data/images/1aa6734e4d2d6cb9d7ead33ac57816e9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "published": "2026-07-14T17:50:48",
+      "description": "",
+      "image": "data/images/ba3e3aba3b98f51e4b73c9271ebd708a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "published": "2026-07-11T14:32:19",
+      "description": "",
+      "image": "data/images/65f334f0ad3e12901464d65af7284d2b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Are we offloading too much of our thinking to AI?",
       "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
       "published": "2026-07-14T15:18:13",
       "description": "",
       "image": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "published": "2026-07-14T12:50:29",
+      "description": "",
+      "image": "https://gwern.net/doc/ai/nn/transformer/gpt/dall-e/4o/2026-06-13-gwern-gpt55pro-claude48opus-chatgptimages20-gaplusquill-guardianangellogo.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "published": "2026-07-14T12:41:25",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b97c5ff50097f830e2eaa8ad2759341b5b5885c6d1995200d5ed66874e1ea833/Danau5tin/ai-trains-ai",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Australian energy retailers must provide three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "published": "2026-07-14T04:31:48",
-      "description": "",
-      "image": "https://lenergy.com.au/wp-content/uploads/Free-Daytime-Electricity-Is-Coming.-Heres-How-It-Actually-Works-1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "published": "2026-07-14T06:43:28",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8230/live/dff3e310-79da-11f1-a400-b302bc872d47.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Demis Hassabis has a plan to harness AI safely",
       "url": "https://twitter.com/demishassabis/status/2076957440109625718",
       "published": "2026-07-14T09:20:07",
       "description": "",
       "image": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_200x200.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "published": "2026-07-14T12:41:25",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/8a0816ebded37900c93a0b77f75c76d1bf3c4956d1e1dc82b3516c1c905292e7/Danau5tin/ai-trains-ai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Australian energy retailers must offer three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "published": "2026-07-14T04:31:48",
+      "description": "",
+      "image": "https://lenergy.com.au/wp-content/uploads/Free-Daytime-Electricity-Is-Coming.-Heres-How-It-Actually-Works-1.png",
       "summary": "Summary unavailable."
     }
   ],
