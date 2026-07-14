@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-14T09:42:26.522327",
+  "updated": "2026-07-14T12:58:19.603363",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "image": "data/images/dbb47a6f05859799521aa58962b10ff3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "image": "data/images/6ed5cbbde13ba56e7a02a7bcc328bb7a.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Thu, 09 Jul 2026 13:00:00 GMT",
       "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "image": "data/images/1aa6734e4d2d6cb9d7ead33ac57816e9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "description": "Details about the OpenAI Bio Bounty program",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "image": "data/images/0fd223162e74032666c00b9e9d67b179.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "published": "2026-07-14T12:41:25",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/94c7aa4dc3172c0fb8064676f6d30fcf97bfdade653a846ea32b671f63575485/Danau5tin/ai-trains-ai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Australian energy retailers must provide three hours of free daytime electricity",
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
       "published": "2026-07-14T04:31:48",
@@ -169,6 +179,16 @@
       "published": "2026-07-14T06:43:28",
       "description": "",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8230/live/dff3e310-79da-11f1-a400-b302bc872d47.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Dmars \u2013 A modern Core Wars toolchain",
+      "url": "https://dmars.drpz.xyz/",
+      "published": "2026-07-09T15:16:43",
+      "description": "",
+      "image": "data/images/519cc3b4a10972d04a4c11e5838e477d.png",
       "summary": "Summary unavailable."
     }
   ],
