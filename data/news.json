@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T20:46:20.463783",
+  "updated": "2026-07-14T01:07:36.859522",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "published": "2026-07-13T15:56:02",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/ca98bc7fc3773e8df06b874b07ea3065313c3d53f53618e3b0ed5d4a6cc96116/jbwinters/jacquard-lang",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Telegram's t.me domain has been suspended",
       "url": "https://www.whois.com/whois/t.me",
       "published": "2026-07-13T19:52:25",
@@ -174,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The real prices of frontier models. Tokens * Price, right?",
-      "url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "published": "2026-07-13T18:32:27",
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
+      "published": "2026-07-13T20:01:43",
       "description": "",
-      "image": "https://playcode.io/assets/static/img/logo.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Is a Bad Tool",
-      "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
-      "published": "2026-07-13T19:51:15",
-      "description": "",
-      "image": "https://bytecode.news/opengraph-image",
+      "image": "data/images/2919c5df453617c6d2630ca1ead5d786.png",
       "summary": "Summary unavailable."
     },
     {
@@ -198,7 +198,27 @@
       "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
       "published": "2026-07-13T20:00:10",
       "description": "",
-      "image": "https://opengraph.githubassets.com/06060057fd3efa0931dc6bf5522570d471286244a284d0ca601d5cfaeff6f21a/xqlsystems/xarray-sql",
+      "image": "https://opengraph.githubassets.com/1d59be9ff960ecdd54399037491027547e8083577f6ef6cc4f523428720b78ca/xqlsystems/xarray-sql",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "published": "2026-07-13T23:26:52",
+      "description": "",
+      "image": "https://sleuth-io.github.io/sx/sx/assets/skill-server-hero.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: ContextVault \u2013 Shared memory layer for your AI and your team",
+      "url": "https://www.contextvault.dev/",
+      "published": "2026-07-13T23:22:18",
+      "description": "",
+      "image": "https://www.contextvault.dev/opengraph-image.png?3bf678daa8f89931",
       "summary": "Summary unavailable."
     },
     {
@@ -208,24 +228,24 @@
       "url": "https://github.com/morganwilliscloud/billai-bass",
       "published": "2026-07-13T18:18:23",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b9f8a6721cd86208486176d7ce685c203ef161eebd1c894bcf156e5d4947710c/morganwilliscloud/billai-bass",
+      "image": "https://opengraph.githubassets.com/521659285d0b32b2763065f64c39be4cc9d5a041827705c57c45b2ca1874f042/morganwilliscloud/billai-bass",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: PlanWright \u2013 A control plane for AI coding agents",
-      "url": "https://planwright.tools",
-      "published": "2026-07-13T19:59:50",
+      "title": "The AI Whale Fall and Open Source",
+      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "published": "2026-07-13T23:16:42",
       "description": "",
-      "image": "https://planwright.tools/opengraph-image?150b6dc6a1fe77e9",
+      "image": "data/images/aaca81fb6dc9a815ef979af32cf691d4.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "speakers": [
       "Alex",
       "Jordan"
