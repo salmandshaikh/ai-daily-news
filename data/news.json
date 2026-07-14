@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T01:07:36.859522",
+  "updated": "2026-07-14T06:02:31.853952",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published": "Mon, 13 Jul 2026 12:37:28 +0000",
+      "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "image": "data/images/4a92bab3680b6bfcbe6ce1277b98bf62.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
       "published": "Fri, 03 Jul 2026 14:25:43 +0000",
@@ -89,16 +99,6 @@
       "published": "Tue, 16 Jun 2026 21:29:50 +0000",
       "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "image": "data/images/2beb4406bfdca3788700f771115fdaf7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Securing the future of AI agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "published": "Tue, 16 Jun 2026 15:46:31 +0000",
-      "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-      "image": "data/images/3689a13e4f998fabb93e4285a3192cd6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,41 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-      "url": "https://github.com/jbwinters/jacquard-lang",
-      "published": "2026-07-13T15:56:02",
+      "title": "Building Food Metadata with LLM Juries",
+      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "published": "2026-07-14T01:41:49",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ca98bc7fc3773e8df06b874b07ea3065313c3d53f53618e3b0ed5d4a6cc96116/jbwinters/jacquard-lang",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Telegram's t.me domain has been suspended",
-      "url": "https://www.whois.com/whois/t.me",
-      "published": "2026-07-13T19:52:25",
-      "description": "",
-      "image": "https://www.whois.com/images/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "url": "https://neow.in/cWsyMTV3",
-      "published": "2026-07-13T20:01:43",
-      "description": "",
-      "image": "data/images/2919c5df453617c6d2630ca1ead5d786.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I implemented a neural network in SQL",
-      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-      "published": "2026-07-13T20:00:10",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/1d59be9ff960ecdd54399037491027547e8083577f6ef6cc4f523428720b78ca/xqlsystems/xarray-sql",
+      "image": "data/images/735a3e7d5823d2e7c232ba4704149511.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,31 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: ContextVault \u2013 Shared memory layer for your AI and your team",
-      "url": "https://www.contextvault.dev/",
-      "published": "2026-07-13T23:22:18",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "published": "2026-07-13T20:00:10",
       "description": "",
-      "image": "https://www.contextvault.dev/opengraph-image.png?3bf678daa8f89931",
+      "image": "https://opengraph.githubassets.com/49ddbf78e5d862af85b11408faa747c31ab3777f2a949812e63f4051cbe1992c/xqlsystems/xarray-sql",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "url": "https://github.com/morganwilliscloud/billai-bass",
-      "published": "2026-07-13T18:18:23",
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "published": "2026-07-13T15:56:02",
       "description": "",
-      "image": "https://opengraph.githubassets.com/521659285d0b32b2763065f64c39be4cc9d5a041827705c57c45b2ca1874f042/morganwilliscloud/billai-bass",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The AI Whale Fall and Open Source",
-      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-      "published": "2026-07-13T23:16:42",
-      "description": "",
-      "image": "data/images/aaca81fb6dc9a815ef979af32cf691d4.png",
+      "image": "https://opengraph.githubassets.com/48e796dfc60ca8c1ef416baed74deb1f2b49a3c847501aff08aaaf53832f06ad/jbwinters/jacquard-lang",
       "summary": "Summary unavailable."
     }
   ],
