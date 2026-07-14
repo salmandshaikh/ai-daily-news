@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-14T12:58:19.603363",
+  "updated": "2026-07-14T16:59:35.646693",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "image": "data/images/dbb47a6f05859799521aa58962b10ff3.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,6 +9,16 @@
       "published": "Tue, 14 Jul 2026 00:00:00 GMT",
       "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "image": "data/images/6ed5cbbde13ba56e7a02a7bcc328bb7a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "image": "data/images/dbb47a6f05859799521aa58962b10ff3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "published": "2026-07-14T15:18:13",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "published": "2026-07-14T16:06:18",
+      "description": "",
+      "image": "https://agnost.ai/agnost/og-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
       "url": "https://github.com/Danau5tin/ai-trains-ai",
       "published": "2026-07-14T12:41:25",
       "description": "",
-      "image": "https://opengraph.githubassets.com/94c7aa4dc3172c0fb8064676f6d30fcf97bfdade653a846ea32b671f63575485/Danau5tin/ai-trains-ai",
+      "image": "https://opengraph.githubassets.com/b97c5ff50097f830e2eaa8ad2759341b5b5885c6d1995200d5ed66874e1ea833/Danau5tin/ai-trains-ai",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Dmars \u2013 A modern Core Wars toolchain",
-      "url": "https://dmars.drpz.xyz/",
-      "published": "2026-07-09T15:16:43",
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "published": "2026-07-14T09:20:07",
       "description": "",
-      "image": "data/images/519cc3b4a10972d04a4c11e5838e477d.png",
+      "image": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_200x200.jpg",
       "summary": "Summary unavailable."
     }
   ],
