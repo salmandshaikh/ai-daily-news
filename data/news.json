@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T17:01:06.306460",
+  "updated": "2026-07-15T20:47:17.500881",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Wed, 15 Jul 2026 12:00:00 GMT",
       "description": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "image": "data/images/f4979509af926b04ca94a76af3384c0d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "description": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "image": "data/images/0cea288ac5239eada7af68effcb1fc26.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,16 +34,6 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "image": "data/images/6ed5cbbde13ba56e7a02a7bcc328bb7a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "How data science teams use ChatGPT Work",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "published": "Tue, 14 Jul 2026 00:00:00 GMT",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "image": "data/images/6ed5cbbde13ba56e7a02a7bcc328bb7a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,36 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "published": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "description": "",
+      "image": "data/images/0edd468455a3619eae44829abe128b0b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Model Routing Is Simple. Until It Isn\u2019t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "published": "Wed, 15 Jul 2026 17:27:01 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/34a3ac665026d5e4d3607d6eb0b91f74.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
       "url": "https://huggingface.co/blog/real-world-voiceeq",
       "published": "Wed, 15 Jul 2026 00:00:00 GMT",
@@ -122,63 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "published": "Wed, 08 Jul 2026 17:16:05 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "published": "2026-07-15T18:12:45",
       "description": "",
-      "image": "data/images/3dd1cc8f26609fd04cbdb92d1a7cef39.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/2efde1f6def64bbe76be8f83b5ef006a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "published": "Tue, 07 Jul 2026 21:15:33 GMT",
-      "description": "",
-      "image": "data/images/ef66ea2fd806f63f04d77deda1165d88.png",
+      "image": "https://thinkingmachines.ai/news/introducing-inkling/images/cover-social-inkling-post.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "published": "2026-07-15T02:57:47",
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "url": "https://brainless.swerdlow.dev",
+      "published": "2026-07-15T19:42:53",
       "description": "",
-      "image": "data/images/f15c3392ab5c4c7b63cfce841072951e.png",
+      "image": "https://brainless.swerdlow.dev/opengraph-image?234ed435f7768d62",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "published": "2026-07-15T13:18:15",
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "published": "2026-07-15T12:33:27",
       "description": "",
-      "image": "https://i.snap.as/IJsCIeqg.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "url": "https://jiga.io/about-us/",
-      "published": "2026-07-15T12:00:23",
-      "description": "",
-      "image": "https://jiga.io/wp-content/uploads/2026/07/About-us-web-preview-V2.jpg",
+      "image": "data/images/be46c702cddfad7dff2684b16d4e31ef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Briar Is in Maintenance Mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "published": "2026-07-15T12:33:27",
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "published": "2026-07-15T13:18:15",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://i.snap.as/IJsCIeqg.png",
       "summary": "Summary unavailable."
     }
   ],
