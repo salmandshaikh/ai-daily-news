@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:45:38.277973",
+  "updated": "2026-07-15T13:01:47.736846",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "published": "2026-07-15T01:08:26",
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "published": "2026-07-15T10:11:11",
       "description": "",
-      "image": "https://cdn.sanity.io/images/w77i7m8x/production/8e0455b2d9b33c6151016afdf2ea81d7623c2f04-1200x628.png",
+      "image": "https://martinfowler.com/logo-sq.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
+      "published": "2026-07-15T11:26:33",
+      "description": "",
+      "image": "data/images/7d51e5ea14f23829caf8e3262d25ca4e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
+      "url": "https://jiga.io/about-us/",
+      "published": "2026-07-15T12:00:23",
+      "description": "",
+      "image": "https://jiga.io/wp-content/uploads/2026/07/About-us-web-preview-V2.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Societal Impacts: Claude's values across models and languages",
+      "url": "https://www.anthropic.com/research/claude-values-models-languages",
+      "published": "2026-07-15T10:56:33",
+      "description": "",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Flower&backgroundColor=heather",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+      "published": "2026-07-14T01:09:00",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "published": "2026-07-11T14:32:19",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "published": "2026-07-15T01:08:26",
       "description": "",
-      "image": "data/images/65f334f0ad3e12901464d65af7284d2b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "published": "2026-07-14T22:30:47",
-      "description": "",
-      "image": "https://www.benjamin-bai.com/project-assets/lemario/architecture.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "published": "2026-07-14T16:06:18",
-      "description": "",
-      "image": "https://agnost.ai/agnost/og-card.png",
+      "image": "https://cdn.sanity.io/images/w77i7m8x/production/8e0455b2d9b33c6151016afdf2ea81d7623c2f04-1200x628.png",
       "summary": "Summary unavailable."
     }
   ],
