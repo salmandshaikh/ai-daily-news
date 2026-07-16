@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T06:09:45.474057",
+  "updated": "2026-07-16T09:51:51.704167",
   "articles": [
     {
       "source": "RSS",
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-      "published": "2026-07-16T04:31:01",
-      "description": "",
-      "image": "http://www.frank.computer/images/default.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "published": "2026-07-15T21:16:36",
@@ -194,36 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "url": "https://arxiv.org/abs/2607.11859",
-      "published": "2026-07-16T02:17:31",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "My Throw Decides My Aim",
-      "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-      "published": "2026-07-16T03:51:25",
-      "description": "",
-      "image": "https://thegustafson.com/blog/my-throw-decides-my-aim/opengraph-image.png?b4d57e529658c420",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "published": "2026-07-15T22:23:27",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
       "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
       "published": "2026-07-16T02:06:36",
@@ -234,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-      "url": "https://github.com/PrestigePvP/Voicebox",
-      "published": "2026-07-16T02:57:30",
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "published": "2026-07-16T02:17:31",
       "description": "",
-      "image": "https://opengraph.githubassets.com/153ef54ad2e3007775f68c6dec34c177bd37f00d7d914e4a57b21458062577f1/PrestigePvP/Voicebox",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "published": "2026-07-15T22:23:27",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
