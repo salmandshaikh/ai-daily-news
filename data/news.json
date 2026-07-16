@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:47:17.500881",
+  "updated": "2026-07-16T01:13:27.733215",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "image": "data/images/dbb47a6f05859799521aa58962b10ff3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "How sales teams use ChatGPT Work",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published": "Tue, 14 Jul 2026 00:00:00 GMT",
       "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "image": "data/images/6ed5cbbde13ba56e7a02a7bcc328bb7a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "image": "data/images/dbb47a6f05859799521aa58962b10ff3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,58 +164,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "published": "2026-07-15T22:23:27",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "published": "2026-07-15T21:16:36",
+      "description": "",
+      "image": "data/images/4eca83d0c2ed09e0da7196e65c415596.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
       "url": "https://brainless.swerdlow.dev",
       "published": "2026-07-15T19:42:53",
       "description": "",
       "image": "https://brainless.swerdlow.dev/opengraph-image?234ed435f7768d62",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Briar is in maintenance mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "published": "2026-07-15T12:33:27",
-      "description": "",
-      "image": "data/images/be46c702cddfad7dff2684b16d4e31ef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI loses trademark dispute at EU court",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "published": "2026-07-15T14:32:36",
-      "description": "",
-      "image": "data/images/ee1ba59e24cd68b3a25f3e08c30c36ac.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A General Goal-Conditioned Minecraft Model",
-      "url": "https://pantograph.com/journal/pan-1",
-      "published": "2026-07-15T16:35:09",
-      "description": "",
-      "image": "https://pantograph.com/images/journal/pan-1-social-preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "published": "2026-07-15T13:18:15",
-      "description": "",
-      "image": "https://i.snap.as/IJsCIeqg.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "speakers": [
       "Alex",
       "Jordan"
