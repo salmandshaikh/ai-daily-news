@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T09:51:51.704167",
+  "updated": "2026-07-16T13:09:32.790931",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published": "Thu, 16 Jul 2026 09:30:42 +0000",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "image": "data/images/d3645a5dcd803478ddf6dcda9b83b04a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
       "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
       "published": "Mon, 13 Jul 2026 12:37:28 +0000",
@@ -93,12 +103,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "published": "Tue, 16 Jun 2026 21:29:50 +0000",
-      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "image": "data/images/2beb4406bfdca3788700f771115fdaf7.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "published": "Thu, 16 Jul 2026 11:49:48 GMT",
+      "description": "",
+      "image": "data/images/97258e6719f5df8a0169e5be55b92cfe.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Security incident disclosure \u2014 July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/c66bae6879c958e44556319e5c02b179.png",
       "summary": "Summary unavailable."
     },
     {
@@ -132,23 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "published": "2026-07-16T11:59:01",
       "description": "",
-      "image": "data/images/ccafca4fabee9b62074b9cc6535630f0.png",
+      "image": "https://www.theocharis.dev/jeremy-headshot.png",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "published": "2026-07-16T12:02:11",
       "description": "",
-      "image": "data/images/df10eca8e20313a85f5126e0a3f2faed.png",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/6a04202/2147483647/strip/true/crop/4367x2293+0+310/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F5e%2Ff0d9b82c41a7b2c7d21d1d40a35c%2F175bee518a5a4f52b3535fdc3938398b.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "url": "https://joinedanthropic.com",
+      "published": "2026-07-16T08:03:35",
+      "description": "",
+      "image": "data/images/35df2046ed3164768c8c0a241be9d559.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-      "published": "2026-07-16T02:06:36",
-      "description": "",
-      "image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kgd6qp4xhkmjmj721nq4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
       "url": "https://arxiv.org/abs/2607.11859",
       "published": "2026-07-16T02:17:31",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "published": "2026-07-15T22:23:27",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
