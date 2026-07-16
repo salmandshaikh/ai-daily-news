@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-16T13:09:32.790931",
+  "updated": "2026-07-16T16:58:53.603932",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "image": "data/images/dabe112fb80457ee33fb46c40afc978b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "image": "data/images/b30eb1d7875cd98ecd4e6ff0d2a61450.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 14 Jul 2026 10:00:00 GMT",
       "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "image": "data/images/6ed5cbbde13ba56e7a02a7bcc328bb7a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "image": "data/images/dbb47a6f05859799521aa58962b10ff3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "published": "Thu, 16 Jul 2026 16:01:21 GMT",
+      "description": "",
+      "image": "data/images/50f8ee5e37967cc2d444ef203e8a87dc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Newer Models, Same Advantage",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "published": "Thu, 16 Jul 2026 11:49:48 GMT",
@@ -142,33 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "published": "2026-07-16T16:41:37",
       "description": "",
-      "image": "data/images/34a3ac665026d5e4d3607d6eb0b91f74.png",
+      "image": "https://blog.lyc8503.net/en/post/llm-classifier/ppl.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "published": "2026-07-16T11:59:01",
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "published": "2026-07-16T15:13:00",
       "description": "",
-      "image": "https://www.theocharis.dev/jeremy-headshot.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "published": "2026-07-16T12:02:11",
-      "description": "",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/6a04202/2147483647/strip/true/crop/4367x2293+0+310/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F5e%2Ff0d9b82c41a7b2c7d21d1d40a35c%2F175bee518a5a4f52b3535fdc3938398b.jpg",
+      "image": "data/images/2690ce1e28d955681da38c5ba66d488a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "published": "2026-07-15T18:12:45",
+      "title": "Building scalable AI agents with modular prompt transpilation",
+      "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+      "published": "2026-07-16T16:22:09",
       "description": "",
-      "image": "https://thinkingmachines.ai/news/introducing-inkling/images/cover-social-inkling-post.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "published": "2026-07-15T21:16:36",
-      "description": "",
-      "image": "data/images/4eca83d0c2ed09e0da7196e65c415596.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "High-Bandwidth Flash offers efficient storage for model weights",
-      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
-      "published": "2026-07-15T02:04:12",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/schematic-of-high-bandwidth-flash-die-stacked-on-top-of-a-logic-die.jpg?id=67145585&width=1200&height=600&coordinates=0%2C134%2C0%2C116",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "url": "https://arxiv.org/abs/2607.11859",
-      "published": "2026-07-16T02:17:31",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Cloud-1-meta.2e16d0ba.fill-1200x600.png",
       "summary": "Summary unavailable."
     }
   ],
