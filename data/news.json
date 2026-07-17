@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T16:56:07.898958",
+  "updated": "2026-07-17T20:40:35.629576",
   "articles": [
     {
       "source": "RSS",
@@ -7,7 +7,7 @@
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "published": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "description": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "image": "data/images/524b5414d939b5a996ff13ec8fea1dbc.png",
       "summary": "Summary unavailable."
     },
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mozilla: The state of open source AI",
+      "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
       "published": "2026-07-17T14:31:10",
       "description": "",
-      "image": "data/images/f306239b950dc8b5a7c1df4f3891b59e.png",
+      "image": "data/images/49f8cc5306a767b2e9be9bb3d3d3508d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "published": "2026-07-17T12:42:12",
-      "description": "",
-      "image": "https://ecm.capitalone.com/WCM/tech/blog-images/open-source/tmpblog-vulnhunter-hero-072026/rdesktop.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Apple targets dozens of OpenAI employees with legal letters",
       "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
       "published": "2026-07-17T12:02:39",
@@ -204,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: On-chain bond market where the issuers are AI agents",
-      "url": "https://selbonds.now",
-      "published": "2026-07-17T14:25:20",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "published": "2026-07-17T12:42:12",
       "description": "",
-      "image": "https://sellbonds.now/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "published": "2026-07-16T20:03:23",
-      "description": "",
-      "image": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
+      "image": "https://ecm.capitalone.com/WCM/tech/blog-images/open-source/tmpblog-vulnhunter-hero-072026/rdesktop.png",
       "summary": "Summary unavailable."
     }
   ],
