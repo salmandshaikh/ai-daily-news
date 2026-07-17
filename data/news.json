@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-17T12:55:28.266291",
+  "updated": "2026-07-17T16:56:07.898958",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "description": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "image": "data/images/524b5414d939b5a996ff13ec8fea1dbc.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 15 Jul 2026 10:00:00 GMT",
       "description": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "image": "data/images/0cea288ac5239eada7af68effcb1fc26.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "published": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -104,11 +104,11 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "published": "Thu, 16 Jul 2026 16:01:21 GMT",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and \ud83e\udd17 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published": "Fri, 17 Jul 2026 15:57:54 GMT",
       "description": "",
-      "image": "data/images/50f8ee5e37967cc2d444ef203e8a87dc.png",
+      "image": "data/images/d1ccafbd2a0ceea949f71f66ccc6d9f2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "published": "2026-07-17T11:30:00",
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "published": "2026-07-17T14:31:10",
       "description": "",
-      "image": "https://www.kaggle.com/open-graph/images/Competitions/128852",
+      "image": "data/images/f306239b950dc8b5a7c1df4f3891b59e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "published": "2026-07-17T14:21:35",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "published": "2026-07-17T12:42:12",
+      "description": "",
+      "image": "https://ecm.capitalone.com/WCM/tech/blog-images/open-source/tmpblog-vulnhunter-hero-072026/rdesktop.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Apple targets dozens of OpenAI employees with legal letters",
       "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
       "published": "2026-07-17T12:02:39",
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "published": "2026-07-16T20:18:15",
+      "title": "Show HN: On-chain bond market where the issuers are AI agents",
+      "url": "https://selbonds.now",
+      "published": "2026-07-17T14:25:20",
       "description": "",
-      "image": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
+      "image": "https://sellbonds.now/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,46 +219,6 @@
       "published": "2026-07-16T20:03:23",
       "description": "",
       "image": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "published": "2026-07-16T16:41:37",
-      "description": "",
-      "image": "https://blog.lyc8503.net/en/post/llm-classifier/ppl.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "In Praise of Exhaustive Destructuring",
-      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
-      "published": "2026-07-12T08:58:15",
-      "description": "",
-      "image": "data/images/4971cc61dd7c8d168b1aaa411cbe6073.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "published": "2026-07-16T11:59:01",
-      "description": "",
-      "image": "https://www.theocharis.dev/jeremy-headshot.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "published": "2026-07-16T15:13:00",
-      "description": "",
-      "image": "data/images/2690ce1e28d955681da38c5ba66d488a.png",
       "summary": "Summary unavailable."
     }
   ],
