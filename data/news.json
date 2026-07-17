@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T06:08:52.059347",
+  "updated": "2026-07-17T09:43:03.283719",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "published": "2026-07-17T05:51:10",
+      "description": "",
+      "image": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003876.g004&size=inline",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "LM Studio Bionic: the AI agent for open models",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
       "published": "2026-07-16T20:18:15",
@@ -174,31 +184,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "UIUC AI Teaching Assistant",
-      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-      "published": "2026-07-17T02:23:18",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/cf1437b8f9541a5f139c5efb5ee461a2e4d71b80e697cd89e1fe9af4eb94ac8d/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "published": "2026-07-13T17:34:33",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "published": "2026-07-16T16:41:37",
       "description": "",
       "image": "https://blog.lyc8503.net/en/post/llm-classifier/ppl.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "In Praise of Exhaustive Destructuring",
+      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+      "published": "2026-07-12T08:58:15",
+      "description": "",
+      "image": "data/images/4971cc61dd7c8d168b1aaa411cbe6073.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "published": "2026-07-16T11:59:01",
+      "description": "",
+      "image": "https://www.theocharis.dev/jeremy-headshot.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "published": "2026-07-17T02:23:18",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/ade132b68ee10ee410b8bf4e7682916420c32ac94ff315033a1ec904c8d8bdfb/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "published": "2026-07-16T15:13:00",
+      "description": "",
+      "image": "data/images/2690ce1e28d955681da38c5ba66d488a.png",
       "summary": "Summary unavailable."
     }
   ],
