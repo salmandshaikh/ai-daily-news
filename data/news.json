@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T20:35:08.475821",
+  "updated": "2026-07-19T01:14:31.943088",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "published": "2026-07-18T22:13:39",
+      "description": "",
+      "image": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
       "published": "2026-07-18T11:00:29",
       "description": "",
-      "image": "https://charles-azam.github.io/headshot.jpg",
+      "image": "https://charlesazam.com/headshot.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -185,7 +195,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "speakers": [
       "Alex",
       "Jordan"
