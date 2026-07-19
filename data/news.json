@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T09:41:09.842423",
+  "updated": "2026-07-19T12:43:38.561518",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-      "published": "2026-07-19T08:00:24",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "published": "2026-07-19T07:54:39",
       "description": "",
-      "image": "data/images/51da67cc524954301b47b5cdc38afbe3.png",
+      "image": "https://avatars.githubusercontent.com/u/244841968?s=400&v=4",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "published": "2026-07-18T13:00:52",
+      "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
+      "url": "https://github.com/loopgain-ai/loopgain",
+      "published": "2026-07-15T12:07:48",
       "description": "",
-      "image": "data/images/41f2a2005f562a782a07c7a8b5a8ccac.png",
+      "image": "https://opengraph.githubassets.com/cfcc1bc310084f8072e3750a51500eca2f3c243fd87dfb6d728b11ed899828c9/loopgain-ai/loopgain",
       "summary": "Summary unavailable."
     },
     {
@@ -189,16 +189,6 @@
       "published": "2026-07-19T01:29:19",
       "description": "",
       "image": "data/images/f86a91aed30b9bcc2e5dd36b34858ff5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "published": "2026-07-18T11:00:29",
-      "description": "",
-      "image": "https://charlesazam.com/headshot.jpg",
       "summary": "Summary unavailable."
     }
   ],
