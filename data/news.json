@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T01:14:31.943088",
+  "updated": "2026-07-19T06:19:57.298949",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LLM-Integrated Multivariable Calculus Course",
+      "url": "https://calculus.academa.ai/",
+      "published": "2026-07-19T02:55:43",
+      "description": "",
+      "image": "https://calculus.academa.ai/og/vectors?locale=en",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "published": "2026-07-18T13:00:52",
@@ -174,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "published": "2026-07-18T11:00:29",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "published": "2026-07-19T01:29:19",
       "description": "",
-      "image": "https://charlesazam.com/headshot.jpg",
+      "image": "data/images/f86a91aed30b9bcc2e5dd36b34858ff5.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "published": "2026-07-18T11:12:46",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "published": "2026-07-18T11:00:29",
       "description": "",
-      "image": "data/images/d09dd41c28dc77a2c35d6e6422d56983.png",
+      "image": "https://charlesazam.com/headshot.jpg",
       "summary": "Summary unavailable."
     }
   ],
