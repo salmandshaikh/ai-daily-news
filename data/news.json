@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T17:13:47.267060",
+  "updated": "2026-07-20T20:57:36.527603",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "published": "2026-07-20T18:16:08",
+      "description": "",
+      "image": "data/images/b57c922251738e58cc050e9704b09f79.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
       "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
       "published": "2026-07-20T16:36:36",
       "description": "",
-      "image": "data/images/693e4a518492b400a445bfe66f07c87b.png",
+      "image": "data/images/7bef428efbe655505965dc604252a190.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,6 +194,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "published": "2026-07-20T18:06:13",
+      "description": "",
+      "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/swarm-og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
       "published": "2026-07-20T08:13:36",
@@ -194,21 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-      "url": "https://yang-ai-lab.github.io/Inertia-1/",
-      "published": "2026-07-20T13:11:12",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "published": "2026-07-20T18:43:55",
       "description": "",
-      "image": "data/images/284b2281d26c4666f6cfda99522868f2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "SaaS *is* dead. But not because AI \"killed\" it, because AI killed it",
-      "url": "https://avivcarmi.com/saas-is-dead/",
-      "published": "2026-07-20T15:38:15",
-      "description": "",
-      "image": "https://avivcarmi.com/images/posts/saas-is-dead/saas-is-dead.jpg",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7VsDMfKDQaCRhafmq4r/58954b4318f57a81a96ad23470ed2497/SEO_image.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -219,16 +229,6 @@
       "published": "2026-07-20T14:35:19",
       "description": "",
       "image": "https://substackcdn.com/image/fetch/$s_!jWb-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F286a0beb-32b2-41fc-8bcf-6bae189b53f2_1488x840.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Soofi \u2013 Sovereign Open Source Foundation Models",
-      "url": "https://www.soofi.info/",
-      "published": "2026-07-20T12:52:03",
-      "description": "",
-      "image": "data/images/f0489161b6f0ae2f3da40fa72826d928.png",
       "summary": "Summary unavailable."
     }
   ],
