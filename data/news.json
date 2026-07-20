@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T06:36:51.536191",
+  "updated": "2026-07-20T10:36:56.242221",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-      "published": "2026-07-20T04:19:22",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "published": "2026-07-20T08:13:36",
       "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280056139-e1784391242756.jpg?resize=1200,600",
+      "image": "https://slcyber.io/wp-content/uploads/2026/07/Searchlight-Security-Research_Social_Dark_General.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "published": "2026-07-15T08:35:46",
+      "description": "",
+      "image": "https://cdn.labrujulaverde.com/en/wp-content/uploads/2026/07/745886274_1442267391268136_4875976552273111574_n.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Talk: The Art of Braiding Algorithms",
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-      "published": "2026-07-15T13:31:44",
+      "title": "1-Bit LLM in the Browser",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "published": "2026-07-16T16:50:32",
       "description": "",
-      "image": "data/images/8ede82ebb122561f2edf0146d655b56d.png",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/61b253b7ac5ecaae3d1efe0c/L3a8EbjXSSJX_cJvRl6S3.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How proprietary formats have become Microsoft\u2019s main tool for lock-in",
-      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-      "published": "2026-07-20T04:49:47",
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "published": "2026-07-15T13:31:44",
       "description": "",
-      "image": "https://blog.documentfoundation.org/wp-content/uploads/2026/07/vecteezy_a-collection-of-popular-microsoft-office-applications_80916331-e1784283246560.jpg",
+      "image": "data/images/8ede82ebb122561f2edf0146d655b56d.png",
       "summary": "Summary unavailable."
     }
   ],
