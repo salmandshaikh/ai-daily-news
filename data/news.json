@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T20:35:37.973973",
+  "updated": "2026-07-20T01:17:47.087840",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "published": "2026-07-15T13:31:44",
+      "description": "",
+      "image": "data/images/8ede82ebb122561f2edf0146d655b56d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
       "url": "https://github.com/openai/codex/pull/33972/files",
       "published": "2026-07-19T07:54:39",
       "description": "",
       "image": "https://avatars.githubusercontent.com/u/244841968?s=400&v=4",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI advice made people less accurate but more confident \u2013 sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "published": "2026-07-19T21:18:10",
+      "description": "",
+      "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
       "summary": "Summary unavailable."
     },
     {
@@ -175,7 +195,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "speakers": [
       "Alex",
       "Jordan"
