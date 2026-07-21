@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T13:08:17.370036",
+  "updated": "2026-07-21T17:04:45.066361",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,26 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "published": "Tue, 21 Jul 2026 15:16:30 +0000",
+      "description": "We\u2019re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "image": "data/images/95b1108220bacb82adb35c83ddefae56.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "published": "Fri, 17 Jul 2026 15:00:11 +0000",
+      "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Our approach to bioresilience",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "published": "Thu, 16 Jul 2026 09:30:42 +0000",
@@ -79,26 +99,6 @@
       "published": "Fri, 03 Jul 2026 14:25:43 +0000",
       "description": "",
       "image": "data/images/caf30cdcaa24bdfeac33e0eb088b56d2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "published": "Tue, 30 Jun 2026 16:02:40 +0000",
-      "description": "",
-      "image": "data/images/0a5ee9900b87e21c608078fb29f1c21b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "published": "Wed, 24 Jun 2026 16:30:01 +0000",
-      "description": "",
-      "image": "data/images/7344c7086cec2b2bd270c49377a12bf6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +174,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "published": "2026-07-21T15:31:41",
+      "description": "",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/chris-nagahama-vVhhfvVTerY-unsplash-2.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Nativ: Run frontier open models locally on your Mac",
       "url": "https://blaizzy.github.io/nativ/",
       "published": "2026-07-20T18:16:08",
@@ -189,46 +199,6 @@
       "published": "2026-07-21T03:52:05",
       "description": "",
       "image": "https://content.instructables.com/FIM/IWCR/MRPABNRQ/FIMIWCRMRPABNRQ.jpg?auto=webp&frame=1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "published": "2026-07-20T18:06:13",
-      "description": "",
-      "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/swarm-og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "China\u2019s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "published": "2026-07-20T14:21:47",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&ixlib=rb-4.1.0&q=80&w=2000",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "You only need the frontier model for one single edit",
-      "url": "https://stencil.so/blog/prewalk",
-      "published": "2026-07-15T05:08:26",
-      "description": "",
-      "image": "https://stencil.so/og/prewalk.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "published": "2026-07-20T16:36:36",
-      "description": "",
-      "image": "data/images/7bef428efbe655505965dc604252a190.png",
       "summary": "Summary unavailable."
     }
   ],
