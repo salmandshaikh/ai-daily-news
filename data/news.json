@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-21T17:04:45.066361",
+  "updated": "2026-07-21T20:56:19.592056",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "published": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "image": "data/images/f653f1b5b242d2ab5d13ab757cfd5960.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "description": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "image": "data/images/7907cef0ecb87c7672cded7751cc793d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "published": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "description": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "image": "data/images/14b127926834f8de8c4df9b1d7cbc291.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,36 +49,6 @@
       "published": "Fri, 17 Jul 2026 10:00:00 GMT",
       "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "image": "data/images/524b5414d939b5a996ff13ec8fea1dbc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "image": "data/images/dabe112fb80457ee33fb46c40afc978b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "image": "data/images/b30eb1d7875cd98ecd4e6ff0d2a61450.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "published": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "description": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "image": "data/images/f4979509af926b04ca94a76af3384c0d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,21 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "published": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "published": "Tue, 21 Jul 2026 20:00:27 GMT",
       "description": "",
-      "image": "data/images/a9b5c5b468cc9762fd6dcba742adc5d3.png",
+      "image": "data/images/e8eac5d7d906f2f58b63caf263845122.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "published": "Mon, 20 Jul 2026 15:58:51 GMT",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "published": "Tue, 21 Jul 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/7d41a7152e6536caa6e08aea34c1b676.png",
+      "image": "data/images/a9b5c5b468cc9762fd6dcba742adc5d3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI and Hugging Face partner to address security incident",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "published": "2026-07-21T20:09:52",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1kXZRSOAQbv2BDKEO14tJl/b2f0a336afaddc32e5776ba555bc4dbf/Hugging_Face_Security_Incident_16x9.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "published": "2026-07-21T17:14:06",
+      "description": "",
+      "image": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
       "published": "2026-07-21T08:44:23",
@@ -164,41 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "published": "2026-07-20T11:05:58",
+      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "published": "2026-07-21T17:03:18",
       "description": "",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+      "image": "data/images/fdf6ffd69a981bdfb9821f7204dd1be3.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "published": "2026-07-21T15:31:41",
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "published": "2026-07-21T18:58:44",
       "description": "",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/chris-nagahama-vVhhfvVTerY-unsplash-2.jpg",
+      "image": "data/images/0aad4235e0287676e34fff0e6ec0fdfa.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "published": "2026-07-20T18:16:08",
+      "title": "AI Agent \u2013 TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "published": "2026-07-21T18:32:21",
       "description": "",
-      "image": "data/images/b57c922251738e58cc050e9704b09f79.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "published": "2026-07-21T03:52:05",
-      "description": "",
-      "image": "https://content.instructables.com/FIM/IWCR/MRPABNRQ/FIMIWCRMRPABNRQ.jpg?auto=webp&frame=1",
+      "image": "https://downloads.intercomcdn.com/i/o/v9ws3u2x/617860/0719b051b2786587572435169af6/15dbde1828ef9f85e25740f9aad788d4.jpg",
       "summary": "Summary unavailable."
     }
   ],
