@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-22T10:10:17.344594",
+  "updated": "2026-07-22T13:14:19.145558",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "image": "data/images/e908b497d72537d07bf41a92fd7f4c89.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "published": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "image": "data/images/49504997428a6309aa554a3f170e53eb.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 21 Jul 2026 00:00:00 GMT",
       "description": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "image": "data/images/14b127926834f8de8c4df9b1d7cbc291.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "published": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "image": "data/images/aaf7f1574afba3b478467c01d105bed7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "published": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "image": "data/images/524b5414d939b5a996ff13ec8fea1dbc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OverpAId \u2013 Fire your CEO. Hire the future",
+      "url": "https://overpaid.lol",
+      "published": "2026-07-22T10:49:04",
+      "description": "",
+      "image": "data/images/468c09253ba99773df836c57af284808.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "published": "2026-07-21T20:09:52",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/1kXZRSOAQbv2BDKEO14tJl/b2f0a336afaddc32e5776ba555bc4dbf/Hugging_Face_Security_Incident_16x9.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "published": "2026-07-22T12:32:48",
+      "description": "",
+      "image": "data/images/8aa3d56a65a15e8cf1c23b77a477941a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: A new kind of FPS aim trainer",
-      "url": "https://openaim.pramit.gg/",
-      "published": "2026-07-22T05:39:31",
-      "description": "",
-      "image": "data/images/042149d964dce2fd9fbc9628db3462ef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
       "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
       "published": "2026-07-21T21:13:20",
@@ -214,11 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1253",
-      "published": "2026-07-22T08:27:12",
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "url": "https://openaim.pramit.gg/",
+      "published": "2026-07-22T05:39:31",
       "description": "",
-      "image": "data/images/337bab83ba6ceb9df9349c05d3b4350b.png",
+      "image": "data/images/042149d964dce2fd9fbc9628db3462ef.png",
       "summary": "Summary unavailable."
     },
     {
