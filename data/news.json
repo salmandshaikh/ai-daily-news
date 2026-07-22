@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T17:04:39.496817",
+  "updated": "2026-07-22T20:51:52.496926",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Wed, 22 Jul 2026 13:00:00 GMT",
       "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "image": "data/images/e908b497d72537d07bf41a92fd7f4c89.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "image": "data/images/cdb780074148601ee9c9a39ebae82334.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Tue, 21 Jul 2026 17:00:00 GMT",
       "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "image": "data/images/f653f1b5b242d2ab5d13ab757cfd5960.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "description": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "image": "data/images/7907cef0ecb87c7672cded7751cc793d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Airbus Full Scale Foldable Wing Extensions",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-      "published": "2026-07-22T14:57:24",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "published": "2026-07-22T17:30:40",
       "description": "",
-      "image": "data/images/7d8fac54407663703d2b04b05532bab0.png",
+      "image": "https://cdn.openai.com/chatgpt/share-og.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
-      "url": "https://unlayer.com",
-      "published": "2026-07-22T16:02:03",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "published": "2026-07-22T17:20:38",
       "description": "",
-      "image": "https://unlayer.com/images/opengraph-image.png",
+      "image": "https://opengraph.githubassets.com/d65227366df051dbf6c429cd82f3663277017b46c6c17ce1f7593c7e97270068/marcelroed/gigatoken",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "published": "2026-07-22T17:17:54",
+      "description": "",
+      "image": "https://dylancastillo.co/posts/images/social_media_card.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia DGX Spark as a daily driver",
+      "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
+      "published": "2026-07-19T19:44:44",
+      "description": "",
+      "image": "https://i.dllu.net/2026-05-16-14-06-47_DSCF8875_e8ac2c2936fe9241c5e3436262d7e6034369ad50_0af4368a28eb7d95-2400.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: DeepSQL \u2013 A self-hostable AI DBA agent for Postgres and MySQL",
-      "url": "https://deepsql.ai/",
-      "published": "2026-07-20T15:32:20",
+      "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
+      "url": "https://unlayer.com",
+      "published": "2026-07-22T16:02:03",
       "description": "",
-      "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/74437c35-0056-4a5d-9b25-f818b432510f/id-preview-bd66166e--adb44615-e209-47a5-a098-471bf2988a04.lovable.app-1784439410881.png",
+      "image": "https://unlayer.com/images/opengraph-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,26 +219,6 @@
       "published": "2026-07-22T14:25:13",
       "description": "",
       "image": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_200x200.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
-      "published": "2026-07-22T14:34:27",
-      "description": "",
-      "image": "https://www.redfin.com/news/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-1.08.32-PM.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Which streaming service was that on again",
-      "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-      "published": "2026-07-22T14:46:14",
-      "description": "",
-      "image": "https://www.timwehrle.de/fileadmin/_processed_/5/4/csm_oscar-nord-Sd87V72cJEU-unsplash_7be038d245.jpg",
       "summary": "Summary unavailable."
     }
   ],
