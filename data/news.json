@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T13:14:19.145558",
+  "updated": "2026-07-22T17:04:39.496817",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Wed, 22 Jul 2026 13:00:00 GMT",
       "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "image": "data/images/e908b497d72537d07bf41a92fd7f4c89.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "published": "Wed, 22 Jul 2026 12:00:00 GMT",
+      "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "image": "data/images/956cc7dc34735d40ef9f5b99b7b0834c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "published": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "description": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "image": "data/images/14b127926834f8de8c4df9b1d7cbc291.png",
+      "source_name": "Google DeepMind News",
+      "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "published": "Wed, 22 Jul 2026 13:38:54 +0000",
+      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "image": "data/images/b407d360fdad76f3e6ffe213901470b6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Mon, 13 Jul 2026 12:37:28 +0000",
       "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
       "image": "data/images/4a92bab3680b6bfcbe6ce1277b98bf62.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "published": "Fri, 03 Jul 2026 14:25:43 +0000",
-      "description": "",
-      "image": "data/images/caf30cdcaa24bdfeac33e0eb088b56d2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,91 +154,71 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OverpAId \u2013 Fire your CEO. Hire the future",
-      "url": "https://overpaid.lol",
-      "published": "2026-07-22T10:49:04",
+      "title": "Airbus Full Scale Foldable Wing Extensions",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
+      "published": "2026-07-22T14:57:24",
       "description": "",
-      "image": "data/images/468c09253ba99773df836c57af284808.png",
+      "image": "data/images/7d8fac54407663703d2b04b05532bab0.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "published": "2026-07-21T20:09:52",
+      "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
+      "url": "https://unlayer.com",
+      "published": "2026-07-22T16:02:03",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1kXZRSOAQbv2BDKEO14tJl/b2f0a336afaddc32e5776ba555bc4dbf/Hugging_Face_Security_Incident_16x9.png?w=1600&h=900&fit=fill",
+      "image": "https://unlayer.com/images/opengraph-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "published": "2026-07-22T12:32:48",
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "url": "https://cruciblebench.ai/",
+      "published": "2026-07-22T15:39:01",
       "description": "",
-      "image": "data/images/8aa3d56a65a15e8cf1c23b77a477941a.png",
+      "image": "https://cruciblebench.ai/social-card.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Advertise in ChatGPT",
-      "url": "https://ads.openai.com/",
-      "published": "2026-07-21T18:58:44",
+      "title": "Show HN: DeepSQL \u2013 A self-hostable AI DBA agent for Postgres and MySQL",
+      "url": "https://deepsql.ai/",
+      "published": "2026-07-20T15:32:20",
       "description": "",
-      "image": "data/images/0aad4235e0287676e34fff0e6ec0fdfa.png",
+      "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/74437c35-0056-4a5d-9b25-f818b432510f/id-preview-bd66166e--adb44615-e209-47a5-a098-471bf2988a04.lovable.app-1784439410881.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "published": "2026-07-21T19:04:39",
+      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
+      "published": "2026-07-22T14:25:13",
       "description": "",
-      "image": "https://dims.apnews.com/dims4/default/fe6d93f/2147483647/strip/true/crop/7105x4734+0+170/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F02%2F03fe2aab40cb16ec606291293712%2F3ac9a8e98cd0455f980d89ba81ec27a4",
+      "image": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_200x200.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "published": "2026-07-21T21:13:20",
+      "title": "Most Americans say \"not in my backyard\" to AI data centers",
+      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "published": "2026-07-22T14:34:27",
       "description": "",
-      "image": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358",
+      "image": "https://www.redfin.com/news/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-1.08.32-PM.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "published": "2026-07-21T17:14:06",
+      "title": "Which streaming service was that on again",
+      "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
+      "published": "2026-07-22T14:46:14",
       "description": "",
-      "image": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: A new kind of FPS aim trainer",
-      "url": "https://openaim.pramit.gg/",
-      "published": "2026-07-22T05:39:31",
-      "description": "",
-      "image": "data/images/042149d964dce2fd9fbc9628db3462ef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "published": "2026-07-21T21:27:54",
-      "description": "",
-      "image": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png",
+      "image": "https://www.timwehrle.de/fileadmin/_processed_/5/4/csm_oscar-nord-Sd87V72cJEU-unsplash_7be038d245.jpg",
       "summary": "Summary unavailable."
     }
   ],
