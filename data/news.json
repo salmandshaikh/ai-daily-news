@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T20:51:52.496926",
+  "updated": "2026-07-23T01:21:02.094459",
   "articles": [
     {
       "source": "RSS",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "published": "Tue, 21 Jul 2026 17:00:00 GMT",
-      "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "image": "data/images/f653f1b5b242d2ab5d13ab757cfd5960.png",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "published": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "image": "data/images/566918d58f311df4c817d3b269c9d4db.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "published": "2026-07-22T14:18:05",
+      "description": "",
+      "image": "data/images/fa6216b206628feea87c6d3540194d44.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
       "published": "2026-07-22T17:20:38",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d65227366df051dbf6c429cd82f3663277017b46c6c17ce1f7593c7e97270068/marcelroed/gigatoken",
+      "image": "https://opengraph.githubassets.com/229f8b9ed63632b1eec461ada2597522a47e63c70dd77eb838472e937ee250c4/marcelroed/gigatoken",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nvidia DGX Spark as a daily driver",
-      "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
-      "published": "2026-07-19T19:44:44",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "published": "2026-07-22T20:16:01",
       "description": "",
-      "image": "https://i.dllu.net/2026-05-16-14-06-47_DSCF8875_e8ac2c2936fe9241c5e3436262d7e6034369ad50_0af4368a28eb7d95-2400.jpg",
+      "image": "data/images/8699ea4976f862ae3142d34c2ef89f6f.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "published": "2026-07-22T15:39:01",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "published": "2026-07-22T12:32:48",
       "description": "",
-      "image": "https://cruciblebench.ai/social-card.png",
+      "image": "data/images/8aa3d56a65a15e8cf1c23b77a477941a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,18 +224,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-      "published": "2026-07-22T14:25:13",
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "published": "2026-07-22T22:49:58",
       "description": "",
-      "image": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_200x200.jpg",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "published": "2026-07-22T12:49:45",
+      "description": "",
+      "image": "https://blog.fiddery.com/static/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "speakers": [
       "Alex",
       "Jordan"
