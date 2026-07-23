@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T17:08:05.578226",
+  "updated": "2026-07-23T20:48:27.396392",
   "articles": [
     {
       "source": "RSS",
@@ -164,21 +164,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "published": "2026-07-23T15:18:40",
       "description": "",
-      "image": "data/images/cf89cefd646242da43feb73e75be94c7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Free way to get your data out of ChatGPT Business accounts",
-      "url": "https://github.com/Conradqh/scrapemychats",
-      "published": "2026-07-23T15:45:51",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "published": "2026-07-23T13:51:36",
       "description": "",
-      "image": "https://opengraph.githubassets.com/e572a6c59c645ae7a8cc3dcab86b0da5dc97b0f6d186b06cb49d7611ee1d88d0/Conradqh/scrapemychats",
+      "image": "data/images/eff83fb620802e2561d988a4c857244f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "published": "2026-07-23T15:11:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/5e59f9255884312898b54c34bfbc71e3fe5b236dc01d750682c31a56c1e3f139/palmier-io/palmier-pro",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "published": "2026-07-23T16:49:57",
+      "description": "",
+      "image": "https://tombedor.dev/img/social-card.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+      "published": "2026-07-21T07:10:49",
+      "description": "",
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/GO-social-BlogSocialShare-1280x720-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "published": "2026-07-23T15:42:40",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/1175900220/ef74e755-ef2e-4166-8437-b1ad4830e2ff",
       "summary": "Summary unavailable."
     },
     {
@@ -204,41 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "published": "2026-07-23T15:42:40",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "published": "2026-07-23T15:18:48",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/1175900220/ef74e755-ef2e-4166-8437-b1ad4830e2ff",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Palmier Pro \u2013 open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "published": "2026-07-23T15:11:37",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/1c0d59ae2a22c2005288b723d15db4ce65f6789551b047973197a0d0c4f11793/palmier-io/palmier-pro",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "You can now run same OCI images as containers or Firecracker microVMs",
-      "url": "https://github.com/pullrun/pullrun",
-      "published": "2026-07-23T14:08:39",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1266760430/9c57ca54-faf4-4ee3-a402-868a53693db4",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "published": "2026-07-23T01:16:14",
-      "description": "",
-      "image": "data/images/1eca41a8b6172d928a632e176a236d84.png",
+      "image": "https://opengraph.githubassets.com/ad7e9e19ae840dc4fb6b521393919560c0cabb53a423c38fe5ff7b340693dde7/humanlayer/advanced-context-engineering-for-coding-agents",
       "summary": "Summary unavailable."
     }
   ],
