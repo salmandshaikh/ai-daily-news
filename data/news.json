@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T06:18:30.693537",
+  "updated": "2026-07-24T10:03:20.153617",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "published": "2026-07-24T09:31:48",
+      "description": "",
+      "image": "https://bfl.ai/api/og/blog/flux-3-mimic",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "published": "2026-07-23T14:24:43",
@@ -178,7 +188,7 @@
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
       "published": "2026-07-23T15:18:48",
       "description": "",
-      "image": "https://opengraph.githubassets.com/27faca81ccfc5dd78cf4c82566c88da48e82b56791fabd128a44228225204ea2/humanlayer/advanced-context-engineering-for-coding-agents",
+      "image": "https://opengraph.githubassets.com/84db9e8848379a7b1bdf7f9e92cbf270c7a7c280497351a541f3840c3d844e9b/humanlayer/advanced-context-engineering-for-coding-agents",
       "summary": "Summary unavailable."
     },
     {
@@ -194,16 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "published": "2026-07-23T15:11:37",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/595a52644771384d11b92303b35e165e517d98b1a4049470d591df3c8ff2d423/palmier-io/palmier-pro",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Why Sony can't bring back its classic Walkman models",
       "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
       "published": "2026-07-23T18:08:29",
@@ -214,31 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "published": "2026-07-23T15:11:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/c4e33354ecd434e8ff857fffdcd99e67da94c1f056af9cda5d0015e3a035ea6c/palmier-io/palmier-pro",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
       "published": "2026-07-23T01:16:14",
       "description": "",
       "image": "data/images/1eca41a8b6172d928a632e176a236d84.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "published": "2026-07-23T16:49:57",
-      "description": "",
-      "image": "https://tombedor.dev/img/social-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "published": "2026-07-23T15:42:40",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1175900220/ef74e755-ef2e-4166-8437-b1ad4830e2ff",
       "summary": "Summary unavailable."
     }
   ],
