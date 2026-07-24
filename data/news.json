@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:03:20.153617",
+  "updated": "2026-07-24T13:10:55.593307",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,71 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "published": "2026-07-24T12:00:17",
+      "description": "",
+      "image": "https://img.alexhyett.com/2026/07/15/Thumbnail-1.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLMs Are Still Toxic, Stuck in the Past, and Bad at Math",
+      "url": "https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math",
+      "published": "2026-07-24T12:51:13",
+      "description": "",
+      "image": "https://www.eyosias.dev/og/llms-are-still-bad-at-stuff.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "published": "2026-07-24T09:52:58",
+      "description": "",
+      "image": "https://houseofsaud.com/wp-content/uploads/2026/07/data-center-server-hall-aws-bahrain.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "published": "2026-07-23T14:24:43",
       "description": "",
       "image": "data/images/cc2423ee9d51e3e9f321990d569cac24.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launching Health in ChatGPT to US Users",
+      "url": "https://openai.com/index/health-in-chatgpt/",
+      "published": "2026-07-24T10:09:36",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4MfwY6ER1qh4OTf0QkI0p8/31fc4cfae157e5c755368e9dd3440b11/16_9_SEO_Blog.jpg?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AMD's Instinct MI455X: Aiming for the Sun",
+      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+      "published": "2026-07-24T06:59:07",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!vm_9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5aed42bb-f239-4316-89ea-e12fcafad025_964x1156.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hetzner is working on LLM Inference",
+      "url": "https://sliplane.io/blog/hetzner-inference",
+      "published": "2026-07-24T09:24:44",
+      "description": "",
+      "image": "https://sliplane.io/images/blog/hetzner-inference/cover.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -188,47 +248,7 @@
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
       "published": "2026-07-23T15:18:48",
       "description": "",
-      "image": "https://opengraph.githubassets.com/84db9e8848379a7b1bdf7f9e92cbf270c7a7c280497351a541f3840c3d844e9b/humanlayer/advanced-context-engineering-for-coding-agents",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "published": "2026-07-23T13:51:36",
-      "description": "",
-      "image": "data/images/eff83fb620802e2561d988a4c857244f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why Sony can't bring back its classic Walkman models",
-      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
-      "published": "2026-07-23T18:08:29",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "published": "2026-07-23T15:11:37",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/c4e33354ecd434e8ff857fffdcd99e67da94c1f056af9cda5d0015e3a035ea6c/palmier-io/palmier-pro",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "published": "2026-07-23T01:16:14",
-      "description": "",
-      "image": "data/images/1eca41a8b6172d928a632e176a236d84.png",
+      "image": "https://opengraph.githubassets.com/5c231e79248202b3dca5c0b81e7043a3dc8adda5b3901a399be468d3535dc3b1/humanlayer/advanced-context-engineering-for-coding-agents",
       "summary": "Summary unavailable."
     }
   ],
