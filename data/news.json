@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T20:48:27.396392",
+  "updated": "2026-07-24T01:17:11.420183",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "published": "2026-07-23T13:51:36",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "published": "2026-07-23T15:18:48",
       "description": "",
-      "image": "data/images/eff83fb620802e2561d988a4c857244f.png",
+      "image": "https://opengraph.githubassets.com/a6bf5c8fb6ecfbfee8c6e37f4f3411da7d464dc175d94ef6352bc4775cf28171/humanlayer/advanced-context-engineering-for-coding-agents",
       "summary": "Summary unavailable."
     },
     {
@@ -188,7 +188,17 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "published": "2026-07-23T15:11:37",
       "description": "",
-      "image": "https://opengraph.githubassets.com/5e59f9255884312898b54c34bfbc71e3fe5b236dc01d750682c31a56c1e3f139/palmier-io/palmier-pro",
+      "image": "https://opengraph.githubassets.com/eb431a3b62b346b2f0ae0ca236d86afb44c752d36866e36e574e871e06928607/palmier-io/palmier-pro",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "published": "2026-07-23T13:51:36",
+      "description": "",
+      "image": "data/images/eff83fb620802e2561d988a4c857244f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,16 +214,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
-      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
-      "published": "2026-07-21T07:10:49",
-      "description": "",
-      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/GO-social-BlogSocialShare-1280x720-1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
       "url": "https://github.com/onecli/onecli",
       "published": "2026-07-23T15:42:40",
@@ -224,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-      "published": "2026-07-23T14:07:38",
+      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "published": "2026-07-23T01:16:14",
       "description": "",
-      "image": "https://prd-sc102-cdn.rtx.com/-/media/rtx/news-images/2026/07/hybrid-electric-flight-demonstrator-engine_test-cell-1920x1080.jpg?rev=1eea54e7348d4c80a8953590bdbe72a0&rid=b07712ad28b94b93a524d8bd29ca9d8d",
+      "image": "data/images/1eca41a8b6172d928a632e176a236d84.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+      "published": "2026-07-21T07:10:49",
+      "description": "",
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/GO-social-BlogSocialShare-1280x720-1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -240,22 +250,12 @@
       "description": "",
       "image": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-hide-debt-off-balance-sheet.jpg?w=1200",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "published": "2026-07-23T15:18:48",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/ad7e9e19ae840dc4fb6b521393919560c0cabb53a423c38fe5ff7b340693dde7/humanlayer/advanced-context-engineering-for-coding-agents",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "speakers": [
       "Alex",
       "Jordan"
