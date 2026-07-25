@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T20:53:45.134337",
+  "updated": "2026-07-25T01:18:02.264303",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "published": "2026-07-23T12:31:21",
+      "description": "",
+      "image": "data/images/c6a77fb144883e8d47617097c9d0f1f2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "published": "2026-07-24T13:32:30",
       "description": "",
       "image": "https://image.cnbcfm.com/api/v1/image/108173882-1752844539526-gettyimages-2225696381-mms28707_1cm2uml7.jpeg?v=1752844582&w=1920&h=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AIs don't do what you want. This is bad",
+      "url": "https://rewardhacking.org",
+      "published": "2026-07-24T22:24:08",
+      "description": "",
+      "image": "https://rewardhacking.org/og.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "published": "2026-07-24T16:33:31",
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "published": "2026-07-21T17:27:59",
       "description": "",
-      "image": "https://i.guim.co.uk/img/media/e3c91fad3c0af25a6cbbd44c6b091bdfdfdd270d/952_0_4448_3558/master/4448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d8a12eef6083a120c19a454c8d40fcfd",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "published": "2026-07-24T09:31:48",
-      "description": "",
-      "image": "https://bfl.ai/api/og/blog/flux-3-mimic",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Self-host your mail server",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "published": "2026-07-23T12:49:10",
-      "description": "",
-      "image": "https://blog.haschek.at/data/renderedposts/selfhostmail.jpg",
+      "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/03/Cursor_Green_1920x1080-1080x720.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -214,18 +214,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Drone-Bench: Tracking simple drone surveillance capabilities of frontier models",
-      "url": "https://andonlabs.com/evals/drone-bench",
-      "published": "2026-07-24T16:34:27",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "published": "2026-07-24T09:31:48",
       "description": "",
-      "image": "https://andonlabs.com/drone_bench_og_image.webp",
+      "image": "https://bfl.ai/api/og/blog/flux-3-mimic",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "published": "2026-07-24T16:33:31",
+      "description": "",
+      "image": "https://i.guim.co.uk/img/media/e3c91fad3c0af25a6cbbd44c6b091bdfdfdd270d/952_0_4448_3558/master/4448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d8a12eef6083a120c19a454c8d40fcfd",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "speakers": [
       "Alex",
       "Jordan"
