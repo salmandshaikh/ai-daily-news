@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T01:20:43.657767",
+  "updated": "2026-07-26T06:31:44.137675",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "published": "2026-07-25T23:32:50",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/2f865a1f55ec1ed97f9791df57d88fca805b065e84a3058cfbdc1e5211939067/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
       "published": "2026-07-25T20:42:35",
@@ -174,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Clinical Failure Rates over the Decades: Yikes",
+      "title": "Rethinking Legal Education in the AI Era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "published": "2026-07-23T17:12:48",
+      "description": "",
+      "image": "data/images/ba93fbf1314a053a2b3305d655115840.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Clinical failure rates over the decades: yikes",
       "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
       "published": "2026-07-25T22:57:17",
       "description": "",
-      "image": "data/images/c5d43295f6b17eece3be054e5ee04bf2.png",
+      "image": "data/images/e39dacc983e3f3b6b414a127033f5239.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "published": "2026-07-25T18:59:50",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/f69da0461c4e43fbaf2d224e2c4e008a24eec8598a4a132fd3b4a3a4fcbeb0f0/slvDev/esp32-ai",
       "summary": "Summary unavailable."
     },
     {
@@ -204,16 +214,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "published": "2026-07-25T18:59:50",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/90aae8c8591cfa87950f0d5065e46a12305aa0cefeb76b7a0e58593b4b98a5a6/slvDev/esp32-ai",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Open-weight AI is having its Kubernetes moment",
       "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "published": "2026-07-25T14:49:49",
@@ -224,21 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "published": "2026-07-25T17:34:34",
+      "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+      "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+      "published": "2026-07-23T02:01:53",
       "description": "",
-      "image": "data/images/167aa431809502cdcb8acb72848d8a7a.png",
+      "image": "data/images/b016a18f4fbc75a699cab34647723bdb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Becoming a Research Engineer at a Big LLM Lab",
-      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-      "published": "2026-07-25T21:19:42",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "published": "2026-07-25T17:34:34",
       "description": "",
-      "image": "data/images/8444bf290b280a71f5c7d27be551b658.png",
+      "image": "data/images/167aa431809502cdcb8acb72848d8a7a.png",
       "summary": "Summary unavailable."
     }
   ],
