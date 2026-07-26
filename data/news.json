@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T09:49:31.832311",
+  "updated": "2026-07-26T12:50:06.177299",
   "articles": [
     {
       "source": "RSS",
@@ -194,41 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Rethinking Legal Education in the AI Era",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "published": "2026-07-23T17:12:48",
-      "description": "",
-      "image": "data/images/ba93fbf1314a053a2b3305d655115840.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
       "url": "https://github.com/slvDev/esp32-ai",
       "published": "2026-07-25T18:59:50",
       "description": "",
-      "image": "https://opengraph.githubassets.com/54f94509e2a4ff50129eff77dffacd7316879e6e38d58fd735358912258dc121/slvDev/esp32-ai",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "published": "2026-07-25T22:57:17",
-      "description": "",
-      "image": "data/images/e39dacc983e3f3b6b414a127033f5239.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM Usage in Debian: Three Proposals",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "published": "2026-07-25T19:44:39",
-      "description": "",
-      "image": "data/images/2ebe4761be019b5922019e6f2cd432c2.png",
+      "image": "https://opengraph.githubassets.com/aae29b5ad73a31b5c7a2ae7263db8207938aed8d4c4dbb6b7aad44abc4f4e1da/slvDev/esp32-ai",
       "summary": "Summary unavailable."
     },
     {
@@ -244,11 +214,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "published": "2026-07-25T17:34:34",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "published": "2026-07-25T19:44:39",
       "description": "",
-      "image": "data/images/167aa431809502cdcb8acb72848d8a7a.png",
+      "image": "data/images/2ebe4761be019b5922019e6f2cd432c2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Rethinking Legal Education in the AI Era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "published": "2026-07-23T17:12:48",
+      "description": "",
+      "image": "data/images/ba93fbf1314a053a2b3305d655115840.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "published": "2026-07-25T22:57:17",
+      "description": "",
+      "image": "data/images/e39dacc983e3f3b6b414a127033f5239.png",
       "summary": "Summary unavailable."
     }
   ],
