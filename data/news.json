@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-27T06:53:23.929927",
+  "updated": "2026-07-27T10:59:16.793873",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "image": "data/images/f6229363feff7f7e2100084d363bdaa3.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 22 Jul 2026 12:00:00 GMT",
       "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "image": "data/images/956cc7dc34735d40ef9f5b99b7b0834c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "published": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "image": "data/images/49504997428a6309aa554a3f170e53eb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,21 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "published": "Mon, 27 Jul 2026 09:32:20 GMT",
       "description": "",
-      "image": "data/images/fe925817db495e8bb0461b4f57d7c19c.png",
+      "image": "data/images/766ea80c122f8d982528bfc3ce1538d5.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "published": "Tue, 21 Jul 2026 20:00:27 GMT",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/e8eac5d7d906f2f58b63caf263845122.png",
+      "image": "data/images/fe925817db495e8bb0461b4f57d7c19c.png",
       "summary": "Summary unavailable."
     },
     {
