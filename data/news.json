@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T20:43:33.026889",
+  "updated": "2026-07-27T01:25:01.191911",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "It's not empowering to hand off the details",
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "published": "2026-07-26T17:58:02",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "published": "2026-07-26T22:21:41",
       "description": "",
-      "image": "data/images/cfc23fbb10fd26b2ba2f038a3a27ee7a.png",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-26-image-4.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -170,52 +170,12 @@
       "description": "",
       "image": "https://substackcdn.com/image/fetch/$s_!R31O!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a57282a-143c-41d8-a777-084d8e097340_498x498.gif",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "published": "2026-07-26T14:40:27",
-      "description": "",
-      "image": "https://aerospaceglobalnews.com/wp-content/uploads/2026/07/6a61de120354b41c5c00cf08.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "published": "2026-07-26T05:57:22",
-      "description": "",
-      "image": "https://discuss.grapheneos.org/opengraph.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rethinking legal education in the AI era",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "published": "2026-07-23T17:12:48",
-      "description": "",
-      "image": "data/images/a5651e50af0d73e46180c584473957cf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "published": "2026-07-26T10:32:35",
-      "description": "",
-      "image": "data/images/62409f73bffe52a8776cb5a1db8db345.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "speakers": [
       "Alex",
       "Jordan"
