@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T20:58:41.126816",
+  "updated": "2026-07-28T01:13:16.593985",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "published": "2026-07-27T22:03:49",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Self-contained highly-portable Python distributions",
       "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
       "published": "2026-07-27T18:43:31",
       "description": "",
       "image": "data/images/e57647440d79796efb17271d1bcbb7aa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "published": "2026-07-27T23:46:15",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+      "published": "2026-07-27T23:21:37",
+      "description": "",
+      "image": "data/images/36d958d0e0458baa02ce48a7b4027848.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Securing Services with Rootless Containers",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "published": "2026-07-23T13:11:30",
+      "description": "",
+      "image": "data/images/932b4a164e52a3bc0eadab3e6f76d18c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,42 +230,12 @@
       "description": "",
       "image": "https://microsoft.ai/wp-content/uploads/2026/07/Cyber-1-New-Header.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "published": "2026-07-23T13:11:30",
-      "description": "",
-      "image": "data/images/932b4a164e52a3bc0eadab3e6f76d18c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-      "published": "2026-07-27T19:46:05",
-      "description": "",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-27-image-2.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Modern email can be built from borrowed parts",
-      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-      "published": "2026-07-27T08:27:21",
-      "description": "",
-      "image": "https://img.andros.dev/6A_ACb4GAjMHuPelfFnMUuM8KS4=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/kristina-tripkovic-8Zs5H6CnYJo-unsplash.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "speakers": [
       "Alex",
       "Jordan"
