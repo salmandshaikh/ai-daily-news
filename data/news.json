@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T10:17:37.804175",
+  "updated": "2026-07-28T13:23:56.078053",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI revenues are growing fast, but not fast enough",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+      "published": "2026-07-28T12:19:54",
+      "description": "",
+      "image": "data/images/e26d7106350ba28704a89d3ed6869aad.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "published": "2026-07-28T09:59:13",
+      "description": "",
+      "image": "data/images/d29d9007594c061d10a612cd71b97040.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "published": "2026-07-27T22:03:49",
       "description": "",
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "published": "2026-07-28T13:07:14",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/96d563184fd3cc20185af91965591c019c93d81e670c5d502aa77b9e6b3a45f2/schildep/verified-3d-mesh-intersection",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "published": "2026-07-28T13:13:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/d8a9afcc4b5719c0fdd29d6d9c03acd3f1c356df315c2b0ec584f605012140a1/ctrlb-hq/ctrlb-decompose",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+      "published": "2026-07-28T12:02:57",
+      "description": "",
+      "image": "https://speedmedia2.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2024/04/10150531/Coder-JFrog-Fusion-Blog_Thumbnail.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "published": "2026-07-28T02:37:14",
+      "title": "What AI developers could learn from Charles Bukowski?",
+      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+      "published": "2026-07-28T13:00:12",
       "description": "",
-      "image": "data/images/9addc67af36dfac2b990caf313d45104.png",
+      "image": "https://galjot.si/_blog/img/2026/ai-developers-bukowski-social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "published": "2026-07-28T10:20:50",
+      "description": "",
+      "image": "https://ciphercue.com/img/og-card.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,46 +249,6 @@
       "published": "2026-07-27T22:46:28",
       "description": "",
       "image": "https://dotcom-payload-assets-prod.s3.us-east-1.amazonaws.com/cms-media/58db2ca1-0d1d-40c8-9ef5-a79897cb9ce9-a2f51d62.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
-      "url": "https://github.com/FrigadeHQ/yap",
-      "published": "2026-07-27T18:36:02",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b979803a0d692cf7239bc63a7662345ecfe9101464c27cbf878d223a324de176/FrigadeHQ/yap",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "published": "2026-07-27T18:43:31",
-      "description": "",
-      "image": "data/images/e57647440d79796efb17271d1bcbb7aa.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "published": "2026-07-23T13:11:30",
-      "description": "",
-      "image": "data/images/932b4a164e52a3bc0eadab3e6f76d18c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-      "published": "2026-07-27T23:21:37",
-      "description": "",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/netflix-exec-ketamine-firing-trust-exercise-comp.jpg?quality=75&strip=all&w=1200",
       "summary": "Summary unavailable."
     }
   ],
