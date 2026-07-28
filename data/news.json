@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T17:15:38.522237",
+  "updated": "2026-07-28T20:55:17.227305",
   "articles": [
     {
       "source": "RSS",
@@ -134,61 +134,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "published": "Mon, 27 Jul 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/fe925817db495e8bb0461b4f57d7c19c.png",
+      "image": "data/images/ced02ad3ec2ea88b84e3ddee0caa3622.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "published": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/a9b5c5b468cc9762fd6dcba742adc5d3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "url": "https://arxiv.org/abs/1202.4212",
-      "published": "2026-07-28T15:20:35",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "published": "2026-07-28T10:20:50",
-      "description": "",
-      "image": "https://ciphercue.com/img/og-card.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "published": "2026-07-28T13:07:14",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/0926556e0aec42836d77450a31d7cf1f5d6b766da7c590fde52b47a9e0223271/schildep/verified-3d-mesh-intersection",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "published": "2026-07-28T09:59:13",
-      "description": "",
-      "image": "data/images/d29d9007594c061d10a612cd71b97040.png",
+      "image": "data/images/fe925817db495e8bb0461b4f57d7c19c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,41 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules",
-      "url": "https://necroticgnome.com/collections/dolmenwood",
-      "published": "2026-07-24T22:34:05",
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "url": "https://arxiv.org/abs/1202.4212",
+      "published": "2026-07-28T15:20:35",
       "description": "",
-      "image": "http://necroticgnome.com/cdn/shop/files/Face_Text_Horizontal_Black_Texture_1000w.png?height=628&pad_color=ffffff&v=1689102816&width=1200",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "published": "2026-07-28T12:02:57",
-      "description": "",
-      "image": "https://speedmedia2.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2024/04/10150531/Coder-JFrog-Fusion-Blog_Thumbnail.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "published": "2026-07-28T02:18:53",
-      "description": "",
-      "image": "https://fermisense.com/when-machines-take-the-wheel/og.png?v=2",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
+      "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
       "published": "2026-07-28T14:48:13",
       "description": "",
       "image": "http://unawatch.com/cdn/shop/files/linkedin_banner.jpg?v=1756823125",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "published": "2026-07-28T10:20:50",
+      "description": "",
+      "image": "https://ciphercue.com/img/og-card.png",
       "summary": "Summary unavailable."
     }
   ],
