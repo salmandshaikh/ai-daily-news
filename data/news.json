@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T01:13:16.593985",
+  "updated": "2026-07-28T06:17:00.228135",
   "articles": [
     {
       "source": "RSS",
@@ -164,31 +164,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "published": "2026-07-28T02:37:14",
+      "description": "",
+      "image": "data/images/9addc67af36dfac2b990caf313d45104.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "published": "2026-07-28T02:18:53",
+      "description": "",
+      "image": "https://fermisense.com/when-machines-take-the-wheel/og.png?v=2",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "published": "2026-07-27T18:36:02",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/30030b4a29a077b8c048fdacffead923e26011db26d2ef11cd9745df7d6906c1/FrigadeHQ/yap",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "published": "2026-07-27T22:46:28",
+      "description": "",
+      "image": "https://dotcom-payload-assets-prod.s3.us-east-1.amazonaws.com/cms-media/58db2ca1-0d1d-40c8-9ef5-a79897cb9ce9-a2f51d62.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Self-contained highly-portable Python distributions",
       "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
       "published": "2026-07-27T18:43:31",
       "description": "",
       "image": "data/images/e57647440d79796efb17271d1bcbb7aa.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
-      "published": "2026-07-27T23:46:15",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
-      "published": "2026-07-27T23:21:37",
-      "description": "",
-      "image": "data/images/36d958d0e0458baa02ce48a7b4027848.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,31 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "published": "2026-07-27T15:08:16",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "published": "2026-07-27T23:46:15",
       "description": "",
-      "image": "https://eaton-works.com/promo_gfx/volvo-eicher.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: FeyNoBg \u2013 Automatic background removal model and training library",
-      "url": "https://usefeyn.com/blog/feynobg/",
-      "published": "2026-07-27T16:59:08",
-      "description": "",
-      "image": "https://usefeyn.com/blog/feynobg/feynobg-cover.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MAI-Cyber-1-Flash inside MDASH",
-      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-      "published": "2026-07-27T16:52:22",
-      "description": "",
-      "image": "https://microsoft.ai/wp-content/uploads/2026/07/Cyber-1-New-Header.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
