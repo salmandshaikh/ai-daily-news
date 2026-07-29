@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T10:23:58.414880",
+  "updated": "2026-07-29T13:29:52.527397",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "published": "2026-07-29T11:44:33",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
       "published": "2026-07-29T04:58:46",
@@ -164,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
-      "url": "https://learnvector.ai/",
-      "published": "2026-07-29T01:49:19",
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "published": "2026-07-29T12:11:18",
       "description": "",
-      "image": "https://learnvector.ai/assets/social-card.jpg",
+      "image": "https://github.blog/wp-content/uploads/2026/01/github-generic-security-blocks-logo.png?fit=1920%2C1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
+      "url": "https://echologue.com/",
+      "published": "2026-07-29T12:43:36",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
-      "url": "https://unawatch.com/",
-      "published": "2026-07-28T14:48:13",
+      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+      "url": "https://learnvector.ai/",
+      "published": "2026-07-29T01:49:19",
       "description": "",
-      "image": "http://unawatch.com/cdn/shop/files/linkedin_banner.jpg?v=1756823125",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "published": "2026-07-27T12:56:36",
-      "description": "",
-      "image": "data/images/2c6797d8a74af068a8d83dff21f50eee.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Now is the time to give LLMs access to the ACM digital library",
-      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "published": "2026-07-28T15:01:12",
-      "description": "",
-      "image": "data/images/240041a4c44da6e17e41424d66bcc772.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ChatGPT claims rogue AI attacked more companies",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-      "published": "2026-07-29T09:03:17",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
+      "image": "https://learnvector.ai/assets/social-card.jpg",
       "summary": "Summary unavailable."
     }
   ],
