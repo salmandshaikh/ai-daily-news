@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-29T20:41:47.338630",
+  "updated": "2026-07-30T01:08:40.018612",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "image": "data/images/f0156b97258ce3f9a9e0cac27290e4d6.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Mon, 27 Jul 2026 03:30:00 GMT",
       "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "image": "data/images/f6229363feff7f7e2100084d363bdaa3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "image": "data/images/9d11238ed87f3cc2b7a592874efac76d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "published": "2026-07-29T21:25:40",
+      "description": "",
+      "image": "data/images/8daefa0fc46462d1af9a0f16ff0914e7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "published": "2026-07-29T21:06:42",
+      "description": "",
+      "image": "https://zachholman.com/images/unfurl.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "published": "2026-07-29T22:51:03",
+      "description": "",
+      "image": "data/images/7cc5d91e74add25fb282e4dfbd8533fe.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
       "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
       "published": "2026-07-29T11:44:33",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+      "published": "2026-07-26T22:18:42",
+      "description": "",
+      "image": "https://iza.ac/social-cards/posts-2026-07-the-journey-of-bamya.png",
       "summary": "Summary unavailable."
     },
     {
@@ -180,22 +220,12 @@
       "description": "",
       "image": "data/images/8824ad34ac7dc77e15deda48882e9a90.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "published": "2026-07-29T14:56:28",
-      "description": "",
-      "image": "https://framerusercontent.com/images/zsGtVGVvu1F0gBl160qdoLs0oAM.webp?width=2400&height=1350",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "speakers": [
       "Alex",
       "Jordan"
