@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-30T17:12:45.649013",
+  "updated": "2026-07-30T20:53:55.792898",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "published": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "description": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale.",
+      "image": "data/images/53c0903699bdabded21760bb081815ea.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 28 Jul 2026 17:00:00 GMT",
       "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
       "image": "data/images/3bfed34eef65c57aab51825adfc99b10.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "image": "data/images/f6229363feff7f7e2100084d363bdaa3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-      "url": "https://github.com/n67094/sdl_gp",
-      "published": "2026-07-30T14:36:59",
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "published": "2026-07-25T14:27:05",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d05d50d109dc522b432e130abba5cc86633898ef5391694d985798f53f6d921e/n67094/SDL_gp",
+      "image": "https://obryant.dev/cards/47ab05e579879488de4768ed2c0f3c2d096b6732.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
-      "url": "https://github.com/hamzarehmandeveloper/claude-account",
-      "published": "2026-07-30T14:58:59",
+      "title": "Advancing the price-performance frontier with GPT\u20115.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "published": "2026-07-30T17:15:51",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ec8b36175deee1e801e9d7e4eb3870c69b909b1b0916c1b8f39a008c80d6fc1c/hamzarehmandeveloper/claude-account",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3YlohIkWAmTKqtreNc2Qwt/1ba93da6a8cb574aa0b299277874dbac/Frame__3_.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "url": "https://github.com/grafana/ai-sdk",
-      "published": "2026-07-30T11:55:39",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "published": "2026-07-30T17:31:07",
       "description": "",
-      "image": "https://opengraph.githubassets.com/eaa4e43cbb415dea4f8e2215e3012bb910df1638ebc101f1ead4619da8140667/grafana/ai-sdk",
+      "image": "https://bottlenecklabs.com/blog/autonomously-run-businesses/og-autonomous-business.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "published": "2026-07-30T18:13:06",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/67c5c67a4c758597bd28fafd/6a69e158f9fd4e8b99da4607_OG%20Card-selection.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "published": "2026-07-30T11:45:44",
+      "description": "",
+      "image": "data/images/b2cff8e804b727f8f5dfa2a400a79718.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Optimize and serve models with Fable quality at half the cost",
+      "url": "https://github.com/experientiallabs/world-model-optimizer",
+      "published": "2026-07-26T23:35:15",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/dafd11cc7a23bf69728174b2b303b69f92383e49b409082bb86201b8eb80272c/experientiallabs/world-model-optimizer",
       "summary": "Summary unavailable."
     }
   ],
