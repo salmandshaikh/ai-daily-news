@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T01:08:40.018612",
+  "updated": "2026-07-30T06:15:59.995340",
   "articles": [
     {
       "source": "RSS",
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "published": "2026-07-29T21:06:42",
-      "description": "",
-      "image": "https://zachholman.com/images/unfurl.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "LLM Honeypot",
       "url": "https://llm2human.pages.dev/",
       "published": "2026-07-29T22:51:03",
@@ -184,21 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "published": "2026-07-29T11:44:33",
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "published": "2026-07-29T21:06:42",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://zachholman.com/images/unfurl.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-      "published": "2026-07-26T22:18:42",
+      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
+      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
+      "published": "2026-07-30T05:33:30",
       "description": "",
-      "image": "https://iza.ac/social-cards/posts-2026-07-the-journey-of-bamya.png",
+      "image": "https://noyb.eu/sites/default/files/styles/facebook/public/2026-07/header_dictcc.png?h=c9a3a702&itok=bvl4l6Lx",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "published": "2026-07-29T15:55:27",
+      "description": "",
+      "image": "data/images/8824ad34ac7dc77e15deda48882e9a90.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "published": "2026-07-29T15:55:27",
+      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+      "published": "2026-07-26T22:18:42",
       "description": "",
-      "image": "data/images/8824ad34ac7dc77e15deda48882e9a90.png",
+      "image": "https://iza.ac/social-cards/posts-2026-07-the-journey-of-bamya.png",
       "summary": "Summary unavailable."
     }
   ],
