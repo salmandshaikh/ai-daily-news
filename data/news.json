@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:19:48.191204",
+  "updated": "2026-07-30T17:12:45.649013",
   "articles": [
     {
       "source": "RSS",
@@ -54,11 +54,31 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "published": "Thu, 30 Jul 2026 15:00:59 +0000",
+      "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "image": "data/images/b874a4e292426a824d98450136290efb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "published": "Wed, 29 Jul 2026 16:02:10 +0000",
       "description": "",
       "image": "data/images/7c916ac4669144bf184355b63b29f8cc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "published": "Tue, 28 Jul 2026 13:21:37 +0000",
+      "description": "",
+      "image": "data/images/6086714862d697a9cdf01d668da47770.png",
       "summary": "Summary unavailable."
     },
     {
@@ -83,22 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "published": "Fri, 17 Jul 2026 15:00:11 +0000",
-      "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published": "Thu, 16 Jul 2026 09:30:42 +0000",
-      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "image": "data/images/d3645a5dcd803478ddf6dcda9b83b04a.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "published": "Thu, 30 Jul 2026 15:09:09 GMT",
+      "description": "",
+      "image": "data/images/272f7b6fe94edb60ca9c6c834b639c37.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,73 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "url": "https://github.com/n67094/sdl_gp",
+      "published": "2026-07-30T14:36:59",
       "description": "",
-      "image": "data/images/fe925817db495e8bb0461b4f57d7c19c.png",
+      "image": "https://opengraph.githubassets.com/d05d50d109dc522b432e130abba5cc86633898ef5391694d985798f53f6d921e/n67094/SDL_gp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "url": "https://openjdk.org/legal/ai",
-      "published": "2026-07-30T12:36:38",
+      "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "published": "2026-07-30T14:58:59",
       "description": "",
-      "image": "data/images/1cab99eb32e3f76c164f5e4b038c0a37.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "published": "2026-07-29T21:25:40",
-      "description": "",
-      "image": "data/images/8daefa0fc46462d1af9a0f16ff0914e7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-      "published": "2026-07-30T09:28:01",
-      "description": "",
-      "image": "data/images/fa220acac3d9a518660d184a0f70947f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "published": "2026-07-30T12:01:05",
-      "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/bb1239ee67e01455546fe8a413724b572346e680.png?1745870357",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "published": "2026-07-30T11:45:44",
-      "description": "",
-      "image": "data/images/b2cff8e804b727f8f5dfa2a400a79718.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "published": "2026-07-29T22:51:03",
-      "description": "",
-      "image": "data/images/7cc5d91e74add25fb282e4dfbd8533fe.png",
+      "image": "https://opengraph.githubassets.com/ec8b36175deee1e801e9d7e4eb3870c69b909b1b0916c1b8f39a008c80d6fc1c/hamzarehmandeveloper/claude-account",
       "summary": "Summary unavailable."
     },
     {
@@ -218,27 +178,7 @@
       "url": "https://github.com/grafana/ai-sdk",
       "published": "2026-07-30T11:55:39",
       "description": "",
-      "image": "https://opengraph.githubassets.com/a71cc3763a6fa68f41239a063730a3a19a0b2471f11af80d5443294833a3dde1/grafana/ai-sdk",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-      "published": "2026-07-30T11:30:34",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "published": "2026-07-29T21:06:42",
-      "description": "",
-      "image": "https://zachholman.com/images/unfurl.jpg",
+      "image": "https://opengraph.githubassets.com/eaa4e43cbb415dea4f8e2215e3012bb910df1638ebc101f1ead4619da8140667/grafana/ai-sdk",
       "summary": "Summary unavailable."
     }
   ],
