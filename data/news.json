@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T20:53:55.792898",
+  "updated": "2026-07-31T01:21:08.728575",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "published": "2026-07-25T14:27:05",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "published": "2026-07-30T23:22:16",
       "description": "",
-      "image": "https://obryant.dev/cards/47ab05e579879488de4768ed2c0f3c2d096b6732.png",
+      "image": "data/images/4a819e9a8d3c281c2efb000787068c65.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "published": "2026-07-30T17:31:07",
-      "description": "",
-      "image": "https://bottlenecklabs.com/blog/autonomously-run-businesses/og-autonomous-business.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
       "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
       "published": "2026-07-30T18:13:06",
       "description": "",
       "image": "https://cdn.prod.website-files.com/67c5c67a4c758597bd28fafd/6a69e158f9fd4e8b99da4607_OG%20Card-selection.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "published": "2026-07-25T14:27:05",
+      "description": "",
+      "image": "https://obryant.dev/cards/47ab05e579879488de4768ed2c0f3c2d096b6732.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,18 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Optimize and serve models with Fable quality at half the cost",
-      "url": "https://github.com/experientiallabs/world-model-optimizer",
-      "published": "2026-07-26T23:35:15",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "published": "2026-07-30T17:31:07",
       "description": "",
-      "image": "https://opengraph.githubassets.com/dafd11cc7a23bf69728174b2b303b69f92383e49b409082bb86201b8eb80272c/experientiallabs/world-model-optimizer",
+      "image": "https://bottlenecklabs.com/blog/autonomously-run-businesses/og-autonomous-business.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "speakers": [
       "Alex",
       "Jordan"
