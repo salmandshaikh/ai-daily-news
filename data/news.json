@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-31T17:14:50.182527",
+  "updated": "2026-07-31T20:50:03.725949",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "image": "data/images/b611f4451d60e052eac10c408b3c69a9.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,6 +29,16 @@
       "published": "Fri, 31 Jul 2026 07:00:00 GMT",
       "description": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "image": "data/images/8566d59a8b9a51cc7444ae7433847a29.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "image": "data/images/b611f4451d60e052eac10c408b3c69a9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,49 +154,49 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-      "url": "https://swe-rebench.com",
-      "published": "2026-07-31T15:28:28",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "published": "2026-07-31T19:03:45",
       "description": "",
-      "image": "https://swe-rebench.com/opengraph-image.png?ab883fadb2bf5f49",
+      "image": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "published": "2026-07-31T07:29:22",
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "published": "2026-07-31T18:39:47",
       "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
+      "image": "https://opengraph.githubassets.com/a14e31cda43f4066af1e6ac174bf095a4ea64f324cab4037243c2f47f065d636/golang/go/issues/80590",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "published": "2026-07-31T15:29:39",
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "published": "2026-07-31T18:06:39",
       "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg",
+      "image": "https://manifest.build/images/blog/why-we-deprecated-our-llm-router.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "published": "2026-07-31T05:17:29",
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "published": "2026-07-31T18:30:44",
       "description": "",
-      "image": "https://marbleos.com/hn-og.png",
+      "image": "https://static.media.ccc.de/media/events/emf/2026/7401-a5fdc3db-2879-551b-80b1-fd11f5a1ae73_preview.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "url": "https://arxiv.org/abs/2607.27197",
-      "published": "2026-07-31T11:37:12",
+      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "url": "https://arxiv.org/abs/2607.28545",
+      "published": "2026-07-31T18:32:43",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
@@ -204,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Situational Awareness down 67% in July in AI stock rout",
-      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "published": "2026-07-31T13:37:36",
+      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+      "url": "https://swe-rebench.com",
+      "published": "2026-07-31T15:28:28",
       "description": "",
-      "image": "data/images/54d22f7101b5d07e48a11c1d0d1bf5d5.png",
+      "image": "https://swe-rebench.com/opengraph-image.png?ab883fadb2bf5f49",
       "summary": "Summary unavailable."
     }
   ],
