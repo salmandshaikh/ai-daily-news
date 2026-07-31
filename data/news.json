@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T01:21:08.728575",
+  "updated": "2026-07-31T06:36:14.057981",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Thu, 30 Jul 2026 10:00:00 GMT",
       "description": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale.",
       "image": "data/images/53c0903699bdabded21760bb081815ea.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "published": "Thu, 30 Jul 2026 00:00:00 GMT",
+      "description": "avatarin uses OpenAI\u2019s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "image": "data/images/c4a55fb6516ac206c7c48393f7f2fde2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Wed, 29 Jul 2026 00:00:00 GMT",
       "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "image": "data/images/2fc4172065b5fd5338e04fdb194a736c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "published": "Tue, 28 Jul 2026 17:00:00 GMT",
-      "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "image": "data/images/3bfed34eef65c57aab51825adfc99b10.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,31 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Advancing the price-performance frontier with GPT\u20115.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "published": "2026-07-30T17:15:51",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "published": "2026-07-31T05:17:29",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3YlohIkWAmTKqtreNc2Qwt/1ba93da6a8cb574aa0b299277874dbac/Frame__3_.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "published": "2026-07-30T18:13:06",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/67c5c67a4c758597bd28fafd/6a69e158f9fd4e8b99da4607_OG%20Card-selection.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "published": "2026-07-25T14:27:05",
-      "description": "",
-      "image": "https://obryant.dev/cards/47ab05e579879488de4768ed2c0f3c2d096b6732.png",
+      "image": "https://marbleos.com/hn-og.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "published": "2026-07-30T17:31:07",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "published": "2026-07-30T18:13:06",
       "description": "",
-      "image": "https://bottlenecklabs.com/blog/autonomously-run-businesses/og-autonomous-business.png",
+      "image": "https://cdn.prod.website-files.com/67c5c67a4c758597bd28fafd/6a69e158f9fd4e8b99da4607_OG%20Card-selection.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Advancing the price-performance frontier with GPT\u20115.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "published": "2026-07-30T17:15:51",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3YlohIkWAmTKqtreNc2Qwt/1ba93da6a8cb574aa0b299277874dbac/Frame__3_.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     }
   ],
