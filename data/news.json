@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T20:50:03.725949",
+  "updated": "2026-08-01T01:23:28.245015",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
+      "published": "2026-07-28T13:31:25",
+      "description": "",
+      "image": "https://weeraman.com/images/because-we-can/because-we-can.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Golang proposal: container/: generic collection types",
       "url": "https://github.com/golang/go/issues/80590",
       "published": "2026-07-31T18:39:47",
       "description": "",
-      "image": "https://opengraph.githubassets.com/a14e31cda43f4066af1e6ac174bf095a4ea64f324cab4037243c2f47f065d636/golang/go/issues/80590",
+      "image": "https://opengraph.githubassets.com/f7ff29710358cbe41d0bbf1c9a5672f108c377c914ab855eb35aa7605c73b2ff/golang/go/issues/80590",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+      "published": "2026-07-29T11:59:10",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/tiffany-s-transatlantic-cable-souvenir.jpg?id=25590015&width=1200&height=600&coordinates=0%2C155%2C0%2C155",
       "summary": "Summary unavailable."
     },
     {
@@ -194,28 +214,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-      "url": "https://arxiv.org/abs/2607.28545",
-      "published": "2026-07-31T18:32:43",
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "published": "2026-07-31T15:29:39",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-      "url": "https://swe-rebench.com",
-      "published": "2026-07-31T15:28:28",
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "published": "2026-07-31T19:55:41",
       "description": "",
-      "image": "https://swe-rebench.com/opengraph-image.png?ab883fadb2bf5f49",
+      "image": "data/images/6406f974c09f3b2cebceebb4ed094c20.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Britain's New World of Tobacco (2017)",
+      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+      "published": "2026-07-29T06:54:23",
+      "description": "",
+      "image": "data/images/6f424fcb9763eaa512fd955c07e9b4c0.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "speakers": [
       "Alex",
       "Jordan"
