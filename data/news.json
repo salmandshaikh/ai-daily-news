@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T01:23:28.245015",
+  "updated": "2026-08-01T06:19:11.536717",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "published": "2026-08-01T02:45:09",
+      "description": "",
+      "image": "data/images/885ccd63ca42493f3d86a5828f62f8e7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Tailscale didn't stop the Hugging Face intrusion",
       "url": "https://tailscale.com/blog/hugging-face-intrusion",
       "published": "2026-07-31T19:03:45",
@@ -174,41 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Golang proposal: container/: generic collection types",
-      "url": "https://github.com/golang/go/issues/80590",
-      "published": "2026-07-31T18:39:47",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f7ff29710358cbe41d0bbf1c9a5672f108c377c914ab855eb35aa7605c73b2ff/golang/go/issues/80590",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
       "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
       "published": "2026-07-29T11:59:10",
       "description": "",
       "image": "https://spectrum.ieee.org/media-library/tiffany-s-transatlantic-cable-souvenir.jpg?id=25590015&width=1200&height=600&coordinates=0%2C155%2C0%2C155",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "published": "2026-07-31T18:06:39",
-      "description": "",
-      "image": "https://manifest.build/images/blog/why-we-deprecated-our-llm-router.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Using the railway network as a flatbed scanner [video]",
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "published": "2026-07-31T18:30:44",
-      "description": "",
-      "image": "https://static.media.ccc.de/media/events/emf/2026/7401-a5fdc3db-2879-551b-80b1-fd11f5a1ae73_preview.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -224,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "published": "2026-07-31T19:55:41",
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "published": "2026-07-31T18:39:47",
       "description": "",
-      "image": "data/images/6406f974c09f3b2cebceebb4ed094c20.png",
+      "image": "https://opengraph.githubassets.com/73c59588736fbef5420569941c758ee9d2b8ac5fc634fc08720b0a0531de9f79/golang/go/issues/80590",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Britain's New World of Tobacco (2017)",
-      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-      "published": "2026-07-29T06:54:23",
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "published": "2026-07-31T18:30:44",
       "description": "",
-      "image": "data/images/6f424fcb9763eaa512fd955c07e9b4c0.png",
+      "image": "https://static.media.ccc.de/media/events/emf/2026/7401-a5fdc3db-2879-551b-80b1-fd11f5a1ae73_preview.jpg",
       "summary": "Summary unavailable."
     }
   ],
