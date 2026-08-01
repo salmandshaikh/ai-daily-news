@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-01T06:19:11.536717",
+  "updated": "2026-08-01T09:48:28.927587",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "published": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "image": "data/images/1aaa32314d510d4337c932429b38749d.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Fri, 31 Jul 2026 00:00:00 GMT",
       "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "image": "data/images/b611f4451d60e052eac10c408b3c69a9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "published": "Thu, 30 Jul 2026 10:00:00 GMT",
-      "description": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale.",
-      "image": "data/images/53c0903699bdabded21760bb081815ea.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "published": "2026-08-01T07:52:10",
+      "description": "",
+      "image": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
       "published": "2026-08-01T02:45:09",
@@ -164,41 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "published": "2026-07-31T19:03:45",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "published": "2026-07-31T07:29:22",
       "description": "",
-      "image": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
-      "published": "2026-07-28T13:31:25",
-      "description": "",
-      "image": "https://weeraman.com/images/because-we-can/because-we-can.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-      "published": "2026-07-29T11:59:10",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/tiffany-s-transatlantic-cable-souvenir.jpg?id=25590015&width=1200&height=600&coordinates=0%2C155%2C0%2C155",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "published": "2026-07-31T15:29:39",
-      "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
       "summary": "Summary unavailable."
     },
     {
@@ -209,16 +189,6 @@
       "published": "2026-07-31T18:39:47",
       "description": "",
       "image": "https://opengraph.githubassets.com/73c59588736fbef5420569941c758ee9d2b8ac5fc634fc08720b0a0531de9f79/golang/go/issues/80590",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Using the railway network as a flatbed scanner [video]",
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "published": "2026-07-31T18:30:44",
-      "description": "",
-      "image": "https://static.media.ccc.de/media/events/emf/2026/7401-a5fdc3db-2879-551b-80b1-fd11f5a1ae73_preview.jpg",
       "summary": "Summary unavailable."
     }
   ],
