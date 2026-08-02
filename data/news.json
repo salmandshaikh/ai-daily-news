@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T20:38:18.032432",
+  "updated": "2026-08-02T01:19:58.990262",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
-      "published": "2026-08-01T16:45:40",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "published": "2026-08-01T22:25:12",
       "description": "",
-      "image": "https://kaisel.dev/og.png",
+      "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&itok=Zfv-5Ys6",
       "summary": "Summary unavailable."
     },
     {
@@ -174,18 +174,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
+      "url": "https://kaisel.dev/",
+      "published": "2026-08-01T16:45:40",
+      "description": "",
+      "image": "https://kaisel.dev/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
       "published": "2026-08-01T02:45:09",
       "description": "",
       "image": "data/images/885ccd63ca42493f3d86a5828f62f8e7.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "published": "2026-07-27T23:46:15",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "speakers": [
       "Alex",
       "Jordan"
