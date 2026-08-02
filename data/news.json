@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T01:19:58.990262",
+  "updated": "2026-08-02T06:24:44.413631",
   "articles": [
     {
       "source": "RSS",
@@ -164,41 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "P[drive failure]: how reliable is your NAS?",
+      "url": "https://khz.ac/low-voltage/drive-failure.html",
+      "published": "2026-07-30T19:18:54",
+      "description": "",
+      "image": "data/images/4bac4d5b773e60d1119a116f5fb2f866.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: CostPerPrompt \u2013 Live AI API pricing and real-workload cost calculators",
+      "url": "https://costperprompt.com/",
+      "published": "2026-08-02T01:56:44",
+      "description": "",
+      "image": "data/images/596fc3370fee71f2ae180fd27c23a1de.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Explorative modeling: Train on the best of K guesses",
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
       "published": "2026-08-01T15:23:15",
       "description": "",
       "image": "https://alexiglad.github.io/assets/img/blog/xm/banner_xm.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
-      "published": "2026-08-01T16:45:40",
-      "description": "",
-      "image": "https://kaisel.dev/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "published": "2026-08-01T02:45:09",
-      "description": "",
-      "image": "data/images/885ccd63ca42493f3d86a5828f62f8e7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
-      "published": "2026-07-27T23:46:15",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
