@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T20:40:55.857377",
+  "updated": "2026-08-03T01:20:58.886768",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "url": "https://frogs.vaguespac.es/",
-      "published": "2026-08-02T19:42:08",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "published": "2026-07-31T13:08:30",
       "description": "",
-      "image": "data/images/54beefd627ead190f7b44b9a19284921.png",
+      "image": "data/images/d3cacec3b42d6a5eb84895ddc4ce37aa.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "EU rules on AI models become enforceable. What's going to change?",
-      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "published": "2026-08-02T19:40:19",
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
+      "published": "2026-08-02T19:42:08",
       "description": "",
-      "image": "https://images.euronews.com/articles/stories/09/85/74/44/1200x675_cmsv2_b29bb7fe-1f9b-589f-875a-c78ca851d748-9857444.jpg",
+      "image": "https://frogs.vaguespac.es/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Flock \u2013 Chilling Effects: Long Island's Emerging Open-Air Prison",
+      "url": "https://www.11971.com/",
+      "published": "2026-08-02T21:30:04",
+      "description": "",
+      "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQWhz3fsVT2WCSJLj5Dv2LesSpB631UzqCohtzwviLwMBls_bfOUF_p7CUjAWE6yuImfhYdoxMxsOZnoFmy1zJzo8Od3qCRSKxHKl8DeQAZMVZhtjbSGqlbBM9uQ2QVW1n-geVllCsQ8jmOduGIKuV5LH46xU95Hs370S9cXHkqmxv7IB3onomNimnK6FRVluGDKtoauH1UDOPoroU_bey0",
       "summary": "Summary unavailable."
     },
     {
@@ -185,7 +195,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "speakers": [
       "Alex",
       "Jordan"
