@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T11:01:21.782498",
+  "updated": "2026-08-03T14:08:08.361795",
   "articles": [
     {
       "source": "RSS",
@@ -102,13 +102,63 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "published": "Thu, 30 Jul 2026 15:09:09 GMT",
+      "description": "",
+      "image": "data/images/272f7b6fe94edb60ca9c6c834b639c37.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "published": "Tue, 28 Jul 2026 16:27:42 GMT",
+      "description": "",
+      "image": "data/images/1f7dc357bf6a19dfd11c79b9d501a68d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "published": "Tue, 28 Jul 2026 15:01:45 GMT",
+      "description": "",
+      "image": "data/images/65e07eb09f4a34e8f4eeb213f9840d0f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "published": "Mon, 27 Jul 2026 09:32:20 GMT",
+      "description": "",
+      "image": "data/images/766ea80c122f8d982528bfc3ce1538d5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "published": "Mon, 27 Jul 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/ced02ad3ec2ea88b84e3ddee0caa3622.png",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "published": "2026-08-03T09:32:07",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "published": "2026-08-03T11:15:48",
       "description": "",
-      "image": "data/images/97faed38681c382e3136268393459154.png",
+      "image": "https://opengraph.githubassets.com/01d9d30022958bf6813066439ddd59ff7e48820cd5c588f9db213424a98a1b44/lyogavin/airllm",
       "summary": "Summary unavailable."
     },
     {
@@ -118,7 +168,27 @@
       "url": "https://github.com/janestreet/bonsai",
       "published": "2026-08-03T08:29:57",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b79a31a0988557eb81a2e01968c1f2d1cdd74c03fea5c2a819ee723defe60c52/janestreet/bonsai",
+      "image": "https://opengraph.githubassets.com/0cb746667cff37cb6225fa1c39820a1744a95381d539f3626523fd3fe0cfb017/janestreet/bonsai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "published": "2026-08-03T11:06:15",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/7e5e78571f54e3e53d71f776b6218ee5f2c5d452c0990d20b49faca8ab0ebf0b/garagehq/nightcrawler",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "published": "2026-08-03T09:32:07",
+      "description": "",
+      "image": "data/images/97faed38681c382e3136268393459154.png",
       "summary": "Summary unavailable."
     },
     {
@@ -134,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-      "published": "2026-08-03T08:54:00",
+      "title": "Walk on Decomposed Subdomains",
+      "url": "https://clementjambon.github.io/wods/index.html#blogpost",
+      "published": "2026-07-28T03:17:03",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9ccf081716fcc916be4308c77998a0743904c065ca3156ee43d821495aeee5f0/mohamed--abdel-maksoud/pisiguard",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "published": "2026-07-31T13:08:30",
-      "description": "",
-      "image": "data/images/d3cacec3b42d6a5eb84895ddc4ce37aa.png",
+      "image": "data/images/b8400a15326ae452f0672379321a9b8e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The AI Productivity Gap",
-      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-      "published": "2026-08-03T07:07:20",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "published": "2026-08-03T08:54:00",
       "description": "",
-      "image": "https://bjorg.bjornroche.com/assets/2026/ai-productivity.jpg",
+      "image": "https://opengraph.githubassets.com/7b620f9ac0698ae5723f178cc58f783714c6f579dc3b2d69613a7ff8f867b808/mohamed--abdel-maksoud/pisiguard",
       "summary": "Summary unavailable."
     }
   ],
