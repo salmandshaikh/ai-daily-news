@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T06:49:47.552570",
+  "updated": "2026-08-03T11:01:21.782498",
   "articles": [
     {
       "source": "RSS",
@@ -102,63 +102,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "published": "Thu, 30 Jul 2026 15:09:09 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "published": "2026-08-03T09:32:07",
       "description": "",
-      "image": "data/images/272f7b6fe94edb60ca9c6c834b639c37.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "published": "Tue, 28 Jul 2026 16:27:42 GMT",
-      "description": "",
-      "image": "data/images/1f7dc357bf6a19dfd11c79b9d501a68d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "published": "Tue, 28 Jul 2026 15:01:45 GMT",
-      "description": "",
-      "image": "data/images/65e07eb09f4a34e8f4eeb213f9840d0f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "published": "Mon, 27 Jul 2026 09:32:20 GMT",
-      "description": "",
-      "image": "data/images/766ea80c122f8d982528bfc3ce1538d5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "published": "Mon, 27 Jul 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/ced02ad3ec2ea88b84e3ddee0caa3622.png",
+      "image": "data/images/97faed38681c382e3136268393459154.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "url": "https://arxiv.org/abs/2607.28271",
-      "published": "2026-08-03T03:06:12",
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
+      "published": "2026-08-03T08:29:57",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://opengraph.githubassets.com/b79a31a0988557eb81a2e01968c1f2d1cdd74c03fea5c2a819ee723defe60c52/janestreet/bonsai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Octane \u2013 React's programming model, compiled",
+      "url": "https://octanejs.dev",
+      "published": "2026-08-03T08:04:04",
+      "description": "",
+      "image": "https://octanejs.dev/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "published": "2026-08-03T08:54:00",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9ccf081716fcc916be4308c77998a0743904c065ca3156ee43d821495aeee5f0/mohamed--abdel-maksoud/pisiguard",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "My personal AI benchmark: \u201cGenerate an SVG of a frog with a Habsburg jaw\u201d",
-      "url": "https://frogs.vaguespac.es/",
-      "published": "2026-08-02T19:42:08",
+      "title": "Train Simulator Controller",
+      "url": "https://z80.me/blog/tsc-2026-july/",
+      "published": "2026-07-30T21:18:39",
       "description": "",
-      "image": "https://frogs.vaguespac.es/og.png",
+      "image": "https://z80.me/blog/tsc-2026-july/img/thumbnail.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The AI Productivity Gap",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+      "published": "2026-08-03T07:07:20",
+      "description": "",
+      "image": "https://bjorg.bjornroche.com/assets/2026/ai-productivity.jpg",
       "summary": "Summary unavailable."
     }
   ],
