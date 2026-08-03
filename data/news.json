@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-03T17:32:20.428726",
+  "updated": "2026-08-03T20:50:40.943129",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "image": "data/images/a82173c3ede29b9de6ac15907072a38d.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Fri, 31 Jul 2026 07:00:00 GMT",
       "description": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "image": "data/images/8566d59a8b9a51cc7444ae7433847a29.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "image": "data/images/b611f4451d60e052eac10c408b3c69a9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "What's the largest software project AI can complete on its own?",
-      "url": "https://epoch.ai/MirrorCode",
-      "published": "2026-08-03T16:16:40",
+      "title": "DDoS against Norwegian government IT infrastructure \u2013 status",
+      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "published": "2026-08-03T19:56:27",
       "description": "",
-      "image": "https://epoch.ai/assets/images/posts/2026/mirrorcode/mirrorcode-banner.png",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     },
     {
@@ -168,7 +168,7 @@
       "url": "https://github.com/lyogavin/airllm",
       "published": "2026-08-03T11:15:48",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2ef2af50482d1c5a3f716632b69bb84245c5f6186db73df1736dcb702b88bc16/lyogavin/airllm",
+      "image": "https://opengraph.githubassets.com/adf347c2ff9831e7b4a80b463eec7f590edc11c247c01b55ebc858d996e45603/lyogavin/airllm",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://github.com/janestreet/bonsai",
       "published": "2026-08-03T08:29:57",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d8bdaebe1e489321646b4d4b452a5483e3f9676847d013e24ba25da99b4a6f0e/janestreet/bonsai",
+      "image": "https://opengraph.githubassets.com/4b53cf4df8ddd7f3a68578d2a3d52510d2479d1d970118679930b1367a237fda/janestreet/bonsai",
       "summary": "Summary unavailable."
     },
     {
@@ -194,16 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "published": "2026-08-03T11:06:15",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/6e55a4d9f151455db9ae2ba084aa94fc94a9df0f8fbe937bc92bfdd9d51087ea/garagehq/nightcrawler",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "published": "2026-08-03T09:32:07",
@@ -214,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kraid is a now a real compiler",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
-      "published": "2026-07-30T14:52:03",
+      "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "published": "2026-08-03T11:06:15",
       "description": "",
-      "image": "https://www.collabora.com/assets/images/blog/Collabora-Kraid-compiler.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Walk on Decomposed Subdomains",
-      "url": "https://clementjambon.github.io/wods/index.html#blogpost",
-      "published": "2026-07-28T03:17:03",
-      "description": "",
-      "image": "data/images/b8400a15326ae452f0672379321a9b8e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Octane \u2013 React\u2019s programming model, compiled",
-      "url": "https://octanejs.dev",
-      "published": "2026-08-03T08:04:04",
-      "description": "",
-      "image": "https://octanejs.dev/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Train Simulator Controller",
-      "url": "https://z80.me/blog/tsc-2026-july/",
-      "published": "2026-07-30T21:18:39",
-      "description": "",
-      "image": "https://z80.me/blog/tsc-2026-july/img/thumbnail.jpg",
+      "image": "https://opengraph.githubassets.com/140e6dcf0bd601508d666fdf90067ccbc827ff1158c2d3591e966358bbcc0739/garagehq/nightcrawler",
       "summary": "Summary unavailable."
     }
   ],
