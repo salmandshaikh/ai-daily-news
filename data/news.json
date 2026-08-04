@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-04T01:12:55.558050",
+  "updated": "2026-08-04T06:18:07.215102",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "description": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "image": "data/images/12bd4914d86cf04e53ae0a9f26f0c31c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Fri, 31 Jul 2026 15:00:00 GMT",
       "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "image": "data/images/2f5c057e949ba56e4490248eaf995ded.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "image": "data/images/ae5ac5a968180d6deaf845f6446d34a6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "published": "2026-08-03T23:24:53",
+      "description": "",
+      "image": "data/images/a3ed202daf09ec582d05ee89603e9369.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "published": "2026-08-03T09:32:07",
@@ -174,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Frame selection is the whole game: notes on making LLMs watch video",
-      "url": "https://leoaido.com/how-llms-watch-video/",
-      "published": "2026-08-03T13:28:10",
+      "title": "Why did we wait so long for the bicycle? (2019)",
+      "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+      "published": "2026-08-03T23:44:19",
       "description": "",
-      "image": "data/images/62beb5c485bc050e0f028dab1d929c1d.png",
+      "image": "https://blog.rootsofprogress.org/img/the-american-velocipede.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -188,7 +198,7 @@
       "url": "https://github.com/janestreet/bonsai",
       "published": "2026-08-03T08:29:57",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8c3746b8d42e162652455381355593dc88ccd6b0887e84f557134930f487028f/janestreet/bonsai",
+      "image": "https://opengraph.githubassets.com/2daa304fe62c8837b0c091b6a5a5a125d0a1ecc4e67ee067c88ea4360243e023/janestreet/bonsai",
       "summary": "Summary unavailable."
     },
     {
@@ -198,17 +208,7 @@
       "url": "https://github.com/lyogavin/airllm",
       "published": "2026-08-03T11:15:48",
       "description": "",
-      "image": "https://opengraph.githubassets.com/22e4e27d364c346461a13f2816d4d0f083cdae4bd4bdeb301cc70d2040336608/lyogavin/airllm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What's the largest software project AI can complete on its own?",
-      "url": "https://epoch.ai/MirrorCode",
-      "published": "2026-08-03T16:16:40",
-      "description": "",
-      "image": "https://epoch.ai/assets/images/posts/2026/mirrorcode/mirrorcode-banner.png",
+      "image": "https://opengraph.githubassets.com/f91a4fab815061cb99f6133805fbde7101d20ed735438b0948652c73babb232a/lyogavin/airllm",
       "summary": "Summary unavailable."
     }
   ],
