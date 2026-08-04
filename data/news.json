@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T10:23:48.161919",
+  "updated": "2026-08-04T14:15:53.888409",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published": "Tue, 04 Aug 2026 13:58:29 GMT",
+      "description": "",
+      "image": "data/images/5c709f76ece7c703faa6bca4118e8f20.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "published": "Thu, 30 Jul 2026 15:09:09 GMT",
@@ -119,16 +129,6 @@
       "published": "Tue, 28 Jul 2026 16:27:42 GMT",
       "description": "",
       "image": "data/images/1f7dc357bf6a19dfd11c79b9d501a68d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "published": "Tue, 28 Jul 2026 15:01:45 GMT",
-      "description": "",
-      "image": "data/images/65e07eb09f4a34e8f4eeb213f9840d0f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "published": "2026-08-04T10:13:13",
+      "description": "",
+      "image": "https://d2se8qvny5nxid.cloudfront.net/eyJidWNrZXQiOiJzaG9ydC1zdG9yaWVzLXdlYiIsImtleSI6ImltYWdlcy9zb2NpYWwvc29jaWFsLXNoYXJlLTMucG5nIiwiZWRpdHMiOnsicG5nIjp7InF1YWxpdHkiOjgyLCJwcm9ncmVzc2l2ZSI6ZmFsc2V9LCJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0=?mtime=1720649965",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "published": "2026-08-03T21:13:53",
@@ -164,21 +174,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
-      "published": "2026-08-04T09:27:47",
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "published": "2026-08-04T11:17:57",
       "description": "",
-      "image": "data/images/c511b9edb9fbbcdfa5b2480f30f8a989.png",
+      "image": "https://opengraph.githubassets.com/3795f4b057b78621febb0fc204f9035d588297e19eeaf9a1b72cde135f72a987/MakazhanAlpamys/Soup",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "That time when I failed the Microsoft interview",
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "published": "2026-07-29T10:02:50",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "published": "2026-08-04T11:01:37",
       "description": "",
-      "image": "https://ochagavia.nl/images/headshot.jpg",
+      "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a71ca1f4e190f1129a4d78a_Social_ShaiHulud-Template-Light_16x9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why Large Language Models Fail at Tabular Prediction",
+      "url": "https://arxiv.org/abs/2608.02412",
+      "published": "2026-08-04T10:07:06",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "published": "2026-08-04T11:30:17",
+      "description": "",
+      "image": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Homebench \u2013 Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://github.com/david-g-3654/homebench",
+      "published": "2026-08-04T09:48:43",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/2065402dd356458202b7c09e4fb8cfa3c7719efddf9109fab0046bd10346027d/david-g-3654/homebench",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "published": "2026-08-03T09:32:07",
+      "title": "That time when I failed the Microsoft interview",
+      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+      "published": "2026-07-29T10:02:50",
       "description": "",
-      "image": "data/images/97faed38681c382e3136268393459154.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "published": "2026-08-03T08:29:57",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/88c37b754b301a520b36134823921957c1b788d6948dd3f7197a33f2b430e816/janestreet/bonsai",
+      "image": "https://ochagavia.nl/images/headshot.jpg",
       "summary": "Summary unavailable."
     }
   ],
