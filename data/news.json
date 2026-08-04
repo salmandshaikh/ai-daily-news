@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-04T14:15:53.888409",
+  "updated": "2026-08-04T17:26:31.838958",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "published": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "description": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build.",
+      "image": "data/images/2948de59d0cadf0a717c79f87cb60133.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Sat, 01 Aug 2026 00:00:00 GMT",
       "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "image": "data/images/1aaa32314d510d4337c932429b38749d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "image": "data/images/2f5c057e949ba56e4490248eaf995ded.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,21 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "published": "2026-08-03T21:13:53",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "published": "2026-08-04T16:10:39",
       "description": "",
-      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "published": "2026-08-04T11:17:57",
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "published": "2026-08-03T21:13:53",
       "description": "",
-      "image": "https://opengraph.githubassets.com/3795f4b057b78621febb0fc204f9035d588297e19eeaf9a1b72cde135f72a987/MakazhanAlpamys/Soup",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -194,6 +194,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "published": "2026-08-04T15:05:33",
+      "description": "",
+      "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/08/david-pupaza-heNwUmEtZzo-unsplash-1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "published": "2026-08-04T15:37:42",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Why Large Language Models Fail at Tabular Prediction",
       "url": "https://arxiv.org/abs/2608.02412",
       "published": "2026-08-04T10:07:06",
@@ -204,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "published": "2026-08-04T11:30:17",
+      "title": "The AI Demand Bubble",
+      "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+      "published": "2026-08-04T15:51:51",
       "description": "",
-      "image": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png",
+      "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "published": "2026-08-04T11:17:57",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/577e48fb5eb342fd6b79880d22327549f0c34d5d3b56dfa9bfbb8d0cf595c7b4/MakazhanAlpamys/Soup",
       "summary": "Summary unavailable."
     },
     {
@@ -218,27 +248,7 @@
       "url": "https://github.com/david-g-3654/homebench",
       "published": "2026-08-04T09:48:43",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2065402dd356458202b7c09e4fb8cfa3c7719efddf9109fab0046bd10346027d/david-g-3654/homebench",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "published": "2026-08-03T23:24:53",
-      "description": "",
-      "image": "data/images/a3ed202daf09ec582d05ee89603e9369.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "That time when I failed the Microsoft interview",
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "published": "2026-07-29T10:02:50",
-      "description": "",
-      "image": "https://ochagavia.nl/images/headshot.jpg",
+      "image": "https://opengraph.githubassets.com/2e2a2dada88a14fcbbceb8898598aa8412d334ac7e311206c8847bb006dc4fd5/david-g-3654/homebench",
       "summary": "Summary unavailable."
     }
   ],
