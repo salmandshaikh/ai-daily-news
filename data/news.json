@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T20:50:40.943129",
+  "updated": "2026-08-04T01:12:55.558050",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Mon, 03 Aug 2026 07:00:00 GMT",
       "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "image": "data/images/a82173c3ede29b9de6ac15907072a38d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "published": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "image": "data/images/e100c3a6e4658b544981e926c738bf2b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Fri, 31 Jul 2026 15:00:00 GMT",
       "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "image": "data/images/ae5ac5a968180d6deaf845f6446d34a6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Univ\u00e9 builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "description": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "image": "data/images/8566d59a8b9a51cc7444ae7433847a29.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,41 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DDoS against Norwegian government IT infrastructure \u2013 status",
-      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-      "published": "2026-08-03T19:56:27",
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "published": "2026-08-03T21:13:53",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "published": "2026-08-03T11:15:48",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/adf347c2ff9831e7b4a80b463eec7f590edc11c247c01b55ebc858d996e45603/lyogavin/airllm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "published": "2026-08-03T08:29:57",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/4b53cf4df8ddd7f3a68578d2a3d52510d2479d1d970118679930b1367a237fda/janestreet/bonsai",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "published": "2026-08-03T11:28:54",
-      "description": "",
-      "image": "data/images/4bf5c2578ac0a633cc3c2e3d94d984cc.png",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,18 +174,48 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "published": "2026-08-03T11:06:15",
+      "title": "Frame selection is the whole game: notes on making LLMs watch video",
+      "url": "https://leoaido.com/how-llms-watch-video/",
+      "published": "2026-08-03T13:28:10",
       "description": "",
-      "image": "https://opengraph.githubassets.com/140e6dcf0bd601508d666fdf90067ccbc827ff1158c2d3591e966358bbcc0739/garagehq/nightcrawler",
+      "image": "data/images/62beb5c485bc050e0f028dab1d929c1d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
+      "published": "2026-08-03T08:29:57",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/8c3746b8d42e162652455381355593dc88ccd6b0887e84f557134930f487028f/janestreet/bonsai",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "published": "2026-08-03T11:15:48",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/22e4e27d364c346461a13f2816d4d0f083cdae4bd4bdeb301cc70d2040336608/lyogavin/airllm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What's the largest software project AI can complete on its own?",
+      "url": "https://epoch.ai/MirrorCode",
+      "published": "2026-08-03T16:16:40",
+      "description": "",
+      "image": "https://epoch.ai/assets/images/posts/2026/mirrorcode/mirrorcode-banner.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "speakers": [
       "Alex",
       "Jordan"
