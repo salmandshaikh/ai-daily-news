@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T01:13:59.838371",
+  "updated": "2026-08-05T06:17:24.500445",
   "articles": [
     {
       "source": "RSS",
@@ -174,6 +174,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "published": "2026-08-05T04:36:44",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
       "published": "2026-08-04T22:01:41",
@@ -184,31 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "published": "2026-08-04T21:14:19",
+      "title": "An SLM trained on $8 ESP32-S3",
+      "url": "https://github.com/Carloscodix/qapla",
+      "published": "2026-08-05T04:07:27",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RSPaWdKwEvT9xWx4IjQy2/a334438e4daf9f62c24541c00c212749/third-party-cyber-evaluations_16x9.png?w=1600&h=900&fit=fill",
+      "image": "https://opengraph.githubassets.com/bcc5fb1cd6718b43facf4c972ea9fc29bf17f7afcae7d7b25213bef9288387ff/Carloscodix/qapla",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "published": "2026-08-04T20:13:40",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "published": "2026-08-03T23:24:53",
       "description": "",
-      "image": "data/images/5b414f822e3cc00886df6ea83972bfd0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "published": "2026-08-04T11:01:37",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a71ca1f4e190f1129a4d78a_Social_ShaiHulud-Template-Light_16x9.png",
+      "image": "data/images/a3ed202daf09ec582d05ee89603e9369.png",
       "summary": "Summary unavailable."
     },
     {
@@ -219,16 +219,6 @@
       "published": "2026-08-04T16:10:39",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: EdotEnv (YC S26) \u2013 Quant Trading RL Envs to Teach LLMs Research",
-      "url": "https://edotenv.com/",
-      "published": "2026-08-04T18:36:02",
-      "description": "",
-      "image": "https://edotenv.com/og-non-saturating.png",
       "summary": "Summary unavailable."
     }
   ],
