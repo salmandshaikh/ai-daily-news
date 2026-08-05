@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-04T20:59:38.523972",
+  "updated": "2026-08-05T01:13:59.838371",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published": "Tue, 04 Aug 2026 19:00:00 GMT",
+      "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "image": "data/images/63daf6f86dd19dbe3b38903cbabddd99.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Mon, 03 Aug 2026 00:00:00 GMT",
       "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
       "image": "data/images/e100c3a6e4658b544981e926c738bf2b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "published": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "image": "data/images/1aaa32314d510d4337c932429b38749d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "published": "2026-08-04T23:50:52",
+      "description": "",
+      "image": "data/images/47aead7a70fa1bf9959891d7b94e515c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
       "published": "2026-08-04T16:36:05",
       "description": "",
       "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Model%3DShieldstral.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "published": "2026-08-04T22:01:41",
+      "description": "",
+      "image": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "published": "2026-08-04T21:14:19",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RSPaWdKwEvT9xWx4IjQy2/a334438e4daf9f62c24541c00c212749/third-party-cyber-evaluations_16x9.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "published": "2026-08-04T20:13:40",
+      "description": "",
+      "image": "data/images/5b414f822e3cc00886df6ea83972bfd0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "published": "2026-08-04T11:01:37",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a71ca1f4e190f1129a4d78a_Social_ShaiHulud-Template-Light_16x9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -180,72 +230,12 @@
       "description": "",
       "image": "https://edotenv.com/og-non-saturating.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "published": "2026-08-04T11:01:37",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a71ca1f4e190f1129a4d78a_Social_ShaiHulud-Template-Light_16x9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "published": "2026-08-04T15:37:42",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Blackmail Fail (2013)",
-      "url": "https://gwern.net/blackmail",
-      "published": "2026-08-04T18:11:09",
-      "description": "",
-      "image": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "published": "2026-08-03T23:24:53",
-      "description": "",
-      "image": "data/images/a3ed202daf09ec582d05ee89603e9369.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-      "published": "2026-08-04T15:05:33",
-      "description": "",
-      "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/08/david-pupaza-heNwUmEtZzo-unsplash-1.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "published": "2026-08-04T20:13:40",
-      "description": "",
-      "image": "data/images/5b414f822e3cc00886df6ea83972bfd0.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "speakers": [
       "Alex",
       "Jordan"
