@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T13:28:17.895613",
+  "updated": "2026-08-05T17:15:43.929886",
   "articles": [
     {
       "source": "RSS",
@@ -154,41 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The next chapter of our AI momentum",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "published": "2026-08-05T16:05:31",
+      "description": "",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.width-1300.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "published": "2026-08-05T14:00:10",
+      "description": "",
+      "image": "data/images/dc6e44d30b712728adbcaeb70751e577.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Painting with Gaussians",
+      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+      "published": "2026-08-05T13:34:32",
+      "description": "",
+      "image": "data/images/54a2f2a3213a236132c641949362f8ae.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Intelligence Is Not the Main Bottleneck",
+      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
+      "published": "2026-08-05T14:04:06",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!Zljm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F691e3382-23d7-4004-894f-560d20c55da3_1304x1450.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Position: LLMs Can't Jump",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
       "published": "2026-08-05T11:01:37",
       "description": "",
       "image": "data/images/1e750db9c52ce3be08593020f701e521.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "published": "2026-08-05T11:49:34",
-      "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "published": "2026-08-04T16:36:05",
-      "description": "",
-      "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Model%3DShieldstral.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
-      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
-      "published": "2026-08-05T12:42:50",
-      "description": "",
-      "image": "data/images/b1ac6e02e97beeee0d45a674c56e6aef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,51 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "url": "https://arxiv.org/abs/2607.29377",
-      "published": "2026-08-05T04:36:44",
+      "title": "Why Erd\u0151s Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "published": "2026-08-05T11:49:34",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "published": "2026-08-04T23:50:52",
-      "description": "",
-      "image": "data/images/47aead7a70fa1bf9959891d7b94e515c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An SLM trained on $8 ESP32-S3",
-      "url": "https://github.com/Carloscodix/qapla",
-      "published": "2026-08-05T04:07:27",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f25327e525d8e9fff8dedb9653fb76e368e1608132c9311708189ab368ebaf09/Carloscodix/qapla",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "published": "2026-08-03T23:24:53",
-      "description": "",
-      "image": "data/images/a3ed202daf09ec582d05ee89603e9369.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "published": "2026-08-04T22:01:41",
-      "description": "",
-      "image": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Social.jpg",
       "summary": "Summary unavailable."
     }
   ],
