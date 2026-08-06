@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T20:53:22.662700",
+  "updated": "2026-08-06T01:11:04.028093",
   "articles": [
     {
       "source": "RSS",
@@ -174,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "published": "2026-08-05T19:47:26",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "published": "2026-08-05T18:37:49",
       "description": "",
-      "image": "https://media.wired.com/photos/6a6d058753afe1590265744d/191:100/w_1280,c_limit/073126-meta-nudify-ads-children.jpg",
+      "image": "data/images/73b3a63c01830f099c0ab0df73247a54.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "published": "2026-08-05T18:17:03",
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "published": "2026-08-05T11:01:37",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "data/images/1e750db9c52ce3be08593020f701e521.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,48 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "published": "2026-08-05T18:37:49",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "published": "2026-08-05T18:17:03",
       "description": "",
-      "image": "data/images/73b3a63c01830f099c0ab0df73247a54.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We let models localize into 16 languages. How we made it read native.",
-      "url": "https://reelang.com/open-startup/blog/llm-localization-context-beats-translator",
-      "published": "2026-08-04T13:23:38",
-      "description": "",
-      "image": "https://reelang.com/open-startup/blog/llm-localization-context-beats-translator/opengraph-image-37zbvg?f0973c154c0b316c",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Painting with Gaussians",
-      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-      "published": "2026-08-05T13:34:32",
-      "description": "",
-      "image": "data/images/54a2f2a3213a236132c641949362f8ae.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "published": "2026-08-05T11:01:37",
-      "description": "",
-      "image": "data/images/1e750db9c52ce3be08593020f701e521.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "speakers": [
       "Alex",
       "Jordan"
