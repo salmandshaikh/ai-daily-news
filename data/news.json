@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T01:11:04.028093",
+  "updated": "2026-08-06T06:20:00.151546",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "published": "2026-08-06T02:15:14",
+      "description": "",
+      "image": "data/images/270c8c5a3e616315d87aca4187675333.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "published": "2026-08-05T16:05:31",
       "description": "",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.width-1300.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "url": "https://quantego.org/",
+      "published": "2026-07-30T16:35:08",
+      "description": "",
+      "image": "data/images/3450dceef7858f74398b7d3d69d57038.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,6 +204,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "published": "2026-08-03T16:17:03",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/3ba96a1b33ca7b4f1a91c4721e9202b41083f8bebc84ad04990af0f3f94e26b2/bashalarmistalt/decimen-optical-transfer",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Position: LLMs Can't Jump",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
       "published": "2026-08-05T11:01:37",
@@ -194,21 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "published": "2026-08-05T14:00:10",
-      "description": "",
-      "image": "data/images/dc6e44d30b712728adbcaeb70751e577.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
       "url": "https://arxiv.org/abs/2510.01395",
       "published": "2026-08-05T18:17:03",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "published": "2026-08-05T14:00:10",
+      "description": "",
+      "image": "data/images/dc6e44d30b712728adbcaeb70751e577.png",
       "summary": "Summary unavailable."
     }
   ],
