@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T05:26:55.054381",
+  "updated": "2026-08-07T08:43:48.266210",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "published": "2026-08-06T20:23:11",
+      "title": "I won't read LLM authored fiction",
+      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+      "published": "2026-08-07T07:45:56",
       "description": "",
-      "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "image": "data/images/4c9570cc9c82b1a612feb93ab9902ce4.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "published": "2026-08-06T17:02:04",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "published": "2026-08-06T20:23:11",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5ufNl1zzui8XrAogWs5j89/13fdcb619e5f1e31a3efd34f425477ac/Art_Card_16x9__1_.png?w=1600&h=900&fit=fill",
+      "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "summary": "Summary unavailable."
     },
     {
@@ -184,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "published": "2026-08-06T17:02:04",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5ufNl1zzui8XrAogWs5j89/13fdcb619e5f1e31a3efd34f425477ac/Art_Card_16x9__1_.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
       "published": "2026-08-06T11:58:07",
@@ -194,31 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Sylvester\u2013Gallai Theorem",
-      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-      "published": "2026-07-31T14:00:34",
+      "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "published": "2026-08-07T00:37:30",
       "description": "",
-      "image": "data/images/3d554cdc6d56f0f56cf23e6aa09a974e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "published": "2026-08-06T21:30:21",
-      "description": "",
-      "image": "https://www.aleksagordic.com/blog/vllm/engine_constructor.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Learning to fly FPV drones with AI flight coach",
-      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
-      "published": "2026-08-03T21:39:27",
-      "description": "",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/FUvLI5v0o2g",
+      "image": "https://www.shreveporttimes.com/gcdn/authoring/authoring-images/2026/04/03/USAT/89452965007-xxx-a-iassisted-911-centers-th-3.jpg?crop=4366,2456,x0,y191&width=3200&height=1801&format=pjpg&auto=webp",
       "summary": "Summary unavailable."
     }
   ],
