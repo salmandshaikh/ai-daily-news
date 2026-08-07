@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-06T13:26:40.541287",
+  "updated": "2026-08-07T00:51:10.417915",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "image": "data/images/1ab26683a1d65aed51d40b07c8fe2ef9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "published": "Thu, 06 Aug 2026 06:00:00 GMT",
+      "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "image": "data/images/c0bb4ff3455bb0db22c712c839a5c8e5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "image": "data/images/3c579d40cca2cabf82ba71b71af0fd6e.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -23,32 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published": "Mon, 03 Aug 2026 22:00:00 GMT",
-      "description": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "image": "data/images/12bd4914d86cf04e53ae0a9f26f0c31c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "image": "data/images/a82173c3ede29b9de6ac15907072a38d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "published": "Mon, 03 Aug 2026 00:00:00 GMT",
-      "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "image": "data/images/e100c3a6e4658b544981e926c738bf2b.png",
+      "source_name": "Google DeepMind News",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "published": "Thu, 06 Aug 2026 15:06:15 +0000",
+      "description": "",
+      "image": "data/images/9a27dd5dec2b8dff80b9725bb05d6bcf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "published": "Tue, 21 Jul 2026 15:16:30 +0000",
-      "description": "We\u2019re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "image": "data/images/95b1108220bacb82adb35c83ddefae56.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
+      "url": "https://huggingface.co/blog/baseten",
+      "published": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/a1b84685ca2a45a0ea62882220f709c3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,23 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "published": "Mon, 27 Jul 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "published": "2026-08-06T20:23:11",
       "description": "",
-      "image": "data/images/ced02ad3ec2ea88b84e3ddee0caa3622.png",
+      "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
-      "published": "2026-08-06T06:24:42",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "published": "2026-08-06T21:30:21",
       "description": "",
-      "image": "https://opengraph.githubassets.com/e9822c9748d6213d904ce16956b43dd8a64127341622fc6161fe57b961b16418/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "image": "https://www.aleksagordic.com/blog/vllm/engine_constructor.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "published": "2026-08-06T17:02:04",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5ufNl1zzui8XrAogWs5j89/13fdcb619e5f1e31a3efd34f425477ac/Art_Card_16x9__1_.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "published": "2026-08-06T15:49:38",
+      "description": "",
+      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,78 +204,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "published": "2026-08-05T16:05:31",
+      "title": "The Sylvester\u2013Gallai Theorem",
+      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+      "published": "2026-07-31T14:00:34",
       "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.width-1300.jpg",
+      "image": "data/images/3d554cdc6d56f0f56cf23e6aa09a974e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "published": "2026-08-05T18:18:56",
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "published": "2026-08-06T18:44:49",
       "description": "",
-      "image": "https://cdn.neonapi.io/public/images/pages/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency/cover.jpg",
+      "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "published": "2026-08-05T18:37:49",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "url": "https://www.bbc.com/news/articles/cj63966j95yo",
+      "published": "2026-08-06T23:29:15",
       "description": "",
-      "image": "data/images/73b3a63c01830f099c0ab0df73247a54.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "url": "https://quantego.org/",
-      "published": "2026-07-30T16:35:08",
-      "description": "",
-      "image": "data/images/3450dceef7858f74398b7d3d69d57038.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "published": "2026-08-03T16:17:03",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/c2ef2e377cee6951796df511d8b35be1c0da02d4b7a2d8781a9a201d03a76caa/bashalarmistalt/decimen-optical-transfer",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "published": "2026-08-06T02:15:14",
-      "description": "",
-      "image": "data/images/270c8c5a3e616315d87aca4187675333.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "published": "2026-08-05T11:01:37",
-      "description": "",
-      "image": "data/images/1e750db9c52ce3be08593020f701e521.png",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "speakers": [
       "Alex",
       "Jordan"
