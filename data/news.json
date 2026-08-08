@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T00:37:47.346494",
+  "updated": "2026-08-08T04:45:03.279560",
   "articles": [
     {
       "source": "RSS",
@@ -184,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "published": "2026-08-08T03:41:56",
+      "description": "",
+      "image": "https://web.archive.org/web/20260731053721im_/https://opengraph.githubassets.com/c4cfaaf58841bcfc90a77f07078889128ca99f4f54e0597c9207f09fe0e27534/ancaferro/myNetwork/pull/3",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "published": "2026-08-07T17:36:30",
@@ -198,17 +208,7 @@
       "url": "https://github.com/peterkelly/captain-bible-re",
       "published": "2026-08-02T17:38:34",
       "description": "",
-      "image": "https://opengraph.githubassets.com/780cf502a8fed90bfa5ac42694205092b26ae61b80ab3ad120b309796bcd2778/peterkelly/captain-bible-re",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "published": "2026-08-06T20:23:11",
-      "description": "",
-      "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "image": "https://opengraph.githubassets.com/4c76bb4aaf96a6d37021fd49fce007e531af292f21fb9c3bcfaccc7dcec7df69/peterkelly/captain-bible-re",
       "summary": "Summary unavailable."
     }
   ],
