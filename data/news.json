@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T12:19:31.285823",
+  "updated": "2026-08-08T16:17:03.587312",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "published": "2026-08-08T10:57:44",
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "published": "2026-08-08T13:26:51",
       "description": "",
-      "image": "https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg",
+      "image": "https://specification.website/og/spec/foundations/for-sale-dns.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "published": "2026-08-08T13:55:42",
+      "description": "",
+      "image": "data/images/648f2e22a1cb959e0cdd5de561f47ae0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "published": "2026-08-07T18:25:17",
+      "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+      "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+      "published": "2026-08-08T14:07:06",
       "description": "",
-      "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
+      "image": "https://media.wired.com/photos/6a761055f890ad2594b07002/191:100/w_1280,c_limit/Security_Companies%20Are%20Leaking%20Sensitive%20Data%20Due%20to%20Dumb%20Email%20Flaws_v1.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "published": "2026-08-07T17:36:30",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "published": "2026-08-07T18:25:17",
       "description": "",
-      "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
+      "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
       "summary": "Summary unavailable."
     }
   ],
