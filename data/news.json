@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T16:18:02.061317",
+  "updated": "2026-08-09T20:17:20.040475",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "published": "2026-08-08T16:04:51",
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "published": "2026-08-09T19:16:49",
       "description": "",
-      "image": "https://www.fastmail.com/assets/images/data-center-hero-3jPa_k89iw-1200.png",
+      "image": "data/images/a6b15ec8a0e1d1e099dafb7636b0f353.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
-      "url": "https://airy.so",
-      "published": "2026-08-09T09:29:32",
+      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+      "published": "2026-08-09T19:20:40",
       "description": "",
-      "image": "data/images/99fc8f07be81d4f2ca74968932c8ec62.png",
+      "image": "https://image.theregister.com/5284713.jpg?imageId=5284713&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "url": "http://longbets.org/601/",
-      "published": "2026-08-09T04:30:26",
+      "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
+      "url": "https://github.com/eighttrigrams/us-vs-them",
+      "published": "2026-08-09T15:25:29",
       "description": "",
-      "image": "data/images/caed2befb48c46b3a0f6690adde9f183.png",
+      "image": "https://opengraph.githubassets.com/9f66249a380aa6f84cbcd3173aa86b80ae6138becd5a1e1688e96329f2f0cafc/eighttrigrams/us-vs-them",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cross-compilation with Wails (2025)",
+      "url": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
+      "published": "2026-08-05T20:29:35",
+      "description": "",
+      "image": "data/images/200e49cd006580dbce28f932cf0a5b05.png",
       "summary": "Summary unavailable."
     }
   ],
