@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T04:57:19.894204",
+  "updated": "2026-08-11T08:42:09.163808",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "published": "2026-08-05T15:22:23",
+      "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "published": "2026-08-10T22:36:30",
       "description": "",
-      "image": "data/images/e09f8652bea71eeee14f5b424166ab0e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "published": "2026-08-04T18:47:25",
+      "description": "",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/LiquidAI/LFM2.5-2.6B.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "World Train Map \u2013 1247 train routes around the world",
-      "url": "https://worldtrainmap.com/",
-      "published": "2026-08-10T22:42:14",
+      "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "published": "2026-08-05T15:22:23",
       "description": "",
-      "image": "https://worldtrainmap.com/og.jpg?v=4",
+      "image": "data/images/e09f8652bea71eeee14f5b424166ab0e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "published": "2026-08-10T21:36:56",
+      "description": "",
+      "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,41 +234,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "published": "2026-08-10T11:34:40",
+      "description": "",
+      "image": "data/images/a5c392161508724806c9698fd8930e37.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Humanising LLM Outputs Is Dumb",
       "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
       "published": "2026-08-10T13:35:40",
       "description": "",
       "image": "https://kuber.studio/blog/static/social-images/content-Reflections-Humanising LLM Outputs is Actually Dumb.md.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "published": "2026-08-10T16:35:27",
-      "description": "",
-      "image": "https://www.stoaexchange.com/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "published": "2026-08-10T14:20:41",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!D2DT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26fc9064-a2dd-417b-99e2-c57b5180e3c6_1932x1073.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "published": "2026-08-10T14:38:20",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     }
   ],
