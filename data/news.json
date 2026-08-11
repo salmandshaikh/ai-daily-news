@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T20:28:59.651680",
+  "updated": "2026-08-11T00:41:59.641932",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "published": "2026-08-10T17:22:07",
+      "description": "",
+      "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "published": "2026-08-10T14:06:22",
@@ -174,31 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "published": "2026-08-10T16:35:27",
+      "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "published": "2026-08-05T15:22:23",
       "description": "",
-      "image": "https://www.stoaexchange.com/og.png",
+      "image": "data/images/245e029f315a95aab9582e632b6a9611.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "published": "2026-08-10T06:02:38",
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "published": "2026-08-10T20:52:55",
       "description": "",
-      "image": "https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png",
+      "image": "data/images/5d4b52465b08df2b482d6702ae3b93f4.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "published": "2026-08-10T14:38:20",
+      "title": "World Train Map \u2013 1247 train routes around the world",
+      "url": "https://worldtrainmap.com/",
+      "published": "2026-08-10T22:42:14",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&h=900&fit=fill",
+      "image": "https://worldtrainmap.com/og.jpg?v=4",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tail-call optimization in C is relatively recent (2025)",
-      "url": "https://lwn.net/Articles/1034703/",
-      "published": "2026-08-10T11:34:40",
+      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "published": "2026-08-10T16:35:27",
       "description": "",
-      "image": "data/images/a5c392161508724806c9698fd8930e37.png",
+      "image": "https://www.stoaexchange.com/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "published": "2026-08-10T14:38:20",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -230,22 +250,12 @@
       "description": "",
       "image": "https://substackcdn.com/image/fetch/$s_!D2DT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26fc9064-a2dd-417b-99e2-c57b5180e3c6_1932x1073.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-      "published": "2026-08-10T14:56:32",
-      "description": "",
-      "image": "https://gray-wcax-prod.gtv-cdn.com/resizer/v2/QEV2FCRJFVE4HN5LGUQU3IWK5U.png?auth=2f0b57d18eb3d3dbb7bc5fb4d2610e3390e058794706a44bf2b74201e08cff23&width=1200&height=600&smart=true",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "speakers": [
       "Alex",
       "Jordan"
