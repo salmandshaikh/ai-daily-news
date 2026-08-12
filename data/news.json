@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T20:30:52.570772",
+  "updated": "2026-08-12T00:47:05.073947",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Tue, 11 Aug 2026 10:00:00 GMT",
       "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "image": "data/images/50150732cd2e7864eab0d1adbbdc2025.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Mon, 10 Aug 2026 17:00:00 GMT",
       "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
       "image": "data/images/d5d3a88e855350ba4fd3322efd9bc53c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "published": "Mon, 10 Aug 2026 10:00:00 GMT",
-      "description": "Meet GPT-5.6-Cyber, OpenAI\u2019s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The brain may be about to have its Ozempic moment",
-      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "published": "2026-08-11T20:01:27",
-      "description": "",
-      "image": "data/images/6743799c44e9b07ee5077f53d969b8b0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
       "published": "2026-08-11T13:22:00",
@@ -184,26 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "published": "2026-08-10T22:36:30",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "published": "2026-08-11T14:50:33",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/da223944b56e1770511b4405150c0f2a51c64a7cc637a9c17ecb0472092dfed0/trycua/cua",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Go is an ideal language for AI-assisted software engineering",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "published": "2026-08-11T16:57:09",
@@ -214,18 +184,58 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "published": "2026-08-10T17:22:07",
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "published": "2026-08-11T23:26:17",
       "description": "",
-      "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/2c3b1f38-9648-4daf-9f50-fd630d3b3a21/thumbnail/1200x630/d2ce9c81e57a883803e3d5377231db87/gettyimages-2257297641.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "url": "https://www.suzanne3d.com/",
+      "published": "2026-08-11T21:28:26",
+      "description": "",
+      "image": "https://suzanne3d.com/favicon.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Line9 - a Mermaid rendering engine with its own layout",
+      "url": "https://line9.ai/diagram",
+      "published": "2026-08-06T13:47:54",
+      "description": "",
+      "image": "https://line9.ai/images/og-home.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "url": "https://arxiv.org/abs/2601.01828",
+      "published": "2026-08-11T21:14:10",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "published": "2026-08-11T14:50:33",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/84b911b544e69fb5b0fba1898a9d405c87c77dd109e202f49d0e0f519462f72c/trycua/cua",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "speakers": [
       "Alex",
       "Jordan"
