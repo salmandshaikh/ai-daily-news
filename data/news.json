@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-13T16:42:15.806981",
+  "updated": "2026-08-13T20:27:27.673950",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The builder\u2019s guide to GPT\u20115.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "image": "data/images/b752e20eb254f050fb6b9178014f3bfb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "published": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "image": "data/images/0823492200754044d5efc0980821f5d0.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -33,22 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "image": "data/images/d15b2792ffe112535617fb6bfe16d0a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "image": "data/images/50150732cd2e7864eab0d1adbbdc2025.png",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published": "Thu, 13 Aug 2026 17:04:18 +0000",
+      "description": "",
+      "image": "data/images/cb73ba54b9b093cff446da7872e6b60b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "published": "Tue, 28 Jul 2026 13:21:37 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published": "Thu, 13 Aug 2026 17:16:04 GMT",
       "description": "",
-      "image": "data/images/6086714862d697a9cdf01d668da47770.png",
+      "image": "data/images/ff193891500ccabb542562afc3154d83.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/6def00bb23299cc53eb929e9df0377c3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -132,83 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "published": "Mon, 10 Aug 2026 16:25:36 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "published": "2026-08-13T18:10:02",
       "description": "",
-      "image": "data/images/16a7a829d21508c1c630c862e724b9b1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "published": "Mon, 10 Aug 2026 10:05:36 GMT",
-      "description": "",
-      "image": "data/images/3d9d149e132db8f6674f3cf4a90b3269.png",
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&w=1200&h=630&fit=max&auto=format",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "published": "2026-08-13T14:18:34",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "published": "2026-08-13T19:25:38",
       "description": "",
-      "image": "https://cdn.prod.website-files.com/680495205e33f0a1b96c7a98/6a7319dce7da1c3c4d7e6e71_image%20(9).png",
+      "image": "data/images/a3e85f0912bf41fe506fd7e9b98bf0af.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "published": "2026-08-13T04:53:41",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "published": "2026-08-13T16:22:05",
       "description": "",
-      "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "published": "2026-08-13T13:36:19",
-      "description": "",
-      "image": "data/images/454bac6d48e3962ba4fc6f0d9b5c6ecc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-      "published": "2026-08-11T07:03:49",
-      "description": "",
-      "image": "data/images/4a302cca7b08b73ae2868353a8b1c4a5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Graduate student proves a quantum uncertainty principle for fractals",
-      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "published": "2026-08-13T14:22:54",
-      "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Fractal-Uncertainty-cr-Ada-Zejun-Shen-social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Heart aerospace completes first flight of largest electric aircraft",
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "published": "2026-08-13T14:11:51",
-      "description": "",
-      "image": "https://www.heartaerospace.com/api/media/file/20260812-3837%20(1).jpg",
+      "image": "https://jdagostino.github.io/ai-pt1-box-o-scraps/headline_server_image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -224,11 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Text AI watermarks will always be trivial to remove",
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "published": "2026-08-13T15:07:10",
+      "title": "AI Is Threatening Natural Resources for Billions",
+      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+      "published": "2026-08-13T18:28:20",
       "description": "",
-      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "image": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/06/Data-center.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "published": "2026-08-13T13:36:19",
+      "description": "",
+      "image": "data/images/454bac6d48e3962ba4fc6f0d9b5c6ecc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "published": "2026-08-13T04:53:41",
+      "description": "",
+      "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
       "summary": "Summary unavailable."
     }
   ],
