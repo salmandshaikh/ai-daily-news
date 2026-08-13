@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-13T12:37:47.971817",
+  "updated": "2026-08-13T16:42:15.806981",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "image": "data/images/78164c624e6393639f81b2c5a130fa19.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 11 Aug 2026 10:00:00 GMT",
       "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "image": "data/images/50150732cd2e7864eab0d1adbbdc2025.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "published": "Mon, 10 Aug 2026 14:00:00 GMT",
-      "description": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "image": "data/images/2514b0518d628b08aa42a1076b8ccd3a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,41 +154,81 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "published": "2026-08-13T14:18:34",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/680495205e33f0a1b96c7a98/6a7319dce7da1c3c4d7e6e71_image%20(9).png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
       "published": "2026-08-13T04:53:41",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/2Z64goaCYuEmGe825kLJFB/ccd8ea0a41e98a3a273357ae621dfe72/codex-og-image.png?w=1600&h=900&fit=fill",
+      "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "published": "2026-08-12T07:51:20",
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "published": "2026-08-13T13:36:19",
       "description": "",
-      "image": "https://discoveredmaterials.com/assets/og-image.png",
+      "image": "data/images/454bac6d48e3962ba4fc6f0d9b5c6ecc.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "published": "2026-08-12T23:50:33",
+      "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
+      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+      "published": "2026-08-11T07:03:49",
       "description": "",
-      "image": "data/images/ba69d981bb7807893b1d54cc43533b48.png",
+      "image": "data/images/4a302cca7b08b73ae2868353a8b1c4a5.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "published": "2026-08-12T14:02:46",
+      "title": "Graduate student proves a quantum uncertainty principle for fractals",
+      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "published": "2026-08-13T14:22:54",
       "description": "",
-      "image": "https://knownagents.com/assets/hero.png",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Fractal-Uncertainty-cr-Ada-Zejun-Shen-social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Heart aerospace completes first flight of largest electric aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "published": "2026-08-13T14:11:51",
+      "description": "",
+      "image": "https://www.heartaerospace.com/api/media/file/20260812-3837%20(1).jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "published": "2026-08-13T13:05:29",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/o0o2tn5x/production/61190f2745496c269dd071680edec773a29eaef7-1800x1013.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "published": "2026-08-13T15:07:10",
+      "description": "",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
       "summary": "Summary unavailable."
     }
   ],
