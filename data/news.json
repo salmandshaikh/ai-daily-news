@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T12:34:43.303617",
+  "updated": "2026-08-14T16:38:43.919128",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "published": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/a1631a9d9a50253a456926823c6577e1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "published": "Thu, 13 Aug 2026 17:16:04 GMT",
@@ -142,63 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "published": "Tue, 11 Aug 2026 13:37:10 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "published": "2026-08-14T14:34:49",
       "description": "",
-      "image": "data/images/ca4196cfb02ca2c952d4f775819c602c.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!PLI0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3790af-8609-45cc-bb7b-e4f006e27538_1536x1024.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "published": "2026-08-13T18:10:02",
+      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "published": "2026-08-14T15:43:10",
       "description": "",
-      "image": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&w=1200&h=630&fit=max&auto=format",
+      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260729-1718",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "published": "2026-08-14T06:09:04",
+      "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://hashagent.pages.dev/",
+      "published": "2026-08-14T12:57:02",
       "description": "",
-      "image": "https://cdn.prod.website-files.com/6971f0e051b588235e8acf7b/6a7e91f27de7b76cbfa2ea50_image%20(1).png",
+      "image": "https://hashagent.pages.dev/og-card-v2.png?v=20260809",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Lumabri \u2013 Run Moe Models on a P2P Swarm with Colibri",
-      "url": "https://github.com/JustVugg/lumabri",
-      "published": "2026-08-14T00:47:04",
+      "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "published": "2026-08-14T15:00:00",
       "description": "",
-      "image": "https://opengraph.githubassets.com/bf020859012af68626f6470a76542083d179a01dac4d023adbf1c6d631127a37/JustVugg/lumabri",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-27B-FP8.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "published": "2026-08-13T13:14:12",
+      "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "published": "2026-08-14T14:22:39",
       "description": "",
-      "image": "https://current.org/wp-content/uploads/2026/08/Denver_CO_City_and_County_Building_IMG_5541-crop-scaled-e1786478301201.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "published": "2026-08-13T19:25:38",
-      "description": "",
-      "image": "data/images/a3e85f0912bf41fe506fd7e9b98bf0af.png",
+      "image": "data/images/9f370a956bd9b0b73ac1c9d06f97e4a3.png",
       "summary": "Summary unavailable."
     }
   ],
