@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T20:27:27.673950",
+  "updated": "2026-08-14T00:47:40.224318",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "published": "2026-08-13T23:16:55",
+      "description": "",
+      "image": "https://declaude.org/watermarking/og.png?v=2",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
       "published": "2026-08-13T19:25:38",
       "description": "",
       "image": "data/images/a3e85f0912bf41fe506fd7e9b98bf0af.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "published": "2026-08-13T13:14:12",
+      "description": "",
+      "image": "https://current.org/wp-content/uploads/2026/08/Denver_CO_City_and_County_Building_IMG_5541-crop-scaled-e1786478301201.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -194,38 +214,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Is Threatening Natural Resources for Billions",
-      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-      "published": "2026-08-13T18:28:20",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "published": "2026-08-13T15:07:10",
       "description": "",
-      "image": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/06/Data-center.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "published": "2026-08-13T13:36:19",
-      "description": "",
-      "image": "data/images/454bac6d48e3962ba4fc6f0d9b5c6ecc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "published": "2026-08-13T04:53:41",
-      "description": "",
-      "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "speakers": [
       "Alex",
       "Jordan"
