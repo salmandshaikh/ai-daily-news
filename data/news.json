@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:38:43.919128",
+  "updated": "2026-08-14T20:19:30.182713",
   "articles": [
     {
       "source": "RSS",
@@ -154,17 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "published": "2026-08-14T14:34:49",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!PLI0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3790af-8609-45cc-bb7b-e4f006e27538_1536x1024.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "published": "2026-08-14T15:43:10",
       "description": "",
@@ -174,21 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
-      "url": "https://hashagent.pages.dev/",
-      "published": "2026-08-14T12:57:02",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "published": "2026-08-14T15:58:59",
       "description": "",
-      "image": "https://hashagent.pages.dev/og-card-v2.png?v=20260809",
+      "image": "https://substackcdn.com/image/fetch/$s_!uug6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Faibyhand.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-636237388%26version%3D9",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "published": "2026-08-14T15:00:00",
+      "title": "Show HN: AletheionAGI \u2013 Grounding enforcement for AI agents",
+      "url": "https://www.aletheionagi.com",
+      "published": "2026-08-14T19:28:17",
       "description": "",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-27B-FP8.png",
+      "image": "https://www.aletheionagi.com/opengraph-image?cefbb72a8f4ee2cc",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "published": "2026-08-14T16:57:14",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
