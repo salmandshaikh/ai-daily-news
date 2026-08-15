@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T16:09:11.798301",
+  "updated": "2026-08-15T20:07:58.251850",
   "articles": [
     {
       "source": "RSS",
@@ -154,41 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "url": "https://spectrum.ieee.org/ai-designed-virus",
-      "published": "2026-08-15T15:32:25",
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "published": "2026-08-15T18:13:02",
       "description": "",
-      "image": "https://spectrum.ieee.org/media-library/cryo-em-density-map-of-a-virion.jpg?id=67609610&width=1200&height=600&coordinates=0%2C69%2C0%2C442",
+      "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The AI Situation in Software Development",
-      "url": "https://srikanth.ch/posts/the-ai-situation/",
-      "published": "2026-08-15T14:12:27",
+      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "published": "2026-08-15T19:12:53",
       "description": "",
-      "image": "data/images/ab416fbffdc902f75a3e2529daac1556.png",
+      "image": "data/images/86121641103569eb448b295feaa60d7f.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "published": "2026-08-15T13:43:46",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "published": "2026-08-15T18:33:25",
       "description": "",
-      "image": "data/images/9014df27caaaae609e2cfe260c6fb1ad.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "published": "2026-08-15T14:08:55",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/d0214f983941c846a524d64275a8171d8efcaf29.png?1773178052",
       "summary": "Summary unavailable."
     },
     {
@@ -204,16 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "published": "2026-08-14T15:43:10",
-      "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_design_10_p3wN1dg.width-1300.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Could a computer scientist build a brain?",
       "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
       "published": "2026-08-15T13:26:28",
@@ -224,11 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "published": "2026-08-15T04:42:07",
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "published": "2026-08-15T16:38:34",
       "description": "",
-      "image": "https://chenxiachan.github.io/thoughtdag/assets/thoughtdag-story-poster-en-horizontal.jpg",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02448-x/d41586-026-02448-x_53083048.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "published": "2026-08-15T13:43:46",
+      "description": "",
+      "image": "data/images/9014df27caaaae609e2cfe260c6fb1ad.png",
       "summary": "Summary unavailable."
     }
   ],
