@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:11:46.254454",
+  "updated": "2026-08-15T16:09:11.798301",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "published": "2026-08-15T04:42:07",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "published": "2026-08-15T15:32:25",
       "description": "",
-      "image": "https://chenxiachan.github.io/thoughtdag/assets/thoughtdag-story-poster-en-horizontal.jpg",
+      "image": "https://spectrum.ieee.org/media-library/cryo-em-density-map-of-a-virion.jpg?id=67609610&width=1200&height=600&coordinates=0%2C69%2C0%2C442",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The AI Situation in Software Development",
+      "url": "https://srikanth.ch/posts/the-ai-situation/",
+      "published": "2026-08-15T14:12:27",
+      "description": "",
+      "image": "data/images/ab416fbffdc902f75a3e2529daac1556.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "published": "2026-08-15T13:43:46",
+      "description": "",
+      "image": "data/images/9014df27caaaae609e2cfe260c6fb1ad.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "published": "2026-08-15T14:08:55",
+      "description": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "published": "2026-08-15T10:39:41",
+      "description": "",
+      "image": "data/images/f4f96fa33bcc2774acd9356ce072840a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "published": "2026-08-14T15:58:59",
+      "title": "Could a computer scientist build a brain?",
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "published": "2026-08-15T13:26:28",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!uug6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Faibyhand.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-636237388%26version%3D9",
+      "image": "data/images/7921a04eaf74659cfa2a3378dab8f26e.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "published": "2026-08-15T09:20:07",
+      "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "published": "2026-08-15T04:42:07",
       "description": "",
-      "image": "data/images/d33d07f357aa93decaa443c69c080e60.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "published": "2026-08-15T07:31:46",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
+      "image": "https://chenxiachan.github.io/thoughtdag/assets/thoughtdag-story-poster-en-horizontal.jpg",
       "summary": "Summary unavailable."
     }
   ],
