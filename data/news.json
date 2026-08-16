@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:07:58.251850",
+  "updated": "2026-08-16T00:27:46.070473",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "published": "2026-08-15T19:12:53",
+      "description": "",
+      "image": "data/images/ddffd1e41aa1ff5934bb77c278dfb12c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI has access to a vastly larger working memory than the human brain",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "published": "2026-08-15T18:13:02",
       "description": "",
@@ -164,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "So How Is AI Drug Discovery Doing, Really?",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "published": "2026-08-15T19:12:53",
+      "title": "Jaithon 3, a fast programming language with the perfect syntax",
+      "url": "https://github.com/abhiramasonny/jaithon",
+      "published": "2026-08-11T23:13:57",
       "description": "",
-      "image": "data/images/86121641103569eb448b295feaa60d7f.png",
+      "image": "https://opengraph.githubassets.com/621cf75afc80bb1a798770929a7332fd55612d23a8c9b5ecbfb51171b2654861/abhiramasonny/jaithon",
       "summary": "Summary unavailable."
     },
     {
@@ -184,48 +194,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "published": "2026-08-15T10:39:41",
       "description": "",
-      "image": "data/images/f4f96fa33bcc2774acd9356ce072840a.png",
+      "image": "data/images/4fc6b9e59366e6286e7c57e2229a922d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Could a computer scientist build a brain?",
-      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-      "published": "2026-08-15T13:26:28",
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "url": "https://xescu.re/keeta-consensus.pdf",
+      "published": "2026-08-15T21:49:45",
       "description": "",
-      "image": "data/images/7921a04eaf74659cfa2a3378dab8f26e.png",
+      "image": "data/images/94a67cf970992a23bb1b2c11f0bf5e17.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-      "url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "published": "2026-08-15T16:38:34",
+      "title": "I Remain a Skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "published": "2026-08-15T16:42:58",
       "description": "",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02448-x/d41586-026-02448-x_53083048.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "published": "2026-08-15T13:43:46",
-      "description": "",
-      "image": "data/images/9014df27caaaae609e2cfe260c6fb1ad.png",
+      "image": "data/images/7c54c1e53bc96ed84dddff3ea03ad49b.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-15",
+    "date": "2026-08-16",
     "speakers": [
       "Alex",
       "Jordan"
