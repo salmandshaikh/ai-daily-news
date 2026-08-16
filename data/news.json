@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T04:24:00.108705",
+  "updated": "2026-08-16T08:13:35.277230",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
-      "url": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
-      "published": "2026-08-16T04:02:38",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "published": "2026-08-16T07:37:53",
       "description": "",
-      "image": "https://ktwu01.github.io/benchmark-radar/assets/og-card.png",
+      "image": "data/images/ff2a307b0b8ad56ca023b9cb691a0865.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+      "url": "https://github.com/jitpass/jit",
+      "published": "2026-08-16T06:55:04",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/b509dd1336413707dc24f7206c79770b77268c359eeffea44cf3a2ee33ca42f3/jitpass/jit",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-      "published": "2026-08-15T18:33:25",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "published": "2026-08-15T22:41:51",
       "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/d0214f983941c846a524d64275a8171d8efcaf29.png?1773178052",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://arxiv.org/abs/2608.13122",
-      "published": "2026-08-15T22:41:51",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "published": "2026-08-15T18:33:25",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "published": "2026-08-15T10:39:41",
-      "description": "",
-      "image": "data/images/4fc6b9e59366e6286e7c57e2229a922d.png",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/d0214f983941c846a524d64275a8171d8efcaf29.png?1773178052",
       "summary": "Summary unavailable."
     }
   ],
