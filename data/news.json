@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:12:22.961103",
+  "updated": "2026-08-17T20:12:23.745145",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "published": "Mon, 17 Aug 2026 19:46:21 GMT",
+      "description": "",
+      "image": "data/images/0ee0087fbb05d7fab6afc4a8b99a89b2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "State of Open Models: Summer 2026 Observations",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "published": "Fri, 14 Aug 2026 00:00:00 GMT",
@@ -142,33 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "published": "Wed, 12 Aug 2026 14:00:51 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "published": "2026-08-17T19:47:15",
       "description": "",
-      "image": "data/images/622b5a30fe8af4a5a8f77e957cd82140.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "published": "2026-08-17T14:18:38",
       "description": "",
       "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "published": "2026-08-17T12:09:42",
-      "description": "",
-      "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +184,71 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "published": "2026-08-17T12:09:42",
+      "description": "",
+      "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "published": "2026-08-17T15:36:18",
+      "description": "",
+      "image": "https://speko.ai/opengraph-image?b1c5b7b39189286b",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "published": "2026-08-17T19:06:11",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "published": "2026-08-17T18:28:07",
+      "description": "",
+      "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2025/09/img-blog-roboflow-playground.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "published": "2026-08-17T18:10:16",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Sokoban AI Solver",
       "url": "https://mkornreich.me/projects/sokoban/",
       "published": "2026-08-17T13:07:00",
       "description": "",
       "image": "https://mkornreich.me/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "published": "2026-08-17T01:59:56",
+      "description": "",
+      "image": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_400x400.jpg",
       "summary": "Summary unavailable."
     }
   ],
