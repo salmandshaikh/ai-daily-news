@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-17T12:16:03.251228",
+  "updated": "2026-08-17T16:12:22.961103",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The Defender\u2019s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "published": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "image": "data/images/8e683bd6ee0e96e657226a277840af4a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "published": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "image": "data/images/39e2e9ecc0e56053fe4ac7bcf84e54f7.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Thu, 13 Aug 2026 10:00:00 GMT",
       "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
       "image": "data/images/0823492200754044d5efc0980821f5d0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "published": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "image": "data/images/78164c624e6393639f81b2c5a130fa19.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "published": "Wed, 12 Aug 2026 06:00:00 GMT",
-      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "image": "data/images/e39993603042ebea3bb2b8a608e4cfb2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,9 +154,29 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "published": "2026-08-17T00:48:21",
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "published": "2026-08-17T14:18:38",
+      "description": "",
+      "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "published": "2026-08-17T12:09:42",
+      "description": "",
+      "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "published": "2026-08-17T14:07:56",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
@@ -164,31 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Self hosted email continues to steeply decline",
-      "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
-      "published": "2026-08-17T10:45:14",
+      "title": "Show HN: Sokoban AI Solver",
+      "url": "https://mkornreich.me/projects/sokoban/",
+      "published": "2026-08-17T13:07:00",
       "description": "",
-      "image": "https://labs.ripe.net/media/images/iStock-92883867.width-500.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "published": "2026-08-16T14:44:55",
-      "description": "",
-      "image": "data/images/463062791e169c9b077e63de1971afd9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Red queen hypothesis \u2013 A new way forward for self-improving AI",
-      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-      "published": "2026-08-16T20:01:13",
-      "description": "",
-      "image": "data/images/e438776b408b30a9f81b89e2ed8c19db.png",
+      "image": "https://mkornreich.me/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
