@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-18T08:20:25.913149",
+  "updated": "2026-08-18T12:18:03.554878",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "image": "data/images/2c441dcfde55f1399db4f3c1057e6756.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "image": "data/images/3b52e364c9bf35f7d11a2666cf53f18c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Mon, 17 Aug 2026 03:15:00 GMT",
       "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
       "image": "data/images/933c06eec2e5041bc1d84bf33795f74c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The builder\u2019s guide to GPT\u20115.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "published": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "image": "data/images/b752e20eb254f050fb6b9178014f3bfb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "published": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "image": "data/images/0823492200754044d5efc0980821f5d0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "published": "2026-08-18T10:13:28",
+      "description": "",
+      "image": "https://image.theregister.com/5273664.jpg?imageId=5273664&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "published": "2026-08-17T21:03:18",
       "description": "",
       "image": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "published": "2026-08-17T20:46:10",
+      "description": "",
+      "image": "https://responsiblestatecraft.org/media-library/screenshot-of-the-hanover-institute-s-website-taken-on-aug-16-2026.png?id=67630219&width=1200&height=600&coordinates=0%2C0%2C0%2C65",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "published": "2026-08-17T14:18:38",
+      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+      "published": "2026-08-15T19:11:47",
       "description": "",
-      "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
+      "image": "data/images/5c02092bb13d8e9957f3981a42503048.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "published": "2026-08-17T20:46:10",
+      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "published": "2026-08-17T14:18:38",
       "description": "",
-      "image": "https://responsiblestatecraft.org/media-library/screenshot-of-the-hanover-institute-s-website-taken-on-aug-16-2026.png?id=67630219&width=1200&height=600&coordinates=0%2C0%2C0%2C65",
+      "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
       "summary": "Summary unavailable."
     },
     {
@@ -214,26 +234,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "published": "2026-08-17T19:47:15",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "published": "2026-08-17T14:07:56",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Repair Cafe \u2013 Fix Your Broken Items",
       "url": "https://www.repaircafe.org/",
       "published": "2026-08-17T23:28:28",
@@ -244,11 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "published": "2026-08-17T15:36:18",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "published": "2026-08-17T14:07:56",
       "description": "",
-      "image": "https://speko.ai/opengraph-image?b1c5b7b39189286b",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
