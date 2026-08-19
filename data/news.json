@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-18T20:09:41.303964",
+  "updated": "2026-08-19T00:25:45.895850",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Strengthening Democratic Oversight in National Security",
+      "title": "Strengthening democratic oversight in national security",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "published": "Tue, 18 Aug 2026 19:00:00 GMT",
       "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "image": "data/images/0a1591ec2ebf0a93cb4c4edbc6a1eba3.png",
+      "image": "data/images/87f043a7640bdef5219e71dedd2b1f8d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "description": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "image": "data/images/08517fd443e3696092b7c38a407511d1.png",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "published": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "description": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "image": "data/images/812c4af9d6f2c56700381441c376fd46.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Norway Should Buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "published": "2026-08-18T19:30:29",
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://modelmap.cc",
+      "published": "2026-08-18T23:57:36",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
+      "image": "data/images/b4b2b4d665fb92f1b50e4a67e0bcc399.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "published": "2026-08-18T17:24:53",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "published": "2026-08-18T22:08:07",
       "description": "",
-      "image": "data/images/e0266ea94bbde823f11b57db1664ef54.png",
+      "image": "https://linear.app/static/og/data-v1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "published": "2026-08-18T19:30:29",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -190,42 +200,12 @@
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: PantheonGPU \u2013 GPU health testing and AI workload benchmarking",
-      "url": "https://pantheongpu.com/",
-      "published": "2026-08-18T18:47:51",
-      "description": "",
-      "image": "https://pantheongpu.com/assets/logo.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fairphone is now officially available in the United States",
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "published": "2026-08-18T12:42:53",
-      "description": "",
-      "image": "https://www.fairphone.com/web/content/fairphone.story/192/thumbnail/FP6+Launch-Blog-Header.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: macOS data protection keychain for Electron apps",
-      "url": "https://github.com/biw/keychain-store",
-      "published": "2026-08-18T17:25:19",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/62262f97279d35e39e71fd7cc3363baddd1b9feb36f074c025677b445f0972ff/biw/keychain-store",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "speakers": [
       "Alex",
       "Jordan"
