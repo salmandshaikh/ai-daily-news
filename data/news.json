@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-19T12:17:31.173261",
+  "updated": "2026-08-19T16:18:27.295140",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "image": "data/images/d9d665e847c78826dc9f9fdf0e3a3d78.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 18 Aug 2026 11:00:00 GMT",
       "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
       "image": "data/images/875c9767ae123f9423dab924ab442b4a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "image": "data/images/3b52e364c9bf35f7d11a2666cf53f18c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "published": "Wed, 19 Aug 2026 13:48:49 GMT",
+      "description": "",
+      "image": "data/images/b1aaf2d6d7c57569d477a5e7a36015d9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "How Much Memory Does Your Agent Actually Need?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "published": "Tue, 18 Aug 2026 18:09:38 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "published": "Thu, 13 Aug 2026 17:16:04 GMT",
-      "description": "",
-      "image": "data/images/ff193891500ccabb542562afc3154d83.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "GrapheneOS in 2027 available on high-end Motorola phones",
@@ -159,6 +159,16 @@
       "published": "2026-08-19T11:46:58",
       "description": "",
       "image": "data/images/7ae98547ec5f959224b63ff5b525c63c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "published": "2026-08-19T11:21:50",
+      "description": "",
+      "image": "https://sprocketfox.io/xssfox/images/war.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Microgpt in pure C hits 10M tps on Apple m5",
+      "url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "published": "2026-08-18T15:46:46",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/ac6d687c9ade63f0214e28c0f3302e7dd9051ae00f261b3ea3c0b867bd5c7eec/vixhal-baraiya/microgpt-c",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Activation Energy is a good model for a lot of things",
       "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
       "published": "2026-08-14T15:40:16",
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
-      "published": "2026-08-18T23:57:36",
+      "title": "Show HN: Nikon F100 Film Camera Repair Notes",
+      "url": "https://github.com/enthdegree/f100",
+      "published": "2026-08-15T00:50:57",
       "description": "",
-      "image": "data/images/b4b2b4d665fb92f1b50e4a67e0bcc399.png",
+      "image": "https://opengraph.githubassets.com/b428096418c6bafb5da1a8170230df562bfec267d1361957e57dd3d291ed6795/enthdegree/f100",
       "summary": "Summary unavailable."
     }
   ],
