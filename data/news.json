@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-19T16:18:27.295140",
+  "updated": "2026-08-19T20:27:58.259903",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "published": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "image": "data/images/abfabcbdc7e9fc10d4e5200b5491a458.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 18 Aug 2026 11:00:00 GMT",
       "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
       "image": "data/images/2c441dcfde55f1399db4f3c1057e6756.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "image": "data/images/875c9767ae123f9423dab924ab442b4a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "published": "2026-08-19T11:46:58",
-      "description": "",
-      "image": "data/images/7ae98547ec5f959224b63ff5b525c63c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "published": "2026-08-19T11:21:50",
       "description": "",
       "image": "https://sprocketfox.io/xssfox/images/war.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Extensible Software in the age of LLMs",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "published": "2026-08-19T16:26:05",
+      "description": "",
+      "image": "https://jeremymorrell.dev/_astro/omg-meme-social.BBc_Z2VQ.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "published": "2026-08-19T15:14:25",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "published": "2026-08-19T17:47:29",
+      "description": "",
+      "image": "data/images/47b8be7287bbbdb6170dfaeeff9815d6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ramp Launches a Model Router",
+      "url": "https://router.com",
+      "published": "2026-08-19T19:26:18",
+      "description": "",
+      "image": "https://router.com/og-3.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +214,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "published": "2026-08-18T18:14:59",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Microgpt in pure C hits 10M tps on Apple m5",
       "url": "https://github.com/vixhal-baraiya/microgpt-c",
       "published": "2026-08-18T15:46:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ac6d687c9ade63f0214e28c0f3302e7dd9051ae00f261b3ea3c0b867bd5c7eec/vixhal-baraiya/microgpt-c",
+      "image": "https://opengraph.githubassets.com/ad4245b71fc9bbc9b5e2a88c9a6d862c8db125b93d60292e0aa6647bde80981a/vixhal-baraiya/microgpt-c",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Activation Energy is a good model for a lot of things",
-      "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-      "published": "2026-08-14T15:40:16",
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "url": "https://arxiv.org/abs/2503.08679",
+      "published": "2026-08-19T16:18:57",
       "description": "",
-      "image": "data/images/24455090fa0c386e9bdb297bb614ae30.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Nikon F100 Film Camera Repair Notes",
-      "url": "https://github.com/enthdegree/f100",
-      "published": "2026-08-15T00:50:57",
+      "title": "Devices with GrapheneOS support should be available in 2027",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "published": "2026-08-19T11:46:58",
       "description": "",
-      "image": "https://opengraph.githubassets.com/b428096418c6bafb5da1a8170230df562bfec267d1361957e57dd3d291ed6795/enthdegree/f100",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
