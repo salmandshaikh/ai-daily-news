@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-20T12:19:31.624589",
+  "updated": "2026-08-20T16:18:56.261969",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "published": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "image": "data/images/19677d7aba65fc6fdbd44bfbbf695e6b.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 18 Aug 2026 19:00:00 GMT",
       "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "image": "data/images/87f043a7640bdef5219e71dedd2b1f8d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "published": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "image": "data/images/2c441dcfde55f1399db4f3c1057e6756.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,61 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Don't Paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "published": "2026-08-20T08:20:44",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "published": "2026-08-20T12:04:38",
       "description": "",
-      "image": "https://dontpastetheai.com/assets/og-image.png",
+      "image": "https://simedw.com/2026/08/20/midi-autocomplete/images/rolltab_phone.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "published": "2026-08-20T11:42:20",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "published": "2026-08-20T15:26:02",
       "description": "",
-      "image": "https://franciscotrindade.me/blog-images/the-kids-are-really-alright.png",
+      "image": "https://opengraph.githubassets.com/d3f8cbfffbf6cb01fd61c9aff33266947fc23e3ed74610995c43c2f63ed961bd/zachahn/vomit",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "published": "2026-08-19T11:21:50",
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "published": "2026-08-20T13:56:59",
       "description": "",
-      "image": "https://sprocketfox.io/xssfox/images/war.png",
+      "image": "https://dreadnode.io/images/blog/every-model-cheats-hero.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "published": "2026-08-19T15:14:25",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "published": "2026-08-20T15:06:53",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://yaros.ae/data/images/social/blog/preview.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "published": "2026-08-19T10:15:00",
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "url": "https://pub.doub.ly/",
+      "published": "2026-08-20T14:38:28",
       "description": "",
-      "image": "https://theremin.bizibah.com/og.png",
+      "image": "https://pub.doub.ly/og-card.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "published": "2026-08-18T18:14:59",
+      "title": "An American Mosaic (interactive map of ancestry census data)",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+      "published": "2026-08-16T16:32:50",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&h=900&fit=fill",
+      "image": "data/images/117fadb567cb0597e343639886fe4720.png",
       "summary": "Summary unavailable."
     }
   ],
