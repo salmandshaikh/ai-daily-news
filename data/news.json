@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T00:29:21.067309",
+  "updated": "2026-08-21T04:26:21.796807",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "published": "2026-08-21T00:15:12",
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "published": "2026-08-21T02:37:47",
       "description": "",
-      "image": "data/images/f5a2eaaa2131791ad0aca685e2f80229.png",
+      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Captain Zilog",
+      "url": "https://www.zilog.com/captain_zilog/",
+      "published": "2026-08-17T12:42:47",
+      "description": "",
+      "image": "data/images/45439397e608a0c080cdda57c72303be.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "published": "2026-08-20T12:04:38",
-      "description": "",
-      "image": "https://simedw.com/2026/08/20/midi-autocomplete/images/rolltab_phone.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
       "published": "2026-08-20T15:26:02",
       "description": "",
-      "image": "https://opengraph.githubassets.com/a0b924a56306687cade460b7c18663e0a07f670f1f119060d4db0b0e1a96b357/zachahn/vomit",
+      "image": "https://opengraph.githubassets.com/094211687eb1f52142bb8e13d911cee225f6d960b3d6e4e1ce2dceea0f546a6d/zachahn/vomit",
       "summary": "Summary unavailable."
     },
     {
