@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T20:14:25.229726",
+  "updated": "2026-08-21T00:29:21.067309",
   "articles": [
     {
       "source": "RSS",
@@ -14,11 +14,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "url": "https://openai.com/index/stampli",
       "published": "Thu, 20 Aug 2026 00:00:00 GMT",
       "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "image": "data/images/19677d7aba65fc6fdbd44bfbbf695e6b.png",
+      "image": "data/images/3ce1af9f091661978ae57becde862b03.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
-      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-      "published": "2026-08-20T18:54:32",
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "published": "2026-08-21T00:15:12",
       "description": "",
-      "image": "data/images/a056c1ef97bf443a0a1bc243612085a5.png",
+      "image": "data/images/f5a2eaaa2131791ad0aca685e2f80229.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,18 +184,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
-      "url": "https://dl.acm.org/doi/10.1145/3759429.3762631",
-      "published": "2026-08-13T18:30:21",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "published": "2026-08-20T15:26:02",
       "description": "",
-      "image": "data/images/ef1b15490c03c627495b8d230d38a079.png",
+      "image": "https://opengraph.githubassets.com/a0b924a56306687cade460b7c18663e0a07f670f1f119060d4db0b0e1a96b357/zachahn/vomit",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "published": "2026-08-20T15:06:53",
+      "description": "",
+      "image": "https://yaros.ae/data/images/social/blog/preview.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "published": "2026-08-20T13:56:59",
+      "description": "",
+      "image": "https://dreadnode.io/images/blog/every-model-cheats-hero.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-20",
+    "date": "2026-08-21",
     "speakers": [
       "Alex",
       "Jordan"
