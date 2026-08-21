@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T08:23:26.321995",
+  "updated": "2026-08-21T12:19:23.700991",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published": "Fri, 21 Aug 2026 11:59:48 +0000",
+      "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Introducing Gemini 3.7 Flash",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "published": "Thu, 13 Aug 2026 17:04:18 +0000",
@@ -89,16 +99,6 @@
       "published": "Thu, 30 Jul 2026 15:00:59 +0000",
       "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "image": "data/images/b874a4e292426a824d98450136290efb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "published": "Wed, 29 Jul 2026 16:02:10 +0000",
-      "description": "",
-      "image": "data/images/7c916ac4669144bf184355b63b29f8cc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "published": "2026-08-21T10:05:46",
+      "description": "",
+      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Flat Chair by Sara Paculdo",
+      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+      "published": "2026-08-17T14:01:37",
+      "description": "",
+      "image": "data/images/36a3964d504ec8a458e51f3e6a24b4c4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "published": "2026-08-20T15:26:02",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/661f73187ba2ad79181d4cd65ea9dbeed3bc33908b61311b74609793f0bb44d9/zachahn/vomit",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "published": "2026-08-20T19:05:36",
@@ -174,41 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "published": "2026-08-20T15:26:02",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/5864beb8020664d8642f9cbde022cd61e67d9f54061ddb920f313be32b86640c/zachahn/vomit",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Anti-AI fonts are useless and harmful",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
       "published": "2026-08-20T15:06:53",
       "description": "",
       "image": "https://yaros.ae/data/images/social/blog/preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "published": "2026-08-21T02:37:47",
-      "description": "",
-      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Argentic \u2013 An L402 Lightning toll booth for AI scraping agents",
-      "url": "https://Argentic.network",
-      "published": "2026-08-21T06:24:16",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
