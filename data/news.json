@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:26:21.796807",
+  "updated": "2026-08-21T08:23:26.321995",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "published": "2026-08-21T02:37:47",
+      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "published": "2026-08-20T19:05:36",
       "description": "",
-      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
+      "image": "https://www.danielvaughn.dev/opengraph-image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "published": "2026-08-20T19:05:36",
-      "description": "",
-      "image": "https://www.danielvaughn.dev/opengraph-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
       "published": "2026-08-20T15:26:02",
       "description": "",
-      "image": "https://opengraph.githubassets.com/094211687eb1f52142bb8e13d911cee225f6d960b3d6e4e1ce2dceea0f546a6d/zachahn/vomit",
+      "image": "https://opengraph.githubassets.com/5864beb8020664d8642f9cbde022cd61e67d9f54061ddb920f313be32b86640c/zachahn/vomit",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Every Model Cheats",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "published": "2026-08-20T13:56:59",
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "published": "2026-08-21T02:37:47",
       "description": "",
-      "image": "https://dreadnode.io/images/blog/every-model-cheats-hero.png",
+      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Argentic \u2013 An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://Argentic.network",
+      "published": "2026-08-21T06:24:16",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
