@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:18:04.991467",
+  "updated": "2026-08-21T20:11:04.755816",
   "articles": [
     {
       "source": "RSS",
@@ -154,37 +154,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "published": "2026-08-21T10:05:46",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "published": "2026-08-19T06:13:31",
       "description": "",
-      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
+      "image": "data/images/a0359c32031ff0a76717733ddac12d39.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Boosted Homework Scores by 18% \u2013 Then Exam Scores Dropped 20%, Study Shows",
-      "url": "https://canews24.online/?p=71",
-      "published": "2026-08-21T15:25:42",
-      "description": "",
-      "image": "data/images/d6ab9a63f8b9c59d97bbc544fc2d5149.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: AgentSight \u2013 eBPF observability for AI agents, no code changes",
-      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-      "published": "2026-08-21T15:21:10",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1195873793/e3f09d3a-3b99-4615-8948-44bccc219b45",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
       "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
       "published": "2026-08-21T15:51:10",
       "description": "",
@@ -194,21 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Every shape can be cut exactly in half with one straight line",
-      "url": "https://bisecto.com/every-shape-can-be-cut-in-half.html",
-      "published": "2026-08-21T15:45:44",
+      "title": "LiteLLM (YC W23) Is Hiring \u2013 Rust / Performance Engineers",
+      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "published": "2026-08-21T17:00:23",
       "description": "",
-      "image": "https://bisecto.com/og-image.png",
+      "image": "data/images/32ab7ff4a54815858d262f4bb4f03942.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Flat Chair by Sara Paculdo",
-      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "published": "2026-08-17T14:01:37",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "published": "2026-08-21T11:48:05",
       "description": "",
-      "image": "data/images/36a3964d504ec8a458e51f3e6a24b4c4.png",
+      "image": "data/images/81f6e56ba34f3819041c27016da02aa7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+      "published": "2026-08-18T14:29:20",
+      "description": "",
+      "image": "https://notactuallytreyanastasio.github.io/shoehorn/og.png",
       "summary": "Summary unavailable."
     }
   ],
