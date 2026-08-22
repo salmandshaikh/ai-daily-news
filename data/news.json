@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:11:04.755816",
+  "updated": "2026-08-22T00:26:12.309683",
   "articles": [
     {
       "source": "RSS",
@@ -164,21 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "published": "2026-08-21T15:51:10",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "published": "2026-08-21T23:09:06",
       "description": "",
-      "image": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/assets/image.png",
+      "image": "https://ozbrain.com/og.png?v=4",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LiteLLM (YC W23) Is Hiring \u2013 Rust / Performance Engineers",
-      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-      "published": "2026-08-21T17:00:23",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "published": "2026-08-21T15:51:10",
       "description": "",
-      "image": "data/images/32ab7ff4a54815858d262f4bb4f03942.png",
+      "image": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/assets/image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,18 +194,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
-      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-      "published": "2026-08-18T14:29:20",
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "published": "2026-08-21T02:37:47",
       "description": "",
-      "image": "https://notactuallytreyanastasio.github.io/shoehorn/og.png",
+      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "speakers": [
       "Alex",
       "Jordan"
