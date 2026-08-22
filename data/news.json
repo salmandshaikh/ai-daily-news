@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:19:54.214177",
+  "updated": "2026-08-22T08:14:45.908516",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "published": "2026-08-21T23:09:06",
-      "description": "",
-      "image": "https://ozbrain.com/og.png?v=4",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "published": "2026-08-19T06:13:31",
       "description": "",
       "image": "data/images/a0359c32031ff0a76717733ddac12d39.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "published": "2026-08-21T15:51:10",
-      "description": "",
-      "image": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/assets/image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "published": "2026-08-21T23:09:06",
+      "description": "",
+      "image": "https://ozbrain.com/og.png?v=4",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "published": "2026-08-21T11:48:05",
       "description": "",
       "image": "data/images/81f6e56ba34f3819041c27016da02aa7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "published": "2026-08-21T15:51:10",
+      "description": "",
+      "image": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/assets/image.png",
       "summary": "Summary unavailable."
     }
   ],
