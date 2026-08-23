@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:08:47.309257",
+  "updated": "2026-08-23T00:28:11.084264",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "published": "2026-08-21T13:43:33",
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "published": "2026-08-22T22:14:27",
       "description": "",
-      "image": "data/images/9975fa6b801091675a2e0acc9362a6f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Guess which of these LLM outputs is watermarked",
-      "url": "https://sgoedecke.github.io/watermark-quiz/",
-      "published": "2026-08-20T14:03:58",
-      "description": "",
-      "image": "data/images/431e4a5992f704cba7f891ea81664f3b.png",
+      "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
       "summary": "Summary unavailable."
     },
     {
@@ -180,12 +170,32 @@
       "description": "",
       "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "published": "2026-08-21T13:43:33",
+      "description": "",
+      "image": "data/images/9975fa6b801091675a2e0acc9362a6f0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "published": "2026-08-21T23:09:06",
+      "description": "",
+      "image": "https://ozbrain.com/og.png?v=4",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "speakers": [
       "Alex",
       "Jordan"
