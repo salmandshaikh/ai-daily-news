@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:10:17.930762",
+  "updated": "2026-08-23T20:08:29.948693",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How Complex Systems Fail",
+      "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
       "published": "2026-08-23T15:13:31",
       "description": "",
-      "image": "data/images/57cfde395e4348e603668e3cf200925b.png",
+      "image": "data/images/6d269d4d9a69037f2da83c57d4f31074.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +174,71 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Hacker News in Uncompromised Detail",
-      "url": "https://vale.rocks/posts/hacker-news",
-      "published": "2026-08-23T15:10:23",
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "published": "2026-08-23T18:08:13",
       "description": "",
-      "image": "https://vale.rocks/assets/og/post.webp",
+      "image": "data/images/edab36aa76277fdad306e49a9d032cf5.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "published": "2026-08-22T18:14:16",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "published": "2026-08-23T17:59:52",
       "description": "",
-      "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
+      "image": "data/images/a3c331cecbeac4442b08229655f81494.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "published": "2026-08-22T22:14:27",
+      "title": "Predicting AI model release dates with stats",
+      "url": "https://releaseoracle.xyz/",
+      "published": "2026-08-23T18:01:30",
       "description": "",
-      "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
+      "image": "https://releaseoracle.xyz/og-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+      "published": "2026-08-23T18:00:20",
+      "description": "",
+      "image": "https://img.andros.dev/Ed2ya-x6rvSJ5fouyHe5ToaL4p8=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/emilipothese-LEPhZkQbUrk-unsplash.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "published": "2026-08-23T18:16:37",
+      "description": "",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+      "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
+      "published": "2026-08-23T17:07:04",
+      "description": "",
+      "image": "data/images/7a90c7697c26941cd00be9b54bf2fcad.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "published": "2026-08-23T18:09:01",
+      "description": "",
+      "image": "https://omegion.dev/favicon/android-chrome-512x512.png",
       "summary": "Summary unavailable."
     }
   ],
