@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:13:10.028709",
+  "updated": "2026-08-23T16:10:17.930762",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "How Complex Systems Fail",
+      "url": "https://how.complexsystems.fail/",
+      "published": "2026-08-23T15:13:31",
+      "description": "",
+      "image": "data/images/57cfde395e4348e603668e3cf200925b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "published": "2026-08-23T14:23:09",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hacker News in Uncompromised Detail",
+      "url": "https://vale.rocks/posts/hacker-news",
+      "published": "2026-08-23T15:10:23",
+      "description": "",
+      "image": "https://vale.rocks/assets/og/post.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "published": "2026-08-22T18:14:16",
@@ -169,26 +199,6 @@
       "published": "2026-08-22T22:14:27",
       "description": "",
       "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "published": "2026-08-21T13:43:33",
-      "description": "",
-      "image": "data/images/9975fa6b801091675a2e0acc9362a6f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "url": "https://www.pianoify.net/",
-      "published": "2026-08-21T15:44:40",
-      "description": "",
-      "image": "https://www.pianoify.net/og.png",
       "summary": "Summary unavailable."
     }
   ],
