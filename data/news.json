@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:20:16.895558",
+  "updated": "2026-08-24T16:20:55.640412",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "published": "2026-08-24T15:28:04",
+      "description": "",
+      "image": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/social-preview.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "published": "2026-08-24T15:22:43",
+      "description": "",
+      "image": "https://developers.openai.com/og/api/docs/pricing.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "published": "2026-08-24T15:48:45",
+      "description": "",
+      "image": "https://ipshipyard.com/images/blog/2026-ipfs-blackhole.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "published": "2026-08-24T15:52:33",
+      "description": "",
+      "image": "https://larsfaye.com/opengraph-expertise.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "published": "2026-08-23T20:38:09",
@@ -184,71 +224,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "published": "2026-08-24T06:25:31",
+      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+      "published": "2026-08-24T15:10:25",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d3db0399ecee9da5807fdb616b533f2540f3fb243de4534830bf1a3bff432d38/thiagotigaz/ocr-it",
+      "image": "https://torrentfreak.com/images/annf.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Agent Is Not the Model",
-      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-      "published": "2026-08-24T11:20:40",
+      "title": "NetBSD GSoC 2026 Improving RAIDframe",
+      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+      "published": "2026-08-24T15:17:38",
       "description": "",
-      "image": "data/images/aa0f6140a2107590d0fa4194c1355cf5.png",
+      "image": "data/images/2e1fcd27addceba656821ba8f1c7d0fc.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "published": "2026-08-23T23:18:17",
+      "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
+      "url": "https://inferquest.org",
+      "published": "2026-08-24T15:02:01",
       "description": "",
-      "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-      "published": "2026-08-24T09:45:02",
-      "description": "",
-      "image": "https://i.guim.co.uk/img/media/9664a763f5a0fe2b5c052529c30c46a64a97fbd9/0_96_3035_2428/master/3035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f723dcb0c9a6ec393d796346bdf325b",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "published": "2026-08-23T19:29:32",
-      "description": "",
-      "image": "data/images/f88c0ddb2e0b74fda26fd22f801865c2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "published": "2026-08-23T17:59:52",
-      "description": "",
-      "image": "data/images/a3c331cecbeac4442b08229655f81494.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "New EU-wide product repair rules come into force",
-      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-      "published": "2026-08-24T05:47:27",
-      "description": "",
-      "image": "https://www.rte.ie/images/0024e2c3-1600.jpg",
+      "image": "https://inferquest.org/opengraph-image?e21f071f0d5b2bce",
       "summary": "Summary unavailable."
     }
   ],
