@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T04:33:20.359364",
+  "updated": "2026-08-24T08:33:30.958398",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,71 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "published": "2026-08-24T06:30:07",
+      "description": "",
+      "image": "https://medicine.washu.edu/app/uploads/2026/08/20240918_GordonLab_0038.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "published": "2026-08-23T20:38:09",
+      "description": "",
+      "image": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "published": "2026-08-23T18:16:37",
       "description": "",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+      "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
+      "published": "2026-08-24T06:25:42",
+      "description": "",
+      "image": "https://morgin.ai/assets/covers/time-release-backdoor-social.jpg?v=20260822-og",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "published": "2026-08-24T06:25:31",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/ea4656520b51a8821343204e8693cd68e5b5a7668d9515d3a56d6a0d22368e71/thiagotigaz/ocr-it",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "published": "2026-08-24T05:47:27",
+      "description": "",
+      "image": "https://www.rte.ie/images/0024e2c3-1600.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "published": "2026-08-23T23:18:17",
+      "description": "",
+      "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,61 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "published": "2026-08-23T23:18:17",
-      "description": "",
-      "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
       "published": "2026-08-23T15:13:31",
       "description": "",
       "image": "data/images/6d269d4d9a69037f2da83c57d4f31074.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "published": "2026-08-23T20:30:50",
-      "description": "",
-      "image": "https://media.cntraveler.com/photos/6a85c96bff5017380bd7c192/16:9/w_1280,c_limit/23-05-31_JPG_(Forest%20bathing,%20Local%20challenge%20Hostel)-80.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "published": "2026-08-23T21:41:17",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/3193862a12a043d1287f4e286b19776c41482b83cee996e121142c4de00999fd/AlpinDale/gpt2.cmake",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Explain it to me like I'm ten",
-      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "published": "2026-08-23T18:08:13",
-      "description": "",
-      "image": "data/images/edab36aa76277fdad306e49a9d032cf5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI and Infrastructure Engineering",
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-      "published": "2026-08-23T18:09:01",
-      "description": "",
-      "image": "https://omegion.dev/favicon/android-chrome-512x512.png",
       "summary": "Summary unavailable."
     }
   ],
