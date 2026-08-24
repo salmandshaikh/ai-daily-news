@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-24T16:20:55.640412",
+  "updated": "2026-08-24T20:15:43.594376",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "description": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "image": "data/images/638911e0219673f94c85e2e544cd2bf2.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 19 Aug 2026 07:00:00 GMT",
       "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "image": "data/images/d9d665e847c78826dc9f9fdf0e3a3d78.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "published": "Tue, 18 Aug 2026 22:00:00 GMT",
-      "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "image": "data/images/3013c89f76d6bf822496192c4aa52b08.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "published": "2026-08-24T15:22:43",
-      "description": "",
-      "image": "https://developers.openai.com/og/api/docs/pricing.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "IPFS Maintainers Winding Down",
       "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
       "published": "2026-08-24T15:48:45",
@@ -184,11 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "published": "2026-08-24T15:52:33",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "published": "2026-08-24T19:03:06",
       "description": "",
-      "image": "https://larsfaye.com/opengraph-expertise.jpg",
+      "image": "https://boydkane.com/static/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "published": "2026-08-24T17:53:14",
+      "description": "",
+      "image": "data/images/f4c6ec2b46c685d1bcb759616e8932db.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Kern \u2013 container and resource runtime in a 1.5 MB binary, no daemon",
+      "url": "https://github.com/getkern/kern",
+      "published": "2026-08-24T18:24:59",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/13bd4c7c35a02f672b4ac43a7d0e5b7cc722bc9152806a49390dad7392e17cd0/getkern/kern",
       "summary": "Summary unavailable."
     },
     {
@@ -204,51 +214,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "published": "2026-08-24T15:22:43",
+      "description": "",
+      "image": "https://developers.openai.com/og/api/docs/pricing.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "published": "2026-08-24T15:52:33",
+      "description": "",
+      "image": "https://larsfaye.com/opengraph-expertise.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "published": "2026-08-24T06:30:07",
       "description": "",
       "image": "https://medicine.washu.edu/app/uploads/2026/08/20240918_GordonLab_0038.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "published": "2026-08-23T18:16:37",
-      "description": "",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
-      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
-      "published": "2026-08-24T15:10:25",
-      "description": "",
-      "image": "https://torrentfreak.com/images/annf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "NetBSD GSoC 2026 Improving RAIDframe",
-      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-      "published": "2026-08-24T15:17:38",
-      "description": "",
-      "image": "data/images/2e1fcd27addceba656821ba8f1c7d0fc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
-      "url": "https://inferquest.org",
-      "published": "2026-08-24T15:02:01",
-      "description": "",
-      "image": "https://inferquest.org/opengraph-image?e21f071f0d5b2bce",
       "summary": "Summary unavailable."
     }
   ],
