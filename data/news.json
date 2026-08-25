@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T20:15:43.594376",
+  "updated": "2026-08-25T00:27:41.833557",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "published": "2026-08-24T22:13:40",
+      "description": "",
+      "image": "https://developer.apple.com/news/images/og/icloud-og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "published": "2026-08-24T15:28:04",
@@ -194,26 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Kern \u2013 container and resource runtime in a 1.5 MB binary, no daemon",
-      "url": "https://github.com/getkern/kern",
-      "published": "2026-08-24T18:24:59",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/13bd4c7c35a02f672b4ac43a7d0e5b7cc722bc9152806a49390dad7392e17cd0/getkern/kern",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "published": "2026-08-23T20:38:09",
-      "description": "",
-      "image": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "published": "2026-08-24T15:22:43",
@@ -230,22 +220,12 @@
       "description": "",
       "image": "https://larsfaye.com/opengraph-expertise.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "published": "2026-08-24T06:30:07",
-      "description": "",
-      "image": "https://medicine.washu.edu/app/uploads/2026/08/20240918_GordonLab_0038.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "speakers": [
       "Alex",
       "Jordan"
