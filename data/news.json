@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T00:27:41.833557",
+  "updated": "2026-08-25T04:26:34.283151",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/c0f7941ca2401449376b91a90100745e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Measuring benchmark optimization in speech recognition",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "published": "Fri, 21 Aug 2026 00:00:00 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "published": "Mon, 17 Aug 2026 19:46:21 GMT",
-      "description": "",
-      "image": "data/images/0ee0087fbb05d7fab6afc4a8b99a89b2.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "published": "2026-08-24T15:48:45",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "published": "2026-08-23T19:39:29",
       "description": "",
-      "image": "https://ipshipyard.com/images/blog/2026-ipfs-blackhole.png",
+      "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "published": "2026-08-25T02:11:39",
+      "description": "",
+      "image": "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/photography/reuters/rtr1zkvu-luke-macgregor-tr.jpg.transform/rect-768/q90/image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -199,26 +209,6 @@
       "published": "2026-08-24T17:53:14",
       "description": "",
       "image": "data/images/f4c6ec2b46c685d1bcb759616e8932db.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "published": "2026-08-24T15:22:43",
-      "description": "",
-      "image": "https://developers.openai.com/og/api/docs/pricing.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "published": "2026-08-24T15:52:33",
-      "description": "",
-      "image": "https://larsfaye.com/opengraph-expertise.jpg",
       "summary": "Summary unavailable."
     }
   ],
