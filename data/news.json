@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:22:03.403693",
+  "updated": "2026-08-25T20:14:30.997144",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
-      "description": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "image": "data/images/638911e0219673f94c85e2e544cd2bf2.png",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "description": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "image": "data/images/bf9d5056f400ed4d8f46edf08d262999.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "description": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "image": "data/images/90fefba5957bf1e4e1234f90334f9ee8.png",
+      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "description": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "image": "data/images/638911e0219673f94c85e2e544cd2bf2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,61 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "published": "2026-08-25T13:01:22",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "published": "2026-08-25T15:20:20",
       "description": "",
-      "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/tile/Apple-M6-and-M5-Ultra-hero-260825-lp.jpg.og.jpg?202608251301",
+      "image": "https://opengraph.githubassets.com/87eef388f606966369b114936119dee2222d0bad4bb78ff737f93536064a866c/ThinkOffApp/CarWatch",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How much of HN is AI?",
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-      "published": "2026-08-25T15:23:41",
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "published": "2026-08-25T17:28:52",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!uOdH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53eb781a-accb-4de0-9d65-7cc0ea08f1b7_2437x1746.png",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/2eb543f912e3fbc3becf633f1826feed6c5cefe8.png?1764101930",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "published": "2026-08-24T22:13:40",
+      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "published": "2026-08-25T14:06:02",
       "description": "",
-      "image": "https://developer.apple.com/news/images/og/icloud-og.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "published": "2026-08-25T14:48:58",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "published": "2026-08-24T15:28:04",
-      "description": "",
-      "image": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/social-preview.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "published": "2026-08-23T19:39:29",
-      "description": "",
-      "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png",
       "summary": "Summary unavailable."
     }
   ],
