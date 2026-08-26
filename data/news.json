@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-26T16:40:39.731226",
+  "updated": "2026-08-26T22:33:25.923585",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "image": "data/images/2d741c06fad8142421f3fe0b7a590c04.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "description": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "image": "data/images/b1f807bfe5781d2578d44328274505e6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "description": "OpenAI shares findings from the Hugging Face security incident and the steps we\u2019re taking to strengthen AI model security, monitoring, and alignment.",
+      "image": "data/images/39e4365ae1a635ed1e7dbb1404757b94.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -23,32 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "description": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "image": "data/images/d4621d317a27942d148b7b1b0d138505.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "published": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "description": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a \u201csovereignty\u201d index praising Russia and criticizing the West.",
-      "image": "data/images/a12d9ca2c37b115ac9af58c10b81bd84.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "published": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "description": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "image": "data/images/bf9d5056f400ed4d8f46edf08d262999.png",
+      "source_name": "Google DeepMind News",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "published": "Wed, 26 Aug 2026 17:01:00 +0000",
+      "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "image": "data/images/4b9774fa149d07676b1cd81d258e49e5.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Thu, 06 Aug 2026 15:06:15 +0000",
       "description": "",
       "image": "data/images/9a27dd5dec2b8dff80b9725bb05d6bcf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "published": "Thu, 30 Jul 2026 15:00:59 +0000",
-      "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "image": "data/images/b874a4e292426a824d98450136290efb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,27 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "published": "2026-08-26T17:42:22",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/8dde53aa7cb6f305643bdad4cdca9bc3417010fd82879b3960145ed7a24fac6a/tailscale/tailcat",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "published": "2026-08-26T19:45:59",
+      "description": "",
+      "image": "https://acceptmarkdown.com/open-graph/home.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "published": "2026-08-26T15:30:05",
       "description": "",
@@ -164,41 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-      "published": "2026-08-26T15:02:15",
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "published": "2026-08-26T20:38:44",
       "description": "",
-      "image": "https://sreenathmenon.com/assets/images/sreenath.jpg",
+      "image": "data/images/9f9cf2742ce509ebd2edc87e2632b2b6.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: How much of Hacker News is AI?",
-      "url": "https://hnstats.com",
-      "published": "2026-08-26T14:16:05",
+      "title": "PageRank explained",
+      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+      "published": "2026-08-26T14:29:05",
       "description": "",
-      "image": "https://hnstats.com/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
-      "url": "https://github.com/AurionMail/docs",
-      "published": "2026-08-26T15:01:11",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/6aa70f840df0e1346bd116e5829e32daaac04827c76194fd2cc7be402f461085/AurionMail/docs",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "published": "2026-08-26T10:04:55",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/00f19b23adaf1dc98bc2f6d87155c298.png",
       "summary": "Summary unavailable."
     }
   ],
