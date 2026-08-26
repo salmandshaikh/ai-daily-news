@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-26T08:27:15.616598",
+  "updated": "2026-08-26T12:25:33.246755",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "image": "data/images/4e9c46f13c58b768f4e79ebf27ac9e7a.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 25 Aug 2026 00:00:00 GMT",
       "description": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
       "image": "data/images/bf9d5056f400ed4d8f46edf08d262999.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
-      "description": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "image": "data/images/638911e0219673f94c85e2e544cd2bf2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "published": "2026-08-26T10:04:55",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "published": "2026-08-25T14:06:02",
@@ -168,37 +178,17 @@
       "url": "https://github.com/runetes/maiao",
       "published": "2026-08-25T22:40:07",
       "description": "",
-      "image": "https://opengraph.githubassets.com/a191f6b6767771616dff08af917814606c85355d2a795ca7e36f41e95a78d878/runetes/maiao",
+      "image": "https://opengraph.githubassets.com/b3e0f031b533624f3fd8e6b7af5be87c32a014b2e2d490b22cad6d443dff47a2/runetes/maiao",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-      "published": "2026-08-26T07:31:31",
+      "title": "Debian polls its developers on AI: permit or ban?",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+      "published": "2026-08-26T10:31:37",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1A8gl7wwcEWGASU1lF3aDf/d4fdb6e2f23203f0f9cf617c1ba435fd/Frame2.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "published": "2026-08-25T22:08:50",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/ccd7ed86c56279721c0fe63fbb08f517837c991420f29ac4d6c49cd25b66cd8b/swimmingbrain/texbrain",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "published": "2026-08-25T15:20:20",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/24659245de3a3448377188a95b907726515f2b10a1b84a0646e998e9c3d429b3/ThinkOffApp/CarWatch",
+      "image": "https://image.theregister.com/5292279.jpg?imageId=5292279&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "summary": "Summary unavailable."
     }
   ],
