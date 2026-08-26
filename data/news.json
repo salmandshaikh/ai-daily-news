@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T12:25:33.246755",
+  "updated": "2026-08-26T16:40:39.731226",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/e3940149819af8c845803e0cf18a113c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Granite 4.2 LLMs: How They're Built",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "published": "Tue, 25 Aug 2026 15:14:14 GMT",
@@ -142,13 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "published": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "published": "2026-08-26T15:30:05",
       "description": "",
-      "image": "data/images/5b156a0cd3e67191f2225f28161f02d1.png",
+      "image": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "published": "2026-08-26T15:02:15",
+      "description": "",
+      "image": "https://sreenathmenon.com/assets/images/sreenath.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: How much of Hacker News is AI?",
+      "url": "https://hnstats.com",
+      "published": "2026-08-26T14:16:05",
+      "description": "",
+      "image": "https://hnstats.com/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+      "url": "https://github.com/AurionMail/docs",
+      "published": "2026-08-26T15:01:11",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/6aa70f840df0e1346bd116e5829e32daaac04827c76194fd2cc7be402f461085/AurionMail/docs",
       "summary": "Summary unavailable."
     },
     {
@@ -159,36 +199,6 @@
       "published": "2026-08-26T10:04:55",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "published": "2026-08-25T14:06:02",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
-      "published": "2026-08-25T22:40:07",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b3e0f031b533624f3fd8e6b7af5be87c32a014b2e2d490b22cad6d443dff47a2/runetes/maiao",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Debian polls its developers on AI: permit or ban?",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
-      "published": "2026-08-26T10:31:37",
-      "description": "",
-      "image": "https://image.theregister.com/5292279.jpg?imageId=5292279&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "summary": "Summary unavailable."
     }
   ],
