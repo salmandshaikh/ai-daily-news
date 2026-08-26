@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:14:30.997144",
+  "updated": "2026-08-26T00:28:46.816525",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "published": "2026-08-25T14:06:02",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "published": "2026-08-25T22:40:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/f9ebbe6783d74ede1e5a9ac7f162d08012c1aca5d0bab9280d0e0765d8208f64/runetes/maiao",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "published": "2026-08-25T22:08:50",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/b15a95212f3338ca30f43fb6b23409075e0c853a3f22e323b215df3812bef32c/swimmingbrain/texbrain",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
       "published": "2026-08-25T15:20:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/87eef388f606966369b114936119dee2222d0bad4bb78ff737f93536064a866c/ThinkOffApp/CarWatch",
+      "image": "https://opengraph.githubassets.com/f900b592c6331ae51bc1be270dde4b2b0df3c1f33b5473cbeed4779afcc30baa/ThinkOffApp/CarWatch",
       "summary": "Summary unavailable."
     },
     {
@@ -170,22 +200,12 @@
       "description": "",
       "image": "https://bookface-images.s3.amazonaws.com/logos/2eb543f912e3fbc3becf633f1826feed6c5cefe8.png?1764101930",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "published": "2026-08-25T14:06:02",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "speakers": [
       "Alex",
       "Jordan"
