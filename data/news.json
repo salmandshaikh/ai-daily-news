@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-27T05:11:31.074094",
+  "updated": "2026-08-27T18:27:03.110507",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "published": "Thu, 27 Aug 2026 09:00:00 GMT",
+      "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "image": "data/images/b1b3d99546108950b13ffea2edd6d9f7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Expanding OpenAI\u2019s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "published": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -33,22 +53,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "image": "data/images/4e9c46f13c58b768f4e79ebf27ac9e7a.png",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "published": "Thu, 27 Aug 2026 16:11:32 +0000",
+      "description": "",
+      "image": "data/images/9bd455d6236cf3b9de919fcedf8efd62.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "published": "Tue, 25 Aug 2026 07:05:00 GMT",
-      "description": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "image": "data/images/f5da0796d64c95dcba12bbf94b234ae8.png",
+      "source_name": "Google DeepMind News",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "published": "Thu, 27 Aug 2026 12:59:16 +0000",
+      "description": "Piloting the world's first double-blind AI evaluations",
+      "image": "data/images/47c194bb9a6fda201c241bb3c3bcc1fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -79,26 +99,6 @@
       "published": "Thu, 13 Aug 2026 17:04:18 +0000",
       "description": "",
       "image": "data/images/cb73ba54b9b093cff446da7872e6b60b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Putting sign language AI into users\u2019 hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "published": "Wed, 12 Aug 2026 14:01:59 +0000",
-      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "image": "data/images/7b8bddf783d960ac416daee9210032e0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "published": "Thu, 06 Aug 2026 15:06:15 +0000",
-      "description": "",
-      "image": "data/images/9a27dd5dec2b8dff80b9725bb05d6bcf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,51 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "published": "2026-08-27T01:46:22",
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "published": "2026-08-27T15:56:58",
       "description": "",
-      "image": "https://opengraph.githubassets.com/953cb8cb43753f20d31d170afa16cf01e3c46455eb52265d14e3f8d7b3e25131/SenteLabsAI/OpenExecutive",
+      "image": "https://calv.info/api/og?title=Small%20Models%20Have%20Arrived",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "published": "2026-08-26T17:42:22",
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://www.bild.ai/jobs",
+      "published": "2026-08-27T17:00:14",
       "description": "",
-      "image": "https://opengraph.githubassets.com/3a0ed806401893a87f258ed2ead2c01b8396c6910018bc8f7b342c429b2c9a25/tailscale/tailcat",
+      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/435bca2f-31b4-401a-8f43-1d2f1f2f95f4/8ce49a52-60c8-41a1-9140-92b9fdf9e614/c67014ba-e124-404e-893b-7f049bc5e253.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Laion Big Video Dataset",
-      "url": "https://projects.laion.ai/bvd/",
-      "published": "2026-08-27T01:50:26",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "published": "2026-08-26T11:23:54",
       "description": "",
-      "image": "data/images/178b97e5326c5321f446192674567197.png",
+      "image": "data/images/411ab8a3b82502e5b896b059cca7158b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "published": "2026-08-26T19:45:59",
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report/",
+      "published": "2026-08-27T13:07:45",
       "description": "",
-      "image": "https://acceptmarkdown.com/open-graph/home.png",
+      "image": "data/images/e4110022f8d1692bab91e411174cc9bb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Getting video models to learn better, faster",
-      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
-      "published": "2026-08-27T01:53:34",
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "published": "2026-08-27T17:33:13",
       "description": "",
-      "image": "https://linum.ai/field-notes/data-filtering-gen-video/opengraph-image?25623195a8d991ca",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg",
       "summary": "Summary unavailable."
     },
     {
