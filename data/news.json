@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T22:33:25.923585",
+  "updated": "2026-08-27T05:11:31.074094",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "published": "2026-08-27T01:46:22",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/953cb8cb43753f20d31d170afa16cf01e3c46455eb52265d14e3f8d7b3e25131/SenteLabsAI/OpenExecutive",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
       "url": "https://github.com/tailscale/tailcat",
       "published": "2026-08-26T17:42:22",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8dde53aa7cb6f305643bdad4cdca9bc3417010fd82879b3960145ed7a24fac6a/tailscale/tailcat",
+      "image": "https://opengraph.githubassets.com/3a0ed806401893a87f258ed2ead2c01b8396c6910018bc8f7b342c429b2c9a25/tailscale/tailcat",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "published": "2026-08-27T01:50:26",
+      "description": "",
+      "image": "data/images/178b97e5326c5321f446192674567197.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,38 +194,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "published": "2026-08-26T15:30:05",
+      "title": "Getting video models to learn better, faster",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+      "published": "2026-08-27T01:53:34",
       "description": "",
-      "image": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
+      "image": "https://linum.ai/field-notes/data-filtering-gen-video/opengraph-image?25623195a8d991ca",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "published": "2026-08-26T20:38:44",
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "published": "2026-08-27T02:37:07",
       "description": "",
-      "image": "data/images/9f9cf2742ce509ebd2edc87e2632b2b6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "PageRank explained",
-      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-      "published": "2026-08-26T14:29:05",
-      "description": "",
-      "image": "data/images/00f19b23adaf1dc98bc2f6d87155c298.png",
+      "image": "data/images/b7035db0786f519f319709838cf21338.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "speakers": [
       "Alex",
       "Jordan"
