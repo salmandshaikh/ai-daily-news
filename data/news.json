@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T18:27:03.110507",
+  "updated": "2026-08-28T03:54:08.673134",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bild AI (YC W25) is hiring product and AI engineers",
-      "url": "https://www.bild.ai/jobs",
-      "published": "2026-08-27T17:00:14",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "published": "2026-08-28T00:06:51",
       "description": "",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/435bca2f-31b4-401a-8f43-1d2f1f2f95f4/8ce49a52-60c8-41a1-9140-92b9fdf9e614/c67014ba-e124-404e-893b-7f049bc5e253.png",
+      "image": "https://terminal-bench-science.ai/terminal-bench-science-og-1200x630.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "published": "2026-08-27T21:18:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/6c35540761f6e33192d5413771062f2ce47dbd02eb4c201a37b0dcb225162e54/experientiallabs/experiential",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "published": "2026-08-27T21:46:39",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/1331428199/00fb8916-a7d6-4fde-9f57-93a2c480c40b",
       "summary": "Summary unavailable."
     },
     {
@@ -184,38 +204,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "url": "https://aiandeducation.mit.edu/report/",
-      "published": "2026-08-27T13:07:45",
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "published": "2026-08-28T01:57:26",
       "description": "",
-      "image": "data/images/e4110022f8d1692bab91e411174cc9bb.png",
+      "image": "data/images/0986a2cd7fea6f87fccd7bdcd7ab03be.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
-      "published": "2026-08-27T17:33:13",
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "published": "2026-08-27T18:04:50",
       "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Humanity has the debate about AI consciousness backwards",
-      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-      "published": "2026-08-27T02:37:07",
-      "description": "",
-      "image": "data/images/b7035db0786f519f319709838cf21338.png",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/5008271abbababe59f4fbb01998697f7dd0b5b60-1280x720.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "speakers": [
       "Alex",
       "Jordan"
