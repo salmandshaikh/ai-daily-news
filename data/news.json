@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-28T03:54:08.673134",
+  "updated": "2026-08-28T15:44:30.883635",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Supporting Thailand\u2019s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "published": "Fri, 28 Aug 2026 02:00:00 GMT",
+      "description": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "image": "data/images/ad5b4d1ab8605d282179137671002849.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "description": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "image": "data/images/b1f807bfe5781d2578d44328274505e6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "description": "OpenAI shares findings from the Hugging Face security incident and the steps we\u2019re taking to strengthen AI model security, monitoring, and alignment.",
-      "image": "data/images/39e4365ae1a635ed1e7dbb1404757b94.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,71 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
+      "url": "https://mastodon.bida.im/@cavallette/117172989300228024",
+      "published": "2026-08-28T14:33:04",
+      "description": "",
+      "image": "data/images/522d5a9f4bccf10d651da57286387715.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI: Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "published": "2026-08-28T11:51:20",
+      "description": "",
+      "image": "https://repository-images.githubusercontent.com/307213173/7b83a5a7-a102-4b8a-abe7-7c14267908fa",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "published": "2026-08-28T06:33:57",
+      "description": "",
+      "image": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I Used AWS Cognito for a Startup. I Wouldn't Do It Again",
+      "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
+      "published": "2026-08-28T13:21:03",
+      "description": "",
+      "image": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare-og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Small Models Have Arrived",
       "url": "https://calv.info/small-models-have-arrived",
       "published": "2026-08-27T15:56:58",
       "description": "",
       "image": "https://calv.info/api/og?title=Small%20Models%20Have%20Arrived",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "published": "2026-08-28T00:06:51",
-      "description": "",
-      "image": "https://terminal-bench-science.ai/terminal-bench-science-og-1200x630.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "url": "https://github.com/experientiallabs/experiential",
-      "published": "2026-08-27T21:18:35",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/6c35540761f6e33192d5413771062f2ce47dbd02eb4c201a37b0dcb225162e54/experientiallabs/experiential",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "published": "2026-08-27T21:46:39",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1331428199/00fb8916-a7d6-4fde-9f57-93a2c480c40b",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-      "published": "2026-08-26T11:23:54",
-      "description": "",
-      "image": "data/images/411ab8a3b82502e5b896b059cca7158b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Stripe said to abandon $50B pursuit of PayPal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-      "published": "2026-08-28T01:57:26",
-      "description": "",
-      "image": "data/images/0986a2cd7fea6f87fccd7bdcd7ab03be.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "published": "2026-08-27T18:04:50",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/5008271abbababe59f4fbb01998697f7dd0b5b60-1280x720.jpg",
       "summary": "Summary unavailable."
     }
   ],
