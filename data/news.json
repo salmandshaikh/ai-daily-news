@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T15:47:16.376859",
+  "updated": "2026-08-29T18:57:32.772216",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "published": "2026-08-29T14:02:10",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "published": "2026-08-29T17:19:47",
       "description": "",
-      "image": "data/images/be87513310684da97f2c2a29d8ac143f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "U.S. sanctions against the A/I Collective",
-      "url": "https://www.inventati.org/",
-      "published": "2026-08-28T12:58:53",
-      "description": "",
-      "image": "data/images/fc68d2a860379e750ec5e2fb193415a3.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +168,17 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "published": "2026-08-29T01:24:13",
       "description": "",
-      "image": "https://opengraph.githubassets.com/df1ccb24c82812417858f1cd40788cf3cde3e4dbc79288e2f3135619ce6f6adb/stemdeckapp/stemdeck",
+      "image": "https://opengraph.githubassets.com/9cbb1d4fd0f952e1f317b94946c187f61fb5dc876e16115ff156229a75d862f5/stemdeckapp/stemdeck",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "published": "2026-08-29T16:16:32",
+      "description": "",
+      "image": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/featured-image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -189,6 +189,16 @@
       "published": "2026-08-28T23:27:45",
       "description": "",
       "image": "https://pwning.systems/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "published": "2026-08-29T14:02:10",
+      "description": "",
+      "image": "data/images/be87513310684da97f2c2a29d8ac143f.png",
       "summary": "Summary unavailable."
     }
   ],
