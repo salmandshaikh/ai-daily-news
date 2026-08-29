@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T18:57:32.772216",
+  "updated": "2026-08-29T22:03:47.542382",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "published": "2026-08-29T18:22:00",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4ebc6bdc52e9be13e062849c7d527d88f083515ccff086b45b804e1e708e9324/vllm-project/vllm/releases/tag/v0.28.0",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "published": "2026-08-29T19:28:28",
+      "description": "",
+      "image": "data/images/b17a423c6f4f211bc88d5cc4309a3f9a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "published": "2026-08-29T17:19:47",
@@ -168,37 +188,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "published": "2026-08-29T01:24:13",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9cbb1d4fd0f952e1f317b94946c187f61fb5dc876e16115ff156229a75d862f5/stemdeckapp/stemdeck",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The growing divide between AI hype and software engineering reality",
-      "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-      "published": "2026-08-29T16:16:32",
-      "description": "",
-      "image": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/featured-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "published": "2026-08-28T23:27:45",
-      "description": "",
-      "image": "https://pwning.systems/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "published": "2026-08-29T14:02:10",
-      "description": "",
-      "image": "data/images/be87513310684da97f2c2a29d8ac143f.png",
+      "image": "https://opengraph.githubassets.com/8296f9cce54396cf59e4c3f87dbd846ab98fb5934219db448bc9facae4ab5db6/stemdeckapp/stemdeck",
       "summary": "Summary unavailable."
     }
   ],
