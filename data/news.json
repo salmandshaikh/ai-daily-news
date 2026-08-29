@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T10:30:57.549190",
+  "updated": "2026-08-29T15:47:16.376859",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "published": "2026-08-29T14:02:10",
+      "description": "",
+      "image": "data/images/be87513310684da97f2c2a29d8ac143f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "U.S. sanctions against the A/I Collective",
       "url": "https://www.inventati.org/",
       "published": "2026-08-28T12:58:53",
@@ -164,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "published": "2026-08-28T23:27:45",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "published": "2026-08-29T01:24:13",
       "description": "",
-      "image": "https://pwning.systems/og.png",
+      "image": "https://opengraph.githubassets.com/df1ccb24c82812417858f1cd40788cf3cde3e4dbc79288e2f3135619ce6f6adb/stemdeckapp/stemdeck",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "published": "2026-08-29T01:24:13",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "published": "2026-08-28T23:27:45",
       "description": "",
-      "image": "https://opengraph.githubassets.com/d7cd4be70e71ca54f5d696cff0e650da2a87ef8af8d72d4e5c1a0263131d8825/stemdeckapp/stemdeck",
+      "image": "https://pwning.systems/og.png",
       "summary": "Summary unavailable."
     }
   ],
