@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-29T00:11:42.529147",
+  "updated": "2026-08-29T10:30:57.549190",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "published": "Fri, 28 Aug 2026 06:00:00 GMT",
+      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "image": "data/images/e1de25ac2d1a7af32e6a811fbc3acb80.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "description": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "image": "data/images/b1f807bfe5781d2578d44328274505e6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "image": "data/images/2d741c06fad8142421f3fe0b7a590c04.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,31 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Identifying fake cosmetics using AI",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "published": "2026-08-28T22:18:27",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "published": "2026-08-28T23:27:45",
       "description": "",
-      "image": "data/images/726fed4c315234b6e23f8e91dd3e3ddb.png",
+      "image": "https://pwning.systems/og.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "published": "2026-08-28T06:33:57",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "published": "2026-08-29T01:24:13",
       "description": "",
-      "image": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Stopping the smart TV from being used against you",
-      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-      "published": "2026-08-28T20:27:57",
-      "description": "",
-      "image": "https://www.s-config.com/core/wp-content/uploads/2026/08/EDID-Title.jpg",
+      "image": "https://opengraph.githubassets.com/d7cd4be70e71ca54f5d696cff0e650da2a87ef8af8d72d4e5c1a0263131d8825/stemdeckapp/stemdeck",
       "summary": "Summary unavailable."
     }
   ],
