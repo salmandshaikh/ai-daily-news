@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T15:44:30.883635",
+  "updated": "2026-08-29T00:11:42.529147",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "image": "data/images/2d741c06fad8142421f3fe0b7a590c04.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "published": "Wed, 26 Aug 2026 10:00:00 GMT",
       "description": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "image": "data/images/b1f807bfe5781d2578d44328274505e6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "image": "data/images/2d741c06fad8142421f3fe0b7a590c04.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/20ec407bc0805e4e15e0be9bcaa0f08b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/train-multi-vector-encoder",
       "published": "Wed, 26 Aug 2026 00:00:00 GMT",
@@ -142,33 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "published": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "published": "2026-08-28T12:58:53",
       "description": "",
-      "image": "data/images/e9eb6274ada76639c9f9f800928d878c.png",
+      "image": "data/images/fc68d2a860379e750ec5e2fb193415a3.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
-      "url": "https://mastodon.bida.im/@cavallette/117172989300228024",
-      "published": "2026-08-28T14:33:04",
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "published": "2026-08-28T22:18:27",
       "description": "",
-      "image": "data/images/522d5a9f4bccf10d651da57286387715.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI: Migrating to HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "published": "2026-08-28T11:51:20",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/307213173/7b83a5a7-a102-4b8a-abe7-7c14267908fa",
+      "image": "data/images/726fed4c315234b6e23f8e91dd3e3ddb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,28 +184,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I Used AWS Cognito for a Startup. I Wouldn't Do It Again",
-      "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-      "published": "2026-08-28T13:21:03",
+      "title": "Stopping the smart TV from being used against you",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "published": "2026-08-28T20:27:57",
       "description": "",
-      "image": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare-og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "published": "2026-08-27T15:56:58",
-      "description": "",
-      "image": "https://calv.info/api/og?title=Small%20Models%20Have%20Arrived",
+      "image": "https://www.s-config.com/core/wp-content/uploads/2026/08/EDID-Title.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "speakers": [
       "Alex",
       "Jordan"
