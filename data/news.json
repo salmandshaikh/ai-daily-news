@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-31T18:15:05.973592",
+  "updated": "2026-08-31T23:28:18.624801",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "image": "data/images/639832c81abfd9eaff73a96db374c310.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 27 Aug 2026 09:00:00 GMT",
       "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "image": "data/images/b1b3d99546108950b13ffea2edd6d9f7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Expanding OpenAI\u2019s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "published": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "published": "2026-08-31T14:07:15",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "published": "2026-08-30T22:37:01",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/5616d6df1336e7a6a9a91fe82f071184.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "published": "2026-08-31T15:34:34",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "published": "2026-08-30T06:52:04",
       "description": "",
-      "image": "https://usealmanac.com/opengraph-image?5038a70137ec138b",
+      "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&width=1200&height=630&smart=true",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +184,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "published": "2026-08-26T20:38:44",
+      "title": "How we configured OpenTelemetry logs in Rails",
+      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "published": "2026-08-31T21:12:22",
       "description": "",
-      "image": "data/images/9f9cf2742ce509ebd2edc87e2632b2b6.png",
+      "image": "https://y4n0za9tok4qqkj4.public.blob.vercel-storage.com/blog/2026-08-04-how-we-configured-opentelemetry-logs-in-rails.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Terrance Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "published": "2026-08-30T22:37:01",
+      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "published": "2026-08-31T15:34:34",
       "description": "",
-      "image": "data/images/3c4157260f62a03a4b83986e6b17dedb.png",
+      "image": "https://usealmanac.com/opengraph-image?5038a70137ec138b",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "published": "2026-08-31T18:12:20",
+      "description": "",
+      "image": "data/images/0dd81f1325f402723df8edbb26b25cca.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "published": "2026-08-26T20:38:44",
+      "description": "",
+      "image": "data/images/9f9cf2742ce509ebd2edc87e2632b2b6.png",
       "summary": "Summary unavailable."
     }
   ],
