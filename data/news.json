@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-31T10:08:49.404948",
+  "updated": "2026-08-31T18:15:05.973592",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "image": "data/images/634f718236cf5277ea92c5dea84fadfa.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 27 Aug 2026 03:00:00 GMT",
       "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "published": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "description": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "image": "data/images/b1f807bfe5781d2578d44328274505e6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,29 +154,9 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "published": "2026-08-31T03:20:33",
-      "description": "",
-      "image": "data/images/28d3f9eb041bbb59abe9be966cf158c5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "published": "2026-08-31T01:28:22",
-      "description": "",
-      "image": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "published": "2026-08-30T16:01:10",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "published": "2026-08-31T14:07:15",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
@@ -184,31 +164,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "published": "2026-08-30T23:41:32",
+      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "published": "2026-08-31T15:34:34",
       "description": "",
-      "image": "data/images/dbe12d448e22536d5d873221ee5a4d3f.png",
+      "image": "https://usealmanac.com/opengraph-image?5038a70137ec138b",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "published": "2026-08-30T20:46:53",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "published": "2026-08-31T12:41:22",
       "description": "",
-      "image": "https://sander.ai/images/verin.jpg",
+      "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-      "published": "2026-08-31T07:23:47",
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "published": "2026-08-26T20:38:44",
       "description": "",
-      "image": "https://sm.pcmag.com/t/pcmag_au/news/m/meta-secur/meta-security-researchers-ai-agent-accidentally-deleted-her_7uyw.1200.jpg",
+      "image": "data/images/9f9cf2742ce509ebd2edc87e2632b2b6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Terrance Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "published": "2026-08-30T22:37:01",
+      "description": "",
+      "image": "data/images/3c4157260f62a03a4b83986e6b17dedb.png",
       "summary": "Summary unavailable."
     }
   ],
