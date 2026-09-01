@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-01T15:38:29.787595",
+  "updated": "2026-09-01T18:54:50.238328",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "published": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "image": "data/images/f38995f7d729aa7244b6622f093ec1d1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "published": "Tue, 01 Sep 2026 12:00:00 GMT",
+      "description": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -33,22 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "published": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "image": "data/images/e1de25ac2d1a7af32e6a811fbc3acb80.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Supporting Thailand\u2019s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "published": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "description": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "image": "data/images/ad5b4d1ab8605d282179137671002849.png",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "published": "Tue, 01 Sep 2026 17:08:51 +0000",
+      "description": "",
+      "image": "data/images/2a87a8c0ac8631fe156431ebda20da78.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Fri, 21 Aug 2026 11:59:48 +0000",
       "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "published": "Thu, 13 Aug 2026 17:04:18 +0000",
-      "description": "",
-      "image": "data/images/cb73ba54b9b093cff446da7872e6b60b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,27 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "title": "UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it",
+      "url": "https://sariyuce.com/blog/2026/UEFA-Draw/",
+      "published": "2026-09-01T17:57:09",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "published": "2026-09-01T09:52:45",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "American Airlines mechanic Azriel \u201cAl\u201d Blackman has died, aged 100",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "published": "2026-08-29T21:25:17",
       "description": "",
@@ -164,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-      "published": "2026-09-01T14:19:30",
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "published": "2026-09-01T15:53:42",
       "description": "",
-      "image": "https://aviationweek.com/sites/default/files/2026-08/saabcca_1-saab_promo.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/KvWJPNxLA8PMtikw8FwPuc-1920-80.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,36 +199,6 @@
       "published": "2026-08-30T22:37:01",
       "description": "",
       "image": "data/images/5616d6df1336e7a6a9a91fe82f071184.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "published": "2026-08-31T12:41:22",
-      "description": "",
-      "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "published": "2026-09-01T14:55:50",
-      "description": "",
-      "image": "https://huggingface.co/blog/assets/state-of-open-models-summer-2026/thumbnail.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "published": "2026-08-30T06:52:04",
-      "description": "",
-      "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&width=1200&height=630&smart=true",
       "summary": "Summary unavailable."
     }
   ],
