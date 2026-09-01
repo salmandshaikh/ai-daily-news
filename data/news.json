@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T18:54:50.238328",
+  "updated": "2026-09-01T22:08:39.032223",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Tue, 01 Sep 2026 17:00:00 GMT",
       "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "image": "data/images/f38995f7d729aa7244b6622f093ec1d1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "published": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Mon, 31 Aug 2026 07:00:00 GMT",
       "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "image": "data/images/639832c81abfd9eaff73a96db374c310.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "published": "Mon, 31 Aug 2026 04:00:00 GMT",
-      "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "image": "data/images/634f718236cf5277ea92c5dea84fadfa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "published": "Tue, 01 Sep 2026 21:39:07 GMT",
+      "description": "",
+      "image": "data/images/b09050bad51829b5b84a07f7f9315ed4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "published": "Tue, 01 Sep 2026 00:00:00 GMT",
@@ -142,23 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "published": "Tue, 25 Aug 2026 11:39:24 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "published": "2026-09-01T18:35:15",
       "description": "",
-      "image": "data/images/ade74d930b65792c0d8b47f5127df298.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it",
-      "url": "https://sariyuce.com/blog/2026/UEFA-Draw/",
-      "published": "2026-09-01T17:57:09",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "published": "2026-09-01T20:07:57",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/632349aa7252998a34b16a98d90b3ba6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "American Airlines mechanic Azriel \u201cAl\u201d Blackman has died, aged 100",
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "published": "2026-09-01T20:19:11",
+      "description": "",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "published": "2026-09-01T17:36:02",
+      "description": "",
+      "image": "https://www.worldlabs.ai/images/atlas-og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "American Airlines mechanic Azriel \u201cAl\u201d Blackman has died",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "published": "2026-08-29T21:25:17",
       "description": "",
       "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2719557287_cropped.jpg?w=1600&h=900&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-      "published": "2026-09-01T15:53:42",
-      "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/KvWJPNxLA8PMtikw8FwPuc-1920-80.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "published": "2026-08-30T22:37:01",
-      "description": "",
-      "image": "data/images/5616d6df1336e7a6a9a91fe82f071184.png",
       "summary": "Summary unavailable."
     }
   ],
