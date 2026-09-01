@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T23:28:18.624801",
+  "updated": "2026-09-01T02:08:22.825021",
   "articles": [
     {
       "source": "RSS",
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "published": "2026-08-30T06:52:04",
-      "description": "",
-      "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&width=1200&height=630&smart=true",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "published": "2026-08-31T12:41:22",
@@ -184,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How we configured OpenTelemetry logs in Rails",
-      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-      "published": "2026-08-31T21:12:22",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "published": "2026-08-30T06:52:04",
       "description": "",
-      "image": "https://y4n0za9tok4qqkj4.public.blob.vercel-storage.com/blog/2026-08-04-how-we-configured-opentelemetry-logs-in-rails.png",
+      "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&width=1200&height=630&smart=true",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "published": "2026-08-31T14:07:15",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -210,22 +210,12 @@
       "description": "",
       "image": "data/images/0dd81f1325f402723df8edbb26b25cca.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "published": "2026-08-26T20:38:44",
-      "description": "",
-      "image": "data/images/9f9cf2742ce509ebd2edc87e2632b2b6.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "speakers": [
       "Alex",
       "Jordan"
