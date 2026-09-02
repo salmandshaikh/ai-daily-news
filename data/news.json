@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T15:25:02.802542",
+  "updated": "2026-09-02T19:00:53.512148",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,26 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "published": "Wed, 02 Sep 2026 16:24:24 +0000",
+      "description": "",
+      "image": "data/images/3164dfe90f08c20dd7bed4e97745b07c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "published": "Wed, 02 Sep 2026 16:18:31 +0000",
+      "description": "",
+      "image": "data/images/283d6bc5ea69f674d5954b713c8d0316.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Introducing agentic video understanding with Gemini",
       "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "published": "Tue, 01 Sep 2026 17:08:51 +0000",
@@ -79,26 +99,6 @@
       "published": "Thu, 27 Aug 2026 12:59:16 +0000",
       "description": "Piloting the world's first double-blind AI evaluations",
       "image": "data/images/47c194bb9a6fda201c241bb3c3bcc1fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "published": "Wed, 26 Aug 2026 17:01:00 +0000",
-      "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "image": "data/images/4b9774fa149d07676b1cd81d258e49e5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "published": "Fri, 21 Aug 2026 11:59:48 +0000",
-      "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "published": "2026-09-02T13:59:59",
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "published": "2026-09-02T17:18:39",
       "description": "",
-      "image": "https://trellner.com/og.png",
+      "image": "data/images/3da08fcc8071d7a0d12dbb2f710f44d1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "published": "2026-09-02T14:02:35",
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "published": "2026-09-02T13:59:59",
       "description": "",
-      "image": "https://opengraph.githubassets.com/526ca0437b231b3c3801799b79bc124c6ac03e79535d6a05f4df95e46e56002a/mlc-ai/web-llm",
+      "image": "https://trellner.com/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
+      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
+      "published": "2026-09-02T18:30:49",
+      "description": "",
+      "image": "https://marius.blog/wp-content/uploads/2026/09/001-firefox-155-safe-paws.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -194,16 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "published": "2026-09-02T13:43:14",
-      "description": "",
-      "image": "data/images/14129710308760090d600b9f97ce5f46.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "A third of Perplexity's citations don't contain the number they're cited for",
       "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
       "published": "2026-09-02T13:49:23",
@@ -214,31 +214,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs: Intelligence vs. Cost",
-      "url": "https://openteams.com/intelligence-vs-cost/",
-      "published": "2026-09-02T13:03:50",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "published": "2026-09-02T14:02:35",
       "description": "",
-      "image": "https://openteams.com/wp-content/uploads/2026/05/Universal-image-for-the-blog-thumbnails.svg",
+      "image": "https://opengraph.githubassets.com/4e9e9e3ea2fa34701450c23bace89858cdf9e04fd669ff8bc27bb56b2c2604b9/mlc-ai/web-llm",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
-      "published": "2026-09-02T04:15:56",
+      "title": "Discontinuation of third level domain registrations for the .name TLD [pdf]",
+      "url": "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf",
+      "published": "2026-08-31T23:24:54",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "data/images/f88a61991293ffd50f9f5d2d7609b6c3.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "published": "2026-09-02T10:02:41",
+      "title": "Show HN: FrontierHarness Eval \u2013 9 harness, same model, cost per pass varies 17x",
+      "url": "https://frontierharness.org",
+      "published": "2026-09-02T16:14:52",
       "description": "",
-      "image": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
+      "image": "https://frontierharness.org/og.png?v=12",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The race to engineer new knobs for the human brain",
+      "url": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for",
+      "published": "2026-09-02T16:25:28",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!DQ2X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9898ad82-63a0-4c72-b65e-5f84f5af0c6f_1918x1013.png",
       "summary": "Summary unavailable."
     }
   ],
