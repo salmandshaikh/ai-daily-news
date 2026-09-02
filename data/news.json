@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T22:08:39.032223",
+  "updated": "2026-09-02T01:31:45.034881",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "image": "data/images/0f03ac387111ba8b091f68b8b1f66313.png",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "published": "Tue, 01 Sep 2026 01:00:00 GMT",
+      "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "image": "data/images/1fc1eeed0a9428525aa58ac2bd01abf6.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
+      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "image": "data/images/639832c81abfd9eaff73a96db374c310.png",
+      "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "image": "data/images/0f03ac387111ba8b091f68b8b1f66313.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "published": "2026-09-01T23:48:05",
+      "description": "",
+      "image": "https://www.datocms-assets.com/104802/1788302073-efficient-frontier-image3.png?auto=compress%2Cformat&fit=crop&h=630&q=75&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "published": "2026-09-01T22:06:57",
+      "description": "",
+      "image": "https://masteranza.github.io/weedout/screenshot.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "published": "2026-09-01T22:30:52",
+      "description": "",
+      "image": "https://lws.io/open-graph/blog/my-local-model-setup.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
       "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
       "published": "2026-09-01T20:07:57",
@@ -184,38 +214,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "published": "2026-09-01T20:19:11",
-      "description": "",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Atlas: A World Model for Spatial Intelligence",
       "url": "https://www.worldlabs.ai/blog/atlas",
       "published": "2026-09-01T17:36:02",
       "description": "",
       "image": "https://www.worldlabs.ai/images/atlas-og.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "American Airlines mechanic Azriel \u201cAl\u201d Blackman has died",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "published": "2026-08-29T21:25:17",
-      "description": "",
-      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2719557287_cropped.jpg?w=1600&h=900&fit=crop",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-01",
+    "date": "2026-09-02",
     "speakers": [
       "Alex",
       "Jordan"
