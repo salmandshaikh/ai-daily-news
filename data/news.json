@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T01:31:45.034881",
+  "updated": "2026-09-02T08:27:58.933360",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "published": "2026-09-02T04:15:56",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
       "published": "2026-09-01T18:35:15",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "published": "2026-09-01T23:48:05",
-      "description": "",
-      "image": "https://www.datocms-assets.com/104802/1788302073-efficient-frontier-image3.png?auto=compress%2Cformat&fit=crop&h=630&q=75&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "published": "2026-09-01T22:06:57",
-      "description": "",
-      "image": "https://masteranza.github.io/weedout/screenshot.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "published": "2026-09-01T20:07:57",
+      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "published": "2026-09-01T22:06:57",
       "description": "",
-      "image": "data/images/632349aa7252998a34b16a98d90b3ba6.png",
+      "image": "https://masteranza.github.io/weedout/screenshot.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "published": "2026-09-01T09:52:45",
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "published": "2026-09-01T23:48:05",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://www.datocms-assets.com/104802/1788302073-efficient-frontier-image3.png?auto=compress%2Cformat&fit=crop&h=630&q=75&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "published": "2026-09-01T20:07:57",
+      "description": "",
+      "image": "data/images/632349aa7252998a34b16a98d90b3ba6.png",
       "summary": "Summary unavailable."
     },
     {
