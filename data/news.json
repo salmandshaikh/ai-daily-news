@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T19:00:53.512148",
+  "updated": "2026-09-02T22:03:45.067061",
   "articles": [
     {
       "source": "RSS",
@@ -154,17 +154,27 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Paint.net 5.2 alpha now runs on Linux",
-      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
-      "published": "2026-09-02T17:18:39",
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "published": "2026-09-02T19:49:01",
       "description": "",
-      "image": "data/images/3da08fcc8071d7a0d12dbb2f710f44d1.png",
+      "image": "https://opengraph.githubassets.com/eca8e1c237abee3f81c3740617c649ea1b94d393342b9bd692132802e5c9ff0c/PhiloLabs/fable51-worlds",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "published": "2026-09-02T20:08:22",
+      "description": "",
+      "image": "data/images/e2436d2bd8beafda2460f692f10a29d2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "published": "2026-09-02T12:30:39",
       "description": "",
@@ -174,81 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "published": "2026-09-02T13:59:59",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "published": "2026-09-02T18:42:41",
       "description": "",
-      "image": "https://trellner.com/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
-      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
-      "published": "2026-09-02T18:30:49",
-      "description": "",
-      "image": "https://marius.blog/wp-content/uploads/2026/09/001-firefox-155-safe-paws.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "published": "2026-09-02T12:59:09",
-      "description": "",
-      "image": "https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-scaled.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A third of Perplexity's citations don't contain the number they're cited for",
-      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
-      "published": "2026-09-02T13:49:23",
-      "description": "",
-      "image": "https://hausresearch.com/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "published": "2026-09-02T14:02:35",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/4e9e9e3ea2fa34701450c23bace89858cdf9e04fd669ff8bc27bb56b2c2604b9/mlc-ai/web-llm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Discontinuation of third level domain registrations for the .name TLD [pdf]",
-      "url": "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf",
-      "published": "2026-08-31T23:24:54",
-      "description": "",
-      "image": "data/images/f88a61991293ffd50f9f5d2d7609b6c3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: FrontierHarness Eval \u2013 9 harness, same model, cost per pass varies 17x",
-      "url": "https://frontierharness.org",
-      "published": "2026-09-02T16:14:52",
-      "description": "",
-      "image": "https://frontierharness.org/og.png?v=12",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The race to engineer new knobs for the human brain",
-      "url": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for",
-      "published": "2026-09-02T16:25:28",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!DQ2X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9898ad82-63a0-4c72-b65e-5f84f5af0c6f_1918x1013.png",
+      "image": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
       "summary": "Summary unavailable."
     }
   ],
