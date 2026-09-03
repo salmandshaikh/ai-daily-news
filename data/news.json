@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T15:17:00.486108",
+  "updated": "2026-09-03T18:56:19.017958",
   "articles": [
     {
       "source": "RSS",
@@ -154,71 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Is Throwing 404",
-      "url": "https://chatgpt.com/",
-      "published": "2026-09-03T14:46:47",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "published": "2026-09-03T18:32:13",
       "description": "",
-      "image": "data/images/f8c6cd126ffb316dc5ce98c3bc568a1b.png",
+      "image": "https://cerebras-inference.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DModel%2BCatalog%26description%3DBrowse%2Ball%2Bmodels%2Bavailable%2Bon%2BCerebras%2Bpublic%2Bendpoints.%26theme%3D0d969de00f05bf51f42e2bb2&w=1200&q=100",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Browser's Main Thread Is Expensive",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "published": "2026-09-03T15:36:43",
+      "description": "",
+      "image": "https://ifm.ai/blog/k2/assets/k2-horizon-social.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "published": "2026-09-03T14:28:18",
+      "description": "",
+      "image": "https://www.babyloniantwins.com/img/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "published": "2026-09-03T18:18:22",
+      "description": "",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357917-1788370763021-gettyimages-2292626781-AFP_C77688U.jpeg?v=1788370796&w=1920&h=1080",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The browser's main thread is expensive",
       "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "published": "2026-09-01T14:00:15",
       "description": "",
       "image": "https://kciter.so/images/2026-07-12-the-expensive-main-thread/thumbnail.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Elevated Errors for Multiple Models",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "published": "2026-09-03T13:29:12",
-      "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "published": "2026-09-02T13:59:59",
-      "description": "",
-      "image": "https://trellner.com/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "published": "2026-09-02T12:30:39",
-      "description": "",
-      "image": "https://downloads.intercomcdn.eu/i/o/xel0jpx9/32959/6f6f05e6d9a783dd3709d1d20210/22053698b6d3506b0b89d174c8404652.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fable 5.1 World Modeling",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "published": "2026-09-02T19:49:01",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/6684c1b99ea1b5f9fdf97f66418d6a8326b20a6f66d2ea1a6c3cfd7f121695e9/PhiloLabs/fable51-worlds",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Aging brains blend memories together instead of just forgetting them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "published": "2026-09-02T12:59:09",
-      "description": "",
-      "image": "https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-scaled.jpeg",
       "summary": "Summary unavailable."
     }
   ],
