@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T08:20:33.691252",
+  "updated": "2026-09-03T15:17:00.486108",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published": "Thu, 03 Sep 2026 15:02:08 +0000",
+      "description": "",
+      "image": "data/images/4205b6a976652092a9ac647f3f9dc071.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "published": "Wed, 02 Sep 2026 16:24:24 +0000",
@@ -93,12 +103,32 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "published": "Thu, 27 Aug 2026 12:59:16 +0000",
-      "description": "Piloting the world's first double-blind AI evaluations",
-      "image": "data/images/47c194bb9a6fda201c241bb3c3bcc1fb.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published": "Thu, 03 Sep 2026 13:13:48 GMT",
+      "description": "",
+      "image": "data/images/e4eaeaa1e3e487fd7c4981cc6fdd7240.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/b6d6bc79a213c55371a68ca0cad1c215.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/ad2998b2da759d29ce6f1baf3b9ad205.png",
       "summary": "Summary unavailable."
     },
     {
@@ -122,43 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "published": "Tue, 01 Sep 2026 21:39:07 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
+      "published": "2026-09-03T14:46:47",
       "description": "",
-      "image": "data/images/b09050bad51829b5b84a07f7f9315ed4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "published": "Tue, 01 Sep 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/09bd9f602ad9922e0b86c6b8fb7fece8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "published": "Fri, 28 Aug 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/20ec407bc0805e4e15e0be9bcaa0f08b.png",
+      "image": "data/images/f8c6cd126ffb316dc5ce98c3bc568a1b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs and Self-Referentiality",
-      "url": "https://scottaaronson.blog/?p=10046",
-      "published": "2026-09-02T00:20:06",
+      "title": "The Browser's Main Thread Is Expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "published": "2026-09-01T14:00:15",
       "description": "",
-      "image": "data/images/723cc1fc890ce92dc5a056d3f48bdcf3.png",
+      "image": "https://kciter.so/images/2026-07-12-the-expensive-main-thread/thumbnail.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "published": "2026-09-03T13:29:12",
+      "description": "",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     },
     {
@@ -188,7 +208,7 @@
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "published": "2026-09-02T19:49:01",
       "description": "",
-      "image": "https://opengraph.githubassets.com/cb36b39425c3e8c6c060c11c881c094692ae2abf88369366dee38a1df5bfd205/PhiloLabs/fable51-worlds",
+      "image": "https://opengraph.githubassets.com/6684c1b99ea1b5f9fdf97f66418d6a8326b20a6f66d2ea1a6c3cfd7f121695e9/PhiloLabs/fable51-worlds",
       "summary": "Summary unavailable."
     },
     {
@@ -199,56 +219,6 @@
       "published": "2026-09-02T12:59:09",
       "description": "",
       "image": "https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-scaled.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "published": "2026-09-02T18:42:41",
-      "description": "",
-      "image": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "published": "2026-09-02T20:08:22",
-      "description": "",
-      "image": "data/images/e2436d2bd8beafda2460f692f10a29d2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "published": "2026-08-30T12:12:56",
-      "description": "",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "published": "2026-09-02T14:02:35",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/07f09c73827299f134c5c3ce2a33098e57eaf7ac85e43c80f741a6908c93b616/mlc-ai/web-llm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "No\u2013AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware",
-      "url": "https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret",
-      "published": "2026-09-03T07:45:10",
-      "description": "",
-      "image": "data/images/c9057cbf93d01bb2416e70ab1128503a.png",
       "summary": "Summary unavailable."
     }
   ],
