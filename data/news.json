@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-02T22:03:45.067061",
+  "updated": "2026-09-03T01:35:07.996151",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "published": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "image": "data/images/d2bb1977ff376f39eb096219f37f8a94.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 01 Sep 2026 01:00:00 GMT",
       "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "image": "data/images/1fc1eeed0a9428525aa58ac2bd01abf6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "image": "data/images/0f03ac387111ba8b091f68b8b1f66313.png",
       "summary": "Summary unavailable."
     },
     {
@@ -158,17 +158,17 @@
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "published": "2026-09-02T19:49:01",
       "description": "",
-      "image": "https://opengraph.githubassets.com/eca8e1c237abee3f81c3740617c649ea1b94d393342b9bd692132802e5c9ff0c/PhiloLabs/fable51-worlds",
+      "image": "https://opengraph.githubassets.com/4c02011f33e040c34c8f40f11873d7a473f73d9e625f19db0d4e7a5f15633677/PhiloLabs/fable51-worlds",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "published": "2026-09-02T20:08:22",
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "published": "2026-09-02T13:59:59",
       "description": "",
-      "image": "data/images/e2436d2bd8beafda2460f692f10a29d2.png",
+      "image": "https://trellner.com/og.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,18 +184,78 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "published": "2026-08-30T12:12:56",
+      "description": "",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+      "published": "2026-09-01T16:41:13",
+      "description": "",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/01/c8d748b0-a751-49fb-ae95-f07b9295de23/thumbnail/1200x630g7/e69780cb8ec5c4b664d66f0389e29196/gettyimages-2290492820.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "published": "2026-09-02T18:42:41",
       "description": "",
       "image": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "published": "2026-09-02T12:59:09",
+      "description": "",
+      "image": "https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-scaled.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "published": "2026-09-02T20:08:22",
+      "description": "",
+      "image": "data/images/e2436d2bd8beafda2460f692f10a29d2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "published": "2026-09-02T23:08:47",
+      "description": "",
+      "image": "https://metr.org/assets/images/openai-hugging-face-incident-investigation/title-logo-og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "published": "2026-09-02T14:02:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/db5d13720043fd27f810df179113d18e28b6942b8a61cb943a56ac99d5d8e524/mlc-ai/web-llm",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "speakers": [
       "Alex",
       "Jordan"
