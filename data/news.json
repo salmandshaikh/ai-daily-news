@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T01:35:07.996151",
+  "updated": "2026-09-03T08:20:33.691252",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/1945ab0ef2350dfe0105f9ccc5d68ffc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "published": "Wed, 02 Sep 2026 13:49:14 GMT",
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/e3940149819af8c845803e0cf18a113c.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Fable 5.1 World Modeling",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "published": "2026-09-02T19:49:01",
+      "title": "LLMs and Self-Referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "published": "2026-09-02T00:20:06",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4c02011f33e040c34c8f40f11873d7a473f73d9e625f19db0d4e7a5f15633677/PhiloLabs/fable51-worlds",
+      "image": "data/images/723cc1fc890ce92dc5a056d3f48bdcf3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "published": "2026-08-30T12:12:56",
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "published": "2026-09-02T19:49:01",
       "description": "",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-      "published": "2026-09-01T16:41:13",
-      "description": "",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/01/c8d748b0-a751-49fb-ae95-f07b9295de23/thumbnail/1200x630g7/e69780cb8ec5c4b664d66f0389e29196/gettyimages-2290492820.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "published": "2026-09-02T18:42:41",
-      "description": "",
-      "image": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
+      "image": "https://opengraph.githubassets.com/cb36b39425c3e8c6c060c11c881c094692ae2abf88369366dee38a1df5bfd205/PhiloLabs/fable51-worlds",
       "summary": "Summary unavailable."
     },
     {
@@ -224,6 +204,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "published": "2026-09-02T18:42:41",
+      "description": "",
+      "image": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
       "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
       "published": "2026-09-02T20:08:22",
@@ -234,11 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-      "published": "2026-09-02T23:08:47",
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "published": "2026-08-30T12:12:56",
       "description": "",
-      "image": "https://metr.org/assets/images/openai-hugging-face-incident-investigation/title-logo-og.png",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
       "summary": "Summary unavailable."
     },
     {
@@ -248,7 +238,17 @@
       "url": "https://github.com/mlc-ai/web-llm",
       "published": "2026-09-02T14:02:35",
       "description": "",
-      "image": "https://opengraph.githubassets.com/db5d13720043fd27f810df179113d18e28b6942b8a61cb943a56ac99d5d8e524/mlc-ai/web-llm",
+      "image": "https://opengraph.githubassets.com/07f09c73827299f134c5c3ce2a33098e57eaf7ac85e43c80f741a6908c93b616/mlc-ai/web-llm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "No\u2013AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware",
+      "url": "https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret",
+      "published": "2026-09-03T07:45:10",
+      "description": "",
+      "image": "data/images/c9057cbf93d01bb2416e70ab1128503a.png",
       "summary": "Summary unavailable."
     }
   ],
