@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T21:58:26.766453",
+  "updated": "2026-09-04T01:29:18.470898",
   "articles": [
     {
       "source": "RSS",
@@ -184,16 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "published": "2026-09-03T15:36:43",
-      "description": "",
-      "image": "https://ifm.ai/blog/k2/assets/k2-horizon-social.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "published": "2026-09-03T14:28:18",
@@ -204,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "published": "2026-09-03T19:45:00",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "published": "2026-09-03T15:36:43",
       "description": "",
-      "image": "https://arcprize.org/media/images/blog/astra-action-efficiency.png",
+      "image": "https://ifm.ai/blog/k2/assets/k2-horizon-social.webp",
       "summary": "Summary unavailable."
     },
     {
@@ -234,28 +224,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "published": "2026-09-03T19:45:00",
+      "description": "",
+      "image": "https://arcprize.org/media/images/blog/astra-action-efficiency.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How to get a free .arpa domain",
       "url": "https://hawksley.dev/blog/get-free-arpa-domain",
       "published": "2026-08-31T22:21:58",
       "description": "",
       "image": "https://hawksley.dev/og/blog/get-free-arpa-domain.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The browser's main thread is expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "published": "2026-09-01T14:00:15",
-      "description": "",
-      "image": "https://kciter.so/images/2026-07-12-the-expensive-main-thread/thumbnail.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "speakers": [
       "Alex",
       "Jordan"
