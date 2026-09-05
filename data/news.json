@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:54:44.285463",
+  "updated": "2026-09-05T01:29:58.613134",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "published": "2026-09-04T21:39:19",
+      "description": "",
+      "image": "https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "published": "2026-09-04T19:48:29",
       "description": "",
       "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+      "url": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
+      "published": "2026-09-05T00:03:08",
+      "description": "",
+      "image": "data/images/3f5bb1efb082be847630d6f52b505333.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,58 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "published": "2026-09-04T16:24:50",
-      "description": "",
-      "image": "https://github.blog/wp-content/uploads/2026/09/OptA_UI.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "published": "2026-09-04T09:03:00",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/371e70517807dc93b6457778b447d298d84ed2caffc16aae0033f5312066929e/gioblu/NPC-Forge",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "published": "2026-09-04T15:33:45",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "title": "\u201cNext-token predictor\u201d is the wrong mental model for LLMs",
       "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
       "published": "2026-09-04T17:09:24",
       "description": "",
-      "image": "data/images/e43e5373c79d1201be92def425ee6f8c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "published": "2026-09-03T18:41:05",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
+      "image": "data/images/0b164a7a896da97e71986e775969c596.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "speakers": [
       "Alex",
       "Jordan"
