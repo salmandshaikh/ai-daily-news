@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T01:29:58.613134",
+  "updated": "2026-09-05T07:54:24.938667",
   "articles": [
     {
       "source": "RSS",
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "image": "data/images/0202b2d7a12e527d7e20841510b322ae.png",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "published": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "image": "data/images/d2bb1977ff376f39eb096219f37f8a94.png",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "image": "data/images/0202b2d7a12e527d7e20841510b322ae.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
-      "url": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
-      "published": "2026-09-05T00:03:08",
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "published": "2026-09-05T03:38:56",
       "description": "",
-      "image": "data/images/3f5bb1efb082be847630d6f52b505333.png",
+      "image": "https://www.coderabbit.ai/content/assets/gpt-6-astra/header.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\u201cNext-token predictor\u201d is the wrong mental model for LLMs",
-      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "published": "2026-09-04T17:09:24",
+      "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "published": "2026-09-04T09:03:00",
       "description": "",
-      "image": "data/images/0b164a7a896da97e71986e775969c596.png",
+      "image": "https://opengraph.githubassets.com/2fab289213c40598c9ca9b660b94ab7bc13d53d2e82a4f42c17ad3b4d12df5f0/gioblu/NPC-Forge",
       "summary": "Summary unavailable."
     }
   ],
