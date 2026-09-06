@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-06T14:28:20.140562",
+  "updated": "2026-09-06T17:48:52.078565",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "published": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "image": "data/images/a1614d80503682ad10f35d7252cf8c3f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "published": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "image": "data/images/1797e8e33665deb7bbfa85f8971c58db.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +29,6 @@
       "published": "Thu, 03 Sep 2026 13:15:00 GMT",
       "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "image": "data/images/f0505849c11761d46a86d4151dc11882.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "published": "Thu, 03 Sep 2026 11:00:00 GMT",
-      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "image": "data/images/0202b2d7a12e527d7e20841510b322ae.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,61 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "published": "2026-09-06T02:12:46",
-      "description": "",
-      "image": "data/images/c72d759781d75cd088958f8355ac5c58.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "published": "2026-09-04T11:54:53",
       "description": "",
       "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fileregister: Tagging and reference layer for your files, in plain text",
-      "url": "https://github.com/rhsev/fileregister",
-      "published": "2026-09-01T15:03:36",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/e33af6d0b4c594a95054fc3c93f729c566dc0de333121a95fcbbb845a1c9f505/rhsev/fileregister",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "published": "2026-09-05T20:02:35",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "published": "2026-09-05T23:39:47",
-      "description": "",
-      "image": "data/images/8513283c99d77e7a718e938df202e926.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "published": "2026-09-05T13:31:05",
-      "description": "",
-      "image": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/Rust_fungus_-_Flickr_-_gailhampshire.jpg",
       "summary": "Summary unavailable."
     }
   ],
