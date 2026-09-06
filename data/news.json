@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T21:45:26.126022",
+  "updated": "2026-09-06T01:24:17.293120",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "published": "2026-09-05T20:02:35",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "published": "2026-09-04T11:54:53",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "published": "2026-09-04T11:54:53",
+      "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "published": "2026-09-05T22:15:52",
       "description": "",
-      "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
+      "image": "https://opengraph.githubassets.com/9c5a5b60335c9cfe7c5d80c19051765b241a637f0411dc633898be3608635f2a/okf-memory/okf-agent-memory",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "published": "2026-09-05T20:02:35",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,22 +200,12 @@
       "description": "",
       "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "published": "2026-09-05T07:52:50",
-      "description": "",
-      "image": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "speakers": [
       "Alex",
       "Jordan"
