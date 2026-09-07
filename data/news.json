@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-07T01:22:49.912211",
+  "updated": "2026-09-07T08:41:00.079835",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "published": "Mon, 07 Sep 2026 00:00:00 GMT",
+      "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "image": "data/images/7e1b54ac17db3690f41597031743c290.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 03 Sep 2026 12:00:00 GMT",
       "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "image": "data/images/7f3ceff3d0ada75ff091dbace883f7ec.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -149,6 +149,26 @@
       "published": "Wed, 02 Sep 2026 13:49:14 GMT",
       "description": "",
       "image": "data/images/22c643562108186c62f9e4c0de54d982.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "published": "2026-09-07T04:49:36",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/64a0a50ff0fe57dd79657bef99daa4b604120352c1351084c6bc5675dfec11d3/timgordontg/engrim",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "NIXI has killed the \"Dot In\" domain name (2025)",
+      "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
+      "published": "2026-09-03T19:26:33",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
