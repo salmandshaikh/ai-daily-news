@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-08T19:02:17.192466",
+  "updated": "2026-09-08T22:05:20.446466",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published": "Tue, 08 Sep 2026 17:00:00 GMT",
+      "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "image": "data/images/46c006ca8d5905eab9b000eb32331b95.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 08 Sep 2026 09:00:00 GMT",
       "description": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "image": "data/images/b665ac29bfa3f31a858af437291d827f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "published": "Tue, 08 Sep 2026 00:00:00 GMT",
-      "description": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "image": "data/images/08c72474410d8b678030da517b1ac30a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "published": "2026-09-08T18:37:51",
+      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "published": "2026-09-08T21:47:38",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6J668sj93QnQ8PWP7epUDv/3dbd2d2350053d96b03477d0fdb2e2c6/images2point5_16-9c.png?w=1600&h=900&fit=fill",
+      "image": "data/images/5fa1bdf6891f00dc326741cc75f80313.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "url": "https://ai.meta.com/muse/",
+      "published": "2026-09-08T19:25:00",
+      "description": "",
+      "image": "data/images/21a59d4ca900c5ba966f5232e15a3fd3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "100s of flights cancelled at UK airports due to ATC issue",
-      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-      "published": "2026-09-08T18:26:27",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "published": "2026-09-08T18:37:51",
       "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17ef/live/ea96bf90-ab99-11f1-b26f-1588b95519ec.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "url": "https://weirdgloop.org/blog/google-jail",
-      "published": "2026-09-08T01:57:23",
-      "description": "",
-      "image": "https://weirdgloop.org/images/Weird%20Gloop%20square%20logo.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6J668sj93QnQ8PWP7epUDv/3dbd2d2350053d96b03477d0fdb2e2c6/images2point5_16-9c.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     }
   ],
