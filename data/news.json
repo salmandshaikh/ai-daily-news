@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T15:25:46.615966",
+  "updated": "2026-09-08T19:02:17.192466",
   "articles": [
     {
       "source": "RSS",
@@ -14,41 +14,41 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "published": "Tue, 08 Sep 2026 11:30:00 GMT",
+      "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "image": "data/images/48cb4fb46fe3457c166f9d85a18e5499.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "published": "Tue, 08 Sep 2026 10:00:00 GMT",
+      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "image": "data/images/b2b42c0be3dc712a03ef69b2294a789e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "published": "Tue, 08 Sep 2026 09:00:00 GMT",
+      "description": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "image": "data/images/b665ac29bfa3f31a858af437291d827f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "published": "Tue, 08 Sep 2026 00:00:00 GMT",
       "description": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "image": "data/images/08c72474410d8b678030da517b1ac30a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "published": "Mon, 07 Sep 2026 00:00:00 GMT",
-      "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "image": "data/images/7e1b54ac17db3690f41597031743c290.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "published": "Sun, 06 Sep 2026 09:00:00 GMT",
-      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "image": "data/images/a1614d80503682ad10f35d7252cf8c3f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "published": "Sun, 06 Sep 2026 08:00:00 GMT",
-      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "image": "data/images/1797e8e33665deb7bbfa85f8971c58db.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "published": "2026-09-08T18:37:51",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6J668sj93QnQ8PWP7epUDv/3dbd2d2350053d96b03477d0fdb2e2c6/images2point5_16-9c.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "published": "2026-09-08T16:59:41",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The two Christian saints who are the Buddha",
       "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
       "published": "2026-09-08T14:44:25",
@@ -164,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "published": "2026-09-08T14:05:57",
+      "title": "100s of flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "published": "2026-09-08T18:26:27",
       "description": "",
-      "image": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "published": "2026-09-08T13:41:25",
-      "description": "",
-      "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/okzkybhv2tecwxbvm0c2u9tkyibz",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17ef/live/ea96bf90-ab99-11f1-b26f-1588b95519ec.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -189,26 +199,6 @@
       "published": "2026-09-08T01:57:23",
       "description": "",
       "image": "https://weirdgloop.org/images/Weird%20Gloop%20square%20logo.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "End-to-end infrastructure for training and inferencing open weight models",
-      "url": "https://docs.appliedcompute.com",
-      "published": "2026-09-04T21:25:49",
-      "description": "",
-      "image": "https://appliedcompute.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DIntroduction%26description%3DEnd-to-end%2Binfrastructure%2Bfor%2Btraining%2Band%2Binferencing%2Bopen%2Bweight%2Bmodels.%26theme%3Daa073f606033238b91998e34&w=1200&q=100",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "published": "2026-09-08T04:06:20",
-      "description": "",
-      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/Arm-Newsroom-AI-native-graphics-image-1600x900-1.jpg",
       "summary": "Summary unavailable."
     }
   ],
