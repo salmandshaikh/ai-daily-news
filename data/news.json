@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T22:20:07.248445",
+  "updated": "2026-09-08T01:32:16.118021",
   "articles": [
     {
       "source": "RSS",
@@ -164,28 +164,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The smallest edge AI device for local LLMs",
-      "url": "https://tiiny.ai/",
-      "published": "2026-09-07T21:09:12",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The Dataflow Model Revisited",
       "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
       "published": "2026-09-06T18:10:53",
       "description": "",
       "image": "data/images/ef93276c689a04cfdf550d0b9bc39002.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "published": "2026-09-07T09:26:41",
+      "description": "",
+      "image": "https://vllm.ai/og?title=Exploring%20Speculative%20Decoding%20in%20vLLM%20on%20AMD%20GPUs&authors=AMD%20and%20Embedded%20LLM&date=2026-08-23&path=/blog",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "speakers": [
       "Alex",
       "Jordan"
