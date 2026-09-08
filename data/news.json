@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-08T08:23:08.134650",
+  "updated": "2026-09-08T15:25:46.615966",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "published": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical.",
+      "image": "data/images/ef7026587664d42ff3c8d3cdf9583eb9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "published": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "description": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "image": "data/images/08c72474410d8b678030da517b1ac30a.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -33,22 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "published": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "image": "data/images/f0505849c11761d46a86d4151dc11882.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "image": "data/images/7f3ceff3d0ada75ff091dbace883f7ec.png",
+      "source_name": "Google DeepMind News",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published": "Tue, 08 Sep 2026 14:00:15 +0000",
+      "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "image": "data/images/b2315401c21a9580ff8d08fb796f037d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "published": "Thu, 27 Aug 2026 16:11:32 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published": "Tue, 08 Sep 2026 14:23:07 GMT",
       "description": "",
-      "image": "data/images/9bd455d6236cf3b9de919fcedf8efd62.png",
+      "image": "data/images/d8e1ae53537a014a11f93c052c87a7bc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,43 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "published": "Wed, 02 Sep 2026 13:49:14 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "published": "2026-09-08T14:44:25",
       "description": "",
-      "image": "data/images/22c643562108186c62f9e4c0de54d982.png",
+      "image": "data/images/f135195819d08af4169d61ba60467a9a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Mistral raises \u20ac3B",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "published": "2026-09-08T05:06:23",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "published": "2026-09-08T14:05:57",
       "description": "",
-      "image": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
+      "image": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Multi-Agents LLM Financial Trading Framework",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "published": "2026-09-08T05:20:23",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "published": "2026-09-08T13:41:25",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
-      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
-      "published": "2026-09-08T06:39:20",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!93hj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2252e27a-bae7-4a1c-9fb1-225bfd9b66ac_1280x720.png",
+      "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/okzkybhv2tecwxbvm0c2u9tkyibz",
       "summary": "Summary unavailable."
     },
     {
@@ -194,41 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "url": "https://docs.appliedcompute.com",
+      "published": "2026-09-04T21:25:49",
+      "description": "",
+      "image": "https://appliedcompute.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DIntroduction%26description%3DEnd-to-end%2Binfrastructure%2Bfor%2Btraining%2Band%2Binferencing%2Bopen%2Bweight%2Bmodels.%26theme%3Daa073f606033238b91998e34&w=1200&q=100",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
       "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
       "published": "2026-09-08T04:06:20",
       "description": "",
       "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/Arm-Newsroom-AI-native-graphics-image-1600x900-1.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "published": "2026-09-05T11:25:18",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I tested 10 model/harness combinations on the same Three.js task",
-      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-      "published": "2026-09-08T03:42:25",
-      "description": "",
-      "image": "data/images/a93d6d9eeafa67114cbe95bd0f286dd5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Jigsaw Haiku",
-      "url": "https://jigsawhaiku.com/",
-      "published": "2026-09-04T18:14:44",
-      "description": "",
-      "image": "data/images/6c0506e56cdaa6816a3b94025c892556.png",
       "summary": "Summary unavailable."
     }
   ],
