@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-09T15:23:18.331655",
+  "updated": "2026-09-09T18:54:28.403666",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "published": "Wed, 09 Sep 2026 17:00:00 GMT",
+      "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "image": "data/images/9c5f235a2a88cd87817aebce9b1580d7.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 08 Sep 2026 10:00:00 GMT",
       "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "image": "data/images/b2b42c0be3dc712a03ef69b2294a789e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "published": "Tue, 08 Sep 2026 09:00:00 GMT",
-      "description": "Apply now for OpenAI\u2019s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "image": "data/images/b665ac29bfa3f31a858af437291d827f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "published": "Wed, 09 Sep 2026 15:36:24 GMT",
+      "description": "",
+      "image": "data/images/1209555cd2b364b702d9f27a7116dc57.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "published": "Tue, 08 Sep 2026 14:23:07 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/1945ab0ef2350dfe0105f9ccc5d68ffc.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Tailwind Labs is joining Shopify",
@@ -159,6 +159,46 @@
       "published": "2026-09-09T13:27:11",
       "description": "",
       "image": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "published": "2026-09-09T17:24:28",
+      "description": "",
+      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "published": "2026-09-09T14:37:47",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple Introduces AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "published": "2026-09-09T17:39:24",
+      "description": "",
+      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091852",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "published": "2026-09-09T15:55:53",
+      "description": "",
+      "image": "https://about.readthedocs.com/images/posts/ddos-attack/rtd-ddos-analytics.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Geiger \u2013 See every AI agent on your machine and what it can touch",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "published": "2026-09-09T14:54:49",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153",
+      "published": "2026-09-09T17:13:52",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/1359384189/44bd2cbc-fd58-4335-ab5b-796c00292781",
+      "image": "https://q8hjubmp9nqjv97t.public.blob.vercel-storage.com/papers/hero/cmtu2z5d6000e04layxg4ktkc-pdf-page-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "published": "2026-09-09T15:45:43",
+      "description": "",
+      "image": "data/images/ef8802171fe27d4595a59008a0fba794.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,56 +239,6 @@
       "published": "2026-09-08T19:25:00",
       "description": "",
       "image": "data/images/89b864ce9ad10f1ac7bb63cd05bfbc73.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "published": "2026-09-03T07:29:40",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How An AI math breakthrough ignited a controversy",
-      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "published": "2026-09-09T10:25:41",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How GPT\u20115.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "published": "2026-09-09T07:22:46",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/53pCremlimLBTRxuMEnPyB/41f2eb372bada1bc3b0f7b721e671c9a/SEO-Card.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "published": "2026-09-08T21:47:38",
-      "description": "",
-      "image": "data/images/73dc404204c41fcd08b5f4b119208f2d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
-      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
-      "published": "2026-09-09T15:10:39",
-      "description": "",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/f4dcfac8-a0d7-4579-bc02-f5573be76a4a/thumbnail/1200x630/7d1d46ee5599468e390cd44ee46fe0d6/gettyimages-2289530140-1.jpg",
       "summary": "Summary unavailable."
     }
   ],
