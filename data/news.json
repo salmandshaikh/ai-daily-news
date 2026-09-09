@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T22:05:20.446466",
+  "updated": "2026-09-09T01:39:51.618676",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "published": "2026-09-08T21:47:38",
+      "title": "Muse \u2013 Meta\u2019s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "published": "2026-09-08T19:25:00",
       "description": "",
-      "image": "data/images/5fa1bdf6891f00dc326741cc75f80313.png",
+      "image": "data/images/89b864ce9ad10f1ac7bb63cd05bfbc73.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "url": "https://ai.meta.com/muse/",
-      "published": "2026-09-08T19:25:00",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "published": "2026-09-08T21:47:38",
       "description": "",
-      "image": "data/images/21a59d4ca900c5ba966f5232e15a3fd3.png",
+      "image": "data/images/73dc404204c41fcd08b5f4b119208f2d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "published": "2026-09-08T21:00:52",
+      "description": "",
+      "image": "data/images/b0cdb8e3d876631a76d25a2d269285cf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -190,22 +200,12 @@
       "description": "",
       "image": "data/images/f135195819d08af4169d61ba60467a9a.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "published": "2026-09-08T18:37:51",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6J668sj93QnQ8PWP7epUDv/3dbd2d2350053d96b03477d0fdb2e2c6/images2point5_16-9c.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "speakers": [
       "Alex",
       "Jordan"
