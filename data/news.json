@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-09T18:54:28.403666",
+  "updated": "2026-09-09T22:02:31.303875",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "published": "Wed, 09 Sep 2026 11:00:00 GMT",
+      "description": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "image": "data/images/d4e986a1a42d565db83648b9a3ea728a.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 08 Sep 2026 11:30:00 GMT",
       "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "image": "data/images/48cb4fb46fe3457c166f9d85a18e5499.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "published": "Tue, 08 Sep 2026 10:00:00 GMT",
-      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "image": "data/images/b2b42c0be3dc712a03ef69b2294a789e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tailwind Labs is joining Shopify",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "published": "2026-09-09T13:27:11",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "published": "2026-09-09T17:39:24",
       "description": "",
-      "image": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg",
+      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091909",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "published": "2026-09-09T17:24:28",
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "published": "2026-09-09T13:27:11",
       "description": "",
-      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "image": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple Introduces AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "published": "2026-09-09T17:39:24",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "published": "2026-09-09T17:24:28",
       "description": "",
-      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091852",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "published": "2026-09-09T15:55:53",
-      "description": "",
-      "image": "https://about.readthedocs.com/images/posts/ddos-attack/rtd-ddos-analytics.png",
+      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,21 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153",
-      "published": "2026-09-09T17:13:52",
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "published": "2026-09-09T15:55:53",
       "description": "",
-      "image": "https://q8hjubmp9nqjv97t.public.blob.vercel-storage.com/papers/hero/cmtu2z5d6000e04layxg4ktkc-pdf-page-1.png",
+      "image": "https://about.readthedocs.com/images/posts/ddos-attack/rtd-ddos-analytics.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Better AI code comment detector",
-      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-      "published": "2026-09-09T15:45:43",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.09153",
+      "published": "2026-09-09T17:13:52",
       "description": "",
-      "image": "data/images/ef8802171fe27d4595a59008a0fba794.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft says email spammers are adopting ASCII smuggling",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "published": "2026-09-05T06:24:26",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
       "summary": "Summary unavailable."
     },
     {
