@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-09T22:02:31.303875",
+  "updated": "2026-09-10T01:34:39.491576",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "published": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "description": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "image": "data/images/b15bf60561706ab2b7df3ce6640c7da2.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 08 Sep 2026 13:00:00 GMT",
       "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical.",
       "image": "data/images/ef7026587664d42ff3c8d3cdf9583eb9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "published": "Tue, 08 Sep 2026 11:30:00 GMT",
-      "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "image": "data/images/48cb4fb46fe3457c166f9d85a18e5499.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "published": "2026-09-09T17:39:24",
-      "description": "",
-      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091909",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "published": "2026-09-09T13:27:11",
       "description": "",
       "image": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "published": "2026-09-09T17:39:24",
+      "description": "",
+      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091909",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "published": "2026-09-09T15:55:53",
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "published": "2026-09-10T01:02:44",
       "description": "",
-      "image": "https://about.readthedocs.com/images/posts/ddos-attack/rtd-ddos-analytics.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!FlXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31e5aa31-f122-4e6f-8d34-a0df73329d51_2823x2117.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://arxiv.org/abs/2609.09153",
-      "published": "2026-09-09T17:13:52",
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "published": "2026-09-09T15:55:53",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://about.readthedocs.com/images/posts/ddos-attack/rtd-ddos-analytics.png",
       "summary": "Summary unavailable."
     },
     {
@@ -234,18 +234,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Muse \u2013 Meta\u2019s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "published": "2026-09-08T19:25:00",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.09153",
+      "published": "2026-09-09T17:13:52",
       "description": "",
-      "image": "data/images/89b864ce9ad10f1ac7bb63cd05bfbc73.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "speakers": [
       "Alex",
       "Jordan"
