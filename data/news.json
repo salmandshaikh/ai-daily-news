@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T18:44:14.610800",
+  "updated": "2026-09-10T22:01:20.472578",
   "articles": [
     {
       "source": "RSS",
@@ -174,31 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": ">10x More Efficient Pretraining",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "published": "2026-09-10T19:43:22",
+      "description": "",
+      "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "published": "2026-09-10T17:23:42",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
       "url": "https://magic.dev/blog/pretraining#",
       "published": "2026-09-08T16:59:53",
       "description": "",
       "image": "https://magic.dev/blog/pretraining/hero.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-      "url": "https://usefeyn.com/blog/multimatte/",
-      "published": "2026-09-10T15:50:25",
-      "description": "",
-      "image": "https://usefeyn.com/blog/multimatte/multimatte-cover.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI 2027 (2025)",
-      "url": "https://ai-2027.com",
-      "published": "2026-09-10T14:27:00",
-      "description": "",
-      "image": "https://ai-2027.com/opengraph.png",
       "summary": "Summary unavailable."
     }
   ],
