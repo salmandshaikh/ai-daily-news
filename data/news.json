@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T08:27:34.195161",
+  "updated": "2026-09-10T15:17:38.978425",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/e5ba8c3b1fe8f3a028e21fe339ff5106.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "published": "Wed, 09 Sep 2026 15:36:24 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Amazon pilots ad services in ChatGPT",
+      "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+      "published": "2026-09-10T14:13:09",
       "description": "",
-      "image": "data/images/ad2998b2da759d29ce6f1baf3b9ad205.png",
+      "image": "https://imgproxy.divecdn.com/sNSSbOl7odBxgD0RyDDvlQcBNCvOvOXgQw9d5sAI8Ck/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzE5NzE0LmpwZw==.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "published": "2026-09-10T13:07:14",
+      "description": "",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ckaz32jwl6t2cno6fmuw2nhn/bafkreibhtbxgedebzjj2iodupc357i4nv6aonabqbhysv4t2qrmiwhxvse",
       "summary": "Summary unavailable."
     },
     {
@@ -164,16 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "published": "2026-09-09T17:39:24",
-      "description": "",
-      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091909",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "published": "2026-09-09T14:37:47",
@@ -184,61 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "published": "2026-09-10T02:04:11",
-      "description": "",
-      "image": "data/images/b9de1aa6a1679a61482e2d58f92ce0d4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-      "published": "2026-09-10T01:59:51",
-      "description": "",
-      "image": "data/images/db157b34e9fdc9461cdbe4186f6a2910.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI might have stolen another major proof",
-      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-      "published": "2026-09-10T04:19:48",
-      "description": "",
-      "image": "https://pbs.twimg.com/media/HRzajb0boAAstCJ?format=webp&name=large",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "published": "2026-09-09T17:24:28",
-      "description": "",
-      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "published": "2026-09-09T11:39:46",
-      "description": "",
-      "image": "https://desertant.com/og/blog/introducing-desert-ant-labs.jpg?v=8",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
       "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
       "published": "2026-09-07T04:27:29",
       "description": "",
       "image": "https://cdn.thelec.net/news/photo/202608/12835_12932_5527.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "published": "2026-09-09T17:39:24",
+      "description": "",
+      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609101300",
       "summary": "Summary unavailable."
     }
   ],
