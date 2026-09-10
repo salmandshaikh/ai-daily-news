@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T01:34:39.491576",
+  "updated": "2026-09-10T08:27:34.195161",
   "articles": [
     {
       "source": "RSS",
@@ -184,6 +184,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "published": "2026-09-10T02:04:11",
+      "description": "",
+      "image": "data/images/b9de1aa6a1679a61482e2d58f92ce0d4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "published": "2026-09-10T01:59:51",
+      "description": "",
+      "image": "data/images/db157b34e9fdc9461cdbe4186f6a2910.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "published": "2026-09-10T04:19:48",
+      "description": "",
+      "image": "https://pbs.twimg.com/media/HRzajb0boAAstCJ?format=webp&name=large",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
       "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
       "published": "2026-09-09T17:24:28",
@@ -204,41 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
-      "published": "2026-09-10T01:02:44",
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "published": "2026-09-07T04:27:29",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!FlXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31e5aa31-f122-4e6f-8d34-a0df73329d51_2823x2117.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "published": "2026-09-09T15:55:53",
-      "description": "",
-      "image": "https://about.readthedocs.com/images/posts/ddos-attack/rtd-ddos-analytics.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Microsoft says email spammers are adopting ASCII smuggling",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "published": "2026-09-05T06:24:26",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://arxiv.org/abs/2609.09153",
-      "published": "2026-09-09T17:13:52",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://cdn.thelec.net/news/photo/202608/12835_12932_5527.jpg",
       "summary": "Summary unavailable."
     }
   ],
