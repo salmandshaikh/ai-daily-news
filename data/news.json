@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T08:21:48.070495",
+  "updated": "2026-09-11T15:18:02.561463",
   "articles": [
     {
       "source": "RSS",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
+      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "image": "data/images/a00c0016616a9ed709caa1b8106f0a35.png",
+      "description": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "image": "data/images/b5d513620bb16cdb4fb35f8af0ead066.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "published": "2026-09-11T04:52:20",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "published": "2026-09-11T11:17:50",
       "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_2096x1182.width-1300.png",
+      "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Astra for Coding: Why Are We Doing This Again?",
-      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-      "published": "2026-09-11T06:23:06",
+      "title": "Claude is no longer available for minors",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "published": "2026-09-11T10:48:00",
       "description": "",
-      "image": "https://lucumr.pocoo.org/social/2026-09-07-astra-why-social.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "published": "2026-09-10T15:29:47",
-      "description": "",
-      "image": "https://cognition.com/images/swe-2/cover.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "published": "2026-09-10T23:10:06",
-      "description": "",
-      "image": "https://cdn11.bigcommerce.com/s-pywjnxrcr2/products/1725/images/2187/thelio-mira-26-frontRR__11359.1772653265.1280.1280__76157.1780080100.1280.1280__57602.1788206893.386.513.jpg?c=1",
+      "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -209,16 +189,6 @@
       "published": "2026-09-10T06:49:43",
       "description": "",
       "image": "data/images/b6aa573bde59c8e703e112cf6b459d21.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "published": "2026-09-10T17:23:42",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
       "summary": "Summary unavailable."
     }
   ],
