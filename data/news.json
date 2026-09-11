@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-11T15:18:02.561463",
+  "updated": "2026-09-11T18:48:23.136901",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published": "Fri, 11 Sep 2026 10:00:00 GMT",
+      "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 10 Sep 2026 07:00:00 GMT",
       "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "image": "data/images/78fd660c2c7cd89bc25bc9d80b677766.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "description": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "image": "data/images/b5d513620bb16cdb4fb35f8af0ead066.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,41 +154,81 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "published": "2026-09-11T11:17:50",
+      "title": "A Misalignment of AI in Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "published": "2026-09-11T17:30:26",
       "description": "",
-      "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "published": "2026-09-10T19:43:22",
+      "title": "Top mathematicians are outraged by OpenAI's methods",
+      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "published": "2026-09-11T18:07:08",
       "description": "",
-      "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png",
+      "image": "data/images/46e66c6abbe374aafa9af82db977e219.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude is no longer available for minors",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "published": "2026-09-11T18:10:20",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/2ab2cfb713cbe94141a67d33ca73be67e7245aa10222168e7bb761463646c2dc/kennethwolters/litelm",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "url": "https://www.getzep.com/careers/",
+      "published": "2026-09-11T17:00:17",
+      "description": "",
+      "image": "https://www.getzep.com/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Declassified 9/11 related President's Daily Brief products",
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/",
+      "published": "2026-09-11T18:30:07",
+      "description": "",
+      "image": "data/images/42210bfbd611d272c7d3fce533a7508b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+      "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+      "published": "2026-09-10T22:33:45",
+      "description": "",
+      "image": "data/images/a9661fbc168bc04a2542cd3086781dce.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Severe Misalignment of AI in Mathematics - Terence Tao et al",
+      "url": "https://mathandai.org/",
+      "published": "2026-09-11T17:45:12",
+      "description": "",
+      "image": "data/images/fdaf95930aace453b6d47657736964f3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Claude is only available to people over 18 years",
       "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
       "published": "2026-09-11T10:48:00",
       "description": "",
       "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "published": "2026-09-10T06:49:43",
-      "description": "",
-      "image": "data/images/b6aa573bde59c8e703e112cf6b459d21.png",
       "summary": "Summary unavailable."
     }
   ],
