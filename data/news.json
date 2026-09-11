@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:01:20.472578",
+  "updated": "2026-09-11T01:33:54.304961",
   "articles": [
     {
       "source": "RSS",
@@ -44,11 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "description": "GPT\u2011Live\u20111 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "image": "data/images/b5d513620bb16cdb4fb35f8af0ead066.png",
+      "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "image": "data/images/a00c0016616a9ed709caa1b8106f0a35.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "published": "2026-09-10T15:29:47",
-      "description": "",
-      "image": "https://cognition.com/images/swe-2/cover.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "published": "2026-09-10T06:49:43",
@@ -184,28 +174,68 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "published": "2026-09-10T15:29:47",
+      "description": "",
+      "image": "https://cognition.com/images/swe-2/cover.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "published": "2026-09-10T23:10:06",
+      "description": "",
+      "image": "https://cdn11.bigcommerce.com/s-pywjnxrcr2/products/1725/images/2187/thelio-mira-26-frontRR__11359.1772653265.1280.1280__76157.1780080100.1280.1280__57602.1788206893.386.513.jpg?c=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Details.so",
+      "url": "https://www.details.so/inspo",
+      "published": "2026-09-11T00:27:10",
+      "description": "",
+      "image": "https://www.details.so/og-default.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "YouTuber, or someone, wants to send nice emails to active military personnel",
+      "url": "https://mic.sandboxx.us/",
+      "published": "2026-09-11T01:04:33",
+      "description": "",
+      "image": "https://mic.sandboxx.us/mic-2026-og-preview%20copy.png?v=3",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "published": "2026-09-10T21:22:59",
+      "description": "",
+      "image": "https://www.johndcook.com/blog/wp-content/uploads/2022/05/twittercard.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "published": "2026-09-10T17:23:42",
       "description": "",
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
-      "url": "https://magic.dev/blog/pretraining#",
-      "published": "2026-09-08T16:59:53",
-      "description": "",
-      "image": "https://magic.dev/blog/pretraining/hero.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "speakers": [
       "Alex",
       "Jordan"
