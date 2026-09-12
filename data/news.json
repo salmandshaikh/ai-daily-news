@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:10:42.385156",
+  "updated": "2026-09-12T14:26:40.409175",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "published": "2026-09-12T07:54:03",
+      "description": "",
+      "image": "data/images/2968e5590bb4cfea06f08c89a0cf14ff.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "published": "2026-09-11T14:07:08",
+      "description": "",
+      "image": "https://media.wired.com/photos/6aa34b1b31130b4af58e1d2b/191:100/w_1280,c_limit/John-Deere-5ML-Tractor.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "published": "2026-09-11T17:45:12",
@@ -164,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "published": "2026-09-12T07:54:03",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "published": "2026-09-12T11:13:38",
       "description": "",
-      "image": "data/images/2968e5590bb4cfea06f08c89a0cf14ff.png",
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F09%2F11%2Filands-agents-email-spam-kaixin-tang%2F/opengraph/?v=1789176752",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+      "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+      "published": "2026-09-12T11:37:22",
+      "description": "",
+      "image": "data/images/d05b81023ab4034677a047ff9522b313.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
       "published": "2026-09-11T23:17:42",
       "description": "",
-      "image": "https://rubyhack.ai/img/rubyhack-social.png",
+      "image": "https://rubyhack.ai/img/rubyhack-social.png?v=2",
       "summary": "Summary unavailable."
     },
     {
@@ -198,17 +228,7 @@
       "url": "https://github.com/kennethwolters/litelm",
       "published": "2026-09-11T18:10:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/c7dd0833cc5c94765e56d973619078a0b508514e2022b27697aeccff5b04a19c/kennethwolters/litelm",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "published": "2026-09-11T10:48:00",
-      "description": "",
-      "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+      "image": "https://opengraph.githubassets.com/46b6dc5390692406f8d915b6f51f75ffc8798a4304b9ba6612438ff876f24c3d/kennethwolters/litelm",
       "summary": "Summary unavailable."
     }
   ],
