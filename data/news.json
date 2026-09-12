@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-11T22:03:34.013413",
+  "updated": "2026-09-12T01:40:01.182831",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "image": "data/images/323e4fc830054aabcddd3ad84be7f7aa.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -8,6 +18,16 @@
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "published": "Fri, 11 Sep 2026 10:00:00 GMT",
       "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "description": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -29,26 +49,6 @@
       "published": "Thu, 10 Sep 2026 15:00:00 GMT",
       "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "image": "data/images/2eb49b8b46a1ac44a9dcf4a3dbf8ab76.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "description": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "image": "data/images/efe455d9d719b2e023a10e75221e588a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "image": "data/images/78fd660c2c7cd89bc25bc9d80b677766.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "published": "2026-09-11T23:17:42",
+      "description": "",
+      "image": "https://rubyhack.ai/img/rubyhack-social.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A Design Space Exploration of Async/Await",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
       "published": "2026-09-09T13:59:50",
@@ -174,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "published": "2026-09-11T21:35:29",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!qkOD!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F215199144%2F127b288b-15be-4ae5-b75f-8148f6a3ca45%2Ftranscoded-1789142822.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Litelm: LiteLLM Without the Bloat",
       "url": "https://github.com/kennethwolters/litelm",
       "published": "2026-09-11T18:10:20",
       "description": "",
-      "image": "https://opengraph.githubassets.com/050f214050c8ae6f81684bb38b12a461263cdefc42e07645b0476ccc08766853/kennethwolters/litelm",
+      "image": "https://opengraph.githubassets.com/5844522ea9d2870c397f4a6ccee412ab80fa1499bc2c3c37f48635fd8e6774fb/kennethwolters/litelm",
       "summary": "Summary unavailable."
     },
     {
@@ -215,7 +235,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "speakers": [
       "Alex",
       "Jordan"
