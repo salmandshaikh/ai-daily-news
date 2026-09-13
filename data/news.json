@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T08:35:27.211124",
+  "updated": "2026-09-13T15:08:19.195397",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "published": "2026-09-12T23:43:31",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/47448e45b9e10e61c6ac502420d334e0187c3654de0e642d90b5ea0621c46440/FeralFirmware/TailTalk",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "published": "2026-09-13T01:22:31",
       "description": "",
       "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI models don't kill people \u2013 people kill people",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+      "published": "2026-09-13T13:33:34",
+      "description": "",
+      "image": "https://image.theregister.com/5295388.jpg?imageId=5295388&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "summary": "Summary unavailable."
     },
     {
@@ -178,27 +198,7 @@
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "published": "2026-09-13T00:30:44",
       "description": "",
-      "image": "data/images/c7324f05ed1b70b2e255e0e79fa9801a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "published": "2026-09-12T23:45:58",
-      "description": "",
-      "image": "https://agentsdock.net/assets/og-card.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "published": "2026-09-10T15:31:37",
-      "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/wcBwi9EfLxcZ9QCuRwh33k-2560-80.jpg",
+      "image": "https://files.xeiaso.net/hero/solution-nine.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -209,36 +209,6 @@
       "published": "2026-09-10T00:16:10",
       "description": "",
       "image": "data/images/b6e9452473837e673b767a74d1f6f39f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "published": "2026-09-13T08:07:36",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "published": "2026-09-12T20:25:48",
-      "description": "",
-      "image": "data/images/0374d83d37cc5981f8c184acd47c2502.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "published": "2026-09-13T07:02:40",
-      "description": "",
-      "image": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
       "summary": "Summary unavailable."
     }
   ],
