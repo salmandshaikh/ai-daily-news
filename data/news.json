@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:08:19.195397",
+  "updated": "2026-09-13T18:23:30.951063",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "published": "2026-09-12T23:43:31",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "published": "2026-09-13T16:52:33",
       "description": "",
-      "image": "https://opengraph.githubassets.com/47448e45b9e10e61c6ac502420d334e0187c3654de0e642d90b5ea0621c46440/FeralFirmware/TailTalk",
+      "image": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_400x400.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published": "2026-09-13T15:44:38",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video]",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "published": "2026-09-10T23:32:12",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI models don't kill people \u2013 people kill people",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
-      "published": "2026-09-13T13:33:34",
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "published": "2026-09-12T23:43:31",
       "description": "",
-      "image": "https://image.theregister.com/5295388.jpg?imageId=5295388&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "published": "2026-09-12T15:08:27",
-      "description": "",
-      "image": "data/images/c88a3af9786bebfe2012963ac9c47dda.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "published": "2026-09-13T00:30:44",
-      "description": "",
-      "image": "https://files.xeiaso.net/hero/solution-nine.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "url": "https://eiln.github.io/posts/ane-dma.html",
-      "published": "2026-09-10T00:16:10",
-      "description": "",
-      "image": "data/images/b6e9452473837e673b767a74d1f6f39f.png",
+      "image": "https://opengraph.githubassets.com/9add6acfca94906618ad7554b62240884379750b92732462d170601ad025c63b/FeralFirmware/TailTalk",
       "summary": "Summary unavailable."
     }
   ],
