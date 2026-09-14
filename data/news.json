@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-14T09:18:31.940110",
+  "updated": "2026-09-14T17:06:22.710000",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "published": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice.",
+      "image": "data/images/6e90031c833b88f0a116310b6ac29257.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 10 Sep 2026 16:00:00 GMT",
       "description": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "image": "data/images/91dcf5ba1c8620f95dc71020ecd5cb13.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "published": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "image": "data/images/2eb49b8b46a1ac44a9dcf4a3dbf8ab76.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,81 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "published": "2026-09-14T01:02:37",
+      "title": "Foundation Model Engineering: From Theory to Production",
+      "url": "https://sungeuns.github.io/foundation-model-engineering/",
+      "published": "2026-09-14T15:27:48",
       "description": "",
-      "image": "data/images/db66b522de296a7a6fb4eb9f6c86bd6c.png",
+      "image": "data/images/3276c9b86c5824e47da5455255216ab2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "published": "2026-09-14T00:22:51",
+      "title": "Hacking AI customer service agents",
+      "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+      "published": "2026-09-14T16:26:03",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+      "image": "https://www.datocms-assets.com/85623/1788344729-intigriti-blog-tools-featured-hacking-ai-customer-service-agents.png?auto=format&fit=max&w=1200",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Robots \u2013 When will they be in our homes",
-      "url": "https://spectrum.ieee.org/ai-robots",
-      "published": "2026-09-14T00:44:23",
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "published": "2026-09-14T14:04:53",
       "description": "",
-      "image": "https://spectrum.ieee.org/media-library/the-robot-helper-rosie-from-the-tv-show-the-jetsons-next-to-a-group-of-new-ai-robots-consisting-of-neo-from-1x-technologies-apo.jpg?id=54170092&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67764230&width=1200&height=600&coordinates=0%2C207%2C0%2C293",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "published": "2026-09-14T16:32:23",
+      "description": "",
+      "image": "https://cdn.amazon.science/dims4/default/8f33283/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F28%2F46%2F0121ba1e4b42be0c56e7560c9844%2Fcompressionmodels-03-16x9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "When LLM judges agree, should we believe them?",
+      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "published": "2026-09-14T16:29:30",
+      "description": "",
+      "image": "https://cdn.amazon.science/dims4/default/116a8a4/2147483647/strip/true/crop/1228x645+0+23/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F70%2F22%2F5afbc05541c3bcdcf18bbfb49620%2Fagreement-fig1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
+      "url": "http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html",
+      "published": "2026-09-14T16:34:33",
+      "description": "",
+      "image": "data/images/00117203468cb8c84c1b70c24d2f1cfd.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
+      "url": "https://github.com/callbacked/kinesis",
+      "published": "2026-09-14T12:01:31",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/7aba24ecd273fb93e00c2eb6c76cd4120ddaaac918375366a219ffb4fc08bea7/callbacked/kinesis",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
+      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+      "published": "2026-09-14T15:30:56",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67740919&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
       "summary": "Summary unavailable."
     }
   ],
