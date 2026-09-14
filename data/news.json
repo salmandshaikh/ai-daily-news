@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T21:51:18.056706",
+  "updated": "2026-09-14T01:48:29.829968",
   "articles": [
     {
       "source": "RSS",
@@ -154,41 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-      "published": "2026-09-13T19:41:06",
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "published": "2026-09-14T01:02:37",
       "description": "",
-      "image": "https://singjupost.com/wp-content/uploads/2026/05/StarTalk-Podcast-There-Is-No-AI-Really-Its-Just-People-with-Jaron-Lanier.jpg",
+      "image": "data/images/db66b522de296a7a6fb4eb9f6c86bd6c.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Is Destroying the World",
-      "url": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
-      "published": "2026-09-13T21:04:47",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "published": "2026-09-14T00:22:51",
       "description": "",
-      "image": "data/images/086b84079d9ca3647f2402e47387acaa.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video]",
+      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+      "published": "2026-09-10T15:35:36",
+      "description": "",
+      "image": "../../img/md-hero.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video] (2025)",
       "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
       "published": "2026-09-10T23:32:12",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "published": "2026-09-13T01:22:31",
-      "description": "",
-      "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+      "image": "data/images/2d5bdd3719f5e09285efdd0201cb3ae4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,28 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "published": "2026-09-13T18:49:44",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "published": "2026-09-13T16:52:33",
       "description": "",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "published": "2026-09-12T23:43:31",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/abf14b3b702acbd42af198bd75d3dab8b92d60444f3ce07503d698f112c71149/FeralFirmware/TailTalk",
+      "image": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_400x400.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-13",
+    "date": "2026-09-14",
     "speakers": [
       "Alex",
       "Jordan"
