@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T01:48:29.829968",
+  "updated": "2026-09-14T09:18:31.940110",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/2cf0e63ac5fd8a025ec7332f3d4b463d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "published": "Thu, 10 Sep 2026 00:00:00 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/b6d6bc79a213c55371a68ca0cad1c215.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "The case against JPEG XL",
@@ -164,7 +164,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Open-Source AI and Open Models Reading List",
+      "title": "Open-source AI and open models reading list",
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "published": "2026-09-14T00:22:51",
       "description": "",
@@ -174,41 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-      "published": "2026-09-10T15:35:36",
+      "title": "AI Robots \u2013 When will they be in our homes",
+      "url": "https://spectrum.ieee.org/ai-robots",
+      "published": "2026-09-14T00:44:23",
       "description": "",
-      "image": "../../img/md-hero.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video] (2025)",
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "published": "2026-09-10T23:32:12",
-      "description": "",
-      "image": "data/images/2d5bdd3719f5e09285efdd0201cb3ae4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "published": "2026-09-13T15:44:38",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "published": "2026-09-13T16:52:33",
-      "description": "",
-      "image": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_400x400.jpg",
+      "image": "https://spectrum.ieee.org/media-library/the-robot-helper-rosie-from-the-tv-show-the-jetsons-next-to-a-group-of-new-ai-robots-consisting-of-neo-from-1x-technologies-apo.jpg?id=54170092&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
       "summary": "Summary unavailable."
     }
   ],
