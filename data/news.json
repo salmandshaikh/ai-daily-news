@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T19:19:17.056220",
+  "updated": "2026-09-15T22:29:15.976280",
   "articles": [
     {
       "source": "RSS",
@@ -102,53 +102,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "published": "Tue, 15 Sep 2026 16:00:44 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "published": "2026-09-15T19:25:03",
       "description": "",
-      "image": "data/images/ea8f67af93ef8898d7159012af9cd1be.png",
+      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "published": "2026-09-15T19:07:38",
       "description": "",
-      "image": "data/images/2cf0e63ac5fd8a025ec7332f3d4b463d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/e5ba8c3b1fe8f3a028e21fe339ff5106.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "published": "Tue, 08 Sep 2026 14:23:07 GMT",
-      "description": "",
-      "image": "data/images/d8e1ae53537a014a11f93c052c87a7bc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "published": "Thu, 03 Sep 2026 13:13:48 GMT",
-      "description": "",
-      "image": "data/images/e4eaeaa1e3e487fd7c4981cc6fdd7240.png",
+      "image": "data/images/0dd172e65dbd29379cb6a0b360df15c5.png",
       "summary": "Summary unavailable."
     },
     {
@@ -159,6 +129,26 @@
       "published": "2026-09-15T10:00:16",
       "description": "",
       "image": "data/images/c06a80e87741badaedef850c862843a9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Pizza Bot \u2013 An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "published": "2026-09-15T15:20:26",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/df4a48b4dc83941527f8a49d39e0e266b4872b3d353c5e9da16338c7478c7e81/pizza-bot-app/pizza-bot",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "published": "2026-09-15T10:22:46",
+      "description": "",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -179,26 +169,6 @@
       "published": "2026-09-14T21:15:01",
       "description": "",
       "image": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hugging Face is billing OpenAI $100M for hacking it",
-      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-      "published": "2026-09-15T17:56:10",
-      "description": "",
-      "image": "https://media.thenextweb.com/2026/07/Hugging-Face-breach.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How much of F-Droid is LLM generated?",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "published": "2026-09-15T09:47:48",
-      "description": "",
-      "image": "https://tintotint.eu/whacky-corner/f-droid_slop/header.png",
       "summary": "Summary unavailable."
     }
   ],
