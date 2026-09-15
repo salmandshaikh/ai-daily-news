@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T22:48:19.116521",
+  "updated": "2026-09-15T01:58:14.018435",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "published": "2026-09-14T14:29:23",
+      "description": "",
+      "image": "https://nathannaveen.dev/",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Why don't machine learning research agents overfit?",
       "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
       "published": "2026-09-14T16:32:23",
@@ -180,22 +190,12 @@
       "description": "",
       "image": "https://framerusercontent.com/images/gPrTReKBwM5bVRyIqVcgBE4kEAk.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "published": "2026-09-14T14:04:53",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67764230&width=1200&height=600&coordinates=0%2C207%2C0%2C293",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "speakers": [
       "Alex",
       "Jordan"
