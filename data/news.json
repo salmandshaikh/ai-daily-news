@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T15:45:15.885341",
+  "updated": "2026-09-15T19:19:17.056220",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published": "Tue, 15 Sep 2026 17:05:57 +0000",
+      "description": "",
+      "image": "data/images/0769d07a95b4b358bcc99e30ef0d1762.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "published": "Tue, 08 Sep 2026 14:00:15 +0000",
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "published": "Tue, 01 Sep 2026 17:08:51 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "Tue, 15 Sep 2026 16:00:44 GMT",
       "description": "",
-      "image": "data/images/2a87a8c0ac8631fe156431ebda20da78.png",
+      "image": "data/images/ea8f67af93ef8898d7159012af9cd1be.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,16 +134,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "published": "Wed, 09 Sep 2026 15:36:24 GMT",
-      "description": "",
-      "image": "data/images/1209555cd2b364b702d9f27a7116dc57.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "published": "Tue, 08 Sep 2026 14:23:07 GMT",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-      "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-      "published": "2026-09-15T14:07:01",
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "published": "2026-09-15T10:00:16",
       "description": "",
-      "image": "data/images/7e2680fccec258dcc5167bef6486590d.png",
+      "image": "data/images/c06a80e87741badaedef850c862843a9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "published": "2026-09-15T10:22:46",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://www.effort.news/irregular",
+      "published": "2026-09-14T21:15:01",
       "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg",
+      "image": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "published": "2026-09-15T12:01:31",
+      "title": "Hugging Face is billing OpenAI $100M for hacking it",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+      "published": "2026-09-15T17:56:10",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
+      "image": "https://media.thenextweb.com/2026/07/Hugging-Face-breach.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is breaking our proxies for expertise",
-      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-      "published": "2026-09-15T13:41:55",
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "published": "2026-09-15T09:47:48",
       "description": "",
-      "image": "data/images/1bea37a94b2adb0f65a2b712219d3fe7.png",
+      "image": "https://tintotint.eu/whacky-corner/f-droid_slop/header.png",
       "summary": "Summary unavailable."
     }
   ],
