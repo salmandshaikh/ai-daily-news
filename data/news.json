@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T19:09:19.116632",
+  "updated": "2026-09-16T22:26:31.995377",
   "articles": [
     {
       "source": "RSS",
@@ -24,31 +24,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "published": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "description": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "image": "data/images/47a79ab047334accf89b2556b27e4e1a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "image": "data/images/21c2978168248e5af3f5c029742b08dd.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "How workers are unlocking new ways of working",
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "published": "Wed, 16 Sep 2026 09:00:00 GMT",
       "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
       "image": "data/images/d1b5fe5b0327ef730c5d425cc8a53d3c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "published": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice.",
-      "image": "data/images/6e90031c833b88f0a116310b6ac29257.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "published": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "image": "data/images/323e4fc830054aabcddd3ad84be7f7aa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,56 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "published": "2026-09-16T18:50:00",
+      "description": "",
+      "image": "https://rohanbansal.com/og/qorl-20260916.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "published": "2026-09-16T20:59:24",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "published": "2026-09-16T20:09:18",
+      "description": "",
+      "image": "data/images/3c6d083e9eb0c09def59ab1d9ebc3497.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "published": "2026-09-16T18:56:05",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How good are frontier models at physics?",
+      "url": "https://arxiv.org/abs/2609.13009",
+      "published": "2026-09-16T19:19:08",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "published": "2026-09-16T08:08:57",
@@ -164,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Friday \u2013 Self-hosted persistent memory for AI coding agents (MCP)",
-      "url": "https://github.com/itskie/friday",
-      "published": "2026-09-16T18:55:09",
+      "title": "Training Text-to-Image Models 3.6\u00d7 Faster",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "published": "2026-09-16T16:58:13",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/1373285521/3e759f31-47f4-48b4-bd41-f3775a294381",
+      "image": "https://linum.ai/field-notes/jit-ddt/opengraph-image/card?67ee6b6af80a4a6f",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Learning Programming in an Age of LLMs",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "published": "2026-09-16T09:12:34",
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "published": "2026-09-16T18:49:57",
       "description": "",
-      "image": "https://blog.ploeh.dk/assets/themes/ploeh/images/favicons/favicon.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "url": "https://stale.jock.pl/",
-      "published": "2026-09-16T13:01:52",
-      "description": "",
-      "image": "https://stale.jock.pl/og.png",
+      "image": "https://opengraph.githubassets.com/a77b77216e2b205609a757823b589359730595ac9aea6c7d4a90f9c870a80a48/vinnylarouge/jevlike",
       "summary": "Summary unavailable."
     },
     {
@@ -209,16 +249,6 @@
       "published": "2026-09-16T14:27:47",
       "description": "",
       "image": "https://mustafa-suleyman.ai/images/posts/a-warning-about-model-welfare.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "published": "2026-09-15T19:25:03",
-      "description": "",
-      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
       "summary": "Summary unavailable."
     }
   ],
