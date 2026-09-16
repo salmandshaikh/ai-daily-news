@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-16T08:53:19.896617",
+  "updated": "2026-09-16T15:37:30.758674",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "image": "data/images/6f90448965341752be8b58e643558359.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "image": "data/images/5062654a3d690b105dbec93787d053c7.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Fri, 11 Sep 2026 10:00:00 GMT",
       "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "published": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "description": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "published": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "description": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "image": "data/images/91dcf5ba1c8620f95dc71020ecd5cb13.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+      "published": "2026-09-16T14:30:36",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "published": "2026-09-16T12:19:55",
+      "description": "",
+      "image": "https://www.datocms-assets.com/197073/1789462143-deepseek-v4-1-flash-is-now-our-best-hacking-model-preview.png?auto=format&fit=max&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "published": "2026-09-16T08:08:57",
+      "description": "",
+      "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "published": "2026-09-15T19:25:03",
@@ -164,11 +194,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "published": "2026-09-15T17:37:12",
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "published": "2026-09-16T13:01:52",
       "description": "",
-      "image": "data/images/8f1b86d17c31502a998058cb18839c9b.png",
+      "image": "https://stale.jock.pl/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+      "url": "https://github.com/officefloor/ImpactGate",
+      "published": "2026-09-16T13:01:09",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/1b44bf317c5d8b456d8889e895bc6cc60ce030387bce8acd4b215761e1e474b3/officefloor/ImpactGate",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A warning about 'model welfare'",
+      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+      "published": "2026-09-16T14:27:47",
+      "description": "",
+      "image": "https://mustafa-suleyman.ai/images/posts/a-warning-about-model-welfare.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "published": "2026-09-16T14:32:15",
+      "description": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "url": "https://mnoukhov.github.io/posts/ngu/",
-      "published": "2026-09-15T19:07:38",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "published": "2026-09-15T17:37:12",
       "description": "",
-      "image": "data/images/0dd172e65dbd29379cb6a0b360df15c5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "published": "2026-09-15T10:00:16",
-      "description": "",
-      "image": "data/images/c06a80e87741badaedef850c862843a9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "published": "2026-09-15T10:22:46",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "published": "2026-09-16T02:25:18",
-      "description": "",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2JFGHWHDDM5TY9NKS0TY8B3.01M2JFGJS6SBSH4SX8FC56CVPD.png",
+      "image": "data/images/8f1b86d17c31502a998058cb18839c9b.png",
       "summary": "Summary unavailable."
     }
   ],
