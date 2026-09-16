@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T15:37:30.758674",
+  "updated": "2026-09-16T19:09:19.116632",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published": "Wed, 16 Sep 2026 09:00:00 GMT",
+      "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "image": "data/images/d1b5fe5b0327ef730c5d425cc8a53d3c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
       "published": "Mon, 14 Sep 2026 12:00:00 GMT",
@@ -39,16 +49,6 @@
       "published": "Mon, 14 Sep 2026 00:00:00 GMT",
       "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "image": "data/images/323e4fc830054aabcddd3ad84be7f7aa.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "published": "Fri, 11 Sep 2026 10:00:00 GMT",
-      "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,26 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-      "published": "2026-09-16T14:30:36",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "published": "2026-09-16T12:19:55",
-      "description": "",
-      "image": "https://www.datocms-assets.com/197073/1789462143-deepseek-v4-1-flash-is-now-our-best-hacking-model-preview.png?auto=format&fit=max&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "published": "2026-09-16T08:08:57",
@@ -184,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "published": "2026-09-15T19:25:03",
+      "title": "Show HN: Friday \u2013 Self-hosted persistent memory for AI coding agents (MCP)",
+      "url": "https://github.com/itskie/friday",
+      "published": "2026-09-16T18:55:09",
       "description": "",
-      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
+      "image": "https://repository-images.githubusercontent.com/1373285521/3e759f31-47f4-48b4-bd41-f3775a294381",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "published": "2026-09-15T19:09:09",
+      "description": "",
+      "image": "data/images/45b9b9581523234e570212451ba8fc43.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "published": "2026-09-16T09:12:34",
+      "description": "",
+      "image": "https://blog.ploeh.dk/assets/themes/ploeh/images/favicons/favicon.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,16 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "url": "https://github.com/officefloor/ImpactGate",
-      "published": "2026-09-16T13:01:09",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/1b44bf317c5d8b456d8889e895bc6cc60ce030387bce8acd4b215761e1e474b3/officefloor/ImpactGate",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "A warning about 'model welfare'",
       "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
       "published": "2026-09-16T14:27:47",
@@ -224,31 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-      "published": "2026-09-16T14:32:15",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "published": "2026-09-15T19:25:03",
       "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "published": "2026-09-14T09:16:39",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "published": "2026-09-15T17:37:12",
-      "description": "",
-      "image": "data/images/8f1b86d17c31502a998058cb18839c9b.png",
+      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
       "summary": "Summary unavailable."
     }
   ],
