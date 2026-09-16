@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T01:49:06.794166",
+  "updated": "2026-09-16T08:53:19.896617",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "published": "2026-09-15T17:37:12",
+      "description": "",
+      "image": "data/images/8f1b86d17c31502a998058cb18839c9b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "published": "2026-09-14T09:16:39",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Learning to solve hard problems in RL for LLMs by never giving up",
       "url": "https://mnoukhov.github.io/posts/ngu/",
       "published": "2026-09-15T19:07:38",
@@ -184,16 +204,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Pizza Bot \u2013 An inbox for AI agents that work in the background",
-      "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "published": "2026-09-15T15:20:26",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/8332261ec87c484a6f261e14faddce5b1d3c7dd6a57b1e3ac4676b74a95e245c/pizza-bot-app/pizza-bot",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
       "published": "2026-09-15T10:22:46",
@@ -204,31 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://www.effort.news/irregular",
-      "published": "2026-09-14T21:15:01",
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "published": "2026-09-16T02:25:18",
       "description": "",
-      "image": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "published": "2026-09-15T17:37:12",
-      "description": "",
-      "image": "data/images/8f1b86d17c31502a998058cb18839c9b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cartesian \u2013 AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "published": "2026-09-15T15:26:45",
-      "description": "",
-      "image": "https://www.formas.ai/cartesian/assets/restaurant-one-point-final.webp",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2JFGHWHDDM5TY9NKS0TY8B3.01M2JFGJS6SBSH4SX8FC56CVPD.png",
       "summary": "Summary unavailable."
     }
   ],
