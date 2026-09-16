@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:29:15.976280",
+  "updated": "2026-09-16T01:49:06.794166",
   "articles": [
     {
       "source": "RSS",
@@ -102,6 +102,56 @@
       "summary": "Summary unavailable."
     },
     {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "Tue, 15 Sep 2026 16:00:44 GMT",
+      "description": "",
+      "image": "data/images/ea8f67af93ef8898d7159012af9cd1be.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/2cf0e63ac5fd8a025ec7332f3d4b463d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/e5ba8c3b1fe8f3a028e21fe339ff5106.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published": "Tue, 08 Sep 2026 14:23:07 GMT",
+      "description": "",
+      "image": "data/images/d8e1ae53537a014a11f93c052c87a7bc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published": "Thu, 03 Sep 2026 13:13:48 GMT",
+      "description": "",
+      "image": "data/images/e4eaeaa1e3e487fd7c4981cc6fdd7240.png",
+      "summary": "Summary unavailable."
+    },
+    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Introducing System One Models and Jev",
@@ -138,7 +188,7 @@
       "url": "https://github.com/pizza-bot-app/pizza-bot",
       "published": "2026-09-15T15:20:26",
       "description": "",
-      "image": "https://opengraph.githubassets.com/df4a48b4dc83941527f8a49d39e0e266b4872b3d353c5e9da16338c7478c7e81/pizza-bot-app/pizza-bot",
+      "image": "https://opengraph.githubassets.com/8332261ec87c484a6f261e14faddce5b1d3c7dd6a57b1e3ac4676b74a95e245c/pizza-bot-app/pizza-bot",
       "summary": "Summary unavailable."
     },
     {
@@ -154,28 +204,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cartesian \u2013 AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "published": "2026-09-15T15:26:45",
-      "description": "",
-      "image": "https://www.formas.ai/cartesian/assets/restaurant-one-point-final.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://www.effort.news/irregular",
       "published": "2026-09-14T21:15:01",
       "description": "",
       "image": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "published": "2026-09-15T17:37:12",
+      "description": "",
+      "image": "data/images/8f1b86d17c31502a998058cb18839c9b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cartesian \u2013 AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "published": "2026-09-15T15:26:45",
+      "description": "",
+      "image": "https://www.formas.ai/cartesian/assets/restaurant-one-point-final.webp",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "speakers": [
       "Alex",
       "Jordan"
