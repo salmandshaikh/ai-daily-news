@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T08:58:22.299448",
+  "updated": "2026-09-17T15:43:26.709111",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "published": "2026-09-16T18:50:00",
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "published": "2026-09-17T08:03:54",
       "description": "",
-      "image": "https://rohanbansal.com/og/qorl-20260916.png",
+      "image": "https://events.ccc.de/media/37c3-53598978540.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "published": "2026-09-17T13:01:44",
+      "description": "",
+      "image": "https://mysetup.ai/social-preview.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I had Gemini train its own replacement for $9",
+      "url": "https://www.petervijeh.com/projects/reddit-ner",
+      "published": "2026-09-17T13:17:16",
+      "description": "",
+      "image": "https://petervijeh.com/projects/reddit-ner/opengraph-image?4df38d46c96dd13e",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "published": "2026-09-16T20:59:24",
@@ -184,11 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "published": "2026-09-17T00:28:33",
+      "title": "I Don't Like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "published": "2026-09-17T13:57:07",
       "description": "",
-      "image": "https://gcaptain.com/wp-content/uploads/2026/09/Maersk-Container-Anemoi-Rotor-Sail-6-scaled.png.jpeg",
+      "image": "data/images/e120a26f140c5ea88c9f7a363d5610d2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "published": "2026-09-16T18:50:00",
+      "description": "",
+      "image": "https://rohanbansal.com/og/qorl-20260916.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,36 +229,6 @@
       "published": "2026-09-16T23:06:39",
       "description": "",
       "image": "https://openspec.dev/og-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "US interest rates raised for first time in three years",
-      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
-      "published": "2026-09-16T23:25:17",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Part-human part-mouse brain developed in science breakthrough",
-      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-      "published": "2026-09-17T01:33:10",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0701/live/5c142ed0-b1f0-11f1-bc1f-3f186ca4140c.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Reverse-engineered Jev-like model",
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "published": "2026-09-16T18:49:57",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/b5193c38ced7a595993a6229a7208f20d731ac05a202bc8c1c20dd00b41fe34c/vinnylarouge/jevlike",
       "summary": "Summary unavailable."
     }
   ],
