@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:52:38.559687",
+  "updated": "2026-09-17T08:58:22.299448",
   "articles": [
     {
       "source": "RSS",
@@ -184,26 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "published": "2026-09-16T23:06:39",
-      "description": "",
-      "image": "https://openspec.dev/og-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Reverse-engineered Jev-like model",
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "published": "2026-09-16T18:49:57",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/852b928a6ef5ec476087678f27185ab164b3612b41abf9e2b359c832874bdfe1/vinnylarouge/jevlike",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
       "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
       "published": "2026-09-17T00:28:33",
@@ -214,31 +194,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
-      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-      "published": "2026-09-17T01:02:13",
+      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "published": "2026-09-16T23:06:39",
       "description": "",
-      "image": "data/images/dfb161210d781a6239290016a8bb60a8.png",
+      "image": "https://openspec.dev/og-card.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Accurate Models of AMD Matrix Cores",
-      "url": "https://arxiv.org/abs/2609.14845",
-      "published": "2026-09-16T18:56:05",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "published": "2026-09-16T23:25:17",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Training Text-to-Image Models 3.6\u00d7 Faster",
-      "url": "https://www.linum.ai/field-notes/jit-ddt",
-      "published": "2026-09-16T16:58:13",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "published": "2026-09-17T01:33:10",
       "description": "",
-      "image": "https://linum.ai/field-notes/jit-ddt/opengraph-image/card?67ee6b6af80a4a6f",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0701/live/5c142ed0-b1f0-11f1-bc1f-3f186ca4140c.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "published": "2026-09-16T18:49:57",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/b5193c38ced7a595993a6229a7208f20d731ac05a202bc8c1c20dd00b41fe34c/vinnylarouge/jevlike",
       "summary": "Summary unavailable."
     }
   ],
