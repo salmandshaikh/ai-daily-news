@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T22:26:31.995377",
+  "updated": "2026-09-17T01:52:38.559687",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "published": "2026-09-16T20:09:18",
+      "description": "",
+      "image": "data/images/3c6d083e9eb0c09def59ab1d9ebc3497.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "published": "2026-09-16T20:59:24",
@@ -174,11 +184,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "published": "2026-09-16T20:09:18",
+      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "published": "2026-09-16T23:06:39",
       "description": "",
-      "image": "data/images/3c6d083e9eb0c09def59ab1d9ebc3497.png",
+      "image": "https://openspec.dev/og-card.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "published": "2026-09-16T18:49:57",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/852b928a6ef5ec476087678f27185ab164b3612b41abf9e2b359c832874bdfe1/vinnylarouge/jevlike",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "published": "2026-09-17T00:28:33",
+      "description": "",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/09/Maersk-Container-Anemoi-Rotor-Sail-6-scaled.png.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "published": "2026-09-17T01:02:13",
+      "description": "",
+      "image": "data/images/dfb161210d781a6239290016a8bb60a8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,68 +234,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How good are frontier models at physics?",
-      "url": "https://arxiv.org/abs/2609.13009",
-      "published": "2026-09-16T19:19:08",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "published": "2026-09-16T08:08:57",
-      "description": "",
-      "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Training Text-to-Image Models 3.6\u00d7 Faster",
       "url": "https://www.linum.ai/field-notes/jit-ddt",
       "published": "2026-09-16T16:58:13",
       "description": "",
       "image": "https://linum.ai/field-notes/jit-ddt/opengraph-image/card?67ee6b6af80a4a6f",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Siberian Ice Maiden and the Scythian World",
-      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-      "published": "2026-09-15T19:09:09",
-      "description": "",
-      "image": "data/images/45b9b9581523234e570212451ba8fc43.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Reverse-engineered Jev-like model",
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "published": "2026-09-16T18:49:57",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/a77b77216e2b205609a757823b589359730595ac9aea6c7d4a90f9c870a80a48/vinnylarouge/jevlike",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A warning about 'model welfare'",
-      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-      "published": "2026-09-16T14:27:47",
-      "description": "",
-      "image": "https://mustafa-suleyman.ai/images/posts/a-warning-about-model-welfare.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "speakers": [
       "Alex",
       "Jordan"
