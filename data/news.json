@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-17T19:21:08.258767",
+  "updated": "2026-09-17T22:29:28.443101",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "description": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "image": "data/images/c2d7608a2fad00352c92bf3927c57f33.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 16 Sep 2026 17:00:00 GMT",
       "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "image": "data/images/21c2978168248e5af3f5c029742b08dd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "published": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "image": "data/images/d1b5fe5b0327ef730c5d425cc8a53d3c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "published": "2026-09-17T20:36:13",
+      "description": "",
+      "image": "data/images/9e2ece3d907dfeaabbb71abc9afd1f17.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "published": "2026-09-17T21:13:31",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "published": "2026-09-17T21:15:52",
+      "description": "",
+      "image": "https://iankduncan.com/portrait.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
       "url": "https://arxiv.org/abs/2609.18842",
       "published": "2026-09-17T16:55:14",
@@ -164,31 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CCC invites all model citizens to 40C3",
-      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "published": "2026-09-17T08:03:54",
+      "title": "How Uber Protects Against Retry Storms",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "published": "2026-09-17T21:14:32",
       "description": "",
-      "image": "https://events.ccc.de/media/37c3-53598978540.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "published": "2026-09-17T13:01:44",
-      "description": "",
-      "image": "https://mysetup.ai/social-preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "published": "2026-09-17T00:28:33",
-      "description": "",
-      "image": "https://gcaptain.com/wp-content/uploads/2026/09/Maersk-Container-Anemoi-Rotor-Sail-6-scaled.png.jpeg",
+      "image": "https://tb-static.uber.com/prod/udam-assets/2f728933-cdab-4f92-9b80-a656f774bdbb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,31 +214,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Craigslist for agent skills, curated by a human",
-      "url": "https://skillbay.sh/",
-      "published": "2026-09-17T16:53:51",
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "published": "2026-09-17T08:03:54",
       "description": "",
-      "image": "https://skillbay.sh/og/site.png",
+      "image": "https://events.ccc.de/media/37c3-53598978540.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLM Classification Is Feature Engineering",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "published": "2026-09-17T15:40:17",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "published": "2026-09-17T00:28:33",
       "description": "",
-      "image": "data/images/d55227609f81b91f2c594cfdaac184d5.png",
+      "image": "https://gcaptain.com/wp-content/uploads/2026/09/Maersk-Container-Anemoi-Rotor-Sail-6-scaled.png.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-      "url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
-      "published": "2026-09-17T17:20:14",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "published": "2026-09-17T13:01:44",
       "description": "",
-      "image": "data/images/c3faa0eb69decfe23bdc5037b7f5b396.png",
+      "image": "https://mysetup.ai/social-preview.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Canto: A speech model built for the real world",
+      "url": "https://wisprflow.ai/canto",
+      "published": "2026-09-17T18:32:50",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/682f84b3838c89f8ff7667db/6aabaa6763d87840dbfdf60c_canto-og-v2%20(1).jpg",
       "summary": "Summary unavailable."
     }
   ],
