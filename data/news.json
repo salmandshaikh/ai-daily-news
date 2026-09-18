@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T15:15:36.503485",
+  "updated": "2026-09-18T18:41:07.605706",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Protest in Montreal",
-      "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
-      "published": "2026-09-18T14:45:41",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "published": "2026-09-18T00:11:44",
       "description": "",
-      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/09/0917-city-ai-protest_305254945.jpg?w=1024",
+      "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "published": "2026-09-18T11:01:44",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "published": "2026-09-18T17:28:01",
       "description": "",
-      "image": "data/images/7578de7b3d4f91fcbb647d367588fbe1.png",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&q=w_800,c_fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "published": "2026-09-18T02:47:24",
+      "description": "",
+      "image": "https://www.hacktron.ai/_astro/CwjuS_y3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,31 +194,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+      "published": "2026-09-18T15:04:54",
+      "description": "",
+      "image": "http://www.miro.vision/wp-content/uploads/2026/09/750_500.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "published": "2026-09-18T11:01:44",
+      "description": "",
+      "image": "data/images/7578de7b3d4f91fcbb647d367588fbe1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI chatbots are becoming experts at changing people's minds",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "published": "2026-09-18T13:39:27",
+      "description": "",
+      "image": "data/images/454d41c015de356db178494f685b21af.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "published": "2026-09-18T09:45:07",
       "description": "",
       "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "published": "2026-09-17T21:13:31",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "published": "2026-09-17T20:36:13",
-      "description": "",
-      "image": "data/images/9e2ece3d907dfeaabbb71abc9afd1f17.png",
       "summary": "Summary unavailable."
     }
   ],
