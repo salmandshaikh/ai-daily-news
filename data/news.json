@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-17T22:29:28.443101",
+  "updated": "2026-09-18T01:40:15.629796",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "published": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "image": "data/images/173f9e358dc4ba66ddbe076bf446f271.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 16 Sep 2026 12:00:00 GMT",
       "description": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "image": "data/images/47a79ab047334accf89b2556b27e4e1a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
-      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "image": "data/images/21c2978168248e5af3f5c029742b08dd.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "published": "2026-09-17T20:36:13",
-      "description": "",
-      "image": "data/images/9e2ece3d907dfeaabbb71abc9afd1f17.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "url": "https://prismml.com/news/bonsai-2-27b",
       "published": "2026-09-17T21:13:31",
@@ -174,21 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "published": "2026-09-17T21:15:52",
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "published": "2026-09-17T20:36:13",
       "description": "",
-      "image": "https://iankduncan.com/portrait.jpg",
+      "image": "data/images/9e2ece3d907dfeaabbb71abc9afd1f17.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "published": "2026-09-17T16:55:14",
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "published": "2026-09-15T10:46:24",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://cdn.sci.news/images/2026/09/image_15064f-Spanish-Diplodocus.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "TSMC revealing details about next gen A14 node",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-      "published": "2026-09-15T15:31:55",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "published": "2026-09-17T16:55:14",
       "description": "",
-      "image": "data/images/7b21a3839ce8cdf1f685cfcb9caa4f1a.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -224,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "published": "2026-09-17T00:28:33",
+      "title": "TSMC revealing details about next gen A14 node",
+      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "published": "2026-09-15T15:31:55",
       "description": "",
-      "image": "https://gcaptain.com/wp-content/uploads/2026/09/Maersk-Container-Anemoi-Rotor-Sail-6-scaled.png.jpeg",
+      "image": "data/images/7b21a3839ce8cdf1f685cfcb9caa4f1a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -244,18 +234,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Canto: A speech model built for the real world",
-      "url": "https://wisprflow.ai/canto",
-      "published": "2026-09-17T18:32:50",
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "published": "2026-09-17T21:15:52",
       "description": "",
-      "image": "https://cdn.prod.website-files.com/682f84b3838c89f8ff7667db/6aabaa6763d87840dbfdf60c_canto-og-v2%20(1).jpg",
+      "image": "https://iankduncan.com/portrait.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "speakers": [
       "Alex",
       "Jordan"
