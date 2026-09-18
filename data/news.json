@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T08:33:10.331414",
+  "updated": "2026-09-18T15:15:36.503485",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI Protest in Montreal",
+      "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
+      "published": "2026-09-18T14:45:41",
+      "description": "",
+      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/09/0917-city-ai-protest_305254945.jpg?w=1024",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "published": "2026-09-18T11:01:44",
+      "description": "",
+      "image": "data/images/7578de7b3d4f91fcbb647d367588fbe1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "published": "2026-09-18T14:41:02",
+      "description": "",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GraphSandwiches-crKristinaArmitage-Social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "published": "2026-09-18T09:45:07",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "url": "https://prismml.com/news/bonsai-2-27b",
       "published": "2026-09-17T21:13:31",
@@ -169,56 +209,6 @@
       "published": "2026-09-17T20:36:13",
       "description": "",
       "image": "data/images/9e2ece3d907dfeaabbb71abc9afd1f17.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "published": "2026-09-18T02:47:24",
-      "description": "",
-      "image": "https://www.hacktron.ai/_astro/CwjuS_y3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "published": "2026-09-17T21:48:38",
-      "description": "",
-      "image": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-      "published": "2026-09-15T10:46:24",
-      "description": "",
-      "image": "https://cdn.sci.news/images/2026/09/image_15064f-Spanish-Diplodocus.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How Uber Protects Against Retry Storms",
-      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-      "published": "2026-09-17T21:14:32",
-      "description": "",
-      "image": "https://tb-static.uber.com/prod/udam-assets/2f728933-cdab-4f92-9b80-a656f774bdbb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "published": "2026-09-17T16:55:14",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
