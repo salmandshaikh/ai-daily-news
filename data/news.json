@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-19T01:44:41.274401",
+  "updated": "2026-09-19T08:20:05.457374",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published": "Fri, 18 Sep 2026 12:00:00 GMT",
+      "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "image": "data/images/e87cf31eb5a2b7aba393fdaefa3e670c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 16 Sep 2026 13:00:00 GMT",
       "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "image": "data/images/5062654a3d690b105dbec93787d053c7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Hex turns complex analysis into visual reports with GPT\u20116 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "published": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "description": "GPT-6 Astra helps Hex\u2019s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "image": "data/images/96ec3c0d0a9b3830012351466313ddca.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "published": "2026-09-18T23:04:17",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "published": "2026-09-19T05:48:50",
       "description": "",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
+      "image": "data/images/60cd1faec55027221f153c2d12e78c18.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "published": "2026-09-19T06:41:44",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "published": "2026-09-19T04:44:35",
+      "description": "",
+      "image": "https://content.presspage.com/uploads/1906/7d00e021-cc00-499a-abbb-a303d82d269f/1920_ice_prospectivity-hero.png?10000",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "published": "2026-09-18T18:55:35",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "published": "2026-09-18T23:04:17",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
       "summary": "Summary unavailable."
     },
     {
@@ -194,41 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "published": "2026-09-18T15:12:07",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "published": "2026-09-18T19:00:06",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "published": "2026-09-18T18:55:35",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "published": "2026-09-18T23:54:42",
-      "description": "",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=AeGmKIDY&v=1789736650",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-      "published": "2026-09-17T13:20:03",
-      "description": "",
-      "image": "data/images/4c4ec923e8a8fcc405b33b6c4b582f7c.png",
       "summary": "Summary unavailable."
     }
   ],
