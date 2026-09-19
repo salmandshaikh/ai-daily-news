@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:15:48.295197",
+  "updated": "2026-09-19T21:50:08.777622",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
       "published": "2026-09-19T10:46:58",
       "description": "",
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "published": "2026-09-19T05:48:50",
       "description": "",
-      "image": "data/images/60cd1faec55027221f153c2d12e78c18.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "published": "2026-09-19T15:52:51",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/e315fadc289af65757b6ba2bd705ba2f758a75707bdebf9b9ea2f073b9808f45/trycua/cua",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "published": "2026-09-19T16:35:24",
       "description": "",
-      "image": "data/images/ef123c596dd81eae662e7b462276b7dc.png",
+      "image": "data/images/93ad05b62c8e188e563c67c7651b02fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "People who know the most often sound the least certain",
-      "url": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
-      "published": "2026-09-19T17:42:43",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "published": "2026-09-19T18:21:30",
       "description": "",
-      "image": "data/images/c50401eb641a1189ae62d8def0c348a1.png",
+      "image": "https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4-2000-80.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -219,16 +229,6 @@
       "published": "2026-09-17T21:48:38",
       "description": "",
       "image": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "published": "2026-09-18T23:04:17",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
       "summary": "Summary unavailable."
     }
   ],
