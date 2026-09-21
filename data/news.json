@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-21T17:14:38.703493",
+  "updated": "2026-09-21T22:53:01.808910",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "image": "data/images/25748fb4c31af567089d926f888f6f0d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "image": "data/images/18ddc701b383dce5ba281e31596caf9b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "image": "data/images/2618ac1381cfa099ee8c9bd3a579bd37.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,46 +49,6 @@
       "published": "Mon, 21 Sep 2026 00:00:00 GMT",
       "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "image": "data/images/41b08bd3ae9b1160aa4c2f06293f4e69.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "published": "Fri, 18 Sep 2026 12:00:00 GMT",
-      "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "image": "data/images/e87cf31eb5a2b7aba393fdaefa3e670c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "published": "Thu, 17 Sep 2026 12:00:00 GMT",
-      "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "image": "data/images/173f9e358dc4ba66ddbe076bf446f271.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-      "description": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "image": "data/images/c2d7608a2fad00352c92bf3927c57f33.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "image": "data/images/6f90448965341752be8b58e643558359.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "published": "2026-09-21T19:43:49",
+      "description": "",
+      "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "published": "2026-09-21T19:23:33",
+      "description": "",
+      "image": "https://webassets.linear.app/images/ornj730p/production/eba763cf034ad5e7b5d75ceec7ba560dd2aea5cb-2400x1350.png?q=95&auto=format&dpr=2",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "published": "2026-09-21T18:33:44",
+      "description": "",
+      "image": "https://safedep.io/images/mathmain-encrypted-loader-banner.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "published": "2026-09-21T18:53:01",
+      "description": "",
+      "image": "data/images/771a417ce09974ce394891878f7af00f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "published": "2026-09-21T18:41:59",
+      "description": "",
+      "image": "data/images/8d081d35a24be1456fbdcfd7036bba2e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
       "url": "https://github.com/jaredpalmer/kev/tree/main",
       "published": "2026-09-21T07:11:55",
       "description": "",
-      "image": "https://opengraph.githubassets.com/47cfaa8376f80996178c1707343798536f6a444336e0c8f551d5455a8e146000/jaredpalmer/kev",
+      "image": "https://opengraph.githubassets.com/ef128dd8550e1ba40be5d14a14cd00565ac07eeb932a3f882e08042a3c600f61/jaredpalmer/kev",
       "summary": "Summary unavailable."
     },
     {
@@ -174,61 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Whirlpool Washer Transmission Repair (2007)",
-      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
-      "published": "2026-09-20T21:24:33",
-      "description": "",
-      "image": "data/images/cb52c3e4f0b2af8ad19b8818f761a7fe.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "published": "2026-09-21T14:10:49",
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "url": "https://ieeexplore.ieee.org/document/689473",
+      "published": "2026-09-21T18:14:56",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
-      "published": "2026-09-21T04:35:22",
-      "description": "",
-      "image": "data/images/f06907dc9e0f8ec03a799114e4677a23.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "published": "2026-09-21T04:42:37",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/5322bf0527846691f0517ecb538dbba0dca3f7da823f9a4a5e55f25f141f0c59/volotat/mini-AGI",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
-      "url": "https://github.com/aru-labs/lossless-memory",
-      "published": "2026-09-21T12:28:17",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/1c68a85512750ff7b0d04cd5f784648c63ce9c84cceff01e5dc053bdb92f9dc7/aru-labs/lossless-memory",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
-      "published": "2026-09-20T23:57:10",
-      "description": "",
-      "image": "data/images/032b8f99c2a991af347943faca39ec4e.png",
       "summary": "Summary unavailable."
     }
   ],
