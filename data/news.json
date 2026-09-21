@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T21:57:31.304878",
+  "updated": "2026-09-21T01:47:31.625680",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "published": "2026-09-20T23:57:10",
+      "description": "",
+      "image": "data/images/032b8f99c2a991af347943faca39ec4e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
       "published": "2026-09-20T15:16:07",
@@ -174,18 +184,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-      "published": "2026-09-20T20:32:43",
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "published": "2026-09-20T23:19:04",
       "description": "",
-      "image": "data/images/721dc33ed36f8d5b89e66d9b97621cf0.png",
+      "image": "https://opengraph.githubassets.com/7c2716a415a3df262f69124b639a877afa258dc27abf16b4a6d695c9a2282806/BytedTsinghua-SIA/DAPO",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "published": "2026-09-20T06:16:42",
+      "description": "",
+      "image": "https://media.reclaimthenet.org/images/2026/09/VlEW9CtTFnlS.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "url": "https://tinybrains.dev",
+      "published": "2026-09-20T14:59:10",
+      "description": "",
+      "image": "https://tinybrains.dev/og.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "speakers": [
       "Alex",
       "Jordan"
