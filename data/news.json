@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T01:47:31.625680",
+  "updated": "2026-09-21T09:21:09.568441",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "published": "2026-09-20T15:18:44",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "published": "2026-09-21T07:11:55",
       "description": "",
-      "image": "data/images/26bebad456c3e438404b0132fd0c28f5.png",
+      "image": "https://opengraph.githubassets.com/54e3c8f2c561d98194b387ecfa23e1f1c36cf84b95e468e788eec2229ba76692/jaredpalmer/kev",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "published": "2026-09-21T04:42:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/050022ee3b5c8db59347aa3bcfaa80b33adafb5b504a09308f01dcfaf957bce6/volotat/mini-AGI",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "published": "2026-09-20T15:16:07",
-      "description": "",
-      "image": "https://pirateface.co/og/home",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-      "published": "2026-09-20T23:19:04",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/7c2716a415a3df262f69124b639a877afa258dc27abf16b4a6d695c9a2282806/BytedTsinghua-SIA/DAPO",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "title": "Spain orders blocks on Archive.today and its mirrors",
       "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
       "published": "2026-09-20T06:16:42",
       "description": "",
       "image": "https://media.reclaimthenet.org/images/2026/09/VlEW9CtTFnlS.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "published": "2026-09-21T04:28:44",
+      "description": "",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55ab023f-71c0-4ffb-8eaa-9befa8dc11b8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "published": "2026-09-20T12:20:13",
+      "description": "",
+      "image": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
       "summary": "Summary unavailable."
     },
     {
