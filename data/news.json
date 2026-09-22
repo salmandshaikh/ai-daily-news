@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-22T19:19:05.521098",
+  "updated": "2026-09-22T22:28:22.604091",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "published": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "image": "data/images/c65002472029ff1edd034e7edb115da9.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Tue, 22 Sep 2026 18:00:00 GMT",
       "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
       "image": "data/images/feb143c98129acef0d63331cef8339a4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "description": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "image": "data/images/bf2330ac3bce22030c6cf61a69522ae2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "published": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "image": "data/images/25748fb4c31af567089d926f888f6f0d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "published": "Mon, 21 Sep 2026 12:00:00 GMT",
       "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "published": "Mon, 21 Sep 2026 10:00:00 GMT",
-      "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "image": "data/images/18ddc701b383dce5ba281e31596caf9b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +174,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "published": "2026-09-22T00:24:00",
+      "description": "",
+      "image": "https://static.scientificamerican.com/dam/asset/f5a85a12-d9e9-4edc-a45f-cc0b170995cf/water-wall.jpg?m=1790009681.499&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "published": "2026-09-22T13:01:03",
+      "description": "",
+      "image": "https://benchmarkheaven.com/jev-models/opengraph-image?v=v1.3.0",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
       "published": "2026-09-22T14:42:59",
@@ -184,57 +204,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: AI\u00b7rete\u00b7RAG \u2013 a Rete rule engine decides, RAG explains why",
-      "url": "https://ai-rete-rag.com/",
-      "published": "2026-09-22T16:15:06",
-      "description": "",
-      "image": "data/images/9a7625a1d3b93731df277ee7f15815ab.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Solitaire Alone Together",
-      "url": "https://solitairealonetogether.com/",
-      "published": "2026-09-21T22:16:34",
-      "description": "",
-      "image": "https://solitairealonetogether.com/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "published": "2026-09-22T06:08:39",
-      "description": "",
-      "image": "data/images/cd16601c66048d2cc8a80402e6eb5aef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-      "published": "2026-09-22T19:03:38",
-      "description": "",
-      "image": "data/images/c21806823176779007cb34aadfbea196.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: InstinctFlash \u2013 Run 5B world-action models in real time on Jetson Thor",
-      "url": "https://github.com/General-Instinct/InstinctFlash",
-      "published": "2026-09-22T15:20:06",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/7ae4c1710de8d2ea9042244116d194807e1677a7fe36e368121f2273829b5f5e/General-Instinct/InstinctFlash",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Training a model to identify AI-generated web content from structure alone",
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
       "url": "https://arxiv.org/abs/2609.15369",
       "published": "2026-09-22T13:00:49",
       "description": "",
@@ -244,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I said no and Apple said yes",
-      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-      "published": "2026-09-22T08:04:55",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "published": "2026-09-22T19:03:38",
       "description": "",
-      "image": "https://dbushell.com/images/articles/2026-09-22-apple-intelligence.png",
+      "image": "data/images/52cbc30301b3cd5042367bb67cad2ca4.png",
       "summary": "Summary unavailable."
     }
   ],
