@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T08:51:48.921415",
+  "updated": "2026-09-22T15:47:39.487128",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/2f99c2fa5603f722a64792cbe8e4da00.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "url": "https://huggingface.co/blog/omlx",
       "published": "Tue, 22 Sep 2026 00:00:00 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "published": "2026-09-22T13:52:15",
       "description": "",
-      "image": "data/images/2cf0e63ac5fd8a025ec7332f3d4b463d.png",
+      "image": "data/images/11d6211753db209719f331051952668f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +174,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "If you start writing today, there's no way to know if you can write without AI",
+      "url": "https://www.ssp.sh/brain/ai-writing/",
+      "published": "2026-09-22T15:09:45",
+      "description": "",
+      "image": "https://www.ssp.sh/brain/_img/feature/gen/ai-writing.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI is about to eat Jev's lunch \u2013 Arcturus Labs",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "published": "2026-09-22T14:42:59",
+      "description": "",
+      "image": "http://arcturus-labs.com/blog/assets/will-openai-eat-jevs-lunch/hero.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "published": "2026-09-22T14:35:15",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Solitaire Alone Together",
+      "url": "https://solitairealonetogether.com/",
+      "published": "2026-09-21T22:16:34",
+      "description": "",
+      "image": "https://solitairealonetogether.com/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
       "published": "2026-09-21T19:43:49",
       "description": "",
       "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "published": "2026-09-22T08:04:55",
+      "description": "",
+      "image": "https://dbushell.com/images/articles/2026-09-22-apple-intelligence.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Status \u2013 Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "published": "2026-09-22T01:05:19",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "published": "2026-09-22T12:11:09",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "published": "2026-09-21T13:38:19",
-      "description": "",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M31JM2B4K28B7C67PCT5PB2R.01M31JM35NW9707QDHV86F68M9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "published": "2026-09-21T18:53:01",
-      "description": "",
-      "image": "data/images/771a417ce09974ce394891878f7af00f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "published": "2026-09-21T18:33:44",
-      "description": "",
-      "image": "https://safedep.io/images/mathmain-encrypted-loader-banner.png",
+      "image": "https://alexn.org/assets/logo/800px-bordered.png",
       "summary": "Summary unavailable."
     }
   ],
