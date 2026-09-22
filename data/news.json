@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-22T15:47:39.487128",
+  "updated": "2026-09-22T19:19:05.521098",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "published": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "image": "data/images/feb143c98129acef0d63331cef8339a4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "description": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "image": "data/images/7ebfe04ad1cb2c4f6efe6e8b731a1a90.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Mon, 21 Sep 2026 10:00:00 GMT",
       "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
       "image": "data/images/18ddc701b383dce5ba281e31596caf9b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "image": "data/images/2618ac1381cfa099ee8c9bd3a579bd37.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "published": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "image": "data/images/41b08bd3ae9b1160aa4c2f06293f4e69.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/85197a1178dd5a38761bfcf721352f40.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Transformers now runs llama.cpp quants",
       "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "published": "Tue, 22 Sep 2026 00:00:00 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "published": "Tue, 15 Sep 2026 16:00:44 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "published": "2026-09-22T18:00:34",
       "description": "",
-      "image": "data/images/ea8f67af93ef8898d7159012af9cd1be.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -164,27 +174,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "published": "2026-09-22T06:08:39",
-      "description": "",
-      "image": "data/images/cd16601c66048d2cc8a80402e6eb5aef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "If you start writing today, there's no way to know if you can write without AI",
-      "url": "https://www.ssp.sh/brain/ai-writing/",
-      "published": "2026-09-22T15:09:45",
-      "description": "",
-      "image": "https://www.ssp.sh/brain/_img/feature/gen/ai-writing.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI is about to eat Jev's lunch \u2013 Arcturus Labs",
+      "title": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
       "published": "2026-09-22T14:42:59",
       "description": "",
@@ -194,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "published": "2026-09-22T14:35:15",
+      "title": "Show HN: AI\u00b7rete\u00b7RAG \u2013 a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "published": "2026-09-22T16:15:06",
       "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "image": "data/images/9a7625a1d3b93731df277ee7f15815ab.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +204,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "published": "2026-09-21T19:43:49",
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "published": "2026-09-22T06:08:39",
       "description": "",
-      "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
+      "image": "data/images/cd16601c66048d2cc8a80402e6eb5aef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "published": "2026-09-22T19:03:38",
+      "description": "",
+      "image": "data/images/c21806823176779007cb34aadfbea196.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: InstinctFlash \u2013 Run 5B world-action models in real time on Jetson Thor",
+      "url": "https://github.com/General-Instinct/InstinctFlash",
+      "published": "2026-09-22T15:20:06",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/7ae4c1710de8d2ea9042244116d194807e1677a7fe36e368121f2273829b5f5e/General-Instinct/InstinctFlash",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Training a model to identify AI-generated web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "published": "2026-09-22T13:00:49",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -229,26 +249,6 @@
       "published": "2026-09-22T08:04:55",
       "description": "",
       "image": "https://dbushell.com/images/articles/2026-09-22-apple-intelligence.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "published": "2026-09-21T19:23:33",
-      "description": "",
-      "image": "https://webassets.linear.app/images/ornj730p/production/eba763cf034ad5e7b5d75ceec7ba560dd2aea5cb-2400x1350.png?q=95&auto=format&dpr=2",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Has No Wisdom and Neither Will You",
-      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-      "published": "2026-09-22T12:11:09",
-      "description": "",
-      "image": "https://alexn.org/assets/logo/800px-bordered.png",
       "summary": "Summary unavailable."
     }
   ],
