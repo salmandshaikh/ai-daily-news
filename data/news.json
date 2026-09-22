@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:58:25.773897",
+  "updated": "2026-09-22T08:51:48.921415",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
       "published": "Mon, 21 Sep 2026 13:44:34 GMT",
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/e5ba8c3b1fe8f3a028e21fe339ff5106.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Status \u2013 Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "published": "2026-09-22T01:05:19",
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "published": "2026-09-22T06:08:39",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "image": "data/images/cd16601c66048d2cc8a80402e6eb5aef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,41 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "published": "2026-09-21T18:33:44",
+      "title": "Claude Status \u2013 Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "published": "2026-09-22T01:05:19",
       "description": "",
-      "image": "https://safedep.io/images/mathmain-encrypted-loader-banner.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "published": "2026-09-21T18:53:01",
-      "description": "",
-      "image": "data/images/771a417ce09974ce394891878f7af00f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "published": "2026-09-21T07:11:55",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/bca25caf135432205ac9c97eaff1390316262c4a0a160644f664a30bf9a6d9e3/jaredpalmer/kev",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-      "published": "2026-09-22T01:24:49",
-      "description": "",
-      "image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg?w=1000&h=563&crop=1",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "summary": "Summary unavailable."
     },
     {
@@ -234,11 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "published": "2026-09-21T18:41:59",
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "published": "2026-09-21T18:53:01",
       "description": "",
-      "image": "data/images/8d081d35a24be1456fbdcfd7036bba2e.png",
+      "image": "data/images/771a417ce09974ce394891878f7af00f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "published": "2026-09-21T18:33:44",
+      "description": "",
+      "image": "https://safedep.io/images/mathmain-encrypted-loader-banner.png",
       "summary": "Summary unavailable."
     }
   ],
