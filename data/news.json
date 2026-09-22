@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T22:53:01.808910",
+  "updated": "2026-09-22T01:58:25.773897",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Claude Status \u2013 Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "published": "2026-09-22T01:05:19",
+      "description": "",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
       "published": "2026-09-21T19:43:49",
@@ -194,21 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "published": "2026-09-21T18:41:59",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "published": "2026-09-21T07:11:55",
       "description": "",
-      "image": "data/images/8d081d35a24be1456fbdcfd7036bba2e.png",
+      "image": "https://opengraph.githubassets.com/bca25caf135432205ac9c97eaff1390316262c4a0a160644f664a30bf9a6d9e3/jaredpalmer/kev",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "published": "2026-09-21T07:11:55",
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "published": "2026-09-22T01:24:49",
       "description": "",
-      "image": "https://opengraph.githubassets.com/ef128dd8550e1ba40be5d14a14cd00565ac07eeb932a3f882e08042a3c600f61/jaredpalmer/kev",
+      "image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg?w=1000&h=563&crop=1",
       "summary": "Summary unavailable."
     },
     {
@@ -224,18 +234,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
-      "url": "https://ieeexplore.ieee.org/document/689473",
-      "published": "2026-09-21T18:14:56",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "published": "2026-09-21T18:41:59",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/8d081d35a24be1456fbdcfd7036bba2e.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "speakers": [
       "Alex",
       "Jordan"
