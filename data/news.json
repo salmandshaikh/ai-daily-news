@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:16:31.310623",
+  "updated": "2026-09-23T22:31:32.007824",
   "articles": [
     {
       "source": "RSS",
@@ -24,21 +24,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "description": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "image": "data/images/ed447efb0e2ef0799530529d780ba5f8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "image": "data/images/497aaa3a42712a59b4a5062b11c4ddb4.png",
+      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "image": "data/images/ffc2db004b9585e783240f98e40a04be.png",
       "summary": "Summary unavailable."
     },
     {
@@ -49,6 +39,16 @@
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "image": "data/images/5cd7fe6a919d4193e7b14f762bf665fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "description": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "image": "data/images/ed447efb0e2ef0799530529d780ba5f8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "published": "2026-09-22T18:00:34",
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "published": "2026-09-23T21:01:48",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cloud Agents Are Inevitable AI Prisons",
-      "url": "https://normanponte.io/19df691f",
-      "published": "2026-09-23T18:16:41",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://static.ffx.io/images/$zoom_0.1214767392182451%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6b53c6726879a3a97640669cca773e43a801e43e",
       "summary": "Summary unavailable."
     },
     {
@@ -194,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "published": "2026-09-22T13:52:15",
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "published": "2026-09-23T17:49:07",
       "description": "",
-      "image": "data/images/11d6211753db209719f331051952668f.png",
+      "image": "https://cdn.sanity.io/images/w77i7m8x/production/a61f95892ebd9647722faaff16ac3a9f6787490a-2304x1188.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "url": "https://drivingbench.com/",
-      "published": "2026-09-23T15:14:22",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "published": "2026-09-22T18:00:34",
       "description": "",
-      "image": "https://drivingbench.com/og/home.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     }
   ],
