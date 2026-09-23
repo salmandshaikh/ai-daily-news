@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-23T08:52:43.805707",
+  "updated": "2026-09-23T15:37:54.203546",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "published": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "image": "data/images/c42336c369d7b3f7a624f3d3e3125880.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "image": "data/images/6514e0a362256eed901228237fbfc17e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "published": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "description": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "image": "data/images/acc3dbe19d7b07e17c97a5369cdfbb95.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -23,32 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "description": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "image": "data/images/bf2330ac3bce22030c6cf61a69522ae2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "description": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "image": "data/images/7ebfe04ad1cb2c4f6efe6e8b731a1a90.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "published": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "published": "Wed, 23 Sep 2026 15:25:14 +0000",
+      "description": "",
+      "image": "data/images/954da58d092e6c666186627e711672fe.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "published": "Wed, 02 Sep 2026 16:18:31 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "published": "Wed, 23 Sep 2026 13:17:01 GMT",
       "description": "",
-      "image": "data/images/283d6bc5ea69f674d5954b713c8d0316.png",
+      "image": "data/images/5698a4e676804e200c5691998da7e08c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "published": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "published": "2026-09-23T13:38:00",
       "description": "",
-      "image": "data/images/62568a072cf2d29cf5cd76bd26afe447.png",
+      "image": "https://stripe.dev/dev_social.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "published": "2026-09-23T13:04:44",
+      "description": "",
+      "image": "data/images/0746b7c82db04e03f760b33172920b78.png",
       "summary": "Summary unavailable."
     },
     {
@@ -159,6 +179,16 @@
       "published": "2026-09-22T18:00:34",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Montreal adopts bylaw banning insults against police, municipal employees",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
+      "published": "2026-09-23T14:22:54",
+      "description": "",
+      "image": "https://i.cbc.ca/ais/82efd537-37d8-4cdd-b8a4-e286bdf6f46b,1762098719983/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3BResize%3D620",
       "summary": "Summary unavailable."
     },
     {
@@ -179,56 +209,6 @@
       "published": "2026-09-22T19:03:38",
       "description": "",
       "image": "data/images/52cbc30301b3cd5042367bb67cad2ca4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How often do you think about the 1893 World's Fair?",
-      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-      "published": "2026-09-23T05:32:51",
-      "description": "",
-      "image": "https://storage.ghost.io/c/b5/e8/b5e85d47-fdec-47cf-8df8-971c6f92d9dd/content/images/size/w1200/2026/07/Collage6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "published": "2026-09-22T22:03:46",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!fktE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda6bb5fd-56d4-49ec-a19b-dafc917414e1_3182x1790.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://benchmarkheaven.com/jev-models",
-      "published": "2026-09-22T13:01:03",
-      "description": "",
-      "image": "https://benchmarkheaven.com/jev-models/opengraph-image?v=v1.3.0",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "published": "2026-09-22T14:42:59",
-      "description": "",
-      "image": "http://arcturus-labs.com/blog/assets/will-openai-eat-jevs-lunch/hero.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
-      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
-      "published": "2026-09-21T23:29:42",
-      "description": "",
-      "image": "https://engineering.fb.com/wp-content/uploads/2022/05/Delta-Title-Slide2.jpg",
       "summary": "Summary unavailable."
     }
   ],
