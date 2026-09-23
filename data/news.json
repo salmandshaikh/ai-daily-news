@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:37:54.203546",
+  "updated": "2026-09-23T19:16:31.310623",
   "articles": [
     {
       "source": "RSS",
@@ -24,31 +24,41 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "published": "Wed, 23 Sep 2026 00:00:00 GMT",
-      "description": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "image": "data/images/acc3dbe19d7b07e17c97a5369cdfbb95.png",
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "description": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "image": "data/images/ed447efb0e2ef0799530529d780ba5f8.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "published": "Tue, 22 Sep 2026 21:00:00 GMT",
-      "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "image": "data/images/c65002472029ff1edd034e7edb115da9.png",
+      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "description": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "image": "data/images/497aaa3a42712a59b4a5062b11c4ddb4.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "published": "Tue, 22 Sep 2026 18:00:00 GMT",
-      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "image": "data/images/feb143c98129acef0d63331cef8339a4.png",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "image": "data/images/5cd7fe6a919d4193e7b14f762bf665fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "published": "Wed, 23 Sep 2026 16:00:57 +0000",
+      "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "image": "data/images/81c1346937194a5e4c5952b750ed0735.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,22 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "published": "Wed, 02 Sep 2026 16:24:24 +0000",
-      "description": "",
-      "image": "data/images/3164dfe90f08c20dd7bed4e97745b07c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "published": "Wed, 23 Sep 2026 13:17:01 GMT",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "published": "Wed, 23 Sep 2026 18:41:40 GMT",
       "description": "",
-      "image": "data/images/5698a4e676804e200c5691998da7e08c.png",
+      "image": "data/images/8b1cb41d5f21ea8bb2f9d8c84b0a8492.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "published": "2026-09-22T18:00:34",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cloud Agents Are Inevitable AI Prisons",
+      "url": "https://normanponte.io/19df691f",
+      "published": "2026-09-23T18:16:41",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Stripe's Knowledge AI Platform",
       "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
       "published": "2026-09-23T13:38:00",
@@ -174,26 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "published": "2026-09-22T18:00:34",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Montreal adopts bylaw banning insults against police, municipal employees",
-      "url": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
-      "published": "2026-09-23T14:22:54",
-      "description": "",
-      "image": "https://i.cbc.ca/ais/82efd537-37d8-4cdd-b8a4-e286bdf6f46b,1762098719983/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3BResize%3D620",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
       "published": "2026-09-22T13:52:15",
@@ -204,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "published": "2026-09-22T19:03:38",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "published": "2026-09-23T15:14:22",
       "description": "",
-      "image": "data/images/52cbc30301b3cd5042367bb67cad2ca4.png",
+      "image": "https://drivingbench.com/og/home.png",
       "summary": "Summary unavailable."
     }
   ],
