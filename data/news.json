@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T01:43:34.544209",
+  "updated": "2026-09-24T08:48:24.192318",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "published": "2026-09-24T05:21:10",
+      "description": "",
+      "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
+      "published": "2026-09-24T04:20:59",
+      "description": "",
+      "image": "https://app.notion.com/images/meta/default.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Mercury 2.5 LLM hits 770 tokens per second",
       "url": "https://artificialanalysis.ai/models/mercury-2-5",
       "published": "2026-09-23T22:16:19",
@@ -174,11 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "published": "2026-09-23T13:04:44",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "published": "2026-09-24T08:23:03",
       "description": "",
-      "image": "data/images/0746b7c82db04e03f760b33172920b78.png",
+      "image": "data/images/fca1c404d7326c7b7148a4b1552d5395.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "published": "2026-09-24T02:44:48",
+      "description": "",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "published": "2026-09-24T00:41:31",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
       "summary": "Summary unavailable."
     }
   ],
