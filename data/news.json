@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T08:48:24.192318",
+  "updated": "2026-09-24T15:58:57.504440",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "published": "Thu, 24 Sep 2026 14:08:57 GMT",
+      "description": "",
+      "image": "data/images/3b13c98da4621b3619c8e27e69107ef1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "published": "Wed, 23 Sep 2026 18:41:40 GMT",
@@ -142,63 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "published": "Mon, 21 Sep 2026 13:44:34 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+      "published": "2026-09-24T15:15:40",
       "description": "",
-      "image": "data/images/c668338ea55162045175f99aa0efb60a.png",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/The-Mandalorian-Season-3-1152x648.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "published": "2026-09-24T05:21:10",
+      "title": "Best LLM for every budget, updated daily",
+      "url": "https://bestmodelforyourbudget.terrydjony.com/",
+      "published": "2026-09-24T14:09:57",
       "description": "",
-      "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
+      "image": "data/images/86f839e08aeba475eff854f4c4846798.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
-      "published": "2026-09-24T04:20:59",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "published": "2026-09-24T15:09:38",
       "description": "",
-      "image": "https://app.notion.com/images/meta/default.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "published": "2026-09-23T22:16:19",
-      "description": "",
-      "image": "https://artificialanalysis.ai/en/models/mercury-2-5/opengraph-image?ea6b93c60ecab06d",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "published": "2026-09-23T17:49:07",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/w77i7m8x/production/a61f95892ebd9647722faaff16ac3a9f6787490a-2304x1188.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "published": "2026-09-24T08:23:03",
-      "description": "",
-      "image": "data/images/fca1c404d7326c7b7148a4b1552d5395.png",
+      "image": "https://static.ffx.io/images/$zoom_0.2383%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_92/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ece659b09d978278f1063e2ef412bb0b3b8bb118",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +194,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "published": "2026-09-24T00:41:31",
+      "title": "Coulomb's law remains tricky to test at home",
+      "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
+      "published": "2026-09-22T13:00:04",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
+      "image": "data/images/6f2a220722a99dd6153aca11fdf81b90.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "published": "2026-09-24T08:23:03",
+      "description": "",
+      "image": "data/images/fca1c404d7326c7b7148a4b1552d5395.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
+      "published": "2026-09-24T04:20:59",
+      "description": "",
+      "image": "https://app.notion.com/images/meta/default.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "published": "2026-09-24T11:54:38",
+      "description": "",
+      "image": "data/images/0cd347713ed390be74a143a929630baf.png",
       "summary": "Summary unavailable."
     }
   ],
