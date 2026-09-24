@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T15:58:57.504440",
+  "updated": "2026-09-24T19:39:35.938470",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published": "Thu, 24 Sep 2026 16:20:39 +0000",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "published": "Wed, 23 Sep 2026 16:00:57 +0000",
@@ -89,16 +99,6 @@
       "published": "Tue, 08 Sep 2026 14:00:15 +0000",
       "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "image": "data/images/b2315401c21a9580ff8d08fb796f037d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "published": "Thu, 03 Sep 2026 15:02:08 +0000",
-      "description": "",
-      "image": "data/images/4205b6a976652092a9ac647f3f9dc071.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,81 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "published": "2026-09-24T15:15:40",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "published": "2026-09-23T15:33:33",
       "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/The-Mandalorian-Season-3-1152x648.jpeg",
+      "image": "data/images/4127d49d0a2ace7502aef9da12fb6c37.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Best LLM for every budget, updated daily",
-      "url": "https://bestmodelforyourbudget.terrydjony.com/",
-      "published": "2026-09-24T14:09:57",
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "published": "2026-09-21T21:53:01",
       "description": "",
-      "image": "data/images/86f839e08aeba475eff854f4c4846798.png",
+      "image": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/auditing-ai-social-banner.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "published": "2026-09-24T15:09:38",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "published": "2026-09-24T07:22:17",
       "description": "",
-      "image": "https://static.ffx.io/images/$zoom_0.2383%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_92/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ece659b09d978278f1063e2ef412bb0b3b8bb118",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "published": "2026-09-24T02:44:48",
-      "description": "",
-      "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Coulomb's law remains tricky to test at home",
-      "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
-      "published": "2026-09-22T13:00:04",
-      "description": "",
-      "image": "data/images/6f2a220722a99dd6153aca11fdf81b90.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "published": "2026-09-24T08:23:03",
-      "description": "",
-      "image": "data/images/fca1c404d7326c7b7148a4b1552d5395.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
-      "published": "2026-09-24T04:20:59",
-      "description": "",
-      "image": "https://app.notion.com/images/meta/default.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "published": "2026-09-24T11:54:38",
-      "description": "",
-      "image": "data/images/0cd347713ed390be74a143a929630baf.png",
+      "image": "data/images/a61622f730671e45d1824dd51993b0fb.png",
       "summary": "Summary unavailable."
     }
   ],
