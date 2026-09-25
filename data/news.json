@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:46:09.463499",
+  "updated": "2026-09-25T02:00:58.628984",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
-      "url": "https://koi.rest",
-      "published": "2026-09-24T21:33:03",
-      "description": "",
-      "image": "data/images/093e5d618a927674a1dabbf3f44bea67.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Rails World 2026 Opening Keynote [video]",
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "published": "2026-09-23T15:33:33",
@@ -179,6 +169,16 @@
       "published": "2026-09-24T19:14:27",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "published": "2026-09-24T21:33:03",
+      "description": "",
+      "image": "data/images/093e5d618a927674a1dabbf3f44bea67.png",
       "summary": "Summary unavailable."
     },
     {
@@ -210,22 +210,12 @@
       "description": "",
       "image": "https://static.ffx.io/images/$zoom_0.2383%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_92/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ece659b09d978278f1063e2ef412bb0b3b8bb118",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Opus 5.5 is good at explainer videos",
-      "url": "https://launchvideo.io",
-      "published": "2026-09-24T20:28:47",
-      "description": "",
-      "image": "https://gzvxcspoxhhgoeog.public.blob.vercel-storage.com/examples/infera-gXTtuX8hOzbsPSy3SAAdqKElG42trA.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "speakers": [
       "Alex",
       "Jordan"
