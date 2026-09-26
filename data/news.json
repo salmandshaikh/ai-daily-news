@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T22:52:18.612176",
+  "updated": "2026-09-26T02:06:22.128934",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "published": "2026-09-25T21:09:27",
+      "description": "",
+      "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
       "published": "2026-09-25T18:33:50",
@@ -164,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "published": "2026-09-25T21:09:27",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "published": "2026-09-26T00:59:02",
       "description": "",
-      "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
+      "image": "https://img.pastemagazine.com/wp-content/juploads/2026/08/flock-cameras-getty-main.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,28 +194,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I wrote a ray tracer in Brainfuck",
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "published": "2026-09-25T10:08:41",
+      "description": "",
+      "image": "data/images/ed45151bfd195807da6d457c1b436bbd.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "published": "2026-09-25T14:07:08",
+      "description": "",
+      "image": "data/images/14bb1f48dd12f1ff6e58127ec0ae33ef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "An airport cooled by natural ventilation",
       "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
       "published": "2026-09-25T10:16:50",
       "description": "",
       "image": "https://i.guim.co.uk/img/media/9b43ca4b919dbd3f218175cf48a0dcddb9035250/552_0_4816_3853/master/4816.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e0c8fa87d2e4f3b4047b8e269f1fdaa",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "published": "2026-09-25T18:18:06",
-      "description": "",
-      "image": "https://mouse.dev/og/muse-special.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "speakers": [
       "Alex",
       "Jordan"
