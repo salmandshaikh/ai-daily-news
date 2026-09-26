@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T02:06:22.128934",
+  "updated": "2026-09-26T08:52:43.673365",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "published": "2026-09-26T04:20:58",
+      "description": "",
+      "image": "data/images/c723608f750aaa88df88fe2509811b77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
       "published": "2026-09-25T18:33:50",
       "description": "",
       "image": "https://ollaya.dev/static/og.png?v=7bd2eae221",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "published": "2026-09-24T20:51:50",
+      "description": "",
+      "image": "data/images/18f1fe0c3610e34cf3ee9fdd3ba40fd8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A new world airport and its baggage",
+      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+      "published": "2026-09-23T22:30:46",
+      "description": "",
+      "image": "https://computer.rip/static/img/dia/1.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "published": "2026-09-25T15:29:25",
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "url": "https://amutable.com/blog/tine-build-system",
+      "published": "2026-09-24T13:25:11",
       "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&w=1920&h=1080",
+      "image": "https://amutable.com/blog/tine-build-system/opengraph-image?d4e506b887f5aeb0",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +234,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "published": "2026-09-25T14:07:08",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "published": "2026-09-25T15:29:25",
       "description": "",
-      "image": "data/images/14bb1f48dd12f1ff6e58127ec0ae33ef.png",
+      "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "An airport cooled by natural ventilation",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-      "published": "2026-09-25T10:16:50",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "published": "2026-09-25T14:07:08",
       "description": "",
-      "image": "https://i.guim.co.uk/img/media/9b43ca4b919dbd3f218175cf48a0dcddb9035250/552_0_4816_3853/master/4816.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e0c8fa87d2e4f3b4047b8e269f1fdaa",
+      "image": "data/images/14bb1f48dd12f1ff6e58127ec0ae33ef.png",
       "summary": "Summary unavailable."
     }
   ],
