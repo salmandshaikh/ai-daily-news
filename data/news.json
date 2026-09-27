@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T01:58:34.856650",
+  "updated": "2026-09-27T09:34:36.803278",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "published": "2026-09-27T06:19:33",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "published": "2026-09-27T08:44:04",
+      "description": "",
+      "image": "data/images/9936a104131677f96d7baa70337ef54c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
       "url": "https://www.movingimagearchive.com/",
       "published": "2026-09-24T16:11:42",
@@ -164,21 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "published": "2026-09-25T02:34:39",
+      "title": "LP Voting and Investor Consent for AIFs",
+      "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
+      "published": "2026-09-25T17:23:38",
       "description": "",
-      "image": "data/images/a75e40f6f5807de7d73773c8cd018df6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "published": "2026-09-26T15:49:04",
-      "description": "",
-      "image": "https://www.privatemode.ai/og/ad-W6Z1ZCF7ETN3t_Privatemode_OG_Image.jpg",
+      "image": "https://cdn.prod.website-files.com/69d4942b1d08b0705b30b1f3/6ab673f1ea20af544080d943_ChatGPT%20Image%20Sep%2025%2C%202026%2C%2005_51_43%20PM.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "published": "2026-09-26T00:30:03",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "published": "2026-09-26T15:49:04",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://www.privatemode.ai/og/ad-W6Z1ZCF7ETN3t_Privatemode_OG_Image.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +224,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "published": "2026-09-25T20:53:54",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "published": "2026-09-25T02:34:39",
       "description": "",
-      "image": "data/images/0943536b3de93aaee4ee658afca5db7b.png",
+      "image": "data/images/a75e40f6f5807de7d73773c8cd018df6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "published": "2026-09-26T00:30:03",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
