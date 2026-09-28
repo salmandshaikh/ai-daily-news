@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T02:03:34.965240",
+  "updated": "2026-09-28T10:13:51.050451",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "published": "Mon, 28 Sep 2026 09:44:05 GMT",
+      "description": "",
+      "image": "data/images/700faa6fb79155125bc36b3c0e733ea2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "published": "Thu, 24 Sep 2026 14:08:57 GMT",
@@ -142,23 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "published": "2026-09-28T03:23:53",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Panda, the world's first personal AI computer",
-      "url": "https://pandax1.com",
-      "published": "2026-09-28T01:35:14",
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "published": "2026-09-28T02:31:23",
       "description": "",
-      "image": "data/images/b8cad639030ac0447e5b34f7af0a8711.png",
+      "image": "https://www.nissan-global.com/JP/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/ASSETS/IMG/e-power_gen3_thumb.jpg",
       "summary": "Summary unavailable."
     }
   ],
