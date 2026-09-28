@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-28T10:13:51.050451",
+  "updated": "2026-09-28T18:48:36.059657",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "image": "data/images/2b0dec779885df6f81ccb4a0a7a7d0a2.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,16 +39,6 @@
       "published": "Wed, 23 Sep 2026 13:00:00 GMT",
       "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "image": "data/images/6514e0a362256eed901228237fbfc17e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "description": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "image": "data/images/ffc2db004b9585e783240f98e40a04be.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "published": "2026-09-28T03:23:53",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "url": "https://git.mills.io/prologic/parley",
+      "published": "2026-09-28T10:30:54",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://git.mills.io/repo-avatars/640d1c8d0740a84bc305d7d7f83dc71164e891e05a7ac78a26d5199d985d7cd1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Teen Portraits That Captivated Sofia Coppola",
+      "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "published": "2026-09-28T17:41:28",
+      "description": "",
+      "image": "https://media.newyorker.com/photos/6ab2b5f59270396cef821f63/16:9/w_1280,c_limit/03_JS_American%20Teen_4.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I made a visual workspace for AI Automations",
+      "url": "https://www.biom.dev/",
+      "published": "2026-09-28T17:53:14",
+      "description": "",
+      "image": "https://www.biom.dev/assets/share-card.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "published": "2026-09-28T17:33:34",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "published": "2026-09-28T16:11:42",
+      "description": "",
+      "image": "https://www.ssp.sh/brain/_img/feature/gen/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What Would a Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "published": "2026-09-28T11:02:12",
+      "description": "",
+      "image": "https://en.gravatar.com/userimage/4935940/3f36deb2aefc09c0bcd985db2458f2b5.png",
       "summary": "Summary unavailable."
     },
     {
