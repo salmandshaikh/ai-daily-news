@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T18:48:36.059657",
+  "updated": "2026-09-29T00:00:45.933303",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,26 @@
       "published": "Mon, 28 Sep 2026 07:00:00 GMT",
       "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
       "image": "data/images/2b0dec779885df6f81ccb4a0a7a7d0a2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "description": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "image": "data/images/d48b8649e7ec68b8cde645ae487da108.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Wed, 23 Sep 2026 16:00:00 GMT",
       "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "image": "data/images/c42336c369d7b3f7a624f3d3e3125880.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
-      "description": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "image": "data/images/6514e0a362256eed901228237fbfc17e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "description": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "image": "data/images/5cd7fe6a919d4193e7b14f762bf665fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "published": "2026-09-28T20:23:36",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/0c0d077eb64ce2d7fe7379e181c9f97f388ada92e7ec4acce50f96dde2dc05fc/firelex/jeff",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "published": "2026-09-26T10:16:26",
+      "description": "",
+      "image": "data/images/9d92c004ed40d405470527b997ac99d7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "published": "2026-09-28T18:58:53",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "published": "2026-09-28T21:08:10",
+      "description": "",
+      "image": "https://theintercept.com/wp-content/uploads/2026/09/signal-2026-09-23-12-10-51-688_002-e1790203073266.jpg?fit=1536%2C768&w=1200&h=800",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
       "url": "https://git.mills.io/prologic/parley",
       "published": "2026-09-28T10:30:54",
@@ -164,68 +204,58 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Teen Portraits That Captivated Sofia Coppola",
-      "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
-      "published": "2026-09-28T17:41:28",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "published": "2026-09-28T19:53:35",
       "description": "",
-      "image": "https://media.newyorker.com/photos/6ab2b5f59270396cef821f63/16:9/w_1280,c_limit/03_JS_American%20Teen_4.jpg",
+      "image": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I made a visual workspace for AI Automations",
-      "url": "https://www.biom.dev/",
-      "published": "2026-09-28T17:53:14",
+      "title": "What is the best shape of a city? Modelling effect of urban form on distance",
+      "url": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
+      "published": "2026-09-26T17:23:09",
       "description": "",
-      "image": "https://www.biom.dev/assets/share-card.jpg",
+      "image": "data/images/06e9e6f5006cc1b8726476faca195cc2.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "published": "2026-09-28T17:33:34",
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+      "published": "2026-09-26T23:49:01",
       "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "image": "https://this.os.isfine.org/blog/images/posts/3e2eb21b-3425-4fcc-93c0-b42c2e8c6751.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-      "published": "2026-09-28T16:11:42",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "published": "2026-09-28T15:46:36",
       "description": "",
-      "image": "https://www.ssp.sh/brain/_img/feature/gen/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore.webp",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "What Would a Serious AI Product Look Like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "published": "2026-09-28T11:02:12",
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "published": "2026-09-28T23:40:59",
       "description": "",
-      "image": "https://en.gravatar.com/userimage/4935940/3f36deb2aefc09c0bcd985db2458f2b5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nissan's third generation e-POWER powertrain",
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-      "published": "2026-09-28T02:31:23",
-      "description": "",
-      "image": "https://www.nissan-global.com/JP/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/ASSETS/IMG/e-power_gen3_thumb.jpg",
+      "image": "data/images/7f408a508df4dbc17e5d93e399a42ed1.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "speakers": [
       "Alex",
       "Jordan"
