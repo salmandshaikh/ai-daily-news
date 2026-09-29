@@ -1,14 +1,34 @@
 {
-  "updated": "2026-09-29T14:24:51.087370",
+  "updated": "2026-09-29T20:18:21.411347",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
-      "image": "data/images/1cd42856b3d2bf47cdb7583b83972499.png",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+      "image": "data/images/96d1b3e060c13b24e4c129295ed6fb20.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "published": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "description": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "image": "data/images/071501ce8ec53c843e63060b35da3c7a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "image": "data/images/2b0dec779885df6f81ccb4a0a7a7d0a2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "description": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "published": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "image": "data/images/d48b8649e7ec68b8cde645ae487da108.png",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
+      "image": "data/images/1cd42856b3d2bf47cdb7583b83972499.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published": "Tue, 29 Sep 2026 15:30:38 GMT",
+      "description": "",
+      "image": "data/images/bad7baee13c9bb9175af6407a6ec32d4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "published": "Tue, 29 Sep 2026 13:07:00 GMT",
@@ -134,16 +144,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "published": "Wed, 23 Sep 2026 18:41:40 GMT",
-      "description": "",
-      "image": "data/images/8b1cb41d5f21ea8bb2f9d8c84b0a8492.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "url": "https://huggingface.co/blog/evaleval-aisi",
       "published": "Tue, 22 Sep 2026 00:00:00 GMT",
@@ -154,21 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI companies leak data to advertisers [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "published": "2026-09-29T09:03:41",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "published": "2026-09-29T17:06:45",
       "description": "",
-      "image": "data/images/16380a96cf16845fcdb656f9aa3b84cb.png",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "published": "2026-09-29T11:13:54",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "published": "2026-09-29T16:30:48",
       "description": "",
-      "image": "https://opengraph.githubassets.com/398f553b1593f343c71936ea92330d219195c60f79539e493591ef2c02dd3d4e/PostHog/jeeves",
+      "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "published": "2026-09-29T19:21:25",
+      "description": "",
+      "image": "https://www.thenationalnews.com/resizer/v2/AF2G77RA6A5SI26KUSHKI23WN4.jpg?auth=ecf4aabd37ddc7f9130f7d84174c84eed6ab9343d667ed95d2b8731b313ddfd0&smart=true&width=1200&height=630",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "published": "2026-09-29T09:03:41",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -184,51 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Jevstiller \u2013 Distill Jev into a local model, with a disagreement bound",
-      "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
-      "published": "2026-09-29T12:05:07",
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "published": "2026-09-29T11:13:54",
       "description": "",
-      "image": "https://jevstiller.pages.dev/social-preview.png",
+      "image": "https://opengraph.githubassets.com/9e923ecd070daf8416be0d1790c29cdbf7a70b7a3d3298e32a892386b08523ad/PostHog/jeeves",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "published": "2026-09-28T18:58:53",
+      "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+      "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
+      "published": "2026-09-29T18:09:50",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "published": "2026-09-28T21:26:41",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/488dab94c549e422b04b587508e1e31efa94d3c5ddb24a93d55662eab803606f/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "published": "2026-09-26T10:16:26",
-      "description": "",
-      "image": "data/images/9d92c004ed40d405470527b997ac99d7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "published": "2026-09-28T20:23:36",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/d7fb9cc33ac22785c4a2372442e80342eaa4ca8f59d4b0f06fcd9d69c76d2aa6/firelex/jeff",
+      "image": "data/images/45e76699634a5ad87c970c0440fb6957.png",
       "summary": "Summary unavailable."
     }
   ],
