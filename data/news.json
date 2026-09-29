@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T04:10:30.730991",
+  "updated": "2026-09-29T14:24:51.087370",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Mon, 28 Sep 2026 19:00:00 GMT",
       "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
       "image": "data/images/1cd42856b3d2bf47cdb7583b83972499.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "image": "data/images/ed00a1b49eace0c63a0357ec821d693a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Mon, 28 Sep 2026 00:00:00 GMT",
       "description": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
       "image": "data/images/d48b8649e7ec68b8cde645ae487da108.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "published": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "image": "data/images/731f5ddba341577b8f94ac5d7373b3da.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published": "Tue, 29 Sep 2026 13:07:00 GMT",
+      "description": "",
+      "image": "data/images/49bdbd18f37d0376b973f905d9a1dac0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
       "published": "Mon, 28 Sep 2026 09:44:05 GMT",
@@ -142,23 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "published": "2026-09-29T09:03:41",
       "description": "",
-      "image": "data/images/2f99c2fa5603f722a64792cbe8e4da00.png",
+      "image": "data/images/16380a96cf16845fcdb656f9aa3b84cb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "published": "2026-09-28T20:23:36",
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "published": "2026-09-29T11:13:54",
       "description": "",
-      "image": "https://opengraph.githubassets.com/662083d5c2d0dc7b6a888616cfe22b36f991d3666443dd74a62bd6a8601e7544/firelex/jeff",
+      "image": "https://opengraph.githubassets.com/398f553b1593f343c71936ea92330d219195c60f79539e493591ef2c02dd3d4e/PostHog/jeeves",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Without the Hot Air",
+      "url": "https://www.withouthotair.com/",
+      "published": "2026-09-29T12:38:18",
+      "description": "",
+      "image": "data/images/365d6d7e5804684a9ea467e51c2ded09.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Jevstiller \u2013 Distill Jev into a local model, with a disagreement bound",
+      "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
+      "published": "2026-09-29T12:05:07",
+      "description": "",
+      "image": "https://jevstiller.pages.dev/social-preview.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +204,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "published": "2026-09-28T21:26:41",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/488dab94c549e422b04b587508e1e31efa94d3c5ddb24a93d55662eab803606f/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
       "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "published": "2026-09-26T10:16:26",
@@ -184,61 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
-      "url": "https://jonclegg.github.io/pacman-bakeoff/",
-      "published": "2026-09-28T22:43:12",
+      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "published": "2026-09-28T20:23:36",
       "description": "",
-      "image": "data/images/de8bd48d0c8d92a9645d642d7d3521df.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "published": "2026-09-28T21:26:41",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/a81adfdc942a1994132cbef04a9259003fe2bfcba8412a60be056eb66bc7772e/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What is the best shape of a city? Modelling effect of urban form on distance",
-      "url": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
-      "published": "2026-09-26T17:23:09",
-      "description": "",
-      "image": "data/images/06e9e6f5006cc1b8726476faca195cc2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "published": "2026-09-28T15:46:36",
-      "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "published": "2026-09-28T19:53:35",
-      "description": "",
-      "image": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What reversing, modernising old games tells us about the economic impact of AI",
-      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "published": "2026-09-26T23:49:01",
-      "description": "",
-      "image": "https://this.os.isfine.org/blog/images/posts/3e2eb21b-3425-4fcc-93c0-b42c2e8c6751.webp",
+      "image": "https://opengraph.githubassets.com/d7fb9cc33ac22785c4a2372442e80342eaa4ca8f59d4b0f06fcd9d69c76d2aa6/firelex/jeff",
       "summary": "Summary unavailable."
     }
   ],
