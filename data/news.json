@@ -1,16 +1,6 @@
 {
-  "updated": "2026-09-29T20:18:21.411347",
+  "updated": "2026-09-30T02:31:32.675182",
   "articles": [
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
-      "summary": "Summary unavailable."
-    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,10 +14,20 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots",
       "published": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "description": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "image": "data/images/071501ce8ec53c843e63060b35da3c7a.png",
       "summary": "Summary unavailable."
     },
@@ -164,41 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "published": "2026-09-29T16:30:48",
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "published": "2026-09-29T11:06:25",
       "description": "",
-      "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!jZ4X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-      "published": "2026-09-29T19:21:25",
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "published": "2026-09-29T17:15:56",
       "description": "",
-      "image": "https://www.thenationalnews.com/resizer/v2/AF2G77RA6A5SI26KUSHKI23WN4.jpg?auth=ecf4aabd37ddc7f9130f7d84174c84eed6ab9343d667ed95d2b8731b313ddfd0&smart=true&width=1200&height=630",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "published": "2026-09-29T09:03:41",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Without the Hot Air",
-      "url": "https://www.withouthotair.com/",
-      "published": "2026-09-29T12:38:18",
-      "description": "",
-      "image": "data/images/365d6d7e5804684a9ea467e51c2ded09.png",
+      "image": "https://enigma.design/social/enigma.png",
       "summary": "Summary unavailable."
     },
     {
@@ -208,24 +188,24 @@
       "url": "https://github.com/PostHog/jeeves",
       "published": "2026-09-29T11:13:54",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9e923ecd070daf8416be0d1790c29cdbf7a70b7a3d3298e32a892386b08523ad/PostHog/jeeves",
+      "image": "https://opengraph.githubassets.com/dc780e7c076a3183edb2665f7d5152691701322781ee4a50e46263b83e4edae3/PostHog/jeeves",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
-      "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
-      "published": "2026-09-29T18:09:50",
+      "title": "Sustainable energy without the hot air (2008)",
+      "url": "https://www.withouthotair.com/",
+      "published": "2026-09-29T12:38:18",
       "description": "",
-      "image": "data/images/45e76699634a5ad87c970c0440fb6957.png",
+      "image": "data/images/3c71aad28935630bb8d1e74754733160.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "speakers": [
       "Alex",
       "Jordan"
