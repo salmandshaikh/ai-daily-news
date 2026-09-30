@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-30T10:02:58.438248",
+  "updated": "2026-09-30T17:03:00.926919",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
-      "image": "data/images/96d1b3e060c13b24e4c129295ed6fb20.png",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "description": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "image": "data/images/53eebd037d859a693bd8c9c0d430bf73.png",
       "summary": "Summary unavailable."
     },
     {
@@ -19,6 +19,16 @@
       "published": "Tue, 29 Sep 2026 10:00:00 GMT",
       "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+      "image": "data/images/96d1b3e060c13b24e4c129295ed6fb20.png",
       "summary": "Summary unavailable."
     },
     {
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "description": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
-      "image": "data/images/1cd42856b3d2bf47cdb7583b83972499.png",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "published": "Wed, 30 Sep 2026 15:03:07 +0000",
+      "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "image": "data/images/0765fbdb0bb2b2c968c1d0d3d4b47bf1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "published": "Tue, 08 Sep 2026 14:00:15 +0000",
-      "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "image": "data/images/b2315401c21a9580ff8d08fb796f037d.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/305d95312485921c4cc269d668ed5c6d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,33 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "published": "2026-09-30T09:55:23",
       "description": "",
-      "image": "data/images/85197a1178dd5a38761bfcf721352f40.png",
+      "image": "https://earendil.com/static/og/posts/you-said-no-mcp.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "published": "2026-09-29T17:06:45",
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "published": "2026-09-30T15:50:11",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
+      "image": "https://insufferable.dev/insufferable-og.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "published": "2026-09-29T11:06:25",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "published": "2026-09-30T17:00:20",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!jZ4X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/85f165bf52e787a3301c4f5c5600c4e10c9f0063.png?1745436151",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "url": "https://enigma.design",
-      "published": "2026-09-29T17:15:56",
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "published": "2026-09-29T11:06:25",
       "description": "",
-      "image": "https://enigma.design/social/enigma.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!jZ4X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
       "summary": "Summary unavailable."
     }
   ],
