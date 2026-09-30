@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-30T17:03:00.926919",
+  "updated": "2026-09-30T23:15:29.845323",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "image": "data/images/6bbf82aa27fc724c4532fb08ea1e40cf.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +19,6 @@
       "published": "Wed, 30 Sep 2026 10:00:00 GMT",
       "description": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "image": "data/images/53eebd037d859a693bd8c9c0d430bf73.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,6 +34,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots",
       "published": "Tue, 29 Sep 2026 00:00:00 GMT",
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "description": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "image": "data/images/ed00a1b49eace0c63a0357ec821d693a.png",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "published": "Wed, 30 Sep 2026 20:01:45 +0000",
+      "description": "",
+      "image": "data/images/d2328608ff5ec368899549f05b1b6fee.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Wed, 23 Sep 2026 15:25:14 +0000",
       "description": "",
       "image": "data/images/954da58d092e6c666186627e711672fe.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "published": "Tue, 15 Sep 2026 17:05:57 +0000",
-      "description": "",
-      "image": "data/images/0769d07a95b4b358bcc99e30ef0d1762.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "You Said No MCP",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "published": "2026-09-30T19:04:50",
+      "description": "",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "published": "2026-09-30T19:44:37",
+      "description": "",
+      "image": "https://mattkeeter.com/projects/halfspace/hero@2x.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "published": "2026-09-30T07:33:45",
+      "description": "",
+      "image": "https://assets.tokyodev.com/tokyodev-production-r2/trgdy4b7dep5198hufqpthpvvldi",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "You said no MCP",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
       "published": "2026-09-30T09:55:23",
       "description": "",
@@ -164,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The AI Race Just Got Awkward",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-      "published": "2026-09-30T15:50:11",
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "published": "2026-09-30T14:38:57",
       "description": "",
-      "image": "https://insufferable.dev/insufferable-og.png",
+      "image": "data/images/94c7c587f2f12753c5274613a344d233.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +214,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Floppy Emu Hardware Failure Analysis Results",
-      "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-      "published": "2026-09-29T23:10:26",
+      "title": "CS240 AI Cheating Retrospective",
+      "url": "https://turkeyland.net/thoughts/ai.php",
+      "published": "2026-09-30T19:54:29",
       "description": "",
-      "image": "data/images/fc6be6b093f261306265ff346b03d808.png",
+      "image": "data/images/f7df7d505f149a0fce5f7d71ce369707.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "published": "2026-09-29T11:06:25",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "published": "2026-09-30T02:36:12",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!jZ4X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0015e77a-5140-4139-b361-78e28d18df17_2494x1304.png",
+      "image": "data/images/6d72e901079b535884713ccb9c7b8259.png",
       "summary": "Summary unavailable."
     }
   ],
