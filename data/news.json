@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-01T10:30:46.153981",
+  "updated": "2026-10-01T17:33:21.439858",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "published": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "image": "data/images/f14a047afc1920976e913d9ec6a9a00b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "published": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "image": "data/images/3ec6b23f4ef892760ca5efae02c6f64e.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -24,31 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
-      "image": "data/images/96d1b3e060c13b24e4c129295ed6fb20.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "published": "Tue, 29 Sep 2026 10:00:00 GMT",
       "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "published": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "description": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "image": "data/images/071501ce8ec53c843e63060b35da3c7a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "published": "Thu, 01 Oct 2026 15:01:43 GMT",
+      "description": "",
+      "image": "data/images/a4368c090e26ae07bc9bc8d47cab2d26.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "published": "Wed, 30 Sep 2026 00:00:00 GMT",
@@ -142,13 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "published": "Thu, 24 Sep 2026 14:08:57 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Clef: our open-source decision models",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "published": "2026-10-01T16:18:57",
       "description": "",
-      "image": "data/images/3b13c98da4621b3619c8e27e69107ef1.png",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "published": "2026-10-01T15:11:10",
+      "description": "",
+      "image": "data/images/ad75833302d2bfc579493a37f8a5a78f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "url": "https://www.polyedergarten.de/e_index.htm",
+      "published": "2026-10-01T15:02:51",
+      "description": "",
+      "image": "data/images/dd27381f2f8d28af798956b2b812f164.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "published": "2026-10-01T10:21:36",
+      "description": "",
+      "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&p=facebook",
       "summary": "Summary unavailable."
     },
     {
@@ -158,47 +198,27 @@
       "url": "https://github.com/maanHimself/OpenDLSS-NR",
       "published": "2026-09-30T08:43:21",
       "description": "",
-      "image": "https://opengraph.githubassets.com/1993dadff3a4c2d5a57b2394eec803bc20959b27a0e51f966d19fce6ffe45e52/maanHimself/OpenDLSS-NR",
+      "image": "https://opengraph.githubassets.com/2a586cb4a2b9ff170e92a5ace324d0dc5da126c9df14ccb4869ca161fbbe3603/maanHimself/OpenDLSS-NR",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "published": "2026-09-30T19:04:50",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "published": "2026-10-01T13:00:55",
       "description": "",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Social.jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "published": "2026-09-30T19:44:37",
+      "title": "Context Language Models",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "published": "2026-10-01T14:51:33",
       "description": "",
-      "image": "https://mattkeeter.com/projects/halfspace/hero@2x.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "published": "2026-09-30T07:33:45",
-      "description": "",
-      "image": "https://assets.tokyodev.com/tokyodev-production-r2/trgdy4b7dep5198hufqpthpvvldi",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "published": "2026-09-30T02:36:12",
-      "description": "",
-      "image": "data/images/6d72e901079b535884713ccb9c7b8259.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
