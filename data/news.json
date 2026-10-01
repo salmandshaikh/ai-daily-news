@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:33:21.439858",
+  "updated": "2026-10-01T23:31:10.163621",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "published": "Thu, 01 Oct 2026 00:00:00 GMT",
+      "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "image": "data/images/3e138ec93c490a1db498272cb8afda3c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Disrupting a coordinated model-distillation campaign",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "published": "Wed, 30 Sep 2026 10:30:00 GMT",
@@ -39,16 +49,6 @@
       "published": "Wed, 30 Sep 2026 10:00:00 GMT",
       "description": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "image": "data/images/53eebd037d859a693bd8c9c0d430bf73.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "image": "data/images/ee3d1a0d15ae6d04fbe03748db8a6b77.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Clef: our open-source decision models",
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "published": "2026-10-01T16:18:57",
       "description": "",
@@ -164,21 +164,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "published": "2026-10-01T15:11:10",
+      "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "published": "2026-10-01T20:36:47",
       "description": "",
-      "image": "data/images/ad75833302d2bfc579493a37f8a5a78f.png",
+      "image": "https://opengraph.githubassets.com/44d92638e32aa6d163d21fc6fa1c9f9f54717b159695d7cff4c1a8323ff44846/Vibra-Ingenn/Janus",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-      "url": "https://www.polyedergarten.de/e_index.htm",
-      "published": "2026-10-01T15:02:51",
+      "title": "Aweb \u2013 Communication for AI Agents",
+      "url": "https://aweb.ai",
+      "published": "2026-10-01T22:02:31",
       "description": "",
-      "image": "data/images/dd27381f2f8d28af798956b2b812f164.png",
+      "image": "https://aweb.ai/og-card-20260823.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
+      "published": "2026-10-01T17:32:43",
+      "description": "",
+      "image": "data/images/8c007b4a9d86e8cc8370418641372440.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Context Language Models",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "published": "2026-10-01T14:51:33",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,31 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "published": "2026-09-30T08:43:21",
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "url": "https://www.polyedergarten.de/e_index.htm",
+      "published": "2026-10-01T15:02:51",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2a586cb4a2b9ff170e92a5ace324d0dc5da126c9df14ccb4869ca161fbbe3603/maanHimself/OpenDLSS-NR",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "published": "2026-10-01T13:00:55",
-      "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
-      "published": "2026-10-01T14:51:33",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "data/images/dd27381f2f8d28af798956b2b812f164.png",
       "summary": "Summary unavailable."
     }
   ],
