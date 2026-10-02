@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T02:39:29.699271",
+  "updated": "2026-10-02T10:06:20.174142",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
       "url": "https://huggingface.co/blog/allenai/olmocore3",
       "published": "Thu, 01 Oct 2026 15:01:43 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "published": "Mon, 28 Sep 2026 09:44:05 GMT",
-      "description": "",
-      "image": "data/images/700faa6fb79155125bc36b3c0e733ea2.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
@@ -159,16 +159,6 @@
       "published": "2026-10-01T16:18:57",
       "description": "",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "url": "https://github.com/Vibra-Ingenn/Janus",
-      "published": "2026-10-01T20:36:47",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/28e27bf7564ad42eaeb866f457c630af1f17f6212f9b4d468a9dd35615109c40/Vibra-Ingenn/Janus",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Aweb \u2013 Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "published": "2026-10-01T22:02:31",
+      "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "published": "2026-10-01T20:36:47",
       "description": "",
-      "image": "https://aweb.ai/og-card-20260823.png",
+      "image": "https://opengraph.githubassets.com/5b7ab6ab39798b76219cc4f4d383b65131282d2cbaa7e9a3c02c92c8b32a1c56/Vibra-Ingenn/Janus",
       "summary": "Summary unavailable."
     },
     {
