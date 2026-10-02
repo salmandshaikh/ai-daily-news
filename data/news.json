@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T23:31:10.163621",
+  "updated": "2026-10-02T02:39:29.699271",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "published": "2026-10-01T16:18:57",
       "description": "",
@@ -168,17 +168,7 @@
       "url": "https://github.com/Vibra-Ingenn/Janus",
       "published": "2026-10-01T20:36:47",
       "description": "",
-      "image": "https://opengraph.githubassets.com/44d92638e32aa6d163d21fc6fa1c9f9f54717b159695d7cff4c1a8323ff44846/Vibra-Ingenn/Janus",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Aweb \u2013 Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "published": "2026-10-01T22:02:31",
-      "description": "",
-      "image": "https://aweb.ai/og-card-20260823.png",
+      "image": "https://opengraph.githubassets.com/28e27bf7564ad42eaeb866f457c630af1f17f6212f9b4d468a9dd35615109c40/Vibra-Ingenn/Janus",
       "summary": "Summary unavailable."
     },
     {
@@ -189,6 +179,16 @@
       "published": "2026-10-01T17:32:43",
       "description": "",
       "image": "data/images/8c007b4a9d86e8cc8370418641372440.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Aweb \u2013 Communication for AI Agents",
+      "url": "https://aweb.ai",
+      "published": "2026-10-01T22:02:31",
+      "description": "",
+      "image": "https://aweb.ai/og-card-20260823.png",
       "summary": "Summary unavailable."
     },
     {
@@ -210,22 +210,12 @@
       "description": "",
       "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&p=facebook",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-      "url": "https://www.polyedergarten.de/e_index.htm",
-      "published": "2026-10-01T15:02:51",
-      "description": "",
-      "image": "data/images/dd27381f2f8d28af798956b2b812f164.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "speakers": [
       "Alex",
       "Jordan"
