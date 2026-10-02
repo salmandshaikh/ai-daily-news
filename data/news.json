@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:52:29.198224",
+  "updated": "2026-10-02T23:20:59.213341",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Fri, 02 Oct 2026 16:15:00 GMT",
       "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "published": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "image": "data/images/dbb6fcfc8bc16dd4854d54a1c6985f8b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Thu, 01 Oct 2026 00:00:00 GMT",
       "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "image": "data/images/3e138ec93c490a1db498272cb8afda3c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "published": "Wed, 30 Sep 2026 10:30:00 GMT",
-      "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "image": "data/images/6bbf82aa27fc724c4532fb08ea1e40cf.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,71 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-      "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
-      "published": "2026-10-02T13:19:47",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "published": "2026-10-02T14:11:24",
       "description": "",
-      "image": "https://i.imgur.com/yX8JUyz.png",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "published": "2026-10-02T18:01:16",
+      "description": "",
+      "image": "https://dwarfstar.sh/og-preview-v2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "published": "2026-10-02T02:51:27",
+      "description": "",
+      "image": "data/images/838f8e6cdb528848899c2f970b889211.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "published": "2026-10-02T20:00:15",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/658d89bcddce0cc7ee5a29180490ec45fca894d7e93f1eba83ee296a3d7725d2/anteloc/ldraw-nova",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://allenai.org/blog/astabrief",
+      "published": "2026-10-02T21:25:25",
+      "description": "",
+      "image": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "published": "2026-10-01T22:22:21",
+      "description": "",
+      "image": "https://images.ctfassets.net/8su2tbn87fck/7opHWDkY78DTYHpI25rerY/9d4aefed1bc3f25e49277f597037d071/37243680-10ed-4f03-82a8-5fac7eb86fa7.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Venice\u2019s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "published": "2026-10-02T13:17:47",
+      "description": "",
+      "image": "https://bigthink.com/wp-content/uploads/2026/09/fabulous-debt_excerpt.jpg?resize=1200,630",
       "summary": "Summary unavailable."
     },
     {
@@ -169,46 +229,6 @@
       "published": "2026-10-02T00:27:56",
       "description": "",
       "image": "https://stillwet.art/img/og-card.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "published": "2026-10-01T16:18:57",
-      "description": "",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-      "published": "2026-10-02T15:24:54",
-      "description": "",
-      "image": "https://image.theregister.com/5275246.jpg?imageId=5275246&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
-      "url": "https://innerloop.works/breadcrumb",
-      "published": "2026-10-01T17:58:37",
-      "description": "",
-      "image": "https://innerloop.works/breadcrumb-card.png?v=3",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The OpenAI Decisions API needs a confidence you can trust",
-      "url": "https://anth.us/blog/openai-decisions-api-preview/",
-      "published": "2026-10-01T22:33:40",
-      "description": "",
-      "image": "https://anth.us/static/b936851ba1d17e58938bf2f2dee818ef/4a064/openai-decisions-api-preview-preview.png",
       "summary": "Summary unavailable."
     }
   ],
