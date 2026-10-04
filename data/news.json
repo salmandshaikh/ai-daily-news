@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T22:29:51.107830",
+  "updated": "2026-10-04T02:55:21.950999",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "published": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "description": "",
+      "image": "data/images/47d7ffc94f47f8cb31c7f71d802bc410.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
       "published": "Fri, 02 Oct 2026 15:19:50 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "published": "Tue, 29 Sep 2026 13:07:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "published": "2026-10-03T22:18:13",
       "description": "",
-      "image": "data/images/49bdbd18f37d0376b973f905d9a1dac0.png",
+      "image": "https://i.guim.co.uk/img/media/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64134a41050264f5ceac249a333fc99",
       "summary": "Summary unavailable."
     },
     {
@@ -170,22 +180,12 @@
       "description": "",
       "image": "https://bookface-images.s3.amazonaws.com/logos/6f80b4a48465bc260e00f9331c1aa38175ffced5.png?1704487189",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "published": "2026-10-03T17:44:29",
-      "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2197497048-e1790790386809.jpg?resize=1200,600",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "speakers": [
       "Alex",
       "Jordan"
