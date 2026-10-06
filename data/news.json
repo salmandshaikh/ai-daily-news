@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-05T10:54:49.311639",
+  "updated": "2026-10-06T01:01:10.017775",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "published": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "image": "data/images/79a2902f45233eb1726834784552e574.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 01 Oct 2026 17:00:00 GMT",
       "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "image": "data/images/f14a047afc1920976e913d9ec6a9a00b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "published": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "image": "data/images/3ec6b23f4ef892760ca5efae02c6f64e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,58 +154,68 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "published": "2026-10-05T01:54:08",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "published": "2026-10-05T22:46:45",
       "description": "",
-      "image": "https://cdn-3.motorsport.com/images/amp/68Vw9aB2/s6/max-verstappen-red-bull-racing.jpg",
+      "image": "https://www.niemanlab.org/images/Brendan-Loper-cartoon-700x394.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-      "published": "2026-10-02T07:40:15",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "published": "2026-10-05T19:16:35",
       "description": "",
-      "image": "https://www.lenfestinstitute.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.37.19-AM-1.png",
+      "image": "https://cdn.sanity.io/images/sp40emik/production/771cfe201a3d24d7a340c3372e6a1654ec1a6e42-1800x1013.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "published": "2026-10-02T13:47:41",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "published": "2026-10-05T21:15:07",
       "description": "",
-      "image": "data/images/b1e6b930bb35b2db76e203bad3767e97.png",
+      "image": "data/images/9aedf8269269d13002a0f3b944187bef.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
-      "published": "2026-10-02T22:17:04",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "published": "2026-10-06T00:00:45",
       "description": "",
-      "image": "data/images/8bf7ee61d167c961084441a71c8f70ca.png",
+      "image": "https://edworkingpapers.com/sites/default/files/edworkingpaper-cover-25-1551.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "published": "2026-10-04T08:41:58",
+      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "published": "2026-10-03T16:23:07",
       "description": "",
-      "image": "data/images/49032869f2203c5376c1754c95b9eb17.png",
+      "image": "https://blog.citp.princeton.edu/wp-content/uploads/sites/952/2026/08/image.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "published": "2026-10-05T14:09:15",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "speakers": [
       "Alex",
       "Jordan"
