@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T01:01:10.017775",
+  "updated": "2026-10-06T10:50:42.955194",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "published": "Tue, 06 Oct 2026 06:44:39 GMT",
+      "description": "",
+      "image": "data/images/e5aa99b22e6b2f8c6b0df72a59804223.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "published": "Sat, 03 Oct 2026 22:56:48 GMT",
@@ -142,26 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "published": "Tue, 29 Sep 2026 15:30:38 GMT",
-      "description": "",
-      "image": "data/images/bad7baee13c9bb9175af6407a6ec32d4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "published": "2026-10-05T22:46:45",
-      "description": "",
-      "image": "https://www.niemanlab.org/images/Brendan-Loper-cartoon-700x394.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Beam: Reflection's 501B open-weight model",
@@ -184,17 +174,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "published": "2026-10-06T00:00:45",
-      "description": "",
-      "image": "https://edworkingpapers.com/sites/default/files/edworkingpaper-cover-25-1551.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "title": "An algorithmic failure beneath the secret ballot",
       "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
       "published": "2026-10-03T16:23:07",
       "description": "",
@@ -204,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Linux containers in 500 lines of code (2016)",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "published": "2026-10-05T14:09:15",
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "published": "2026-10-04T10:15:13",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://blue-continuum.com/__l5e/assets-v1/3b5e56fc-48a2-4baa-8443-863208306323/david-gruber-ceti3.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "published": "2026-10-05T22:46:45",
+      "description": "",
+      "image": "https://www.niemanlab.org/images/Brendan-Loper-cartoon-700x394.jpg",
       "summary": "Summary unavailable."
     }
   ],
