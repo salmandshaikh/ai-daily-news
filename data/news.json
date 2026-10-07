@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-07T10:38:05.855394",
+  "updated": "2026-10-07T18:03:02.988835",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "published": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "image": "data/images/28e67720279d37f9e6f54c5ed0ff649a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "image": "data/images/10ea9571d48e56b5577674a2d54f73a8.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 06 Oct 2026 10:00:00 GMT",
       "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "image": "data/images/7c5addb398ad796e971dc42c0ebc4d0a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "published": "Tue, 06 Oct 2026 16:00:00 GMT",
-      "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "image": "data/images/90eeb5906d757fb9c2f0e9c8d853cd59.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "published": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "image": "data/images/79a2902f45233eb1726834784552e574.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,11 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "published": "Tue, 06 Oct 2026 06:44:39 GMT",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "published": "Wed, 07 Oct 2026 16:54:33 GMT",
       "description": "",
-      "image": "data/images/e5aa99b22e6b2f8c6b0df72a59804223.png",
+      "image": "data/images/e462c80f61e954beb946b10c67aa56bf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "published": "Wed, 07 Oct 2026 12:45:31 GMT",
+      "description": "",
+      "image": "data/images/228d7a5750a8ffbd19a00f18f8efb259.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/305d95312485921c4cc269d668ed5c6d.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "published": "2026-10-06T22:17:21",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "published": "2026-10-07T14:10:55",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
+      "image": "https://opengraph.githubassets.com/29e754a6a8a4cfb11cb3cf38ef65962fedbebb9d4ebc3b0f0648f6af6bc04208/Queuingtheorydotcom/11SquaresFormalized",
       "summary": "Summary unavailable."
     },
     {
@@ -174,71 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "published": "2026-10-07T02:02:11",
+      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "published": "2026-10-07T16:07:08",
       "description": "",
-      "image": "https://strandsagents.com/blog/og/introducing-strands-decider.png",
+      "image": "data/images/642e61e33e7949145bc5844ae9b9538a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "published": "2026-10-06T16:03:49",
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "published": "2026-10-07T12:04:36",
       "description": "",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
+      "image": "data/images/669af178a84743065c574c6891c560f6.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "published": "2026-10-06T18:00:34",
+      "title": "Show HN: Pinrail \u2013 A desktop inbox where coding agents wait for your review",
+      "url": "https://github.com/forgeplane/pinrail",
+      "published": "2026-10-07T17:15:03",
       "description": "",
-      "image": "data/images/c06365cdb10c1de63b8aecff44a4a799.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "published": "2026-10-06T16:23:25",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f1144a3d6d32fb6d3b9a8e665fb535a1f4e43269d2477ceff92d749203d6071e/FeSens/openTPU",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "published": "2026-10-06T21:59:43",
-      "description": "",
-      "image": "https://penguin-mail.com/brand/social-preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: NanoMuse \u2013 An open-source AI agent for your phone and computer",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "published": "2026-10-07T03:30:44",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/2944f732e6e2c31323813ec9f5a1008e88560a8149ed2e3f90576438eff121fd/nano-muse/nanoMuse",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "published": "2026-10-07T04:37:05",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
+      "image": "https://opengraph.githubassets.com/9bf39554f7b4e0f99c4af2ce8ea06ff1aa8032df43b99626599297529256702a/forgeplane/pinrail",
       "summary": "Summary unavailable."
     }
   ],
