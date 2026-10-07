@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:03:02.988835",
+  "updated": "2026-10-07T23:54:58.281166",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "published": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "description": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "image": "data/images/f3e3b37f1e4e8ac6ce4c6f92765454a0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "url": "https://openai.com/index/jump-trading",
       "published": "Tue, 06 Oct 2026 12:00:00 GMT",
@@ -39,16 +49,6 @@
       "published": "Tue, 06 Oct 2026 12:00:00 GMT",
       "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "image": "data/images/9ec0d6d3b1824b176852bf23fb9ea8d6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "image": "data/images/7c5addb398ad796e971dc42c0ebc4d0a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-      "published": "2026-10-07T14:10:55",
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "published": "2026-10-07T18:01:32",
       "description": "",
-      "image": "https://opengraph.githubassets.com/29e754a6a8a4cfb11cb3cf38ef65962fedbebb9d4ebc3b0f0648f6af6bc04208/Queuingtheorydotcom/11SquaresFormalized",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT\u20116 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "published": "2026-10-07T18:00:58",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5frqtUAWccstAbVrCFraH6/5ae9b6bfbc3f3dff8001ed249812f97d/Intelligent-UI_Art-Card_16x9.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "published": "2026-10-07T18:49:40",
+      "description": "",
+      "image": "https://cdn.rswebsols.com/wp-content/uploads/2025/10/otr1by4mkru.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "published": "2026-10-06T22:17:21",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +204,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-      "published": "2026-10-07T16:07:08",
+      "title": "Show HN: Agent.reviews \u2013 Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "published": "2026-10-07T16:59:11",
       "description": "",
-      "image": "data/images/642e61e33e7949145bc5844ae9b9538a.png",
+      "image": "https://agent.reviews/assets/brand/og-agent-reviews-v4.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-      "published": "2026-10-07T12:04:36",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "published": "2026-10-07T14:10:55",
       "description": "",
-      "image": "data/images/669af178a84743065c574c6891c560f6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Pinrail \u2013 A desktop inbox where coding agents wait for your review",
-      "url": "https://github.com/forgeplane/pinrail",
-      "published": "2026-10-07T17:15:03",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/9bf39554f7b4e0f99c4af2ce8ea06ff1aa8032df43b99626599297529256702a/forgeplane/pinrail",
+      "image": "https://opengraph.githubassets.com/8257dfdfbf4e6032dfb629278cf4eec4acfbc479331c623bb9f9be7034592cba/Queuingtheorydotcom/11SquaresFormalized",
       "summary": "Summary unavailable."
     }
   ],
