@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:23:47.780407",
+  "updated": "2026-10-07T02:47:51.693437",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sharing AI Progress in Mathematics",
+      "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "published": "2026-10-06T22:17:21",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "published": "2026-10-07T02:02:11",
+      "description": "",
+      "image": "https://strandsagents.com/blog/og/introducing-strands-decider.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "published": "2026-10-06T21:59:43",
+      "description": "",
+      "image": "https://penguin-mail.com/brand/social-preview.png",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +198,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "published": "2026-10-06T16:23:25",
       "description": "",
-      "image": "https://opengraph.githubassets.com/eaf7f09c0a9b65fa5a2e2f5ad9391fc8312716acc3ead9b8c6b57a639864ac29/FeSens/openTPU",
+      "image": "https://opengraph.githubassets.com/bbdfdc7e82c0f797d0be7062ba625cbf81b4e7af28a0a7a4de1c98bfd4e33596/FeSens/openTPU",
       "summary": "Summary unavailable."
     },
     {
@@ -194,6 +214,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "published": "2026-10-07T01:27:49",
+      "description": "",
+      "image": "https://www.sregym.com/blog/jev-driven-sre-diagnosis/share-image",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "published": "2026-10-06T17:01:52",
+      "description": "",
+      "image": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-19-image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "LLMs may have helped my RSI",
       "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
       "published": "2026-10-06T03:01:04",
@@ -204,38 +244,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "published": "2026-10-06T21:59:43",
+      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.38721",
+      "published": "2026-10-06T22:51:35",
       "description": "",
-      "image": "https://penguin-mail.com/brand/social-preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "published": "2026-10-06T12:53:58",
-      "description": "",
-      "image": "data/images/67a1b4e322b10d916895c28156a17c45.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "published": "2026-10-05T19:16:35",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/sp40emik/production/771cfe201a3d24d7a340c3372e6a1654ec1a6e42-1800x1013.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "speakers": [
       "Alex",
       "Jordan"
