@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-08T10:59:02.008268",
+  "updated": "2026-10-08T18:02:34.159167",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "published": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "image": "data/images/0e006127bbd5ed51bfd4ab1127fca0bd.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "description": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "image": "data/images/f3d61d96aab3213719f917db03eda7e7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "image": "data/images/2f9b21d42cd803a097d733969bdfef16.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,36 +49,6 @@
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "image": "data/images/10ea9571d48e56b5577674a2d54f73a8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "published": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "description": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "image": "data/images/f3e3b37f1e4e8ac6ce4c6f92765454a0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "image": "data/images/9ec0d6d3b1824b176852bf23fb9ea8d6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -114,6 +114,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "published": "Wed, 07 Oct 2026 13:21:03 GMT",
+      "description": "",
+      "image": "data/images/e47eb5b659506c45aef5530b476104d6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
       "published": "Wed, 07 Oct 2026 12:45:31 GMT",
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "published": "Fri, 02 Oct 2026 04:01:31 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "url": "https://github.com/SamsungLabs/LittleBit",
+      "published": "2026-10-08T13:29:46",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://opengraph.githubassets.com/f7952112add8999c42a795d5d05d0ef9dea9629cbc2a126ebef0ca28d731d66b/SamsungLabs/LittleBit",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+      "published": "2026-10-08T16:45:58",
+      "description": "",
+      "image": "data/images/baf7caff15b43d10d4a326b0882cfe8f.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT\u20116 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "published": "2026-10-07T18:00:58",
+      "title": "The Deeply Impersonal Personalized Recruiter Mail",
+      "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+      "published": "2026-10-08T17:15:57",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5frqtUAWccstAbVrCFraH6/5ae9b6bfbc3f3dff8001ed249812f97d/Intelligent-UI_Art-Card_16x9.png?w=1600&h=900&fit=fill",
+      "image": "https://blog.pentlander.com/static/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "published": "2026-10-08T07:05:40",
+      "description": "",
+      "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&name=medium",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Time Travel in Braid (2015)",
+      "url": "https://qntm.org/braid",
+      "published": "2026-10-04T21:42:43",
+      "description": "",
+      "image": "https://qntm.org/page/favicon.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,16 +219,6 @@
       "published": "2026-10-06T22:17:21",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "published": "2026-10-08T00:46:00",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/6f14d8027fe8e175300330fa6751cbf5e4786d2c1cdf491df393fe5bbf4eee15/pingdotgg/ts-rust",
       "summary": "Summary unavailable."
     }
   ],
