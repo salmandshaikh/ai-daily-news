@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T18:02:34.159167",
+  "updated": "2026-10-09T00:01:13.652903",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "image": "data/images/3ce2c10912710f375dbd9a816ddcd50b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "published": "Thu, 08 Oct 2026 00:00:00 GMT",
@@ -39,16 +49,6 @@
       "published": "Wed, 07 Oct 2026 12:00:00 GMT",
       "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "image": "data/images/28e67720279d37f9e6f54c5ed0ff649a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "image": "data/images/10ea9571d48e56b5577674a2d54f73a8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/fbef1211f850077080df88b8ea202764.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Multimodal open d1 decision models for the edge",
       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "published": "Wed, 07 Oct 2026 16:54:33 GMT",
@@ -142,90 +152,40 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "published": "Fri, 02 Oct 2026 15:19:50 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "published": "2026-10-08T20:46:25",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://biohub.org/wp-content/uploads/sites/32/2026/10/VBI-wordmark-Jade-on-dark_Social-Share_1200x630@1x.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "url": "https://github.com/SamsungLabs/LittleBit",
-      "published": "2026-10-08T13:29:46",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "published": "2026-10-08T23:29:43",
       "description": "",
-      "image": "https://opengraph.githubassets.com/f7952112add8999c42a795d5d05d0ef9dea9629cbc2a126ebef0ca28d731d66b/SamsungLabs/LittleBit",
+      "image": "https://karagila.org/og-image.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
-      "published": "2026-10-08T16:45:58",
+      "title": "Show HN: TerrainSR \u2013 fast, realistic heightmap upscaling model",
+      "url": "https://huggingface.co/joe-gibbs/terrainsr",
+      "published": "2026-10-07T01:24:17",
       "description": "",
-      "image": "data/images/baf7caff15b43d10d4a326b0882cfe8f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "published": "2026-10-07T18:01:32",
-      "description": "",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Deeply Impersonal Personalized Recruiter Mail",
-      "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-      "published": "2026-10-08T17:15:57",
-      "description": "",
-      "image": "https://blog.pentlander.com/static/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "published": "2026-10-08T07:05:40",
-      "description": "",
-      "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&name=medium",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Time Travel in Braid (2015)",
-      "url": "https://qntm.org/braid",
-      "published": "2026-10-04T21:42:43",
-      "description": "",
-      "image": "https://qntm.org/page/favicon.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "published": "2026-10-06T22:17:21",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/3430T8Aum4BAOFwLEnHQmC/bbc034e46bc5766dc6569183e87fa6df/ai-progress-in-mathematics-social.png?w=1600&h=900&fit=fill",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/joe-gibbs/terrainsr.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "speakers": [
       "Alex",
       "Jordan"
