@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:01:13.652903",
+  "updated": "2026-10-09T04:41:22.483108",
   "articles": [
     {
       "source": "RSS",
@@ -164,21 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "published": "2026-10-08T23:29:43",
+      "title": "Show HN: Edi Life OS \u2013 self-hosted life dashboard with an MCP server for AI",
+      "url": "https://github.com/edrisranjbar/lifeos",
+      "published": "2026-10-09T00:02:19",
       "description": "",
-      "image": "https://karagila.org/og-image.jpg",
+      "image": "https://opengraph.githubassets.com/78d31d209e1ace2fab97b0b92abc57b523ecd7d0b0ee41712efc7e5b2a87f3fa/edrisranjbar/lifeos",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: TerrainSR \u2013 fast, realistic heightmap upscaling model",
-      "url": "https://huggingface.co/joe-gibbs/terrainsr",
-      "published": "2026-10-07T01:24:17",
+      "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "published": "2026-10-08T16:34:13",
       "description": "",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/joe-gibbs/terrainsr.png",
+      "image": "https://opper.ai/jevman-benchmark/og.png?v=2",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "published": "2026-10-08T07:05:40",
+      "description": "",
+      "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&name=medium",
       "summary": "Summary unavailable."
     }
   ],
