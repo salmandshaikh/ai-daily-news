@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:44:41.920174",
+  "updated": "2026-10-09T20:23:19.161133",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Fri, 09 Oct 2026 07:00:00 GMT",
       "description": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "image": "data/images/7f75039692d5f517149f93463d17ce38.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "image": "data/images/10e7b1aed9d928b95c3c3e489600bdea.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Thu, 08 Oct 2026 12:00:00 GMT",
       "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "image": "data/images/3ce2c10912710f375dbd9a816ddcd50b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "published": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "image": "data/images/2f9b21d42cd803a097d733969bdfef16.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published": "Fri, 09 Oct 2026 15:20:29 GMT",
+      "description": "",
+      "image": "data/images/e20663558dde938cb0e3c71ea1d560f8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "The model that didn't exist, so you made it yourself",
       "url": "https://huggingface.co/blog/building-with-ml-intern",
       "published": "Thu, 08 Oct 2026 00:00:00 GMT",
@@ -142,43 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "published": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "published": "2026-10-09T17:02:31",
       "description": "",
-      "image": "data/images/47d7ffc94f47f8cb31c7f71d802bc410.png",
+      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "published": "2026-10-09T11:36:20",
+      "description": "",
+      "image": "https://jessewaites.com/meteorite.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "published": "2026-10-09T11:03:48",
       "description": "",
-      "image": "https://opengraph.githubassets.com/1fbd866ec2e4a6a27311cc6a035336e245e89dfd9fb47252f658e6fdb232dbf6/franzenzenhofer/big-arrow-on-the-screen",
+      "image": "https://opengraph.githubassets.com/4894e4c73d38fc4bdd5af7fba00f5cd4c12103d0e880ee9794c5ac15cb88c45d/franzenzenhofer/big-arrow-on-the-screen",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
-      "published": "2026-10-09T14:14:08",
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "published": "2026-10-09T18:38:44",
       "description": "",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250507-christopher-pelkey-artificial-intelligence-impact-statement-ac-610p-088565.jpg",
+      "image": "https://commandline.microsoft.com/wp-content/uploads/2026/10/introducing-microsoft-decision-1-our-model-for-fast-decision-making-card.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-      "published": "2026-10-09T12:21:24",
+      "title": "Training Text-to-Image Models Without a VAE",
+      "url": "https://www.linum.ai/field-notes/pyramid-jit",
+      "published": "2026-10-06T20:24:52",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://linum.ai/field-notes/pyramid-jit/opengraph-image/card?67ee6b6af80a4a6f",
       "summary": "Summary unavailable."
     },
     {
@@ -189,36 +209,6 @@
       "published": "2026-10-09T10:00:26",
       "description": "",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "published": "2026-10-08T23:29:43",
-      "description": "",
-      "image": "https://karagila.org/og-image.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "published": "2026-10-08T20:46:25",
-      "description": "",
-      "image": "https://biohub.org/wp-content/uploads/sites/32/2026/10/VBI-wordmark-Jade-on-dark_Social-Share_1200x630@1x.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "published": "2026-10-08T07:05:40",
-      "description": "",
-      "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&name=medium",
       "summary": "Summary unavailable."
     }
   ],
