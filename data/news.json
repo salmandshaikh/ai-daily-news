@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:23:19.161133",
+  "updated": "2026-10-10T02:51:11.921999",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "published": "2026-10-09T11:03:48",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "published": "2026-10-09T22:00:35",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4894e4c73d38fc4bdd5af7fba00f5cd4c12103d0e880ee9794c5ac15cb88c45d/franzenzenhofer/big-arrow-on-the-screen",
+      "image": "https://media.nbcphiladelphia.com/2022/01/CrimeTape-1.jpg?quality=85&strip=all&resize=1200%2C675",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "published": "2026-10-09T17:42:12",
+      "description": "",
+      "image": "data/images/3170d09bf4b002ecadb6e489795aec87.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,28 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Training Text-to-Image Models Without a VAE",
-      "url": "https://www.linum.ai/field-notes/pyramid-jit",
-      "published": "2026-10-06T20:24:52",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "published": "2026-10-09T11:03:48",
       "description": "",
-      "image": "https://linum.ai/field-notes/pyramid-jit/opengraph-image/card?67ee6b6af80a4a6f",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "published": "2026-10-09T10:00:26",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "image": "https://opengraph.githubassets.com/029ce0af119479dad13d0875f7f562b69b8f8331d15736611897ff6a3c401337/franzenzenhofer/big-arrow-on-the-screen",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "speakers": [
       "Alex",
       "Jordan"
