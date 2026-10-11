@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T02:20:08.935004",
+  "updated": "2026-10-11T10:22:29.564352",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-      "published": "2026-10-11T00:47:37",
+      "title": "Retrofitting language models to operate over bytes",
+      "url": "https://www.nature.com/articles/s41586-026-11111-4",
+      "published": "2026-10-08T02:15:16",
       "description": "",
-      "image": "data/images/b8654fe6851dcc9271f1fc4b1b8de312.png",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11111-4/MediaObjects/41586_2026_11111_Fig1_HTML.png",
       "summary": "Summary unavailable."
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://github.com/rociiu/talorys",
       "published": "2026-10-10T10:52:09",
       "description": "",
-      "image": "https://opengraph.githubassets.com/bfd0f8673d2598f9768b3bea1cb88e5cc7b7ecc35aa510996163eefb6eb620d1/rociiu/talorys",
+      "image": "https://opengraph.githubassets.com/42370fce129ad452ffc2a38286a7315f640f82d46d1a3afd5d47d25a735e29fc/rociiu/talorys",
       "summary": "Summary unavailable."
     },
     {
@@ -204,51 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Grieving the loss of details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "published": "2026-10-06T16:37:21",
-      "description": "",
-      "image": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Retrofitting language models to operate over bytes",
-      "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "published": "2026-10-08T02:15:16",
-      "description": "",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11111-4/MediaObjects/41586_2026_11111_Fig1_HTML.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "published": "2026-10-10T18:48:35",
-      "description": "",
-      "image": "data/images/ad2ed31f9d7f35ba07a8a68ed0bb3712.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "published": "2026-10-09T22:14:40",
-      "description": "",
-      "image": "https://epoch.ai/assets/images/posts/2026/innovationeval/t-innovationeval.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Food processing influences metabolism and brain activity",
       "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
       "published": "2026-10-10T05:22:30",
       "description": "",
       "image": "https://news.vt.edu/content/news_vt_edu/en/articles/2026/10/research_fralinbiomed_upfhutelin/_jcr_content/image.transform/l-medium/image.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "published": "2026-10-11T02:02:38",
+      "description": "",
+      "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Grieving the loss of details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "published": "2026-10-06T16:37:21",
+      "description": "",
+      "image": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/og.png",
       "summary": "Summary unavailable."
     }
   ],
