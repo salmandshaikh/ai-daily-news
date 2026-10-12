@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:44:38.099737",
+  "updated": "2026-10-12T11:22:52.990529",
   "articles": [
     {
       "source": "RSS",
@@ -154,42 +154,22 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
+      "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
+      "published": "2026-10-12T10:09:37",
+      "description": "",
+      "image": "https://media.crypto.news/2023/10/crypto-news-Everscale-announced-theft-of-tokens01.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "published": "2026-10-11T20:20:52",
       "description": "",
       "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "published": "2026-10-11T02:02:38",
-      "description": "",
-      "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-      "url": "https://github.com/swimmingbrain/brainotes",
-      "published": "2026-10-11T23:22:29",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/3da14b09dcc9861e2bae4ce6360fef40837b8bc5cad2e64774dc3d384e69237f/swimmingbrain/brainotes",
-      "summary": "Summary unavailable."
     }
-  ],
-  "podcast": {
-    "file": "data/podcast/latest.mp3",
-    "duration": 13,
-    "date": "2026-10-12",
-    "speakers": [
-      "Alex",
-      "Jordan"
-    ],
-    "segments": 4
-  }
+  ]
 }
