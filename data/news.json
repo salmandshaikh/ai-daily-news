@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:01:50.352234",
+  "updated": "2026-10-13T11:27:13.455794",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "published": "2026-10-13T02:46:43",
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "published": "2026-10-13T10:08:34",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!1mN7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0c6088-ce61-4802-ac3f-c8bc4060a05a_840x599.jpeg",
+      "image": "https://pdftomp3.com/og-pdf-to-mp3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,31 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "published": "2026-10-13T02:07:08",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "url": "https://github.com/prabanta-dev/janas",
       "published": "2026-10-12T22:05:43",
       "description": "",
-      "image": "https://opengraph.githubassets.com/82e5544c44e3549eee404854c5db3176968b6a8647ddb9fc3158e3f3cc595873/prabanta-dev/janas",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "published": "2026-10-12T15:16:45",
-      "description": "",
-      "image": "https://i.lede.me?title=Kevin+Kelly%27s+2016+AI+Predictions%2C+10+Years+Later&lede=Kelly+predicted+AI+heavyweights+while+advocating+for+a+future+of+open+weights&author=taylor.town&date=2026.10.12",
+      "image": "https://opengraph.githubassets.com/7f8c9dc60b3fadadfaa7eddee7ee0fa916e9b0092b80ece4d481076597ac2736/prabanta-dev/janas",
       "summary": "Summary unavailable."
     },
     {
@@ -209,6 +189,46 @@
       "published": "2026-10-12T21:40:18",
       "description": "",
       "image": "data/images/70d2c8501f9f86f990eee7fb28ffb054.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "published": "2026-10-13T02:46:43",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!1mN7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0c6088-ce61-4802-ac3f-c8bc4060a05a_840x599.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI models can provably hide arbitrary capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "published": "2026-10-13T02:07:08",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI models may soon self-replicate without access to data centers",
+      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "published": "2026-10-13T10:08:18",
+      "description": "",
+      "image": "data/images/3388948a2106158035f025ccd358e3e8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "published": "2026-10-12T15:16:45",
+      "description": "",
+      "image": "https://i.lede.me?title=Kevin+Kelly%27s+2016+AI+Predictions%2C+10+Years+Later&lede=Kelly+predicted+AI+heavyweights+while+advocating+for+a+future+of+open+weights&author=taylor.town&date=2026.10.12",
       "summary": "Summary unavailable."
     }
   ]
