@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-13T18:33:58.414703",
+  "updated": "2026-10-13T23:29:19.380454",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "image": "data/images/8d0abf382a4b3e6dafc5e1a3ca1bf3eb.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "image": "data/images/3ce2c10912710f375dbd9a816ddcd50b.png",
+      "source_name": "Google DeepMind News",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "published": "Tue, 13 Oct 2026 19:43:07 +0000",
+      "description": "",
+      "image": "data/images/dbdf445e77431467b7e69d6cebb20067.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Wed, 30 Sep 2026 20:01:45 +0000",
       "description": "",
       "image": "data/images/d2328608ff5ec368899549f05b1b6fee.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "published": "Wed, 30 Sep 2026 15:03:07 +0000",
-      "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "image": "data/images/0765fbdb0bb2b2c968c1d0d3d4b47bf1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "published": "2026-10-13T15:25:50",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "published": "2026-10-13T20:23:55",
       "description": "",
-      "image": "data/images/697631266e5088f26ae7bf0cd1d523b1.png",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "published": "2026-10-13T11:27:14",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "published": "2026-10-13T21:01:12",
       "description": "",
-      "image": "https://eg2.haku.sh/speed-table.png",
+      "image": "https://lever-client-logos.s3.us-west-2.amazonaws.com/70eac176-d8ca-4582-9706-dfe89c2fe3ca-1689005387384.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "published": "2026-10-13T15:25:50",
+      "description": "",
+      "image": "data/images/697631266e5088f26ae7bf0cd1d523b1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "published": "2026-10-13T07:28:34",
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "published": "2026-10-13T11:27:14",
       "description": "",
-      "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/size/w1200/2026/10/oct-blog-header.jpg",
+      "image": "https://eg2.haku.sh/speed-table.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "published": "2026-10-13T23:13:23",
+      "description": "",
+      "image": "https://pulseos.finance/images/pulse-local/og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "published": "2026-10-13T19:50:31",
+      "description": "",
+      "image": "https://parsimony.lasu.dev/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "url": "https://www.pi.website/blog/api-beta",
+      "published": "2026-10-13T21:55:25",
+      "description": "",
+      "image": "https://website.pi-asset.com/api/social/911828ba2189/pi-api-hero-loop-poster.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "published": "2026-10-13T10:08:34",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "published": "2026-10-13T07:28:34",
       "description": "",
-      "image": "https://pdftomp3.com/og-pdf-to-mp3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "published": "2026-10-12T21:40:18",
-      "description": "",
-      "image": "data/images/70d2c8501f9f86f990eee7fb28ffb054.png",
+      "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/size/w1200/2026/10/oct-blog-header.jpg",
       "summary": "Summary unavailable."
     }
   ],
