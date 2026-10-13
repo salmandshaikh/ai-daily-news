@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T11:27:13.455794",
+  "updated": "2026-10-13T18:33:58.414703",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,26 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "published": "Tue, 13 Oct 2026 16:01:58 +0000",
+      "description": "",
+      "image": "data/images/8725db0af86cff3fde8f09c3dade5ccf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "published": "Tue, 13 Oct 2026 16:01:52 +0000",
+      "description": "",
+      "image": "data/images/3b27b7dfa32ff0e1075752193bdd9f03.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "published": "Tue, 06 Oct 2026 19:57:04 +0000",
@@ -83,22 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "published": "Thu, 24 Sep 2026 16:20:39 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published": "Tue, 13 Oct 2026 17:05:48 GMT",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "published": "Wed, 23 Sep 2026 16:00:57 +0000",
-      "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "image": "data/images/81c1346937194a5e4c5952b750ed0735.png",
+      "image": "data/images/a8cd762e4aba831ba5fb13a54e370b95.png",
       "summary": "Summary unavailable."
     },
     {
@@ -124,16 +134,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "published": "Wed, 07 Oct 2026 16:54:33 GMT",
-      "description": "",
-      "image": "data/images/e462c80f61e954beb946b10c67aa56bf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "Introducing Falcon ASR",
       "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
       "published": "Wed, 07 Oct 2026 13:21:03 GMT",
@@ -154,31 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "published": "2026-10-13T15:25:50",
+      "description": "",
+      "image": "data/images/697631266e5088f26ae7bf0cd1d523b1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "published": "2026-10-13T11:27:14",
+      "description": "",
+      "image": "https://eg2.haku.sh/speed-table.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "published": "2026-10-13T14:26:08",
+      "description": "",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/switch-to-safari.jpg?quality=82&strip=all&resize=1200,628",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "published": "2026-10-13T07:28:34",
+      "description": "",
+      "image": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/size/w1200/2026/10/oct-blog-header.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "published": "2026-10-13T14:14:23",
+      "description": "",
+      "image": "https://cdn.blot.im/blog_bceb40b92fea4cb981fda87bd5169c58/_thumbnails/801d3c81-6b4b-411f-8b28-3226302d90d2/large.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Use your OpenAI subscription to create audiobooks",
       "url": "https://pdftomp3.com/connect-ai/",
       "published": "2026-10-13T10:08:34",
       "description": "",
       "image": "https://pdftomp3.com/og-pdf-to-mp3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "published": "2026-10-12T21:35:35",
-      "description": "",
-      "image": "data/images/a3efc992da874ed60bb351365d2cf5e5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "published": "2026-10-12T22:05:43",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/7f8c9dc60b3fadadfaa7eddee7ee0fa916e9b0092b80ece4d481076597ac2736/prabanta-dev/janas",
       "summary": "Summary unavailable."
     },
     {
@@ -190,46 +220,16 @@
       "description": "",
       "image": "data/images/70d2c8501f9f86f990eee7fb28ffb054.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "published": "2026-10-13T02:46:43",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!1mN7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0c6088-ce61-4802-ac3f-c8bc4060a05a_840x599.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI models can provably hide arbitrary capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "published": "2026-10-13T02:07:08",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI models may soon self-replicate without access to data centers",
-      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
-      "published": "2026-10-13T10:08:18",
-      "description": "",
-      "image": "data/images/3388948a2106158035f025ccd358e3e8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "published": "2026-10-12T15:16:45",
-      "description": "",
-      "image": "https://i.lede.me?title=Kevin+Kelly%27s+2016+AI+Predictions%2C+10+Years+Later&lede=Kelly+predicted+AI+heavyweights+while+advocating+for+a+future+of+open+weights&author=taylor.town&date=2026.10.12",
-      "summary": "Summary unavailable."
     }
-  ]
+  ],
+  "podcast": {
+    "file": "data/podcast/latest.mp3",
+    "duration": 13,
+    "date": "2026-10-13",
+    "speakers": [
+      "Alex",
+      "Jordan"
+    ],
+    "segments": 4
+  }
 }
