@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:28:04.526197",
+  "updated": "2026-10-13T04:01:50.352234",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "published": "2026-10-12T17:14:01",
+      "title": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "published": "2026-10-13T02:46:43",
       "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
+      "image": "https://substackcdn.com/image/fetch/$s_!1mN7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0c6088-ce61-4802-ac3f-c8bc4060a05a_840x599.jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "published": "2026-10-12T21:35:35",
+      "description": "",
+      "image": "data/images/a3efc992da874ed60bb351365d2cf5e5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "published": "2026-10-13T02:07:08",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "published": "2026-10-12T22:05:43",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/82e5544c44e3549eee404854c5db3176968b6a8647ddb9fc3158e3f3cc595873/prabanta-dev/janas",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "published": "2026-10-11T20:20:52",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "published": "2026-10-12T21:40:18",
       "description": "",
-      "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
+      "image": "data/images/70d2c8501f9f86f990eee7fb28ffb054.png",
       "summary": "Summary unavailable."
     }
   ]
