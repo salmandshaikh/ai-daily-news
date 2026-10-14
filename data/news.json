@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:15:45.217531",
+  "updated": "2026-10-14T09:04:44.741824",
   "articles": [
     {
       "source": "RSS",
@@ -54,11 +54,11 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "published": "Wed, 14 Oct 2026 02:00:14 +0000",
       "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "image": "data/images/3b341b89acaf245d77e82316bb58777d.png",
+      "image": "data/images/71002621c6bc4538aa2707026383b7e2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "published": "2026-10-13T23:13:23",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "published": "2026-10-13T20:23:55",
       "description": "",
-      "image": "https://pulseos.finance/images/pulse-local/og.jpg",
+      "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "published": "2026-10-13T15:25:50",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "published": "2026-10-12T21:40:18",
       "description": "",
-      "image": "data/images/697631266e5088f26ae7bf0cd1d523b1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "published": "2026-10-13T11:27:14",
-      "description": "",
-      "image": "https://eg2.haku.sh/speed-table.png",
+      "image": "data/images/70d2c8501f9f86f990eee7fb28ffb054.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,61 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "published": "2026-10-13T20:23:55",
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "published": "2026-10-13T14:14:23",
       "description": "",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
+      "image": "https://cdn.blot.im/blog_bceb40b92fea4cb981fda87bd5169c58/_thumbnails/801d3c81-6b4b-411f-8b28-3226302d90d2/large.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "published": "2026-10-13T14:26:08",
-      "description": "",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/switch-to-safari.jpg?quality=82&strip=all&resize=1200,628",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-      "url": "https://www.pi.website/blog/api-beta",
-      "published": "2026-10-13T21:55:25",
-      "description": "",
-      "image": "https://website.pi-asset.com/api/social/911828ba2189/pi-api-hero-loop-poster.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "published": "2026-10-12T15:12:37",
-      "description": "",
-      "image": "data/images/5456668fd7b02e06ded5519a7b27bf9f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
       "url": "https://blumify.io/people",
       "published": "2026-10-14T01:09:13",
       "description": "",
       "image": "https://blumify.io/opengraph-image?5887fe79cbe072ac",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "published": "2026-10-13T19:50:31",
-      "description": "",
-      "image": "https://parsimony.lasu.dev/og.png",
       "summary": "Summary unavailable."
     }
   ],
