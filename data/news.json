@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-14T09:04:44.741824",
+  "updated": "2026-10-14T16:02:01.435559",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "The EU\u2019s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
+      "image": "data/images/625e5bf1c6da3822e796a8c1b7d2671d.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +29,6 @@
       "published": "Tue, 13 Oct 2026 12:00:00 GMT",
       "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "image": "data/images/8d0abf382a4b3e6dafc5e1a3ca1bf3eb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "description": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "image": "data/images/7f75039692d5f517149f93463d17ce38.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "published": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "image": "data/images/0e006127bbd5ed51bfd4ab1127fca0bd.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "description": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "image": "data/images/f3d61d96aab3213719f917db03eda7e7.png",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "description": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "image": "data/images/7f75039692d5f517149f93463d17ce38.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,51 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "published": "2026-10-13T20:23:55",
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "published": "2026-10-14T14:38:55",
       "description": "",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
+      "image": "data/images/c1d5fc6c3c511f157288ee0565578753.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "published": "2026-10-12T21:40:18",
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "published": "2026-10-14T10:28:26",
       "description": "",
-      "image": "data/images/70d2c8501f9f86f990eee7fb28ffb054.png",
+      "image": "data/images/5f540cf24d581720edf17c132654348c.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "published": "2026-10-13T21:01:12",
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "published": "2026-10-14T14:47:44",
       "description": "",
-      "image": "https://lever-client-logos.s3.us-west-2.amazonaws.com/70eac176-d8ca-4582-9706-dfe89c2fe3ca-1689005387384.png",
+      "image": "https://popcar.bearblog.dev/static/og-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "published": "2026-10-13T14:14:23",
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "published": "2026-10-14T15:39:45",
       "description": "",
-      "image": "https://cdn.blot.im/blog_bceb40b92fea4cb981fda87bd5169c58/_thumbnails/801d3c81-6b4b-411f-8b28-3226302d90d2/large.jpg",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-13-at-1.04.59-PM@2x.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
-      "url": "https://blumify.io/people",
-      "published": "2026-10-14T01:09:13",
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "published": "2026-10-14T10:26:24",
       "description": "",
-      "image": "https://blumify.io/opengraph-image?5887fe79cbe072ac",
+      "image": "https://cdn.prod.website-files.com/643d2eea03135260bdaca209/6a50f37bd214ca5c68026336_Roadmap%20Blog.gif",
       "summary": "Summary unavailable."
     }
   ],
