@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-14T16:02:01.435559",
+  "updated": "2026-10-14T19:59:35.557807",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "image": "data/images/7d6952d76417e81832a8574ee4820cef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Tue, 13 Oct 2026 12:00:00 GMT",
       "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "image": "data/images/8d0abf382a4b3e6dafc5e1a3ca1bf3eb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "image": "data/images/10e7b1aed9d928b95c3c3e489600bdea.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "description": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "image": "data/images/7f75039692d5f517149f93463d17ce38.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,21 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "published": "Tue, 13 Oct 2026 17:05:48 GMT",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "published": "Wed, 14 Oct 2026 16:12:42 GMT",
       "description": "",
-      "image": "data/images/a8cd762e4aba831ba5fb13a54e370b95.png",
+      "image": "data/images/eaf7e33a60a9205183f6b5a36948db83.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "published": "Fri, 09 Oct 2026 15:20:29 GMT",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published": "Tue, 13 Oct 2026 17:05:48 GMT",
       "description": "",
-      "image": "data/images/e20663558dde938cb0e3c71ea1d560f8.png",
+      "image": "data/images/a8cd762e4aba831ba5fb13a54e370b95.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "published": "2026-10-14T14:38:55",
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "published": "2026-10-14T17:45:23",
       "description": "",
-      "image": "data/images/c1d5fc6c3c511f157288ee0565578753.png",
+      "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&strip=all&w=1024",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "published": "2026-10-14T18:32:52",
+      "description": "",
+      "image": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-jpmorgan-man-group.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "published": "2026-10-14T17:00:59",
+      "description": "",
+      "image": "https://clova.email/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -169,36 +189,6 @@
       "published": "2026-10-14T10:28:26",
       "description": "",
       "image": "data/images/5f540cf24d581720edf17c132654348c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI is mass decompiling games. That's both awesome and scary",
-      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "published": "2026-10-14T14:47:44",
-      "description": "",
-      "image": "https://popcar.bearblog.dev/static/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "published": "2026-10-14T15:39:45",
-      "description": "",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-13-at-1.04.59-PM@2x.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "published": "2026-10-14T10:26:24",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/643d2eea03135260bdaca209/6a50f37bd214ca5c68026336_Roadmap%20Blog.gif",
       "summary": "Summary unavailable."
     }
   ],
