@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-15T08:38:22.423717",
+  "updated": "2026-10-15T15:49:16.623901",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "published": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "description": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "image": "data/images/7842d5b22ba90db646c9ebd2047afd8a.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 14 Oct 2026 07:00:00 GMT",
       "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "image": "data/images/7551ba9e0225e199e39f5f4ab3d806c0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The EU\u2019s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "published": "Wed, 14 Oct 2026 00:00:00 GMT",
-      "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
-      "image": "data/images/625e5bf1c6da3822e796a8c1b7d2671d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "published": "Thu, 15 Oct 2026 09:08:45 GMT",
+      "description": "",
+      "image": "data/images/d25595b29317572b384430c7e2d3ca99.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/0255d303755ef915e810f9f1d8dab116.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "published": "Wed, 14 Oct 2026 16:12:42 GMT",
@@ -132,43 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "published": "Wed, 07 Oct 2026 13:21:03 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "published": "2026-10-15T14:58:48",
       "description": "",
-      "image": "data/images/e47eb5b659506c45aef5530b476104d6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "published": "Wed, 07 Oct 2026 12:45:31 GMT",
-      "description": "",
-      "image": "data/images/228d7a5750a8ffbd19a00f18f8efb259.png",
+      "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "published": "2026-10-15T07:20:39",
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "published": "2026-10-15T14:35:15",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9ee36936e076840b5cdca8a81079530a75c8f6496760bbe11cf976a20393c3ab/awslabs/aidlc-workflows",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "published": "2026-10-14T17:45:23",
-      "description": "",
-      "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&strip=all&w=1024",
+      "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
       "summary": "Summary unavailable."
     }
   ],
