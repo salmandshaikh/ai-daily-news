@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:49:16.623901",
+  "updated": "2026-10-15T19:30:09.437460",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "published": "Thu, 15 Oct 2026 16:08:03 +0000",
+      "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "image": "data/images/e3601a40735e047cffece2ad37507aef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "published": "Wed, 14 Oct 2026 02:00:14 +0000",
@@ -93,22 +103,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "published": "Tue, 06 Oct 2026 19:57:04 +0000",
-      "description": "",
-      "image": "data/images/b6dcf3085040cc3162fc8a8a54e52899.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Hugging Face - Blog",
       "title": "Apertus 1.5 Release Notes",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "published": "Thu, 15 Oct 2026 09:08:45 GMT",
       "description": "",
       "image": "data/images/d25595b29317572b384430c7e2d3ca99.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -142,33 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "published": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "published": "2026-10-15T16:04:01",
       "description": "",
-      "image": "data/images/fbef1211f850077080df88b8ea202764.png",
+      "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "title": "Krea 3 \u2013 An image model built for editing at scale",
+      "url": "https://www.krea.ai/krea-3",
+      "published": "2026-10-15T16:04:05",
+      "description": "",
+      "image": "https://s.krea.ai/krea-3-og-boxes-3.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "published": "2026-10-15T18:32:29",
+      "description": "",
+      "image": "https://www.currentaffairs.org/hubfs/smash1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
       "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "published": "2026-10-15T14:58:48",
       "description": "",
       "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "published": "2026-10-15T14:35:15",
-      "description": "",
-      "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
       "summary": "Summary unavailable."
     }
   ],
