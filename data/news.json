@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-15T19:30:09.437460",
+  "updated": "2026-10-15T22:44:02.634834",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "image": "data/images/fbd6e9f543c1873c8cfcb5ba2d467003.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 14 Oct 2026 07:00:00 GMT",
       "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "image": "data/images/7551ba9e0225e199e39f5f4ab3d806c0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "published": "Thu, 15 Oct 2026 20:34:01 GMT",
+      "description": "",
+      "image": "data/images/aaa79ec80a660c4df13aa269b1ff90d7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Apertus 1.5 Release Notes",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "published": "Thu, 15 Oct 2026 09:08:45 GMT",
@@ -142,16 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "published": "Tue, 13 Oct 2026 17:05:48 GMT",
-      "description": "",
-      "image": "data/images/a8cd762e4aba831ba5fb13a54e370b95.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Neural networks are clean",
@@ -159,6 +159,16 @@
       "published": "2026-10-15T16:04:01",
       "description": "",
       "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+      "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+      "published": "2026-10-15T22:11:24",
+      "description": "",
+      "image": "https://boldagents.co/assets/blog/ai-vs-human-receptionists-14000-calls.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Why We're Banning AI",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-      "published": "2026-10-15T18:32:29",
+      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+      "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+      "published": "2026-10-14T05:08:09",
       "description": "",
-      "image": "https://www.currentaffairs.org/hubfs/smash1.png",
+      "image": "data/images/1593de90b325e7c9c4a5a8e64be3e2c6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "published": "2026-10-15T14:35:15",
+      "description": "",
+      "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
       "summary": "Summary unavailable."
     },
     {
