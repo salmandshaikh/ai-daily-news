@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:37:53.836259",
+  "updated": "2026-10-16T19:04:39.290802",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "published": "2026-10-16T17:08:38",
+      "description": "",
+      "image": "https://www.mercor.com/mercor-logo-white.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "published": "2026-10-16T18:32:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/5ec8b0493388cbd2290466f12b3bb0b29a7e17f5596dd5c6247b11732d15d991/cobanov/PS5LM",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
       "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
       "published": "2026-10-13T16:26:03",
@@ -174,31 +194,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "published": "2026-10-16T15:55:40",
+      "description": "",
+      "image": "https://image.theregister.com/228745.jpg?imageId=228745&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: rStation \u2013 A shared research lab for your AI agents",
+      "url": "https://rstation.ai/",
+      "published": "2026-10-16T14:35:43",
+      "description": "",
+      "image": "data/images/988b6c90c68135d43631953486faab6f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Inside Polymarket's paid quote-retweet esports program",
+      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+      "published": "2026-10-16T15:56:25",
+      "description": "",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3b9302e5-8532-4331-b982-15a30c969725/polymarket.png?t=1792001098",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Wonderhop \u2013 A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "published": "2026-10-13T23:10:04",
+      "description": "",
+      "image": "https://wonderhop.io/og/en.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI-assisted PCB design for KiCad 10",
       "url": "https://github.com/mixelpixx/Konnect",
       "published": "2026-10-14T10:51:37",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8396ef6e1a7cd8dcae7634220febe9128d338ffbd6abd7676b7a69d9a05739c8/mixelpixx/Konnect",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MS Paint Adds Freeform Rotation (2026)",
-      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
-      "published": "2026-10-14T04:55:40",
-      "description": "",
-      "image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "published": "2026-10-15T16:04:01",
-      "description": "",
-      "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
+      "image": "https://opengraph.githubassets.com/5076bd52938b647df1d156cca257fe67e160756224b119f8651e4e4ad64bc0fc/mixelpixx/Konnect",
       "summary": "Summary unavailable."
     }
   ],
