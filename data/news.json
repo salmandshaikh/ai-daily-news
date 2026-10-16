@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:33:19.289625",
+  "updated": "2026-10-16T15:37:53.836259",
   "articles": [
     {
       "source": "RSS",
@@ -114,6 +114,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/345c5107e6740de3b33f059c124b2c92.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "published": "Thu, 15 Oct 2026 20:34:01 GMT",
@@ -142,13 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "published": "Wed, 14 Oct 2026 16:12:42 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "published": "2026-10-13T16:26:03",
       "description": "",
-      "image": "data/images/eaf7e33a60a9205183f6b5a36948db83.png",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "published": "2026-10-16T14:16:34",
+      "description": "",
+      "image": "data/images/cb1693cd926f98f135c0493be238b0a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "published": "2026-10-14T10:51:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/8396ef6e1a7cd8dcae7634220febe9128d338ffbd6abd7676b7a69d9a05739c8/mixelpixx/Konnect",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+      "published": "2026-10-14T04:55:40",
+      "description": "",
+      "image": "https://winblogs.thesourcemediaassets.com/sites/44/2021/08/social-media-graphic.png",
       "summary": "Summary unavailable."
     },
     {
@@ -159,26 +199,6 @@
       "published": "2026-10-15T16:04:01",
       "description": "",
       "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Krea 3 \u2013 An image model built for editing at scale",
-      "url": "https://www.krea.ai/krea-3",
-      "published": "2026-10-15T16:04:05",
-      "description": "",
-      "image": "https://s.krea.ai/krea-3-og-boxes-3.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "url": "https://github.com/johnrash/bebox",
-      "published": "2026-10-15T23:22:53",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f7a682e2d4d85657a828f025bffd81383004aa549834acefe941f0fa8d10964c/johnrash/bebox",
       "summary": "Summary unavailable."
     }
   ],
