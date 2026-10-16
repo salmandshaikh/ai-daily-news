@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-16T19:04:39.290802",
+  "updated": "2026-10-16T22:15:38.902289",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "image": "data/images/16843f56a3d7c918e29625ad94329f13.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Wed, 14 Oct 2026 12:00:00 GMT",
       "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "image": "data/images/7d6952d76417e81832a8574ee4820cef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,71 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "published": "2026-10-16T18:32:35",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9c600d0bd6579b8a5b8793cfc868f387ca927810f6cd8b91a4243001150d433e/cobanov/PS5LM",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "published": "2026-10-16T17:08:38",
       "description": "",
       "image": "https://www.mercor.com/mercor-logo-white.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "published": "2026-10-16T18:32:35",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/5ec8b0493388cbd2290466f12b3bb0b29a7e17f5596dd5c6247b11732d15d991/cobanov/PS5LM",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "published": "2026-10-13T16:26:03",
-      "description": "",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "published": "2026-10-16T14:16:34",
-      "description": "",
-      "image": "data/images/cb1693cd926f98f135c0493be238b0a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "published": "2026-10-16T15:55:40",
-      "description": "",
-      "image": "https://image.theregister.com/228745.jpg?imageId=228745&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: rStation \u2013 A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
-      "published": "2026-10-16T14:35:43",
-      "description": "",
-      "image": "data/images/988b6c90c68135d43631953486faab6f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Inside Polymarket's paid quote-retweet esports program",
-      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-      "published": "2026-10-16T15:56:25",
-      "description": "",
-      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3b9302e5-8532-4331-b982-15a30c969725/polymarket.png?t=1792001098",
       "summary": "Summary unavailable."
     },
     {
@@ -234,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI-assisted PCB design for KiCad 10",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "published": "2026-10-14T10:51:37",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "published": "2026-10-13T16:26:03",
       "description": "",
-      "image": "https://opengraph.githubassets.com/5076bd52938b647df1d156cca257fe67e160756224b119f8651e4e4ad64bc0fc/mixelpixx/Konnect",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
       "summary": "Summary unavailable."
     }
   ],
