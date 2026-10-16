@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T22:44:02.634834",
+  "updated": "2026-10-16T01:46:51.260152",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "image": "data/images/517297f945a53369d0838f444980257e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
       "published": "Wed, 14 Oct 2026 12:00:00 GMT",
@@ -38,16 +48,6 @@
       "url": "https://openai.com/index/sentinelone",
       "published": "Wed, 14 Oct 2026 12:00:00 GMT",
       "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -104,21 +104,21 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "published": "Thu, 15 Oct 2026 20:34:01 GMT",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published": "Fri, 16 Oct 2026 01:44:47 GMT",
       "description": "",
-      "image": "data/images/aaa79ec80a660c4df13aa269b1ff90d7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "published": "Thu, 15 Oct 2026 09:08:45 GMT",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "published": "Thu, 15 Oct 2026 20:34:01 GMT",
       "description": "",
-      "image": "data/images/d25595b29317572b384430c7e2d3ca99.png",
+      "image": "data/images/aaa79ec80a660c4df13aa269b1ff90d7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
-      "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
-      "published": "2026-10-15T22:11:24",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "url": "https://github.com/johnrash/bebox",
+      "published": "2026-10-15T23:22:53",
       "description": "",
-      "image": "https://boldagents.co/assets/blog/ai-vs-human-receptionists-14000-calls.png",
+      "image": "https://opengraph.githubassets.com/8d8afc6d21c8a840c34b7f0d3bffc2ca3dcb39e617ccd0b63f5909731577045f/johnrash/bebox",
       "summary": "Summary unavailable."
     },
     {
@@ -200,22 +200,12 @@
       "description": "",
       "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "published": "2026-10-15T14:58:48",
-      "description": "",
-      "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "speakers": [
       "Alex",
       "Jordan"
