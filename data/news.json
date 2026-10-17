@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-16T22:15:38.902289",
+  "updated": "2026-10-17T01:41:27.881418",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Ita\u00fa is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "published": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "description": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
+      "image": "data/images/75e6c8e169ed1be73a2d3a1b2c4422f8.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 15 Oct 2026 00:00:00 GMT",
       "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
       "image": "data/images/517297f945a53369d0838f444980257e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "image": "data/images/7d6952d76417e81832a8574ee4820cef.png",
       "summary": "Summary unavailable."
     },
     {
@@ -158,7 +158,17 @@
       "url": "https://github.com/cobanov/PS5LM",
       "published": "2026-10-16T18:32:35",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9c600d0bd6579b8a5b8793cfc868f387ca927810f6cd8b91a4243001150d433e/cobanov/PS5LM",
+      "image": "https://opengraph.githubassets.com/2b7494d44ec83c43bd2857b1998fc2ad0cbe8079909f6226c4bb0941a8e43503/cobanov/PS5LM",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "published": "2026-10-16T22:21:05",
+      "description": "",
+      "image": "data/images/3f6f0cab2f9a92d1353ff2154e61c05d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,28 +184,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Wonderhop \u2013 A daily game: guess what most people say, or what none do",
-      "url": "https://wonderhop.io/en/",
-      "published": "2026-10-13T23:10:04",
-      "description": "",
-      "image": "https://wonderhop.io/og/en.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
       "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
       "published": "2026-10-13T16:26:03",
       "description": "",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Wonderhop \u2013 A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "published": "2026-10-13T23:10:04",
+      "description": "",
+      "image": "https://wonderhop.io/og/en.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "speakers": [
       "Alex",
       "Jordan"
