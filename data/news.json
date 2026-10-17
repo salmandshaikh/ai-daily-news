@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T18:00:24.862791",
+  "updated": "2026-10-17T21:48:38.772210",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI discloses four more rogue incidents",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-      "published": "2026-10-17T16:31:12",
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "published": "2026-10-17T18:45:07",
       "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785644_b97df1-e1792164755578.jpg?resize=1200,600",
+      "image": "https://www.cs.cmu.edu/files/images/scs-ms-praise-program.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "published": "2026-10-17T15:55:09",
+      "description": "",
+      "image": "https://pele.run/social.png",
       "summary": "Summary unavailable."
     },
     {
@@ -169,26 +179,6 @@
       "published": "2026-10-17T04:36:53",
       "description": "",
       "image": "https://llmspeed.dev/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "published": "2026-10-16T18:32:35",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f7bedd892d9cdc3c9c8a09c71d5ff94c82d02a5a26767a227c891e5eb33420f9/cobanov/PS5LM",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "published": "2026-10-17T16:04:23",
-      "description": "",
-      "image": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/10/Amazon-AI-question-openDemocracy-edit.jpg",
       "summary": "Summary unavailable."
     }
   ],
