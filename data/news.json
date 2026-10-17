@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T01:41:27.881418",
+  "updated": "2026-10-17T08:05:51.208274",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "image": "data/images/32715348344fcdaacbd7ff8daed2a3d6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "published": "Thu, 15 Oct 2026 19:00:00 GMT",
@@ -39,16 +49,6 @@
       "published": "Thu, 15 Oct 2026 13:00:00 GMT",
       "description": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
       "image": "data/images/7842d5b22ba90db646c9ebd2047afd8a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
-      "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "image": "data/images/517297f945a53369d0838f444980257e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "published": "2026-10-16T18:32:35",
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "published": "2026-10-17T04:36:53",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2b7494d44ec83c43bd2857b1998fc2ad0cbe8079909f6226c4bb0941a8e43503/cobanov/PS5LM",
+      "image": "https://llmspeed.dev/og.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nine-Inch Snails",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "published": "2026-10-16T22:21:05",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "published": "2026-10-16T18:32:35",
       "description": "",
-      "image": "data/images/3f6f0cab2f9a92d1353ff2154e61c05d.png",
+      "image": "https://opengraph.githubassets.com/b2cb498657dca17e56c1324fcf60200215a32e13092d93f2c90758c6abed4fda/cobanov/PS5LM",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "published": "2026-10-13T16:26:03",
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "published": "2026-10-16T22:21:05",
       "description": "",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
+      "image": "data/images/3f6f0cab2f9a92d1353ff2154e61c05d.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Wonderhop \u2013 A daily game: guess what most people say, or what none do",
-      "url": "https://wonderhop.io/en/",
-      "published": "2026-10-13T23:10:04",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "published": "2026-10-13T16:26:03",
       "description": "",
-      "image": "https://wonderhop.io/og/en.png",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/9047cb38-ed29-428a-aa3a-9991728632eb/thumbnail/1200x630/f1134f093774c326b67141ebeb23935d/ap26285467970644.jpg",
       "summary": "Summary unavailable."
     }
   ],
