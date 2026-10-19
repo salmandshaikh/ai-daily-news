@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:58:17.996902",
+  "updated": "2026-10-19T01:55:00.948306",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "published": "2026-10-18T21:09:12",
+      "description": "",
+      "image": "data/images/fbe32a45a97750f4db08fb5c49e703c4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang/",
       "published": "2026-10-17T22:26:47",
@@ -180,22 +190,12 @@
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "published": "2026-10-18T04:33:49",
-      "description": "",
-      "image": "data/images/1af9e6b57c7f1fd62375e3e2a3612c24.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "speakers": [
       "Alex",
       "Jordan"
