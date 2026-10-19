@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-19T17:49:26.665573",
+  "updated": "2026-10-19T23:11:10.459782",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "image": "data/images/223e61cf8e26b787ff36b130da5f0d48.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,16 +19,6 @@
       "published": "Fri, 16 Oct 2026 19:00:00 GMT",
       "description": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
       "image": "data/images/75e6c8e169ed1be73a2d3a1b2c4422f8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "image": "data/images/32715348344fcdaacbd7ff8daed2a3d6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -34,21 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
-      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "image": "data/images/fbd6e9f543c1873c8cfcb5ba2d467003.png",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "image": "data/images/32715348344fcdaacbd7ff8daed2a3d6.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "description": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "image": "data/images/7842d5b22ba90db646c9ebd2047afd8a.png",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "image": "data/images/fbd6e9f543c1873c8cfcb5ba2d467003.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/a5ad2e3c0f73ea7db823f0711a34c293.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "published": "Fri, 16 Oct 2026 01:44:47 GMT",
@@ -142,36 +152,6 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "CERN and Mistral join forces to accelerate AI for science",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "published": "2026-10-19T15:28:24",
-      "description": "",
-      "image": "data/images/21ac41d126639922d9608fe75dead91f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "published": "2026-10-19T17:27:11",
-      "description": "",
-      "image": "https://framerusercontent.com/images/Zgp1I1AaILVgkXF4Xlk7iImaE.png?width=1200&height=630",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
       "title": "Timestral: Mistral's time-series foundation models",
@@ -184,11 +164,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
-      "published": "2026-10-19T15:52:26",
+      "title": "The fire retardant in the seafood chain",
+      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+      "published": "2026-10-17T19:37:54",
       "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "image": "https://insideclimatenews.org/wp-content/uploads/2026/10/fire-story-still-fire-rotterdam-tug-fights-fire-on-ss-south-america-jpg-w.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,41 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "url": "https://100toolkit.com/blog/deslop-model/",
-      "published": "2026-10-19T13:00:47",
+      "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+      "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+      "published": "2026-10-19T14:31:27",
       "description": "",
-      "image": "https://100toolkit.com/blog/deslop-model/og.png",
+      "image": "https://stealthium.io/images/banners/moon.webp",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "published": "2026-10-18T20:48:14",
+      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+      "published": "2026-10-19T01:56:39",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "published": "2026-10-18T21:09:12",
-      "description": "",
-      "image": "data/images/fbe32a45a97750f4db08fb5c49e703c4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "published": "2026-10-19T14:23:17",
-      "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2851908399_cropped.jpg?w=1600&h=900&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
