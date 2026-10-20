@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T02:12:58.691105",
+  "updated": "2026-10-20T08:55:40.740638",
   "articles": [
     {
       "source": "RSS",
@@ -24,21 +24,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "image": "data/images/16843f56a3d7c918e29625ad94329f13.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "published": "Fri, 16 Oct 2026 00:00:00 GMT",
       "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "image": "data/images/32715348344fcdaacbd7ff8daed2a3d6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
+      "image": "data/images/16843f56a3d7c918e29625ad94329f13.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "published": "2026-10-20T00:53:52",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "published": "2026-10-19T23:22:18",
       "description": "",
-      "image": "data/images/fcae53a5d558611852d9150b5c70c619.png",
+      "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/issues/82345",
+      "published": "2026-10-20T03:05:07",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/e0de7325f0958bc60dbec5dbaa2b9b4590deee095e534c097bf4c3bc57cba2bc/golang/go/issues/82345",
       "summary": "Summary unavailable."
     },
     {
@@ -174,17 +184,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Timestral: Mistral's time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
-      "published": "2026-10-19T09:59:32",
-      "description": "",
-      "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "\u201cbonsoir, Elliot\u201d: How abliterated models can get you pwned",
+      "title": "How abliterated models can get you pwned",
       "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
       "published": "2026-10-19T23:08:52",
       "description": "",
@@ -194,31 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "published": "2026-10-19T23:22:18",
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "url": "https://heymaxwell.ai/",
+      "published": "2026-10-19T13:47:56",
       "description": "",
-      "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The fire retardant in the seafood chain",
-      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-      "published": "2026-10-17T19:37:54",
-      "description": "",
-      "image": "https://insideclimatenews.org/wp-content/uploads/2026/10/fire-story-still-fire-rotterdam-tug-fights-fire-on-ss-south-america-jpg-w.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "published": "2026-10-19T10:53:39",
-      "description": "",
-      "image": "https://global.discourse-cdn.com/letsencrypt/original/3X/4/c/4c5760509a18adfc3bc657ba8bd49b301faaa66b.png",
+      "image": "https://heymaxwell.ai/og/og-dark.jpg",
       "summary": "Summary unavailable."
     }
   ],
