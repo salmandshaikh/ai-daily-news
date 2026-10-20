@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T08:55:40.740638",
+  "updated": "2026-10-20T15:53:01.408358",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,46 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "published": "Tue, 20 Oct 2026 15:19:48 GMT",
+      "description": "",
+      "image": "data/images/d0041e7400935f3d86ec4fd17dde19aa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/e0587022968d9dc9c41604c6130aa285.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/0e506dc6912057dd8dcd08945c072a66.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/889c71b70e74d877afefa6b84bb21009.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "url": "https://huggingface.co/blog/hf-torchneuron",
       "published": "Mon, 19 Oct 2026 00:00:00 GMT",
@@ -112,43 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "published": "Fri, 16 Oct 2026 01:44:47 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "published": "2026-10-20T13:06:22",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "url": "https://jevcards.com",
+      "published": "2026-10-20T15:11:56",
       "description": "",
-      "image": "data/images/345c5107e6740de3b33f059c124b2c92.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "published": "Thu, 15 Oct 2026 20:34:01 GMT",
-      "description": "",
-      "image": "data/images/aaa79ec80a660c4df13aa269b1ff90d7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "published": "Thu, 15 Oct 2026 09:08:45 GMT",
-      "description": "",
-      "image": "data/images/d25595b29317572b384430c7e2d3ca99.png",
+      "image": "https://jevcards.com/og.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,41 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "url": "https://github.com/golang/go/issues/82345",
-      "published": "2026-10-20T03:05:07",
+      "title": "One Manhattan power room took down FAA air traffic control in 1991",
+      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+      "published": "2026-10-19T14:52:33",
       "description": "",
-      "image": "https://opengraph.githubassets.com/e0de7325f0958bc60dbec5dbaa2b9b4590deee095e534c097bf4c3bc57cba2bc/golang/go/issues/82345",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "published": "2026-10-19T15:31:34",
-      "description": "",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-drone-rs-bd64e5.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How abliterated models can get you pwned",
-      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "published": "2026-10-19T23:08:52",
-      "description": "",
-      "image": "https://projectdiscovery.io/images/ProjectDiscovery_share.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "url": "https://heymaxwell.ai/",
-      "published": "2026-10-19T13:47:56",
-      "description": "",
-      "image": "https://heymaxwell.ai/og/og-dark.jpg",
+      "image": "https://matthorn.io/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
