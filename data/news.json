@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-19T23:11:10.459782",
+  "updated": "2026-10-20T02:12:58.691105",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "title": "Advancing coding in low\u2011resource programming languages",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "published": "Mon, 19 Oct 2026 12:00:00 GMT",
       "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "image": "data/images/223e61cf8e26b787ff36b130da5f0d48.png",
+      "image": "data/images/f3c02bad6e8d8cfa7d0b00278d76309d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "published": "2026-10-20T00:53:52",
+      "description": "",
+      "image": "data/images/fcae53a5d558611852d9150b5c70c619.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "published": "2026-10-19T15:31:34",
+      "description": "",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-drone-rs-bd64e5.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Timestral: Mistral's time-series foundation models",
       "url": "https://mistral.ai/news/timestral/",
       "published": "2026-10-19T09:59:32",
       "description": "",
       "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "\u201cbonsoir, Elliot\u201d: How abliterated models can get you pwned",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "published": "2026-10-19T23:08:52",
+      "description": "",
+      "image": "https://projectdiscovery.io/images/ProjectDiscovery_share.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "published": "2026-10-19T23:22:18",
+      "description": "",
+      "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -180,32 +220,12 @@
       "description": "",
       "image": "https://global.discourse-cdn.com/letsencrypt/original/3X/4/c/4c5760509a18adfc3bc657ba8bd49b301faaa66b.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-      "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-      "published": "2026-10-19T14:31:27",
-      "description": "",
-      "image": "https://stealthium.io/images/banners/moon.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-      "published": "2026-10-19T01:56:39",
-      "description": "",
-      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2851908399_cropped.jpg?w=1600&h=900&fit=crop",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "speakers": [
       "Alex",
       "Jordan"
