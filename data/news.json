@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-20T15:53:01.408358",
+  "updated": "2026-10-20T19:41:13.127886",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "description": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "image": "data/images/7d2a3ce8c8ad5d1209a3523ef862a6ef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "image": "data/images/669645580843e9aa624f0a3bed68d551.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Fri, 16 Oct 2026 00:00:00 GMT",
       "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "image": "data/images/32715348344fcdaacbd7ff8daed2a3d6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10\u00d7 growth in agent creation.",
-      "image": "data/images/16843f56a3d7c918e29625ad94329f13.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
-      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "image": "data/images/fbd6e9f543c1873c8cfcb5ba2d467003.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "published": "Tue, 20 Oct 2026 18:17:47 GMT",
+      "description": "",
+      "image": "data/images/d8b610fca741998d4196e0abaca532c7.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "published": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "description": "",
+      "image": "data/images/730285e9625ebf97d56cdaa87d2ee34d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
       "published": "Tue, 20 Oct 2026 15:19:48 GMT",
@@ -132,23 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "published": "2026-10-20T09:08:54",
       "description": "",
-      "image": "data/images/889c71b70e74d877afefa6b84bb21009.png",
+      "image": "https://opengraph.githubassets.com/9575da50294bbb33738a7fb169c7caf5217ad96889d2be2ae0823962f0985607/deepseek-ai/DeepInfer",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "published": "2026-10-20T15:06:08",
       "description": "",
-      "image": "data/images/a5ad2e3c0f73ea7db823f0711a34c293.png",
+      "image": "data/images/ed516baa15152c421103003cdf8d5fbe.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,31 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "url": "https://jevcards.com",
-      "published": "2026-10-20T15:11:56",
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "published": "2026-10-20T12:43:05",
       "description": "",
-      "image": "https://jevcards.com/og.png",
+      "image": "data/images/4763d89fd0e59eec8c182b253542ec38.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "published": "2026-10-19T23:22:18",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "published": "2026-10-20T17:48:29",
       "description": "",
-      "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "One Manhattan power room took down FAA air traffic control in 1991",
-      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
-      "published": "2026-10-19T14:52:33",
-      "description": "",
-      "image": "https://matthorn.io/og-image.png",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/187c8077329b22f6bd02c5648ea58749af892e8c-1200x630.jpg",
       "summary": "Summary unavailable."
     }
   ],
