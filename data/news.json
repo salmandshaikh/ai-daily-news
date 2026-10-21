@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:45:29.087433",
+  "updated": "2026-10-21T02:06:58.394651",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "description": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "image": "data/images/7d2a3ce8c8ad5d1209a3523ef862a6ef.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "description": "Terminal X\u2019s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund\u2019s mandate with GPT-6.1 Sol.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Fri, 16 Oct 2026 19:00:00 GMT",
       "description": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
       "image": "data/images/75e6c8e169ed1be73a2d3a1b2c4422f8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "image": "data/images/32715348344fcdaacbd7ff8daed2a3d6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,58 +154,48 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "published": "2026-10-21T01:45:07",
+      "description": "",
+      "image": "https://unsung.aresluna.org/_media/good-type-against-all-odds/ogimage.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "published": "2026-10-20T09:08:54",
       "description": "",
-      "image": "https://opengraph.githubassets.com/35466fdb6e46b41ac45016144204a926ae200d19fd1cc087f9d5ffdd1fa474b4/deepseek-ai/DeepInfer",
+      "image": "https://opengraph.githubassets.com/def992bb292ca2710c1c0729181644ade5dcfebd8069ede3d031e4fa0bb07136/deepseek-ai/DeepInfer",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "On AI writing",
-      "url": "https://www.bolkunov.com/p/on-ai-writing",
-      "published": "2026-10-20T19:55:11",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "published": "2026-10-20T17:10:31",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!LB-2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37a3e83d-e864-4a44-89f0-927f6dbf34e2_2050x1524.png",
+      "image": "https://research.poh.org/images/heatmap.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "published": "2026-10-20T17:48:29",
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "published": "2026-10-18T17:40:56",
       "description": "",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/187c8077329b22f6bd02c5648ea58749af892e8c-1200x630.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "published": "2026-10-20T15:06:08",
-      "description": "",
-      "image": "data/images/ed516baa15152c421103003cdf8d5fbe.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "published": "2026-10-20T13:06:22",
-      "description": "",
-      "image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
+      "image": "data/images/00ad7d22b2b5f4710b20c96f1f862394.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "speakers": [
       "Alex",
       "Jordan"
