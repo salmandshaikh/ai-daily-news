@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-21T16:10:23.356080",
+  "updated": "2026-10-21T22:50:12.114438",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "image": "data/images/afdf81e90fc472d49035ff54cc53771e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "image": "data/images/2e7b1f6ee246aa8926b3d9c8ec688dc2.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -28,26 +48,6 @@
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "published": "Wed, 21 Oct 2026 13:00:00 GMT",
       "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "published": "Wed, 21 Oct 2026 04:50:00 GMT",
-      "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "image": "data/images/fabb2275514018528256ca5e37f954bb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "description": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
@@ -104,8 +104,28 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "Wed, 21 Oct 2026 18:26:30 GMT",
+      "description": "",
+      "image": "data/images/fb8088430bbc11bfdd4cd9bb09acc842.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT",
+      "description": "",
+      "image": "data/images/a4a599b501f258038b023f8cdb084e6c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "published": "Wed, 21 Oct 2026 16:04:43 GMT",
       "description": "",
       "image": "data/images/4e5930463be9fa7f306b8f21af2fa226.png",
@@ -124,16 +144,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "published": "Wed, 21 Oct 2026 12:51:24 GMT",
-      "description": "",
-      "image": "data/images/20cdf16cbc2f42e17388ab61bf3d01a0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "url": "https://huggingface.co/blog/allenai/fairstress",
       "published": "Tue, 20 Oct 2026 16:09:19 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "published": "Tue, 20 Oct 2026 15:19:48 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Railway Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "published": "2026-10-21T21:58:03",
       "description": "",
-      "image": "data/images/d0041e7400935f3d86ec4fd17dde19aa.png",
+      "image": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "published": "2026-10-21T13:43:19",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "published": "2026-10-21T12:53:11",
       "description": "",
-      "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
       "summary": "Summary unavailable."
     },
     {
@@ -179,46 +189,6 @@
       "published": "2026-10-21T13:37:00",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "url": "https://layerfs.ai/",
-      "published": "2026-10-21T12:34:46",
-      "description": "",
-      "image": "https://layerfs.ai/github-preview.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "C++ futures part 1: The mental model",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
-      "published": "2026-10-19T18:05:53",
-      "description": "",
-      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "published": "2026-10-21T14:11:14",
-      "description": "",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5FBPSP6GA0RRJ5FDQ68S476.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "published": "2026-10-21T01:45:07",
-      "description": "",
-      "image": "https://unsung.aresluna.org/_media/good-type-against-all-odds/ogimage.jpg",
       "summary": "Summary unavailable."
     }
   ],
