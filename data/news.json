@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-22T08:59:14.562792",
+  "updated": "2026-10-22T16:08:01.156827",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "published": "Thu, 22 Oct 2026 06:00:00 GMT",
+      "description": "What forward deployed engineering means at OpenAI",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "published": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "source_name": "Google DeepMind News",
+      "title": "Beyond tree cover: mapping the world\u2019s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published": "Thu, 22 Oct 2026 14:30:24 +0000",
+      "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "image": "data/images/ee67fa47b90016221e8d8dcec9f5ff74.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Tue, 13 Oct 2026 16:01:58 +0000",
       "description": "",
       "image": "data/images/8725db0af86cff3fde8f09c3dade5ccf.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "published": "Tue, 13 Oct 2026 16:01:52 +0000",
-      "description": "",
-      "image": "data/images/3b27b7dfa32ff0e1075752193bdd9f03.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "published": "2026-10-22T08:01:52",
+      "description": "",
+      "image": "data/images/01d77476a7ecd253c8c2ed535a1f95df.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "url": "https://simedw.com/2026/10/21/world-model-terminal/",
       "published": "2026-10-22T02:18:41",
@@ -164,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
-      "published": "2026-10-22T05:23:11",
+      "title": "The painter behind Manhattan\u2019s Gilded Age interiors",
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "published": "2026-10-20T23:09:43",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2828ca5c7f6507d85a300f0e3b92ef96ef831cbce811aadd4a071c759eddb619/openai/openai-cli",
+      "image": "https://engelsbergideas.com/wp-content/uploads/2026/10/Rose-Main-Reading-Room-New-York-Public-Library.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "published": "2026-10-22T11:12:37",
+      "description": "",
+      "image": "https://www.phoronix.net/image.php?id=2026&image=public_zdi",
       "summary": "Summary unavailable."
     },
     {
@@ -189,26 +209,6 @@
       "published": "2026-10-21T04:27:51",
       "description": "",
       "image": "data/images/62f5202bd86aa1e2a494a2cf0e1a08e1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "published": "2026-10-21T12:53:11",
-      "description": "",
-      "image": "data/images/05487dee355f9ce4dd4947043bf5723b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "published": "2026-10-19T16:06:22",
-      "description": "",
-      "image": "https://s0.wp.com/i/blank.jpg",
       "summary": "Summary unavailable."
     }
   ],
