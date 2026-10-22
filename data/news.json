@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T02:01:12.957898",
+  "updated": "2026-10-22T08:59:14.562792",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT",
+      "description": "",
+      "image": "data/images/4ede2cad36e32aa48ed1e0099a062ecc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "url": "https://huggingface.co/blog/nvidia/kumo-relational",
       "published": "Wed, 21 Oct 2026 18:26:30 GMT",
@@ -142,23 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "published": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "published": "2026-10-22T02:18:41",
       "description": "",
-      "image": "data/images/730285e9625ebf97d56cdaa87d2ee34d.png",
+      "image": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Railway Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "published": "2026-10-21T21:58:03",
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "published": "2026-10-22T05:23:11",
       "description": "",
-      "image": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90",
+      "image": "https://opengraph.githubassets.com/2828ca5c7f6507d85a300f0e3b92ef96ef831cbce811aadd4a071c759eddb619/openai/openai-cli",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +184,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "published": "2026-10-19T16:06:22",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "published": "2026-10-21T04:27:51",
       "description": "",
-      "image": "https://s0.wp.com/i/blank.jpg",
+      "image": "data/images/62f5202bd86aa1e2a494a2cf0e1a08e1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -188,27 +198,17 @@
       "url": "https://openai.com/index/openai-models-google-cloud/",
       "published": "2026-10-21T12:53:11",
       "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
+      "image": "data/images/05487dee355f9ce4dd4947043bf5723b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "published": "2026-10-21T23:38:32",
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "published": "2026-10-19T16:06:22",
       "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "published": "2026-10-21T13:37:00",
-      "description": "",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/5Uhfx9LWwXWN8zKg7a6aNi/021edebfedf0c6f9638f929ba23900ab/scaling-ai-biological-data-social.png?w=1600&h=900&fit=fill",
+      "image": "https://s0.wp.com/i/blank.jpg",
       "summary": "Summary unavailable."
     }
   ],
