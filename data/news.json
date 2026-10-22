@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T22:50:12.114438",
+  "updated": "2026-10-22T02:01:12.957898",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "published": "2026-10-19T16:06:22",
+      "description": "",
+      "image": "https://s0.wp.com/i/blank.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
       "published": "2026-10-21T12:53:11",
       "description": "",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "published": "2026-10-21T23:38:32",
+      "description": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
       "summary": "Summary unavailable."
     },
     {
@@ -195,7 +215,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "speakers": [
       "Alex",
       "Jordan"
