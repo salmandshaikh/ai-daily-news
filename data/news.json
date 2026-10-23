@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:25:15.000385",
+  "updated": "2026-10-23T19:39:46.452224",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Fri, 23 Oct 2026 17:00:00 GMT",
       "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
       "image": "data/images/2c84820b4c1050ebb7c1ee871e105ba1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "description": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "image": "data/images/4083acb6efef9c1dbbde65e937b1dc99.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Thu, 22 Oct 2026 06:00:00 GMT",
       "description": "What forward deployed engineering means at OpenAI",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "description": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "image": "data/images/b9a9178c64e2518cfe8f6c2497e65dc6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-      "published": "2026-10-23T08:21:29",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "published": "2026-10-23T17:28:36",
       "description": "",
-      "image": "https://www.tvfandomlounge.com/wp-content/uploads/2026/09/disney-plus-shows-2026.jpg",
+      "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "url": "https://www.thisandthat.chat/enron/",
-      "published": "2026-10-23T12:02:53",
+      "title": "We have traits at home",
+      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "published": "2026-10-22T23:24:17",
       "description": "",
-      "image": "data/images/efa3aeddd950aa0fa4a64955e593a14a.png",
+      "image": "data/images/9656461ede2826505a252f73eefac76c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,46 +179,6 @@
       "published": "2026-10-22T13:25:01",
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "published": "2026-10-22T16:08:00",
-      "description": "",
-      "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=1m7naoq",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "published": "2026-10-22T17:44:06",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/85429947512eaa84865ddbad2d7ca8f2a9350abbb6ce2691b084ea71476efecd/NVIDIA/OpenShell",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "published": "2026-10-22T02:18:41",
-      "description": "",
-      "image": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "published": "2026-10-22T22:54:43",
-      "description": "",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
       "summary": "Summary unavailable."
     }
   ],
