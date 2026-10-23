@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-23T08:53:17.749075",
+  "updated": "2026-10-23T16:25:15.000385",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
+      "image": "data/images/2c84820b4c1050ebb7c1ee871e105ba1.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 22 Oct 2026 00:00:00 GMT",
       "description": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
       "image": "data/images/b9a9178c64e2518cfe8f6c2497e65dc6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "published": "Wed, 21 Oct 2026 17:00:00 GMT",
-      "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "image": "data/images/afdf81e90fc472d49035ff54cc53771e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,21 +104,31 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "published": "Fri, 23 Oct 2026 16:15:50 GMT",
       "description": "",
-      "image": "data/images/599073cc9bdadd0759fbe6640d9697e7.png",
+      "image": "data/images/7dfd13398f279a12fb45342c4a7a15ae.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "published": "Thu, 22 Oct 2026 16:11:31 GMT",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/8b2167c5cf9de949695c068e243698b7.png",
+      "image": "data/images/54704316f7deef1659f2abfb2aca02d8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "description": "",
+      "image": "data/images/599073cc9bdadd0759fbe6640d9697e7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "published": "Wed, 21 Oct 2026 17:35:36 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "published": "2026-10-23T08:21:29",
       "description": "",
-      "image": "data/images/a4a599b501f258038b023f8cdb084e6c.png",
+      "image": "https://www.tvfandomlounge.com/wp-content/uploads/2026/09/disney-plus-shows-2026.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "url": "https://www.thisandthat.chat/enron/",
+      "published": "2026-10-23T12:02:53",
+      "description": "",
+      "image": "data/images/efa3aeddd950aa0fa4a64955e593a14a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,31 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "published": "2026-10-22T17:44:06",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/7ebac1780e63641631164966e98343841f2d046d7d631b2d6996f3d5d336edb8/NVIDIA/OpenShell",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "published": "2026-10-22T16:08:00",
       "description": "",
-      "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0",
+      "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=1m7naoq",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "published": "2026-10-22T22:54:43",
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "published": "2026-10-22T17:44:06",
       "description": "",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
+      "image": "https://opengraph.githubassets.com/85429947512eaa84865ddbad2d7ca8f2a9350abbb6ce2691b084ea71476efecd/NVIDIA/OpenShell",
       "summary": "Summary unavailable."
     },
     {
@@ -204,21 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We have traits at home",
-      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
-      "published": "2026-10-22T23:24:17",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "published": "2026-10-22T22:54:43",
       "description": "",
-      "image": "data/images/9656461ede2826505a252f73eefac76c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Railpass",
-      "url": "https://train.samismith.com/",
-      "published": "2026-10-22T21:38:32",
-      "description": "",
-      "image": "https://train.samismith.com/img/railpass-card.jpg",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
       "summary": "Summary unavailable."
     }
   ],
