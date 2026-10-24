@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:07:27.591529",
+  "updated": "2026-10-24T02:03:58.772787",
   "articles": [
     {
       "source": "RSS",
@@ -174,11 +174,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A whirlwind tour of systemd-nspawn containers",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "published": "2026-10-23T17:28:36",
+      "description": "",
+      "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "published": "2026-10-20T15:41:28",
+      "description": "",
+      "image": "https://www.cam.ac.ukGettyImages-1359393158 dp.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
       "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
       "published": "2026-10-23T20:37:12",
       "description": "",
-      "image": "data/images/f7ba8eab1f444cff8c75e8db5cd087f7.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -190,22 +210,12 @@
       "description": "",
       "image": "data/images/4083acb6efef9c1dbbde65e937b1dc99.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "published": "2026-10-23T17:28:36",
-      "description": "",
-      "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "speakers": [
       "Alex",
       "Jordan"
