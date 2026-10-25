@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:05:56.988475",
+  "updated": "2026-10-25T18:35:33.743620",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "published": "2026-10-25T14:05:03",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "published": "2026-10-25T17:15:38",
       "description": "",
-      "image": "data/images/9ff7a040f6a2e083b5a522c67ca6ab82.png",
+      "image": "data/images/e72b00284d7bd3e5006d3b91785d5350.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "published": "2026-10-25T16:28:26",
+      "description": "",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/9/44/944d84f9-b521-443c-ae42-3811a39ea788/6adac8999d0f1.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
       "summary": "Summary unavailable."
     },
     {
@@ -174,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-      "published": "2026-10-25T10:42:01",
+      "title": "A Mathematician Reads the AI Future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "published": "2026-10-25T16:31:21",
       "description": "",
-      "image": "https://pbs.twimg.com/media/HVb1282bgAAg6jY?format=webp&name=large",
+      "image": "data/images/b6aa06730fbbefd92ad0b612e2784f87.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Flapping Airplanes",
+      "url": "https://flappingairplanes.com/",
+      "published": "2026-10-22T03:06:36",
+      "description": "",
+      "image": "data/images/5758d8c3c472d620362dfe4b31a0a623.png",
       "summary": "Summary unavailable."
     },
     {
@@ -189,26 +209,6 @@
       "published": "2026-10-25T09:51:17",
       "description": "",
       "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-12-image-4.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "published": "2026-10-24T23:11:54",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "published": "2026-10-24T15:57:17",
-      "description": "",
-      "image": "https://actu.epfl.ch/image/168660/1440x810.jpg",
       "summary": "Summary unavailable."
     }
   ],
