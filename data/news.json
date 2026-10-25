@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:50:40.541762",
+  "updated": "2026-10-25T08:46:37.004248",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,17 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "published": "2026-10-25T01:33:49",
+      "description": "",
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "published": "2026-10-24T23:11:54",
       "description": "",
@@ -164,11 +174,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
-      "published": "2026-10-21T22:17:12",
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "published": "2026-10-22T13:20:04",
       "description": "",
-      "image": "https://xingjianbai.com/reactive-optimizers/preview.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +194,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "published": "2026-10-24T19:47:19",
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "published": "2026-10-22T12:50:43",
       "description": "",
-      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "image": "https://polygonjs.com/scenes/0f4c6a49-1624-499d-a4f0-d5b630ea6b05/screenshot",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "published": "2026-10-24T15:35:17",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "published": "2026-10-25T03:56:01",
       "description": "",
-      "image": "data/images/5863edc77b11b7d2249b690fd5e6a259.png",
+      "image": "https://opengraph.githubassets.com/9d7dac68dfadebbf72e4e7465157f633dab10a49a0f1915dcc59166bb94d9cd6/slee-persis/GVS5H",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "published": "2026-10-20T19:22:39",
+      "description": "",
+      "image": "data/images/8d7a11cdd5ed432b23d94b0eca5c3092.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "published": "2026-10-24T18:04:57",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
