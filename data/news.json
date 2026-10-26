@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:08:18.041768",
+  "updated": "2026-10-26T01:57:05.478993",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "published": "2026-10-25T19:10:36",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "published": "2026-10-25T21:11:31",
       "description": "",
-      "image": "https://www.datocms-assets.com/75231/1792949423-threat-update-mini-worm_custom-1.jpeg?fm=webp",
+      "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "published": "2026-10-23T18:46:00",
+      "description": "",
+      "image": "data/images/e15d188d01c5cc8cd0a5a94b2bba6e60.png",
       "summary": "Summary unavailable."
     },
     {
@@ -178,44 +188,14 @@
       "url": "https://github.com/JetBrains/thinkrail",
       "published": "2026-10-25T16:27:12",
       "description": "",
-      "image": "https://opengraph.githubassets.com/061215f866b51f6cafc3ee19c8472db1ca1d077dfb366b24d8e78da0a5e5ce37/JetBrains/thinkrail",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "published": "2026-10-25T16:28:26",
-      "description": "",
-      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/9/44/944d84f9-b521-443c-ae42-3811a39ea788/6adac8999d0f1.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "published": "2026-10-25T01:33:49",
-      "description": "",
-      "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "published": "2026-10-25T21:11:31",
-      "description": "",
-      "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
+      "image": "https://opengraph.githubassets.com/a56a49b7751f610f96adcbd3eefad825a1e029f2247084ce7e1d3f4d0219fb61/JetBrains/thinkrail",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "speakers": [
       "Alex",
       "Jordan"
