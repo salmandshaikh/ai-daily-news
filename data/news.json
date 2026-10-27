@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T23:51:25.616746",
+  "updated": "2026-10-27T02:49:28.925386",
   "articles": [
     {
       "source": "RSS",
@@ -184,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "published": "2026-10-22T19:52:50",
+      "description": "",
+      "image": "data/images/0a0bae0deaf81139ddfa91214167f660.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
       "url": "https://github.com/FrigadeHQ/hob",
       "published": "2026-10-26T16:12:29",
@@ -194,28 +204,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "published": "2026-10-23T22:04:55",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "published": "2026-10-26T12:59:48",
       "description": "",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0pj6qr2.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "published": "2026-10-22T19:52:50",
-      "description": "",
-      "image": "data/images/0a0bae0deaf81139ddfa91214167f660.png",
+      "image": "https://cdn.prod.website-files.com/64f9d9b4e737e7b37d4e39a4/6ace25a7011f2d0bca7a06ea_LLM-inference.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "speakers": [
       "Alex",
       "Jordan"
