@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T02:49:28.925386",
+  "updated": "2026-10-27T09:23:53.162670",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "published": "2026-10-27T06:25:37",
+      "description": "",
+      "image": "https://j11g.com/content/images/cern-resized.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
       "published": "2026-10-26T15:11:59",
@@ -174,16 +184,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "published": "2026-10-26T18:01:17",
-      "description": "",
-      "image": "data/images/dbda5dcebc24f31f65d4e3820e56a008.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Blaise Pascal invented fixed route public transport (2024)",
       "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
       "published": "2026-10-22T19:52:50",
@@ -194,21 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "published": "2026-10-26T16:12:29",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "published": "2026-10-26T18:01:17",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fixing Tool-Call Accuracy in vLLM",
-      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "published": "2026-10-26T12:59:48",
-      "description": "",
-      "image": "https://cdn.prod.website-files.com/64f9d9b4e737e7b37d4e39a4/6ace25a7011f2d0bca7a06ea_LLM-inference.png",
+      "image": "data/images/dbda5dcebc24f31f65d4e3820e56a008.png",
       "summary": "Summary unavailable."
     }
   ],
