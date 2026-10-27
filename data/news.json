@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-27T17:18:33.511130",
+  "updated": "2026-10-27T23:17:29.565194",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "published": "Tue, 27 Oct 2026 15:00:00 GMT",
+      "description": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "image": "data/images/083dc1d9262939d2ae80f27a7945c885.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Tue, 27 Oct 2026 07:00:00 GMT",
       "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
       "image": "data/images/b3cf25b4ed2dffa719c209d790aa1e61.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "description": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "image": "data/images/600848025bdbde4e08c0349c1d9659f0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Mon, 26 Oct 2026 14:30:00 GMT",
       "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
       "image": "data/images/14c65b18171cb002f3d827b0bfd74e47.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "published": "Mon, 26 Oct 2026 13:45:00 GMT",
-      "description": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "image": "data/images/1e7b1530bd749ea0bd85233fc783f8b0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ChatGPT\u2019s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "description": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "image": "data/images/7ed0057904c9cfeb4d54b9c517cfd7ea.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "published": "2026-10-27T16:40:15",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "published": "2026-10-27T19:55:21",
       "description": "",
-      "image": "data/images/a069e83020a969900600802bc6d9e0ae.png",
+      "image": "https://tailscale.com/files/images/og-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "published": "2026-10-27T19:55:06",
+      "description": "",
+      "image": "https://www.brangus.io/survival-llm/social-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "published": "2026-10-27T20:48:49",
+      "description": "",
+      "image": "https://bret.dk/wp-content/uploads/2026/10/image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "published": "2026-10-27T16:25:12",
+      "title": "One year of Dioxus fullstack in production: the good, the painful",
+      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+      "published": "2026-10-27T21:19:15",
       "description": "",
-      "image": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run-og.png",
+      "image": "https://oxidt.com/blog/og/post/one-year-of-dioxus-fullstack-in-production-the-good-the-painful.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-      "published": "2026-10-27T16:38:08",
+      "title": "Hex Raises $100M",
+      "url": "https://hex.tech/blog/hex-new-era/",
+      "published": "2026-10-27T20:36:38",
       "description": "",
-      "image": "https://media.wired.com/photos/6acf8c83ca8681083870745e/191:100/w_1280,c_limit/GettyImages-2253183585.jpg",
+      "image": "https://cdn.sanity.io/images/e92memrj/production/e4ceb1ed89c009f5c5fe1a73f13b13086eb14608-1800x930.png?w=1200&auto=format",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "published": "2026-10-27T16:25:30",
+      "description": "",
+      "image": "https://futurism.com/wp-content/uploads/2026/07/amazon-gutting-ai-division-failure.jpg?w=1200",
       "summary": "Summary unavailable."
     },
     {
@@ -199,26 +229,6 @@
       "published": "2026-10-27T15:28:26",
       "description": "",
       "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "published": "2026-10-27T06:25:37",
-      "description": "",
-      "image": "https://j11g.com/content/images/cern-resized.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Is my data used for model training?",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "published": "2026-10-27T13:56:15",
-      "description": "",
-      "image": "https://privacy.claude.com/assets/favicon",
       "summary": "Summary unavailable."
     }
   ],
