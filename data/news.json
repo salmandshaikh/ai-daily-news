@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-27T09:23:53.162670",
+  "updated": "2026-10-27T17:18:33.511130",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "image": "data/images/b3cf25b4ed2dffa719c209d790aa1e61.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "description": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "image": "data/images/c6bcbae10827e7818acba687b967da5b.png",
+      "source_name": "Google DeepMind News",
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published": "Tue, 27 Oct 2026 16:01:38 +0000",
+      "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "image": "data/images/a58d6928403a01683c77f88775124987.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,22 +103,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "published": "Tue, 13 Oct 2026 16:01:58 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "published": "Tue, 27 Oct 2026 17:16:52 GMT",
       "description": "",
-      "image": "data/images/8725db0af86cff3fde8f09c3dade5ccf.png",
+      "image": "data/images/6d2d6cf627a439051de4bc0c79bb0a31.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "published": "Fri, 23 Oct 2026 16:15:50 GMT",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "published": "Tue, 27 Oct 2026 16:12:42 GMT",
       "description": "",
-      "image": "data/images/7dfd13398f279a12fb45342c4a7a15ae.png",
+      "image": "data/images/a9453f6b3548135b60c5eab8a8ff850e.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,13 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "published": "Wed, 21 Oct 2026 18:26:30 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "published": "2026-10-27T16:40:15",
       "description": "",
-      "image": "data/images/fb8088430bbc11bfdd4cd9bb09acc842.png",
+      "image": "data/images/a069e83020a969900600802bc6d9e0ae.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "published": "2026-10-27T11:08:15",
+      "description": "",
+      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "published": "2026-10-27T16:25:12",
+      "description": "",
+      "image": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run-og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "published": "2026-10-27T16:38:08",
+      "description": "",
+      "image": "https://media.wired.com/photos/6acf8c83ca8681083870745e/191:100/w_1280,c_limit/GettyImages-2253183585.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "published": "2026-10-27T15:28:26",
+      "description": "",
+      "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,41 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "published": "2026-10-26T15:11:59",
+      "title": "Is my data used for model training?",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "published": "2026-10-27T13:56:15",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!1SoS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F519db120-1320-411b-adec-a88865345f2c_4083x2916.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "published": "2026-10-26T22:41:48",
-      "description": "",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "published": "2026-10-22T19:52:50",
-      "description": "",
-      "image": "data/images/0a0bae0deaf81139ddfa91214167f660.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "published": "2026-10-26T18:01:17",
-      "description": "",
-      "image": "data/images/dbda5dcebc24f31f65d4e3820e56a008.png",
+      "image": "https://privacy.claude.com/assets/favicon",
       "summary": "Summary unavailable."
     }
   ],
