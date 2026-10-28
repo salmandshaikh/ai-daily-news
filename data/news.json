@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-28T10:04:23.912016",
+  "updated": "2026-10-28T17:28:09.244530",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "image": "data/images/e5b85c7b3a9551c46abf0a07514c9047.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "image": "data/images/e5b85c7b3a9551c46abf0a07514c9047.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -33,22 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "published": "Mon, 26 Oct 2026 22:00:00 GMT",
-      "description": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "image": "data/images/46403a5635a38ff39780cbf4c61775a0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "published": "Mon, 26 Oct 2026 14:30:00 GMT",
-      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
-      "image": "data/images/14c65b18171cb002f3d827b0bfd74e47.png",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published": "Wed, 28 Oct 2026 17:00:58 +0000",
+      "description": "",
+      "image": "data/images/9c4f9dfc95f1f41cf784588a018431ae.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "published": "Tue, 13 Oct 2026 19:43:07 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published": "Wed, 28 Oct 2026 14:58:17 GMT",
       "description": "",
-      "image": "data/images/dbdf445e77431467b7e69d6cebb20067.png",
+      "image": "data/images/58b371ff8b04fbfe623ed6ef1f703634.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,13 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "published": "Thu, 22 Oct 2026 07:51:31 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "published": "2026-10-28T15:46:30",
       "description": "",
-      "image": "data/images/4ede2cad36e32aa48ed1e0099a062ecc.png",
+      "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "published": "2026-10-28T13:41:30",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -169,26 +189,6 @@
       "published": "2026-10-27T19:55:21",
       "description": "",
       "image": "https://tailscale.com/files/images/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "published": "2026-10-27T20:48:49",
-      "description": "",
-      "image": "https://bret.dk/wp-content/uploads/2026/10/image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Spain train crash: 'At least 10 dead' in high-speed collision",
-      "url": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
-      "published": "2026-10-28T09:35:21",
-      "description": "",
-      "image": "data/images/104de97b2b0b2ea737f1f81d33493e96.png",
       "summary": "Summary unavailable."
     }
   ],
