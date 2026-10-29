@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-29T10:29:03.087663",
+  "updated": "2026-10-29T17:38:39.636190",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "Thu, 29 Oct 2026 09:00:00 GMT",
+      "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "image": "data/images/b059ffbc15f35faf09a39eb85907899d.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 27 Oct 2026 15:00:00 GMT",
       "description": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
       "image": "data/images/083dc1d9262939d2ae80f27a7945c885.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "image": "data/images/b3cf25b4ed2dffa719c209d790aa1e61.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,46 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published": "Thu, 29 Oct 2026 13:37:07 GMT",
+      "description": "",
+      "image": "data/images/f1ad7b7d93beb31276877111799e860e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/98d8419509a0ead8fe5c71691b2cbca9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/186633c748b76f17cc1b4009c190c45e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/bf5ecbf29a87c351a41e73bc425d7f4a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
       "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "published": "Wed, 28 Oct 2026 14:58:17 GMT",
@@ -112,89 +152,39 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "published": "Tue, 27 Oct 2026 17:16:52 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "published": "2026-10-29T15:06:17",
       "description": "",
-      "image": "data/images/6d2d6cf627a439051de4bc0c79bb0a31.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "published": "Tue, 27 Oct 2026 16:12:42 GMT",
-      "description": "",
-      "image": "data/images/a9453f6b3548135b60c5eab8a8ff850e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/54704316f7deef1659f2abfb2aca02d8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published": "Thu, 22 Oct 2026 22:24:34 GMT",
-      "description": "",
-      "image": "data/images/599073cc9bdadd0759fbe6640d9697e7.png",
+      "image": "https://trakkr.ai/images/research/og/zombie-stats.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "published": "2026-10-29T06:47:28",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "published": "2026-10-29T14:57:55",
       "description": "",
-      "image": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/pwnie-award-2026.webp",
+      "image": "https://martinfowler.com/logo-sq.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "published": "2026-10-26T21:24:18",
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "published": "2026-10-29T10:42:41",
       "description": "",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+      "image": "https://cdn.prod.website-files.com/6a146a5aca0b1a41051708a5/6adf6b3b5ddc1bc1311cd370_6a32a0cab8a1061a5787637e_17.jpeg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "published": "2026-10-29T03:33:42",
-      "description": "",
-      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nixpkgs for the Front End Impaired",
-      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-      "published": "2026-10-26T15:00:05",
-      "description": "",
-      "image": "data/images/b7fc79169fc6a429c27672f0dcb6b9ac.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
+      "title": "What we know so far about Spain train crash",
       "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
       "published": "2026-10-29T08:55:08",
       "description": "",
@@ -204,11 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "published": "2026-10-28T15:46:30",
+      "title": "Everything Rhymes with Porcelain",
+      "url": "https://worksinprogress.co/issue/everything-rhymes-with-porcelain/",
+      "published": "2026-10-27T16:25:45",
       "description": "",
-      "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
+      "image": "https://worksinprogress.co/wip-image/uploads/2026/10/Porcelein_Sharecard_02.jpg",
       "summary": "Summary unavailable."
     }
   ],
