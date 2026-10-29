@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:41:00.005195",
+  "updated": "2026-10-29T02:59:53.669528",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Nixpkgs for the Front End Impaired",
+      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "published": "2026-10-26T15:00:05",
+      "description": "",
+      "image": "data/images/b7fc79169fc6a429c27672f0dcb6b9ac.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
       "url": "https://surgehq.ai/blog/dayjob-tax",
       "published": "2026-10-28T15:46:30",
@@ -175,7 +185,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "speakers": [
       "Alex",
       "Jordan"
