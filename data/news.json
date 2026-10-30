@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-30T17:17:17.471813",
+  "updated": "2026-10-30T23:19:41.387759",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "image": "data/images/452f8101b532f7d336ef185b34d33fe5.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +19,16 @@
       "published": "Fri, 30 Oct 2026 09:00:00 GMT",
       "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
       "image": "data/images/3240efa547a794efae0a74fc3e65a992.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "image": "data/images/eaa850831e84696de80938626cdea0f0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Thu, 29 Oct 2026 09:00:00 GMT",
       "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
       "image": "data/images/b059ffbc15f35faf09a39eb85907899d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "published": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "description": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "image": "data/images/f7b13333156e3a814805c13d4c0f9b6e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "description": "Credit Saison\u2019s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "image": "data/images/36c8caf88163d9c67361769c53bcb207.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "published": "Fri, 30 Oct 2026 17:57:24 GMT",
+      "description": "",
+      "image": "data/images/7d1f31340a3993d3b34618cf522263d0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
       "published": "Thu, 29 Oct 2026 13:37:07 GMT",
@@ -142,19 +152,39 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "published": "Wed, 28 Oct 2026 14:58:17 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "published": "2026-10-30T20:23:30",
       "description": "",
-      "image": "data/images/58b371ff8b04fbfe623ed6ef1f703634.png",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CGTKMVCJ3II6DM4QQY75UQKYRQ.jpg?auth=1665db2d602a73cebcb708de2cff81cdafb1dff34e84e5e1b3f511472b91079a&width=1440",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+      "title": "AO3 Down for Maintenance",
+      "url": "https://www.otwstatus.org",
+      "published": "2026-10-30T21:17:23",
+      "description": "",
+      "image": "data/images/f97e2044fc996a21dd4d0840bdbf5302.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "published": "2026-10-29T21:58:34",
+      "description": "",
+      "image": "https://pbs.twimg.com/media/HVw2CyXa8AEa29n?format=webp&name=large",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "published": "2026-10-30T15:52:18",
       "description": "",
@@ -164,41 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-      "published": "2026-10-30T12:08:00",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "published": "2026-10-28T12:24:25",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "published": "2026-10-30T15:39:05",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "published": "2026-10-30T14:08:20",
       "description": "",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F4e%2F43296d994303a3c15ef19703ff2e%2Fap26302822880513.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "published": "2026-10-30T16:13:02",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "published": "2026-10-29T21:40:28",
-      "description": "",
-      "image": "https://labs.ycombinator.com/og.png",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
       "summary": "Summary unavailable."
     }
   ],
