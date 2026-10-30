@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-30T10:31:00.039926",
+  "updated": "2026-10-30T17:17:17.471813",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "image": "data/images/3240efa547a794efae0a74fc3e65a992.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -34,21 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published": "Wed, 28 Oct 2026 13:15:00 GMT",
-      "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "image": "data/images/c6eac1e5ce661b6f18533eb80db671a4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "description": "How AI might enter the org chart\u2014beneath, beside, and between us.",
-      "image": "data/images/ba1de328b5d3a60c13db6e9120f39744.png",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "description": "Credit Saison\u2019s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "image": "data/images/36c8caf88163d9c67361769c53bcb207.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,61 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "published": "2026-10-30T15:52:18",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "published": "2026-10-30T12:08:00",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "published": "2026-10-30T15:39:05",
+      "description": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F4e%2F43296d994303a3c15ef19703ff2e%2Fap26302822880513.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "published": "2026-10-30T16:13:02",
+      "description": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "published": "2026-10-29T21:40:28",
       "description": "",
       "image": "https://labs.ycombinator.com/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "published": "2026-10-29T20:32:28",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/97d4f7734ee4af9a014691d119e29edcd15e041fd7730f116864bab9cf7ee904/SheepSeb/tinyworldformer",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "published": "2026-10-29T14:57:55",
-      "description": "",
-      "image": "https://martinfowler.com/logo-sq.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "published": "2026-10-30T01:58:44",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/3a6d74ffc646cd0aef45becc597592b9912ffb260ae8ee5d318d49d43eb92f14/picocss/pico/discussions/754",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "published": "2026-10-29T22:26:38",
-      "description": "",
-      "image": "https://journal.animationstudies.org/media/cover_images/32a1852c-fcda-4630-b063-f82dd00354b3.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "What we know so far about Spain train crash",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "published": "2026-10-29T08:55:08",
-      "description": "",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe69/live/788ac890-d37d-11f1-b441-2b33b063138f.jpg",
       "summary": "Summary unavailable."
     }
   ],
