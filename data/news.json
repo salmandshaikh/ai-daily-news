@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:19:41.387759",
+  "updated": "2026-10-31T02:50:09.826476",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AO3 Down for Maintenance",
-      "url": "https://www.otwstatus.org",
-      "published": "2026-10-30T21:17:23",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "published": "2026-10-30T14:08:20",
       "description": "",
-      "image": "data/images/f97e2044fc996a21dd4d0840bdbf5302.png",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
+      "published": "2026-10-28T17:34:59",
+      "description": "",
+      "image": "https://pdr-assets.b-cdn.net/essays/wonderful-weather/flood-thumb.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -184,16 +194,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "published": "2026-10-30T15:52:18",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
       "published": "2026-10-28T12:24:25",
@@ -204,18 +204,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "published": "2026-10-30T14:08:20",
+      "title": "AO3 Down for Maintenance",
+      "url": "https://www.otwstatus.org",
+      "published": "2026-10-30T21:17:23",
       "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
+      "image": "data/images/f97e2044fc996a21dd4d0840bdbf5302.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "published": "2026-10-30T15:52:18",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "speakers": [
       "Alex",
       "Jordan"
