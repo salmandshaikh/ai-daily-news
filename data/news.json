@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:22:10.931635",
+  "updated": "2026-10-31T22:53:34.204590",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "published": "2026-10-31T14:29:03",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "published": "2026-10-31T12:58:29",
       "description": "",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
+      "image": "https://opengraph.githubassets.com/b111a43ca36dce6b6a31058f06c1a60b07092864d0d77acfc515d6cf67d1c9da/kerlenton/bootgpt",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We Took over ChatGPT Accounts",
+      "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "published": "2026-10-31T10:30:11",
       "description": "",
       "image": "https://www.parameter.ai/opengraph-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "published": "2026-10-31T19:39:19",
+      "description": "",
+      "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+      "url": "https://oqtadrive.org/10.other/5-years/",
+      "published": "2026-10-30T08:30:03",
+      "description": "",
+      "image": "data/images/e181e703873417f658b3f26660e8f3d3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "published": "2026-10-31T18:50:34",
+      "description": "",
+      "image": "https://ryanmadden.net/img/factorio_rocket_launch_social.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -189,26 +219,6 @@
       "published": "2026-10-29T15:29:48",
       "description": "",
       "image": "data/images/cdaf4d825113bf14370e245a209dddb7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "published": "2026-10-30T14:08:20",
-      "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "How this AI Agent ended +$517.61 in profits during a 10% market sell-off",
-      "url": "https://twitter.com/DeployFinance/status/2116556597082116490",
-      "published": "2026-10-31T15:56:46",
-      "description": "",
-      "image": "https://pbs.twimg.com/media/HV9_bxeWAAAFY4B?format=webp&name=large",
       "summary": "Summary unavailable."
     }
   ],
