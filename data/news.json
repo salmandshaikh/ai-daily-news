@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:42:44.321538",
+  "updated": "2026-11-01T10:51:21.897769",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "published": "2026-10-29T15:20:04",
+      "description": "",
+      "image": "data/images/bb4c17b904b9e5666436968bc7bda51e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
       "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
       "published": "2026-10-31T22:46:12",
       "description": "",
-      "image": "https://opengraph.githubassets.com/29e44f823ba52763187685728e4efcf146c2595960b6019fa53e66af2ed15978/guregodevo/memdoor",
+      "image": "https://opengraph.githubassets.com/2ac451694b697a27f26dd6324ec3be5c832b2f7bf9f7b0098c01208af042994e/guregodevo/memdoor",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "published": "2026-11-01T06:06:19",
+      "description": "",
+      "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "published": "2026-11-01T01:46:29",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "published": "2026-10-31T21:49:07",
+      "description": "",
+      "image": "data/images/f02d55ec1cadc3cf90f69b38e75fead0.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Understanding Email Encryption",
+      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "published": "2026-10-30T20:55:56",
+      "description": "",
+      "image": "https://www.fastmail.com/assets/images/Hero-D2cG6bHcnp-1200.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "published": "2026-10-31T21:50:13",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!EKF2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d292d10-d3ea-4c94-b5a7-2b422b15c140_1672x941.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "published": "2026-10-31T19:39:19",
       "description": "",
       "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: A language model that lives in a boot sector",
-      "url": "https://github.com/kerlenton/bootgpt",
-      "published": "2026-10-31T12:58:29",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/da8fb122da60c86ee8d481f5078562efc2f1c334a5c90bd019e6925b8e2c6cfe/kerlenton/bootgpt",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "published": "2026-10-31T10:21:30",
-      "description": "",
-      "image": "data/images/4378ed039595d4d23e8cc22d9809d7e8.png",
       "summary": "Summary unavailable."
     }
   ],
