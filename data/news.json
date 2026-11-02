@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-02T11:44:27.034740",
+  "updated": "2026-11-02T20:55:18.814304",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "published": "Mon, 02 Nov 2026 15:00:00 GMT",
+      "description": "OpenAI\u2019s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "image": "data/images/4ea0731faa39057f23905ab1f52be712.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "published": "Mon, 02 Nov 2026 09:00:00 GMT",
+      "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "image": "data/images/3c69809c4c9e8e1c1547b7850bbaf4d5.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "description": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "image": "data/images/bb00ed8ce513de3124506ca7c4d79f13.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,36 +49,6 @@
       "published": "Fri, 30 Oct 2026 09:00:00 GMT",
       "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
       "image": "data/images/3240efa547a794efae0a74fc3e65a992.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "image": "data/images/eaa850831e84696de80938626cdea0f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "published": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "description": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "image": "data/images/682c1607ec92b3f7441826f356df4099.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "image": "data/images/b059ffbc15f35faf09a39eb85907899d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,31 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-      "published": "2026-11-02T07:27:28",
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "published": "2026-11-02T18:54:44",
       "description": "",
-      "image": "data/images/8a1d1adbe1cde8958b27873efa5e852c.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "published": "2026-11-01T06:06:19",
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "published": "2026-11-02T19:27:37",
       "description": "",
-      "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
+      "image": "https://image.cnbcfm.com/api/v1/image/108468745-1793103926982-gettyimages-2234722679-_73a3321_cmlbiuj4.jpeg?v=1793642583&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-      "published": "2026-11-01T10:44:20",
+      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+      "published": "2026-11-02T19:36:37",
       "description": "",
-      "image": "https://shkspr.mobi/blog/wp-content/uploads/2019/05/domains.jpg",
+      "image": "data/images/4cccb3dfb9ec962d4bbe0d929f410b81.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "published": "2026-11-02T16:40:29",
+      "description": "",
+      "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Agentic backdoors via pretraining poisoning",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "published": "2026-11-02T18:30:58",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "published": "2026-11-02T14:56:21",
+      "description": "",
+      "image": "https://retrogamecoders.com/wp-content/uploads/2026/10/Progress-and-Levels-in-the-C64-BASIC-Dungeon-Crawler.png",
       "summary": "Summary unavailable."
     }
   ],
