@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T23:10:16.844508",
+  "updated": "2026-11-02T02:51:14.566321",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "So I guess everyone uses LLMs to think now",
-      "url": "https://eva.ac/blog/llms/",
-      "published": "2026-11-01T21:49:04",
+      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+      "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
+      "published": "2026-11-02T01:35:02",
       "description": "",
-      "image": "data/images/4ffa3339f31ef872f1f38ea4ac89011b.png",
+      "image": "https://picon.dev/images/publications/ai-assisted-engineering-social.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "published": "2026-10-31T01:38:56",
+      "description": "",
+      "image": "data/images/56de6eec112c0f24195347237c82d68b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "published": "2026-11-02T01:47:07",
+      "description": "",
+      "image": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-11-01T22:10:45",
+      "description": "",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
       "summary": "Summary unavailable."
     },
     {
@@ -170,42 +200,12 @@
       "description": "",
       "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Frontier Airlines Likely Breached",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "published": "2026-11-01T16:46:33",
-      "description": "",
-      "image": "data/images/a3a90600a80e2558d143317b079a33d1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-      "published": "2026-11-01T10:44:20",
-      "description": "",
-      "image": "https://shkspr.mobi/blog/wp-content/uploads/2019/05/domains.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Understanding Email Encryption (2025)",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
-      "published": "2026-10-30T20:55:56",
-      "description": "",
-      "image": "https://www.fastmail.com/assets/images/Hero-D2cG6bHcnp-1200.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "speakers": [
       "Alex",
       "Jordan"
