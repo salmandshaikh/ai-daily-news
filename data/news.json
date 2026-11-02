@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T02:51:14.566321",
+  "updated": "2026-11-02T11:44:27.034740",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "published": "Fri, 30 Oct 2026 14:18:30 +0000",
+      "description": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "published": "Wed, 28 Oct 2026 17:00:58 +0000",
@@ -89,16 +99,6 @@
       "published": "Thu, 15 Oct 2026 16:08:03 +0000",
       "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "image": "data/images/e3601a40735e047cffece2ad37507aef.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "published": "Wed, 14 Oct 2026 02:00:14 +0000",
-      "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "image": "data/images/71002621c6bc4538aa2707026383b7e2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,41 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
-      "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
-      "published": "2026-11-02T01:35:02",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "published": "2026-11-02T07:27:28",
       "description": "",
-      "image": "https://picon.dev/images/publications/ai-assisted-engineering-social.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "published": "2026-10-31T01:38:56",
-      "description": "",
-      "image": "data/images/56de6eec112c0f24195347237c82d68b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "published": "2026-11-02T01:47:07",
-      "description": "",
-      "image": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "published": "2026-11-01T22:10:45",
-      "description": "",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+      "image": "data/images/8a1d1adbe1cde8958b27873efa5e852c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -199,6 +169,16 @@
       "published": "2026-11-01T06:06:19",
       "description": "",
       "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "published": "2026-11-01T10:44:20",
+      "description": "",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2019/05/domains.jpg",
       "summary": "Summary unavailable."
     }
   ],
