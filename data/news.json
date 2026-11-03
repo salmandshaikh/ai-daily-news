@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-03T15:31:20.341760",
+  "updated": "2026-11-03T21:19:36.180067",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "image": "data/images/1b515e9536ca12fdf3a2ff86c0115b51.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "image": "data/images/6f87448829b35cf56723b551133b1db9.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -9,6 +29,16 @@
       "published": "Tue, 03 Nov 2026 08:00:00 GMT",
       "description": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "image": "data/images/3d98331e17b9b92c47fee2fe404755e6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "description": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company\u2019s global communications and corporate positioning.",
+      "image": "data/images/9aeb887baab8fb5b2e64a4a3d2b65d40.png",
       "summary": "Summary unavailable."
     },
     {
@@ -23,32 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "published": "Mon, 02 Nov 2026 15:00:00 GMT",
-      "description": "OpenAI\u2019s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "image": "data/images/4ea0731faa39057f23905ab1f52be712.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "image": "data/images/703cf651608751d144206c22dd2af27c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "image": "data/images/1cf768f1b36eb14608fc0f8dcb40e1aa.png",
+      "source_name": "Google DeepMind News",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "published": "Tue, 03 Nov 2026 17:01:49 +0000",
+      "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "image": "data/images/1f7f8137fc4e0b09e7d041c3900c42e6.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,12 +103,32 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "published": "Thu, 15 Oct 2026 16:08:03 +0000",
-      "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "image": "data/images/e3601a40735e047cffece2ad37507aef.png",
+      "source_name": "Hugging Face - Blog",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "published": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published": "Tue, 03 Nov 2026 16:35:36 GMT",
+      "description": "",
+      "image": "data/images/f0b08620171f02a05efefe3ea2770b2e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/9ec11b070d84d2f4ed33d9a2fde971c7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -122,43 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "published": "Thu, 29 Oct 2026 13:37:07 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "published": "2026-11-02T16:29:19",
       "description": "",
-      "image": "data/images/f1ad7b7d93beb31276877111799e860e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/98d8419509a0ead8fe5c71691b2cbca9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/186633c748b76f17cc1b4009c190c45e.png",
+      "image": "https://blog.nns.ee/img/logo.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Just a little AI resistance, as a treat",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "published": "2026-11-03T14:14:12",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "published": "2026-11-03T17:40:00",
       "description": "",
-      "image": "https://shkspr.mobi/blog/wp-content/uploads/2017/11/Confused-Robot.jpg",
+      "image": "data/images/bcc52fad9ad401254c30424a08b65621.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "published": "2026-11-03T17:22:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/c4e49929dad32f5b84fd2c37b3adf3a6f7e6f4f9d558278c3d54428d8c3778c7/postmanlabs/postman-app-support/issues/14370",
       "summary": "Summary unavailable."
     },
     {
@@ -174,21 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Octomind \u2013 open-source AI harness that saves your tokens, static rust",
-      "url": "https://github.com/Muvon/octomind",
-      "published": "2026-11-03T15:02:58",
+      "title": "We're Training a Figma-Fluent Editing Model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "published": "2026-11-01T04:05:23",
       "description": "",
-      "image": "https://repository-images.githubusercontent.com/994166447/5deca376-0441-481a-83f3-48dcaeb7487c",
+      "image": "https://cdn.sanity.io/images/599r6htc/regionalized/fb5d45c15530cb8862429e9c6a70c004ee6f76e4-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The AI Bubble Monitor",
-      "url": "https://cepr.net/publications/ai-bubble-monitor/",
-      "published": "2026-11-03T14:51:31",
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "published": "2026-11-03T15:25:47",
       "description": "",
-      "image": "data/images/00c3761cf068cebb3bd9dadc1ade8bcd.png",
+      "image": "data/images/ff91143e98d803502cdb448fc38be0be.png",
       "summary": "Summary unavailable."
     }
   ],
