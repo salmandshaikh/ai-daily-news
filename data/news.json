@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-02T20:55:18.814304",
+  "updated": "2026-11-03T04:07:20.834967",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "published": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "image": "data/images/01c495e123656c6753aba1364e1ae230.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -14,41 +24,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "image": "data/images/1cf768f1b36eb14608fc0f8dcb40e1aa.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "image": "data/images/703cf651608751d144206c22dd2af27c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "LifeVal",
       "url": "https://openai.com/index/lifeval",
       "published": "Mon, 02 Nov 2026 09:00:00 GMT",
       "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
       "image": "data/images/3c69809c4c9e8e1c1547b7850bbaf4d5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "description": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "image": "data/images/bb00ed8ce513de3124506ca7c4d79f13.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "published": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "image": "data/images/452f8101b532f7d336ef185b34d33fe5.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "published": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "image": "data/images/3240efa547a794efae0a74fc3e65a992.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,68 +154,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "published": "2026-11-02T23:47:56",
+      "description": "",
+      "image": "data/images/01c495e123656c6753aba1364e1ae230.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
+      "url": "https://ownhackertube.cc/",
+      "published": "2026-11-03T03:14:06",
+      "description": "",
+      "image": "https://ownhackertube.cc/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Egoless Mathematics in the AI Era",
       "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
       "published": "2026-11-02T18:54:44",
       "description": "",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "published": "2026-11-02T19:27:37",
-      "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108468745-1793103926982-gettyimages-2234722679-_73a3321_cmlbiuj4.jpeg?v=1793642583&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-      "published": "2026-11-02T19:36:37",
-      "description": "",
-      "image": "data/images/4cccb3dfb9ec962d4bbe0d929f410b81.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "published": "2026-11-02T16:40:29",
-      "description": "",
-      "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Agentic backdoors via pretraining poisoning",
-      "url": "https://arxiv.org/abs/2610.37741",
-      "published": "2026-11-02T18:30:58",
-      "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "published": "2026-11-02T14:56:21",
-      "description": "",
-      "image": "https://retrogamecoders.com/wp-content/uploads/2026/10/Progress-and-Levels-in-the-C64-BASIC-Dungeon-Crawler.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "speakers": [
       "Alex",
       "Jordan"
