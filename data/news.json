@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:25:55.149451",
+  "updated": "2026-11-04T11:39:20.899231",
   "articles": [
     {
       "source": "RSS",
@@ -164,6 +164,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "published": "2026-11-03T21:20:03",
+      "description": "",
+      "image": "https://uncracked.city/og/en.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "published": "2026-11-04T10:23:34",
+      "description": "",
+      "image": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae0638cdbc3daea6b3a154d41c73dad9",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "published": "2026-11-02T14:02:42",
@@ -184,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "published": "2026-11-03T21:40:53",
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "published": "2026-11-03T18:11:11",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://ben.stolovitz.com/_astro/og.jsHy_xv-_2lnd7v.png",
       "summary": "Summary unavailable."
     },
     {
@@ -198,7 +218,7 @@
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "published": "2026-11-03T17:22:37",
       "description": "",
-      "image": "https://opengraph.githubassets.com/8d96e4347cb475bc0c81939b227805331a79ca02c9e5bbd88a54a4a3aa70e480/postmanlabs/postman-app-support/issues/14370",
+      "image": "https://opengraph.githubassets.com/d302f3c2abd5789568c5e28f9ee169b882868e06f729993dfc38735dec52c116/postmanlabs/postman-app-support/issues/14370",
       "summary": "Summary unavailable."
     },
     {
@@ -214,16 +234,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
-      "url": "https://github.com/finic-ai/kairos",
-      "published": "2026-11-03T21:16:48",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/f29a70366fe5097465abca57f773b7b738c94bf582c4ce9003c74532819c1e6e/finic-ai/kairos",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "There is no posttraining data commons",
       "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
       "published": "2026-11-03T14:45:47",
@@ -234,21 +244,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "published": "2026-11-03T18:11:11",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "published": "2026-11-03T21:40:53",
       "description": "",
-      "image": "https://ben.stolovitz.com/_astro/og.jsHy_xv-_2lnd7v.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "published": "2026-11-03T21:20:03",
-      "description": "",
-      "image": "https://uncracked.city/og/en.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
