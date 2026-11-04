@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T21:19:36.180067",
+  "updated": "2026-11-04T03:25:55.149451",
   "articles": [
     {
       "source": "RSS",
@@ -164,26 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "published": "2026-11-03T17:40:00",
-      "description": "",
-      "image": "data/images/bcc52fad9ad401254c30424a08b65621.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "published": "2026-11-03T17:22:37",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/c4e49929dad32f5b84fd2c37b3adf3a6f7e6f4f9d558278c3d54428d8c3778c7/postmanlabs/postman-app-support/issues/14370",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "published": "2026-11-02T14:02:42",
@@ -194,7 +174,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "We're Training a Figma-Fluent Editing Model",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "published": "2026-11-03T17:40:00",
+      "description": "",
+      "image": "data/images/bcc52fad9ad401254c30424a08b65621.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "published": "2026-11-03T21:40:53",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "published": "2026-11-03T17:22:37",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/8d96e4347cb475bc0c81939b227805331a79ca02c9e5bbd88a54a4a3aa70e480/postmanlabs/postman-app-support/issues/14370",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "We're training a Figma-fluent editing model",
       "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
       "published": "2026-11-01T04:05:23",
       "description": "",
@@ -204,18 +214,48 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "published": "2026-11-03T15:25:47",
+      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "published": "2026-11-03T21:16:48",
       "description": "",
-      "image": "data/images/ff91143e98d803502cdb448fc38be0be.png",
+      "image": "https://opengraph.githubassets.com/f29a70366fe5097465abca57f773b7b738c94bf582c4ce9003c74532819c1e6e/finic-ai/kairos",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "published": "2026-11-03T14:45:47",
+      "description": "",
+      "image": "https://www.openathena.ai/og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "published": "2026-11-03T18:11:11",
+      "description": "",
+      "image": "https://ben.stolovitz.com/_astro/og.jsHy_xv-_2lnd7v.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "published": "2026-11-03T21:20:03",
+      "description": "",
+      "image": "https://uncracked.city/og/en.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "speakers": [
       "Alex",
       "Jordan"
