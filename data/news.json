@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-05T11:41:00.426340",
+  "updated": "2026-11-05T19:06:41.490265",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "Thu, 05 Nov 2026 09:00:00 GMT",
+      "description": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "image": "data/images/e94ef1ec9199328dc0ece5b4ae2ef130.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "published": "Wed, 04 Nov 2026 00:00:00 GMT",
-      "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "image": "data/images/f083c48bfaf5e66f027a5683ab5e9bb0.png",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "published": "Thu, 05 Nov 2026 17:05:16 +0000",
+      "description": "",
+      "image": "data/images/72b93437903d06d5bfa37ce5a7febb09.png",
       "summary": "Summary unavailable."
     },
     {
@@ -89,16 +99,6 @@
       "published": "Tue, 27 Oct 2026 16:01:38 +0000",
       "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
       "image": "data/images/a58d6928403a01683c77f88775124987.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Beyond tree cover: mapping the world\u2019s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "published": "Thu, 22 Oct 2026 14:30:24 +0000",
-      "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "image": "data/images/ee67fa47b90016221e8d8dcec9f5ff74.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,71 +154,61 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "published": "2026-11-05T17:01:23",
+      "description": "",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/85f165bf52e787a3301c4f5c5600c4e10c9f0063.png?1745436151",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "published": "2026-11-05T18:00:01",
+      "description": "",
+      "image": "data/images/1fa07bbf06705a9ca7c826bdc5d39872.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "published": "2026-11-04T16:45:11",
+      "description": "",
+      "image": "https://linum.ai/field-notes/pjit-21k/opengraph-image/card?26d65478f85b1e16",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "published": "2026-11-05T14:08:35",
+      "description": "",
+      "image": "https://mcp-explained.com/og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "published": "2026-11-05T07:44:30",
+      "description": "",
+      "image": "data/images/e593465f19525fadd1e439869f40eb69.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Baidu released ERNIE 5.5 Flash Base",
       "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
       "published": "2026-11-05T09:29:12",
       "description": "",
       "image": "data/images/72ec714b72473895fdbf952728a9b363.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "published": "2026-11-04T15:30:30",
-      "description": "",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.1-Pro.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "published": "2026-11-04T11:52:17",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Future Maintenance of Mbed TLS",
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "published": "2026-11-03T07:39:05",
-      "description": "",
-      "image": "data/images/7f7fde3c80970c8755c0d935cb8ebe5f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "published": "2026-11-04T19:55:14",
-      "description": "",
-      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/cloudai100_announcement",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "published": "2026-11-04T17:17:46",
-      "description": "",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "published": "2026-11-04T15:21:21",
-      "description": "",
-      "image": "data/images/71e71d4a8893a0db33a6ee50344430c2.png",
       "summary": "Summary unavailable."
     }
   ],
