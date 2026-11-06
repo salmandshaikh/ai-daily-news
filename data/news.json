@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-06T11:39:06.760533",
+  "updated": "2026-11-06T18:33:51.410377",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "description": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "image": "data/images/255f5775410e4ac586426a6b4ac082fb.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 05 Nov 2026 08:00:00 GMT",
       "description": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
       "image": "data/images/394437f8d32d30b8e0924e6eb60117f0.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "published": "Thu, 05 Nov 2026 02:00:00 GMT",
-      "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "image": "data/images/c701d7c6c1254a9303996d1f410cc328.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "published": "Fri, 06 Nov 2026 14:00:48 GMT",
+      "description": "",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "published": "Fri, 06 Nov 2026 00:00:00 GMT",
@@ -142,13 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "published": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "published": "2026-11-06T04:00:28",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "image": "data/images/04b758924ef296f99c09c4fba1cf7415.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "published": "2026-11-06T17:03:33",
+      "description": "",
+      "image": "https://up.codes/img/upcodes-og-twitter-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Perplexity launches AI agents for work",
+      "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "published": "2026-11-06T17:59:41",
+      "description": "",
+      "image": "data/images/d87b41f786f5e3eb181d976fd101b48f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "published": "2026-11-06T18:03:33",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: AegisKernel \u2013 Zero-trust POSIX runtime for AI agents in <0.016ms",
+      "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+      "published": "2026-11-06T17:00:23",
+      "description": "",
+      "image": "data/images/9ffa2905637f1fcee3e4ebff8ac60e39.png",
       "summary": "Summary unavailable."
     },
     {
@@ -158,77 +208,17 @@
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "published": "2026-11-05T22:17:15",
       "description": "",
-      "image": "https://opengraph.githubassets.com/4eb14dda46eb0b92d848b3cfc09220029a4b9c26ad6c51740d3fc4001323f670/anthropics/claude-code/issues/107757",
+      "image": "https://opengraph.githubassets.com/366e03d8f28dfd5ef5fb3440a4828c0659d886968a146e09196ce1e409c3e3d3/anthropics/claude-code/issues/107757",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "published": "2026-11-05T20:43:42",
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+      "published": "2026-11-06T18:04:06",
       "description": "",
-      "image": "data/images/5c08aae009dd96314a156dca59d88272.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "published": "2026-11-06T05:19:04",
-      "description": "",
-      "image": "data/images/072b4c6519b63b41f90b40bc5cf1e4b4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Britain to make salary disclosure in job ads mandatory",
-      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-      "published": "2026-11-06T07:22:04",
-      "description": "",
-      "image": "data/images/ad98cebdde9574a6f37b50012f9ddbba.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "url": "https://obelisk.club/research/app-store-2026",
-      "published": "2026-11-06T07:59:19",
-      "description": "",
-      "image": "https://obelisk.club/opengraph-image",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "published": "2026-11-04T16:45:11",
-      "description": "",
-      "image": "https://linum.ai/field-notes/pjit-21k/opengraph-image/card?26d65478f85b1e16",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "published": "2026-11-05T23:09:57",
-      "description": "",
-      "image": "https://s.yimg.com/lo/mysterio/api/c7b9e208fd6dff01b9115dea6cf00d560e269c36a6987f309be6e79d843e306b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F892777675c4b84ce45a666a8bfe1fb93.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "published": "2026-11-05T14:08:35",
-      "description": "",
-      "image": "https://mcp-explained.com/og.png",
+      "image": "data/images/5e7a69738a8c6113b4fa8d67893071fe.png",
       "summary": "Summary unavailable."
     }
   ],
