@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:06:41.490265",
+  "updated": "2026-11-06T00:35:58.246627",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Thu, 05 Nov 2026 09:00:00 GMT",
       "description": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
       "image": "data/images/e94ef1ec9199328dc0ece5b4ae2ef130.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "published": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "description": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "image": "data/images/394437f8d32d30b8e0924e6eb60117f0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -24,31 +34,21 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "published": "Thu, 05 Nov 2026 00:45:15 GMT",
+      "description": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "image": "data/images/d20e13ae76120e37cf1301ea8d99353b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
       "published": "Wed, 04 Nov 2026 14:30:00 GMT",
       "description": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
       "image": "data/images/4391753239f62f536d6a66eae11525a7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published": "Wed, 04 Nov 2026 07:00:00 GMT",
-      "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "image": "data/images/6108de2aecf1a9cd75685a7d119895c3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "published": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "image": "data/images/c1e2f949676369ebd3d29f9edf94bb81.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "published": "Thu, 05 Nov 2026 19:35:16 GMT",
+      "description": "",
+      "image": "data/images/dad387ef59f70237326ec51eeb200f47.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
@@ -142,33 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "published": "2026-11-05T22:17:15",
       "description": "",
-      "image": "data/images/9ec11b070d84d2f4ed33d9a2fde971c7.png",
+      "image": "https://opengraph.githubassets.com/1e11260baaeb43bf3985aa1f48af650bd9ac0f5bf4ba315b171fa83b35e56e3a/anthropics/claude-code/issues/107757",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
-      "published": "2026-11-05T17:01:23",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "published": "2026-11-05T20:43:42",
       "description": "",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/85f165bf52e787a3301c4f5c5600c4e10c9f0063.png?1745436151",
+      "image": "data/images/5c08aae009dd96314a156dca59d88272.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-      "published": "2026-11-05T18:00:01",
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "published": "2026-11-05T20:21:43",
       "description": "",
-      "image": "data/images/1fa07bbf06705a9ca7c826bdc5d39872.png",
+      "image": "https://www.tencent.com/wp-content/uploads/2026/11/H4_thumbnail_4x3-1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "published": "2026-11-05T14:08:35",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "published": "2026-11-05T17:01:23",
       "description": "",
-      "image": "https://mcp-explained.com/og.png",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/85f165bf52e787a3301c4f5c5600c4e10c9f0063.png?1745436151",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "published": "2026-11-05T23:09:57",
+      "description": "",
+      "image": "https://s.yimg.com/lo/mysterio/api/c7b9e208fd6dff01b9115dea6cf00d560e269c36a6987f309be6e79d843e306b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F892777675c4b84ce45a666a8bfe1fb93.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -204,18 +224,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "published": "2026-11-05T09:29:12",
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "published": "2026-11-05T14:08:35",
       "description": "",
-      "image": "data/images/72ec714b72473895fdbf952728a9b363.png",
+      "image": "https://mcp-explained.com/og.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "speakers": [
       "Alex",
       "Jordan"
