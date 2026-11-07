@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T17:01:36.702206",
+  "updated": "2026-11-07T23:08:41.887588",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "published": "2026-11-07T18:02:17",
+      "description": "",
+      "image": "data/images/344ec3be65ff71d2a476fec39d182a52.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "published": "2026-11-07T20:45:32",
+      "description": "",
+      "image": "data/images/48278596b689ccc25aca4678e816358d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "published": "2026-11-05T10:52:04",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "url": "https://eyesrhythm.com/",
+      "published": "2026-11-07T21:47:47",
+      "description": "",
+      "image": "https://eyesrhythm.com/images/blink-cover.jpg?v=4",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "How Long Can Life Wait?",
       "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
       "published": "2026-11-07T16:22:59",
@@ -164,11 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "published": "2026-11-06T04:00:28",
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "published": "2026-11-07T15:16:01",
       "description": "",
-      "image": "data/images/04b758924ef296f99c09c4fba1cf7415.png",
+      "image": "https://opengraph.githubassets.com/c22896ab5a7de5f27bb685c665be24a755d56d4ad0582b058e6fe16a87f13587/Video-Rebirth/hyperflow-h3-flash",
       "summary": "Summary unavailable."
     }
   ],
