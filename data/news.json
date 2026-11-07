@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:51:52.342822",
+  "updated": "2026-11-07T03:19:38.984253",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "published": "2026-11-06T20:27:23",
-      "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!u_X_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd74ff70-df26-4e1a-be31-4fc3543bada8_2048x1072.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "published": "2026-11-06T04:00:28",
@@ -174,11 +164,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "published": "2026-11-06T22:50:43",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "published": "2026-11-06T20:27:23",
       "description": "",
-      "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!u_X_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd74ff70-df26-4e1a-be31-4fc3543bada8_2048x1072.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "url": "https://github.com/AmpereComputing/panthera",
+      "published": "2026-11-03T19:12:17",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/53bd43fcbd269e9f0158f4c72ccbf59bb068259d84c7e86e1854ec4e9b74fad2/AmpereComputing/panthera",
       "summary": "Summary unavailable."
     },
     {
@@ -189,6 +189,16 @@
       "published": "2026-11-06T19:19:27",
       "description": "",
       "image": "https://www.infohawk.com/_app/immutable/assets/2026-11-05-scamwich-restaurant-skimming.CsokS_Fm.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "published": "2026-11-06T22:50:43",
+      "description": "",
+      "image": "data/images/537ecc2d156eddd993a7bfe37c5e7ff3.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,6 +224,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "published": "2026-11-06T23:03:55",
+      "description": "",
+      "image": "https://developers.openai.com/og/api/docs/guides/voice-sip.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
       "url": "https://halfnarp.events.ccc.de",
       "published": "2026-11-06T18:16:43",
@@ -225,7 +245,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "speakers": [
       "Alex",
       "Jordan"
