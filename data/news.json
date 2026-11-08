@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:08:41.887588",
+  "updated": "2026-11-08T02:48:32.587825",
   "articles": [
     {
       "source": "RSS",
@@ -200,22 +200,12 @@
       "description": "",
       "image": "data/images/5abe651ddf10f0c877fefd33fb58c16a.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "published": "2026-11-07T15:16:01",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/c22896ab5a7de5f27bb685c665be24a755d56d4ad0582b058e6fe16a87f13587/Video-Rebirth/hyperflow-h3-flash",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "speakers": [
       "Alex",
       "Jordan"
