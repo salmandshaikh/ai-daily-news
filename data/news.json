@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T23:14:44.637715",
+  "updated": "2026-11-09T03:06:41.625776",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "published": "2026-11-08T22:20:09",
-      "description": "",
-      "image": "data/images/7de9e94ee6f317717a656062021ecb99.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
       "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "published": "2026-11-08T19:20:32",
       "description": "",
       "image": "https://mailroute.net/og-default.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "published": "2026-11-07T14:51:40",
+      "description": "",
+      "image": "data/images/41e2537ac5a2c565c4d00f77414360de.png",
       "summary": "Summary unavailable."
     },
     {
@@ -210,12 +210,22 @@
       "description": "",
       "image": "data/images/48278596b689ccc25aca4678e816358d.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "published": "2026-11-08T22:20:09",
+      "description": "",
+      "image": "data/images/7de9e94ee6f317717a656062021ecb99.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "speakers": [
       "Alex",
       "Jordan"
