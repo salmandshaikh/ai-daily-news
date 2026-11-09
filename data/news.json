@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T03:06:41.625776",
+  "updated": "2026-11-09T12:23:44.973095",
   "articles": [
     {
       "source": "RSS",
@@ -154,7 +154,27 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "published": "2026-11-09T07:20:37",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "published": "2026-11-08T23:44:36",
+      "description": "",
+      "image": "images/profile.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
       "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "published": "2026-11-08T19:20:32",
       "description": "",
@@ -164,21 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-      "published": "2026-11-07T14:51:40",
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "url": "https://github.com/OmniJev/Flide",
+      "published": "2026-11-09T04:43:12",
       "description": "",
-      "image": "data/images/41e2537ac5a2c565c4d00f77414360de.png",
+      "image": "https://opengraph.githubassets.com/6e474ce872fbd256e8ab4d9edb467973ed905da2dcffd8c49673197d0bf23162/OmniJev/Flide",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-      "published": "2026-11-04T23:23:08",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "published": "2026-11-08T22:20:09",
       "description": "",
-      "image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/Nighthawks-by-Edward-Hopper-painting.png",
+      "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "published": "2026-11-07T13:35:16",
+      "description": "",
+      "image": "https://www.worldhistory.org/img/c/p/2400x1254/158.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -194,31 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "published": "2026-11-08T14:42:38",
-      "description": "",
-      "image": "data/images/e8ce2ca4c0d7ba05ce64edbf16b16016.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "published": "2026-11-07T20:45:32",
       "description": "",
       "image": "data/images/48278596b689ccc25aca4678e816358d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "published": "2026-11-08T22:20:09",
-      "description": "",
-      "image": "data/images/7de9e94ee6f317717a656062021ecb99.png",
       "summary": "Summary unavailable."
     }
   ],
