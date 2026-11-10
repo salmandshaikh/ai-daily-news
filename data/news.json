@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:53:36.857448",
+  "updated": "2026-11-10T04:53:32.296807",
   "articles": [
     {
       "source": "RSS",
@@ -154,16 +154,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "published": "2026-11-09T18:24:38",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/554776cc2c71e8047d03cd1f30c8aa6f736c6cd8a34d6a3bd7d37ec9e2d8d171/thisisme6598/gemini_files",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "published": "2026-11-09T16:00:45",
@@ -174,17 +164,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "published": "2026-11-09T17:58:46",
-      "description": "",
-      "image": "https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Fold Epic Paper Airplanes",
+      "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://www.foldableflight.com",
       "published": "2026-11-09T12:19:22",
       "description": "",
@@ -194,28 +174,48 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "published": "2026-11-09T14:31:39",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "published": "2026-11-10T03:20:06",
       "description": "",
-      "image": "https://www.anthropocenemagazine.org/wp-content/uploads/2026/10/rose-colored-agrivoltaics.jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-      "published": "2026-11-09T18:33:58",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "published": "2026-11-09T14:31:39",
       "description": "",
-      "image": "data/images/58887401d6fcad28d6945b8168b9cfaa.png",
+      "image": "data/images/0fe4a289142dd6b6ec3c5503bb923653.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "published": "2026-11-09T18:24:38",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "published": "2026-11-09T17:58:46",
+      "description": "",
+      "image": "https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "speakers": [
       "Alex",
       "Jordan"
