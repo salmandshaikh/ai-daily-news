@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-10T04:53:32.296807",
+  "updated": "2026-11-10T15:51:55.786320",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "image": "data/images/012d59e559de8d628a441b08b9eca9a3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+      "description": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "image": "data/images/22366b1ffb5d2f47960f57a429e7b0df.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Work at the Frontier: AI\u2019s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "image": "data/images/257b813f92972cbcb1887ff0ee5b221b.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -23,32 +53,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "image": "data/images/738c7dc9958fb73e7efcb5ce29813420.png",
+      "source_name": "Google DeepMind News",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "published": "Tue, 10 Nov 2026 12:02:28 +0000",
+      "description": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal\u2019s core encryption.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "image": "data/images/4b1dbc7b65efc3b00445015a02f52c39.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "description": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "image": "data/images/255f5775410e4ac586426a6b4ac082fb.png",
+      "source_name": "Google DeepMind News",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "published": "Mon, 09 Nov 2026 19:51:47 +0000",
+      "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "image": "data/images/08b4ef286248177f62c744ddaeb3665c.png",
       "summary": "Summary unavailable."
     },
     {
@@ -83,22 +103,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "published": "Wed, 28 Oct 2026 17:00:58 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT",
       "description": "",
-      "image": "data/images/9c4f9dfc95f1f41cf784588a018431ae.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "published": "Tue, 27 Oct 2026 16:01:38 +0000",
-      "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "image": "data/images/a58d6928403a01683c77f88775124987.png",
+      "image": "data/images/53ab4b8d9686693b6757905c7f9d74fa.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,23 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "url": "https://www.ghanastreetgames.com/",
+      "published": "2026-11-08T15:31:52",
       "description": "",
-      "image": "data/images/f864407b03d1ab35bc2354af9e278cea.png",
+      "image": "data/images/6224c2c7dadc5dc28c088798ccfc3e90.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "published": "2026-11-09T16:00:45",
+      "title": "Wake me up when AI can...",
+      "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
+      "published": "2026-11-10T14:11:54",
       "description": "",
-      "image": "https://www.payments.ca/sites/default/files/2026-11/CanadaLightsUp.png",
+      "image": "data/images/35bc64ac5a02d9fccc22967e666c51e1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "published": "2026-11-10T07:19:38",
+      "description": "",
+      "image": "https://www.notion.com/front-static/meta/help-center.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "published": "2026-11-10T03:20:06",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "published": "2026-11-09T16:00:45",
       "description": "",
-      "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "published": "2026-11-09T14:31:39",
-      "description": "",
-      "image": "data/images/0fe4a289142dd6b6ec3c5503bb923653.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "published": "2026-11-09T18:24:38",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/5c0123d311589e1bf2013b7817ac9df6ad13abd915326ea0597fe0c0902aa94d/thisisme6598/gemini_files",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "published": "2026-11-09T17:58:46",
-      "description": "",
-      "image": "https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp",
+      "image": "https://www.payments.ca/sites/default/files/2026-11/CanadaLightsUp.png",
       "summary": "Summary unavailable."
     }
   ],
