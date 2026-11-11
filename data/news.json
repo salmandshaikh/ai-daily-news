@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-10T21:30:16.945786",
+  "updated": "2026-11-11T03:14:35.154518",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "image": "data/images/a369699e839574944f69923d27a637f4.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 10 Nov 2026 07:00:00 GMT",
       "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "image": "data/images/257b813f92972cbcb1887ff0ee5b221b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "published": "Mon, 09 Nov 2026 19:00:00 GMT",
-      "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "image": "data/images/2b4ac5e9b39a1abadb2995846f0d0d15.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "published": "2026-11-10T22:17:56",
+      "description": "",
+      "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
       "published": "2026-11-10T18:02:02",
       "description": "",
       "image": "data/images/8b4550f85d1510eaa03ac15d8b7b85b2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "published": "2026-11-11T00:37:05",
+      "description": "",
+      "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "published": "2026-11-11T00:15:33",
+      "description": "",
+      "image": "https://www.niemanlab.org/images/MarcinWilkowski-DatifiedRelations-better-images-of-ai.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "published": "2026-11-10T22:14:03",
+      "description": "",
+      "image": "data/images/e27de4265ee2a3752f83919263bc2eca.png",
       "summary": "Summary unavailable."
     },
     {
@@ -180,12 +220,22 @@
       "description": "",
       "image": "https://www.evanxmerz.com/images/ai-codebases-are-a-house-of-cards.jpg",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com",
+      "published": "2026-11-10T15:01:19",
+      "description": "",
+      "image": "https://aircad.com/opengraph-image.jpg?4c867f4482e9a211",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "speakers": [
       "Alex",
       "Jordan"
