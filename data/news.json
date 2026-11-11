@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:30:26.793319",
+  "updated": "2026-11-11T19:05:09.115514",
   "articles": [
     {
       "source": "RSS",
@@ -24,6 +24,16 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "description": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "image": "data/images/be7446a0622a46e36f2fbf88c604e076.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Helping caregivers use AI in everyday life",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "published": "Tue, 10 Nov 2026 12:00:00 GMT",
@@ -43,12 +53,12 @@
     },
     {
       "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published": "Tue, 10 Nov 2026 09:00:00 GMT",
-      "description": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "image": "data/images/22366b1ffb5d2f47960f57a429e7b0df.png",
+      "source_name": "Google DeepMind News",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published": "Wed, 11 Nov 2026 15:00:15 +0000",
+      "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "image": "data/images/a61515569890711ee8419856497c8e82.png",
       "summary": "Summary unavailable."
     },
     {
@@ -93,22 +103,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "published": "Tue, 03 Nov 2026 17:01:49 +0000",
-      "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "image": "data/images/1f7f8137fc4e0b09e7d041c3900c42e6.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
       "source_name": "Hugging Face - Blog",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "published": "Wed, 11 Nov 2026 05:01:16 GMT",
       "description": "",
       "image": "data/images/ecf050cc0f9e2d5d6a684bbd4242efe6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/a146e32a50714e7ebead72cea5c29fc9.png",
       "summary": "Summary unavailable."
     },
     {
@@ -142,63 +152,53 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "published": "Mon, 09 Nov 2026 12:34:29 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "published": "2026-11-11T12:05:22",
       "description": "",
-      "image": "data/images/e1ed7aa5d90a61207c5a57ec25e77a55.png",
+      "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "published": "2026-11-10T21:25:03",
+      "title": "AI, activity, and outcomes in software engineering",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "published": "2026-11-11T16:33:28",
       "description": "",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
+      "image": "https://cabird.com/talks/shipping-faster/title.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "published": "2026-11-10T18:02:02",
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "published": "2026-11-11T16:00:50",
       "description": "",
-      "image": "data/images/8b4550f85d1510eaa03ac15d8b7b85b2.png",
+      "image": "https://repository-images.githubusercontent.com/1445832118/919683d0-c60e-41f7-9913-132f49b4bdd6",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "published": "2026-11-10T10:25:58",
+      "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+      "url": "https://github.com/OpenTSLM/TimeNet",
+      "published": "2026-11-10T17:16:09",
       "description": "",
-      "image": "https://www.evanxmerz.com/images/ai-codebases-are-a-house-of-cards.jpg",
+      "image": "https://repository-images.githubusercontent.com/1293904978/25bd41c7-c628-42cb-9c24-01c18b0f3a31",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "url": "https://tis-100.wincon.dev/",
-      "published": "2026-11-11T00:37:05",
+      "title": "EventSourcingDB 1.3.0 Is Available",
+      "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+      "published": "2026-11-11T13:19:45",
       "description": "",
-      "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "$30M Raised to Redo the CPU",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "published": "2026-11-10T22:14:03",
-      "description": "",
-      "image": "data/images/e27de4265ee2a3752f83919263bc2eca.png",
+      "image": "https://www.eventfoundation.io/previews/resources/blog/eventsourcingdb-1-3-0-is-available.png",
       "summary": "Summary unavailable."
     }
   ],
