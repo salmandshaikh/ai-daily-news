@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:14:35.154518",
+  "updated": "2026-11-11T11:30:26.793319",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Thu, 12 Nov 2026 00:00:00 GMT",
       "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "image": "data/images/a369699e839574944f69923d27a637f4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "image": "data/images/601c161b97f2f30d98300836d7951ed7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Tue, 10 Nov 2026 09:00:00 GMT",
       "description": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "image": "data/images/22366b1ffb5d2f47960f57a429e7b0df.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Work at the Frontier: AI\u2019s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published": "Tue, 10 Nov 2026 07:00:00 GMT",
-      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "image": "data/images/257b813f92972cbcb1887ff0ee5b221b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published": "Wed, 11 Nov 2026 05:01:16 GMT",
+      "description": "",
+      "image": "data/images/ecf050cc0f9e2d5d6a684bbd4242efe6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "published": "Tue, 10 Nov 2026 00:00:00 GMT",
@@ -142,23 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "published": "Fri, 06 Nov 2026 14:00:48 GMT",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "published": "2026-11-10T22:17:56",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "published": "2026-11-10T21:25:03",
       "description": "",
-      "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
       "summary": "Summary unavailable."
     },
     {
@@ -174,46 +174,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "url": "https://tis-100.wincon.dev/",
-      "published": "2026-11-11T00:37:05",
-      "description": "",
-      "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI is an information gateway. Audiences still don't want it making their news",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "published": "2026-11-11T00:15:33",
-      "description": "",
-      "image": "https://www.niemanlab.org/images/MarcinWilkowski-DatifiedRelations-better-images-of-ai.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "$30M Raised to Redo the CPU",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "published": "2026-11-10T22:14:03",
-      "description": "",
-      "image": "data/images/e27de4265ee2a3752f83919263bc2eca.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-      "url": "https://tinyvalencia.com/",
-      "published": "2026-11-10T15:12:16",
-      "description": "",
-      "image": "https://tinyvalencia.com/share.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "published": "2026-11-10T10:25:58",
@@ -224,11 +184,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
-      "url": "https://aircad.com",
-      "published": "2026-11-10T15:01:19",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "published": "2026-11-11T00:37:05",
       "description": "",
-      "image": "https://aircad.com/opengraph-image.jpg?4c867f4482e9a211",
+      "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "published": "2026-11-10T22:14:03",
+      "description": "",
+      "image": "data/images/e27de4265ee2a3752f83919263bc2eca.png",
       "summary": "Summary unavailable."
     }
   ],
