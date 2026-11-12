@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:05:09.115514",
+  "updated": "2026-11-12T01:42:53.736385",
   "articles": [
     {
       "source": "RSS",
@@ -154,8 +154,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "published": "2026-11-11T22:34:23",
+      "description": "",
+      "image": "data/images/515bb050639f34de29fad5741609600d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "published": "2026-11-11T21:24:35",
+      "description": "",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
       "published": "2026-11-11T12:05:22",
       "description": "",
       "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
@@ -164,48 +184,18 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI, activity, and outcomes in software engineering",
-      "url": "https://cabird.com/talks/shipping-faster/",
-      "published": "2026-11-11T16:33:28",
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "published": "2026-11-11T22:03:58",
       "description": "",
-      "image": "https://cabird.com/talks/shipping-faster/title.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "url": "https://github.com/klad-app/klad",
-      "published": "2026-11-11T16:00:50",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1445832118/919683d0-c60e-41f7-9913-132f49b4bdd6",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-      "url": "https://github.com/OpenTSLM/TimeNet",
-      "published": "2026-11-10T17:16:09",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1293904978/25bd41c7-c628-42cb-9c24-01c18b0f3a31",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "EventSourcingDB 1.3.0 Is Available",
-      "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
-      "published": "2026-11-11T13:19:45",
-      "description": "",
-      "image": "https://www.eventfoundation.io/previews/resources/blog/eventsourcingdb-1-3-0-is-available.png",
+      "image": "data/images/cd0fcebfcddeeac67681599e42b15c00.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "speakers": [
       "Alex",
       "Jordan"
