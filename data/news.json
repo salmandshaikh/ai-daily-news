@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-12T01:42:53.736385",
+  "updated": "2026-11-12T11:57:06.999547",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published": "Thu, 12 Nov 2026 09:30:00 GMT",
+      "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "image": "data/images/82ac424adc9b5e122d4e92a1f00a4d43.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Supporting research on AI and children\u2019s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "description": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Wed, 11 Nov 2026 00:00:00 GMT",
       "description": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "image": "data/images/be7446a0622a46e36f2fbf88c604e076.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published": "Tue, 10 Nov 2026 12:00:00 GMT",
-      "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "image": "data/images/012d59e559de8d628a441b08b9eca9a3.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published": "Tue, 10 Nov 2026 10:00:00 GMT",
-      "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "image": "data/images/7fb4b94ea1a5cb68f3a3d32b9df518e7.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
       "url": "https://www.mcmillen.dev/sigbovik/",
       "published": "2026-11-11T22:34:23",
       "description": "",
-      "image": "data/images/515bb050639f34de29fad5741609600d.png",
+      "image": "data/images/c64b580128284805798be1c841e693d1.png",
       "summary": "Summary unavailable."
     },
     {
@@ -179,16 +179,6 @@
       "published": "2026-11-11T12:05:22",
       "description": "",
       "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "published": "2026-11-11T22:03:58",
-      "description": "",
-      "image": "data/images/cd0fcebfcddeeac67681599e42b15c00.png",
       "summary": "Summary unavailable."
     }
   ],
