@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-12T19:15:57.809842",
+  "updated": "2026-11-13T00:45:35.302344",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+      "description": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "image": "data/images/670cc69c4ffdefa3cb2d6ae5cf273380.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "published": "Thu, 12 Nov 2026 12:00:00 GMT",
+      "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work.",
+      "image": "data/images/209670b3bd3ba9499bc733d96f09781c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Thu, 12 Nov 2026 00:00:00 GMT",
       "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "image": "data/images/a369699e839574944f69923d27a637f4.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "published": "Wed, 11 Nov 2026 08:00:00 GMT",
-      "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "image": "data/images/601c161b97f2f30d98300836d7951ed7.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "description": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "image": "data/images/be7446a0622a46e36f2fbf88c604e076.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "published": "2026-11-12T21:13:26",
+      "description": "",
+      "image": "https://developer.apple.com/news/images/og/foundation-models-framework-og.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "published": "2026-11-12T15:23:10",
       "description": "",
-      "image": "https://opengraph.githubassets.com/2a4933702402046b957438716d0ef801e12153fc27ba401347c572d9d7d48f52/hyperionaidev/smolmaxxing",
+      "image": "https://opengraph.githubassets.com/0fadd1689bf8cf01cc4a95df512c7423c05cde34e5272bee040c99dbf0171648/hyperionaidev/smolmaxxing",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "published": "2026-11-12T23:06:17",
+      "description": "",
+      "image": "https://cdn.hashnode.com/uploads/covers/6aea03219fa4aa99923b5acf/de5ebdea-3436-4b9a-b3f2-e9910f3a0abc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "published": "2026-11-12T21:09:49",
+      "description": "",
+      "image": "data/images/0a4e814c657b829eb69247989ae8264d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "published": "2026-11-12T21:56:11",
+      "description": "",
+      "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
       "summary": "Summary unavailable."
     },
     {
@@ -175,7 +215,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "speakers": [
       "Alex",
       "Jordan"
