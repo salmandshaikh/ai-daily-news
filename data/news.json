@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-13T11:39:45.901241",
+  "updated": "2026-11-13T18:50:25.953157",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published": "Fri, 13 Nov 2026 15:00:00 GMT",
+      "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "image": "data/images/170645ac4b0ab2367f7cf72ab88470e4.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Thu, 12 Nov 2026 00:00:00 GMT",
       "description": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "image": "data/images/a369699e839574944f69923d27a637f4.png",
       "summary": "Summary unavailable."
     },
     {
@@ -94,11 +94,41 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "published": "Mon, 09 Nov 2026 19:51:47 +0000",
-      "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "image": "data/images/08b4ef286248177f62c744ddaeb3665c.png",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "published": "Tue, 10 Nov 2026 11:13:04 +0000",
+      "description": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "image": "data/images/e8699c1ab34fbf4ff9a3b29f69092371.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published": "Fri, 13 Nov 2026 18:00:39 GMT",
+      "description": "",
+      "image": "data/images/e3296b59c41901b318388f8022d08daf.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "published": "Fri, 13 Nov 2026 17:02:35 GMT",
+      "description": "",
+      "image": "data/images/0619627080482a3fdcf9421075a6c58f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published": "Fri, 13 Nov 2026 14:05:22 GMT",
+      "description": "",
+      "image": "data/images/db408f3120026d3f46cab8bebe1c8d3a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -122,33 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "published": "Wed, 11 Nov 2026 05:01:16 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "published": "2026-11-12T22:03:09",
       "description": "",
-      "image": "data/images/ecf050cc0f9e2d5d6a684bbd4242efe6.png",
+      "image": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "published": "2026-11-13T17:55:28",
       "description": "",
-      "image": "data/images/a146e32a50714e7ebead72cea5c29fc9.png",
+      "image": "https://haddyalchaer.com/images/stories/jepa-thumbs/planning.png",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "published": "2026-11-13T17:30:10",
       "description": "",
-      "image": "data/images/863db5a2ecc82f22ab74f13dfaeb7f94.png",
+      "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "published": "2026-11-13T15:52:04",
+      "description": "",
+      "image": "data/images/65ccf873e58d75dfca280e998cb46280.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,31 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "published": "2026-11-12T23:06:17",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "published": "2026-11-13T17:55:23",
       "description": "",
-      "image": "https://cdn.hashnode.com/uploads/covers/6aea03219fa4aa99923b5acf/de5ebdea-3436-4b9a-b3f2-e9910f3a0abc.png",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "published": "2026-11-12T15:23:10",
+      "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
+      "url": "https://github.com/garritfra/llmtee",
+      "published": "2026-11-11T10:55:46",
       "description": "",
-      "image": "https://opengraph.githubassets.com/5e7056ffea6c150159ba7740edd7ebfc31d3c475056737d0d2f683b1c352f104/hyperionaidev/smolmaxxing",
+      "image": "https://opengraph.githubassets.com/650b160e33bcf1338dda6be4f2e806b810793fb77efc17319843b31cdc9acc34/garritfra/llmtee",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "published": "2026-11-12T21:13:26",
+      "title": "AI Is Destroying the Trust Between Writers and Readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "published": "2026-11-13T11:13:46",
       "description": "",
-      "image": "https://developer.apple.com/news/images/og/foundation-models-framework-og.png",
+      "image": "data/images/8e981da1a115dfcff3b12a8d462f24af.png",
       "summary": "Summary unavailable."
     }
   ],
