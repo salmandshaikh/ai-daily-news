@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T00:30:59.397560",
+  "updated": "2026-11-14T11:01:11.490818",
   "articles": [
     {
       "source": "RSS",
@@ -154,21 +154,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "published": "2026-11-13T22:04:24",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "published": "2026-11-14T02:52:59",
       "description": "",
-      "image": "data/images/f8fb021d5ca18d015fc4eef9c044a7e8.png",
+      "image": "data/images/b625c9c4d72920b0a9da998c69435d99.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "published": "2026-11-12T22:03:09",
+      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "published": "2026-11-13T15:08:44",
       "description": "",
-      "image": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
+      "image": "data/images/539bbe431a5f2430cdfe5794a1f2603f.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "published": "2026-11-13T22:04:24",
+      "description": "",
+      "image": "data/images/f8fb021d5ca18d015fc4eef9c044a7e8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -194,41 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "published": "2026-11-10T19:07:53",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/9524e1bdd758a9e6dcea9ae09b301139acf0b757525f20dc0c19facb28fe9bb0/0xdeadf1sh/T1DMAI",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "published": "2026-11-12T22:03:09",
+      "description": "",
+      "image": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
       "url": "https://atg.science/careers",
       "published": "2026-11-13T21:01:11",
       "description": "",
       "image": "https://atg.science/social-card.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "All US airports are currently ground stopped",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "published": "2026-11-13T21:06:52",
-      "description": "",
-      "image": "https://pbs.twimg.com/media/HXCKbbLWsAA7R_n?format=webp&name=large",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Doc-foundry \u2013 AI writes Security detection rules, then proves they work",
-      "url": "https://github.com/mjha-arya/DOC-foundry",
-      "published": "2026-11-13T23:40:12",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/4d31633875bbc59526d09bf1a80f4eb873a90dba8f2016fdf2f57dce1c793e4b/mjha-arya/DOC-foundry",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "published": "2026-11-13T17:30:10",
-      "description": "",
-      "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
       "summary": "Summary unavailable."
     }
   ],
