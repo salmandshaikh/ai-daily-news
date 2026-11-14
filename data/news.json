@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:50:25.953157",
+  "updated": "2026-11-14T00:30:59.397560",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,16 @@
       "published": "Fri, 13 Nov 2026 15:00:00 GMT",
       "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "image": "data/images/170645ac4b0ab2367f7cf72ab88470e4.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "image": "data/images/4be73fc5e925a35632d7074cfc2001d5.png",
       "summary": "Summary unavailable."
     },
     {
@@ -39,16 +49,6 @@
       "published": "Thu, 12 Nov 2026 09:30:00 GMT",
       "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "image": "data/images/82ac424adc9b5e122d4e92a1f00a4d43.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Supporting research on AI and children\u2019s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "description": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "published": "2026-11-13T22:04:24",
+      "description": "",
+      "image": "data/images/f8fb021d5ca18d015fc4eef9c044a7e8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "published": "2026-11-12T22:03:09",
@@ -174,68 +184,58 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "published": "2026-11-13T19:24:47",
+      "description": "",
+      "image": "data/images/c8e440d95d4ef5d6df8d34a667f08e46.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "published": "2026-11-13T21:01:11",
+      "description": "",
+      "image": "https://atg.science/social-card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "published": "2026-11-13T21:06:52",
+      "description": "",
+      "image": "https://pbs.twimg.com/media/HXCKbbLWsAA7R_n?format=webp&name=large",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Doc-foundry \u2013 AI writes Security detection rules, then proves they work",
+      "url": "https://github.com/mjha-arya/DOC-foundry",
+      "published": "2026-11-13T23:40:12",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/4d31633875bbc59526d09bf1a80f4eb873a90dba8f2016fdf2f57dce1c793e4b/mjha-arya/DOC-foundry",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
       "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "published": "2026-11-13T17:30:10",
       "description": "",
       "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
-      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
-      "published": "2026-11-13T15:52:04",
-      "description": "",
-      "image": "data/images/65ccf873e58d75dfca280e998cb46280.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "published": "2026-11-13T10:18:13",
-      "description": "",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "published": "2026-11-13T17:55:23",
-      "description": "",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
-      "url": "https://github.com/garritfra/llmtee",
-      "published": "2026-11-11T10:55:46",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/650b160e33bcf1338dda6be4f2e806b810793fb77efc17319843b31cdc9acc34/garritfra/llmtee",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI Is Destroying the Trust Between Writers and Readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "published": "2026-11-13T11:13:46",
-      "description": "",
-      "image": "data/images/8e981da1a115dfcff3b12a8d462f24af.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "speakers": [
       "Alex",
       "Jordan"
