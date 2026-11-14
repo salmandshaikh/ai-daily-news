@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T17:21:56.790692",
+  "updated": "2026-11-14T23:28:11.680213",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,26 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "published": "2026-11-14T17:43:10",
+      "description": "",
+      "image": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "published": "2026-11-11T14:32:09",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Generative AI uses more energy on non-English text",
       "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
       "published": "2026-11-10T15:07:28",
@@ -169,36 +189,6 @@
       "published": "2026-11-14T12:45:45",
       "description": "",
       "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-      "published": "2026-11-14T14:09:25",
-      "description": "",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "published": "2026-11-14T02:52:59",
-      "description": "",
-      "image": "data/images/b625c9c4d72920b0a9da998c69435d99.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
-      "published": "2026-11-10T19:07:53",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/c3dd80f64b8f94553b742164d1bf0705f5f91a9db99843c6277d15e66b394c73/0xdeadf1sh/T1DMAI",
       "summary": "Summary unavailable."
     }
   ],
