@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:01:11.490818",
+  "updated": "2026-11-14T17:21:56.790692",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,36 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "published": "2026-11-10T15:07:28",
+      "description": "",
+      "image": "data/images/60dd8ff29f98b760dddd06aba1bf0839.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "published": "2026-11-14T12:45:45",
+      "description": "",
+      "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "published": "2026-11-14T14:09:25",
+      "description": "",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "published": "2026-11-14T02:52:59",
@@ -164,71 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "published": "2026-11-13T15:08:44",
-      "description": "",
-      "image": "data/images/539bbe431a5f2430cdfe5794a1f2603f.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "published": "2026-11-13T22:04:24",
-      "description": "",
-      "image": "data/images/f8fb021d5ca18d015fc4eef9c044a7e8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "url": "https://haddyalchaer.com/jepa",
-      "published": "2026-11-13T17:55:28",
-      "description": "",
-      "image": "https://haddyalchaer.com/images/stories/jepa-thumbs/planning.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "published": "2026-11-13T19:24:47",
-      "description": "",
-      "image": "data/images/c8e440d95d4ef5d6df8d34a667f08e46.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
       "url": "https://github.com/0xdeadf1sh/T1DMAI",
       "published": "2026-11-10T19:07:53",
       "description": "",
-      "image": "https://opengraph.githubassets.com/9524e1bdd758a9e6dcea9ae09b301139acf0b757525f20dc0c19facb28fe9bb0/0xdeadf1sh/T1DMAI",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "published": "2026-11-12T22:03:09",
-      "description": "",
-      "image": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "published": "2026-11-13T21:01:11",
-      "description": "",
-      "image": "https://atg.science/social-card.png",
+      "image": "https://opengraph.githubassets.com/c3dd80f64b8f94553b742164d1bf0705f5f91a9db99843c6277d15e66b394c73/0xdeadf1sh/T1DMAI",
       "summary": "Summary unavailable."
     }
   ],
