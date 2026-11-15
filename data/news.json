@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T11:35:26.279105",
+  "updated": "2026-11-15T18:02:25.511454",
   "articles": [
     {
       "source": "RSS",
@@ -154,51 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "published": "2026-11-15T14:46:58",
+      "description": "",
+      "image": "data/images/14049a64cae34abc3bf53a7154256325.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "published": "2026-11-15T12:14:06",
+      "description": "",
+      "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What thousands of conversations look like inside a language model",
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "published": "2026-11-13T10:26:01",
+      "description": "",
+      "image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "url": "https://www.crissyfield.de/research/lovable-en/",
       "published": "2026-11-14T17:43:10",
       "description": "",
       "image": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "500 Lines or Less A 3D Modeller",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "published": "2026-11-13T13:47:42",
-      "description": "",
-      "image": "data/images/a23b2003980d0b3bd01dcde216542902.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Kiri \u2013 The Modern Container Runtime",
-      "url": "https://runkiri.com/",
-      "published": "2026-11-15T04:40:41",
-      "description": "",
-      "image": "https://runkiri.com/assets/og-image.png?v=2",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "published": "2026-11-15T04:39:25",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/ceeb49d18c457a4b65237eb170461b6aea55ca715bf1f16512f25f029ee7ad7b/matheuzgomes/gawain",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "published": "2026-11-10T15:07:28",
-      "description": "",
-      "image": "data/images/60dd8ff29f98b760dddd06aba1bf0839.png",
       "summary": "Summary unavailable."
     }
   ],
