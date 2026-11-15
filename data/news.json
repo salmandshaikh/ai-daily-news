@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-15T18:02:25.511454",
+  "updated": "2026-11-15T23:37:16.722031",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published": "Sun, 15 Nov 2026 22:00:01 GMT",
+      "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "image": "data/images/9daa2a9d389374b48410ea2d50260299.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "published": "Sun, 15 Nov 2026 22:00:00 GMT",
+      "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "image": "data/images/4252405fdb7bde3e0314d70297f66bb9.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -29,26 +49,6 @@
       "published": "Thu, 12 Nov 2026 20:00:00 GMT",
       "description": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "image": "data/images/670cc69c4ffdefa3cb2d6ae5cf273380.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "published": "Thu, 12 Nov 2026 12:00:00 GMT",
-      "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work.",
-      "image": "data/images/209670b3bd3ba9499bc733d96f09781c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "published": "Thu, 12 Nov 2026 09:30:00 GMT",
-      "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "image": "data/images/82ac424adc9b5e122d4e92a1f00a4d43.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,11 +154,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "published": "2026-11-15T14:46:58",
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "published": "2026-11-15T18:23:21",
       "description": "",
-      "image": "data/images/14049a64cae34abc3bf53a7154256325.png",
+      "image": "data/images/8c1b960f9cde2af0e6e197b7f4b62c8b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
+      "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+      "published": "2026-11-15T23:12:38",
+      "description": "",
+      "image": "data/images/e4f18a9b85413b25b5a11220dc41fe93.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "published": "2026-11-15T17:53:31",
+      "description": "",
+      "image": "data/images/f68a362d6219f6beb9de2cffaefc112a.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "published": "2026-11-15T20:20:05",
+      "description": "",
+      "image": "https://baron.by.dai.studio/og-image.png",
       "summary": "Summary unavailable."
     },
     {
@@ -168,27 +198,47 @@
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
       "published": "2026-11-15T12:14:06",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!UHlM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a036907-4c1e-473b-8d82-20f2c777df5f_2912x1632.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "What thousands of conversations look like inside a language model",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "published": "2026-11-13T10:26:01",
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "published": "2026-11-15T20:37:28",
       "description": "",
-      "image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
+      "image": "https://cdn.mos.cms.futurecdn.net/XL5t5tMQrJym2bu9ujg5Um-2560-80.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "published": "2026-11-14T17:43:10",
+      "title": "Keylogger Detection and Containment [pdf]",
+      "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
+      "published": "2026-11-14T00:10:15",
       "description": "",
-      "image": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+      "published": "2026-11-15T21:38:11",
+      "description": "",
+      "image": "data/images/67f401d2d685919af5e8d5721c6e9d25.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "published": "2026-11-15T14:46:58",
+      "description": "",
+      "image": "data/images/14049a64cae34abc3bf53a7154256325.png",
       "summary": "Summary unavailable."
     }
   ],
