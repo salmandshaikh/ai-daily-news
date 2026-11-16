@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-16T12:08:19.891375",
+  "updated": "2026-11-16T23:53:34.397691",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "description": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "image": "data/images/24d1e2245ac5f91c70b6a52152140b34.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "description": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "image": "data/images/ec82d45298401264848ee789f507c61b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "published": "Mon, 16 Nov 2026 12:00:00 GMT",
+      "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "image": "data/images/ec8a588f2410f1e2854c57b376a88398.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -14,41 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "published": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "description": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "image": "data/images/a975476c3084be170d6adc2afa0b6c07.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "published": "Sun, 15 Nov 2026 22:00:01 GMT",
-      "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "image": "data/images/9daa2a9d389374b48410ea2d50260299.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "published": "Sun, 15 Nov 2026 22:00:00 GMT",
-      "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "image": "data/images/4252405fdb7bde3e0314d70297f66bb9.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "published": "Fri, 13 Nov 2026 15:00:00 GMT",
-      "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "image": "data/images/170645ac4b0ab2367f7cf72ab88470e4.png",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "description": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "image": "data/images/fd2e385703b21a54048a9bed4a84b292.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/b0fae3324b0480235c9e3f82dd8d4d8e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "published": "Fri, 13 Nov 2026 18:00:39 GMT",
@@ -142,53 +152,43 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "published": "2026-11-16T22:14:38",
       "description": "",
-      "image": "data/images/5a5134433ed24cc6980bcfa6ef1669bb.png",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304760060.jpg?c=16x9&q=w_800,c_fill",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Doing Show HN generates a ton of automated email pitches",
-      "url": "https://petervandijck.com/post/pbrgs-ev0bc",
-      "published": "2026-11-16T11:00:02",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "published": "2026-11-16T13:18:22",
       "description": "",
-      "image": "https://petervandijck.com/og-image/00a9b51a2f41c7a2f0e4ce6d2743cc9c.jpeg",
+      "image": "https://image.theregister.com/254046.jpg?imageId=254046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "published": "2026-11-16T00:21:54",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "published": "2026-11-16T21:47:19",
       "description": "",
-      "image": "https://forum.torproject.org/uploads/default/original/2X/d/d3424bed34f4ec18b2e99178c2801ba6dfb655d6.png",
+      "image": "data/images/6e544d440cc97b8af5e2f6606641d67a.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A short explainer on how El Ni\u00f1o works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "published": "2026-11-15T18:23:21",
+      "title": "Strengthening the fight against online child sexual abuse",
+      "url": "https://openai.com/index/strengthening-online-child-safety/",
+      "published": "2026-11-16T18:12:48",
       "description": "",
-      "image": "data/images/8c1b960f9cde2af0e6e197b7f4b62c8b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "url": "https://baron.by.dai.studio/",
-      "published": "2026-11-15T20:20:05",
-      "description": "",
-      "image": "https://baron.by.dai.studio/og-image.png",
+      "image": "data/images/5ce6e4229fd1e08349377895a7d1e4dd.png",
       "summary": "Summary unavailable."
     }
   ],
