@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T23:37:16.722031",
+  "updated": "2026-11-16T03:18:38.624599",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "published": "2026-11-16T00:21:54",
+      "description": "",
+      "image": "https://forum.torproject.org/uploads/default/original/2X/d/d3424bed34f4ec18b2e99178c2801ba6dfb655d6.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "A short explainer on how El Ni\u00f1o works [video]",
       "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "published": "2026-11-15T18:23:21",
       "description": "",
       "image": "data/images/8c1b960f9cde2af0e6e197b7f4b62c8b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-      "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
-      "published": "2026-11-15T23:12:38",
-      "description": "",
-      "image": "data/images/e4f18a9b85413b25b5a11220dc41fe93.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "published": "2026-11-15T17:53:31",
-      "description": "",
-      "image": "data/images/f68a362d6219f6beb9de2cffaefc112a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,48 +194,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-      "published": "2026-11-15T20:37:28",
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "url": "https://www.hntrends.com/2026/november.html",
+      "published": "2026-11-16T01:31:30",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/XL5t5tMQrJym2bu9ujg5Um-2560-80.jpg",
+      "image": "https://www.hntrends.com/images/202611-ask-hn-who-is-hiring-tot.png?v=2",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Keylogger Detection and Containment [pdf]",
-      "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
-      "published": "2026-11-14T00:10:15",
+      "title": "Agentic AI Designs an Analog Synthesizer",
+      "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+      "published": "2026-11-16T01:28:10",
       "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-      "published": "2026-11-15T21:38:11",
-      "description": "",
-      "image": "data/images/67f401d2d685919af5e8d5721c6e9d25.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "published": "2026-11-15T14:46:58",
-      "description": "",
-      "image": "data/images/14049a64cae34abc3bf53a7154256325.png",
+      "image": "https://cpldcpu.github.io/2026/11/14/touchsynth/featured.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "speakers": [
       "Alex",
       "Jordan"
