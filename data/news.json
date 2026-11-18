@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-18T01:55:45.085779",
+  "updated": "2026-11-18T12:22:38.404056",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "image": "data/images/dbd6f74deb920ad1cd288f591389a682.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Tue, 17 Nov 2026 00:00:00 GMT",
       "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "image": "data/images/00d5825c89a2f11f9b9ac83c9dda8556.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,21 +154,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT\u20116.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "published": "2026-11-17T17:46:43",
-      "description": "",
-      "image": "data/images/43f652a3444ef97b6b04a82ad42b44f2.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Google's AI answers reducing search traffic by 40%",
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "published": "2026-11-18T00:17:58",
       "description": "",
       "image": "data/images/32b8a739a3f433307dafa0ff2a04c43d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "I had AI read my entire field, Theoretical Astrophysics",
+      "url": "https://science.caseyhandmer.com/physics/",
+      "published": "2026-11-18T11:45:02",
+      "description": "",
+      "image": "data/images/08229b4ea2528f191feaa10a12005b5b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +184,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Fun with Constrained Programming",
-      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
-      "published": "2026-11-15T02:45:57",
-      "description": "",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs_zwdJB0z6m0zNan2AByCACR0GuCCrvvXbjcZHkT8jyihlCGjGNL3ya8htZS-dVcZVWtxg_Ek0lwPyhDecI2Ln_Lq_5SZ5Aa4zZul6wav3SOrh8Xp28aEYjtdcxtjKtdrGVL_4txtvA/w1200-h630-p-k-no-nu/winrar_fail_crc.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "published": "2026-11-17T21:16:12",
       "description": "",
       "image": "https://complexdiscovery.com/wp-content/uploads/2026/10/AI-Report-One.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "published": "2026-11-18T06:47:26",
+      "description": "",
+      "image": "data/images/b158dba75f5b937e6be64f38633df823.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "published": "2026-11-18T03:47:43",
+      "description": "",
+      "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "published": "2026-11-17T17:46:43",
+      "description": "",
+      "image": "data/images/43f652a3444ef97b6b04a82ad42b44f2.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,21 +234,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Not Everything Needs an LLM",
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "published": "2026-11-17T18:16:18",
+      "title": "Fun with Constrained Programming (2012)",
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "published": "2026-11-15T02:45:57",
       "description": "",
-      "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Latent Lattice Language Models",
-      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-      "published": "2026-11-17T22:17:18",
-      "description": "",
-      "image": "data/images/119cd578de4f36598e2ba067226e514e.png",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
       "summary": "Summary unavailable."
     }
   ],
