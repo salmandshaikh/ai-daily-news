@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-17T17:07:54.161942",
+  "updated": "2026-11-18T01:55:45.085779",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "description": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "image": "data/images/d23090748707f116429f245b957da80c.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -14,41 +24,31 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "image": "data/images/60110431bff5056a2a5a2eb6a7728894.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT",
       "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "image": "data/images/00d5825c89a2f11f9b9ac83c9dda8556.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "published": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "description": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "image": "data/images/24d1e2245ac5f91c70b6a52152140b34.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "published": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "description": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "image": "data/images/ec82d45298401264848ee789f507c61b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "published": "Mon, 16 Nov 2026 12:00:00 GMT",
-      "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "image": "data/images/ec8a588f2410f1e2854c57b376a88398.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,6 +154,56 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "published": "2026-11-17T17:46:43",
+      "description": "",
+      "image": "data/images/43f652a3444ef97b6b04a82ad42b44f2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "published": "2026-11-18T00:17:58",
+      "description": "",
+      "image": "data/images/32b8a739a3f433307dafa0ff2a04c43d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "published": "2026-11-17T18:25:13",
+      "description": "",
+      "image": "https://microsoft.ai/wp-content/uploads/2026/11/MAI-Code-2-Ignite-WithHeader-16x9-1.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Fun with Constrained Programming",
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "published": "2026-11-15T02:45:57",
+      "description": "",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs_zwdJB0z6m0zNan2AByCACR0GuCCrvvXbjcZHkT8jyihlCGjGNL3ya8htZS-dVcZVWtxg_Ek0lwPyhDecI2Ln_Lq_5SZ5Aa4zZul6wav3SOrh8Xp28aEYjtdcxtjKtdrGVL_4txtvA/w1200-h630-p-k-no-nu/winrar_fail_crc.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "published": "2026-11-17T21:16:12",
+      "description": "",
+      "image": "https://complexdiscovery.com/wp-content/uploads/2026/10/AI-Report-One.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "What is the best harness for each model?",
       "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
       "published": "2026-11-17T14:53:43",
@@ -164,38 +214,28 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Elephant-Goldfish Model",
-      "url": "https://egm.dev/",
-      "published": "2026-11-16T08:23:28",
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "published": "2026-11-17T18:16:18",
       "description": "",
-      "image": "https://egm.dev/og.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-      "published": "2026-11-16T13:18:22",
+      "title": "Latent Lattice Language Models",
+      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "published": "2026-11-17T22:17:18",
       "description": "",
-      "image": "https://image.theregister.com/254046.jpg?imageId=254046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "published": "2026-11-17T14:19:59",
-      "description": "",
-      "image": "data/images/d46c93a520266f0f20096fc21bd65fc2.png",
+      "image": "data/images/119cd578de4f36598e2ba067226e514e.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "speakers": [
       "Alex",
       "Jordan"
