@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:44:34.497382",
+  "updated": "2026-11-19T04:37:42.102605",
   "articles": [
     {
       "source": "RSS",
@@ -9,6 +9,26 @@
       "published": "Wed, 18 Nov 2026 10:00:00 GMT",
       "description": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "image": "data/images/9fb36d76419639e4699ef0ff8a78eb62.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "image": "data/images/cbc918801dab38d8737e7fd1f91bbb0c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "image": "data/images/c2db1123dfe184a963eb1abe4a7b17cc.png",
       "summary": "Summary unavailable."
     },
     {
@@ -29,26 +49,6 @@
       "published": "Wed, 18 Nov 2026 06:00:00 GMT",
       "description": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
       "image": "data/images/b208d150d208421a7108d2cbd8b10fe1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "image": "data/images/dbd6f74deb920ad1cd288f591389a682.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "description": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
-      "image": "data/images/a64363ec32d025f9f5881311f597633d.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,16 +164,6 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "published": "2026-11-18T19:39:16",
-      "description": "",
-      "image": "https://www.radixark.com/images/daisyrose-27b/hero.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "published": "2026-11-18T15:49:34",
@@ -184,11 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "published": "2026-11-18T17:45:47",
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "published": "2026-11-18T22:29:13",
       "description": "",
-      "image": "data/images/a64363ec32d025f9f5881311f597633d.png",
+      "image": "https://www.slowchronicle.com/og-default.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "DaisyRose-27B",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "published": "2026-11-18T19:39:16",
+      "description": "",
+      "image": "https://www.radixark.com/images/daisyrose-27b/hero.png",
       "summary": "Summary unavailable."
     },
     {
@@ -204,18 +204,48 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-      "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-      "published": "2026-11-18T18:53:17",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "published": "2026-11-18T17:45:47",
       "description": "",
-      "image": "https://tin.computer/opengraph-image",
+      "image": "data/images/a64363ec32d025f9f5881311f597633d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "url": "https://arxiv.org/abs/2607.29378",
+      "published": "2026-11-19T01:27:02",
+      "description": "",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL",
+      "url": "https://github.com/Ri4dH/failtrace",
+      "published": "2026-11-19T01:30:43",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/faa2b137b0d8f8df33c5804a63a547402029ac4e33d2e639e86073ad4b27ff7a/Ri4dH/failtrace",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI will not make you rich (2025)",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "published": "2026-11-19T01:51:28",
+      "description": "",
+      "image": "https://colossus.com/wp-content/uploads/2025/09/Neumann-preview-card.jpg",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "speakers": [
       "Alex",
       "Jordan"
