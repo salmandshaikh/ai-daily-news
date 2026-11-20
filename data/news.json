@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T01:29:27.356261",
+  "updated": "2026-11-20T12:16:50.735246",
   "articles": [
     {
       "source": "RSS",
@@ -154,11 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "published": "2026-11-19T23:35:35",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "published": "2026-11-20T10:01:41",
       "description": "",
-      "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
+      "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "published": "2026-11-20T09:43:19",
+      "description": "",
+      "image": "http://kottke.org/plus/misc/images/feynman-blackboard.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "What people are building, discovered through new domains",
+      "url": "https://startups.novumsignals.com/",
+      "published": "2026-11-20T09:54:33",
+      "description": "",
+      "image": "data/images/fb9de0a0890950709c20adcef79e0037.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "published": "2026-11-19T15:38:12",
+      "description": "",
+      "image": "data/images/b6029d1c5377c4460e9f561bb03e6f49.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "published": "2026-11-17T22:11:46",
+      "description": "",
+      "image": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -169,46 +209,6 @@
       "published": "2026-11-19T18:35:17",
       "description": "",
       "image": "https://globalcommercegraph.com/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "published": "2026-11-19T18:47:16",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "published": "2026-11-19T05:09:11",
-      "description": "",
-      "image": "https://verialabs.com/og/ruby2shell.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
-      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
-      "published": "2026-11-17T19:35:12",
-      "description": "",
-      "image": "data/images/fc73a33c264c4bfbf1eecfa893d05376.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "published": "2026-11-19T15:38:12",
-      "description": "",
-      "image": "data/images/0a72583b0136af3d8ca6503be839340c.png",
       "summary": "Summary unavailable."
     }
   ],
