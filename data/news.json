@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-20T12:16:50.735246",
+  "updated": "2026-11-20T22:24:54.525515",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "description": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "image": "data/images/77697fa65d19bf20b1032fe957059532.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "image": "data/images/6752c588a051410d7bb511c8ef6f0e2c.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "image": "data/images/8498d8ddbbe93189209afe53ddb070b8.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -14,41 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "description": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "description": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "image": "data/images/99ae415cd754060238bdffd10093f427.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
       "title": "Explore the Codex Security Plugin",
       "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "published": "Thu, 19 Nov 2026 00:00:00 GMT",
       "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "image": "data/images/b193b0566e5f989940aa0b0dec305d2d.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "description": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "image": "data/images/69154c5055ed1d3594b2db9e53734173.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,26 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/596f7bed7cb97449ed60fd69b4d9ab0d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/906eee79a7d97981566b0110e3cc321e.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "published": "Wed, 18 Nov 2026 19:54:56 GMT",
@@ -132,33 +152,23 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "published": "2026-11-20T14:16:21",
       "description": "",
-      "image": "data/images/8414301d4ddd49e855d48432c41e6a75.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "url": "https://huggingface.co/blog/rumble-2-flash",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/4c8672f8c5e93ac19411d84f60c3bc28.png",
+      "image": "data/images/e79d0f67b15b4dfba75af916bf844e6c.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "published": "2026-11-20T10:01:41",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "published": "2026-11-20T16:29:06",
       "description": "",
-      "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,41 +184,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "What people are building, discovered through new domains",
-      "url": "https://startups.novumsignals.com/",
-      "published": "2026-11-20T09:54:33",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "published": "2026-11-20T10:01:41",
       "description": "",
-      "image": "data/images/fb9de0a0890950709c20adcef79e0037.png",
+      "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "published": "2026-11-19T15:38:12",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "published": "2026-11-17T01:03:05",
       "description": "",
-      "image": "data/images/b6029d1c5377c4460e9f561bb03e6f49.png",
+      "image": "https://kobi.music/og.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
-      "published": "2026-11-17T22:11:46",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "published": "2026-11-20T16:59:27",
       "description": "",
-      "image": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "published": "2026-11-19T18:35:17",
-      "description": "",
-      "image": "https://globalcommercegraph.com/og-image.png",
+      "image": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
       "summary": "Summary unavailable."
     }
   ],
