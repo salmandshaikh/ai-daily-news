@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T04:21:50.217899",
+  "updated": "2026-11-21T15:42:30.329975",
   "articles": [
     {
       "source": "RSS",
@@ -164,11 +164,41 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "published": "2026-11-18T14:15:58",
+      "description": "",
+      "image": "data/images/9888adc67f913dad0167e60ad3746465.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "ClawDOS \u2013 An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "published": "2026-11-21T05:38:01",
+      "description": "",
+      "image": "data/images/c027984767e6650c29676c39756528b8.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "url": "https://ninlive.com/",
       "published": "2026-11-20T22:30:47",
       "description": "",
       "image": "https://ninlive.com/static/ninlive-socialshare.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "published": "2026-11-21T06:44:14",
+      "description": "",
+      "image": "data/images/4578e32424e0978b6d5a50c0e9536988.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,51 +214,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "published": "2026-11-20T09:42:16",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "published": "2026-11-20T13:29:59",
       "description": "",
-      "image": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "published": "2026-11-14T09:13:24",
-      "description": "",
-      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/airbus-a321xlr.png?w=1600&h=900&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "url": "https://kobi.music/research/dettato",
-      "published": "2026-11-17T01:03:05",
-      "description": "",
-      "image": "https://kobi.music/og.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "published": "2026-11-20T22:18:20",
-      "description": "",
-      "image": "data/images/ac9b1147ec50e276b3c2c1a49cb71ae1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-      "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-      "published": "2026-11-21T00:33:40",
-      "description": "",
-      "image": "https://spectrum.ieee.org/media-library/photo-collage-of-a-mans-face-featuring-glitched-distortions-and-abstract-shapes.jpg?id=68721975&width=1200&height=600&coordinates=143%2C771%2C114%2C609",
+      "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
       "summary": "Summary unavailable."
     }
   ],
