@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T04:08:30.754264",
+  "updated": "2026-11-23T19:33:06.811993",
   "articles": [
     {
       "source": "RSS",
@@ -54,6 +54,16 @@
     {
       "source": "RSS",
       "source_name": "Google DeepMind News",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "published": "Mon, 23 Nov 2026 16:59:40 +0000",
+      "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "image": "data/images/93eab2ca7954ab797fdf1be7e7b83cf9.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Google DeepMind News",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "published": "Wed, 18 Nov 2026 21:35:43 +0000",
@@ -93,12 +103,22 @@
     },
     {
       "source": "RSS",
-      "source_name": "Google DeepMind News",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "published": "Tue, 10 Nov 2026 16:03:47 +0000",
+      "source_name": "Hugging Face - Blog",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "Mon, 23 Nov 2026 17:20:37 GMT",
       "description": "",
-      "image": "data/images/61a2715234ba00eedc7f701db947dc69.png",
+      "image": "data/images/3b357750efa43baca1e4cf0820fb3b69.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/a8e24dd1a6f4901b0c0840412b9940eb.png",
       "summary": "Summary unavailable."
     },
     {
@@ -132,23 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "published": "Wed, 18 Nov 2026 18:53:43 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "published": "2026-11-23T17:17:01",
       "description": "",
-      "image": "data/images/b6d05f0342871f21f84a74f1d80af469.png",
+      "image": "https://blog.kagi.com/og-image.png",
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "published": "Wed, 18 Nov 2026 15:00:23 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "published": "2026-11-23T17:07:26",
       "description": "",
-      "image": "data/images/9a06f2bb9a7b5144af67052f636bd215.png",
+      "image": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "How should an LLM see a computer?",
+      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "published": "2026-11-23T17:19:25",
+      "description": "",
+      "image": "https://greptile.com/opengraph/greptile-blog.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,41 +194,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
-      "published": "2026-11-22T13:56:58",
+      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+      "published": "2026-11-20T20:57:16",
       "description": "",
-      "image": "https://opengraph.githubassets.com/f1585e210a1e70c0a3b88466ec5435d17319917d61078531dc77f291b17e560e/gulivan/worker755",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
-      "url": "https://0rwx.com/",
-      "published": "2026-11-22T23:53:00",
-      "description": "",
-      "image": "data/images/aecc9dc42c8fc43f832ceacc3f4db618.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Verifying formal models of Raft implementations",
-      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
-      "published": "2026-11-20T16:33:22",
-      "description": "",
-      "image": "https://antithesis.com/optimized-images/8c536331fc12eb06f747ed05364222576cff38e29f13d352e19d6d6dc50cce12.jpeg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Harvard CS 2881R AI Safety",
-      "url": "https://boazbk.github.io/mltheoryseminar/",
-      "published": "2026-11-22T18:01:54",
-      "description": "",
-      "image": "data/images/24e346e7960df6985d44d91717c87b64.png",
+      "image": "https://elementdigital.com.au/_astro/brake-check-trailer-brakes-over-bluetooth.DnATki-Y.jpg",
       "summary": "Summary unavailable."
     }
   ],
