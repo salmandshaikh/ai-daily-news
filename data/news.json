@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-24T04:29:10.771359",
+  "updated": "2026-11-24T19:08:34.102882",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/index/ifood",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/5f0cc1c4f50c097af382064f03b9572b.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -39,16 +49,6 @@
       "published": "Sun, 22 Nov 2026 00:00:00 GMT",
       "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "image": "data/images/e6697976c0ee8287cf2d4ad714cbb578.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "description": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "image": "data/images/77697fa65d19bf20b1032fe957059532.png",
       "summary": "Summary unavailable."
     },
     {
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published": "Tue, 24 Nov 2026 16:34:13 GMT",
+      "description": "",
+      "image": "data/images/0920993fb23ce41e801491517c463eec.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "url": "https://huggingface.co/blog/allenai/robotrack",
       "published": "Mon, 23 Nov 2026 17:20:37 GMT",
@@ -142,53 +152,63 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "published": "Wed, 18 Nov 2026 19:54:56 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "published": "2026-11-24T16:32:17",
       "description": "",
-      "image": "data/images/fdf9773a3adac578e10acca19ea6b1f6.png",
+      "image": "https://cdn.prod.website-files.com/667dd40ebb8095e89f27565d/6b00b96c7176ac8c286ffb00_GreyNoise-Blog-Check-Point-1600x900.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-      "published": "2026-11-23T17:07:26",
+      "title": "OpenAI Reveals they solved VP \u2260 VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "published": "2026-11-24T18:55:12",
       "description": "",
-      "image": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
+      "image": "https://opengraph.githubassets.com/3c12c09028fe4c0695c5864e124210fd47f5c2e2e77b4797f3972a3d80aeaa2e/openai/math",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "url": "https://arxiv.org/abs/2602.20031",
-      "published": "2026-11-23T22:29:48",
+      "title": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "published": "2026-11-24T15:03:40",
       "description": "",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "image": "https://repository-images.githubusercontent.com/1465322684/f6c97c41-6e40-4e48-83c6-1b20210672d6",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-      "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
-      "published": "2026-11-24T03:16:58",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "published": "2026-11-24T17:00:55",
       "description": "",
-      "image": "https://juncts.com/og-image.png",
+      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/8c055073-ed97-4980-a925-eecf79fbde90/89560b07-0c51-4946-9d59-1e98694a0a99/f444bc50-13b7-4a53-97ed-89e1897a760b.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kagi Mail (public beta)",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-      "published": "2026-11-23T17:17:01",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "published": "2026-11-24T12:40:15",
       "description": "",
-      "image": "https://blog.kagi.com/og-image.png",
+      "image": "https://michaelharley.net/assets/images/open-graph-image.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Anthropic Staff Openly Talk About \u2018Taking Over the World\u2019, Claims Max Tegmark",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "published": "2026-11-24T17:10:45",
+      "description": "",
+      "image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
       "summary": "Summary unavailable."
     }
   ],
