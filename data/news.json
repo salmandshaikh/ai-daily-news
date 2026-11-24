@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-23T19:33:06.811993",
+  "updated": "2026-11-24T04:29:10.771359",
   "articles": [
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "image": "data/images/ccb39c4211a06328a223afb674a051eb.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "description": "Watch OpenAI\u2019s Stacey Wang and Craig Bruney, Mary O\u2019Carroll of LECG, and Cooley\u2019s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "image": "data/images/977d4a3f4d84cbf8fafb7aa7f8267ac1.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "image": "data/images/40655efb1ded4b18ea2b5e4f7ce15d0e.png",
+      "summary": "Summary unavailable."
+    },
     {
       "source": "RSS",
       "source_name": "OpenAI News",
@@ -19,36 +49,6 @@
       "published": "Fri, 20 Nov 2026 10:00:00 GMT",
       "description": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "image": "data/images/77697fa65d19bf20b1032fe957059532.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "image": "data/images/6752c588a051410d7bb511c8ef6f0e2c.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "image": "data/images/8498d8ddbbe93189209afe53ddb070b8.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "image": "data/images/41747255768bc48668a994f9295c98c8.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,17 +154,7 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Kagi Mail (public beta)",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-      "published": "2026-11-23T17:17:01",
-      "description": "",
-      "image": "https://blog.kagi.com/og-image.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
       "url": "https://twitter.com/ylecun/status/2124550037912920090",
       "published": "2026-11-23T17:07:26",
       "description": "",
@@ -174,38 +164,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "How should an LLM see a computer?",
-      "url": "https://www.greptile.com/blog/trex-computer-use",
-      "published": "2026-11-23T17:19:25",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "published": "2026-11-23T22:29:48",
       "description": "",
-      "image": "https://greptile.com/opengraph/greptile-blog.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "published": "2026-11-22T21:01:16",
+      "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+      "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+      "published": "2026-11-24T03:16:58",
       "description": "",
-      "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
+      "image": "https://juncts.com/og-image.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-      "published": "2026-11-20T20:57:16",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "published": "2026-11-23T17:17:01",
       "description": "",
-      "image": "https://elementdigital.com.au/_astro/brake-check-trailer-brakes-over-bluetooth.DnATki-Y.jpg",
+      "image": "https://blog.kagi.com/og-image.png",
       "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "speakers": [
       "Alex",
       "Jordan"
