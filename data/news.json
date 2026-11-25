@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:13:10.729713",
+  "updated": "2026-11-25T13:40:46.486413",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "description": "",
+      "image": "data/images/c146dd188e458ef1bbf08369ceeaed01.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
       "published": "Tue, 24 Nov 2026 16:34:13 GMT",
@@ -142,13 +152,33 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "published": "2026-11-25T02:34:21",
       "description": "",
-      "image": "data/images/906eee79a7d97981566b0110e3cc321e.png",
+      "image": "data/images/645feb85e83e59727021d90330345add.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "published": "2026-11-24T13:14:37",
+      "description": "",
+      "image": "data/images/87b4c44a5485e7d51bd3ecd394bdb8d2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "published": "2026-11-25T04:31:48",
+      "description": "",
+      "image": "data/images/8e4148fa438c67336c82790241240788.png",
       "summary": "Summary unavailable."
     },
     {
@@ -164,11 +194,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "published": "2026-11-25T04:27:55",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/61dd9339d05701829d0b3241/6afdc01d62cd6e97b94540b6_Elastic%20IP%20adresses%20(1).jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
       "url": "https://greydanus.github.io/2026/11/12/pengpt/",
       "published": "2026-11-25T00:54:49",
       "description": "",
       "image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "published": "2026-11-25T03:47:42",
+      "description": "",
+      "image": "data/images/29f5b52747e7e7ca0ccd98c66fd24b79.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,61 +234,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "published": "2026-11-24T16:32:17",
+      "title": "When in Doubt, Flail About",
+      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+      "published": "2026-11-23T15:45:11",
       "description": "",
-      "image": "https://cdn.prod.website-files.com/667dd40ebb8095e89f27565d/6b00b96c7176ac8c286ffb00_GreyNoise-Blog-Check-Point-1600x900.png",
+      "image": "data/images/472558f90152ce975d83a69a08db34ba.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "published": "2026-11-25T02:34:21",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "published": "2026-11-25T03:01:36",
       "description": "",
-      "image": "data/images/645feb85e83e59727021d90330345add.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
-      "published": "2026-11-23T02:10:39",
-      "description": "",
-      "image": "data/images/19ca539f39e77036a115475da437296a.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe",
-      "published": "2026-11-24T15:03:40",
-      "description": "",
-      "image": "https://repository-images.githubusercontent.com/1465322684/f6c97c41-6e40-4e48-83c6-1b20210672d6",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "published": "2026-11-24T17:00:55",
-      "description": "",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/8c055073-ed97-4980-a925-eecf79fbde90/89560b07-0c51-4946-9d59-1e98694a0a99/f444bc50-13b7-4a53-97ed-89e1897a760b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "published": "2026-11-24T12:40:15",
-      "description": "",
-      "image": "https://michaelharley.net/assets/images/open-graph-image.png",
+      "image": "data/images/e65c9781ce7133f327bed30f9a4a757d.png",
       "summary": "Summary unavailable."
     }
   ],
