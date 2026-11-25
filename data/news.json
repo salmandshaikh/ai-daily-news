@@ -1,11 +1,41 @@
 {
-  "updated": "2026-11-24T19:08:34.102882",
+  "updated": "2026-11-25T03:13:10.729713",
   "articles": [
     {
       "source": "RSS",
       "source_name": "OpenAI News",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "image": "data/images/8595d759c7b0719a85b0a3094b105636.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA\u2019s Kepler and TESS space telescopes.",
+      "image": "data/images/4c3a408aacdfab898535cbdfcf23d58b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "description": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "OpenAI News",
       "title": "How iFood scales coding agents across 15,000 repositories",
-      "url": "https://openai.com/index/ifood",
+      "url": "https://openai.com/business/customer-stories/ifood",
       "published": "Tue, 24 Nov 2026 00:00:00 GMT",
       "description": "",
       "image": "data/images/5f0cc1c4f50c097af382064f03b9572b.png",
@@ -14,41 +44,11 @@
     {
       "source": "RSS",
       "source_name": "OpenAI News",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "published": "Mon, 23 Nov 2026 21:20:00 GMT",
-      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "image": "data/images/ccb39c4211a06328a223afb674a051eb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "description": "Watch OpenAI\u2019s Stacey Wang and Craig Bruney, Mary O\u2019Carroll of LECG, and Cooley\u2019s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "image": "data/images/977d4a3f4d84cbf8fafb7aa7f8267ac1.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "image": "data/images/40655efb1ded4b18ea2b5e4f7ce15d0e.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "OpenAI News",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "published": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "image": "data/images/e6697976c0ee8287cf2d4ad714cbb578.png",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "description": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "image": "data/images/d207e8b8e1cfd47b8f0056c0ba7d1b9b.png",
       "summary": "Summary unavailable."
     },
     {
@@ -154,7 +154,37 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "published": "2026-11-24T20:08:03",
+      "description": "",
+      "image": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "published": "2026-11-25T00:54:49",
+      "description": "",
+      "image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "published": "2026-11-24T21:02:22",
+      "description": "",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Active intrusion campaign against Check Point security management servers",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "published": "2026-11-24T16:32:17",
       "description": "",
@@ -164,11 +194,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI Reveals they solved VP \u2260 VNP before Anthropic",
-      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
-      "published": "2026-11-24T18:55:12",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "published": "2026-11-25T02:34:21",
       "description": "",
-      "image": "https://opengraph.githubassets.com/3c12c09028fe4c0695c5864e124210fd47f5c2e2e77b4797f3972a3d80aeaa2e/openai/math",
+      "image": "data/images/645feb85e83e59727021d90330345add.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+      "published": "2026-11-23T02:10:39",
+      "description": "",
+      "image": "data/images/19ca539f39e77036a115475da437296a.png",
       "summary": "Summary unavailable."
     },
     {
@@ -200,22 +240,12 @@
       "description": "",
       "image": "https://michaelharley.net/assets/images/open-graph-image.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Anthropic Staff Openly Talk About \u2018Taking Over the World\u2019, Claims Max Tegmark",
-      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-      "published": "2026-11-24T17:10:45",
-      "description": "",
-      "image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "speakers": [
       "Alex",
       "Jordan"
