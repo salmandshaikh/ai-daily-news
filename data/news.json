@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:50:31.069794",
+  "updated": "2026-11-26T05:34:08.713860",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "published": "Thu, 26 Nov 2026 05:05:36 GMT",
+      "description": "",
+      "image": "data/images/c1152ae5a5e940a19d54d9500594d41d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Where scientists draw the line on AI agents",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
       "published": "Wed, 25 Nov 2026 18:52:55 GMT",
@@ -134,16 +144,6 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "published": "Tue, 24 Nov 2026 16:34:13 GMT",
-      "description": "",
-      "image": "data/images/0920993fb23ce41e801491517c463eec.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals",
       "published": "Mon, 23 Nov 2026 00:00:00 GMT",
@@ -164,11 +164,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Britain's ghost stations",
-      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-      "published": "2026-11-25T17:43:46",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "published": "2026-11-26T03:36:58",
       "description": "",
-      "image": "https://spectator.com/wp-content/uploads/2026/11/GettyImages-929334326-e1795346317691.jpg",
+      "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "published": "2026-11-25T21:18:02",
+      "description": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Marginal Grains",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "published": "2026-11-24T20:40:18",
+      "description": "",
+      "image": "https://asteriskmag.com/media/pages/issues/16/marginal-grains/cc8de77fbe-1794867526/marginal-grains-thomas-kirk-2-1600x900-crop-sharpen50.png",
       "summary": "Summary unavailable."
     },
     {
@@ -185,7 +205,7 @@
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "speakers": [
       "Alex",
       "Jordan"
