@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T05:34:08.713860",
+  "updated": "2026-11-26T17:56:09.042770",
   "articles": [
     {
       "source": "RSS",
@@ -104,11 +104,31 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "description": "",
+      "image": "data/images/73053799882073dfccaec8b0d481667b.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "published": "Thu, 26 Nov 2026 05:05:36 GMT",
       "description": "",
       "image": "data/images/c1152ae5a5e940a19d54d9500594d41d.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/bff1d3a850692d01a20b811e1ce56925.png",
       "summary": "Summary unavailable."
     },
     {
@@ -132,43 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "published": "Wed, 25 Nov 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/a3f1a00a487b1a1b1ce2b4c3a8e7357b.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "description": "",
-      "image": "data/images/a8e24dd1a6f4901b0c0840412b9940eb.png",
-      "summary": "Summary unavailable."
-    },
-    {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "published": "2026-11-22T16:44:48",
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "published": "2026-11-26T17:16:41",
       "description": "",
-      "image": "data/images/3bb65dc3e5c3d3f9d0369a57dcb345bb.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "published": "2026-11-26T03:36:58",
-      "description": "",
-      "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
+      "image": "data/images/40b6e2b984f67a6db7c74ccf720a97ad.png",
       "summary": "Summary unavailable."
     },
     {
@@ -184,21 +174,21 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Marginal Grains",
-      "url": "https://asteriskmag.com/issues/16/marginal-grains",
-      "published": "2026-11-24T20:40:18",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "published": "2026-11-22T16:44:48",
       "description": "",
-      "image": "https://asteriskmag.com/media/pages/issues/16/marginal-grains/cc8de77fbe-1794867526/marginal-grains-thomas-kirk-2-1600x900-crop-sharpen50.png",
+      "image": "data/images/3bb65dc3e5c3d3f9d0369a57dcb345bb.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-      "published": "2026-11-24T06:22:36",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "published": "2026-11-26T05:37:51",
       "description": "",
-      "image": "data/images/1aadbfad9a5b46336ee9c1da62b3f7b7.png",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
     }
   ],
