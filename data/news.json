@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:56:09.042770",
+  "updated": "2026-11-27T02:29:19.776649",
   "articles": [
     {
       "source": "RSS",
@@ -154,31 +154,51 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Tracking Diseases Cured by AI",
-      "url": "https://diseasescuredbyai.com/",
-      "published": "2026-11-26T17:16:41",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "published": "2026-11-26T21:47:45",
       "description": "",
-      "image": "data/images/40b6e2b984f67a6db7c74ccf720a97ad.png",
+      "image": "data/images/508e684dc3a1c2513affcf90496f0470.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "published": "2026-11-25T21:18:02",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "published": "2026-11-26T09:44:23",
       "description": "",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+      "image": "https://techstackups.com/img/articles/google-workspace-agent-api/cover.jpg",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "published": "2026-11-22T16:44:48",
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "published": "2026-11-26T19:04:50",
       "description": "",
-      "image": "data/images/3bb65dc3e5c3d3f9d0369a57dcb345bb.png",
+      "image": "https://chrhenning.com/assets/img/posts/introduction-to-uncertainty/lane-split-og.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "published": "2026-11-27T00:03:18",
+      "description": "",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "published": "2026-11-25T23:15:52",
+      "description": "",
+      "image": "https://media.reclaimthenet.org/images/2026/11/E3oQZkbD6YJg.jpg",
       "summary": "Summary unavailable."
     },
     {
@@ -190,12 +210,22 @@
       "description": "",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "published": "2026-11-26T07:33:12",
+      "description": "",
+      "image": "data/images/99dde6bfcdc5b72a6d3e1ec51fee09cd.png",
+      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "speakers": [
       "Alex",
       "Jordan"
