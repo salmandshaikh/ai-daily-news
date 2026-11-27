@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T02:29:19.776649",
+  "updated": "2026-11-27T13:14:24.170724",
   "articles": [
     {
       "source": "RSS",
@@ -104,6 +104,16 @@
     {
       "source": "RSS",
       "source_name": "Hugging Face - Blog",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "description": "",
+      "image": "data/images/36ad71bdca445a411c70c5c2bd202c74.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "RSS",
+      "source_name": "Hugging Face - Blog",
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "published": "Thu, 26 Nov 2026 11:37:17 GMT",
@@ -142,13 +152,13 @@
       "summary": "Summary unavailable."
     },
     {
-      "source": "RSS",
-      "source_name": "Hugging Face - Blog",
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "published": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "published": "2026-11-27T06:44:34",
       "description": "",
-      "image": "data/images/c146dd188e458ef1bbf08369ceeaed01.png",
+      "image": "data/images/911a34dc63c8e631f6a17e11e9b387d0.png",
       "summary": "Summary unavailable."
     },
     {
@@ -174,6 +184,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "published": "2026-11-27T05:22:06",
+      "description": "",
+      "image": "data/images/dc4cfd954dfce869383d5ff5ea6d03d3.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "An introduction to uncertainty in machine learning",
       "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
       "published": "2026-11-26T19:04:50",
@@ -184,21 +204,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "published": "2026-11-27T00:03:18",
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "published": "2026-11-27T11:41:11",
       "description": "",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "published": "2026-11-25T23:15:52",
-      "description": "",
-      "image": "https://media.reclaimthenet.org/images/2026/11/E3oQZkbD6YJg.jpg",
+      "image": "data/images/fec4016757c773c7d80e4b3a9c856a53.png",
       "summary": "Summary unavailable."
     },
     {
@@ -214,11 +224,11 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "published": "2026-11-26T07:33:12",
+      "title": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "published": "2026-11-25T23:15:52",
       "description": "",
-      "image": "data/images/99dde6bfcdc5b72a6d3e1ec51fee09cd.png",
+      "image": "https://media.reclaimthenet.org/images/2026/11/E3oQZkbD6YJg.jpg",
       "summary": "Summary unavailable."
     }
   ],
