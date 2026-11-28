@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:47:34.793283",
+  "updated": "2026-11-28T05:03:51.849262",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,16 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "published": "2026-11-27T23:06:29",
+      "description": "",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "published": "2026-11-25T15:16:53",
@@ -174,68 +184,38 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "published": "2026-11-27T20:23:14",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/66008ca5ab77b070e86a4d50261156637f68bfdabe73008753ca85b186d4bd3a/skeeto/prospero",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "published": "2026-11-28T01:32:56",
+      "description": "",
+      "image": "data/images/85c1cb9e258c5451250fef8a84926d35.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Michael Nielsen took down his book on neural nets",
       "url": "https://neuralnetworksanddeeplearning.com/",
       "published": "2026-11-27T19:31:01",
       "description": "",
       "image": "data/images/ce873043fe242df66b1b8adc960f579a.png",
       "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-      "url": "https://github.com/skeeto/prospero",
-      "published": "2026-11-27T20:23:14",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/c0dc1e7bf6012064f97383722c9d4e3e965e97cca2b430b7c347790ea8146752/skeeto/prospero",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "published": "2026-11-27T06:44:34",
-      "description": "",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "published": "2026-11-26T21:47:45",
-      "description": "",
-      "image": "data/images/508e684dc3a1c2513affcf90496f0470.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
-      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
-      "published": "2026-11-27T18:59:55",
-      "description": "",
-      "image": "https://runtimenotes.com/og/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "published": "2026-11-27T05:22:06",
-      "description": "",
-      "image": "data/images/dc4cfd954dfce869383d5ff5ea6d03d3.png",
-      "summary": "Summary unavailable."
     }
   ],
   "podcast": {
     "file": "data/podcast/latest.mp3",
     "duration": 13,
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "speakers": [
       "Alex",
       "Jordan"
