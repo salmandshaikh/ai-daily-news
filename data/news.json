@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T05:03:51.849262",
+  "updated": "2026-11-28T16:27:23.558047",
   "articles": [
     {
       "source": "RSS",
@@ -154,6 +154,46 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "published": "2026-11-28T11:57:04",
+      "description": "",
+      "image": "https://malspark.com/blog/malicious-gguf-models-hugging-face/cover.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "If AI takes every job who will buy things?",
+      "url": "https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things",
+      "published": "2026-11-28T16:09:11",
+      "description": "",
+      "image": "data/images/22b376eee904bba61c93b1737d6497f2.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "url": "https://github.com/RiccardoSottini/AffrescoUI",
+      "published": "2026-11-28T14:09:39",
+      "description": "",
+      "image": "https://opengraph.githubassets.com/3900dca7f5a793b5ab420803a9abd8eddcef48053acb98b985cf1a8d4bb4bdaa/RiccardoSottini/AffrescoUI",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "published": "2026-11-24T18:10:45",
+      "description": "",
+      "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1124_kneading.jpg?itok=siwzf8cu",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "published": "2026-11-27T23:06:29",
@@ -164,51 +204,31 @@
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
+      "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+      "url": "https://koppar.ai/blog/lte-modem-bring-up/",
+      "published": "2026-11-28T14:06:19",
+      "description": "",
+      "image": "https://koppar.ai/blog/lte-modem-bring-up/cover.png",
+      "summary": "Summary unavailable."
+    },
+    {
+      "source": "Hacker News",
+      "source_name": "Hacker News",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "published": "2026-11-25T15:16:53",
       "description": "",
-      "image": "data/images/a2238935308bd6091bd512b6cdd6c753.png",
+      "image": "https://substackcdn.com/image/fetch/$s_!mr1c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85c196c7-1cc6-440f-b086-de25bf788ac1_1672x941.png",
       "summary": "Summary unavailable."
     },
     {
       "source": "Hacker News",
       "source_name": "Hacker News",
-      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
-      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
-      "published": "2026-11-24T17:55:27",
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "published": "2026-11-28T15:55:54",
       "description": "",
-      "image": "https://cdn.mos.cms.futurecdn.net/bWFNSFhARwYzmvoxs9obzY-2000-80.jpg",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-      "url": "https://github.com/skeeto/prospero",
-      "published": "2026-11-27T20:23:14",
-      "description": "",
-      "image": "https://opengraph.githubassets.com/66008ca5ab77b070e86a4d50261156637f68bfdabe73008753ca85b186d4bd3a/skeeto/prospero",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
-      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-      "published": "2026-11-28T01:32:56",
-      "description": "",
-      "image": "data/images/85c1cb9e258c5451250fef8a84926d35.png",
-      "summary": "Summary unavailable."
-    },
-    {
-      "source": "Hacker News",
-      "source_name": "Hacker News",
-      "title": "Michael Nielsen took down his book on neural nets",
-      "url": "https://neuralnetworksanddeeplearning.com/",
-      "published": "2026-11-27T19:31:01",
-      "description": "",
-      "image": "data/images/ce873043fe242df66b1b8adc960f579a.png",
+      "image": "https://pbs.twimg.com/profile_images/795819168629198849/SBY3ARvZ_400x400.jpg",
       "summary": "Summary unavailable."
     }
   ],
